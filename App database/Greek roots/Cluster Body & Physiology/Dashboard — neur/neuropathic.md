@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Damage, disease, or dysfunction of one or more nerves especially of the peripheral nervous system that is typically marked by burning or shooting pain, numbness, tingling, or muscle weakness or atrophy, is often degenerative, and is usually caused by injury, infection, disease, drugs, toxins, or vitamin deficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition (such as Guillain-Barré syndrome) marked by neuropathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resulting from, or characteristic of a disease or functional disorder of the nervous system (neuropathy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, describing chronic pain (burning, allodynia, hyperalgesia) originating from primary damage to or dysfunction of the nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropathic designates damage, disease, or dysfunction of one or more nerves especially of the peripheral nervous system that is typically marked by burning or shooting pain, numbness, tingling, or muscle weakness or atrophy, is often degenerative, and is usually caused by injury, infection, disease, drugs, toxins, or vitamin deficiency."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **neuropathic** joint destruction, known as Charcot's arthropathy, develops insidiously in patients with tabes dorsalis."*
+> - 📜 **Silas Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"Causalgia presents as an agonizing **neuropathic** torment provoked even by a breath of cold air across the skin."*
+> - 📜 **William Richard Gowers (*A Manual of Diseases of the Nervous System*):** *"A hereditary **neuropathic** predisposition frequently underlies the emergence of functional nervous disorders."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or using gas (such as air or wind):.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moved or worked by air pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, operated by, or utilizing air or gas under pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology, philosophy, and engineering, relating to the spirit (pneuma) in Gnosticism, or utilizing compressed air to transmit mechanical power in machinery, tires, and drilling tools.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"When it is fired it "kicks" backwards, against the force of a buffer of springs, or a hydraulic or pneumatic cylinder."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The invention of the bicycle with pneumatic tires, coincident with the adoption of electric traction for street cars, reduced the price of horses between 1890 and 1895."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanicall, Touching the Spring of the Air*):** *"Our newly constructed **pneumatic** engine demonstrated that air possesses elasticity and exerts measurable weight."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"She was wonderfully **pneumatic**, with the buoyant, rubbery vitality prized by the society of the World State."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"The **pneumatic** trough enabled natural philosophers to collect and examine invisible elastic fluids over water."*

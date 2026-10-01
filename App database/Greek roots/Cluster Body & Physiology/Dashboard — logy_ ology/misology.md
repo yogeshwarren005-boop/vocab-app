@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hatred of reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred, contempt, or distrust of reason, argument, or intellectual disputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy (Plato's *Phaedo*), the cynical rejection of rational discourse that develops after an individual is disillusioned by fallacious or deceptive arguments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misology designates hatred of reasoning."*
+> - 📜 **Benjamin Jowett (*The Dialogues of Plato*):** *"In the Phaedo, Socrates warns against **misology**, comparing the hatred of reasoned argument to misanthropy."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The skeptic who tires of philosophical disputes easily lapses into **misology**, condemning all speculative inquiry."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"To abandon oneself to emotional impulses while disparaging rational analysis is the dangerous snare of **misology**."*

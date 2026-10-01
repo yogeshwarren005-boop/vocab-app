@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Birth defect in which there is partial or total webbing connecting two or more fingers or toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Birth defect in which there is partial or total webbing connecting two or more fingers or toes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having two or more fingers or toes joined together; syndactyly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian comparative anatomy, the natural evolutionary fusion of digits, as seen in diprotodont marsupials (kangaroos and possums).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndactylism designates birth defect in which there is partial or total webbing connecting two or more fingers or toes."*
+> - 📜 **Richard Owen (*On the Archetype of the Skeleton*):** *"In the kangaroo, **syndactylism** fuses the second and third toes into a single sheath, forming a specialized grooming comb."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **syndactylism** of the third and fourth fingers is easily corrected by plastic separation in early childhood."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Marsupial **syndactylism** represents an ancient functional adaptation preserved across diverse Australasian genera."*

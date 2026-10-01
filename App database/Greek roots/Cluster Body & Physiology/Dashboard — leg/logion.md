@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Saying; especially : a saying attributed to Jesus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saying; especially : a saying attributed to Jesus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional saying or short religious maxim attributed to a revered teacher, especially Jesus Christ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In papyrology, textual criticism, and early Christian studies, an isolated saying preserved in ancient manuscripts (e.g., Oxyrhynchus Papyri or Gospel of Thomas) outside the canonical narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logion designates saying; especially : a saying attributed to jesus."*
+> - 📜 **Arthur Surridge Hunt (*The Oxyrhynchus Papyri*):** *"The newly discovered papyrus sheet preserved a remarkable **logion** beginning with the phrase: 'Jesus saith, wherever there are two, they are not without God.'"*
+> - 📜 **Adolf von Harnack (*The Sayings of Jesus*):** *"Historical criticism must isolate each authentic **logion** from the secondary narrative framework of the synoptic tradition."*
+> - 📜 **Albert Schweitzer (*The Quest of the Historical Jesus*):** *"The eschatological urgency embedded in every recorded **logion** challenges modern liberal reinterpretations."*

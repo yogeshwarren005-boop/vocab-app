@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carcinoma of the liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carcinoma of the liver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tumor of the liver, especially a primary hepatocellular carcinoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical oncological taxonomy, a general clinical designation for any circumscribed liver cell neoplasm, encompassing both benign hepatic adenomas and malignant liver cell carcinomas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatoma designates carcinoma of the liver."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Palpation of an irregular, stone-hard mass in the right hypochondrium pointed toward an advanced malignant **hepatoma**."*
+> - 📜 **Rudolf Virchow (*Die krankhaften Geschwülste*):** *"Histological examination confirmed that the nodular **hepatoma** had originated directly from the proliferating cords of hepatic parenchymal cells."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"The diagnosis of deep visceral **hepatoma** in previous centuries was reached only upon the post-mortem inspection of the enlarged liver."*

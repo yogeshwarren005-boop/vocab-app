@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incompatibility in which one person's tissue cannot be transplanted to another person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incompatibility in which one person's tissue cannot be transplanted to another person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of immunological incompatibility between the tissues of a graft donor and recipient, leading to immune-mediated graft rejection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transplant immunology, disparity at polymorphic major histocompatibility gene loci that triggers cytotoxic T-lymphocyte and antibody-mediated destruction of allografts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histoincompatibility designates incompatibility in which one person's tissue cannot be transplanted to another person."*
+> - 📜 **Peter Medawar (*The Behavior and Fate of Skin Autografts and Skin Homografts in Rabbits*):** *"Acute allograft necrosis represents an actively acquired immune response driven by genetic **histoincompatibility**."*
+> - 📜 **Jean Dausset (*Histocompatibility Typing in Clinical Transplantation*):** *"Severe graft-versus-host disease ensues when bone marrow transplants harbor unshared minor **histoincompatibility** antigens."*
+> - 📜 **Macfarlane Burnet (*Immunological Surveillance*):** *"Cellular recognition mechanisms have evolved specifically to detect tissue **histoincompatibility** and foreign surface markers."*

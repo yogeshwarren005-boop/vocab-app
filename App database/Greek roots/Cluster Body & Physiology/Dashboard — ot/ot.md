@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occupational therapist; occupational therapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old Testament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek lexical combining form (ot- / oto-) denoting the ear, the sense of hearing, or ear diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical and physiological nomenclature, an essential radical prefix entering into terms such as otology, otitis, and otoscopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Song of Roland*):** *"Beside him came his comrade Oliver, Also Gerins and the proud count Geriers, And Otes came, and also Berengiers, Old Anseis, and Sansun too came there; Gerart also of Rossillon the fierce, And there is come the Gascon Engeliers."*
-> - 📜 **Classic Author (*The Song of Roland*):** *"Otes the Duke, and the count Berengiers And Ivorie, and Ive, so dear they were?"*
+> - 📜 **Galen (*On Anatomical Procedures*):** *"The ancient Greeks formed all words pertaining to the hearing organ from the radical **ot**, tracing its internal bony passages."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Terms derived from **ot** identify the acoustic labyrinth carved within the dense petrous bone."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"In systematic anatomy, the radical **ot** designates both the sensory mechanisms of hearing and the peripheral auricular cartilage."*

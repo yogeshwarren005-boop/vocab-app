@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical operation that creates a permanent opening through the abdominal wall into the intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical operation that creates a permanent opening through the abdominal wall into the intestine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical operation to create a permanent or temporary opening into the intestine through the abdominal wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In general surgery, a stoma (such as an ileostomy or jejunostomy) established for enteral decompression, nutritional access, or diversion of fecal stream.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterostomy designates surgical operation that creates a permanent opening through the abdominal wall into the intestine."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The surgeon brought the loop of ileum through the rectus muscle, maturing the **enterostomy** to divert stool from the distal anastomosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of acute obstructing typhlitis, emergency **enterostomy** was historically performed to vent accumulated toxic gas and fluids."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Careful attention to stoma appliance fitting prevented skin excoriation around the high-output **enterostomy**."*

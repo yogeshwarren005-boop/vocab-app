@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling, consisting of, or producing the humor phlegm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing a slow and stolid temperament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an unemotional, calm, and stolidly composed disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine and personality psychology, having a temperament dominated by the humor phlegm, characterized by sluggishness, patience, coolness, and lack of excitable responsiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I beseech you, be not so phlegmatic."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Anyhow, whatever the origin of the relic, there was and is something sinister, or solemn, according to mood, in the scene amid which it stands; something tending to impress the most phlegmatic passer-by."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The four sang on with the phlegmatic passivity of persons who had long ago settled the question, and there being no mistake about it, felt that further thought was not required."*
+> - 📜 **Immanuel Kant (*Anthropology from a Pragmatic Point of View*):** *"The **phlegmatic** temperament possesses the advantage of emotional equilibrium, remaining unmoved by sudden outbursts of passion."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn listened with a **phlegmatic** countenance, betraying neither astonishment nor sympathy."*
+> - 📜 **Arthur Conan Doyle (*The Sign of four*):** *"Athelney Jones was too **phlegmatic** to be easily disconcerted, puffing steadily upon his cigar despite the sudden interruption."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The external connective-tissue sheath of a nerve trunk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The external connective-tissue sheath of a nerve trunk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tough, dense outer sheath of fibrous connective tissue that surrounds and binds together a peripheral nerve trunk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical neurology and microanatomy, the vascularized fibrocollagenous sheath that encloses multiple nerve fascicles, cushions against external mechanical compression, and provides anchorage for epineurial sutures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epineurium designates the external connective-tissue sheath of a nerve trunk."*
+> - 📜 **Louis-Antoine Ranvier (*Technique microscopique*):** *"The thick outermost fibrous coat encompassing the entire nerve trunk is denominated the **epineurium**."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Nutrient blood vessels, the vasa nervorum, ramify abundantly within the **epineurium** before sending capillaries into the deeper fascicles."*
+> - 📜 **Sydney Sunderland (*Nerves and Nerve Injuries*):** *"In microsurgical nerve repair, precise alignment of the severed fascicles is achieved by placing delicate sutures through the **epineurium**."*

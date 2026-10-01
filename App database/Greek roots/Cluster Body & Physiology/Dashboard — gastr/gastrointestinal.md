@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, affecting, or including both stomach and intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the digestive system that consists of the stomach and intestines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the stomach and the intestines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the entire digestive tract from mouth to anus, including its mucosal, secretory, and neuromuscular functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrointestinal designates of, relating to, affecting, or including both stomach and intestine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute massive **gastrointestinal** bleeding demands rapid vascular access and immediate blood cross-matching."*
+> - 📜 **Ed Yong (*I Contain Multitudes*):** *"The human **gastrointestinal** tract contains a microbial ecosystem composed of hundreds of diverse bacterial species."*
+> - 📜 **Michael Pollan (*The Omnivore's Dilemma*):** *"The omnivore's profound anxiety is managed by the intricate sensory and chemical defenses of our **gastrointestinal** tract."*

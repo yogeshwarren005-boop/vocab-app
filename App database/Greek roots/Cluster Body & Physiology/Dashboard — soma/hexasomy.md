@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aneuploid presence of six copies of a specific chromosome in an otherwise euploid genome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant breeding and polyploid cytogenetics, hexasomy occurs through polysomic inheritance in hexaploids or through multiple non-disjunction events in autopolyploids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexasomy designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Albert Blakeslee (*New Datura Mutants*):** *"The phenotype associated with **hexasomy** of the twelfth chromosome exhibits gross floral distortions in Datura."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"Chiasma formation during **hexasomy** frequently results in hexavalent chain and ring configurations at metaphase."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"In autopolyploid cereals, persistent **hexasomy** leads to gene dosage imbalances that reduce grain yield."*

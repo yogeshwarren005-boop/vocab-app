@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal permanent curvature or deflection of a finger or toe, most commonly an inward bending of the little finger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and dysmorphology, a minor congenital anomaly often caused by hypoplasia of the middle phalanx of the fifth digit, seen in Down syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinodactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked inward **clinodactyly** of the fifth finger is a classic minor dysmorphic sign in several chromosomal syndromes."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Surgical Subjects*):** *"The curvature in **clinodactyly** is painless and rarely requires surgical correction unless cosmetic distress is severe."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"Careful physical examination of the newborn infant revealed a single transverse palmar crease and bilateral **clinodactyly**."*

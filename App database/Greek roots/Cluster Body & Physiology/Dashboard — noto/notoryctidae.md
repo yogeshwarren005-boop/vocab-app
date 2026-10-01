@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pouched moles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pouched moles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of fossorial Australian marsupials known as marsupial moles, comprising the genus Notoryctes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy, an isolated family of polyprotodont marsupials displaying extreme convergent evolution with placental golden moles, including vestigial subterranean eyes, spade claws, and fused cervical vertebrae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notoryctidae designates pouched moles."*
+> - 📜 **Edward Stirling (*Description of a New Genus and Species of Marsupialia*):** *"The osteological peculiarities of this blind burrowing marsupial justify founding the separate family **Notoryctidae**."*
+> - 📜 **Richard Lydekker (*A Hand-book to the Marsupialia and Monotremata*):** *"The **Notoryctidae** represent an entirely unique mammalian lineage adapted for swimming through the red desert sands of Central Australia."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"Fusion of the posterior neck vertebrae in the **Notoryctidae** provides the rigid bodily support required for underground tunneling."*

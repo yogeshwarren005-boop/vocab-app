@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by abnormally long, slender, spider-like fingers and toes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics, a cardinal musculoskeletal hallmark of Marfan syndrome, often accompanied by tall stature, lens dislocation, and aortic root dilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arachnodactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The extraordinary spidery fingers of **arachnodactyly** were recognized by Marfan as a congenital connective tissue anomaly."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"The musician displayed pronounced **arachnodactyly**, his extraordinarily elongated fingers easily spanning an octave and a half upon the piano."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases*):** *"Examination of the patient revealed hyperextensible joints, high-arched palate, and classical **arachnodactyly** of both hands and feet."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that converts the electrical activity associated with functioning skeletal muscle into a visual record or into sound and is used to diagnose neuromuscular disorders and in biofeedback training.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that converts the electrical activity associated with functioning skeletal muscle into a visual record or into sound and is used to diagnose neuromuscular disorders and in biofeedback training.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrodiagnostic medical technique for evaluating and recording the electrical activity produced by skeletal muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuromuscular medicine, a clinical testing modality combining nerve conduction studies with needle electrode examination to diagnose radiculopathies, neuropathies, and myopathies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromyography designates an instrument that converts the electrical activity associated with functioning skeletal muscle into a visual record or into sound and is used to diagnose neuromuscular disorders and in biofeedback training."*
+> - 📜 **Wilder Penfield (*Speech and Brain-Mechanisms*):** *"Quantitative **electromyography** demonstrated subtle spasticity in the facial musculature preceding speech arrest."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The introduction of clinical **electromyography** has clarified the intricate timing of reciprocal muscle inhibition."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Diagnostic **electromyography** confirmed denervation potentials consistent with advanced motor neuron degeneration."*

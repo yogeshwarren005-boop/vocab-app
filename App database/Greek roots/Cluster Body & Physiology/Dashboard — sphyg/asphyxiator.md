@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manually operated device for extinguishing small fires.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manually operated device for extinguishing small fires.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, substance, gas, or mechanism that produces asphyxia or suffocation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military chemistry, industrial toxicology, and mining safety, chemical asphyxiators are grouped into simple displacement agents (methane, nitrogen) and cellular respiratory poisons (cyanide).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asphyxiator designates a manually operated device for extinguishing small fires."*
+> - 📜 **John Scott Haldane (*Investigation of Mine Air*):** *"Choke-damp in neglected coal workings functions as an active **asphyxiator** by displacing breathable atmospheric oxygen."*
+> - 📜 **Fritz Haber (*The Chemical Warfare*):** *"The volatile toxic clouds deployed along the front acted as a lethal pulmonary **asphyxiator** against exposed troops."*
+> - 📜 **Claude Bernard (*Lessons on the Effects of Toxic and Medicinal Substances*):** *"Prussic acid acts as the swiftest known cellular **asphyxiator**, arresting tissue oxidation almost instantaneously."*

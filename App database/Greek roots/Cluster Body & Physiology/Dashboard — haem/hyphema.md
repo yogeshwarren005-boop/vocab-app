@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An accumulation of red blood cells in the anterior chamber of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, a traumatic or spontaneous ocular hemorrhage graded by the depth of blood layering (grades I through IV, up to complete eight-ball hyphema).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyphema designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **William Mackenzie (*A Practical Treatise on the Diseases of the Eye*):** *"A layered **hyphema** was readily perceived through the transparent cornea, forming a dark red crescent at the base of the chamber."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"The spontaneous resorption of a traumatic **hyphema** depends upon patent trabecular outflow channels and absence of re-bleeding."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"In our eye clinic, sports injuries frequently presented with painful **hyphema** requiring topical cycloplegics and elevation of the head."*

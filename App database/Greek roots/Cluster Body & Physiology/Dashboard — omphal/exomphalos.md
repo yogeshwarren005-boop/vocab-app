@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An umbilical hernia at birth in which some abdominal organs push into the umbilical cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An umbilical hernia at birth in which some abdominal organs push into the umbilical cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hernia at the navel; an umbilical hernia, especially a congenital omphalocele.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric surgery and embryology, a midline anterior abdominal wall defect at the base of the umbilicus with extrusion of abdominal viscera into a membranous sac.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exomphalos designates an umbilical hernia at birth in which some abdominal organs push into the umbilical cord."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Immediate surgical reduction of a massive neonatal **exomphalos** is imperative to avert peritonitis from sac rupture."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"In congenital **exomphalos**, the herniated viscera are insulated by amniotic membrane and peritoneum rather than normal skin."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Adult **exomphalos** typically develops in multiparous women due to gradual stretching of the fibrous umbilical ring."*

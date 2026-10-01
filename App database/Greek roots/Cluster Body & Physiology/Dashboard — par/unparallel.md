@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not straight or parallel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not straight or parallel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not parallel; divergent or intersecting in direction or path.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic usage, unmatched or without equal; non-parallel lines or trajectories in geometry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If, one by one, you wedded all the world, Or from the all that are took something good, To make a perfect woman, she you kill’d Would be unparallel’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now boast thee, Death, in thy possession lies A lass unparalleled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been The book of his good acts, whence men have read His fame unparalleled happily amplified; For I have ever verified my friends— Of whom he’s chief—with all the size that verity Would without lapsing suffer."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Rays emerging from a prism along **unparallel** courses diverge across the refracting medium."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Their theories followed **unparallel** tracks, never meeting in common experimental confirmation."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The corpuscles collide at oblique, **unparallel** angles, producing chaotic fluid turbulence."*

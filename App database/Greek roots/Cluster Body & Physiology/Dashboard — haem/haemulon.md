@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the haemulidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the haemulidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of marine grunts in the family Haemulidae, widely distributed in warm coastal waters of the western Atlantic and eastern Pacific.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, a genus of reef-dwelling fishes characterized by bright red throat and gill-chamber linings, schooling behavior, and pharyngeal acoustic rasping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemulon designates type genus of the haemulidae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The species of **haemulon** are among the most abundant food fishes of Key West, characterized by their vivid red mouth interiors."*
+> - 📜 **Georges Cuvier (*Histoire Naturelle des Poissons*):** *"The generic designation **haemulon** was selected to indicate the bloody-red coloration visible whenever the jaws are widely parted."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Specimens of **haemulon** collected from Caribbean reefs demonstrated remarkable adaptations in dentition and jaw mechanics."*

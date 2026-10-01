@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ommat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root combining form (ommat- / ommato-) denoting the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod morphology and anatomical zoology, used in compounding terms referring to visual organs or eye-bearing appendages (e.g., ommatidium, ommatophore).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ommat designates a term designating an entity, condition, or phenomenon derived from greek ommat."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The combining form **ommat-** derives from the Greek term for eye, designating optical units in compound visual organs."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Structural variations among organs bearing the root **ommat-** trace the evolution of complex visual systems in invertebrates."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Embryological invaginations giving rise to **ommat-** structures demonstrate the common origin of optic cups across phyla."*

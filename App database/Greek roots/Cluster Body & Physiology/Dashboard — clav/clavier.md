@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bank of keys on a musical instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stringed instrument that has a keyboard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical keyboard, or any keyboard instrument, particularly an early stringed instrument such as a harpsichord, clavichord, or piano.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In keyboard pedagogy, the generic term used by J. S. Bach (as in The Well-Tempered Clavier) to designate any tempered manual keyboard instrument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clavier designates a bank of keys on a musical instrument."*
+> - 📜 **Johann Sebastian Bach (*The Well-Tempered Clavier (Preface)*):** *"These preludes and fugues across all twenty-four keys were composed for the use of musical youth eager to master the **clavier**."*
+> - 📜 **Thomas Carlyle (*The Life of Friedrich Schiller*):** *"His sister sat at the **clavier**, accompanying his youthful verses with gentle German airs."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"Rachel sat alone in the hall playing late Beethoven sonatas upon the open **clavier**, her fingers lost in the music."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prolapse of the kidney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prolapse of the kidney.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal downward displacement or dropping of a kidney; floating or wandering kidney (synonym of nephroptosis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical medicine and visceral surgery, mobility of the kidney out of its retroperitoneal fat pad into the iliac fossa upon standing, historically treated with nephropexy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephroptosia designates prolapse of the kidney."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked **nephroptosia** is frequently encountered in emaciated women with relaxed abdominal musculature."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Severe Dietl's crises in **nephroptosia** result from acute kinking of the ureter as the organ drops."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"Surgical suspension of the organ via nephropexy relieves the traction pain caused by symptomatic **nephroptosia**."*

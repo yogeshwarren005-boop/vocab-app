@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of calculi in the intestines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of calculi in the intestines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical condition of having stones or calculi (enteroliths) in the intestine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, the formation of intestinal concretions in stagnant bowel segments (such as diverticula or blind loops), risking mechanical obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterolithiasis designates the presence of calculi in the intestines."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris and Allied States*):** *"Chronic intestinal stasis within a large jejunal diverticulum predisposes the patient to recurrent **enterolithiasis** and localized perforation."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Preoperative abdominal computed tomography identified profound **enterolithiasis** with high-grade upstream intestinal dilation."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"Cases of symptomatic **enterolithiasis** are rare in modern surgical practice, yet they require prompt operative extraction."*

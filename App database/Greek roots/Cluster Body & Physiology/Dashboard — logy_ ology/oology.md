@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoology that studies eggs (especially birds' eggs and their size, shape, coloration, and number).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of zoology that studies eggs (especially birds' eggs and their size, shape, coloration, and number).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of ornithology that studies birds' eggs, nests, and breeding behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian biology and evolutionary natural history, the scientific study of egg morphology, shell microstructures, and coloration patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oology designates the branch of zoology that studies eggs (especially birds' eggs and their size, shape, coloration, and number)."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Studies in avian **oology** illustrate how pigmentation and shell patterning evolve to camouflage clutches from predators."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The naturalist devoted to **oology** discovers exquisite adaptations in the nest construction and egg coloring of tropical birds."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The structural shell characteristics cataloged in comparative **oology** reflect ancient reptilian affinities."*

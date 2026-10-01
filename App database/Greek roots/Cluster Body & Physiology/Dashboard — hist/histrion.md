@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theatrical performer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theatrical performer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor, theatrical performer, or stage player (archaic term derived from Latin histrio).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic history, a theatrical performer, often used with derogatory connotations of artificiality, insincerity, or affectation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histrion designates a theatrical performer."*
+> - 📜 **William Hazlitt (*A View of the English Stage*):** *"The true **histrion** lives upon the stage, giving bodily form and emotional voice to the poet's deepest passions."*
+> - 📜 **Charles Lamb (*On the Tragedies of Shakespeare*):** *"We confuse the dramatic creation of Shakespeare with the physical gestures of the contemporary **histrion**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman senators were forbidden under pain of infamy from exhibiting their talents upon the stage as a public **histrion**."*

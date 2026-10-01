@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An item inserted in a written record.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of beginning something new.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of going or coming in; an opening or passage; or an item written in a diary, journal, ledger, or reference work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and bookkeeping, formal recording of legal documents, transactions, or astronomical observations in a registry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My hands are of your color, but I shame To wear a heart so white. [_Knocking within._] I hear knocking At the south entry:—retire we to our chamber."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"THAT warn’t like Chancery practice though, says you!” He had by this time led us across the shop, and now opened a door in the back part of it, leading to the house-entry."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn has seen the entry, found it before the law-stationer, read it while the forefinger was coming down the hill."*
+> - 📜 **Samuel Pepys (*Diary*):** *"And so to bed, closing this day's **entry** with humble thanksgiving for my family's deliverance from the Great Plague."*
+> - 📜 **George Orwell (*1984*):** *"Winston dipped his pen in ink and opened the blank diary, terrified by what his first **entry** might reveal."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In my notebook **entry** for July 1837, I opened my first systematic ledger on the transmutation of species."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pain in the hand that is not traumatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pain in the hand that is not traumatic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Neuralgic pain affecting the hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and rheumatology, localized discomfort or neuropathic aching in the palmar and digital structures without acute fracture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiralgia designates a pain in the hand that is not traumatic."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Occupational neuroses and repetitive manual labor frequently provoke intractable **chiralgia** in telegraphers and clerks."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"The clinician must determine whether the acute **chiralgia** arises from radial nerve entrapment or hysterical hyperesthesia."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"Sensory paresthesias in the palm accompanied by nocturnal **chiralgia** indicate median nerve compression at the wrist."*

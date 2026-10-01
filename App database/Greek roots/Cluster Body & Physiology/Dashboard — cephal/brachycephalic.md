@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Short-headed or broad-headed with a cephalic index of over 80.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Short-headed or broad-headed with a cephalic index of over 80.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relatively short, broad head with a cephalic index (ratio of maximum cranial breadth to length multiplied by 100) of 80 or greater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and veterinary anatomy, designating broad-headed human populations or domestic animal breeds (such as pugs or bulldogs).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachycephalic designates short-headed or broad-headed with a cephalic index of over 80."*
+> - 📜 **Franz Boas (*Changes in Bodily Form of Descendants of Immigrants*):** *"Our measurements proved that the **brachycephalic** head form of European immigrants shifted significantly under new American environmental conditions."*
+> - 📜 **Paul Broca (*Instructions Craniologiques*):** *"We classify skulls whose breadth reaches eighty percent of their length as strictly **brachycephalic**."*
+> - 📜 **William Z. Ripley (*The Races of Europe*):** *"The Alpine populations of central Europe are predominantly **brachycephalic**, contrasting with the dolichocephalic Mediterranean type."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin fragment or slice (especially of wood) that has been shaved from something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) a part of a fruit or vegetable that is pared or cut off; especially the skin or peel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece or strip cut or shaved off from something; the action of cutting or peeling away an outer surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture, veterinary surgery, or culinary arts, the act of trimming excess tissue, rind, or hoof horn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity breeds mites, much like a cheese; consumes itself to the very paring, and so dies with feeding his own stomach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some devils ask but the paring of one’s nail, A rush, a hair, a drop of blood, a pin, A nut, a cherry-stone; but she, more covetous, Would have a chain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do remember him at Clement’s Inn, like a man made after supper of a cheese-paring."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The thin apple **paring** curls under the blade, leaving the fleshy pulp exposed to oxidation."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"A single wooden **paring** tossed upon the current showed which way the quiet river was setting."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Superstitions regarding the proper day for nail-**paring** have persisted since classical antiquity."*

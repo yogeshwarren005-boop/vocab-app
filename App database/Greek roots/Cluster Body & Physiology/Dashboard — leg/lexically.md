@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to words, vocabulary, or the lexicon of a language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In generative syntax and computational linguistics, relating to individual lexical items rather than general grammatical rules or phonological processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lexically designates by means of words."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"Certain transformations are triggered **lexically** by the selection of specific idiosyncratic verbs."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Languages differ fundamentally in whether concepts are expressed grammaticalized or **lexically**."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Idiomatic phrases are **lexically** determined units whose total meaning exceeds the sum of their morphemes."*

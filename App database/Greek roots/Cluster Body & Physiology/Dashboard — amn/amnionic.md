@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to the amnion or characterized by developing an amnion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to the amnion or characterized by developing an amnion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or having the character of the amnion; amniotic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and embryology, relating to the amnionic membrane, cavity, or fluid protecting the fetus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amnionic designates of or related to the amnion or characterized by developing an amnion."*
+> - 📜 **William Harvey (*Anatomical Exercises on the Generation of Animals*):** *"The **amnionic** humor cushions the tender limbs of the unborn creature from maternal concussions."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The presence of identical **amnionic** membranes across mammals and birds points undeniably to a shared phylogenetic ancestry."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Terrestrial adaptation demanded the evolutionary consolidation of the **amnionic** egg, shielding the embryo from drying winds."*

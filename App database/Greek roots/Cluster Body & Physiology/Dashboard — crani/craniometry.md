@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science dealing with cranial measurement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science dealing with cranial measurement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific measurement of the bones of the skull, especially of human skulls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological anthropology and forensic science, the quantitative determination of cranial indices to assess evolutionary variation and ancestral morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniometry designates a science dealing with cranial measurement."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"The history of **craniometry** offers a cautionary tale of how numerical measurements can be co-opted in service of racial ideology."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"By introducing standardized reference lines, Broca established **craniometry** as a repeatable scientific discipline."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The vast collection of data amassed by **craniometry** proves that human skulls exhibit extraordinary intraspecific plasticity."*

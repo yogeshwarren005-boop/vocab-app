@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: kidney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: kidney.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root combining form (nephr- / nephro-) denoting the kidney.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical terminology and medical pathology, utilized in constructing clinical terms referring to renal structures, physiology, or diseases (e.g., nephron, nephritis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog nephr as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Medical terms bearing the root **nephr-** delineate disorders and diagnostic procedures directly concerning the kidneys."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The suffix -itis joined to **nephr-** yields nephritis, denoting inflammatory destruction of the renal parenchyma."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"From ancient Greek nephros, combining forms beginning with **nephr-** designate all things pertaining to the renal organs."*

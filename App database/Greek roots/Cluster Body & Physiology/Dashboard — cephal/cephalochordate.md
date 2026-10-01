@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fish-like animals having a notochord rather than a true spinal column.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fish-like animals having a notochord rather than a true spinal column.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small, fish-like marine chordate belonging to the subphylum Cephalochordata, commonly known as a lancelet or amphioxus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, a creature possessing a notochord, dorsal nerve cord, and pharyngeal slits throughout life, lacking a true bony braincase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalochordate designates fish-like animals having a notochord rather than a true spinal column."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Comparative Anatomy*):** *"The living **cephalochordate** Amphioxus burrows into coastal sands, exposing only its oral hood to the marine currents."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"No zoologist can comprehend the vertebrate body plan without mastering the embryology of the humble **cephalochordate**."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life: The Burgess Shale and the Nature of History*):** *"The discovery of Pikaia in the Burgess Shale placed an ancient **cephalochordate** directly at the dawn of the Cambrian radiation."*

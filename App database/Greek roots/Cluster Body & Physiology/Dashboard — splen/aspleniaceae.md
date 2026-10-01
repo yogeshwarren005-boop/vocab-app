@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of families into which polypodiaceae has been subdivided in some classification systems; includes genera asplenium, pleurosorus, schaffneria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of families into which polypodiaceae has been subdivided in some classification systems; includes genera asplenium, pleurosorus, schaffneria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, cosmopolitan family of leptosporangiate ferns in the order Polypodiales, commonly known as the spleenwort family, typified by the genus *Asplenium*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by linear or oblong sori covered by elongate indusia along veins on the undersides of fronds; named from Greek *asplenon* for its historical reputation as a therapeutic remedy for diseases of the spleen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspleniaceae designates one of a number of families into which polypodiaceae has been subdivided in some classification systems; includes genera asplenium, pleurosorus, schaffneria."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Aspleniaceae** is recognized by its elongated sori attached laterally to the fertile veins and shielded by linear indusia."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"Members of the **Aspleniaceae** thrive in diverse habitats, clinging to calcareous cliff crevices and tropical tree trunks."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Ancient herbalists prized the **Aspleniaceae** for their supposed efficacy in dispersing stubborn obstructions of the spleen."*

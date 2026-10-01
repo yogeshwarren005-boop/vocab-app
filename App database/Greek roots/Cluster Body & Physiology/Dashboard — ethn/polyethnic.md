@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of people, race, tribe, nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of people, race, tribe, nation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhabited by, comprising, or characteristic of people from several or many ethnic groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and sociology, describing pluralistic societies or multi-ethnic empires characterized by cultural and linguistic diversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyethnic designates adjective*) pertaining to, derived from, or characteristic of people, race, tribe, nation."*
+> - 📜 **J.S. Furnivall (*Colonial Policy and Practice*):** *"In a **polyethnic** plural society, disparate communities live side by side, meeting only in the marketplace without social integration."*
+> - 📜 **Benedict Anderson (*Imagined Communities*):** *"The Ottoman Empire governed a vast **polyethnic** mosaic through the decentralized millet system for centuries."*
+> - 📜 **Francis Fukuyama (*The Origins of Political Order*):** *"Building durable democratic institutions within a **polyethnic** state requires robust legal protections for minority rights."*

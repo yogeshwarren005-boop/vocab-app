@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pseudopodium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pseudopodium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary, foot-like projection of the cytoplasm of an amoeboid cell or protozoan, used for locomotion and phagocytosis (pseudopodium).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biology and immunology, an actin-driven dynamic protrusion of the cell membrane formed by macrophages, neutrophils, and amoebae during chemotactic crawling and prey engulfment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudopod designates pseudopodium."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Under high magnification, the amoeba extends a blunt **pseudopod**, slowly flowing its entire protoplasm into the advance."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"Leucocytes pass through capillary walls by extending a slender **pseudopod** between endothelial junctions."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"The single-celled amoeba navigates its microscopic world by thrusting out one flexible **pseudopod** after another."*

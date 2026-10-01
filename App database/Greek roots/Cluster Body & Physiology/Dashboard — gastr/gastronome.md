@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person devoted to refined sensuous enjoyment (especially good food and drink).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person devoted to refined sensuous enjoyment (especially good food and drink).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A connoisseur of good food; a gourmet or epicure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary culture and literature, a person who possesses discriminating appreciation and philosophical understanding of the culinary arts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastronome designates a person devoted to refined sensuous enjoyment (especially good food and drink)."*
+> - 📜 **Jean Anthelme Brillat-Savarin (*The Physiology of Taste*):** *"A true **gastronome** does not merely eat to sustain the body; he tastes with cultivated, intellectual discernment."*
+> - 📜 **Honoré de Balzac (*Cousin Pons*):** *"The old musician was a passionate **gastronome**, willing to endure any domestic humiliation for a seat at a sumptuous table."*
+> - 📜 **Michael Pollan (*The Omnivore's Dilemma*):** *"The modern **gastronome** seeks not just decadent luxury, but an authentic ecological connection to where food is grown."*

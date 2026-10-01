@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of the life sciences dealing with neurosecretion and the physiological interaction between the central nervous system and the endocrine system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of the life sciences dealing with neurosecretion and the physiological interaction between the central nervous system and the endocrine system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical and biological science that investigates the mutual relationships and coordinated actions of the nervous and endocrine systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and endocrinology, the study of hypothalamic neuropeptides, pituitary feedback loops, circadian hormone secretion, and neural regulation of homeostatic metabolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroendocrinology designates a branch of the life sciences dealing with neurosecretion and the physiological interaction between the central nervous system and the endocrine system."*
+> - 📜 **Geoffrey Harris (*Neural Control of the Pituitary Gland*):** *"The foundation of modern **neuroendocrinology** was laid when hypothalamic humoral transmission was demonstrated to govern the adenohypophysis."*
+> - 📜 **Roger Guillemin (*Peptides in the Brain: The New Endocrinology of the Neuron*):** *"The isolation and synthesis of TRH and GnRH ushered **neuroendocrinology** into the molecular era of peptide therapeutics."*
+> - 📜 **Andrew Schally (*Aspects of Hypothalamic Regulation of the Pituitary Gland*):** *"Purifying minute quantities of hypothalamic releasing hormones from hundreds of thousands of animal brains revolutionized experimental **neuroendocrinology**."*

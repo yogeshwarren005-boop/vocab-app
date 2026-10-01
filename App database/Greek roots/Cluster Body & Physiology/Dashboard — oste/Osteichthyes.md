@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of fish having a skeleton composed of bone in addition to cartilage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of fish having a skeleton composed of bone in addition to cartilage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major taxonomic class or superclass of aquatic vertebrates comprising the bony fishes, in contrast to the cartilaginous fishes (Chondrichthyes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and vertebrate evolutionary biology, the clade of jawed fish possessing an internal skeleton composed predominantly of true bone tissue, an operculum covering the gills, and swim bladders or lungs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Osteichthyes designates a class of fish having a skeleton composed of bone in addition to cartilage."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The great division of the **Osteichthyes** encompasses the vast majority of living freshwater and marine species, distinguished by true osseous skeletons."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Dermal armor and ossified endoskeletal elements distinguish the **Osteichthyes** from primitive cartilaginous elasmobranchs."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The radiation of the **Osteichthyes** during the Devonian period laid the skeletal foundation for subsequent terrestrial tetrapod evolution."*

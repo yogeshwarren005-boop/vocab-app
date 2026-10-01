@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal mass of dilated and engorged blood vessels in swollen tissue that occurs internally in the anal canal or externally around the anus, that may be marked by bleeding, pain, or itching, and that when occurring internally often protrude through the outer sphincter of the anus and when occurring externally may lead to thrombosis —usually plural—called also piles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal mass of dilated and engorged blood vessels in swollen tissue that occurs internally in the anal canal or externally around the anus, that may be marked by bleeding, pain, or itching, and that when occurring internally often protrude through the outer sphincter of the anus and when occurring externally may lead to thrombosis —usually plural—called also piles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dilated or varicose vein in the mucosal wall of the anal canal; a pile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In proctology, a pathologically enlarged submucosal arteriovenous vascular cushion of the anorectum that may bleed, thrombose, or prolapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemorrhoid designates an abnormal mass of dilated and engorged blood vessels in swollen tissue that occurs internally in the anal canal or externally around the anus, that may be marked by bleeding, pain, or itching, and that when occurring internally often protrude through the outer sphincter of the anus and when occurring externally may lead to thrombosis —usually plural—called also piles."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"When a thrombosed external **hemorrhoid** becomes acutely strangulated, immediate incision and evacuation of the clot brings instantaneous relief."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Occult chronic blood loss from an internal **hemorrhoid** frequently explains profound iron deficiency anemia in otherwise healthy adults."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"A sedentary habit combined with rich diets frequently excites an inflamed **hemorrhoid**, for which mild cooling laxatives are indicated."*

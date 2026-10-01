@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a trance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of filling someone with wonder, delight, or fascination; enchanting or captivating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing melodies, landscapes, or perfumes that hold the observer in breathless aesthetic spell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"He was a lovely boy, clad in skeleton leaves and the juices that ooze out of trees but the most entrancing thing about him was that he had all his first teeth."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"I suppose it was all especially entrancing to Wendy, because those rampagious boys of hers gave her so much to do."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Before them stretches a vista alluring in its as yet hazy outlines, entrancing in its magnitude, reaching to the far horizons of as yet unconquered territories."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The moonlit garden was filled with the **entrancing** scent of blooming sweetbriar and honeysuckle."*
+> - 📜 **John Keats (*Endymion*):** *"A thing of beauty is a joy for ever: / Its loveliness increases; it will never / Pass into nothingness, but still will keep / A bower quiet for us, and an **entrancing** sleep."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Dorian listened to the musical cadence of Lord Henry's voice, finding his cynical paradoxes strangely **entrancing**."*

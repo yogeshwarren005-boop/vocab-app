@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek copr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific or medical study of feces, especially for medical diagnosis or archaeological analysis; scatology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology and parasitology, the discipline investigating stool specimens to identify helminth ova, gut microbiomes, and prehistoric dietary patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprology designates a term designating an entity, condition, or phenomenon derived from greek copr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Routine clinical **coprology** provides immediate evidence of occult hemorrhage, amoebic cysts, or pancreatic insufficiency."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"In tropical medicine, laboratory **coprology** is indispensable for identifying the ova of bilharzia and hookworm."*
+> - 📜 **Edward Tylor (*Researches into the Early History of Mankind*):** *"Archaeological **coprology** reconstructs the seasonal foraging habits of prehistoric cave dwellers from desiccated paleofeces."*

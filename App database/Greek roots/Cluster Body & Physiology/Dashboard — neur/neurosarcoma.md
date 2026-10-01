@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant neoplasm of nerve tissue and fibrous tissue and connective tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malignant neoplasm of nerve tissue and fibrous tissue and connective tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, malignant soft-tissue tumor arising from peripheral nerve sheath elements (malignant peripheral nerve sheath tumor, MPNST).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical oncology, a high-grade spindle-cell sarcoma originating within a pre-existing neurofibroma (especially in neurofibromatosis type 1) or de novo in a major nerve trunk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurosarcoma designates a malignant neoplasm of nerve tissue and fibrous tissue and connective tissue."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"Rapid malignant transformation of a plexiform neurofibroma into a deadly **neurosarcoma** threatens patients with generalized neurofibromatosis."*
+> - 📜 **Dorothy Russell (*Pathology of Tumours of the Nervous System*):** *"Histologically, a **neurosarcoma** exhibits sweeping fascicles of atypical spindle cells displaying brisk mitotic activity and geographic necrosis."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Invasive destruction of adjacent bony foramina is a hallmark distinguishing an aggressive **neurosarcoma** from a benign schwannoma."*

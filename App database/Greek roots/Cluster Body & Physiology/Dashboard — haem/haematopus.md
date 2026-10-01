@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oystercatchers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oystercatchers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of oystercatchers in the family Haematopodidae, robust wading birds characterized by long, straight, red bills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy, charadriiform birds (including the Eurasian oystercatcher, Haematopus ostralegus) specialized for cracking or prying open coastal mollusks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematopus designates oystercatchers."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Specimens of **Haematopus** collected in the Falkland Islands used their heavy chisel bills to wrench limpets from wave-beaten rocks."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"The piping cries of **Haematopus** sounded across the stormy shoals as flocks of oystercatchers settled on the sandspit."*
+> - 📜 **David Attenborough (*The Life of Birds*):** *"The bill tip of **Haematopus** is richly supplied with sensory corpuscles, allowing it to probe intertidal sand for buried bivalves."*

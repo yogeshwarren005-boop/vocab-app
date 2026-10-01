@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of blood cells in the living body (especially in the bone marrow).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of blood cells in the living body (especially in the bone marrow).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation, development, and maturation of blood cellular components from hematopoietic stem cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, the physiological process occurring predominantly within the bone marrow that regulates red cell, white cell, and platelet production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemopoiesis designates the formation of blood cells in the living body (especially in the bone marrow)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Under conditions of severe chronic blood loss, extramedullary **haemopoiesis** may awaken in the spleen and liver."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"The vascular reticular network of the red bone marrow constitutes the primary architectural site of active post-natal **haemopoiesis**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"A fundamental disruption in normal **haemopoiesis** lies at the very heart of the myeloid leukemias we observe under the lens."*

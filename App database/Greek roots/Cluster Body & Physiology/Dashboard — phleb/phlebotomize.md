@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through vein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through vein.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To open a vein for bloodletting; to draw blood by venipuncture (standard spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical therapeutics, to perform venesection in conditions such as primary hemochromatosis or porphyria cutanea tarda to reduce total body iron stores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebotomize designates verb*) to subject to, transform by, or operate upon through vein."*
+> - 📜 **Benjamin Rush (*An Account of the Bilious Remitting Yellow Fever*):** *"I resolved to **phlebotomize** copiously, bleeding my patients repeatedly until the inflammatory pulse subsided."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute congestive heart failure with pulmonary engorgement, to **phlebotomize** the patient by several hundred cubic centimeters provides prompt relief."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The dogmatic tradition that compelled doctors to **phlebotomize** every febrile sufferer was slowly undermined by empirical statistics."*

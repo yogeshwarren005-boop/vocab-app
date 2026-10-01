@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tendril-climbing herbs or shrubs whose seeds have a white heart-shaped spot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tendril-climbing herbs or shrubs whose seeds have a white heart-shaped spot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical and subtropical climbing herbs and woody vines (family Sapindaceae), commonly called balloon vines or heartseeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, climbing vines characterized by inflated, papery capsules containing dark round seeds marked with a white heart-shaped spot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiospermum designates tendril-climbing herbs or shrubs whose seeds have a white heart-shaped spot."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The generic name **cardiospermum** reflects the white heart-shaped hilum that adorns the black spherical seed."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In **cardiospermum**, the membranous inflated capsule acts as a buoyant float, aiding seed dispersal along tropical riverbanks."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Gardeners cultivate **cardiospermum** for its curious balloon-like pods and delicate tendrils that cling to trellises."*

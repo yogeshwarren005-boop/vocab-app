@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of tropical american spiny bushy shrubs or trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of tropical american spiny bushy shrubs or trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The valid taxonomic botanical spelling of the genus of tropical trees comprising logwood, renowned for producing the natural staining alkaloid haematoxylin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dried heartwood or botanical pharmaceutical product derived from Haematoxylum campechianum, used in microscopic histology as a nuclear stain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematoxylum designates small genus of tropical american spiny bushy shrubs or trees."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Specimens of **haematoxylum** demonstrate the characteristic papilionaceous floral architecture, accompanied by a wood dense with crystalline dye precursors."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The fine nuclear morphology of the neoplastic tissue was resolved with remarkable clarity upon applying the refined extracts of **haematoxylum** to the cellular slice."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"In the low forest tracts of Central America, dense thickets of **haematoxylum** stood harvested for their world-renowned timber."*

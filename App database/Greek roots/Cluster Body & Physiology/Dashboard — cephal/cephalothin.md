@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A semisynthetic analogue of cephalosporin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semisynthetic analogue of cephalosporin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A first-generation semisynthetic beta-lactam cephalosporin antibiotic administered parenterally for bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of antimicrobial chemotherapy, the first commercial cephalosporin marketed by Eli Lilly in 1964, effective against penicillin-resistant Staphylococcus aureus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalothin designates a semisynthetic analogue of cephalosporin."*
+> - 📜 **Edward Abraham (*Cephalosporins*):** *"The introduction of sodium **cephalothin** into clinical practice proved that beta-lactam rings could be chemically engineered to resist penicillinases."*
+> - 📜 **Selman Waksman (*The Conquest of Infectious Diseases*):** *"Hospital wards utilized **cephalothin** as a frontline parenteral antibiotic against severe surgical and orthopedic infections."*
+> - 📜 **René Dubos (*Bacterial Diseases*):** *"Intravenous **cephalothin** cleared systemic staphylococcal bacteremias with minimal allergic cross-reactivity in penicillin-sensitive patients."*

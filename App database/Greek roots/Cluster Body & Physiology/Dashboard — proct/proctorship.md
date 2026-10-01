@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of proctor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of proctor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, term, or jurisdiction of a proctor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic institutional history, the administrative tenure during which an appointed university officer executes disciplinary governance and supervises institutional ceremonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proctorship designates the position of proctor."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"During his academic **proctorship**, he sought to revive the strict statutory discipline of ancient university statutes."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The dignities and emoluments associated with the Oxford **proctorship** were regarded as stepping-stones to high ecclesiastical preferment."*
+> - 📜 **Thomas Carlyle (*Life of John Sterling*):** *"His year of **proctorship** passed without serious student disturbance, marked by geniality and firmness."*

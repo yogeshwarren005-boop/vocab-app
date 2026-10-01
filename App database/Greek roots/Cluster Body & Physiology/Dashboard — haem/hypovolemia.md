@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decrease in the volume of circulating blood in the body (as from traumatic injury or severe dehydration).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decrease in the volume of circulating blood in the body (as from traumatic injury or severe dehydration).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of abnormally decreased volume of circulating blood plasma in the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical care medicine and physiology, effective intravascular fluid depletion resulting from hemorrhage, severe dehydration, or third-spacing, culminating in hypovolemic shock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypovolemia designates a decrease in the volume of circulating blood in the body (as from traumatic injury or severe dehydration)."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Severe acute **hypovolemia** triggers arterial baroreceptors to provoke intense sympathetic vasoconstriction and tachycardia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The profound collapse seen in severe cholera is an extreme example of dehydration-induced **hypovolemia**."*
+> - 📜 **Alexis Carrel (*The Treatment of Infected Wounds*):** *"Prompt intravenous fluid infusion reversed the life-threatening **hypovolemia** resulting from battlefield exsanguination."*

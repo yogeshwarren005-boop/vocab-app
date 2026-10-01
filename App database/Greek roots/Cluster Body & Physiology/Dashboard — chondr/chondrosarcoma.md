@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chondr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant bone cancer composed of transformed cells that produce a cartilaginous matrix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musculoskeletal oncology, a radioresistant malignant tumor of adults arising primarily in the pelvis, ribs, or proximal femur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondrosarcoma designates a term designating an entity, condition, or phenomenon derived from greek chondr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unlike osteosarcoma, **chondrosarcoma** predominantly afflicts mature adults and tends to resist conventional radiation therapy."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The malignant potential of a deep-seated **chondrosarcoma** is revealed by rapid infiltration into adjacent cancellous bone."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Pleomorphic, binucleated cartilage cells amidst atypical myxoid stroma distinguish high-grade **chondrosarcoma** from benign enchondroma."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dialectic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dialectic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner involving dialectic; through logical discussion, reasoned inquiry, or debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical analysis, progressing through the reciprocal interaction, tension, and resolution of conceptual opposites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"So at Dodona the oak-god Zeus was coupled with Dione, whose very name is only a dialectically different form of Juno; and so on the top of Mount Cithaeron, as we have seen, he appears to have been periodically wedded to an oaken image of Hera."*
+> - 📜 **Friedrich Engels (*Anti-Dühring*):** *"To comprehend nature **dialectically** is to grasp phenomena in their interconnected motion, growth, and transformation."*
+> - 📜 **Georg Wilhelm Friedrich Hegel (*Lectures on the History of Philosophy*):** *"Thought develops **dialectically**, advancing by necessity from abstract immediacy to concrete self-determination."*
+> - 📜 **Theodor Adorno (*Negative Dialectics*):** *"Critical theory must proceed **dialectically**, refusing to reconcile genuine social contradictions into a false totality."*

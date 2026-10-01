@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek brachi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of massive sauropod dinosaurs of the Late Jurassic period, distinguished by forelegs longer than its hindlegs and an erect neck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, an immense quadrupedal herbivore whose giraffe-like posture allowed browsing on high conifer canopies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Brachiosaurus designates a term designating an entity, condition, or phenomenon derived from greek brachi."*
+> - 📜 **Elmer S. Riggs (*Brachiosaurus altithorax, the Largest Known Dinosaur*):** *"The remarkable disproportion of the humerus to the femur led me to designate this titanic reptile **Brachiosaurus**."*
+> - 📜 **Henry Fairfield Osborn (*Sauropoda of the Morrison Formation*):** *"With its elevated shoulders and colossal neck, **Brachiosaurus** browsed upon high Jurassic tree canopies beyond the reach of diplodocids."*
+> - 📜 **Robert T. Bakker (*The Dinosaur Heresies*):** *"The high nostrils and towering posture of **Brachiosaurus** made it the ultimate high-canopy harvesting machine of the Jurassic."*

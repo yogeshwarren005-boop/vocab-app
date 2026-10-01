@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal enlargement of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal enlargement of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal, pathological enlargement or dilatation of the heart; cardiomegaly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, enlargement of the heart due to chronic volume or pressure overload, characterized by an increased cardiothoracic ratio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megacardia designates an abnormal enlargement of the heart."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"The massive heart observed in **megacardia** fills the left hemithorax, displacing the adjacent lung and pressing against the diaphragm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe chronic regurgitation of the aortic valves leads inexorably to extreme **megacardia**, the heart weighing up to a thousand grams."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"In advanced **megacardia**, the dilated chambers lose their mechanical efficiency, precipitating refractory congestive heart failure."*

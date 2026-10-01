@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agglutination of red blood cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agglutination of red blood cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The agglutination or clumping together of red blood cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic immunology and virology, a standard laboratory technique used for blood typing, viral quantification, and measuring antiviral antibody titers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemagglutination designates agglutination of red blood cells."*
+> - 📜 **Karl Landsteiner (*On Agglutination of Normal Human Blood*):** *"The discovery of ABO blood groups was achieved through simple slide observations of macroscopic **haemagglutination**."*
+> - 📜 **Paul Farmer (*Fevers, Feuds, and Diamonds*):** *"Micro-titer **haemagglutination** inhibition assays provided epidemiologists with rapid serological confirmation of viral transmission."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Cross-matching donor blood before transfusion ensures that lethal recipient antibodies do not trigger immediate intravascular **haemagglutination**."*

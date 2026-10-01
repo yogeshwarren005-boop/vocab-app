@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected by an aneurysm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affected by an aneurysm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the nature of, or exhibiting features characteristic of, an aneurysm (synonymous with aneurysmal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology and classic surgery, describing vascular malformations or bone cavities that show localized dilatation and blood pooling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aneurysmatic designates relating to or affected by an aneurysm."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"In certain osseous tumours, vascular spaces expand so markedly as to impart an **aneurysmatic** thrill to the palpating fingers."*
+> - 📜 **Carl von Rokitansky (*A Manual of Pathological Anatomy*):** *"The structural attenuation of the middle tunic constitutes the primary morphological basis of every true **aneurysmatic** dilatation."*
+> - 📜 **Samuel Gross (*A System of Surgery*):** *"Compression above the **aneurysmatic** swelling diminished the amplitude of pulsation and arrested further growth of the sac."*

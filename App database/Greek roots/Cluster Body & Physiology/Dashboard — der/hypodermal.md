@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the hypodermis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the hypodermis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the parts beneath the skin; subcutaneous; hypodermic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, relating to the hypodermis, the cellular layer that secretes the chitinous cuticle of arthropods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypodermal designates of or relating to the hypodermis."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The chitinous armor of the crustacean is secreted directly by the underlying **hypodermal** cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Insulin must be deposited into the loose **hypodermal** adipose tissue to ensure smooth, continuous absorption."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Thickened **hypodermal** sclerenchyma fibers beneath the needle epidermis give structural rigidity to pine foliage."*

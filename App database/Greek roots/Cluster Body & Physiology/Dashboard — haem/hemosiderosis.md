@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The excessive deposition of hemosiderin in bodily tissues (as of the liver, spleen, or lungs) that typically results from bleeding, the breakdown of red blood cells, or repeated transfusions and is usually not accompanied by tissue damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The excessive deposition of hemosiderin in bodily tissues (as of the liver, spleen, or lungs) that typically results from bleeding, the breakdown of red blood cells, or repeated transfusions and is usually not accompanied by tissue damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by an excessive focal or systemic accumulation of hemosiderin within tissues and macrophages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, iron overload occurring without the tissue injury and cirrhosis characteristic of hemochromatosis, often secondary to multiple blood transfusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemosiderosis designates the excessive deposition of hemosiderin in bodily tissues (as of the liver, spleen, or lungs) that typically results from bleeding, the breakdown of red blood cells, or repeated transfusions and is usually not accompanied by tissue damage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic hemolytic disorders managed by multiple transfusions, generalized **hemosiderosis** progressively saturates the reticuloendothelial system."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Focal **hemosiderosis** marks the exact site of previous tissue hemorrhage where phagocytes have digested extravasated corpuscles."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"When total iron stores surpass macrophage capacity, systemic **hemosiderosis** extends into parenchymal glandular organs."*

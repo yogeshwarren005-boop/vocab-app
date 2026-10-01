@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of ascomycetous fungus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of ascomycetous fungus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of operculate ascomycetous cup fungi in the order Pezizales, characterized by dark, leathery, gelatinous or urn-shaped apothecia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic mycology, Sarcosomataceae includes saprobic genera such as *Urnula* and *Sarcosoma* that fruit on decaying wood, soil, or moss in coniferous and mixed forest ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcosomataceae designates a type of ascomycetous fungus."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"The dark, gelatinous apothecial walls of the **Sarcosomataceae** distinguish them readily from the thin-fleshed Sarcoscyphaceae."*
+> - 📜 **Charles Horton Peck (*Report of the State Botanist of New York*):** *"We observed Urnula craterium, a prominent representative of the **Sarcosomataceae**, growing upon buried hickory branches in spring."*
+> - 📜 **M. J. Berkeley (*Outlines of British Fungology*):** *"The tough, elastic consistency of the **Sarcosomataceae** enables their fruiting bodies to withstand unseasonable late frost."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute or chronic inflammation of the kidney caused by infection, degenerative process, or vascular disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute or chronic inflammation of the kidney caused by infection, degenerative process, or vascular disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the kidneys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renal medicine and pathology, an acute or chronic condition involving glomeruli, tubules, or interstitial tissue (such as glomerulonephritis or pyelonephritis), leading to impaired renal filtration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephritis designates acute or chronic inflammation of the kidney caused by infection, degenerative process, or vascular disease."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The co-existence of coagulable urine, dropsy, and structural disorganization of the kidneys demonstrates the entity of chronic **nephritis**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **nephritis** following streptococcal infection is heralded by smoky or cola-colored urine."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In interstitial **nephritis**, widespread lymphocytic infiltration leads to tubular atrophy and fibrous replacement."*

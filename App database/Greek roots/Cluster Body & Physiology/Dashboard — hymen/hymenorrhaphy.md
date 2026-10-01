@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hymen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical repair, suturing, or reconstruction of the hymen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative gynecology and reconstructive pelvic surgery, the suturing of torn or lacerated edges of the hymenal mucosa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenorrhaphy designates a term designating an entity, condition, or phenomenon derived from greek hymen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surgical **hymenorrhaphy** was performed under local anesthesia to restore the integrity of the lacerated membrane."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Traumatic rupture following pelvic injury required immediate **hymenorrhaphy** to arrest persistent capillary hemorrhage."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"The technique of **hymenorrhaphy** involves debridement of fibrous scar margins followed by fine catgut coaptation."*

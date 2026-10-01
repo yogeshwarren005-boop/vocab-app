@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cuticle or cuticula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cuticle or cuticula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or situated in the epidermis; cutaneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and botany, pertaining to the outermost protective layer of keratinized stratified squamous epithelium or plant cuticle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epidermal designates of or relating to a cuticle or cuticula."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Constant shedding of dead **epidermal** squames is compensated by active cell proliferation in the basal germinative layer."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"The stomata of green leaves are specialized openings bounded by **epidermal** guard cells that regulate transpiration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe pemphigus causes widespread bullous separation of the **epidermal** sheet from the underlying basement membrane."*

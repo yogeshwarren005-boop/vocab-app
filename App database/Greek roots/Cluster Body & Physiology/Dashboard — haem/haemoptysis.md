@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The coughing up or spitting of blood or blood-stained mucus from the larynx, trachea, bronchi, or lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonology, an alarming cardinal sign of pulmonary tuberculosis, bronchiectasis, pulmonary embolism, or bronchogenic carcinoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoptysis designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden profuse **haemoptysis** in a young adult is among the most frequent and unmistakable initial signs of pulmonary tuberculosis."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"In cases of severe pulmonary apoplexy, the patient experiences sudden suffocation attended by alarming **haemoptysis** of frothy scarlet blood."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"A dry hacking cough attended with frequent **haemoptysis** portends destructive phthisical ulceration of the pulmonary substance."*

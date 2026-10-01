@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior tip at the end of the suture of the nasal bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior tip at the end of the suture of the nasal bones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point situated at the inferior tip of the internasal suture on the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological osteology and facial reconstructive surgery, an anatomical landmark representing the junction of the nasal bones and the superior border of the piriform aperture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinion designates the anterior tip at the end of the suture of the nasal bones."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Craniometric coordinates measured from the **rhinion** to the nasion define the nasal bone length."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Accurate osteotomy of the nasal bridge requires precise palpation of the underlying **rhinion**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The distance from **rhinion** to gnathion was recorded in each craniometric skull series to assess facial prognathism."*

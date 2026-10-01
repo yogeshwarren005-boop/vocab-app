@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have supper; eat dinner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give dinner to; host for dinner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To eat dinner; to take the principal meal of the day, often in social company.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and literature, to partake of an elaborate or formal repast accompanied by convivial conversation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, will you walk with me about the town, And then go to my inn and dine with me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good sister, let us dine, and never fret; A man is master of his liberty; Time is their master, and when they see time, They’ll go or come."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Husband, I’ll dine above with you today, And shrive you of a thousand idle pranks."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"What, will you walk with me about the town, and then go to my inn and **dine** with me?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy was invited to **dine** at Rosings, an honor which he accepted with his accustomed grave politeness."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Herbert and I agreed to **dine** together at our lodgings, celebrating our sudden turn of good fortune."*

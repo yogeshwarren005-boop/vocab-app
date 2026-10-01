@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe hypothyroidism characterized by firm inelastic edema, dry skin and hair, and loss of mental and physical vigor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe hypothyroidism characterized by firm inelastic edema, dry skin and hair, and loss of mental and physical vigor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by swelling of the skin and subcutaneous tissues with a waxy, mucus-like edema, caused by severe hypothyroidism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, advanced thyroid hormone deficiency presenting with hypothermia, bradycardia, lethargy, coarsened facial features, and slowed mentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myxedema designates severe hypothyroidism characterized by firm inelastic edema, dry skin and hair, and loss of mental and physical vigor."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The transformation wrought by thyroid extract in advanced **myxedema** is one of the greatest triumphs of modern medicine."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"The sluggish mental reaction and non-pitting edema of **myxedema** disappear following thyroid administration."*
+> - 📜 **William Gull (*Transactions of the Clinical Society of London*):** *"I described this cretinoid state in adults under the name of **myxedema**, noting the gelatinous swelling of the dermis."*

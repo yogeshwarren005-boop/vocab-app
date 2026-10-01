@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of strigidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of strigidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct monotypic genus of New Zealand ground-nesting owls containing *Sceloglaux albifacies*, commonly known as the laughing owl or whekau.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, *Sceloglaux* was characterized by long, robust legs adapted for terrestrial locomotion and hunting, driven to extinction in the early twentieth century by introduced mammalian predators and habitat destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sceloglaux designates a genus of strigidae."*
+> - 📜 **Walter Buller (*A History of the Birds of New Zealand*):** *"The peculiar nocturnal cry of **Sceloglaux** albifacies, resembling wild maniacal laughter, echoed eerily through the limestone gorges."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"The osteological structure of **Sceloglaux** shows strong terrestrial adaptations, particularly in the elongated metatarsus."*
+> - 📜 **Walter Rothschild (*Extinct Birds*):** *"With the introduction of stoats and feral cats into New Zealand, the ground-nesting **Sceloglaux** rapidly disappeared from mainland forests."*

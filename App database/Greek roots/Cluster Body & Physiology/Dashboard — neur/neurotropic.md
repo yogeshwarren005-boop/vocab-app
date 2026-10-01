@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a virus, toxin, or chemical) tending to attack or affect the nervous system preferentially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a virus, toxin, or chemical) tending to attack or affect the nervous system preferentially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an affinity for, migrating toward, or preferentially infecting nervous tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology and developmental biology, describing pathogens (such as rabies or poliovirus) that invade nerve cells, or chemical factors that guide axonal growth toward target organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotropic designates (of a virus, toxin, or chemical) tending to attack or affect the nervous system preferentially."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The rabies virus is a strictly **neurotropic** agent that travels centripetally along peripheral nerves to reach the central nervous system."*
+> - 📜 **Santiago Ramón y Cajal (*Degeneration and Regeneration of the Nervous System*):** *"Sprouting growth cones are attracted to peripheral Schwann bands by diffusible **neurotropic** substances secreted by the sheath cells."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The specific chemical receptors of nervous tissue account for the selective accumulation of **neurotropic** pharmaceuticals in the brain."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hymen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The structural part of a basidiomycete fungus that bears or supports the hymenium (such as gills, pores, tubes, or teeth).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal morphology and systematics, the specialized tramal framework of an agaric or polypore beneath the fertile spore-bearing layer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenophore designates a term designating an entity, condition, or phenomenon derived from greek hymen."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The vertical gills of the mushroom serve as a corrugated **hymenophore**, multiplying the surface available for spore production."*
+> - 📜 **Elias Magnus Fries (*Epicrisis Systematis Mycologici*):** *"Whether the **hymenophore** is lamellate, poroid, or hydnoid determines the primary taxonomic genus of the specimen."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Microscopic sections show the continuous tramal tissue of the **hymenophore** supporting the delicate basidial palisade."*

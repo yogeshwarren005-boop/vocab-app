@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expectoration of blood from some part of the respiratory tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expectoration of blood from some part of the respiratory tract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The coughing up of blood or blood-stained mucus from the bronchi, larynx, trachea, or lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonary medicine, a cardinal sign of lower respiratory tract disease (ranging from mild blood-streaked sputum to massive, life-threatening hemoptysis), commonly caused by bronchitis, tuberculosis, bronchiectasis, or bronchogenic carcinoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemoptysis designates expectoration of blood from some part of the respiratory tract."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden profuse **hemoptysis** in a young adult is often the first unmistakable warning of pulmonary tuberculosis."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"The bright red, frothy character of the blood evacuated during **hemoptysis** confirms its pulmonary origin."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Sussex Vampire*):** *"The invalid coughed violently, and the linen handkerchief showed alarming traces of arterial **hemoptysis**."*

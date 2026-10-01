@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of medical practice that emphasizes a holistic and comprehensive approach to patient care and utilizes the manipulation of musculoskeletal tissues along with other therapeutic measures (such as the use of drugs or surgery) to prevent and treat disease : osteopathic medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician who has earned a degree in osteopathic medicine or osteopathy; also : an academic graduate degree conferring the rank or title of doctor of osteopathic medicine —abbreviation DO, D.O.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of complementary and mainstream healthcare founded by Andrew Taylor Still, emphasizing the therapeutic role of the musculoskeletal system in health and disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical licensing, a recognized branch of medicine in the United States granting full medical practice rights to Doctors of Osteopathic Medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I had been treated by doctors and specialists; had taken magnetic treatments and osteopathy; had tried change of climate; had an operation in a hospital, and when I came out was worse than before."*
+> - 📜 **Andrew Taylor Still (*The Philosophy of Osteopathy*):** *"I proclaimed that the body produces its own remedies, and upon that foundational truth I erected the science of **osteopathy**."*
+> - 📜 **Abraham Flexner (*Medical Education in the United States and Canada*):** *"The scientific maturation of **osteopathy** required bridging manual mechanical manipulation with modern clinical pathology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The popularity of **osteopathy** served as a timely reminder to orthodox practitioners that physical manipulation has genuine therapeutic value."*

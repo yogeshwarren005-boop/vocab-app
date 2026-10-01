@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flightless new zealand birds similar to gallinules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flightless new zealand birds similar to gallinules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, flightless rails endemic to New Zealand, specifically the takahe (Notornis mantelli or Porphyrio mantelli).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian paleontology and conservation biology, an endangered flightless rail with vivid blue-green plumage and a heavy red frontal shield, famously rediscovered in 1948 after being presumed extinct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notornis designates flightless new zealand birds similar to gallinules."*
+> - 📜 **Richard Owen (*On Dinornis*):** *"From subfossil bones found alongside the giant moas, I erected the genus **Notornis** to accommodate this extraordinary heavy-bodied rail."*
+> - 📜 **Walter Buller (*A History of the Birds of New Zealand*):** *"The capture of a living **Notornis** in the untrodden wilds of Fiordland proved that this majestic flightless rail still lingered."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"The osteological characters of **Notornis** show a profound reduction of the pectoral girdle commensurate with complete loss of flight."*

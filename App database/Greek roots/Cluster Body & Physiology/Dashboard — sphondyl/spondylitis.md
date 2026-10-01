@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the vertebrae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the vertebrae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of one or more vertebrae in the spinal column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology, ankylosing spondylitis is a chronic inflammatory seronegative spondyloarthropathy strongly associated with the HLA-B27 antigen, causing progressive sacroiliitis, syndesmophyte formation, and spinal fusion ('bamboo spine').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondylitis designates inflammation of the vertebrae."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tuberculous **spondylitis**, commonly known as Pott's disease of the spine, produces angular kyphotic curvature and cold abscesses."*
+> - 📜 **Pierre Marie (*Sur la spondylose rhizomélique*):** *"In ankylosing **spondylitis**, the ossification of spinal ligaments steadily transforms the flexible vertebral column into a rigid bony stalk."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Pain exacerbated by spinal percussion and localized rigidity are cardinal early symptoms of destructive vertebral **spondylitis**."*

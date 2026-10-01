@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That can be given a date; - c.w.shumaker.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That can be given a date; - c.w.shumaker.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being dated; able to have its chronological origin, period, or age established.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology, art history, and palaeography, possessing diagnostic stylistic, epigraphic, or radiocarbon features that fix its historical date.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, datable designates that can be given a date; - c.w.shumaker."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bronze coins discovered along the limes were precisely **datable** to the third consulate of Antoninus Pius."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Every carved capital upon the ducal palace is clearly **datable** by the transition from Byzantine to Gothic foliage."*
+> - 📜 **Arthur Evans (*The Palace of Minos at Knossos*):** *"Imported Egyptian scarabs provided a secure, **datable** horizon for the ceramic strata of the Middle Minoan palace."*

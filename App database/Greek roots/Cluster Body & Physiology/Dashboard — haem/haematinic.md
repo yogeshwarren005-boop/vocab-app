@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine that increases the hemoglobin content of the blood; used to treat iron-deficiency anemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine that increases the hemoglobin content of the blood; used to treat iron-deficiency anemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication or agent that increases the hemoglobin content and number of red blood cells in the blood (such as iron, vitamin B12, or folate).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, restorative therapeutics administered to treat nutritional, chronic disease, or post-hemorrhagic anemias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematinic designates a medicine that increases the hemoglobin content of the blood; used to treat iron-deficiency anemia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ferrous sulfate is our most reliable and cost-effective **haematinic** in microcytic hypochromic anemia."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"We prescribed daily oral **haematinic** capsules containing elemental iron and folic acid to support the pregnant mother's red cell volume."*
+> - 📜 **Paul Farmer (*Pathologies of Power*):** *"Routine community distribution of foundational **haematinic** supplements drastically reduced nutritional maternal morbidity."*

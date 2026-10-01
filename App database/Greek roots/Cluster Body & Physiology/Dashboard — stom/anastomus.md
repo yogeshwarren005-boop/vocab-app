@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Openbills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Openbills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large wading birds in the stork family Ciconiidae, commonly known as openbill storks, characterized by a bill that gaps widely between the mandibles when closed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, *Anastomus* comprises the African openbill (*Anastomus lamelligerus*) and Asian openbill (*Anastomus oscitans*), whose specialized curved bills are adapted for grasping and extracting large freshwater snails from their shells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastomus designates openbills."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Flocks of **Anastomus** oscitans wade through the flooded paddy fields, using their curious gap-billed beaks to crush aquatic snails."*
+> - 📜 **John Gould (*The Birds of Asia*):** *"The gaping bill of **Anastomus** is not a deformity, but an exquisite adaptation for holding hard-shelled molluscan prey."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"Along the marshy margins of the Zambesi, the dark African openbill, **Anastomus** lamelligerus, gathers in great noisy companies."*

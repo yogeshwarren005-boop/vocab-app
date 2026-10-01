@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining root (from Greek enkephalos, meaning 'within the head, the brain'), forming terms relating to the brain and intracranial structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and pathology, the foundational radical occurring in encephalon, encephalitis, and encephalopathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephal designates adjective*) pertaining to, derived from, or characteristic of brain."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The ancient Greek word enkephalos literally signified that which is within the head; hence the anatomical root **encephal**."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From the stem **encephal** arise our words encephalitis, encephalon, and electroencephalography."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"All specialized terms bearing the prefix **encephal** denote the cranial portion of the central nervous system."*

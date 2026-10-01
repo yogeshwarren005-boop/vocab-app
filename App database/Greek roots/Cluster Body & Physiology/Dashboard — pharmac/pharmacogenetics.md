@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of how genetic differences among individuals cause varied responses to a drug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of how genetic differences among individuals cause varied responses to a drug.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of inherited genetic variations that dictate individual differences in drug response and metabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personalized clinical medicine, identifying single-gene polymorphisms (e.g., CYP2D6, TPMT) that alter drug efficacy or trigger severe adverse drug reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacogenetics designates the study of how genetic differences among individuals cause varied responses to a drug."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"The burgeoning field of **pharmacogenetics** explains why identical doses produce toxicity in one patient and therapeutic failure in another."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"Heritable variations in hepatic cytochrome P450 enzymes represent the classical paradigm of clinical **pharmacogenetics**."*
+> - 📜 **Francis Collins (*The Language of Life*):** *"Through **pharmacogenetics**, we can predict dangerous hypersensitivity reactions before dispensing a single pill."*

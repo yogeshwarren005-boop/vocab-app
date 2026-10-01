@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of protoctist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of protoctist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of red marine algae (family Gigartinaceae), especially Chondrus crispus, commonly known as Irish moss or carrageen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology and commercial botany, a cartilaginous seaweeed harvested from rocky North Atlantic shores for its gelatinous carrageenan polysaccharides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondrus designates a genus of protoctist."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The tidal rocks along the rocky shore were draped with dense fringes of dark purple **Chondrus** and bladderwrack."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"Boiling the fronds of **Chondrus** crispus yields a thick, nutritious jelly valued both as food and as an emulsifying agent."*
+> - 📜 **Philip Henry Gosse (*A Naturalist's Rambles on the Devonshire Coast*):** *"In the tide-pools, the iridescent fronds of **Chondrus** gleamed with sapphire tints beneath the surface of the water."*

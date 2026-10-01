@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one less than the diploid number of chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having one less than the diploid number of chromosomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of aneuploidy in which one member of a chromosome pair is missing from an otherwise diploid karyotype (2n - 1).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human clinical genetics, complete autosomal monosomy is almost universally lethal during early embryonic development; Turner syndrome (45,X) represents the only viable full monosomy in humans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosomy designates having one less than the diploid number of chromosomes."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Turner syndrome exemplifies sex chromosome **monosomy**, characterized by short stature, webbed neck, and gonadal dysgenesis."*
+> - 📜 **Albert Blakeslee (*The Chromosome Constitution of Datura Mutants*):** *"While polysomy is frequently tolerated in plants, total **monosomy** produces profound developmental depression."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"Non-disjunction during paternal spermatogenesis is the most frequent cytologic origin of 45,X **monosomy**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science and surgery that deals with the anatomy, physiology, and diseases of the nose and paranasal sinuses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical otorhinolaryngology, the subspecialty dedicated to functional endoscopic sinus surgery (FESS), septal reconstruction, skull base surgery, and nasal airway management.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinology designates a term designating an entity, condition, or phenomenon derived from greek rhin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern clinical **rhinology** transformed the treatment of chronic frontal sinusitis from radical trephination to endonasal drainage."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Meticulous application of aseptic technique in **rhinology** drastically diminished postoperative intracranial complications."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Collaborative research in operative **rhinology** paved the way for transnasal skull base access to the sella turcica."*

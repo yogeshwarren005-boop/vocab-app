@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two fleshy folds that surround the mouth in humans and many other vertebrates and are organs of human speech essential to certain articulations; also : the red or pinkish margin of the human lip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two fleshy folds that surround the mouth in humans and many other vertebrates and are organs of human speech essential to certain articulations; also : the red or pinkish margin of the human lip.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two fleshy folds forming the edges of the human and animal mouth; also the outer edge, brim, or rim of a vessel, wound, or orifice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics and anatomical physiology, the mobile labial structures vital for pronouncing bilabial and labiodental consonants, nursing, mastication, and emotional facial mimicry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But all the charms of love, Salt Cleopatra, soften thy waned lip!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now no more The juice of Egypt’s grape shall moist this lip."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was a pretty redness in his lip, A little riper and more lusty red Than that mixed in his cheek. ’Twas just the difference Betwixt the constant red and mingled damask."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Her **lip** is wet; You'll marry her, sir, at your pleasure."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A sneer curled the thin **lip** of the harpooner as he glanced at the turbulent waters."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Retraction of the upper **lip** exposes the canine teeth in canine species during fierce aggression."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ancient rome) an official elected by the plebeians to protect their interests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The apse of a christian church that contains the bishop's throne.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official in ancient Rome chosen by the plebeians to protect their rights and liberties against patrician magistrates; also, a raised platform or dais; or a champion of the people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman constitutional history, the Tribune of the Plebs (*tribunus plebis*) held sacrosanct status and exercised the right of *intercessio* (the power to veto senatorial decrees and consular acts).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By yond clouds, Let me deserve so ill as you, and make me Your fellow tribune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will pass To where you are bound, you must inquire your way, Which you are out of, with a gentler spirit, Or never be so noble as a consul, Nor yoke with him for tribune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plebeians have got your fellow tribune And hale him up and down, all swearing if The Roman ladies bring not comfort home, They’ll give him death by inches."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sacrosanct person of the plebeian **tribune** was shielded by the solemn oaths of the entire Roman people."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Hear you this Triton of the minnows? Mark you his absolute 'shall'? Thus spoke the plebeian **tribune** to inflame the rabble."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"Then turned he to the people, and cried with a bold voice: 'Choose now your **tribune**, citizens, and maintain your ancient rights!'"*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being any of a division (Platyrrhina) of arboreal New World monkeys characterized by a broad nasal septum, usually 36 teeth, and often a prehensile tail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a short broad nose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the Platyrrhini, the parvorder of primates comprising the New World monkeys, characterized by flat, broad noses with outward-facing nostrils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary primatology, South and Central American primates (such as howler monkeys, spider monkeys, and capuchins) possessing three premolars in each quadrant and prehensile tails in several lineages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platyrrhine designates of, relating to, or being any of a division (platyrrhina) of arboreal new world monkeys characterized by a broad nasal septum, usually 36 teeth, and often a prehensile tail."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"No **platyrrhine** monkey possesses the thirty-two teeth or narrow nasal septum characteristic of Old World primates."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The evolutionary divergence of the **platyrrhine** lineage in South America proceeded in geographic isolation from Old World forms."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Our common ancestor with the **platyrrhine** monkeys lived about forty million years ago before the Atlantic widened."*

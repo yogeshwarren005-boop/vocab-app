@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The parts of the earth diametrically opposite —usually plural—often used of Australia and New Zealand as contrasted to the western hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The exact opposite or contrary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exact opposite or contrary of something; a diametrically opposite point, person, or thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geography and classical cartography (Greek antipous, with feet opposite), a point on the Earth's surface directly contrary to another, where people's feet would point toward each other.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The suppositional antipode of divine infinite Spirit 200:21 is the so-called human soul or spirit, in other words the five senses, - the flesh that warreth against Spirit."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mortal man is the antipode of immortal man in origin, in existence, and in his relation to God."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Animal mag- netism is the voluntary or involuntary action of error in all its forms; it is the human antipode 484:24 of divine Science."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The pedant is the very **antipode** of the true scholar, substituting dead memorization for living insight."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"His gloomy cynicism stood as the moral **antipode** to the radiant optimism of his youthful days."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"While noon blazed upon the deck, our **antipodes** slept beneath the starry skies of the opposite hemisphere."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek omphal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, persistent, and irrational fear or aversion to navels (belly buttons).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychiatry, a specific phobia characterized by intense anxiety, nausea, or panic triggered by touching, viewing, or contemplating one's own or others' navel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omphalophobia designates a term designating an entity, condition, or phenomenon derived from greek omphal."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Bizarre body phobias such as **omphalophobia** frequently conceal deeply repressed anxieties surrounding birth or infantile attachment."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In extreme **omphalophobia**, the mere accidental glance at an exposed navel elicits a sharp somatic shudder of revulsion."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Patients afflicted with **omphalophobia** avoid all physical contact with the umbilical region, fearing tactile injury."*

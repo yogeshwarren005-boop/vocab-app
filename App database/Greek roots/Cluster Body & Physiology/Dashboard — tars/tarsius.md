@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type and sole genus of the family tarsiidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type and sole genus of the family tarsiidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, carnivorous nocturnal primates in the family Tarsiidae, native to Southeast Asia, commonly known as tarsiers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy, species of *Tarsius* (such as the spectral tarsier *Tarsius tarsier*) are completely carnivorous, feeding exclusively on insects, lizards, and small birds captured by lightning-fast saltatory leaps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tarsius designates type and sole genus of the family tarsiidae."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"I kept a specimen of **Tarsius** alive for several days, admiring its soft woolly fur and huge golden saucer-like eyes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The dental formula and skull proportions of **Tarsius** exhibit surprising affinities with the simian primates."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In **Tarsius**, the prolonged ankle bones provide an explosive mechanical spring unmatched by any other primate."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of the spleen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of the spleen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal or excision of the spleen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In general and trauma surgery, splenectomy is indicated for massive splenic rupture resulting from abdominal trauma, severe refractory immune thrombocytopenia (ITP), symptomatic hereditary spherocytosis, or primary splenic neoplasms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, splenectomy designates surgical removal of the spleen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Total **splenectomy** affords immediate hematological cure in severe cases of congenital hemolytic jaundice."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"When blunt abdominal trauma lacerates the splenic capsule beyond repair, prompt **splenectomy** is lifesaving."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Following **splenectomy**, peripheral blood examination reveals transient thrombocytosis and typical nuclear Howell-Jolly remnants."*

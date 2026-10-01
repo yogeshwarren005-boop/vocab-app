@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hidrot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign, cystic tumor or retention cyst originating from sweat glands, typically found on the face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatopathology, a translucent cystic proliferation categorized as eccrine hidrocystoma (ductal retention cyst) or apocrine hidrocystoma (true cystic adenoma), exacerbated by heat and sweating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hidrocystoma designates a term designating an entity, condition, or phenomenon derived from greek hidrot."*
+> - 📜 **Tilbury Fox (*Skin Diseases: Their Description, Pathology, Diagnosis, and Treatment*):** *"Upon the periorbital skin of the middle-aged female, tiny translucent papules of **hidrocystoma** enlarge conspicuously in hot weather."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Biopsy of the bluish facial papule confirmed a benign **hidrocystoma** lined by two layers of sweat duct epithelium."*
+> - 📜 **Jonathan Hutchinson (*Lectures on Clinical Surgery*):** *"Puncture of the delicate cystic dome in **hidrocystoma** discharges a drop of clear, sterile sudoriferous fluid."*

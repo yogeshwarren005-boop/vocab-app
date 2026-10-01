@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spondyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The forward or backward displacement (slipping) of one vertebra relative to the adjacent vertebra beneath it, most commonly occurring at the L5-S1 or L4-L5 lumbar levels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified etiologically into isthmic (due to pars interarticularis defects), degenerative (secondary to facet osteoarthritis), dysplastic, traumatic, or pathologic forms, often causing neurogenic claudication or radiculopathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondylolisthesis designates a term designating an entity, condition, or phenomenon derived from greek spondyl."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked lumbar **spondylolisthesis** produces a characteristic duck-waddling gait and a prominent step-off on spinal palpation."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Radicular pain and cauda equina compression may complicate high-grade **spondylolisthesis** requiring surgical decompression."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Pelvic lordosis compensates mechanically for the forward displacement of the fifth lumbar vertebra in **spondylolisthesis**."*

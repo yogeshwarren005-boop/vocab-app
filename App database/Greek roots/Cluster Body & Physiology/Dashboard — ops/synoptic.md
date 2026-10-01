@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording a general view of a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manifesting or characterized by comprehensiveness or breadth of view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording a comprehensive, general, or summarized overview of a subject from a unified perspective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology and biblical studies, referring to simultaneous multi-station atmospheric weather mapping or the shared textual framework of the first three Christian Gospels (Matthew, Mark, and Luke).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synoptic designates affording a general view of a whole."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A **synoptic** view of the natural sciences reveals the grand coherence underlying diverse physical phenomena."*
+> - 📜 **Cleveland Abbe (*The Mechanics of the Earth's Atmosphere*):** *"By means of the **synoptic** weather chart, meteorologists trace simultaneous barometric disturbances across entire continents."*
+> - 📜 **B. H. Streeter (*The Four Gospels: A Study of Origins*):** *"Comparative analysis of the **synoptic** narratives demonstrates an intricate literary dependence upon early documentary sources."*

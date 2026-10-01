@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of rend, tear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of rend, tear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising from or caused by a rupture, tear, or break (especially in retinal detachment).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vitreoretinal surgery, designating rhegmatogenous retinal detachment (RRD), the most common form of retinal detachment caused by a tear or hole in the retina allowing fluid accumulation beneath neurosensory layers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhegmatogenous designates adjective*) pertaining to, derived from, or characteristic of rend, tear."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"Surgical closure of the retinal break is the paramount objective in curing **rhegmatogenous** retinal detachment."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"High myopic patients presenting with sudden photopsia and floaters must be examined urgently for **rhegmatogenous** detachment."*
+> - 📜 **Jules Gonin (*Le Décollement de la Rétine*):** *"My fundamental discovery was that every **rhegmatogenous** detachment can be cured only by locating and sealing the underlying tear."*

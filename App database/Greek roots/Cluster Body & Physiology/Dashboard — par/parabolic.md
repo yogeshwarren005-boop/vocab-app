@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressed by or being a parable : allegorical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, having the form of, or relating to a parabola.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form or properties of a parabola; shaped like a parabola.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressed by or having the nature of a parable; allegorical or didactic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"At any distance the beam from the parabolic reflector will be more intense than that from the spherical one, since the rays will be closer together."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"But even with the parabolic one there is some diffusion, for the simple reason that whereas the focus is a mathematical point (position without magnitude) the most concentrated form of light known has a considerable magnitude."*
+> - 📜 **Galileo Galilei (*Dialogues Concerning Two New Sciences*):** *"The **parabolic** curvature of a cannonball's descent is distorted only by the resisting density of ambient air."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"Many deep scriptures are delivered in **parabolic** shadows to provoke our contemplation rather than literal dogmatism."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Poesy **parabolic** has ever flourished in the earliest ages as a veil for subtle philosophical mysteries."*

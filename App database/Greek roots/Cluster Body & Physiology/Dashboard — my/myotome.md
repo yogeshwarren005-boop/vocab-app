@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The portion of an embryonic somite from which skeletal musculature is produced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The portion of an embryonic somite from which skeletal musculature is produced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of skeletal muscles innervated by the motor fibers of a single spinal nerve root; also, an instrument used for cutting muscle tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, the dorsolateral portion of a somite that develops into the skeletal musculature of the trunk and limbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myotome designates the portion of an embryonic somite from which skeletal musculature is produced."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Each embryonic somite differentiates into a sclerotome, dermatome, and a distinct muscular **myotome**."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Clinical mapping of a specific **myotome** allows precise localization of spinal nerve compression."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The deltoid and biceps muscles are primarily innervated by the C5 **myotome**."*

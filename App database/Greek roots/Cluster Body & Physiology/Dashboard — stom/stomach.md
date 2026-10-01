@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A saclike expansion of the digestive tract of a vertebrate that is located between the esophagus and duodenum and typically consists of a simple often curved sac with an outer serous covering, a strong muscular wall that contracts rhythmically, and an inner mucous membrane lining that contains gastric glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the compartments making up the stomach of a ruminant animal (such as a cow or sheep).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscular, dilated sac-like organ of the digestive tract situated between the esophagus and the small intestine, responsible for enzymatic and acid digestion of food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human physiology, the stomach secretes hydrochloric acid, pepsinogen, and intrinsic factor; it mechanically churns ingested food into chyme before releasing it through the pyloric sphincter into the duodenum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity breeds mites, much like a cheese; consumes itself to the very paring, and so dies with feeding his own stomach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The brains of my Cupid’s knock’d out, and I begin to love, as an old man loves money, with no stomach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did he not rather Discredit my authority with yours, And make the wars alike against my stomach, Having alike your cause?"*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice and the Physiology of Digestion*):** *"Through the fistulous opening, I observed that the interior of the living **stomach** is of a pale pink, velvet-like texture."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of Digestion*):** *"Gastric juice secreted by the **stomach** dissolves coagulated proteins through the synergistic action of pepsin and free acid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Peptic ulceration of the **stomach** presents with characteristic epigastric burning relieved transiently by food ingestion."*

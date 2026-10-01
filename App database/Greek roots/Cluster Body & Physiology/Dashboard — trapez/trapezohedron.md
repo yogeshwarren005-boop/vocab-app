@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline form whose faces are trapeziums.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline form whose faces are trapeziums.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A convex polyhedron whose faces are all congruent trapezia (deltoids or kites), also known as a deltohedron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and mineralogy, tetragonal and trigonal trapezohedra characterize crystal forms with enantiomorphic symmetries (such as low-temperature quartz crystals displaying left- or right-handed faces).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trapezohedron designates a crystalline form whose faces are trapeziums."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"The crystal habit of leucite typically presents as an icositetrahedron or tetragonal **trapezohedron** having twenty-four kite-shaped faces."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"In well-crystallized garnets and quartz, the faces of the **trapezohedron** reflect light with brilliant geometric symmetry."*
+> - 📜 **John Ruskin (*The Ethics of the Dust*):** *"The delicate facets of the quartz **trapezohedron** reveal the mysterious geometric discipline underlying mineral growth."*

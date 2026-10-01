@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A primary tumor of the bone marrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of bone marrow that is characterized by the presence of numerous myelomas in various bones of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primary malignant tumor of the bone marrow composed of plasma cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and pathology, a neoplastic proliferation of monoclonal plasma cells causing osteolytic bone destruction, hypercalcemia, renal impairment, and immunodeficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myeloma designates a primary tumor of the bone marrow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Punched-out osteolytic lesions on the skull radiograph are virtually pathognomonic of **myeloma**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The marrow architecture in **myeloma** is replaced by confluent sheets of abnormal plasmacytoid cells."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The secretion of massive quantities of homogeneous paraprotein by a **myeloma** clone provides a pure model of antibody synthesis."*

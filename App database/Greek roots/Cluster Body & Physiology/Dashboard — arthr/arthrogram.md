@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arthr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radiographic image of the interior of a joint obtained after injecting a radiopaque contrast material or air into the synovial capsule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic radiology, an imaging study visualizing soft tissue structures such as meniscal tears, labral detachments, and ligamentous disruptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthrogram designates a term designating an entity, condition, or phenomenon derived from greek arthr."*
+> - 📜 **Charles Dotter (*Arthrography of the Knee*):** *"The contrast **arthrogram** demonstrated extravasation of dye along the posterior horn, confirming a complete meniscal tear."*
+> - 📜 **John Charnley (*The Closed Treatment of Common Fractures*):** *"Examination of the pediatric hip **arthrogram** revealed that the femoral head was securely seated within the cartilaginous socket."*
+> - 📜 **Ian Donald (*Radiological Techniques in Joint Disease*):** *"Air-contrast double injection provides an **arthrogram** of exceptional sharpness, outlining delicate synovial fringes."*

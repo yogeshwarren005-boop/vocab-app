@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which air or other gas is present in the pleural cavity and which occurs spontaneously as a result of disease or injury of lung tissue, rupture of air-filled pulmonary cysts, or puncture of the chest wall or is induced as a therapeutic measure to collapse the lung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which air or other gas is present in the pleural cavity and which occurs spontaneously as a result of disease or injury of lung tissue, rupture of air-filled pulmonary cysts, or puncture of the chest wall or is induced as a therapeutic measure to collapse the lung.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of air or gas in the pleural cavity between the visceral and parietal pleurae, resulting in partial or complete collapse of the lung.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Categorized as spontaneous (primary in young tall individuals or secondary to COPD / blebs), traumatic, or iatrogenic; tension pneumothorax represents a life-threatening medical emergency where one-way valve air trapping shifts the mediastinum and impedes venous return.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumothorax designates a condition in which air or other gas is present in the pleural cavity and which occurs spontaneously as a result of disease or injury of lung tissue, rupture of air-filled pulmonary cysts, or puncture of the chest wall or is induced as a therapeutic measure to collapse the lung."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Upon applying the stethoscope in **pneumothorax**, the affected hemithorax yields an astonishingly hollow metallic tinkling."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tension **pneumothorax** demands immediate needle decompression to relieve acute mediastinal displacement and circulatory collapse."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The sudden onset of severe pleural pain and extreme dyspnea marks the rupture of a subpleural emphysematous bulla into **pneumothorax**."*

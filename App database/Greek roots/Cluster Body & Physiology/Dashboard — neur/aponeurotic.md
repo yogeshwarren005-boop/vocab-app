@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an aponeurosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an aponeurosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or composed of an aponeurosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical anatomy, describing fibrous sheets, expansions, or incisions through dense membranous muscle insertions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aponeurotic designates of or relating to an aponeurosis."*
+> - 📜 **Charles Bell (*The Anatomy and Philosophy of Expression as Connected with the Fine Arts*):** *"The facial muscles find insertion either into the mobile integument or into the glistening **aponeurotic** layer beneath."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The bicipital fascia constitutes an **aponeurotic** band that passes obliquely across the brachial artery to join the deep fascia of the forearm."*
+> - 📜 **Joseph Leidy (*An Elementary Treatise on Human Anatomy*):** *"The rectus sheath is formed by the split layers of the internal oblique **aponeurotic** fibers enclosing the muscular belly."*

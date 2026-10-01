@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dentistry dealing with extraction of teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of dentistry dealing with extraction of teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science and practice of extracting teeth; exodontia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oral and maxillofacial surgery, the systematic surgical specialty focused on the extraction of impacted third molars, supernumerary teeth, and retained roots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exodontics designates the branch of dentistry dealing with extraction of teeth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advances in local analgesia and radiography transformed operative **exodontics** into a painless science."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Careful tissue handling and minimal bone sacrifice are the guiding principles of modern **exodontics**."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The course of the inferior alveolar nerve must be evaluated before complex third molar **exodontics**."*

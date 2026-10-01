@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a centrosome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a centrosome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated at, or functioning in connection with the centrosome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in cellular biology to describe pericentriolar nucleation factors, astral microfilament anchoring, or poleward spindle forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosomic designates of or relating to a centrosome."*
+> - 📜 **Theodor Boveri (*Cells and Tissues*):** *"The **centrosomic** field exerts a powerful orienting influence over the radiating microtubular threads of the early aster."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Disruption of **centrosomic** duplication leads inevitably to multipolar mitosis and catastrophic aneuploidy."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"In primitive rhizopods, the **centrosomic** attraction sphere retains an intranuclear position prior to nuclear division."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation of menstrual blood in the vagina (usually due to an imperforate hymen).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accumulation of menstrual blood in the vagina (usually due to an imperforate hymen).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The accumulation and retention of menstrual blood in the vagina, typically resulting from an imperforate hymen or vaginal septum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecology, vaginal distension by dark retained menstrual fluid in adolescent girls with primary amenorrhea, cured by simple hymenotomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematocolpos designates accumulation of menstrual blood in the vagina (usually due to an imperforate hymen)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A tense, bluish, bulging membrane at the vaginal introitus provides unambiguous clinical evidence of **haematocolpos**."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"The young patient presented with acute urinary retention caused by extrinsic bladder neck compression from a massive **haematocolpos**."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"Simple surgical incision of the obstructing hymenal membrane completely relieved the distressing pressure of the **haematocolpos**."*

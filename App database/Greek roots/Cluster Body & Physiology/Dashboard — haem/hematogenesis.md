@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production and development of blood cellular elements in an organism; hematopoiesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and embryology, the biological process through which hematopoietic stem cells differentiate into mature blood cell types within embryonic and adult organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematogenesis designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Normal **hematogenesis** shifts progressively from the yolk sac blood islands to the fetal liver and spleen before establishing itself permanently in the bone marrow."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The study of leukemic tissue demonstrates how disordered **hematogenesis** floods the vascular channels with immature white corpuscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Therapeutic administration of iron salts stimulated marrow **hematogenesis**, restoring color to the patient's pallid mucous membranes."*

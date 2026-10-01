@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Metamorphism that involves changes in the chemical composition as well as in the texture of rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metamorphism that involves changes in the chemical composition as well as in the texture of rock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, formed by, or exhibiting metasomatism (the compositional replacement of rock minerals by hydrothermal or metamorphic fluids).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology and petrology, metasomatic replacement processes generate skarn deposits, greisens, and hydrothermal ore veins through pervasive fluid-rock chemical reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metasomatic designates metamorphism that involves changes in the chemical composition as well as in the texture of rock."*
+> - 📜 **Waldemar Lindgren (*Mineral Deposits*):** *"The economic copper deposits within limestone contacts are largely of **metasomatic** replacement origin."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Penetrating thermal waters induce **metasomatic** alterations in surrounding schists without melting the rock framework."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Careful petrographic sections reveal clear pseudomorphs illustrating progressive **metasomatic** mineral exchange."*

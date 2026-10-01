@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek prosop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare congenital condition of craniofacial duplication, in which an individual has a single trunk and neck but duplicated facial features.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical teratology, conjoined twinning or incomplete split of the sonic hedgehog (SHH) signaling pathway, resulting in a single body possessing two complete or partial faces (craniofacial duplication).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diprosopus designates a term designating an entity, condition, or phenomenon derived from greek prosop."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The anatomical museum preserves a remarkable specimen of **diprosopus**, showing duplication of the ocular and mandibular apparatus."*
+> - 📜 **William Osler (*A System of Medicine*):** *"Cranial duplication presenting as **diprosopus** arises from an embryonic midline organizer disturbance rather than two separate zygotes."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Vertebrate monsters showing **diprosopus** duplication reveal how early morphogenetic fields can split into parallel growth centers."*

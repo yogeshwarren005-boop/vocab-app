@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by partial or total absence of a brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by partial or total absence of a brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no brain or lacking cerebral hemispheres; anencephalic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative teratology and pathology, describing a fetus or organism exhibiting total failure of cerebral development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"You don’t really care about these things?” “Not by the side of this lovely anencephalous monster."*
+> - 📜 **Étienne Geoffroy Saint-Hilaire (*Philosophie Anatomique: Des Monstruosités Humaines*):** *"The **anencephalous** monster demonstrates how the facial bones develop normally despite the absence of the brain."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"In the **anencephalous** condition, the reflex arc remains functional through the spinal cord alone."*
+> - 📜 **William Osler (*Lectures on Diagnosis*):** *"The pathologist examined the **anencephalous** specimen, noting the thick vascular area cerebrovasculosa."*

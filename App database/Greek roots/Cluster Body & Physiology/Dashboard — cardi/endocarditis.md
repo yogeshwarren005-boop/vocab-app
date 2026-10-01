@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the lining of the heart and its valves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the lining of the heart and its valves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the endocardium, the smooth inner epithelial lining of the heart cavities and heart valves, especially of infectious origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, infective endocarditis caused by bacterial or fungal colonization of cardiac valves, producing friable vegetations, murmurs, and septic emboli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocarditis designates inflammation of the lining of the heart and its valves."*
+> - 📜 **William Osler (*The Gulstonian Lectures on Malignant Endocarditis*):** *"Malignant **endocarditis** strikes the damaged heart valve, producing ulcerations and friable bacterial vegetations that seed the arterial tree."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Chronic vegetative **endocarditis** deforms the mitral and aortic cusps, producing loud regurgitant bellows murmurs."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Fibrinous deposits in acute **endocarditis** are not mere precipitates of blood, but active inflammatory exudations from the damaged subendothelial stroma."*

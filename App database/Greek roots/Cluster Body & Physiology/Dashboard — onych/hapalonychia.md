@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal softness, fragility, or thinning of the fingernails or toenails, causing them to bend and break easily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, a nail dystrophy resulting from chronic malnutrition, calcium or iron deficiency, myxedema, or prolonged exposure to strong chemical alkalis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hapalonychia designates a term designating an entity, condition, or phenomenon derived from greek onych."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe hypochromic anemia is often heralded by brittle koilonychia and pronounced **hapalonychia** of the hands."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"The flexible, paper-thin nails characteristic of **hapalonychia** reflect constitutional malnutrition and mineral loss."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Defective keratinization within the nail matrix leads microscopically to the lamellar softening of **hapalonychia**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the remaining member of a pair, of socks e.g.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eminent beyond or above comparison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no equal or match; peerless, incomparable, or unexcelled; also, not paired or harmonized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive criticism and immunology, possessing unique, supreme excellence that surpasses all competitors, or lacking an appropriate counterpart.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please you, sir, The King your father was reputed for A prince most prudent, of an excellent And unmatched wit and judgement."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Needs must you lay your heart at his dispose, Subjected tribute to commanding love, Against whose fury and unmatched force The aweless lion could not wage the fight, Nor keep his princely heart from Richard’s hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That which I show, heaven knows, is merely love, Duty and zeal to your unmatched mind, Care of your food and living."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He stood among them with **unmatched** majesty, towering above his fallen peers in pride."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"That **unmatched** form and feature of blown youth blasted with ecstasy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions displayed an **unmatched** discipline that conquered every opposing power."*

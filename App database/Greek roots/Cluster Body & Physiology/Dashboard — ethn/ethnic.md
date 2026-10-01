@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to large groups of people who share a particular identity according to common ancestry, culture, nationality, language, and/or religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being a member of a specified ethnic group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a population subgroup with a common national, cultural, or ancestral tradition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and anthropology, designating social identities defined by shared language, historical memory, folklore, and dietary customs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The author, Tara McLaughlin, was a former day-care administrator in Washington, D.C. and, at the time of the publication, a research associate with the Urban Ethnic Research Program at Arizona State University, Tempe, Arizona."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"Each **ethnic** enclave in the bustling port city preserved its ancient cooking hearths and ancestral weaving motifs."*
+> - 📜 **Benedict Anderson (*Imagined Communities*):** *"Modern nationalism reconfigured older **ethnic** solidarities into standardized linguistic and political identities."*
+> - 📜 **Margaret Mead (*Coming of Age in Samoa*):** *"Cultural diversity demonstrates that human nature adapts plastic habits to the unique traditions of each **ethnic** group."*

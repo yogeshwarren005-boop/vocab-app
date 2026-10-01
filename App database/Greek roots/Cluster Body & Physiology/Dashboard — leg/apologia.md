@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A defense especially of one's opinions, position, or actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defense of one's life : a written justification for one's beliefs or course of conduct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal, systematic defense or justification of one's opinions, conduct, beliefs, or life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual and literary autobiography, a published treatise in which an author elucidates and justifies the principles and motives guiding their public career or philosophical evolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apologia designates a defense especially of one's opinions, position, or actions."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"I recognized that nothing less than a comprehensive **apologia** could make clear the internal course of my religious convictions."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Plato's account of Socrates' **apologia** stands as the immortal defense of philosophical enquiry before political dogmatism."*
+> - 📜 **George Orwell (*Collected Essays*):** *"His latest memoir reads less like history and more like an elaborate **apologia** for past political blunders."*

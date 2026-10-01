@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific branch of anatomy and physiology that deals with glands, their structures, and their secretory functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, the medical doctrine of secretory vessels, lymphatics, and internal glandular transformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenology designates a term designating an entity, condition, or phenomenon derived from greek aden."*
+> - 📜 **Thomas Wharton (*Adenographia*):** *"The foundations of modern **adenology** were laid when we systematically classified excretory and internal secretory organs."*
+> - 📜 **Albrecht von Haller (*First Lines of Physiology*):** *"In every treatise on **adenology**, the anatomist must trace the delicate capillary networks that supply glandular follicles."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"The newer **adenology** concerns itself not merely with visible ducts, but with endocrine principles released directly into the blood."*

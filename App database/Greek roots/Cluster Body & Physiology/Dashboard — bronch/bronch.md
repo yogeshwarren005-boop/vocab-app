@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bronch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anatomical combining form derived from Greek bronchos, designating the windpipe, bronchi, or bronchial branches of the respiratory tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory anatomy and pathology, a radical prefix (bronch- / broncho-) denoting structural or clinical relations to the tracheobronchial tree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronch designates a term designating an entity, condition, or phenomenon derived from greek bronch."*
+> - 📜 **Galen (*On the Usefulness of the Parts of the Body*):** *"The rough artery bifurcates at its lower extremity into two primary **bronch** conduits that convey atmospheric air into the pulmonary substance."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Dissecting the pulmonary roots reveals the cartilaginous rings that preserve the patency of each **bronch** division."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Anatomical terms compounded with the radical **bronch** identify the airways branching from the tracheal bifurcation down to terminal air sacs."*

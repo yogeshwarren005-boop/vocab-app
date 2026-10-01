@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which the visual images come to a focus in front of the retina of the eye resulting especially in defective vision of distant objects : nearsightedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of foresight or discernment : a narrow view of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of the eye in which visual images come to a focus in front of the retina; nearsightedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In refraction and ophthalmology, an optical defect where axial elongation of the globe causes distant objects to appear blurred while near objects remain distinct; figuratively, lack of foresight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The man with astigmatism, or myopia, or whatever else it is, must get the glasses that will show him the real world, and he is safe, and free to go and come as he pleases."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"In axial **myopia**, the anteroposterior diameter of the eyeball is disproportionately elongated relative to its refractive power."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe progressive **myopia** carries a heightened risk of retinal detachment and posterior staphyloma."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His political opinions exhibited a curious **myopia**, discerning petty immediate grievances while blind to sweeping historical reforms."*

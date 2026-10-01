@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who supervises (an examination).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watch over (students taking an exam, to prevent cheating).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official who supervises university examinations, maintains student discipline, or acts as a legal representative in certain courts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In university governance and civil law history, an officer (derived from Latin procurator, manager/proxy) appointed to oversee academic conduct or represent parties in probate and admiralty courts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I shouldn't care to fall foul of the King's Proctor." "Will you have another cup of tea before I ring" "No, thanks . . ."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Proctor with the artillery kept up a brisk fire on their works."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Proctor destroyed the first Indian town, named Newtychanning, containing about twenty houses, located on the west side of the Susquehanna, on the north side of Sugar Creek near North Towanda."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"A **proctor** is an officer whose function in the ecclesiastical courts answers to that of an attorney in courts of common law."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The senior **proctor** paced the college quadrangle, keeping a watchful eye upon the gown-wearing undergraduates."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He watched the University **proctor** accompanied by his velvet-sleeved marshals marching through the streets of Christminster."*

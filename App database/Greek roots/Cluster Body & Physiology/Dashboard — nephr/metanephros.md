@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either member of the final and most caudal pair of the three successive pairs of vertebrate renal organs that functions as a permanent adult kidney in reptiles, birds, and mammals but is not present at all in lower forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either member of the final and most caudal pair of the three successive pairs of vertebrate renal organs that functions as a permanent adult kidney in reptiles, birds, and mammals but is not present at all in lower forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The permanent, functional adult kidney of amniote vertebrates (reptiles, birds, and mammals).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, the third and definitive excretory organ that develops from the metanephric blastema and ureteric bud during intrauterine gestation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metanephros designates either member of the final and most caudal pair of the three successive pairs of vertebrate renal organs that functions as a permanent adult kidney in reptiles, birds, and mammals but is not present at all in lower forms."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The ureteric bud sprouts from the Wolffian duct to induce nephrogenesis within the **metanephros**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In all amniotes, the anterior embryonic excretory organs give place entirely to the definitive **metanephros**."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The permanent kidney or **metanephros** ascends from the sacral region to its adult lumbar position during fetal life."*

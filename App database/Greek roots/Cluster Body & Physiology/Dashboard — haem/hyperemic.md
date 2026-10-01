@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by hyperemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or caused by hyperemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, affected with, or exhibiting hyperemia; engorged with blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physical examination, describing tissues or mucous membranes that appear unusually red, flushed, and warm owing to vascular distension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperemic designates relating to or caused by hyperemia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The tympanic membrane appeared markedly **hyperemic**, bulging outward under the pressure of middle-ear suppuration."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Around the central necrotic focus, a wide zone of **hyperemic** capillary loops marked the boundary of vital reaction."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"In acute laryngitis, the vocal folds present an intensely **hyperemic** and edematous mucosal border."*

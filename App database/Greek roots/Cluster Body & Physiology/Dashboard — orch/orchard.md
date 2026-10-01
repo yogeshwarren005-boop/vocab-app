@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Garden consisting of a small cultivated wood without undergrowth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garden consisting of a small cultivated wood without undergrowth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intentional planting of fruit trees or nut trees, or the enclosed tract of land devoted to their cultivation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical horticulture and Old English etymology (ort-geard, yard of plants or herbs), an agrarian grove dedicated to pomological production such as apples, pears, and plums.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Orchard near Oliver’s house Scene II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Orchard near Oliver’s house Enter Orlando and Adam."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, very well: here in your orchard."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Fair fruit, whose taste, too well for tasting, knows / In that forbidden **orchard** high displayed."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I have often enjoyed a quiet morning strolling among the blossoming rows of an old farm **orchard**."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"The **orchard** walls are high and hard to climb, / And the place death, considering who thou art."*

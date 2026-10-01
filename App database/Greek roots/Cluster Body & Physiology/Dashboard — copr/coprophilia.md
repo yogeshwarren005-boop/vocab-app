@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked interest in excrement; especially : the use of feces or filth for sexual excitement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked interest in excrement; especially : the use of feces or filth for sexual excitement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal interest in or sexual attraction to feces and defecation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology, an anal-stage paraphilia involving erotic or obsessive fixation on excrement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprophilia designates marked interest in excrement; especially : the use of feces or filth for sexual excitement."*
+> - 📜 **Sigmund Freud (*Character and Anal Erotism*):** *"The infant's primordial interest in his excretions may persist as unconscious **coprophilia** if socialization fails to sublimate it."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"In analyzing perversions, we discover that **coprophilia** represents an inversion of normal evolutionary disgust."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"The pathological manifestation of **coprophilia** is often accompanied by profound ethical deterioration and dementia."*

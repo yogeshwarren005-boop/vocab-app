@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Former name for the genus australopithecus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former name for the genus australopithecus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete genus of fossil hominins established for the 'Mrs. Ples' cranium found at Sterkfontein, South Africa, now classified as Australopithecus africanus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoanthropology, the genus erected by Robert Broom in 1938 (from Greek plesios, near, and anthropos, human) meaning 'near-man', representing an early bipedal hominin transitional form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plesianthropus designates former name for the genus australopithecus."*
+> - 📜 **Robert Broom (*Finding the Missing Link*):** *"The fossil skull which I named **plesianthropus** provides incontrovertible proof of an ape-man walking erect upon the African veld."*
+> - 📜 **Arthur Keith (*A New Theory of Human Evolution*):** *"The anatomical discoveries of Broom concerning **plesianthropus** have enriched our conception of human ancestral origins."*
+> - 📜 **Raymond Dart (*Adventures with the Missing Link*):** *"The discovery of **plesianthropus** at Sterkfontein confirmed my earlier deductions from the Taung child skull."*

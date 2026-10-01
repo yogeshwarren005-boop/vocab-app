@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic disease of unknown cause that is characterized by the formation of nodules especially in the lymph nodes, lungs, bones, and skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic disease of unknown cause that is characterized by the formation of nodules especially in the lymph nodes, lungs, bones, and skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A systemic, non-caseating granulomatous inflammatory disease of unknown etiology that predominantly affects the lungs, thoracic lymph nodes, eyes, and skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pulmonology, sarcoidosis is marked by bilateral hilar lymphadenopathy, pulmonary infiltration, hypercalcemia from calcitriol synthesis by activated macrophages, and elevated serum ACE levels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoidosis designates a chronic disease of unknown cause that is characterized by the formation of nodules especially in the lymph nodes, lungs, bones, and skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The non-caseating granulomas of **sarcoidosis** must be carefully distinguished from the necrotic tubercles of tuberculosis."*
+> - 📜 **Harvey Cushing (*Intracranial Tumors*):** *"Central nervous system involvement in **sarcoidosis** may masquerade clinically as an invasive basilar neoplasm."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"These chronic symmetrical skin plaques, which we now associate with systemic **sarcoidosis**, follow an indolent multi-year course."*

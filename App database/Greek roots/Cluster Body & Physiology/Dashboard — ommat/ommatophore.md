@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ommat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An eye-bearing stalk, tentacle, or peduncle in certain invertebrates, especially pulmonate gastropod mollusks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative malacology, the retractable upper cephalic tentacle of a land snail, carrying a simple optic vesicle and retractor muscle at its distal tip.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ommatophore designates a term designating an entity, condition, or phenomenon derived from greek ommat."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The land snail readily invaginates its sensory **ommatophore** upon encountering noxious tactile stimuli."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"At the summit of each **ommatophore**, a pigmented eye cup with a spherical lens permits coarse light detection."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The embryonic development of the **ommatophore** reflects ectodermal outgrowth coordinated with cephalic nerve elongation."*

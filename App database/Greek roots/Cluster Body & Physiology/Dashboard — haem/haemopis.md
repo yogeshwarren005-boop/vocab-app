@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leeches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leeches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aquatic jawed leeches in the family Haemopidae, including the horse leech (*Haemopis sanguisuga*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and parasitology, predatory freshwater leeches of genus Haemopis that, contrary to common myth, typically swallow small aquatic prey whole rather than sucking vertebrate blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog haemopis as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the common horse-leech, **haemopis**, the jaws possess blunt, sparse teeth adapted for capturing worms rather than perforating tough mammalian hide."*
+> - 📜 **William Kirby (*On the Power, Wisdom and Goodness of God*):** *"The voracious freshwater worm known as **haemopis** inhabits stagnant ponds, preying voraciously on smaller molluscous organisms."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Within the division of annelids, the genus **haemopis** is distinguished from the medicinal leech by the structural organization of its oral discs."*

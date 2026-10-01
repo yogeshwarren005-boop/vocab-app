@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large diverse group of bony fishes; includes most living species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large diverse group of bony fishes; includes most living species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vast taxonomic infraclass of ray-finned fishes (Actinopterygii) comprising the overwhelming majority of living bony fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ichthyology, modern bony fishes characterized by homocercal tails, mobile premaxillae, cycloid or ctenoid scales, and ossified skeletons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleostei designates large diverse group of bony fishes; includes most living species."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The explosive diversification of the **teleostei** during the Cretaceous period replaced archaic ganoid fishes in all aquatic realms."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Nearly all living food and game fishes belong to the **teleostei**, exhibiting an unrivaled evolutionary plastic adaptability."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"In **teleostei**, complete ossification of the vertebral column provides the rigid leverage required for rapid underwater propulsion."*

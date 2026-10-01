@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of arm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of arm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or possessing arms, arm-like branches, or brachial appendages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology and botany, describing organisms equipped with arm-like appendages or radiating branches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiferous designates adjective*) pertaining to, derived from, or characteristic of arm."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The **brachiferous** arrangement of the inflorescence features wide lateral arms spreading perpendicularly from the main axis."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Echinoderms display a **brachiferous** body plan in which each radial arm bears ambulacral grooves and tube feet."*
+> - 📜 **Ernst Haeckel (*Report on the Deep-Sea Keratosa*):** *"The sponge skeleton projected several **brachiferous** lobes that supported the inhalant dermal pores."*

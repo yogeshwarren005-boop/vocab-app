@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Near the nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near the nose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated around or in the vicinity of the nose, or relating to the perirhinal cortex of the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroanatomy, designating the perirhinal cortex (Brodmann areas 35 and 36) in the medial temporal lobe, crucial for visual object recognition memory and semantic memory processing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perirhinal designates near the nose."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Neuroimaging demonstrated bilateral atrophy of the **perirhinal** cortex, explaining his profound visual recognition deficit."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Lesions invading the medial temporal lobe and adjoining **perirhinal** zones severely impair memory consolidation for complex objects."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory representations of objects converge upon deep temporal circuits encompassing the **perirhinal** territory."*

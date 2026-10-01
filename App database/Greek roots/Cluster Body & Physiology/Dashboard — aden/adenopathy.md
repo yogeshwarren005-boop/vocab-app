@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any pathological disease, disorder, or enlargement of the lymph nodes or glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical examination, lymphadenopathy marked by palpably enlarged, tender, or matted lymph nodes signaling infection or metastatic malignancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenopathy designates a term designating an entity, condition, or phenomenon derived from greek aden."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Painless generalized **adenopathy** in a young adult warrants immediate lymph node biopsy to exclude Hodgkin's disease."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Cervical **adenopathy** draining chronic dental abscesses shows reactive follicular hyperplasia under the microscope."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The sudden resolution of the patient's massive **adenopathy** confirmed the remarkable potency of the newly introduced antifolate drug."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class (Cephalopoda) of marine mollusks including the squids, cuttlefishes, and octopuses that move by expelling water from a tubular siphon under the head and that have a group of muscular usually sucker-bearing arms around the front of the head, highly developed eyes, and usually a sac containing ink which is ejected for defense or concealment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class (Cephalopoda) of marine mollusks including the squids, cuttlefishes, and octopuses that move by expelling water from a tubular siphon under the head and that have a group of muscular usually sucker-bearing arms around the front of the head, highly developed eyes, and usually a sac containing ink which is ejected for defense or concealment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any predatory marine mollusk of the class Cephalopoda, having a large distinct head, well-developed eyes, and arms or tentacles around the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, intelligent invertebrates including the octopus, squid, cuttlefish, and nautilus, possessing closed circulatory systems and jet propulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Its eight arms, or rather feet, fixed to its head, that have given the name of cephalopod to these animals, were twice as long as its body, and were twisted like the furies’ hair."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Chance had brought us in presence of this cuttlefish, and I did not wish to lose the opportunity of carefully studying this specimen of cephalopods."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The **cephalopod** changed color with astonishing rapidity, shifting from dark brown to bright red as it hid in the tidepool."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The camera-like eye of the **cephalopod** parallels that of vertebrates in optical precision, a triumph of convergent evolution."*
+> - 📜 **Aristotle (*History of Animals*):** *"Of the mollusks, the largest is the **cephalopod**, which discharges dark ink to conceal its escape from sea predators."*

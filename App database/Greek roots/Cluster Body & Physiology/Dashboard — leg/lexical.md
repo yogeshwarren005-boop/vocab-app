@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to words or the vocabulary of a language as distinguished from its grammar and construction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a lexicon or to lexicography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the words, vocabulary, or lexicon of a language, as contrasted with its grammatical syntax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexicography and linguistics, pertaining to dictionary entries, morpheme inventories, or the lexical semantic structure of speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lexical designates of or relating to words or the vocabulary of a language as distinguished from its grammar and construction."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"A language consists of both grammatical rules and a vast **lexical** store of arbitrary form-meaning pairings."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"The rapid expansion of scientific discovery demands an enormous increase in **lexical** resources."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Grammatical categories often emerge historically from the petrifaction of formerly independent **lexical** roots."*

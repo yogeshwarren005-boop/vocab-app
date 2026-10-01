@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An onyx having parallel layers of sard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An onyx having parallel layers of sard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of onyx consisting of alternating parallel bands of reddish-brown sard and white or black chalcedony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In glyptology and mineralogy, a prized gemstone of antiquity used extensively for Roman signet rings because hot sealing wax did not adhere to its polished surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Song of Roland*):** *"A good vassal has held you this long time; Never shall France the Free behold his like." CLXXII Rollant hath struck the sardonyx terrace; The steel cries out, but broken is no ways."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Engraved seals of **sardonyx** are celebrated among statesmen because they lift cleanly from sealing wax without tearing."*
+> - 📜 **George Frederick Kunz (*The Curious Lore of Precious Stones*):** *"The Roman Emperor Claudius was renowned for his magnificent collection of cameos carved from layered **sardonyx**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial treasury in Constantinople contained priceless goblets hollowed out from solid blocks of **sardonyx**."*

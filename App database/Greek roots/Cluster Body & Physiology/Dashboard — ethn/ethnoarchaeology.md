@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ethn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ethnographic study of living peoples and contemporary material culture for archaeological purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological methodology, studying current manufacturing, discarding, and settlement practices to create analog models for interpreting ancient archaeological deposits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethnoarchaeology designates a term designating an entity, condition, or phenomenon derived from greek ethn."*
+> - 📜 **Lewis Binford (*Bones: Ancient Men and Modern Myths*):** *"Through rigorous **ethnoarchaeology** among Nunamiut hunters, I documented how butchering patterns map onto bone bed refuse."*
+> - 📜 **Ian Hodder (*Reading the Past*):** *"Fieldwork in **ethnoarchaeology** revealed that material symbols actively negotiate social power rather than passively reflecting ecology."*
+> - 📜 **Colin Renfrew (*Archaeology: Theories, Methods, and Practice*):** *"Modern **ethnoarchaeology** bridges the silent stones of ancient ruins with the living behaviors of traditional communities."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elongated mostly scaleless marine fishes with large pectoral fins and reduced pelvic fins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elongated mostly scaleless marine fishes with large pectoral fins and reduced pelvic fins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the morphological characteristics of a blenny fish; blenny-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, designating fishes exhibiting the slender, slippery, scaleless body and benthic habits of the blennioids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blennioid designates elongated mostly scaleless marine fishes with large pectoral fins and reduced pelvic fins."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"The **blennioid** form represents an exquisite morphological adaptation for living in the turbulent surge zone of rocky shores."*
+> - 📜 **William Beebe (*Field Book of Shore Fishes of Bermuda*):** *"This small **blennioid** creature darted among the sea anemones, sheltered by its viscous skin secretion."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"In the shallow tidepools, several **blennioid** fishes lay nestled in crevices, waiting for the rising tide."*

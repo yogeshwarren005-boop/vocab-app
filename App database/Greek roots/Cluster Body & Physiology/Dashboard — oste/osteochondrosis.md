@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of developmental orthopedic disorders in children and adolescents affecting the centers of bone ossification, characterized by localized tissue necrosis followed by calcification and repair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary and human orthopedics, a failure of endochondral ossification leading to ischemic necrosis of the growing epiphysis or apophysis (such as Scheuermann's disease or Osgood-Schlatter lesion).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteochondrosis designates a term designating an entity, condition, or phenomenon derived from greek oste."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Vertebral **osteochondrosis** in adolescents leads to progressive thoracic kyphosis and wedge-shaped deformities of vertebral bodies."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The initial phase of **osteochondrosis** involves ischemic infarction of the growth cartilage followed by fragmented revascularization."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Conservative management of tibial tubercle **osteochondrosis** usually yields complete recovery upon skeletal maturity."*

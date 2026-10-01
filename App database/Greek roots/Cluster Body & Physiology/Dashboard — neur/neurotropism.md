@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affinity for neural tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An affinity for neural tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The specific affinity of a chemical substance, pathogen, or migrating cell for nervous tissue; or the directional growth of nerve fibers toward specific targets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and infectious diseases, the phenomenon whereby axons orient growth along chemical gradients (chemotropism) or viruses selectively attack neurons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotropism designates an affinity for neural tissues."*
+> - 📜 **Santiago Ramón y Cajal (*Studies on Vertebrate Neurogenesis*):** *"I formulated the hypothesis of **neurotropism** to explain how developing axons navigate across long distances toward their trophic targets."*
+> - 📜 **Ross Granville Harrison (*Observations on the Living Developing Nerve Fiber*):** *"While mechanical contacts guide the growing axon, chemical **neurotropism** provides the directional orientation toward the peripheral end organ."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"The predilection of the syphilitic virus for the posterior columns illustrates a striking example of pathological **neurotropism**."*

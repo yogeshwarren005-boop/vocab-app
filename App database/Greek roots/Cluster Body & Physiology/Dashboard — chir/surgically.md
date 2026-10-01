@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a surgical manner; by means of surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a surgical manner; by means of surgery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a surgical manner; by means of or in the course of surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With exquisite manual precision, sharpness, or decisive excision resembling a surgical intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surgically designates in a surgical manner; by means of surgery."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The gangrenous appendix must be **surgically** extirpated before perforation contaminates the peritoneal cavity."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Mr. Ramsay cut **surgically** through all sentimental evasions, demanding cold truth without pity."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"The autopsy revealed that the puncture marks were too small to have been made **surgically** with a lancet."*

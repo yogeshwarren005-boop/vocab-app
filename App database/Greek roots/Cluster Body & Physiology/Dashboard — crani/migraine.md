@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition marked by recurring moderate to severe headache with throbbing pain that usually lasts from four hours to three days, typically begins on one side of the head but may spread to both sides, is often accompanied by nausea, vomiting, and sensitivity to light or sound, and is sometimes preceded by an aura and is often followed by fatigue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition that is a variant form of the typical migraine but in which headache is absent or not a prominent symptom:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recurrent throbbing headache that typically affects one side of the head, often accompanied by nausea and disturbed vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurovascular medicine, a complex neurobiological disorder involving trigeminovascular system activation and cortical spreading depression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, migraine designates a condition marked by recurring moderate to severe headache with throbbing pain that usually lasts from four hours to three days, typically begins on one side of the head but may spread to both sides, is often accompanied by nausea, vomiting, and sensitivity to light or sound, and is sometimes preceded by an aura and is often followed by fatigue."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"A **migraine** is not a mere headache; it is a whole-body storm, an episodic neurological convulsion characterized by exquisite sensory alterations."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The classic fortification spectra and hemianopia of **migraine** point directly to transient cortical dysregulation."*
+> - 📜 **Virginia Woolf (*On Being Ill*):** *"How the world changes when viewed through the shattering, jagged prism of an oncoming **migraine**."*

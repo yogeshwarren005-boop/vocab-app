@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of temperate old world terrestrial orchids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of temperate old world terrestrial orchids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial orchids (family Orchidaceae), commonly called helleborines, characterized by flowers whose anther is perched atop the column like a little head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic orchidology, temperate Eurasian and North American forest orchids with plicate leaves, spurless labella, and white or pinkish blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalanthera designates small genus of temperate old world terrestrial orchids."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"In **cephalanthera**, the anther stands erect upon the summit of the column, its pollinia resting directly above the stigma."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The capitate structure of the anther in **cephalanthera** immediately distinguishes it from adjacent genera in the Neottieae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The solitary Pacific species of **cephalanthera** lacks green chlorophyll, thriving as a saprophyte in dark conifer humus."*

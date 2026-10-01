@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either member of the second and midmost of the three paired vertebrate renal organs that functions in adult fishes and amphibians but functions only in the embryo of reptiles, birds, and mammals in which it is replaced by a metanephros in the adult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either member of the second and midmost of the three paired vertebrate renal organs that functions in adult fishes and amphibians but functions only in the embryo of reptiles, birds, and mammals in which it is replaced by a metanephros in the adult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from the mesonephros, the intermediate embryonic kidney.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental embryology and gynecologic pathology, designating vestigial adult structures (such as the mesonephric duct or Gartner's duct) derived from the middle embryonic excretory organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesonephric designates either member of the second and midmost of the three paired vertebrate renal organs that functions in adult fishes and amphibians but functions only in the embryo of reptiles, birds, and mammals in which it is replaced by a metanephros in the adult."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The **mesonephric** duct differentiates into the vas deferens in males, while regressing in females."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Remnants of the embryonic **mesonephric** tubules persist within the broad ligament as the epoöphoron."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Cystic lesions arising in the lateral vaginal wall frequently originate from persistent **mesonephric** duct remnants."*

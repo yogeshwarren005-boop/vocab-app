@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various female water spirits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various female water spirits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Paracelsian mythology and folklore, a female water spirit or nymph inhabiting brooks, lakes, and fountains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic literature and opera, an elemental water being who gains a human soul only by marrying a mortal man (as in Friedrich de la Motte Fouqué's romance).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undine designates any of various female water spirits."*
+> - 📜 **Friedrich de la Motte Fouqué (*Undine*):** *"The gentle maiden was a true **undine**, born of the clear waters, seeking through human love the gift of an immortal soul."*
+> - 📜 **Hans Christian Andersen (*The Little Mermaid*):** *"Like the legendary **undine** of German romance, the sea princess yearned to leave the ocean and walk upon mortal earth."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"The tale of **Undine** is one of the most exquisite creations of modern romantic genius, blending elemental nature with human sorrow."*

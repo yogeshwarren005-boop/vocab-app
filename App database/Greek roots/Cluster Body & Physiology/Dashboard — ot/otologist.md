@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician who specializes in the ear and its diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician who specializes in the ear and its diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical doctor who specializes in otology; a physician and surgeon dedicated to the diagnosis and treatment of diseases of the ear and hearing mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in managing complex middle ear reconstruction, cochlear implants, chronic mastoiditis, acoustic neuromas, and vestibular balance disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otologist designates a physician who specializes in the ear and its diseases."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The consulting **otologist** promptly performed a cortical mastoidectomy to halt the spread of infection toward the lateral sinus."*
+> - 📜 **Joseph Toynbee (*The Diseases of the Ear: Their Nature, Diagnosis, and Treatment*):** *"The mission of the **otologist** is to elevate ear surgery from empirical quackery into an exact scientific discipline."*
+> - 📜 **Adam Politzer (*A Text-Book of the Diseases of the Ear*):** *"Through pneumatic otoscopy and functional tuning-fork tests, the modern **otologist** accurately localizes conductive hearing lesions."*

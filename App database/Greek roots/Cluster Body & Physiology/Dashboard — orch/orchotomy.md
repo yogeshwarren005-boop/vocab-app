@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision into the testis to obtain material for analysis (as in cases of abnormally low sperm count).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision into the testis to obtain material for analysis (as in cases of abnormally low sperm count).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision into a testis, or an archaic synonym for testicular excision (orchidectomy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and operative urology, surgical incision into the tunica albuginea of the testis to relieve intratesticular tension in severe acute orchitis or obtain biopsy tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchotomy designates surgical incision into the testis to obtain material for analysis (as in cases of abnormally low sperm count)."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Exploratory **orchotomy** with needle biopsy of the gonadal parenchyma should precede any irreversible ablation."*
+> - 📜 **William Osler (*A System of Medicine*):** *"Surgical incision of the fibrous capsule, or **orchotomy**, was once practiced to mitigate agonizing pressure in acute gonorrheal orchitis."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"The surgeon performed a conservative **orchotomy** to inspect the interior tissue before confirming complete vascular infarction."*

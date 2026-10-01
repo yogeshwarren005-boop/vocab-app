@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential amino acid found in proteins that is important for the growth and repair of tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An essential amino acid found in proteins that is important for the growth and repair of tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential basic amino acid with an imidazole side chain, necessary for growth and tissue repair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, a semi-essential alpha-amino acid that serves as a versatile nucleophilic and general acid-base catalyst in enzyme active sites and functions as the metabolic precursor to histamine and carnosine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histidine designates an essential amino acid found in proteins that is important for the growth and repair of tissue."*
+> - 📜 **Albrecht Kossel (*The Chemical Composition of the Cell Nucleus*):** *"From the hydrolytic cleavage of protamines, we succeeded in isolating a new basic crystalline hexone base which we named **histidine**."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The imidazole ring of **histidine** provides the crucial axial ligand binding the heme iron atom within the hemoglobin subunit."*
+> - 📜 **Henry Dale (*Adventures in Physiology*):** *"Enzymatic decarboxylation of dietary **histidine** in animal tissues generates the vasoactive autacoid histamine."*

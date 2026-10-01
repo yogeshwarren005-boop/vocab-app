@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek odont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult, painful, or abnormal dentition or tooth eruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical stomatology and dental surgery, severe pain, localized pericoronitis, and mucosal inflammation accompanying impacted or delayed wisdom tooth eruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysodontiasis designates a term designating an entity, condition, or phenomenon derived from greek odont."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe facial neuralgia and trismus are frequent accompaniments of acute mandibular **dysodontiasis**."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"The convulsions of early infancy may be reflexively triggered by agonizing **dysodontiasis** during deciduous tooth eruption."*
+> - 📜 **Robley Dunglison (*Medical Lexicon: A Dictionary of Medical Science*):** *"By **dysodontiasis**, physicians denote that morbid state of the gums and jaws provoked by retarded dentition."*

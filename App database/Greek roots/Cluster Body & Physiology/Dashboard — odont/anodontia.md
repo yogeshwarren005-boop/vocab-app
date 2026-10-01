@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek odont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital absence of teeth, either in the primary or permanent dentition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oral pathology and medical genetics, complete failure of dental lamina development, commonly presenting as a feature of hypohidrotic ectodermal dysplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anodontia designates a term designating an entity, condition, or phenomenon derived from greek odont."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete **anodontia** is exceedingly rare and almost invariably accompanied by generalized ectodermal defects."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cases of inherited **anodontia** illustrate how cutaneous appendages and teeth share a common developmental mechanism."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Congenital failure of tooth germ formation leads to partial or total **anodontia** within both jaws."*

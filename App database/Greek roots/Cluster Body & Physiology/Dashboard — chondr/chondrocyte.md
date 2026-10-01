@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cartilage cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cartilage cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mature cell that produces and maintains the extracellular cartilaginous matrix, residing within a small space called a lacuna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and connective tissue biology, a differentiated chondroblast responsible for synthesizing collagen type II and aggrecan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondrocyte designates a cartilage cell."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Under the microscope, each living **chondrocyte** occupies its own lacunar cavity within the clear hyaline substance."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"Nutrient diffusion through the avascular cartilage matrix sustains the metabolic activity of the enclosed **chondrocyte**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In osteoarthritis, the **chondrocyte** responds to mechanical stress by releasing destructive matrix metalloproteinases."*

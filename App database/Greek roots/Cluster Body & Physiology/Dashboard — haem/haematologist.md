@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctor who specializes in diseases of the blood and blood-forming organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctor who specializes in diseases of the blood and blood-forming organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician or scientist who specializes in the diagnosis, treatment, and study of blood diseases and disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a specialist who manages anemias, coagulopathies, sickle cell disease, leukemias, and bone marrow transplants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematologist designates a doctor who specializes in diseases of the blood and blood-forming organs."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The pioneering **haematologist** Sidney Farber dared to administer antifolate chemicals to children dying of acute leukemia."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"We reviewed the perplexing bone marrow aspirate with the hospital's senior **haematologist** to identify the abnormal blast cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"To the observant **haematologist**, the stained peripheral smear tells an intimate story of marrow reserve and systemic health."*

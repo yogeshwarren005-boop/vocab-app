@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A morbid fear of novelty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A morbid fear of novelty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational or extreme fear, hatred, or avoidance of anything new, novel, or unfamiliar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethology and behavioral psychology, food or environmental neophobia observed in animals (such as rats) and young children, serving an evolutionary protective function against ingestion of toxins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neophobia designates a morbid fear of novelty."*
+> - 📜 **Konrad Lorenz (*On Aggression*):** *"In wild rodents, food **neophobia** prevents accidental poisoning from novel bait materials introduced into their territory."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The conservative tendency in old age is often rooted in instinctive **neophobia**, resisting changes in habit and thought."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Institutional rigidity is bolstered by social **neophobia**, which stigmatizes departures from ancestral customs."*

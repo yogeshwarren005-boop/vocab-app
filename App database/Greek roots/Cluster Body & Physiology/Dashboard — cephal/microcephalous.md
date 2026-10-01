@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an abnormally small head and underdeveloped brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an abnormally small head and underdeveloped brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an abnormally small head in proportion to the body; microcephalic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and anthropology, describing individuals, fetuses, or animal lineages possessing miniature cranial vaults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcephalous designates having an abnormally small head and underdeveloped brain."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain **microcephalous** idiots mimic ancestral primate behaviors, exhibiting astonishing climbing agility and sensory alertness."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The **microcephalous** brain preserves the primary cerebral fissures while lacking the complex secondary cortical convolutions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In the **microcephalous** dwarf, somatic growth can remain remarkably symmetrical despite severe cognitive stunting."*

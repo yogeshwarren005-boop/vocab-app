@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white fatty substance that forms a medullary sheath around the axis cylinder of some nerve fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white fatty substance that forms a medullary sheath around the axis cylinder of some nerve fibers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, white, fatty lipid-rich substance that forms an insulating sheath around many nerve fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology and biophysics, a multilamellar membrane structure produced by oligodendrocytes in the CNS and Schwann cells in the PNS, accelerating saltatory impulse conduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelin designates a white fatty substance that forms a medullary sheath around the axis cylinder of some nerve fibers."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The thick layer of **myelin** serves to insulate the central axoplasm from extracellular current leaks."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"I first identified **myelin** as a distinct, chemically complex lipid substance in nervous tissues."*
+> - 📜 **Wilder Penfield (*Cytology and Cellular Pathology of the Nervous System*):** *"Loss of the lipid **myelin** sheath severely compromises saltatory action potential propagation."*

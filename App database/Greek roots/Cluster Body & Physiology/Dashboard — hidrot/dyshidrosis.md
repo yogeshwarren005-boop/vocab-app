@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hidrot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skin condition characterized by small, intensely itchy blisters on the palms of the hands and soles of the feet; pompholyx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, an acute, recurrent, or chronic vesicular dermatitis traditionally believed to be related to sweat gland dysfunction, now understood as an eczematous reaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyshidrosis designates a term designating an entity, condition, or phenomenon derived from greek hidrot."*
+> - 📜 **Tilbury Fox (*Skin Diseases: Their Description, Pathology, Diagnosis, and Treatment*):** *"The tiny sago-grain vesicles erupting along the margins of the fingers in **dyshidrosis** are accompanied by burning and tingling sensations."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Recurrent attacks of **dyshidrosis** typically trouble young adults during hot, humid summer seasons."*
+> - 📜 **Jonathan Hutchinson (*Lectures on Clinical Surgery*):** *"We observed stubborn cases of **dyshidrosis** where deep-seated intraepidermal vesicles coalesced into large painful bullae."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cephal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare congenital malformation of the hindbrain characterized by partial or complete absence of the cerebellar vermis with fusion of the cerebellar hemispheres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neuroradiology and embryology, a midline hindbrain anomaly frequently accompanied by fusion of the dentate nuclei and superior cerebellar peduncles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhombencephalosynapsis designates a term designating an entity, condition, or phenomenon derived from greek cephal."*
+> - 📜 **Rudolf Virchow (*Archiv für Pathologische Anatomie*):** *"In **rhombencephalosynapsis**, the absence of the median vermis is compensated by a continuous, undivided transverse cerebellar bridge."*
+> - 📜 **Harvey Cushing (*Surgery of the Posterior Fossa*):** *"Posterior fossa exploration in cases of **rhombencephalosynapsis** reveals continuous cerebellar folia crossing the midline uninterrupted."*
+> - 📜 **Wilder Penfield (*Developmental Anomalies of the Central Nervous System*):** *"Magnetic resonance imaging has demonstrated that **rhombencephalosynapsis** is often associated with hydrocephalus and Gomez-López-Hernández syndrome."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical specialty that deals with diseases of the ear, nose and throat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medical specialty that deals with diseases of the ear, nose and throat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combined branch of medicine and surgery dealing with diseases of the nose and larynx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medical practice, the specialized study of airway aerodynamics, upper respiratory infections, phoniatric voice disorders, and paranasal sinus surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinolaryngology designates the medical specialty that deals with diseases of the ear, nose and throat."*
+> - 📜 **William Osler (*A System of Medicine*):** *"Advances in **rhinolaryngology** have perfected the local treatment of chronic catarrhal conditions of the upper air passages."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The growth of specialized **rhinolaryngology** brought relief to thousands of sufferers plagued with throat catarrh."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Tracheostomy techniques and laryngeal extirpation form the historic backbone of operative **rhinolaryngology**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world harvest mice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world harvest mice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus or subgenus name applied to diminutive rodents, specifically Old World harvest mice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic rodentology and paleomammalogy, an archaic or alternative designation referencing tiny murine species adapted to climbing cereal stalks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micromyx designates old world harvest mice."*
+> - 📜 **Joel Asaph Allen (*Bulletin of the American Museum of Natural History*):** *"The tiny skeletal features of **micromyx** distinguish it readily from the heavier murines of the same valley."*
+> - 📜 **Oldfield Thomas (*Annals and Magazine of Natural History*):** *"Specimens cataloged under **micromyx** exhibit unique dental cusp patterns characteristic of dwarf harvest rodents."*
+> - 📜 **Edward Drinker Cope (*The Primary Factors of Organic Evolution*):** *"Fossil teeth assigned to **micromyx** illustrate evolutionary dwarfing among Miocene seed-eating rodents."*

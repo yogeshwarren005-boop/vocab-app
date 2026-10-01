@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: vein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: vein.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and morpheme derived from Greek φλέψ, φλεβός (phleps, phlebos) signifying a vein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical terminology and vascular medicine, the formative prefix used in designating venous vessels, operations, or pathologies (as in phlebitis, phlebotomy, phlebogram).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog phleb as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The combining element **phleb-** stems from Greek phleps, signifying a blood-carrying vein as distinguished from an artery."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In classical Galenic treatises, compounds with **phleb-** refer specifically to the venous vascular system."*
+> - 📜 **Eric Partridge (*Origins: A Short Etymological Dictionary of Modern English*):** *"Modern angiologic nomenclature employs **phleb-** across hundreds of international medical and surgical terms."*

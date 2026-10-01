@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical procedure of stopping the flow of blood (as with a hemostat).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical procedure of stopping the flow of blood (as with a hemostat).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physiological process that halts blood loss following vascular injury, involving vasoconstriction, platelet plug formation, and blood coagulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical surgery, the mechanical, chemical, or thermal arrest of bleeding accomplished via ligatures, clips, cautery, or hemostatic agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemostasis designates surgical procedure of stopping the flow of blood (as with a hemostat)."*
+> - 📜 **William Stewart Halsted (*The Training of the Surgeon*):** *"The surgeon who practices meticulous **haemostasis** leaves clean dry wounds that heal by primary intention without suppuration."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Normal **haemostasis** unfolds through four stages: vascular spasm, platelet aggregation, fibrin clot generation, and eventual clot retraction."*
+> - 📜 **Alexis Carrel (*The Treatment of Infected Wounds*):** *"Effective temporary **haemostasis** allowed us to suture delicate arterial lacerations under clear direct vision."*

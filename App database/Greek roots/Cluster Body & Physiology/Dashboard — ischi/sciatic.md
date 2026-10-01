@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near the hip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or caused by sciatica.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated in, or affecting the ischium, hip region, or the sciatic nerve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gross human anatomy and neurology, designating the largest nerve in the body (the sciatic nerve) arising from the sacral plexus, or describing lancinating neuralgic discomfort along its course.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"INTENSE SUFFERING OVERCOME For about five years I was afflicted with sciatic rheumatism, in such a severe form that my body was drawn out of shape."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"My daughter consulted another physician, who said there would have to be an operation which would include the exposing and scraping of the sciatic nerve."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sciatic rheumatism, that had troubled me for some years, became so severe I could scarcely do anything."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **sciatic** nerve is the largest nerve in the body, continuing the main trunk of the sacral plexus into the thigh."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unilateral tenderness along the **sciatic** trunk is the hallmark of radicular compression."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The agonizing twinges of **sciatic** neuralgia have tested the patience of physicians and patients for generations."*

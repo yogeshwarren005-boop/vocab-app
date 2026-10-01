@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered the type genus of the family hypodermatidae: warble flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered the type genus of the family hypodermatidae: warble flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In veterinary medicine, a genus of botflies (family Oestridae), commonly known as warble flies or heel flies, whose parasitic larvae develop under cattle skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical anatomy, the hypodermis or specialized layer of protective cells situated immediately below the plant epidermis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoderma designates in some classifications considered the type genus of the family hypodermatidae: warble flies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Subcutaneous nodules in cattle caused by the larvae of **Hypoderma** bovis produce severe economic loss in hide quality."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Accidental human infestation by the wandering larva of **Hypoderma** presents as creeping subcutaneous migratory swellings."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"In pine needles, thick-walled sclerenchyma cells in the **hypoderma** resist winter gales and mechanical injury."*

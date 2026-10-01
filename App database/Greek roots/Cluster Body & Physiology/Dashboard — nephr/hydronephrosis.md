@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nephr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distension and dilation of the renal pelvis and calyces caused by obstruction of the free outflow of urine from the kidney.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urological pathology, progressive atrophy and thinning of the renal parenchyma resulting from chronic urinary tract obstruction, leading to irreversible loss of nephrons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydronephrosis designates a term designating an entity, condition, or phenomenon derived from greek nephr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Calculous impaction in the ureter produces acute unilateral **hydronephrosis** with agonizing flank pain."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"Relief of the obstructing pelvic band arrests the progressive parenchymal destruction of **hydronephrosis**."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Extrinsic compression of the pelvic ureter by an ovarian mass is a frequent cause of asymptomatic **hydronephrosis**."*

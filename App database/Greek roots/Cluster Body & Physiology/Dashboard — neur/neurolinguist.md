@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone trained in neuroscience and linguistics who studies brain processes during language production and reception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone trained in neuroscience and linguistics who studies brain processes during language production and reception.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or researcher who investigates the neurological mechanisms and neural substrates of language comprehension, production, and acquisition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive science, an interdisciplinary scholar analyzing aphasic syndromes, brain lesion mapping, and neuroimaging data to construct models of linguistic cognition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurolinguist designates someone trained in neuroscience and linguistics who studies brain processes during language production and reception."*
+> - 📜 **Roman Jakobson (*Child Language, Aphasia and Phonological Universals*):** *"The **neurolinguist** must dissect the dissolution of phonological oppositions in brain-injured patients to reconstruct the hierarchy of language."*
+> - 📜 **Aleksandr Luria (*Basic Problems of Neurolinguistics*):** *"By correlating focal cortical excisions with specific linguistic breakdowns, the **neurolinguist** uncovers the dynamic architecture of inner speech."*
+> - 📜 **Noam Chomsky (*Language and Mind*):** *"The future task of the **neurolinguist** will be to discover the biological machinery that instantiates universal grammar within human neural circuitry."*

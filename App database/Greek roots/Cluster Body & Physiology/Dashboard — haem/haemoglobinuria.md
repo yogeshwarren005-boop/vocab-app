@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of hemoglobin in the urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of hemoglobin in the urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of free hemoglobin in the urine without intact red blood cells, caused by intravascular hemolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pathological condition often manifested paroxysmally (e.g. paroxysmal nocturnal hemoglobinuria or march hemoglobinuria) following excessive intravascular erythrocyte destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoglobinuria designates presence of hemoglobin in the urine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In paroxysmal **haemoglobinuria**, exposure to cold induces sudden shivering followed by the voiding of dark porter-colored urine."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The chilling of a ligatured finger in susceptible subjects evoked local hemolysis and confirmed the auto-hemolytic mechanism of paroxysmal **haemoglobinuria**."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"The sudden onset of blackwater fever is distinguished pathognomically by severe rigors and profound **haemoglobinuria**."*

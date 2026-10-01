@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) fringe of toothlike appendages surrounding the mouth of a moss capsule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Region around the mouth in various invertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fringe of tooth-like appendages surrounding the mouth of the capsule in mosses; also, the region immediately surrounding the mouth in various invertebrates (such as sea urchins, mollusks, or ciliates).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology, peristome teeth are hygroscopic, flexing outward in dry weather to facilitate spore dispersal and closing when moist; in echinoderm anatomy, the peristome is the flexible oral membrane enclosing Aristotle's lantern.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The teeth thus formed resemble those of the peristome of some mosses."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If the teeth of _Æcidium_ resemble the peristome of some mosses, such as _Splachnum_; the threads of this species of _Rœstelia_, except in not being twisted, somewhat resemble the peristomes of other mosses of the genus _Tortula_."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The capsule lid falls away to expose the double ring of teeth composing the hygroscopic **peristome**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the sea urchin, the circular membranous **peristome** surrounds the five protruding calcareous teeth."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Hygroscopic movements of the moss **peristome** ensure that spores are cast only into dry, dispersing winds."*

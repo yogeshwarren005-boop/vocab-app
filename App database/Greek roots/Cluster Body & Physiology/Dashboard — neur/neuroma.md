@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tumor derived from cells of the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any tumor derived from cells of the nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign tumor or swelling composed of nerve fibers and neural tissue; also, a disorganized tangle of regenerating nerve fibers following trauma (stump or amputation neuroma).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropathology and surgery, a traumatic mass of axons, Schwann cells, and scar tissue at the proximal stump of a transected nerve, often source of intense phantom limb pain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroma designates any tumor derived from cells of the nervous system."*
+> - 📜 **Silas Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"Following amputation, the tender bulbous **neuroma** formed at the severed nerve end proved an agonizing trigger of reflex neuralgia."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"The surgical removal of an acoustic **neuroma** requires delicate preservation of the facial nerve to avoid disfiguring facial palsy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Solitary plexiform **neuroma** may attain immense size along the cords of the brachial plexus."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rupture or bursting of an organ, vessel, or tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pathology and trauma, catastrophic organ rupture, such as cardiorrhexis (myocardial rupture after infarction) or capsulorrhexis in cataract surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhexis designates a term designating an entity, condition, or phenomenon derived from greek rhag."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Transmural myocardial infarction culminated in fatal **rhexis** of the left ventricular free wall."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Spontaneous splenic **rhexis** is a rare but catastrophic complication of acute falciparum malaria."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Immediate exploration was undertaken following traumatic hepatic **rhexis** caused by blast injury."*

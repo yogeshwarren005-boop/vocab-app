@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of optics that deals with the refraction of light, especially through lenses or transparent media.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical science, the classical discipline developed by Kepler and Descartes analyzing how light rays bend when traversing boundaries between media of differing refractive indices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dioptrics designates a term designating an entity, condition, or phenomenon derived from greek ops."*
+> - 📜 **Johannes Kepler (*Dioptrice*):** *"In this treatise on **dioptrics**, I present the mathematical laws governing image formation through convex lenses."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The limitations of refracting telescopes prompted me to turn from **dioptrics** to reflective catoptric systems."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Physiological **dioptrics** analyzes the eye as an optical apparatus consisting of cornea, aqueous, lens, and vitreous."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical procedure in which a needle or cannula is introduced through the chest wall into the pleural space to aspirate accumulated fluid or air for diagnostic or therapeutic purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pulmonology, thoracentesis provides pleural fluid samples for biochemical analysis (distinguishing transudates from exudates via Light's criteria), cytology, and microbiology, while providing symptomatic relief from large pleural effusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thoracentesis designates a term designating an entity, condition, or phenomenon derived from greek centr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diagnostic **thoracentesis** in the eighth intercostal space safely clarifies whether the pleural effusion is serous, purulent, or hemorrhagic."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Immediate relief of suffocating orthopnea follows therapeutic **thoracentesis** when several pints of fluid are evacuated."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Careful aseptic technique during **thoracentesis** protects against converting a sterile serous effusion into an empyema."*

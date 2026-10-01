@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of x rays representing the action of the heart and its blood vessels after the injection of a radiopaque substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of x rays representing the action of the heart and its blood vessels after the injection of a radiopaque substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of radiographic images of the heart and great blood vessels obtained following injection of a radiopaque contrast medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, a diagnostic imaging record visualizing chamber anatomy, valvular regurgitation, and congenital shunts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiocardiogram designates a series of x rays representing the action of the heart and its blood vessels after the injection of a radiopaque substance."*
+> - 📜 **Helen B. Taussig (*Congenital Malformations of the Heart*):** *"The **angiocardiogram** clearly outlined the overriding aorta and right ventricular hypertrophy characteristic of tetralogy of Fallot."*
+> - 📜 **André Cournand (*Cardiac Catheterization in Man*):** *"Rapid-sequence exposure of the **angiocardiogram** captured the flow of contrast medium through the pulmonary artery."*
+> - 📜 **Charles Dotter (*Angiocardiography*):** *"Examination of the serial **angiocardiogram** allowed precise localization of the coarctation prior to surgical repair."*

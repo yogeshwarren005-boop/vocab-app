@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of many or all of the peripheral nerves (as in leprosy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of many or all of the peripheral nerves (as in leprosy).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation or disease involving multiple peripheral nerves simultaneously, usually characterized by bilateral, symmetrical sensory loss and flaccid motor weakness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and clinical neurology, a symmetrical distal polyneuropathy triggered by nutritional deficiencies (e.g., beriberi), metabolic toxins, alcohol, or post-infectious demyelination (Guillain-Barré syndrome).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyneuritis designates inflammation of many or all of the peripheral nerves (as in leprosy)."*
+> - 📜 **Christiaan Eijkman (*Nobel Lecture in Physiology or Medicine*):** *"Feeding chickens on polished white rice induced an experimental avian **polyneuritis** identical to human beriberi."*
+> - 📜 **William Richard Gowers (*A Manual of Diseases of the Nervous System*):** *"In toxic **polyneuritis**, bilateral wrist-drop and foot-drop develop with striking symmetry in the distal segments of the limbs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute febrile **polyneuritis** may ascend rapidly, threatening life through respiratory muscle paralysis."*

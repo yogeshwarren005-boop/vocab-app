@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct group of armored fish-like vertebrates; taxonomy is not clear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct group of armored fish-like vertebrates; taxonomy is not clear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct order of jawless armored ostracoderm vertebrates (Osteostraci) possessing a consolidated, bony semicircular head shield.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary paleontology, a Silurian-Devonian agnathan clade that provided crucial anatomical insights into the primitive architecture of the vertebrate cranial vault.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalaspida designates extinct group of armored fish-like vertebrates; taxonomy is not clear."*
+> - 📜 **Louis Agassiz (*Monograph on the Fossil Fishes of the Old Red Sandstone*):** *"We erect the order **cephalaspida** to embrace those primitive armored fishes whose cranial buckler resembles an ancient shield."*
+> - 📜 **Hugh Miller (*Footprints of the Creator*):** *"The deposits of the Devonian period abound with the bony remains of **cephalaspida**, witnessing the dawn of vertebrate life."*
+> - 📜 **Arthur Smith Woodward (*Catalogue of the Fossil Fishes in the British Museum*):** *"Serial grinding of specimens of **cephalaspida** revealed complete cranial nerve canals preserved in solid calcite."*

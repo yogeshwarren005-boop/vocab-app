@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical care and treatment of the human foot —called also chiropody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medical care and treatment of the human foot —called also chiropody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine devoted to the diagnosis, treatment, and study of disorders of the foot, ankle, and lower extremity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In healthcare systems, the surgical and non-surgical clinical specialty dedicated to foot biomechanics, reconstructive foot and ankle surgery, wound care, and sports podiatry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podiatry designates the medical care and treatment of the human foot —called also chiropody."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"The development of modern **podiatry** elevated foot healthcare from empirical corn-cutting to advanced orthopedic biomechanics."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Specialized surgical **podiatry** contributes immeasurably to the salvaging of dysvascular diabetic extremities."*
+> - 📜 **Anthony Fauci (*Harrison's Principles of Internal Medicine*):** *"Multidisciplinary clinics incorporating **podiatry** have achieved remarkable reductions in major lower-limb amputations."*

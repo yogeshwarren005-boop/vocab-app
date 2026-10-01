@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek neur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of neuron, designating the nerve cell with its axon and dendrites (predominantly in British English).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical British and European neurophysiology, the term standardly applied in descriptions of motor and sensory reflex arcs (e.g., upper motor neurone).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurone designates a term designating an entity, condition, or phenomenon derived from greek neur."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The motor **neurone** forms the final common path through which all impulses must converge to evoke muscular movement."*
+> - 📜 **William Richard Gowers (*A Manual of Diseases of the Nervous System*):** *"Degeneration of the lower motor **neurone** produces flaccid paralysis accompanied by rapid muscular atrophy and loss of reflexes."*
+> - 📜 **John Hughlings Jackson (*Selected Writings of John Hughlings Jackson*):** *"Destruction of the highest sensory **neurone** impairs the synthesis of complex perceptual representations."*

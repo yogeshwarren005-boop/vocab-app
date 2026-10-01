@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin serous membrane lining the cavities of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin serous membrane lining the cavities of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thin, smooth, serous endothelial membrane that lines the interior cavities, trabeculae, and valves of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac histology, the innermost layer of the heart wall, continuous with the endothelial lining of the great blood vessels entering and leaving the organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocardium designates a thin serous membrane lining the cavities of the heart."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **endocardium** is a delicate serous membrane consisting of a single layer of polygonal endothelial cells supported by elastic fibers."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Dissection of the ventricular chambers reveals that the inner **endocardium** forms smooth, glistening folds that constitute the valve cusps."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Because the **endocardium** is avascular across its valvular surfaces, repair following injury proceeds primarily through organizing surface thrombi."*

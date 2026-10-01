@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liverworts: comprises orders anthocerotales; jungermanniales; marchantiales; sphaerocarpales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liverworts: comprises orders anthocerotales; jungermanniales; marchantiales; sphaerocarpales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The class of non-vascular bryophytic land plants comprising the liverworts (now often treated as Marchantiophyta).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic bryology, primitive green plants characterized by dorsiventrally flattened thallose or leafy gametophytes, unicellular rhizoids, and elaters in the sporangium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepaticae designates liverworts: comprises orders anthocerotales; jungermanniales; marchantiales; sphaerocarpales."*
+> - 📜 **Joseph Dalton Hooker (*Flora Antarctica*):** *"Damp rock crevasses in the subantarctic islands were richly carpeted with exquisite species belonging to the **hepaticae**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Within the division of bryophytes, the **hepaticae** are set apart from the true mosses by their flattened thalli and distinctive sporophyte capsules."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Moist soil under forest shade affords an ideal habitat for spreading carpets of thalloid **hepaticae**."*

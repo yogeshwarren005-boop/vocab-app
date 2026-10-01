@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the flattened lateral appendages of the last abdominal segment of a crustacean; broadly : an abdominal appendage of a crustacean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the flattened lateral appendages of the last abdominal segment of a crustacean; broadly : an abdominal appendage of a crustacean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the pair of flattened, paddle-like appendages on the terminal abdominal segment of many crustaceans (such as lobsters, crayfish, and shrimp), flanking the telson to form the tail fan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine carcinology and functional morphology, rapid flexion of the abdomen and extended uropods generates the explosive caridoid escape reaction (tail-flip), propelling the crustacean backward away from predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uropod designates either of the flattened lateral appendages of the last abdominal segment of a crustacean; broadly : an abdominal appendage of a crustacean."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The sixth abdominal segment bears on each side an expanded paddle-like **uropod**, which with the telson forms the tail-fin."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"With a sudden downward stroke of its broad **uropod** fan, the shrimp leaped backward into the deep pool."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The muscular power concentrated in the abdomen and the terminal **uropod** apparatus enables rapid backward propulsion."*

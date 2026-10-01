@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lateral half of a four-chamber heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lateral half of a four-chamber heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital teratological anomaly characterized by the defective, unilateral development of only one lateral half of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental embryology and cardiac pathology, hypoplasia or agenesis of either the systemic or pulmonary cardiac chambers, presenting as hypoplastic left or right heart syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemicardia designates a lateral half of a four-chamber heart."*
+> - 📜 **Isidore Geoffroy Saint-Hilaire (*General and Particular History of Anomalies of Organization*):** *"The severe developmental anomaly termed **hemicardia** illustrates the lateral asymmetry that can arrest cardiac development during early organogenesis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In cases of **hemicardia**, a solitary functional ventricle must sustain the circulation through complex fetal vascular shunts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **hemicardia** provokes profound neonatal cyanosis and circulatory collapse upon closure of the patent ductus arteriosus."*

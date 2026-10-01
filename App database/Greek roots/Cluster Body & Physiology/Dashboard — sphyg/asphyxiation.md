@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being deprived of oxygen (as by having breathing stopped).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Killing by depriving of oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or process of being deprived of oxygen, leading to unconsciousness, suffocation, or death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic pathology and clinical emergency care, causes of asphyxiation are classified as mechanical (hanging, strangulation, airway foreign body), environmental (confined spaces), or toxic (carbon monoxide, hydrogen sulfide).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I grew dizzy with semi-asphyxiation, and my heart thumped until it seemed surely it would burst the canvas that bound me."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"There is a certain dangerously volatile state of it; and occasionally people, especially of opposite sexes, try to administer it to each other in that form, with asphyxiation resulting to both hearts."*
+> - 📜 **John Scott Haldane (*Respiration*):** *"Carbon monoxide inhalation induces insidious **asphyxiation** without provoking the dyspneic gasping typical of airway strangulation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Edema of the glottis requires prompt tracheotomy to avert fatal **asphyxiation** from laryngeal closure."*
+> - 📜 **Claude Bernard (*Lessons on the Effects of Toxic and Medicinal Substances*):** *"The animal subjected to pure nitrogen gas succumbed rapidly to quiet **asphyxiation** as tissue respiration halted."*

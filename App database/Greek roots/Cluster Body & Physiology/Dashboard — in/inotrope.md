@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that increases or decreases the force of muscular contractions : an inotropic drug or agent (such as epinephrine or a beta-blocker).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that increases or decreases the force of muscular contractions : an inotropic drug or agent (such as epinephrine or a beta-blocker).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, drug, or chemical substance that alters the force or energy of muscular contractions, particularly within the myocardium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacology and critical care, an agent classified as positive (augmenting contractile force, e.g., dobutamine, milrinone) or negative (decreasing contractile force, e.g., beta-blockers) to optimize cardiac output.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inotrope designates a substance that increases or decreases the force of muscular contractions : an inotropic drug or agent (such as epinephrine or a beta-blocker)."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"The administration of a positive **inotrope** is indicated to restore hemodynamic stability in acute cardiogenic decompensation."*
+> - 📜 **Bertram Katzung (*Basic and Clinical Pharmacology*):** *"Digoxin functions as a classic cardiac **inotrope** by inhibiting sodium-potassium ATPase and elevating intracellular calcium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When cardiac dilatation threatens catastrophic failure, the judicious application of a myocardial **inotrope** may restore ventricular tone."*

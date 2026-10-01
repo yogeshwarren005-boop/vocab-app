@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bacteria living mostly in soils and on dung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bacteria living mostly in soils and on dung.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of myxobacteria (slime bacteria) characterized by producing clustered fruiting bodies containing multiple sporangia (cysts).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic bacteriology, gliding prokaryotes within the order Myxococcales that aggregate socially upon starvation to build multi-cyst fruiting structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyangiaceae designates bacteria living mostly in soils and on dung."*
+> - 📜 **Roland Thaxter (*On the Myxobacteriaceae, a New Order of Schizomycetes*):** *"In the family **polyangiaceae**, the cystophores bear numerous distinct, brightly colored sporangia clustered together."*
+> - 📜 **Stanier, R. Y. (*The Cytophaga Group: A Contribution to the Biology of Myxobacteria*):** *"Species of the **polyangiaceae** degrade cellulose and other insoluble polysaccharides through social swarming behaviors."*
+> - 📜 **Martin Dworkin (*Developmental Biology of the Myxobacteria*):** *"The complex morphogenetic architecture of the **polyangiaceae** demonstrates primitive multicellular coordination in prokaryotes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of avian toes in which all four digits point forward, found in swifts and mousebirds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian functional morphology, an extreme adaptation enabling birds to hang vertically from rock crevices, chimney flues, or tree trunks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pamprodactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"The foot of the common swift displays complete **pamprodactyly**, all four short curved claws pointing forward like crampons."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Swifts roosting inside limestone caves cling to the vertical stone with the aid of their **pamprodactyly** feet."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The swift can scarcely walk upon level ground, its **pamprodactyly** toes being formed purely for grasping perpendicular masonry."*

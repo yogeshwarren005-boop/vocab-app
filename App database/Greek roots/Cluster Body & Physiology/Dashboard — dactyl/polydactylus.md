@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of polynemidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of polynemidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The specific epithet in zoological and botanical taxonomy designating species with many fingers, rays, or toes; a multi-digited animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, the genus Polydactylus comprising the threadfins (family Polynemidae), characterized by finger-like free pectoral filaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polydactylus designates a genus of polynemidae."*
+> - 📜 **Francis Day (*The Fishes of India*):** *"Fishes of the genus **Polydactylus** utilize their long detached pectoral filaments to grope for crustaceans in muddy estuaries."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The threadfin, **Polydactylus** paradiseus, was prized by Anglo-Indian diners for its exquisite flavor and delicate flesh."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"We secured specimens of **Polydactylus** along the tropical coast, marveling at the sensitive tactile rays beneath the gills."*

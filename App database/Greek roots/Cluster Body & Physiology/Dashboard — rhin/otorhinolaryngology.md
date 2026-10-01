@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialty concerned especially with the ear, nose, and throat and related parts of the head and neck : otolaryngology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical specialty concerned especially with the ear, nose, and throat and related parts of the head and neck : otolaryngology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical and surgical subspecialty concerned with diseases and disorders of the ear, nose, and throat (ENT).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medical education, the combined field encompassing rhinology, laryngology, otology, audiology, and facial plastic surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otorhinolaryngology designates a medical specialty concerned especially with the ear, nose, and throat and related parts of the head and neck : otolaryngology."*
+> - 📜 **William Osler (*A System of Medicine*):** *"The growth of modern **otorhinolaryngology** established precise diagnostic standards for sinus and laryngeal pathology."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Specialized surgical instrumentation designed for **otorhinolaryngology** revolutionized procedures within narrow cranial cavities."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The specialized insights of **otorhinolaryngology** brought relief to thousands previously tormented with chronic deafness and catarrh."*

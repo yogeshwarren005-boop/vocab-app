@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hysterical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hysterical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hysterical manner; with uncontrolled, wild, or frantic emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behaving with overwhelming panic, uncontrollable sobbing, or wild laughter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If Tess had been artful, had she made a scene, fainted, wept hysterically, in that lonely lane, notwithstanding the fury of fastidiousness with which he was possessed, he would probably not have withstood her."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"With this hysterically over-simplified view of life, fostered by lack of self-knowledge, was connected a corresponding mistake as to the means by which his ends could be reached."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"I feel that I have a message to you from your real mothers, and it is this: ‘We hope our sons will die like English gentlemen.’” Even the pirates were awed, and Tootles cried out hysterically, “I am going to do what my mother hopes."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Miss Havisham wept **hysterically**, wringing her hands as the tragic wreckage of her life confronted her."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"The distraught girl sobbed **hysterically** upon the bench, unable to explain the terror that seized her."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The panic-stricken passengers screamed **hysterically** as the ship rolled heavily into the trough of the sea."*

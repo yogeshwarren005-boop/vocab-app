@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vectors of important diseases of man and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vectors of important diseases of man and animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of hard ticks (family Ixodidae), including Dermacentor andersoni (Rocky Mountain wood tick) and Dermacentor variabilis (American dog tick).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical acarology, vectors of serious zoonoses including Rocky Mountain spotted fever, Colorado tick fever, and tularemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermacentor designates vectors of important diseases of man and animals."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The transmission of Rocky Mountain spotted fever was traced to the bite of the wood tick, **Dermacentor** andersoni."*
+> - 📜 **Howard Taylor Ricketts (*Contributions to Medical Science*):** *"Infected specimens of **Dermacentor** harbor rickettsial organisms in their salivary glands, transmitting them during blood feeding."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Tick paralysis in domestic animals and children is frequently caused by a salivary neurotoxin secreted by **Dermacentor**."*

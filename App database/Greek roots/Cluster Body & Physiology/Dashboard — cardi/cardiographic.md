@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cardiograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cardiograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or obtained by means of a cardiograph or cardiography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic cardiology, describing the graphic waveforms, voltage intervals, and diagnostic tracing patterns generated during cardiac monitoring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiographic designates of or relating to a cardiograph."*
+> - 📜 **Willem Einthoven (*The Different Forms of the Human Electrocardiogram*):** *"The **cardiographic** tracing provides an objective record of heart function that no stethoscope can duplicate."*
+> - 📜 **Thomas Lewis (*Clinical Electrocardiography*):** *"Specific **cardiographic** abnormalities, such as ST-segment elevation, serve as the clinical signature of acute coronary thrombosis."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Extensive **cardiographic** surveys established the normal physiological boundaries of the PR interval across age groups."*

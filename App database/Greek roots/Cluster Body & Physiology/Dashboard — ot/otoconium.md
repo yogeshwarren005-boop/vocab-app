@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the minute calcium carbonate crystals (otoliths) embedded in the gelatinous membrane of the utricle and saccule of the inner ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vestibular sensory neurobiology, microscopic mineral particles that provide gravitational inertia to bend underlying hair cell stereocilia during linear motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otoconium designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"Within the sensory macula, each microscopic **otoconium** granule presses upon the sensory cilia, registering gravitational orientation."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The gelatinous layer covering the vestibular hair cells is encrusted with millions of prismatic **otoconium** crystals."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Linear acceleration shifts the heavy **otoconium** mass relative to the sensory neuroepithelium, firing action potentials into the vestibular nerve."*

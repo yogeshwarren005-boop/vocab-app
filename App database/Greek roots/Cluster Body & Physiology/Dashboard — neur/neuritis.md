@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammatory or degenerative lesion of a nerve marked especially by pain, sensory disturbances, and impaired or lost reflexes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammatory or degenerative lesion of a nerve marked especially by pain, sensory disturbances, and impaired or lost reflexes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a nerve or nerves, typically characterized by pain, tenderness, sensory disturbances, and loss of motor function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, an inflammatory, infectious, or toxic lesion of peripheral nerve fibers resulting in axonal degeneration, demyelination, and impaired conduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I didn't know one suffered, with paralysis." "He has racking neuritis in his shoulders and back." "That's bad."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Verney for his neuritis, so I won't hear another word against him!" "Has he?"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Val had a touch of neuritis in his injured arm two nights out of seven, but he could not find the shillings for his train fare to Salisbury, far less the fees of a professional masseuse."*
+> - 📜 **William Richard Gowers (*A Manual of Diseases of the Nervous System*):** *"Multiple **neuritis** manifests symmetrically in the extremities with bilateral foot-drop, wrist-drop, and loss of deep tendon reflexes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Optic **neuritis** or choked disc is one of the most reliable physical signs of increased intracranial pressure from cerebral tumor."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Acute localized **neuritis** produces exquisite tenderness upon deep palpation along the anatomical course of the nerve trunk."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek copr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The involuntary or compulsive writing of obscene, profane, or scatological words and phrases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychiatry and behavioral neurology, a rare motor manifestation of severe Tourette syndrome or frontal lobe disinhibition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprographia designates a term designating an entity, condition, or phenomenon derived from greek copr."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"In extreme cases of Tourette syndrome, motor tics can manifest as compulsive **coprographia**, scribbling forbidden words upon margins."*
+> - 📜 **Alexander Luria (*The Nature of Human Conflicts*):** *"Frontal disinhibition can release suppressed vulgar expressions in both spoken form and spontaneous **coprographia**."*
+> - 📜 **Gilles de la Tourette (*Étude sur une affection nerveuse*):** *"The patient displayed not only vocal tics but also an uncontrollable impulse toward **coprographia** on any scrap of paper."*

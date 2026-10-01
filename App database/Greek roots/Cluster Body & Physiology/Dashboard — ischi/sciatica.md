@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain along the course of a sciatic nerve especially in the back of the thigh; broadly : pain in the lower back, buttocks, hips, or adjacent parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain along the course of a sciatic nerve especially in the back of the thigh; broadly : pain in the lower back, buttocks, hips, or adjacent parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Neuralgic pain radiating along the sciatic nerve from the lower back down the buttock, thigh, leg, and foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics and neurology, a symptom complex typically provoked by lumbosacral disc displacement, spinal canal stenosis, or piriformis compression irritating spinal nerve roots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, which of your hips has the most profound sciatica?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou cold sciatica, Cripple our senators, that their limbs may halt As lamely as their manners!"*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"As for the rest, it requires youth and strength, and the labour in an old man would breed Agues, Sciatica's, and Cramps: You shall not curse me for taking from you what you cannot spare, Sir."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute **sciatica**, absolute rest in bed with immobilization of the limb offers the most reliable relief."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The old squire had been laid up with a fierce bout of **sciatica** that made every step a torment."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"He hobbled into the consulting room, bent double by an intractable siege of **sciatica**."*

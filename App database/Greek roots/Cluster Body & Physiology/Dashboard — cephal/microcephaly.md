@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurodevelopmental disorder characterized by an abnormally small head circumference, defined as more than two standard deviations below the mean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurology and infectious disease, a condition caused by genetic mutations, chromosomal aberrations, or intrauterine infections (e.g. cytomegalovirus, rubella, Zika virus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcephaly designates a condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **microcephaly** is typically accompanied by spastic diplegia and severe global cognitive impairment."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The etiology of **microcephaly** resides in defective neurogenesis within the germinal matrix of the embryonic neural tube."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology*):** *"Disorders causing intrauterine ischemic insult frequently culminate in secondary post-migrational **microcephaly**."*

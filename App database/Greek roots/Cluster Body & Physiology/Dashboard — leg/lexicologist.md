@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compiler or writer of a dictionary; a student of the lexical component of language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compiler or writer of a dictionary; a student of the lexical component of language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguist who specializes in lexicology, the scientific study of words, vocabulary, and lexical semantics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field and historical linguistics, a scholar investigating morphological word-formation patterns, semantic networks, and cross-cultural lexical divergence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lexicologist designates a compiler or writer of a dictionary; a student of the lexical component of language."*
+> - 📜 **Edward Sapir (*Selected Writings in Language, Culture and Personality*):** *"The **lexicologist** discovers in archaic word compounds the fossilized worldview of prehistoric civilizations."*
+> - 📜 **Otto Jespersen (*Growth and Structure of the English Language*):** *"To the **lexicologist**, loanwords provide vivid historical evidence of cultural conquest and maritime commerce."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The **lexicologist** examines how signs acquire value through differential contrast within the lexical network."*

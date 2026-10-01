@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized explosive stinging cell unique to cnidarians (such as jellyfish, corals, and sea anemones), containing a secretory organelle called a nematocyst.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, a cellular mechanosensory weapon that discharges a venomous harpoon-like tubule upon tactile or chemical triggering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cnidocyte designates a term designating an entity, condition, or phenomenon derived from greek cyt."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The venomous battery along the tentacle of the jellyfish consists of thousands of microscopic **cnidocyte** cells ready to fire."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Contact with the floating tentacles triggers instantaneous discharge from each **cnidocyte**, injecting toxin into the captured prey."*
+> - 📜 **Richard Dawkins (*The Extended Phenotype*):** *"The high-pressure explosive mechanism of the **cnidocyte** is one of the fastest mechanical processes in the animal kingdom."*

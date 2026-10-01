@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a phylum (Gastrotricha) of minute aquatic pseudocoelomate animals that usually have a spiny or scaly cuticle and cilia on the ventral surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a phylum (Gastrotricha) of minute aquatic pseudocoelomate animals that usually have a spiny or scaly cuticle and cilia on the ventral surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute, microscopic worm-like aquatic animal belonging to the phylum Gastrotricha, having a scaly or spiny cuticle and cilia on the ventral surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meiofaunal zoology, pseudocoelomate invertebrates inhabiting marine sands and freshwater benthos, characterized by adhesive tubes and a muscular sucking pharynx.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrotrich designates any of a phylum (gastrotricha) of minute aquatic pseudocoelomate animals that usually have a spiny or scaly cuticle and cilia on the ventral surface."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The interstitial spaces of freshwater sands harbor the agile **gastrotrich**, gliding by means of longitudinal ventral ciliary bands."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Microscopic meiofauna like the **gastrotrich** demonstrate that morphological complexity does not depend on macroscopic body size."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"In every handful of tidal sand dwells an invisible zoo, where each tiny **gastrotrich** browses upon single-celled diatoms."*

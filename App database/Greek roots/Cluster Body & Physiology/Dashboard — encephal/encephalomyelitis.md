@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the brain and spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the brain and spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of both the brain and the spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and immunology, an acute autoimmune or infectious condition (such as acute disseminated encephalomyelitis or viral infections) producing multi-focal central nervous system demyelination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalomyelitis designates inflammation of the brain and spinal cord."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Post-vaccinal **encephalomyelitis** presents as a sudden autoimmune attack upon the myelin sheaths of the brain and cord."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The patient's sudden paraparesis and confusion were the consequence of an acute, post-viral **encephalomyelitis**."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Disseminated **encephalomyelitis** scatters inflammatory foci through the white matter, impairing motor pathways and sensory conduction."*

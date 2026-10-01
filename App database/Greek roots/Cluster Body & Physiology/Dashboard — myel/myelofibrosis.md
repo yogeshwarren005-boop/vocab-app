@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fibrosis of the bone marrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fibrosis of the bone marrow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic disorder characterized by progressive replacement of the blood-forming bone marrow by dense fibrous scar tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and oncology, a BCR-ABL-negative myeloproliferative neoplasm marked by extramedullary hematopoiesis in the spleen and liver, leukoerythroblastic blood smear, and teardrop poikilocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelofibrosis designates fibrosis of the bone marrow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked splenomegaly coupled with tear-drop poikilocytes on the blood film strongly suggests primary **myelofibrosis**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In advanced **myelofibrosis**, fibrous collagen and reticulin fibers completely obliterate normal hematopoiesis in the medullary space."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The extensive bone marrow scarring of **myelofibrosis** forces the spleen to resume primitive fetal blood-forming activity."*

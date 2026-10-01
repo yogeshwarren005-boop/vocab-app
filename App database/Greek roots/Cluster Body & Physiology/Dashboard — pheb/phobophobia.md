@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pheb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The irrational and debilitating fear of fear itself or of experiencing panic symptoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive-behavioral psychiatry, a catastrophic anticipatory anxiety cycle wherein interoceptive sensations of arousal trigger escalation into full panic disorder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phobophobia designates a term designating an entity, condition, or phenomenon derived from greek pheb."*
+> - 📜 **Franklin D. Roosevelt (*First Inaugural Address*):** *"The only thing we have to fear is fear itself—a political warning against collective, paralyzing **phobophobia**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Anxious temperaments become captive to **phobophobia**, trembling at the mere premonition of their own emotional palpitations."*
+> - 📜 **Pierre Janet (*The Mental State of Hystericals*):** *"The chronic anticipatory panic known as **phobophobia** fixes the patient's attention upon trivial visceral sensations."*

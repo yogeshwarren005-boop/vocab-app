@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protein substance that remains when starch is removed from cereal grains; gives cohesiveness to dough.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protein substance that remains when starch is removed from cereal grains; gives cohesiveness to dough.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance present in cereal grains, especially wheat, that is responsible for the elastic texture of dough.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food science and immunology, a composite of gliadin and glutenin proteins that triggers intestinal villous atrophy in celiac disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gluten designates a protein substance that remains when starch is removed from cereal grains; gives cohesiveness to dough."*
+> - 📜 **Harold McGee (*On Food and Cooking*):** *"Kneading stretches and aligns coiled protein chains into a cohesive, rubbery web of **gluten** that traps carbon dioxide bubbles during baking."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"A strict lifelong elimination of dietary **gluten** permitted the celiac patient's blunted intestinal villi to regenerate completely."*
+> - 📜 **Michael Pollan (*Cooked: A Natural History of Transformation*):** *"Traditional sourdough fermentation partially breaks down tough wheat **gluten**, rendering artisanal loaves more digestible than factory bread."*

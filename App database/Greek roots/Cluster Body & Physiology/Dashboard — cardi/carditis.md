@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek itis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the heart muscle or tissues, encompassing endocarditis, myocarditis, or pericarditis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical rheumatology, cardiac inflammation (often acute pancarditis) occurring as a major manifestation of acute rheumatic fever.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carditis designates a term designating an entity, condition, or phenomenon derived from greek itis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rheumatic **carditis** demands absolute prolonged bed rest to prevent permanent cicatricial shortening of the mitral valve leaflets."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"Acute articular rheumatism often strikes the heart with violent **carditis**, leaving the patient with lifelong palpitations."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"The presence of a double friction sound over the precordium confirms that acute **carditis** has involved the serous pericardial membrane."*

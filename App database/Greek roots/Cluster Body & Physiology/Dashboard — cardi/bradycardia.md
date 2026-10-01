@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively slow heart action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively slow heart action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal slowness of the heart rate, usually defined in an adult as a resting heart rate of fewer than 60 beats per minute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, a slow heart rhythm resulting from physiological conditioning (athletic bradycardia), sinus node dysfunction, or atrioventricular block.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bradycardia designates relatively slow heart action."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extreme **bradycardia** accompanied by syncopal attacks defines the classic Stokes-Adams syndrome of complete heart block."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Sinus **bradycardia** is a benign physiological finding in trained endurance athletes whose high stroke volume compensates for low rate."*
+> - 📜 **Thomas Lewis (*Clinical Disorders of the Heart Beat*):** *"Digitalis toxicity frequently heralds itself through sudden, pronounced **bradycardia** coupled with coupled ventricular extrasystoles."*

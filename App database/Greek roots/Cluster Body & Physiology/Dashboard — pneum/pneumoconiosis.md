@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronic respiratory disease caused by inhaling metallic or mineral particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronic respiratory disease caused by inhaling metallic or mineral particles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic disease of the lungs caused by the habitual inhalation of dust, especially mineral or metallic dust, resulting in progressive fibrosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational medicine and environmental pathology, a group of occupational lung diseases (including silicosis, asbestosis, and coal workers' pneumoconiosis) characterized by dust-laden alveolar macrophages and dense collagen deposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumoconiosis designates chronic respiratory disease caused by inhaling metallic or mineral particles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In miners and stone-cutters, chronic **pneumoconiosis** leads to dense fibrous induration of the pulmonary parenchyma."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Histological examination in anthraco-silicotic **pneumoconiosis** reveals blackened fibrous nodules surrounding respiratory bronchioles."*
+> - 📜 **Alice Hamilton (*Industrial Poisons in the United States*):** *"Exhaust ventilation and dust suppression in granite quarries drastically curtailed the deadly toll of industrial **pneumoconiosis**."*

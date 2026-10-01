@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected by ischemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affected by ischemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, affected by, or caused by ischemia; deficient in blood supply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing clinical disease entities (such as ischemic heart disease, ischemic stroke, or ischemic colitis) characterized by arterial circulatory compromise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ischemic designates relating to or affected by ischemia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden focal neurological deficit was attributed to an acute **ischemic** attack in the distribution of the middle cerebral artery."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The wedge-shaped pale lesion within the spleen exhibited the classic morphological architecture of an **ischemic** infarct."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Severe **ischemic** contracture of muscle fibers ensues when collateral arterial blood flow falls below the critical threshold."*

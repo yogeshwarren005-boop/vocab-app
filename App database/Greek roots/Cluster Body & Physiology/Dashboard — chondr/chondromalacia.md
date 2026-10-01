@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chondr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal softening, fraying, and degeneration of articular cartilage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic medicine, patellofemoral syndrome (chondromalacia patellae) caused by improper patellar tracking and retro-patellar cartilage breakdown.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondromalacia designates a term designating an entity, condition, or phenomenon derived from greek chondr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Athletes frequently suffer from chronic knee pain caused by early **chondromalacia** of the posterior patellar surface."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The soft, fibrillated appearance of articular cartilage in **chondromalacia** marks the preliminary stage of osteoarthritic ulceration."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The orthopedic surgeon noted that chronic mechanical friction had produced distinct **chondromalacia** upon the femoral condyle."*

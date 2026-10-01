@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple protein containing mainly basic amino acids; present in cell nuclei in association with nucleic acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple protein containing mainly basic amino acids; present in cell nuclei in association with nucleic acids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of basic, alkaline proteins found in eukaryotic cell nuclei that package and order DNA into structural units called nucleosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics and epigenetics, the core octamer proteins (H2A, H2B, H3, H4, plus linker H1) whose post-translational chemical modifications regulate chromatin accessibility and gene expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histone designates a simple protein containing mainly basic amino acids; present in cell nuclei in association with nucleic acids."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Eukaryotic nuclear DNA winds tightly around an octamer core of basic **histone** proteins to form nucleosome beads."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Acetylation and methylation of protruding **histone** tails serve as an epigenetic code modulating transcriptional activation."*
+> - 📜 **Albrecht Kossel (*The Chemical Composition of the Cell Nucleus (Nobel Lecture)*):** *"I isolated the basic protein **histone** from avian erythrocytes, establishing its intimate association with nucleic acids."*

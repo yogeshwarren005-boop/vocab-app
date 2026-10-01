@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Body type : physique.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Body type : physique.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classification of the human physique according to body build, traditionally categorized into endomorphic, mesomorphic, and ectomorphic constitutional types.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Developed in the 1940s by American psychologist William Herbert Sheldon; while Sheldon's associations between somatotype and temperament have been largely rejected, somatotyping remains utilized in sports kinanthropometry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatotype designates body type : physique."*
+> - 📜 **William Herbert Sheldon (*The Varieties of Human Physique*):** *"The individual's **somatotype** is expressed as a three-numeral formula representing components of endomorphy, mesomorphy, and ectomorphy."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Composite photography revealed constitutional tendencies in human physique foreshadowing the modern concept of the **somatotype**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Physiologists have long sought to correlate variations in psychological temperament with specific traits of the bodily **somatotype**."*

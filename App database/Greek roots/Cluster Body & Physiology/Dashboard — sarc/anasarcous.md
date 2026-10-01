@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or affected by dropsy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or affected by dropsy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected by, or characterized by anasarca; dropsical in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical descriptions, used to characterize swollen, fluid-engorged subcutaneous tissues or patients exhibiting profound generalized edema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anasarcous designates characterized by or affected by dropsy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **anasarcous** extremities responded favorably to digitalis therapy and rigorous restriction of dietary sodium."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Upon gentle incision into the **anasarcous** skin, clear albuminous serum drained continuously for several days."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"In chronic albuminuria, an **anasarcous** state of the face and periorbital regions is frequently the first sign to alarm the patient."*

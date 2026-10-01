@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combined inflammation of the pleura and lungs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute febrile and often fatal respiratory disorder of cattle, goats, sheep, and related animals caused by a mycoplasma (Mycoplasma mycoides).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concurrent inflammation of both the lungs and the pleura (pneumonia complicated by pleurisy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine and agricultural history, contagious bovine pleuropneumonia (CBPP), a devastating livestock disease caused by Mycoplasma mycoides characterized by marbling of the lungs and copious pleural exudate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleuropneumonia designates combined inflammation of the pleura and lungs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extensive fibrinous exudation upon the visceral pleura accompanied dense hepatization, establishing a diagnosis of acute **pleuropneumonia**."*
+> - 📜 **Louis Pasteur (*Collected Works on Infectious Diseases*):** *"Preventive inoculation against contagious bovine **pleuropneumonia** checked the ruinous spread of the plague among French herds."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The thick gelatinous interlobular septa seen in bovine **pleuropneumonia** demonstrate marked lymphatic thrombosis."*

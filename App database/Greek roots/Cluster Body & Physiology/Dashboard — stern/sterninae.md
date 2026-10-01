@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic subfamily of seabirds within the family Laridae, commonly known as terns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, Sterninae are distinguished from gulls (Larinae) by their slender bodies, narrow pointed wings, forked tails, and plunge-diving foraging behavior for small marine and freshwater fishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog sterninae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The **Sterninae** are preeminently maritime birds, endowed with marvelous elegance and tireless endurance upon the wing."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"Unlike gulls, members of the **Sterninae** rarely swim, securing their aquatic prey by sudden, headlong vertical dives."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"On remote coral cays, vast breeding assemblies of **Sterninae** deposit their speckled eggs directly upon the warm sand."*

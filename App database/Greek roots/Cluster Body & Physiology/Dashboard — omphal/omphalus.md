@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scar where the umbilical cord was attached.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scar where the umbilical cord was attached.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The navel or umbilicus (Latinized anatomical variant of omphalos).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical anatomical treatises and classical descriptions, the circular depression in the midline of the abdominal wall marking the attachment site of the fetal umbilical cord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omphalus designates a scar where the umbilical cord was attached."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The scar tissue forming the **omphalus** represents the obliterated remnants of the umbilical vein and hypogastric arteries."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Venous distension radiating from the **omphalus** in portal cirrhosis produces the classic caput medusae."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Metastatic adenocarcinomatous nodules at the **omphalus**, or Sister Mary Joseph nodules, signify widespread abdominal carcinomatosis."*

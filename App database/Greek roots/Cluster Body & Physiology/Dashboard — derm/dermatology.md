@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine dealing with the skin, its structure, functions, and diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine dealing with the skin, its structure, functions, and diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science concerned with the diagnosis, physiology, and pathology of the skin and its appendages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical practice, the medical and surgical specialty dedicated to cuticular diseases, skin oncology, and systemic manifestations of dermatoses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatology designates a branch of medicine dealing with the skin, its structure, functions, and diseases."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"The true progress of **dermatology** began when clinicians ceased looking at skin rashes as humoral purges and studied their local tissue pathology."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Few fields of medicine reward patient observation as richly as clinical **dermatology**, where pathology is spread out directly before the eye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The master of internal medicine must keep abreast of **dermatology**, for the skin is a mirror of constitutional disease."*

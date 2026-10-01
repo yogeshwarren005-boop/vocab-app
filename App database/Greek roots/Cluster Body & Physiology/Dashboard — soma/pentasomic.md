@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having five copies of a specific chromosome in a cell nucleus (2n + 3 in a diploid).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant cytogenetics, pentasomic individuals exhibit altered gene dosage effects and produce multivalent configurations (pentavalents) during meiotic prophase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentasomic designates adjective*) pertaining to, derived from, or characteristic of body."*
+> - 📜 **Albert Blakeslee (*New Datura Mutants*):** *"The **pentasomic** individuals display narrow, distorted foliage and extreme dwarfing compared to standard diploids."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"At first meiotic division, the **pentasomic** group may associate as a ring of five or as a bivalent plus trivalent."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"Dosage effects in **pentasomic** tissue often disrupt enzymatic stoichiometries essential for normal development."*

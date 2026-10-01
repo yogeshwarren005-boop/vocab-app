@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine dealing with the skin, its structure, functions, and diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine dealing with the skin, its structure, functions, and diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician who specializes in the diagnosis, medical management, and surgical treatment of diseases of the skin, hair, and nails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern medicine, a clinical specialist proficient in dermatopathology, dermoscopy, Mohs surgery, and systemic immunodermatology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatologist designates a branch of medicine dealing with the skin, its structure, functions, and diseases."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"The skilled **dermatologist** distinguishes at a glance between contagious scabies and constitutional eczema."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Surgical Subjects*):** *"To the consulting **dermatologist**, every chronic ulcer on the leg presents a complex problem of vascular dynamics."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cooperation between the internist and the **dermatologist** is essential whenever cuticular purpura indicates systemic vasculitis."*

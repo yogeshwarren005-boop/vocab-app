@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of liver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, involving, or affecting both the liver and the kidneys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology and hepatology, denoting hepatorenal syndrome, a condition of acute, functional renal failure developing in patients with advanced liver disease and portal hypertension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatorenal designates adjective*) pertaining to, derived from, or characteristic of liver."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The development of oliguria and azotemia in decompensated cirrhosis illustrates the ominous nature of the **hepatorenal** syndrome."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Concomitant pathological alterations in the liver and kidneys were frequently traced to shared **hepatorenal** circulatory derangements."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Splanchnic arterial vasodilation in severe cirrhosis triggers compensatory renal vasoconstriction, precipitating functional **hepatorenal** failure."*

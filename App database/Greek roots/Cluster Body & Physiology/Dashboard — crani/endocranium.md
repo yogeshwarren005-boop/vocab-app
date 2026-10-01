@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Membrane lining the inside of the skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Membrane lining the inside of the skull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner surface of the cranium; the dura mater lining the inside of the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, the fossilized internal surface or cast of the cranial cavity reflecting the size, shape, and sulci of the brain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocranium designates membrane lining the inside of the skull."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Natural mud casts of the **endocranium** allow the paleontologist to trace the cranial nerve exits in extinct placoderms."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"The vascular grooves impressed upon the **endocranium** reveal the distribution of the middle meningeal artery."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"By preparing an accurate endocranial cast, Dart proved that the brain of Australopithecus occupied an advanced **endocranium**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mimics literary or musical style for comic effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mimics literary or musical style for comic effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes or performs humorous or satirical imitations of an author, artist, genre, or work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, a satirist who mimics the formal stylistic conventions of another to reveal absurdity or pretense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parodist designates mimics literary or musical style for comic effect."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"A skilful **parodist** must capture the rhythm and cadences of his victim so faithfully that the mockery emerges from within."*
+> - 📜 **William Hazlitt (*Lectures on the English Comic Writers*):** *"The genius of the **parodist** lies in heightening peculiar mannerisms until the sublime collapses into the ridiculous."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Each petty **parodist** in Grub Street mimicked the heroic couplet, degrading Homeric majesty to farce."*

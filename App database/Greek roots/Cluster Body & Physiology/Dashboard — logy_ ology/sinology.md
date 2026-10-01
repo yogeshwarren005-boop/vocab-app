@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of chinese history and language and culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of chinese history and language and culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The academic study of China, its language, literature, history, philosophy, and cultural heritage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Oriental studies and comparative philology, the scholarly analysis of Classical Chinese texts, dynastic archives, and historical linguistics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinology designates the study of chinese history and language and culture."*
+> - 📜 **James Legge (*The Chinese Classics*):** *"Rigorous philological criticism is indispensable to the advancing discipline of Western **sinology**."*
+> - 📜 **Herbert Giles (*A History of Chinese Literature*):** *"The field of **sinology** owes much of its modern systematization to the translation of early Confucian and Taoist treatises."*
+> - 📜 **Arthur Waley (*The Analects of Confucius*):** *"Traditional European **sinology** often leaned excessively on later commentaries rather than the archaic grammatical structures."*

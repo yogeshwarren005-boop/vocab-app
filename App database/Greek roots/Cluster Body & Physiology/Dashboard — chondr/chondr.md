@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chondr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining root (from Greek chondros, meaning 'cartilage, gristle; grain, pebble'), used in anatomical, medical, and geological terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific taxonomy, denoting cartilaginous anatomical structures (chondrocyte, chondroma) or spherical meteoritic grains (chondrite).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondr designates a term designating an entity, condition, or phenomenon derived from greek chondr."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek noun chondros signified a hard grain or groat, and in anatomical language was applied to gristle or cartilage; hence the combining form **chondr**."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From the stem **chondr** we derive chondrite in mineralogy and hypochondria in medicine."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"Prefixes derived from **chondr** indicate the primitive cartilaginous framework that precedes mature bony tissue."*

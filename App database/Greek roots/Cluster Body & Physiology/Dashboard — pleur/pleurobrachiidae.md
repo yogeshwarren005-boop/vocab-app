@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea gooseberries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea gooseberries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of cydippid ctenophores comprising pelagic comb jellies with spherical, ovate, or pear-shaped bodies and retractile tentacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate systematics, a cosmopolitan marine family characterized by well-developed tentacular sheaths, biradial symmetry, and rows of locomotive paddle-like cilia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleurobrachiidae designates sea gooseberries."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Members of the **pleurobrachiidae** exhibit the quintessential ctenophore body plan with fully functional aboral sensory organs."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Taxonomic distinction of the **pleurobrachiidae** relies upon the deep lateral insertion of the tentacular apparatus."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Swarms of **pleurobrachiidae** drift across the continental shelf, grazing upon larval copepods and fish fry."*

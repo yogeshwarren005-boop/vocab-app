@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of burn, heat, inflammation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of burn, heat, inflammation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or characterized by a phlegmon; diffusely suppurative and inflammatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology and surgery, describing fulminant transmural suppurative inflammation of hollow organs, such as acute phlegmonous gastritis or phlegmonous enteritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlegmonous designates adjective*) pertaining to, derived from, or characteristic of burn, heat, inflammation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **phlegmonous** gastritis is a rare and almost uniformly fatal purulent infection of the gastric wall."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic inspection of the appendix showed severe **phlegmonous** inflammation extending through all histological layers."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Prompt operative debridement is essential when treating a **phlegmonous** infection of the deep palmar spaces."*

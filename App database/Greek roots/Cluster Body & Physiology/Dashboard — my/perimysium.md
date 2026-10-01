@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The connective-tissue sheath that surrounds a muscle and forms sheaths for the bundles of muscle fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The connective-tissue sheath that surrounds a muscle and forms sheaths for the bundles of muscle fibers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The connective tissue sheath that groups individual skeletal muscle fibers into bundles called fascicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musculoskeletal histology, collagenous septa continuous with the epimysium that carry intermediate-sized blood vessels and nerve branches deeper into the muscle belly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perimysium designates the connective-tissue sheath that surrounds a muscle and forms sheaths for the bundles of muscle fibers."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **perimysium** partitions the skeletal muscle into distinct bundles or fasciculi visible to the naked eye."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Intramuscular nerve plexuses travel within the collagenous conduits afforded by the **perimysium**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Fatty infiltration in muscular dystrophy preferentially expands along the planes of the **perimysium**."*

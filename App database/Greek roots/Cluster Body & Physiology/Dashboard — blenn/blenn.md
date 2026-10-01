@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek blenn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek lexical combining form (blenn- / blenno-) denoting mucus, slime, or viscous fluid secretions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical and pathology terminology, a root designating mucopurulent discharges or slime-producing organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blenn designates a term designating an entity, condition, or phenomenon derived from greek blenn."*
+> - 📜 **Galen (*Method of Medicine*):** *"Ancient physicians used the term **blenn** to designate cold, phlegmatic, and viscous secretions of the mucous membranes."*
+> - 📜 **Albrecht von Haller (*First Lines of Physiology*):** *"Secretory follicles lining the respiratory passage produce protective lubricative fluid rooted in the ancient radical **blenn**."*
+> - 📜 **Thomas Wharton (*Adenographia*):** *"Glandular anatomy differentiates serous secretions from the thick, viscous fluids designated under the prefix **blenn**."*

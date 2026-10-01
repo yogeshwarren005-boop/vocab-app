@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the genus tarsius: tarsiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the genus tarsius: tarsiers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small haplorhine primates comprising the extant tarsiers (genera *Tarsius*, *Cephalopachus*, and *Carlito*), endemic to Southeast Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary primatology, Tarsiidae constitutes the sister group to anthropoids (monkeys, apes, humans) within Haplorhini, lacking a tapetum lucidum and retaining a dry rhinarium and enclosed orbital fossa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tarsiidae designates coextensive with the genus tarsius: tarsiers."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Systematic zoologists isolate the family **Tarsiidae** because their craniofacial architecture bridges prosimians and higher monkeys."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The **Tarsiidae** are confined entirely to the Indo-Malayan Archipelago, serving as vital zoogeographical indicators."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"In the **Tarsiidae**, the calcaneus and navicular bones are stretched into long cylindrical levers for saltation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to arthrospores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to arthrospores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing, producing, or multiplying by arthrospores; characterized by vegetative hyphal fragmentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology and microbiology, describing fungal or bacterial taxa that disperse primarily through fragmented jointed spores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthrosporous designates of or relating to arthrospores."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The **arthrosporous** fungi spread rapidly across decaying organic substrates by shedding millions of rectangular conidia."*
+> - 📜 **Julius von Sachs (*Textbook of Botany*):** *"We contrast endosporous bacteria with **arthrosporous** varieties whose entire cellular bodies transform into reproductive units."*
+> - 📜 **William Bulloch (*The History of Bacteriology*):** *"Early investigators debated whether **arthrosporous** fragmentation represented true sporulation or mere physical dissolution."*

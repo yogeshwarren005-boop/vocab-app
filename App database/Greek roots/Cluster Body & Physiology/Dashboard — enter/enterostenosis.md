@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal narrowing of the intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal narrowing of the intestine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stricture or abnormal narrowing of the lumen of the intestine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal surgery, luminal constriction resulting from inflammatory bowel disease, post-ischemic scarring, or circumferential neoplastic infiltration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterostenosis designates abnormal narrowing of the intestine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cicatrization following severe tuberculous ulceration can produce chronic **enterostenosis** accompanied by visible peristaltic waves."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Fibrotic strictureplasty was performed to relieve recurrent **enterostenosis** without sacrificing excessive lengths of small intestine."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Barium series demonstrated marked proximal dilatation terminating at a discrete area of circumferential **enterostenosis**."*

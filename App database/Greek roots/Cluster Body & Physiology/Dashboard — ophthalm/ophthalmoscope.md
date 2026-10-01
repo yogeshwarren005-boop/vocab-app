@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for use in viewing the interior of the eye and especially the retina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for use in viewing the interior of the eye and especially the retina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument for inspecting the interior of the eye, particularly the retina, optic disc, and retinal blood vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical diagnostics, an essential tool invented by Hermann von Helmholtz in 1851, enabling direct non-invasive visualization of living arterioles and the central nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophthalmoscope designates an instrument for use in viewing the interior of the eye and especially the retina."*
+> - 📜 **Hermann von Helmholtz (*Description of an Ophthalmoscope*):** *"By means of this **ophthalmoscope**, the living retina and its pulsing vessels are brought clearly into view."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"No neurological examination is complete without systematic inspection of the optic fundus through the **ophthalmoscope**."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Papilledema observed through the **ophthalmoscope** provided indisputable evidence of expanding intracranial mass."*

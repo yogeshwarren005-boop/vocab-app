@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of tribune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of tribune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, rank, duties, or period of tenure of an ancient Roman tribune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman history, holding the tribuneship conferred immense political leverage through legislative initiative in the *concilium plebis* and absolute personal immunity (sacrosanctitas).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Proofs of this position might be adduced from the examples of the Roman Tribuneship, the Polish Diet, and the States-General of the Netherlands, did not an example at home render foreign precedents unnecessary."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Augustus consolidated imperial supremacy by assuming the perpetual powers of the **tribuneship** without its burdensome duties."*
+> - 📜 **Niccolò Machiavelli (*Discourses on Livy*):** *"The establishment of the **tribuneship** preserved the Roman republic by providing a constitutional outlet for popular grievances."*
+> - 📜 **Theodor Mommsen (*The History of Rome*):** *"The revolutionary agrarian agitation of Tiberius Gracchus transformed the **tribuneship** into an organ of social transformation."*

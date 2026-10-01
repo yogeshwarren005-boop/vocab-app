@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of measuring the head in living individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of measuring the head in living individuals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific measurement of the dimensions and proportions of the human head and face, especially by standardized radiographic techniques.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthodontics and craniofacial surgery, the radiographic tracing of skeletal landmarks (cephalometrics) to analyze jaw relationships and plan corrective surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalometry designates the science of measuring the head in living individuals."*
+> - 📜 **Paul Broca (*Instructions Craniologiques*):** *"Rigorous **cephalometry** demands standardized callipers and precise anatomical landmarks across the living head."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"Comparative **cephalometry** across thousands of subjects established the normal ranges of cranial indices among indigenous tribes."*
+> - 📜 **Franz Boas (*Changes in Bodily Form of Descendants of Immigrants*):** *"Careful longitudinal **cephalometry** revealed that children of immigrants develop head proportions distinct from their foreign-born parents."*

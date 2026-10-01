@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of gastropoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of gastropoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic class or subclass of primitive marine mollusks characterized by bilateral symmetry, non-ganglionated longitudinal nerve cords, and the absence of a distinct head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic malacology, a historic taxonomic group encompassing the Polyplacophora (chitons) and Aplacophora, renowned for possessing four longitudinal parallel nerve cords linked by transverse commissures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphineura designates a class of gastropoda."*
+> - 📜 **Edwin Ray Lankester (*Notes on Embryology and Classification for the Use of Students*):** *"Under the class **Amphineura** are grouped those archaic mollusks in which the nervous system consists of two pairs of unganglionated nerve cords."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The arrangement of the nervous cords in the **Amphineura** displays an ancestral ladder-like architecture reminiscent of primitive worms."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"Phylogenetic inquiry places the **Amphineura** near the base of the molluscan stem because of their symmetrical nerve tracts and segmented shells."*

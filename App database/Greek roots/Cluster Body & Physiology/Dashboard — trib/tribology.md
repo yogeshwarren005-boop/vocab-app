@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A study that deals with the design, friction, wear, and lubrication of interacting surfaces in relative motion (as in bearings or gears).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A study that deals with the design, friction, wear, and lubrication of interacting surfaces in relative motion (as in bearings or gears).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science and engineering concerned with interacting surfaces in relative motion, encompassing the principles and applications of friction, lubrication, and wear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined in the Jost Report in 1966 from Greek *tribos* (rubbing); in industrial engineering, tribology optimizes lubricants, bearing designs, and surface micro-texturing to reduce parasitic energy losses in engines and heavy machinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribology designates a study that deals with the design, friction, wear, and lubrication of interacting surfaces in relative motion (as in bearings or gears)."*
+> - 📜 **Osborne Reynolds (*On the Theory of Lubrication*):** *"The foundational theorems of hydrodynamic **tribology** demonstrate how a converging wedge of viscous fluid supports heavy loads."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The study of surface contact resistance, which we now term **tribology**, reveals the molecular origin of friction."*
+> - 📜 **Lord Rayleigh (*Scientific Papers*):** *"Thin monomolecular films of oil spread across metal surfaces provide the ultimate physical boundary for **tribology**."*

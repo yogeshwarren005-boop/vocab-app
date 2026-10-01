@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of vespertilionidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of vespertilionidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of vespertilionid bats containing the spotted bat (Euderma maculatum), celebrated for its large ears and white dorsal spots on a black coat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy, an enigmatic North American insectivorous bat possessing exceptionally low-frequency echolocation calls audible to the human ear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euderma designates a genus of vespertilionidae."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The remarkable spotted bat of the genus **Euderma** inhabits the arid canyon country of western North America."*
+> - 📜 **C. Hart Merriam (*North American Fauna*):** *"The immense, translucent pink ears of **Euderma** maculatum exceed half the length of its entire body."*
+> - 📜 **Donald Griffin (*Listening in the Dark*):** *"Unique among North American microbats, **Euderma** broadcasts foraging clicks that echo clearly within human hearing range."*

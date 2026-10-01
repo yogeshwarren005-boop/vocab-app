@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cephal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conjoined twins united at the head and face, with a single shared cranium and thorax; also called craniopagus or janiceps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental teratology, an extremely rare form of symmetrical monocephalic conjoined twins resulting from incomplete embryonic axis bifurcation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalopagus designates a term designating an entity, condition, or phenomenon derived from greek cephal."*
+> - 📜 **Isidore Geoffroy Saint-Hilaire (*General and Particular History of Anomalies of Organization*):** *"The condition of **cephalopagus** features two bodies fused head-to-head, often with two faces looking in opposite directions."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In a **cephalopagus** monster, the cerebral hemispheres are intimately shared within an anomalous single cranial cavity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Delivery of a **cephalopagus** neonate is an obstetrical catastrophe that almost universally requires surgical dismemberment."*

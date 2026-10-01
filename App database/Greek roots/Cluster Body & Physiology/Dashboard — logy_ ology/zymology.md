@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of chemistry concerned with fermentation (as in making wine or brewing or distilling).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of chemistry concerned with fermentation (as in making wine or brewing or distilling).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of applied science and chemistry dealing with the biochemical processes of fermentation and their industrial applications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zymurgy and brewing sciences, the quantitative investigation of yeast metabolism, enzymatic catalysis, and anaerobic energy production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zymology designates the branch of chemistry concerned with fermentation (as in making wine or brewing or distilling)."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The principles of rational **zymology** demonstrate that alcoholic fermentation is directly correlated with the life and respiration of yeast cells."*
+> - 📜 **Eduard Buchner (*Zymase Fermentation (Nobel Lecture)*):** *"Experimental **zymology** proved that fermentation does not require intact cells, but proceeds via soluble cell-free enzymes."*
+> - 📜 **Emil Fischer (*Studies on Enzymes*):** *"The lock-and-key hypothesis provided modern **zymology** with a mechanistic model for enzyme-substrate specificity."*

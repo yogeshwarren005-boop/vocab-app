@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sweat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sweat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by dyshidrosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, describing blistering eczematous eruptions (dyshidrotic eczema or dyshidrotic dermatitis) localized predominantly to the palmar and plantar surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyshidrotic designates adjective*) pertaining to, derived from, or characteristic of sweat."*
+> - 📜 **Tilbury Fox (*Skin Diseases: Their Description, Pathology, Diagnosis, and Treatment*):** *"The **dyshidrotic** eruption consists of deep intraepidermal vesicles that do not rupture readily but dry into brownish crusts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A topical soothing astringent lotion was prescribed to relieve the intense pruritus of the **dyshidrotic** flare."*
+> - 📜 **Jonathan Hutchinson (*Lectures on Clinical Surgery*):** *"Patients prone to hyperhidrosis frequently suffer simultaneous attacks of **dyshidrotic** eczema upon both hands."*

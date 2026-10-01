@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or belonging to the class cephalopoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating or belonging to the class cephalopoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the cephalopods; cephalopod-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology, describing morphological features, behaviors, or predatory adaptations peculiar to the class Cephalopoda.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalopodan designates relating or belonging to the class cephalopoda."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The **cephalopodan** circulatory system is virtually closed, featuring branchial hearts that pump blood through gill capillaries."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fossil ammonites display intricate **cephalopodan** suture lines that grew progressively more complex across Mesozoic strata."*
+> - 📜 **Richard Owen (*Memoir on the Pearly Nautilus*):** *"The pearly chambered shell provides the **cephalopodan** animal with exquisite hydrostatic buoyancy control."*

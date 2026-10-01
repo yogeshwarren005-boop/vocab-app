@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Amniota) of vertebrates that undergo embryonic or fetal development within an amnion and include the birds, reptiles, and mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group (Amniota) of vertebrates that undergo embryonic or fetal development within an amnion and include the birds, reptiles, and mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any vertebrate animal whose embryo develops an amnion, allantois, and chorion during gestation, comprising reptiles, birds, and mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, a major clade of tetrapods that broke dependence on standing water for reproduction through the development of the cleidoic egg.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amniote designates any of a group (amniota) of vertebrates that undergo embryonic or fetal development within an amnion and include the birds, reptiles, and mammals."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"We group reptiles, birds, and mammals together under the class name of **amniote** because of their shared embryonic membranes."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The earliest Carboniferous **amniote** possessed a waterproof skin and laid shelled eggs on solid ground."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The absence of functional gills at any stage of life sharply distinguishes every true **amniote** from amphibians."*

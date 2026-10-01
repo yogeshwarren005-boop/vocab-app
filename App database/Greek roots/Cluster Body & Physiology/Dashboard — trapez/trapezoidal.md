@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a trapezoid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a trapezoid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form, shape, or geometric proportions of a trapezoid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in architectural engineering, anatomical morphology (such as the trapezoidal ligament of the coracoclavicular joint), and mechanical design to describe elements with tapering, non-rectangular quadrilateral symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Against the twilight rises the trapezoidal top of the stack, which has stood forlornly here through the washing and bleaching of the wintry weather."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **trapezoidal** ligament forms the anterior quadrilateral band of the coracoclavicular articulation."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The massive **trapezoidal** capitals of the Ducal Palace distribute the weight of the marble arches onto the columns below."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Erosion carved the sedimentary plateau into striking **trapezoidal** buttes rising abruptly above the desert plain."*

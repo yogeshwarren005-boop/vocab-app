@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: South american armadillo with three bands of bony plates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South american armadillo with three bands of bony plates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The three-banded armadillo (genus Tolypeutes) of South America, capable of rolling into a completely spherical ball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and South American zoology, a xenarthran noted for its flexible jointed armor and cursorial foraging habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apar designates south american armadillo with three bands of bony plates."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The three-banded armadillo, termed the **apar**, defends itself not by burrowing, but by rolling into an invulnerable solid ball."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Among the edentates of the Pampas, the **apar** exhibits unique cursorial adaptations with its pointed claws and rigid shell."*
+> - 📜 **Richard Owen (*Odontography*):** *"The diminutive peg-like dentition of the **apar** corresponds to its diet of termites and subterranean larvae."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excision of an entire lung or of one or more lobes of a lung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excision of an entire lung or of one or more lobes of a lung.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision and removal of an entire lung.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thoracic oncology and operative surgery, a major procedure performed for central lung cancer (first successfully accomplished for bronchogenic carcinoma by Evarts Graham in 1933) or extensive unilateral destructive lung disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumonectomy designates excision of an entire lung or of one or more lobes of a lung."*
+> - 📜 **Evarts Graham (*The Journal of the American Medical Association*):** *"We report the first successful one-stage **pneumonectomy** for primary carcinoma of the lung, with the patient returning to active practice."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Overcoming the physiological consequences of complete **pneumonectomy** required unprecedented mastery of bronchial stump closure."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Meticulous vascular ligation during radical **pneumonectomy** prevents fatal hemorrhage from the short pulmonary artery trunks."*

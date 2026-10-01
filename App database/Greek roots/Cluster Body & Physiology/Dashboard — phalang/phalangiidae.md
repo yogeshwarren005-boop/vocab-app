@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of phalangida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of phalangida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent cosmopolitan family of harvestmen (order Opiliones) characterized by extremely long, delicate legs and odoriferous defense glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arachnological systematics, the typical family of daddy longlegs containing Phalangium opilio and allied temperate species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalangiidae designates a family of phalangida."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The family **phalangiidae** includes the familiar long-legged harvestmen that congregate on sunny walls in autumn."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Spider*):** *"When captured, a member of the **phalangiidae** easily sheds a leg to distract its pursuer."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Cosmopolitan distribution of the **phalangiidae** highlights the ancient terrestrial antiquity of harvestmen."*

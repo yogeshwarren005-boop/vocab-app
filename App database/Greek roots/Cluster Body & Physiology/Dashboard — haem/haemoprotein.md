@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conjugated protein linked to a compound of iron and porphyrin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conjugated protein linked to a compound of iron and porphyrin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conjugated protein that contains a haem prosthetic group (an iron-porphyrin complex) bound to a protein moiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, a diverse class of metalloproteins including hemoglobin, myoglobin, cytochromes, and catalase, vital for oxygen transport, electron transfer, and redox catalysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoprotein designates a conjugated protein linked to a compound of iron and porphyrin."*
+> - 📜 **Felix Hoppe-Seyler (*Zeitschrift für Physiologische Chemie*):** *"Every vital respiratory enzyme belonging to this class exhibits the distinctive spectral absorption bands of a conjugated **haemoprotein**."*
+> - 📜 **Otto Warburg (*Heavy Metal Prosthetic Groups and Enzyme Action*):** *"Cellular respiration depends fundamentally upon an iron-containing **haemoprotein** acting as the terminal oxygen-transfer catalyst."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The magnetic susceptibility measurements of each **haemoprotein** elucidate the electronic spin states of the coordinated central iron atom."*

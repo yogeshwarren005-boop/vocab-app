@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paddlefishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paddlefishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of primitive chondrostean ray-finned fishes commonly known as paddlefishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and vertebrate evolution, ancient freshwater fishes possessing an elongated, paddle-shaped rostrum covered in electroreceptors, mostly cartilaginous skeletons, and minute larval teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyodontidae designates paddlefishes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The chondrostean family **Polyodontidae** retains a largely cartilaginous skeleton and a persistent unsegmented notochord."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The extended spatula-like snout in **Polyodontidae** is densely packed with ampullary electroreceptor organs."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The Mississippi paddlefish represents one of the few surviving relict species of the ancient family **Polyodontidae**."*

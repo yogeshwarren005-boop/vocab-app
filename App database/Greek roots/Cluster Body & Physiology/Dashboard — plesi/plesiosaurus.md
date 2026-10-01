@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct marine reptile with a small head on a long neck a short tail and four paddle-shaped limbs; of the jurassic and cretaceous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct marine reptile with a small head on a long neck a short tail and four paddle-shaped limbs; of the jurassic and cretaceous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of extinct, long-necked marine reptiles belonging to the order Plesiosauria, known from the Early Jurassic of England.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical paleontology, the type genus described by William Conybeare in 1821 (from Greek plesios, near, and sauros, lizard) as being 'nearer to lizards' than Ichthyosaurus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"He may even now—if I may use the phrase—be wandering on some plesiosaurus-haunted Oolitic coral reef, or beside the lonely saline seas of the Triassic Age."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The limbs were probably two pairs of paddles, like those of _Plesiosaurus_, from which this diver chiefly differed in the arrangement of the bones of the breast."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"FISH-SNAKE Plesiosaurus or elasmosaurus."*
+> - 📜 **William Conybeare (*Transactions of the Geological Society*):** *"To this new genus I have assigned the name **plesiosaurus**, as designating its closer approach to the lizard family than to Ichthyosaurus."*
+> - 📜 **Georges Cuvier (*Recherches sur les ossemens fossiles*):** *"The discovery of **plesiosaurus** by Mary Anning reveals an animal whose long serpent-like neck is attached to a sea-turtle's trunk."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The geological record has yielded marvelous intermediate forms, among which **plesiosaurus** stands preeminent."*

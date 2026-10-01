@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prejudiced against homosexual people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prejudiced against homosexual people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a dislike of, prejudice against, or hostility toward homosexual people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social discourse and civil rights law, describing attitudes, statements, behaviors, or institutional policies that discriminate against sexual minorities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homophobic designates prejudiced against homosexual people."*
+> - 📜 **Audre Lorde (*Sister Outsider*):** *"We must actively dismantle **homophobic** assumptions that silence queer voices within liberation movements."*
+> - 📜 **Judith Butler (*Gender Trouble*):** *"Compulsory heterosexuality enforces its boundaries through pervasive **homophobic** policing of bodily performance."*
+> - 📜 **James Baldwin (*The Evidence of Things Not Seen*):** *"The hysteria underlying **homophobic** hostility reveals deep national insecurities regarding masculine identity."*

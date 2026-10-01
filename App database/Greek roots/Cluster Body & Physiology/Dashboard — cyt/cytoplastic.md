@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cytoplast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cytoplast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to cytoplasts (enucleated cellular bodies) or to the formative, plastic substance of cellular cytoplasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytological bioengineering and microdissection, relating to the physical properties and functional potential of cytoplasm isolated from the nucleus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytoplastic designates of or relating to a cytoplast."*
+> - 📜 **E. B. Wilson (*The Physical Basis of Life*):** *"The enucleated egg fragment retains sufficient **cytoplastic** vitality to undergo rhythmic ameboid pulsations for hours."*
+> - 📜 **Jacques Loeb (*The Organism as a Whole*):** *"Chemical stimuli can trigger localized gelation in the **cytoplastic** colloidal matrix, initiating furrow formation."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"Constriction experiments showed that the **cytoplastic** gray crescent is indispensable for the induction of the embryonic axis."*

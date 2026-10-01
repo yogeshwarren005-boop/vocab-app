@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flesh flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flesh flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of true flies in the family Sarcophagidae, commonly known as flesh flies, whose larvae develop in carrion, dung, or decaying organic material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic entomology and medical parasitology, species of *Sarcophaga* are ovoviviparous (depositing live maggots) and serve as vital biological indicators of the post-mortem interval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcophaga designates flesh flies."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"The gray-striped **Sarcophaga** arrives promptly at the carcass, depositing active living grubs directly into the flesh."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Species belonging to **Sarcophaga** are easily recognized by their checkered abdomen and longitudinal thoracic stripes."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Cutaneous myiasis caused by larvae of **Sarcophaga** requires thorough cleansing and mechanical extraction."*

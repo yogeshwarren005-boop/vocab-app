@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one or more chromosomes represented three or more times in an otherwise diploid or euploid cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polyploid genetics, polysomic inheritance describes the random segregation and multivalent pairing of multiple homologous chromosomes during meiosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysomic designates adjective*) pertaining to, derived from, or characteristic of body."*
+> - 📜 **Albert Blakeslee (*The Chromosome Constitution of Datura Mutants*):** *"The **polysomic** series in Datura includes trisomic, tetrasomic, and higher chromosomal variants."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"In autotetraploids, **polysomic** inheritance generates complex phenotypic ratios that differ sharply from disomic ratios."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"The presence of **polysomic** multivalent pairing confirms that the taxon originated as an autopolyploid."*

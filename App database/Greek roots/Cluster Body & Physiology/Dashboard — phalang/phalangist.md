@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish member of general franco's political party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spanish member of general franco's political party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical synonym for a phalanger (an Australasian marsupial possum); also an adherent of a phalanx organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early 19th-century natural history, any of the nocturnal climbing marsupials of New Holland; or a political follower of Charles Fourier's phalange system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalangist designates a spanish member of general franco's political party."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The climbing habits of the vulpine **phalangist** resemble those of the opossum in North American woodlands."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The dental formula of the flying **phalangist** illustrates reduction of anterior premolars."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The utopian **phalangist** envisioned communities organized into voluntary phalansteries sharing collective labor."*

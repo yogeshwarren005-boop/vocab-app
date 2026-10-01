@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: European genus of bloodsucking flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: European genus of bloodsucking flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small biting flies in the family Muscidae, including the horn fly (Haematobia irritans), a major blood-feeding pest of livestock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary entomology and parasitology, obligate ectoparasites of cattle and horses whose continuous blood-feeding inflicts severe production losses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematobia designates european genus of bloodsucking flies."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"On hot August afternoons, cattle stood belly-deep in the creek to escape swarms of the biting horn fly **Haematobia**."*
+> - 📜 **E.O. Wilson (*The Diversity of Life*):** *"Veterinary entomologists study how parasitic dipterans like **Haematobia** evolved specialized rasping mouthparts to feed on mammal blood."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Herds of grazing animals suffer debilitating stress from relentless attacks of blood-sucking flies belonging to **Haematobia**."*

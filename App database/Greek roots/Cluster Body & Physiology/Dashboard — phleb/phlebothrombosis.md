@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phleb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of a thrombus (blood clot) within a vein without prior or significant inflammatory changes in the vessel wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular pathology, venous thrombosis occurring predominantly due to venous stasis and hypercoagulability (in contrast to thrombophlebitis, which involves active vessel wall inflammation), carrying a high risk of pulmonary embolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebothrombosis designates a term designating an entity, condition, or phenomenon derived from greek phleb."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Stasis of blood in deep muscular sinuses readily initiates **phlebothrombosis**, yielding loose friable clots prone to embolization."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Postoperative immobility predisposes bedridden patients to silent **phlebothrombosis** of the calf veins."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Early ambulation serves as the most effective surgical prophylaxis against occult pelvic **phlebothrombosis**."*

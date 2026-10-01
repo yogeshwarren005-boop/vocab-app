@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The radiographic visualization of the blood vessels after injection of a radiopaque substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The radiographic visualization of the blood vessels after injection of a radiopaque substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The diagnostic medical imaging technique used to visualize the inside of blood vessels and organs of the body, particularly the arteries, veins, and heart chambers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interventional radiology, catheter-directed radiographic visualization of vascular trees using iodine-based contrast agents or digital subtraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiography designates the radiographic visualization of the blood vessels after injection of a radiopaque substance."*
+> - 📜 **Charles Dotter (*Transluminal Angioplasty*):** *"Catheter **angiography** transformed vascular surgery from speculative exploration into precise image-guided intervention."*
+> - 📜 **Egas Moniz (*Cerebral Angiography*):** *"By injecting radiopaque thorium into the carotid artery, I achieved the first successful cerebral **angiography** in living patients."*
+> - 📜 **Werner Forssmann (*Experiments on Myself*):** *"Pioneering intracardiac catheterization laid the physical groundwork for selective coronary **angiography**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defective bone development; usually attributable to renal disease or to disturbances in calcium and phosphorus metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defective bone development; usually attributable to renal disease or to disturbances in calcium and phosphorus metabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal development or defective growth and mineralization of bone tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology and endocrinology, renal osteodystrophy—a complex skeletal disorder accompanying chronic kidney disease, characterized by hyperparathyroidism, osteomalacia, and osteosclerosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteodystrophy designates defective bone development; usually attributable to renal disease or to disturbances in calcium and phosphorus metabolism."*
+> - 📜 **Fuller Albright (*The Parathyroid Glands and Metabolic Bone Disease*):** *"Renal **osteodystrophy** illustrates how defective tubular phosphate clearance and failing calcitriol synthesis cripple skeletal integrity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic uremic states, progressive **osteodystrophy** produces severe bone pain, skeletal deformities, and spontaneous fractures."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Endocrine imbalances of the parathyroid axis provoke generalized **osteodystrophy**, manifesting as fibrous replacement of marrow."*

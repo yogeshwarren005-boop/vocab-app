@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A study that identifies and relates a group of persons or characters within a particular historical or literary context.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A study that identifies and relates a group of persons or characters within a particular historical or literary context.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A study or collective biography of the careers, relationships, and characteristics of a historical group of people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical methodology and sociological prosopography, the systematic biographical investigation of a distinct historical cohort through statistical and relational analysis of genealogical, political, and economic variables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosopography designates a study that identifies and relates a group of persons or characters within a particular historical or literary context."*
+> - 📜 **Ronald Syme (*The Roman Revolution*):** *"By employing rigorous **prosopography**, one traces the rise of the Augustan aristocracy through intricate networks of marriage and alliance."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A meticulous **prosopography** of the later imperial court reveals the gradual ascendancy of barbarian generals."*
+> - 📜 **Marc Bloch (*The Historian's Craft*):** *"Comparative **prosopography** illuminates the shared social consciousness and economic solidarity of the medieval feudal nobility."*

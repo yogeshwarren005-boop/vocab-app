@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek proct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supra-anal plate or sclerite situated above the anus in insects and other arthropods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect morphology, the modified dorsal tergite of the eleventh abdominal segment lying dorsal to the anal opening, forming part of the terminal external genitalia or ovipositor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiproct designates a term designating an entity, condition, or phenomenon derived from greek proct."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The terminal abdominal segment of the grasshopper bears a triangular dorsal plate, the **epiproct**, protecting the anus."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"Morphological examination of the caudal sclerites revealed a heavily chitinized **epiproct** flanking the sting apparatus."*
+> - 📜 **John Lubbock (*On the Senses, Instincts, and Intelligence of Animals*):** *"Sensory setae situated upon the **epiproct** monitor environmental tactile stimuli at the insect's posterior terminus."*

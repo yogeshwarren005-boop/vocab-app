@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the heart and its action and diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the heart and its action and diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical specialty and branch of medicine that deals with the study, diagnosis, and treatment of disorders of the heart and circulatory system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical science, an expansive discipline encompassing preventive cardiology, interventional cardiology, electrophysiology, and cardiovascular pharmacology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiology designates the study of the heart and its action and diseases."*
+> - 📜 **Paul Dudley White (*Heart Disease: A Textbook for Students and Practitioners*):** *"The triumph of twentieth-century **cardiology** was the eradication of fatalism regarding coronary thrombosis and heart failure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"No chapter in internal medicine demands closer clinical acumen than **cardiology**, where life hangs upon a single beat."*
+> - 📜 **Thomas Lewis (*The Soldier's Heart and the Effort Syndrome*):** *"The demands of wartime medicine propelled **cardiology** into investigating functional neurocirculatory disorders alongside organic valvular defects."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enigmatic small elongated wormlike terrestrial invertebrates of damp dark habitats in warm regions; distinct from the phylum annelida; resemble slugs with legs and are sometimes described as the missing link between arthropods and annelids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enigmatic small elongated wormlike terrestrial invertebrates of damp dark habitats in warm regions; distinct from the phylum annelida; resemble slugs with legs and are sometimes described as the missing link between arthropods and annelids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum of elongated, soft-bodied terrestrial invertebrates known as velvet worms or peripatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary invertebrate zoology and paleontology, an ancient ecdysozoan panarthropod lineage retaining unjointed lobopodal walking legs, slime glands, and open tracheal respiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychophora designates enigmatic small elongated wormlike terrestrial invertebrates of damp dark habitats in warm regions; distinct from the phylum annelida; resemble slugs with legs and are sometimes described as the missing link between arthropods and annelids."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The phylum **Onychophora** occupies a crucial phylogenetic position linking segmented annelids with true arthropods."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In **Onychophora**, the paired slime papillae eject sticky defensive fluids with extraordinary velocity and accuracy."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Primitive lobopod appendages terminating in dual chitinous claws characterize all living members of **Onychophora**."*

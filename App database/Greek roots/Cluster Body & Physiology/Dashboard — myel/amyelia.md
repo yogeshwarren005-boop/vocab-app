@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital absence of the spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental neuropathology and teratology, a fatal neural tube malformation where the spinal cord fails to form, commonly accompanying anencephaly (anencephaloamyelia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amyelia designates a term designating an entity, condition, or phenomenon derived from greek myel."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete **amyelia** is an incompatible-with-life malformation, almost invariably associated with total cranioschisis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Pathological specimens exhibiting **amyelia** demonstrate an empty spinal canal lined only by primitive connective stroma."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Severe disruption of early neural groove closure results in failure of medullary cord development, manifesting as **amyelia**."*

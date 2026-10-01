@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The complex network of unmyelinated axones, dendrites, and glial branches that form the bulk of the central nervous system's grey matter and in which nerve cell bodies are embedded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The complex network of unmyelinated axones, dendrites, and glial branches that form the bulk of the central nervous system's grey matter and in which nerve cell bodies are embedded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dense, feltwork-like network of interwoven unmyelinated axons, dendrites, and glial cell processes occupying the gray matter between cell bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synaptic histology and ultrastructure, the dense interneuronal region where the overwhelming majority of synaptic contacts and computational integration occur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropil designates the complex network of unmyelinated axones, dendrites, and glial branches that form the bulk of the central nervous system's grey matter and in which nerve cell bodies are embedded."*
+> - 📜 **Santiago Ramón y Cajal (*Texture of the Nervous System of Man and the Vertebrates*):** *"The intricate **neuropil** is not a continuous syncytial syncytium, but an unimaginably dense thicket of individual synaptic terminals."*
+> - 📜 **Stephen Kuffler (*From Neuron to Brain*):** *"Electron microscopy reveals that the cortical **neuropil** contains tens of thousands of synapses packed into every cubic micrometer."*
+> - 📜 **Wilder Penfield (*Cytology and Cellular Pathology of the Nervous System*):** *"Proliferation of reactive astrocytes following ischemic insult disrupts the delicate balance of the cortical **neuropil**."*

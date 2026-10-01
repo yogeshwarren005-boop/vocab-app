@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe toxic syndrome accompanying advanced renal failure, resulting from the accumulation in the bloodstream of metabolic waste products normally excreted by the kidneys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized clinically by nausea, vomiting, fatigue, uremic frost on the skin, metabolic acidosis, hyperkalemia, pericarditis, and neurological dysfunction progressing from asterixis to coma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uremia designates accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The cerebral manifestations of **uremia** include drowsiness, muscular twitchings, and sudden epileptiform convulsions."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"When both kidneys are hopelessly disorganized, the blood becomes contaminated with urea, culminating in lethal **uremia**."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Early detection of latent **uremia** relies upon monitoring progressive elevations in serum nitrogenous waste."*

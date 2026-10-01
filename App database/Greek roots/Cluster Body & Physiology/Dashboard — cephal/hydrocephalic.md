@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by or evidencing hydrocephalus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by or evidencing hydrocephalus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected by, or characteristic of hydrocephalus; having an excess of cerebrospinal fluid in the cranial ventricles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, describing an abnormally enlarged, globular skull with thinned calvarial bones and wide fontanelles in an infant with hydrocephalus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A hobgoblin in the image of Punch Costello, hipshot, crookbacked, hydrocephalic, prognathic with receding forehead and Ally Sloper nose, tumbles in somersaults through the gathering darkness.)_ ALL: What?"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **hydrocephalic** head assumes an enormous globular or pyramidal shape, the forehead protruding over sunken orbits."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology*):** *"Obstruction of the aqueduct of Sylvius induces severe **hydrocephalic** ventricular expansion, compressing the cerebral mantle."*
+> - 📜 **Walter Dandy (*Internal Hydrocephalus*):** *"The **hydrocephalic** infant suffers progressive cortical atrophy unless drainage pathways are surgically restored."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek angi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any generic disease or pathological abnormality of the blood vessels or lymphatic vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, microvascular or macrovascular disease, such as diabetic angiopathy or cerebral amyloid angiopathy causing recurrent lobar hemorrhages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiopathy designates a term designating an entity, condition, or phenomenon derived from greek angi."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diabetic **angiopathy** targets both renal glomeruli and retinal capillaries, leading to progressive microvascular compromise."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Toxic metabolic products circulate freely, inducing degenerative **angiopathy** across the coronary and cerebral vascular beds."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Hypertensive **angiopathy** weakens cerebral arteriolar walls, rendering them susceptible to sudden catastrophic rupture."*

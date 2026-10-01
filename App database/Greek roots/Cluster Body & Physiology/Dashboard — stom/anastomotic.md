@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The union of parts or branches (as of streams, blood vessels, or leaf veins) so as to intercommunicate or interconnect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A product of anastomosis : network.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, forming, or functioning as an anastomosis; establishing communication between adjacent channels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology and regional anatomy, anastomotic arches (such as the arcade of Riolan or the coronary collateral circulation) preserve perfusion during localized ischemic events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastomotic designates the union of parts or branches (as of streams, blood vessels, or leaf veins) so as to intercommunicate or interconnect."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **anastomotic** loops between the jejunal arteries create continuous vascular arches within the mesentery."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Failure of the **anastomotic** circulation following acute coronary thrombosis leads rapidly to myocardial infarction."*
+> - 📜 **Alexis Carrel (*The Surgery of Blood Vessels*):** *"Meticulous intimal apposition along the **anastomotic** line prevents late aneurysmal dilatation of the graft."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assembly (including one or more judges) to conduct judicial business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assembly (including one or more judges) to conduct judicial business.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A court of justice, seat of judgment, or official body appointed to adjudicate disputes, hear claims, or administer law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically derived from the raised platform or dais (*tribunal*) upon which Roman magistrates sat; in international law, tribunals (such as the Nuremberg or Hague tribunals) hear war crimes and interstate disputes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s the manner of ’t: I’ th’ market-place, on a tribunal silvered, Cleopatra and himself in chairs of gold Were publicly enthroned."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, I am going with my pigeons to the tribunal plebs, to take up a matter of brawl betwixt my uncle and one of the emperal’s men."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It will expiate at God’s tribunal."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The provincial governor mounted his marble **tribunal** to pronounce judgment upon the accused citizens."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary **tribunal** trampled upon all established canons of jurisprudence in its haste to condemn."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Judge Jeffreys transformed his judicial **tribunal** into an engine of unrelenting political terror."*

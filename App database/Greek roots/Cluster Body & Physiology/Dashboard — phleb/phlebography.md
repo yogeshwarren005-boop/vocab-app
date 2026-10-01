@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phleb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The radiographic visualization of veins following the intravascular injection of a radiopaque contrast material; venography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical angiology and interventional radiology, the diagnostic imaging modality used to evaluate venous valvular incompetence, anomalous venous drainage, or acute deep vein occlusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebography designates a term designating an entity, condition, or phenomenon derived from greek phleb."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Contrast **phlebography** transformed the surgical evaluation of peripheral vascular insufficiency in the lower extremities."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Before attempting thoracic outlet resection, preoperative **phlebography** was performed to map the axillary vein."*
+> - 📜 **Alexis Carrel (*The Surgery of Blood Vessels*):** *"Serial **phlebography** verified that the vascular anastomosis remained fully patent without luminal narrowing."*

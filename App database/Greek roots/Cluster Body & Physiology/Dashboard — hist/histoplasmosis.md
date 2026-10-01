@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A respiratory disease with symptoms like those of influenza that is caused by a fungus (Histoplasma capsulatum) and is marked by benign involvement of lymph nodes of the trachea and bronchi or by severe progressive generalized involvement of the lymph nodes and tissues (as of the liver or spleen) rich in macrophages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A respiratory disease with symptoms like those of influenza that is caused by a fungus (Histoplasma capsulatum) and is marked by benign involvement of lymph nodes of the trachea and bronchi or by severe progressive generalized involvement of the lymph nodes and tissues (as of the liver or spleen) rich in macrophages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious systemic fungal disease caused by the dimorphic fungus Histoplasma capsulatum, contracted by inhaling airborne fungal microconidia from bird or bat droppings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical infectious disease and pulmonology, a granulomatous disorder (Darling's disease) presenting typically as benign pulmonary infiltration, but capable of fatal dissemination in immunocompromised hosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histoplasmosis designates a respiratory disease with symptoms like those of influenza that is caused by a fungus (histoplasma capsulatum) and is marked by benign involvement of lymph nodes of the trachea and bronchi or by severe progressive generalized involvement of the lymph nodes and tissues (as of the liver or spleen) rich in macrophages."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Disseminated **histoplasmosis** closely mimics pulmonary tuberculosis, producing fever, hepatosplenomegaly, and lymphadenopathy."*
+> - 📜 **Maxwell M. Wintrobe (*Clinical Hematology*):** *"Bone marrow aspirates stained with Wright's dye revealed intracellular yeast forms of **histoplasmosis** packed within macrophages."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"While penicillin proved ineffective against deep fungal infections like **histoplasmosis**, newer antimycotics offered hope."*

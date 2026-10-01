@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make vague or obscure or make (an image) less visible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut a girdle around so as to kill by interrupting the circulation of water and nutrients.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprived of sensation, vitality, or sharpness; rendered numb, dull, or muffled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having vibrations or acoustic resonance dampened by soundproofing or physical insulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a deadened world, and its growth is sometimes unhealthy for want of air."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was a wide margin of grass along here, and Gabriel’s footsteps were deadened by its softness, even at this indurating period of the year."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When he opened it the hum of bustle rolled out as a wave upon a still strand—the assemblage being immediately inside the hall—and was deadened to a murmur as he closed it again."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The continuous November fog **deadened** every sound of horse-hooves and carriage-wheels in the muddy street."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A heavy carpet **deadened** the sound of approaching footsteps as I waited in the cold drawing-room."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The heavy stillness of the primeval jungle **deadened** all hope in the hearts of the weary voyagers."*

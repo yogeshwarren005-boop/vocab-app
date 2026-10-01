@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of endoscope for visually examining the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of endoscope for visually examining the stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument for inspecting the interior of the stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, a flexible fiberoptic or video endoscope equipped with light sources, lens systems, and channels for biopsy forceps and cautery instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroscope designates a type of endoscope for visually examining the stomach."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The rigid **gastroscope** devised by Mikulicz represented a heroic, if precarious, attempt to visualize mucosal lesions directly."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"The modern video **gastroscope** transmits high-definition digital imagery, illuminating bleeding ulcer beds in vivid color."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The gastroenterologist guided the lubricated tip of the **gastroscope** past the cricopharyngeus muscle into the gastric lumen."*

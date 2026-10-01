@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of neuroglia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of neuroglia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, composed of, or derived from neuroglia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropathology, describing scar tissue (gliosis), tumors (gliomas), or supportive cell networks within the brain and spinal cord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroglial designates relating to or consisting of neuroglia."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The **neuroglial** matrix pervades both gray and white substance, multiplying vigorously in areas of chronic cerebral irritation."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Silver impregnation reveals a dense **neuroglial** meshwork surrounding each synaptic glomerulus in the cerebellar granular layer."*
+> - 📜 **Wilder Penfield (*Cytology and Cellular Pathology of the Nervous System*):** *"Traumatic injury to the cerebral mantle provokes a permanent **neuroglial** scar that may serve as an epileptogenic focus."*

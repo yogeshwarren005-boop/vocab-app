@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Benign tumor of bone and fibrous tissue; occurs in the vertebrae or femur or tibia or arm bones (especially in young adults).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benign tumor of bone and fibrous tissue; occurs in the vertebrae or femur or tibia or arm bones (especially in young adults).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, benign, osteoid-producing bone tumor histologically related to osteoid osteoma but larger in size (typically greater than 2 centimeters).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic oncology and bone pathology, a vascular osteoblastic neoplasm commonly arising in the posterior elements of the spine and long bones, characterized by progressive local bone destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoblastoma designates benign tumor of bone and fibrous tissue; occurs in the vertebrae or femur or tibia or arm bones (especially in young adults)."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Surgical curettage of a spinal **osteoblastoma** must be followed by bone grafting to restore structural stability."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Histological differentiation between a benign **osteoblastoma** and low-grade osteosarcoma requires careful assessment of mitotic atypia."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Persistent nocturnal back pain in adolescents should prompt radiological evaluation for vertebral **osteoblastoma**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lancelets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lancelets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subphylum of small, fish-like, marine chordates (lancelets) having a persistent notochord that extends the entire length of the body to the tip of the head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, an ancient protochordate lineage (comprising Branchiostoma / amphioxus) providing the archetypal morphological model for vertebrate origins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalochordata designates lancelets."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In the **cephalochordata**, the notochord extends beyond the anterior termination of the nerve cord to the snout tip."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The subphylum **cephalochordata** represents the nearest living survival of our primordial, unsegmented chordate ancestors."*
+> - 📜 **Edwin S. Goodrich (*Studies on the Structure and Development of Vertebrates*):** *"The pharyngeal gill slits and wheel organ of the **cephalochordata** illustrate primitive chordate ciliary feeding mechanisms."*

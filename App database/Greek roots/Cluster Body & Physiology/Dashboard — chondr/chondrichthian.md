@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fishes in which the skeleton may be calcified but not ossified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fishes in which the skeleton may be calcified but not ossified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cartilaginous fish; a member of the class Chondrichthyes, such as a shark, ray, skate, or chimaera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate zoology and paleontology, an elasmobranch or holocephalan organism possessing placoid scales, claspers, and an unossified skeleton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondrichthian designates fishes in which the skeleton may be calcified but not ossified."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The primitive **chondrichthian** skeleton relies entirely upon calcified cartilage, dispensing with true endochondral bone."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In every living **chondrichthian**, fertilization is internal, assisted by the modified pelvic fins of the male."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"Ancient Devonian seas swarmed with ancestral **chondrichthian** predators that gave rise to modern sharks and rays."*

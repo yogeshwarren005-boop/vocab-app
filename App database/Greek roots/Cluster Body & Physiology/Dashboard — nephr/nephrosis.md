@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A syndrome characterized by edema and large amounts of protein in the urine and usually increased blood cholesterol; usually associated with glomerulonephritis or with a complication of various systemic diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease affecting the kidneys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any non-inflammatory degenerative disease of the kidneys, particularly one affecting the renal tubules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology, a condition (as in the nephrotic syndrome) characterized by severe proteinuria, hypoalbuminemia, hyperlipidemia, and generalized edema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrosis designates a syndrome characterized by edema and large amounts of protein in the urine and usually increased blood cholesterol; usually associated with glomerulonephritis or with a complication of various systemic diseases."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lipoid **nephrosis** presents with colossal generalized anasarca, heavy proteinuria, and normal blood pressure."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Fatty degeneration and hyaline droplet change in the tubular epithelium characterize toxic **nephrosis**."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Profuse albuminuria accompanied by massive pitting edema without hematuria defines the clinical entity of **nephrosis**."*

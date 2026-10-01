@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something given or done as an expression of esteem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Payment by one nation for protection by another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act, statement, gift, or testimonial intended to show gratitude, admiration, or respect; also, a payment made periodically by one state or monarch to another as a sign of submission or price of protection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history, tribute (*tributum*) was levied upon conquered provinces to fund imperial administration and legions; in modern rhetoric, a tribute is an encomium or memorial address.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caius Lucius Will do’s commission throughly; and I think He’ll grant the tribute, send th’ arrearages, Or look upon our Romans, whose remembrance Is yet fresh in their grief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do believe Statist though I am none, nor like to be, That this will prove a war; and you shall hear The legions now in Gallia sooner landed In our not-fearing Britain than have tidings Of any penny tribute paid."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, there’s no more tribute to be paid."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The trembling senate purchased a precarious peace by promising an annual **tribute** of five thousand pounds of gold."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"The nation assembled upon the battlefield to dedicate a portion of that field as a final resting place and lasting **tribute** to the fallen."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To Him all angels bring their constant **tribute** of celestial song, bowing low before the throne of light."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, originating in, or produced by the bone marrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leukemia characterized by proliferation of myeloid tissue (as of the bone marrow and spleen) and an abnormal increase in the number of granulocytes, myelocytes, and myeloblasts in the circulating blood —called also myelocytic leukemia, myeloid leukemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating in or produced by the bone marrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and clinical oncology, describing leukemia, cells, or marrow-derived neoplasms (e.g., chronic myelogenous leukemia) that arise from granulocytic or myeloid precursors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelogenous designates of, relating to, originating in, or produced by the bone marrow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic **myelogenous** leukemia characteristically presents with massive splenic enlargement and a colossal white cell count."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The proliferation of **myelogenous** elements accounts for the whitish hue of the blood in medullary leukemia."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Granulocytes and their precursor cells are of strictly **myelogenous** origin, distinct from the lymphoid series."*

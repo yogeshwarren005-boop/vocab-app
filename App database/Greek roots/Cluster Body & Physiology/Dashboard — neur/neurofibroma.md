@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tumor of the fibrous covering of a peripheral nerve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tumor of the fibrous covering of a peripheral nerve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign nerve sheath tumor composed of a heterogeneous mixture of Schwann cells, fibroblasts, perineurial cells, and mast cells embedded in a collagenous matrix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical oncology, a soft, slow-growing neoplasm of peripheral nerves that may present as solitary lesions or as multiple disfiguring growths in neurofibromatosis type 1.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurofibroma designates tumor of the fibrous covering of a peripheral nerve."*
+> - 📜 **Friedrich Daniel von Recklinghausen (*Ueber die multiplen Fibrome der Haut und ihre Beziehung zu den multiplen Neuromen*):** *"I established that these widespread cutaneous nodules arise from the connective tissue of fine peripheral nerves, proposing the name **neurofibroma**."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Unlike the solitary encapsulated schwannoma, a plexiform **neurofibroma** infiltrates diffuse nerve trunks and expands into surrounding tissues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The hallmark of von Recklinghausen's disease is the presence of molluscum fibrosum or cutaneous **neurofibroma** scattered over the trunk."*

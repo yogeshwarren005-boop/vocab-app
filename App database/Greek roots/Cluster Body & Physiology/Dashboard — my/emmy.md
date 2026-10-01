@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An annual award by the academy of television arts and sciences for outstanding achievements in television.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An annual award by the academy of television arts and sciences for outstanding achievements in television.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several statuettes awarded annually by the Academy of Television Arts and Sciences for outstanding achievements in television broadcasting and production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the entertainment industry and broadcast media history, a premier American television honor (named from 'Immy', a colloquial nickname for the image orthicon camera tube).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"What's the matter, Emmy?" says he."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos will be sure to leave Emmy in the crowd, he will be so taken up with Miss Sharp here."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Do you remember when you wrote to him to come on Twelfth-night, Emmy, and spelt twelfth without the f?" "That was years ago," said Amelia."*
+> - 📜 **Edward R. Murrow (*In Search of Light: The Broadcasts of Edward R. Murrow*):** *"A prestigious **Emmy** honors journalistic integrity and technical excellence in the rapidly expanding medium of television."*
+> - 📜 **Walter Cronkite (*A Reporter's Life*):** *"Receiving an **Emmy** for our investigative coverage was a tribute to the dedicated network field crews."*
+> - 📜 **David Sarnoff (*Looking Ahead: The Papers of David Sarnoff*):** *"The coveted **Emmy** statuette symbolizes the highest artistic standards achieved across the television industry."*

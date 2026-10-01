@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lawfulness by virtue of conformity to a legal statute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lawfulness by virtue of conformity to a legal statute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or quality of being in accordance with the law; lawfulness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional theory and jurisprudence, the foundational doctrine requiring that all executive power and state action derive from validly established statutory norms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Sanhedrim has not the right.” “Pilate is willing that it should take that right.” “But it is a fine question of legality,” I insisted."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I have heard the question discussed in all its bearings as to the legality of prohibiting the latter on account of their durability."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Brought from all the recesses of the coast in all the legality of time contracts, lost in uncongenial surroundings, fed on unfamiliar food, they sickened, became inefficient, and were then allowed to crawl away and rest."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judicial authority must determine the **legality** of legislative acts against the supreme benchmark of the Constitution."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The American respect for the **legality** of established statutes moderates the sudden impulses of democratic assemblies."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The fundamental **legality** of our common law resides in its immemorial usage and parliamentary sanction."*

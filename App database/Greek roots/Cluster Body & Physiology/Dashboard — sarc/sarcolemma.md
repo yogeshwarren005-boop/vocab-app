@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extensible membrane enclosing the contractile substance of a muscle fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extensible membrane enclosing the contractile substance of a muscle fiber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The delicate, tubular, membranous sheath that encloses each individual striated muscle fiber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology, the sarcolemma consists of the lipid bilayer plasma membrane and an overlying glycoprotein basal lamina anchored to intracellular myofibrils by the dystrophin-glycoprotein complex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcolemma designates an extensible membrane enclosing the contractile substance of a muscle fiber."*
+> - 📜 **William Bowman (*On the Minute Structure and Movements of Voluntary Muscle*):** *"The transparent elastic sheath investing the muscular fiber I have designated the **sarcolemma**."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"Nerve terminals pierce the connective tunic to establish intimate motor endplate contact against the **sarcolemma**."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"Electrical depolarization propagates smoothly along the **sarcolemma**, triggering the rapid inward release of calcium ions."*

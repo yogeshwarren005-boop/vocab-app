@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thorac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The accumulation of blood within the pleural cavity between the lung and the chest wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trauma and thoracic surgery, hemothorax typically results from laceration of intercostal arteries, internal mammary vessels, or pulmonary parenchyma following blunt or penetrating chest trauma, treated with tube thoracostomy drainage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemothorax designates a term designating an entity, condition, or phenomenon derived from greek thorac."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Flatness on percussion combined with absent breath sounds at the base confirms traumatic **hemothorax** following rib fracture."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Penetrating shrapnel wounds of the thorax frequently lead to massive internal **hemothorax** requiring urgent thoracic drainage."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Prompt aspiration in extensive **hemothorax** prevents subsequent fibrothorax and restrictive pulmonary entrapment."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harvestmen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harvestmen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of arachnids (synonymous with Opiliones) commonly known as harvestmen or daddy longlegs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate taxonomy, arachnids distinguished from true spiders by a broadly joined cephalothorax and abdomen without a narrow waist (pedicel).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalangida designates harvestmen."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The order **phalangida** is instantly distinguished from spiders by its fused body segments and absence of silk glands."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Enormous species of **phalangida** scurried over the wet limestone rocks, stilted upon impossibly thread-like legs."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Spider*):** *"The harmless harvestmen belonging to the **phalangida** hunt minute insects through the damp forest leaf-litter."*

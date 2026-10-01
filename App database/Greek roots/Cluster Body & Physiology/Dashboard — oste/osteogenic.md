@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating in bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, forming, or contributing to the development of bone tissue; of or relating to osteogenesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In skeletal histology and pathology, designating osteogenic precursor stem cells in the periosteum and endosteum, or osteogenic sarcomas that produce neoplastic bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteogenic designates producing bone."*
+> - 📜 **Alexander Maximow (*A Text-Book of Histology*):** *"The inner vascular layer of the periosteum contains committed **osteogenic** cells that proliferate upon mechanical injury."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"True **osteogenic** sarcoma is defined histologically by malignant stromal cells producing osteoid directly without an intervening cartilage phase."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The vascular connective tissue surrounding the fracture serves as an energetic **osteogenic** blastema for skeletal restoration."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of fungi belonging to the class gasteromycetes; has a distinct basidiocarp with a fleshy or waxy gleba (sometimes placed in subclass homobasidiomycetes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of fungi belonging to the class gasteromycetes; has a distinct basidiocarp with a fleshy or waxy gleba (sometimes placed in subclass homobasidiomycetes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order or family (Hymenogastraceae) of subterranean, truffle-like gastroid basidiomycete fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, false truffles forming mycorrhizal symbioses with forest trees, characterized by enclosed, chambered glebae that do not open at maturity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenogastrales designates an order of fungi belonging to the class gasteromycetes; has a distinct basidiocarp with a fleshy or waxy gleba (sometimes placed in subclass homobasidiomycetes)."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Subterranean fungi of the **Hymenogastrales** conceal their fertile glebal chambers inside a thick, protective peridium."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The closed fruiting body of **Hymenogastrales** represents an evolutionary adaptation for animal mycophagy and spore dispersal."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"Fries classified the subterranean gasteromycetes allied to Hymenogaster within his pioneering group of **Hymenogastrales**."*

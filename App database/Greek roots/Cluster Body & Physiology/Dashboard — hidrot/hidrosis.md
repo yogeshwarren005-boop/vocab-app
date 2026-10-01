@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hidrot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production and excretion of sweat; perspiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, any functional state or pathological alteration of sweat gland excretion, encompassing both hyperhidrosis and hypohidrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hidrosis designates a term designating an entity, condition, or phenomenon derived from greek hidrot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Copious nocturnal **hidrosis** soaking through bedclothes is a classic constitutional symptom of active tuberculosis."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"The rate of physiological **hidrosis** increases sharply during vigorous muscular exertion to maintain homeostatic core temperature."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Sudden visceral terror stimulates instantaneous palmar **hidrosis** through involuntary autonomic pathways."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cardinals collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cardinals collectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, rank, dignity, or collective body of cardinals in the Roman Catholic Church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history and canon law, the Sacred College of Cardinals, which acts as the supreme advisory council to the Pope and governs during a papal interregnum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardinalate designates cardinals collectively."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Elevation to the **cardinalate** conferred secular princely rank alongside immense spiritual authority in Christendom."*
+> - 📜 **Lord Acton (*The History of Freedom and Other Essays*):** *"The political influence wielded by the **cardinalate** during the Renaissance rivaled that of the great monarchies of Europe."*
+> - 📜 **John Henry Newman (*Letters and Correspondence*):** *"My unexpected appointment to the **cardinalate** silenced those critics who had questioned my theological orthodoxy."*

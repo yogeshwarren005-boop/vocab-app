@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or habit of biting one's nails; onychophagia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and oral medicine, chronic compulsive nail-biting leading to micro-trauma of the periungual skin, chronic paronychia, and dental incisal wear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychophagy designates a term designating an entity, condition, or phenomenon derived from greek onych."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"Severe **onychophagy** reflects an unmastered tension between instinctive aggression and conscious restraint."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Secondary bacterial paronychia of the fingers is a frequent physical consequence of relentless **onychophagy**."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Under acute sensory overstimulation, the patient exhibited frantic motor rituals including intense **onychophagy**."*

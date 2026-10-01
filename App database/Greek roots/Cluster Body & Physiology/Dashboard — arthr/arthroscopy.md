@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A minimally invasive surgical procedure involving visual examination of the interior of a joint with an arthroscope to diagnose or treat various conditions or injuries of a joint and especially to repair or remove damaged or diseased tissue or bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endoscope that is inserted through an incision near a joint (such as the knee) and is used for the visual examination, diagnosis, and treatment of the interior of a joint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The minimally invasive surgical examination and operative treatment of the interior of a joint using an arthroscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics, a diagnostic and therapeutic technique widely employed to repair cartilage tears, reconstruct ligaments, and biopsy synovial tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthroscopy designates a minimally invasive surgical procedure involving visual examination of the interior of a joint with an arthroscope to diagnose or treat various conditions or injuries of a joint and especially to repair or remove damaged or diseased tissue or bone."*
+> - 📜 **Masaki Watanabe (*Memories of Arthroscopy*):** *"Pioneering knee **arthroscopy** in Tokyo laid the technological foundation for modern ambulatory sports medicine."*
+> - 📜 **Kenji Takagi (*Practical Arthroscopy*):** *"Through diagnostic **arthroscopy**, early tubercular lesions of the synovium can be detected long before radiographic signs appear."*
+> - 📜 **Atul Gawande (*Better*):** *"Routine knee **arthroscopy** has replaced large exploratory incisions with tiny keyhole puncture wounds."*

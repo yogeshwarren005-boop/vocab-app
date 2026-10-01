@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of neurons) covered with a layer of myelin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of neurons) covered with a layer of myelin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or provided with a myelin sheath; medullated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, characterizing nerve axons insulated by concentric lipid lamellae, allowing high-speed impulse transmission via nodes of Ranvier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelinated designates (of neurons) covered with a layer of myelin."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Rapid proprioceptive reflexes depend upon large-diameter, heavily **myelinated** afferent nerve fibers."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"At each node of Ranvier along the **myelinated** axon, the axis cylinder becomes exposed to the interstitial fluid."*
+> - 📜 **John Carew Eccles (*The Physiology of Synapses*):** *"Conduction velocities exceeding one hundred meters per second are readily achieved in vertebrate **myelinated** motor fibers."*

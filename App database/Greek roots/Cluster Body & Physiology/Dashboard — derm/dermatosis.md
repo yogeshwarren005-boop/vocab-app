@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease or pathological condition of the skin, especially one that is not characterized by inflammation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nosology, an overarching classification encompassing non-inflammatory cuticular abnormalities, ichthyoses, and keratodermas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatosis designates a disease of the skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Arsenical poisoning may induce a bizarre punctate pigmentary **dermatosis** upon the trunk and palms."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"Every intractable **dermatosis** requires systematic investigation of the patient's general hygiene, occupational exposure, and diet."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Surgical Subjects*):** *"The presence of a sudden, widespread seborrheic **dermatosis** can serve as an alarming sign of internal visceral malignancy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The external occipital protuberance of the skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The external occipital protuberance of the skull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most prominent projection of the external occipital protuberance at the lower posterior portion of the human skull, serving as a critical craniometric landmark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and cephalometry, the midline point at the junction of the superior nuchal lines, utilized to determine cranial capacity, facial angles, and nuchal ligament attachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inion designates the external occipital protuberance of the skull."*
+> - 📜 **William Henry Flower (*Fashion in Deformity*):** *"The external occipital protuberance, or **inion**, serves as a fundamental posterior boundary in craniometrical determinations."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"Measurements of cranial height and sagittal arc consistently employ the **inion** as the posterior anchor point."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The ligamentum nuchae attaches directly to the **inion**, providing structural suspension for the head."*

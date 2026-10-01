@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of wine making.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of wine making.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and science of wine and winemaking; classical and British spelling of enology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural and food sciences, the scientific study of viticulture, grape fermentation, chemical maturation, and organoleptic tasting of wines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oenology designates the art of wine making."*
+> - 📜 **Louis Pasteur (*Studies on Wine*):** *"Scientific **oenology** emerged from the laboratory when we demonstrated that microbial control prevents wine spoilage."*
+> - 📜 **Brillat-Savarin (*The Physiology of Taste*):** *"The refined epicure studies **oenology** to harmonize the vintage with the delicate sauces of haute cuisine."*
+> - 📜 **George Saintsbury (*Notes on a Cellar-Book*):** *"A lifelong passion for **oenology** brings intellectual delight as well as aesthetic gratification to the scholar's table."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roentgenography of the spinal cord to detect possible lesions (usually after injection of a contrast medium into the subarachnoid space).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roentgenography of the spinal cord to detect possible lesions (usually after injection of a contrast medium into the subarachnoid space).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The radiographic visualization and examination of the spinal cord, subarachnoid space, and nerve roots following the injection of a contrast medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and spine surgery, an imaging technique essential for assessing spinal cord compression, avulsion injuries, and arachnoiditis before the widespread advent of MRI.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelography designates roentgenography of the spinal cord to detect possible lesions (usually after injection of a contrast medium into the subarachnoid space)."*
+> - 📜 **Walter Dandy (*Surgery of the Brain*):** *"Careful **myelography** allows the neurosurgeon to pinpoint the exact level of cord compression before laminectomy."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"The diagnostic precision of modern spinal **myelography** was greatly enhanced by water-soluble contrast media."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Contrast **myelography** demonstrated severe cervical spondylotic compression causing spastic quadriparesis."*

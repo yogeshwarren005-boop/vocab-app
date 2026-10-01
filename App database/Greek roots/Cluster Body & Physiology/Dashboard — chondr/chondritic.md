@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a granular structure like that of chondrites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a granular structure like that of chondrites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, composed of, or containing chondrules or chondrite meteorites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary science, exhibiting the primitive elemental proportions characteristic of undisturbed solar nebula matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondritic designates having a granular structure like that of chondrites."*
+> - 📜 **Carl Sagan (*The Dragons of Eden*):** *"The organic molecules preserved within **chondritic** meteorites suggest that prebiotic building blocks rained down upon the early Earth."*
+> - 📜 **Harold Urey (*The Planets*):** *"We use the **chondritic** model as our baseline standard for measuring planetary differentiation and core formation."*
+> - 📜 **Freeman Dyson (*Disturbing the Universe*):** *"Cometary dust and **chondritic** particles drift continuously into our upper atmosphere, whispering secrets of solar birth."*

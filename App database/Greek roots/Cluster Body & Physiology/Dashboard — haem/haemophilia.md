@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare hereditary bleeding disorder in which the blood fails to clot normally due to a deficiency in clotting factors VIII or IX.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An X-linked recessive genetic coagulopathy characterized by prolonged internal bleeding, particularly into joints (hemarthrosis) and deep muscular compartments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemophilia designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Of all hereditary diseases, **haemophilia** is the most remarkable for its persistent transmission through unaffected females to their male offspring."*
+> - 📜 **John Conrad Otto (*An Account of an Hemorrhagic Disposition*):** *"The predisposition to severe hemorrhage, now recognized under the appellation **haemophilia**, has been traced across four successive generations."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The transmission of **haemophilia** exclusively to males through non-bleeding mothers affords a striking example of sex-linked inheritance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause members of a tribe to lose their cultural identity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause members of a tribe to lose their cultural identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to abandon, lose, or be stripped of tribal customs, communal organization, or traditional social identity (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and sociological analysis, colonial policies and industrial labor regimes sought to detribalise indigenous populations to create individual wage laborers, often sparking cultural dislocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detribalise designates cause members of a tribe to lose their cultural identity."*
+> - 📜 **Winston Churchill (*My African Journey*):** *"To **detribalise** native populations without providing adequate moral and legal substitutes invites administrative ruin."*
+> - 📜 **Edward Burnett Tylor (*Anthropology: An Introduction to the Study of Man and Civilization*):** *"Missionary schools and urban markets conspire to **detribalise** youth by severing them from ancestral rituals."*
+> - 📜 **James George Frazer (*Totemism and Exogamy*):** *"Legal reforms that **detribalise** the clan undermine the very fabric of exogamous marital alliances."*

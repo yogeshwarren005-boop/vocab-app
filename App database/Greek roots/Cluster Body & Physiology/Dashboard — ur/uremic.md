@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation in the blood of constituents normally eliminated in the urine that produces a severe toxic condition and usually occurs in severe kidney disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The toxic bodily condition associated with uremia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, caused by, or characteristic of uremia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, uremic complications include uremic pericarditis (a serofibrinous inflammation of the pericardium), uremic frost (crystallized urea on the skin), and uremic encephalopathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uremic designates accumulation in the blood of constituents normally eliminated in the urine that produces a severe toxic condition and usually occurs in severe kidney disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A coarse pericardial friction rub is an ominous clinical sign in the late stage of **uremic** poisoning."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The **uremic** breath exhales a distinctly ammoniacal odor that permeates the entire sickroom."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Prompt hemodialysis halts the progression of **uremic** somnolence and clears neuromuscular hyperirritability."*

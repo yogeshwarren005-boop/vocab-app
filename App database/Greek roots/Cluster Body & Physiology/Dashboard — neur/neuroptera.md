@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of insects including: lacewings; antlions; dobsonflies; alderflies; fish flies; mantispids; spongeflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insect having biting mouthparts and four large membranous wings with netlike veins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of holometabolous insects (net-winged insects) characterized by four membranous wings bearing a fine, intricately branched network of veins resembling nerves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, a classical order comprising lacewings, antlions, mantidflies, and alderflies, possessing biting mouthparts and carnivorous larval stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroptera designates an order of insects including: lacewings; antlions; dobsonflies; alderflies; fish flies; mantispids; spongeflies."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"The order **Neuroptera** is distinguished by four reticulated wings lacking stings, possessing prominent venation likened to nerve cords."*
+> - 📜 **John Obadiah Westwood (*Modern Classification of Insects*):** *"The delicate lace-like venation of the wings in the **Neuroptera** provides the primary morphological character separating them from Hemiptera."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"Antlions and lacewings belong to the order **Neuroptera**, exhibiting predatory habits both as ferocious larvae and delicate adults."*

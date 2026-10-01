@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical african trees and shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical african trees and shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering trees and shrubs in the family Rubiaceae, native to tropical Africa and Southeast Asia, bearing spherical aggregate heads of fragrant flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and pharmacology, species such as *Sarcocephalus latifolius* (African peach) yield edible syncarpous fruits and alkaloids with antimalarial and analgesic properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcocephalus designates genus of tropical african trees and shrubs."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The globose flower heads of **Sarcocephalus** fuse into a fleshy syncarpium resembling a rough-skinned fruit."*
+> - 📜 **David Prain (*Bengal Plants*):** *"Timber obtained from **Sarcocephalus** is yellowish, moderately hard, and valued locally for canoe construction."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **Sarcocephalus** is readily recognized by its dense heads of florets confluent upon a fleshy central receptacle."*

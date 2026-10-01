@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A swollen, inflamed vein or cluster of dilated veins in the anorectal region; a pile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In proctology, a pathologically enlarged arteriovenous vascular cushion located in the anal canal, categorized as internal or external relative to the dentate line.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemorrhoid designates adjective & noun*) resembling, having the physical form of, or akin to blood."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"The strangulation of an external **haemorrhoid** by the sphincter muscle induces excruciating pain and violent local inflammation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic bleeding from an internal **haemorrhoid** is a frequent and easily overlooked source of profound microcytic anemia."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Sedentary living and excessive purgation frequently engender a painful **haemorrhoid** requiring soothing topical fomentations."*

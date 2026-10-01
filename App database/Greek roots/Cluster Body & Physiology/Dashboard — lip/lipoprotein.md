@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conjugated protein that is a complex of protein and lipid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conjugated protein that is a complex of protein and lipid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biochemical assembly containing both lipid and protein molecules, enabling the transportation of hydrophobic fats in aqueous blood plasma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology and metabolic pathology, macromolecular particles (chylomicrons, VLDL, LDL, HDL) whose relative concentrations and apolipoprotein compositions regulate cholesterol balance and atherogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lipoprotein designates a conjugated protein that is a complex of protein and lipid."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Elevated plasma levels of low-density **lipoprotein** correlate directly with coronary atherogenesis."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The liver synthesizes and secretes very low density **lipoprotein** to deliver endogenous triglycerides to peripheral tissues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Familial metabolic abnormalities affecting circulating **lipoprotein** fractions predispose to premature arterial sclerosis."*

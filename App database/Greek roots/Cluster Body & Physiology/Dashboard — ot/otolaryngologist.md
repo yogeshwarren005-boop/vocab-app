@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in the disorders of the ear or nose or throat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in the disorders of the ear or nose or throat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical physician and surgeon who specializes in the diagnosis, medical management, and operative treatment of disorders of the ear, nose, throat, and related head and neck structures (an ENT specialist).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in managing complex head and neck pathology, including hearing loss, sinusitis, airway obstruction, sleep apnea, and head and neck neoplasms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otolaryngologist designates a specialist in the disorders of the ear or nose or throat."*
+> - 📜 **Chevalier Jackson (*Bronchoscopy and Esophagoscopy*):** *"The modern **otolaryngologist** must possess the delicate manual dexterity of an eye surgeon and the broad physiological vision of an internist."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cooperation with a skilled **otolaryngologist** is essential whenever deep retropharyngeal suppuration threatens descending mediastinitis."*
+> - 📜 **Harvey Cushing (*Surgery of the Head*):** *"The diagnostic acumen of the **otolaryngologist** detects early nasopharyngeal malignancies long before cranial nerve palsies appear."*

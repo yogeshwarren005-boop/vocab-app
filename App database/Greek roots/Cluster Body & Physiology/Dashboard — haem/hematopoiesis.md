@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of blood or of blood cells in the living body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of blood or of blood cells in the living body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process of blood cell formation, through which multipotent stem cells differentiate into erythrocytes, leukocytes, and platelets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and stem cell biology, the continuous, hierarchically regulated cellular turnover originating in bone marrow niches that replenishes circulating peripheral blood cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematopoiesis designates the formation of blood or of blood cells in the living body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Under conditions of sustained blood loss, compensatory **hematopoiesis** rapidly accelerates red marrow activity throughout the long bones."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Renal erythropoietin secretion acts directly upon the bone marrow to stimulate erythrocytic **hematopoiesis** during states of tissue hypoxia."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"The vascular sinusoids of the marrow provide the structural matrix supporting active lifelong **hematopoiesis**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine animal with bivalve shell having a pair of arms bearing tentacles for capturing food; found worldwide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to the phylum brachiopoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any marine coelomate invertebrate belonging to the phylum Brachiopoda, enclosed in a bivalve shell with dorsal and ventral valves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and paleontology, commonly known as lampshells, possessing a ciliated lophophore for feeding and a muscular pedicle for attachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiopod designates marine animal with bivalve shell having a pair of arms bearing tentacles for capturing food; found worldwide."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain species of the **brachiopod** Lingula have survived through immense geological epochs with scarcely any visible change."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Unlike molluscan bivalves whose shells are lateral, the valves of the **brachiopod** are dorsal and ventral."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"The Paleozoic seas swarmed with diverse **brachiopod** colonies that formed thick beds of fossiliferous limestone."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of blood or of blood cells in the living body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of blood or of blood cells in the living body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, participating in, or promoting the formation and maturation of blood cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting tissues, organs (such as red bone marrow), growth factors, or pluripotential stem cells that give rise to circulating blood lineages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematopoietic designates the formation of blood or of blood cells in the living body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A profound aplasia of the **hematopoietic** marrow accounts for the fatal pancytopenia observed in these unfortunate patients."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The red marrow of the sternum and ribs represents the chief permanent **hematopoietic** tissue in the adult human body."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Our physiological experiments revealed how rapidly the **hematopoietic** system responds to artificial venesection."*

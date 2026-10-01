@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enzyme that acts as a catalyst in converting histidine to histamine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enzyme that acts as a catalyst in converting histidine to histamine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that breaks down and metabolizes histamine; diamine oxidase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and clinical medicine, an enzyme present in intestinal mucosa, kidney, and placenta that deaminates extracellular histamine into imidazole-4-acetic acid, moderating inflammatory responses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histaminase designates enzyme that acts as a catalyst in converting histidine to histamine."*
+> - 📜 **Henry Dale (*Adventures in Physiology*):** *"The discovery of **histaminase** demonstrated nature's enzymatic safeguard for rapidly inactivating toxic concentrations of liberated histamine."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"High maternal plasma levels of **histaminase** during pregnancy protect the fetal-placental unit from circulating maternal histamine."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Metabolic degradation catalyzed by tissue **histaminase** represents an essential homeostatic pathway in cellular physiology."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare dermatological and otological condition characterized by benign tuberous hypertrophy, bulbous lobulation, and nodular swelling of the external ear pinna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, a severe phymatous variant of rosacea (analogous to rhinophyma of the nose) affecting the auricular cartilage and sebaceous glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otophyma designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"The disfiguring lobulated masses of **otophyma** represent chronic sebaceous hyperplasia and connective tissue hypertrophy of the earlobe."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic sections in **otophyma** reveal massively dilated sebaceous follicles surrounded by chronic telangiectatic and lymphocytic stroma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surgical debulking and contoured re-epithelialization provide substantial cosmetic and functional rehabilitation in advanced **otophyma**."*

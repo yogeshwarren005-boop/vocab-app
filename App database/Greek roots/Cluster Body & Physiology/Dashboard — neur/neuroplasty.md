@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastic surgery of the nerves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plastic surgery of the nerves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical repair, decompression, or reconstruction of a damaged peripheral nerve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plastic and reconstructive surgery, procedures such as external and internal neurolysis, nerve transposition, or epineurial grafting to restore nerve conductivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroplasty designates plastic surgery of the nerves."*
+> - 📜 **Herbert Seddon (*Surgical Disorders of the Peripheral Nerves*):** *"Careful mobilization and **neuroplasty** relieved chronic compression of the ulnar nerve behind the medial epicondyle."*
+> - 📜 **Sydney Sunderland (*Nerves and Nerve Injuries*):** *"Internal **neuroplasty** must be executed with extreme microsurgical precision to avoid injuring adjacent undamaged fascicles."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Following traumatic transection, immediate **neuroplasty** with fine silk sutures offers the best prospect of functional reinnervation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A copious or heavy discharge of blood from the blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapid and uncontrollable loss or outflow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An escape of blood from ruptured blood vessels; excessive internal or external bleeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical surgery and trauma pathology, acute vascular blood loss classified by source (arterial, venous, capillary) and degree, leading to hemorrhagic shock if unchecked.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In 1882 she had many hemorrhages, and gradually grew worse, so that she could not use her left arm or shoulder without producing hemorrhage."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"But, in her absence, a hemorrhage took place, the nurse endeavored to staunch the blood, but at last, becoming frightened, sent for a Surgeon."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The surgeon tells me I shall not recover, that the next hemorrhage will probably be the last."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"Nature's primary method for arresting profuse **hemorrhage** consists in the formation of a coagulum within the mouth of the divided vessel."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A sudden massive cerebral **hemorrhage** produces immediate loss of consciousness accompanied by stertorous breathing and hemiplegia."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"Cleanliness, adequate ventilation, and prompt ligation prevented fatal secondary **hemorrhage** among our wounded soldiers."*

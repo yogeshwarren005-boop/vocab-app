@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generalized edema with accumulation of serum in subcutaneous connective tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generalized edema with accumulation of serum in subcutaneous connective tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe and widespread generalized edema involving massive fluid accumulation in the subcutaneous tissues and serous body cavities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Often secondary to end-stage congestive heart failure, severe nephrotic syndrome, hepatic cirrhosis, or advanced protein-losing enteropathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anasarca designates generalized edema with accumulation of serum in subcutaneous connective tissue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When renal insufficiency advances unchecked, generalized **anasarca** rapidly follows, pitting deeply on moderate digital pressure."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The patient presented with extreme **anasarca**, the limbs and trunk distended to double their customary girth."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"We distinguish between local dropsies and that universal puffiness of the cellular tissue denominated **anasarca**."*

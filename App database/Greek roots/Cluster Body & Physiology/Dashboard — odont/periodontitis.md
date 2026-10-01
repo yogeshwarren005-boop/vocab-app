@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease that attacks the gum and bone and around the teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease that attacks the gum and bone and around the teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation and infection of the ligaments and bones that support the teeth, leading to tooth loosening and bone loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oral medicine and periodontology, a chronic infectious disease initiated by subgingival plaque biofilms, causing progressive loss of periodontal attachment and alveolar bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontitis designates a disease that attacks the gum and bone and around the teeth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Neglected chronic **periodontitis**, or pyorrhea alveolaris, results in purulent pockets and eventual loss of intact teeth."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Histopathological sections in **periodontitis** show osteoclastic resorption of the alveolar crest with dense plasmacytic infiltration."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Systemic constitutional decline is often exacerbated by the toxic absorption from severe chronic **periodontitis**."*

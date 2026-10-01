@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gastr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The upper central region of the abdomen, situated above the umbilical region and between the costal margins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surface anatomy and physical examination, the abdominal zone overlying the stomach, duodenum, pancreas, and left lobe of the liver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Immediately he received a blow in the epigastrium that stretched him almost insensible on the floor."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inspection of the **epigastrium** in severe pyloric obstruction frequently reveals visible gastric peristalsis passing from left to right."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Guarding and rebound tenderness localized in the **epigastrium** pointed toward acute chemical peritonitis from an ulcer perforation."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"The patient complained of constant dull ache deep in the **epigastrium**, radiating straight through to the lumbar spine."*

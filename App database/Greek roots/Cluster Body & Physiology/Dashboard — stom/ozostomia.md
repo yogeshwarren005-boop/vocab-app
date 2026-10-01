@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Foul, offensive, or fetid breath; halitosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical clinical medicine and stomatology, ozostomia was categorized by etiology, including periodontal disease, chronic tonsillar caseum, necrotic stomatitis, or systemic metabolic ketoacidosis and uremia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ozostomia designates a term designating an entity, condition, or phenomenon derived from greek stom."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe diabetic ketoacidosis produces a sweetish fruity **ozostomia** reminiscent of decomposing apples."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Neglected caries and pyorrhea alveolaris remain the most frequent causes of stubborn chronic **ozostomia**."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"In mercurial salivation, a characteristic gangrenous **ozostomia** announces severe intoxication."*

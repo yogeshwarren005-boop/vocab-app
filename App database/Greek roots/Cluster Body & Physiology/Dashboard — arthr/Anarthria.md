@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partial or total loss of articulate speech resulting from lesions of the central nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partial or total loss of articulate speech resulting from lesions of the central nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete loss of the ability to articulate speech resulting from severe motor impairment or paralysis of the vocal musculature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical aphasiology and neurology, Pierre Marie's severe expressive speech deficit caused by subcortical or bulbar motor pathway lesions, distinct from cognitive aphasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Anarthria designates partial or total loss of articulate speech resulting from lesions of the central nervous system."*
+> - 📜 **Pierre Marie (*Revision of the Question of Aphasia*):** *"True **anarthria** consists in the inability to articulate words, while internal language and comprehension remain intact."*
+> - 📜 **Paul Broca (*Remarks on the Seat of the Faculte of Articulate Language*):** *"When motor coordinates for speech are destroyed without paralysis of tongue or lips, profound **anarthria** supervenes."*
+> - 📜 **A. R. Luria (*Higher Cortical Functions in Man*):** *"Subcortical lesions affecting the striopallidal pathways produce severe **anarthria** with intact phonemic hearing."*

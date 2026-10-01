@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual eating to excess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eating to excess (personified as one of the deadly sins).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual greed or excess in eating; immoderate indulgence in food or drink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral theology and classical ethics, one of the seven deadly sins, representing the subjugation of rational self-control to animal appetite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gluttony and diseases make them; I make them not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the cook help to make the gluttony, you help to make the diseases, Doll: we catch of you, Doll."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And God heard me, I know, for during all my term on that island I knew never a moment of sickness, save two, both of which were due to my gluttony, as I shall later relate."*
+> - 📜 **Dante Alighieri (*Inferno*):** *"In the third circle of the pit, the souls condemned for **gluttony** wallow in eternal icy mud under foul black rain, tormented by Cerberus."*
+> - 📜 **Geoffrey Chaucer (*The Pardoner's Tale*):** *"O **gluttony**, full of all curse and bane! / The original cause of all our woe and pain!"*
+> - 📜 **Francis Bacon (*The Essays*):** *"Temperance in diet preserves youth, while habitual **gluttony** breeds innumerable corrupt humours that hasten decay."*

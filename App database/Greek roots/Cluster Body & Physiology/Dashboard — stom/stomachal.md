@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving the stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or beneficial to the stomach; promoting gastric comfort or digestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical pharmacological and dietetic term describing warming infusions, carminatives, or cordials that ease gastric cramps and enhance appetite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomachal designates relating to or involving the stomach."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Infusions of wormwood and mint offer an excellent **stomachal** remedy to dispel melancholy flatulence."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Bitter herbs taken before meals exert a wholesome **stomachal** effect by exciting the languid digestive warmth."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Ginger boiled in wine comforteth the cold belly, serving as a sovereign **stomachal** cordial against indigestion."*

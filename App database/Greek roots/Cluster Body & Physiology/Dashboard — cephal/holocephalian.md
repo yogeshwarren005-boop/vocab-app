@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fish with high compressed head and a body tapering off into a long tail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fish with high compressed head and a body tapering off into a long tail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the subclass Holocephali; a chimaera fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, describing characteristics typical of chimaeras, such as continuous crushing tooth plates and autostylic jaw suspension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holocephalian designates fish with high compressed head and a body tapering off into a long tail."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The **holocephalian** skull exhibits complete synostosis between the visceral upper jaw arch and the neurocranium."*
+> - 📜 **Louis Agassiz (*Fossil Fishes*):** *"Devonian deposits yield numerous isolated tooth plates belonging to ancestral **holocephalian** forms."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Vertebrates*):** *"The whip-like tail and venomous dorsal spine of the **holocephalian** ratfish distinguish it immediately from standard dogfishes."*

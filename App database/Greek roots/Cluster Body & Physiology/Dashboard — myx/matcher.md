@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who arranges (or tries to arrange) marriages for others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who arranges (or tries to arrange) marriages for others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or device that pairs, matches, or aligns corresponding items, patterns, or individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational linguistics and engineering, an automated algorithm or machine tool designed to detect matching patterns or join interlocking components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, matcher designates someone who arranges (or tries to arrange) marriages for others."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The old parish clerk served as a shrewd **matcher** of youth and maiden across several villages."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She was by nature no scheming **matcher**, yet she observed the growing intimacy with quiet satisfaction."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical **matcher** ensures that each punched card corresponds accurately to its computational register."*

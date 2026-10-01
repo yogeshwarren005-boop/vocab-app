@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Established by or founded upon law or official or accepted rules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to jurisprudence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to, permitted by, or established by statutory or common law; lawful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the jurisprudence system, judicial courts, or the profession of law, as distinguished from moral or administrative realms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was ever seen An emperor in Rome thus overborne, Troubled, confronted thus; and, for the extent Of legal justice, used in such contempt?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is the registrar below the judge, in wig and gown; and there are two or three maces, or petty-bags, or privy purses, or whatever they may be, in legal court suits."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Articled clerks have been in the habit of fleshing their legal wit upon it."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The interpretation of laws is the proper and peculiar province of the courts; a **legal** judgment must be governed by statutory precedent."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Scarcely any political question arises in the United States that is not resolved sooner or later into a **legal** question."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Municipal law is a rule of civil conduct prescribed by supreme power, commanding what is right and prohibiting what is **legal** wrong."*

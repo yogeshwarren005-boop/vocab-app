@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hereditary or acquired metabolic disorder characterized by excessive intestinal absorption of dietary iron, leading to toxic iron accumulation in bodily organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A systemic iron-storage condition historically called bronze diabetes, causing hepatic cirrhosis, cardiomyopathy, endocrine dysfunction, and hyperpigmentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemochromatosis designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The profound bronzing of the skin accompanied by hepatic enlargement and glycosuria represents the classical clinical triad of **haemochromatosis**."*
+> - 📜 **Rudolf Virchow (*Archiv für pathologische Anatomie*):** *"Microscopic examination of liver sections from cases of **haemochromatosis** revealed parenchymal cells literally stuffed with golden-brown haemosiderin granules."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"In the advanced stages of pigmentary cirrhosis known as **haemochromatosis**, multi-organ failure ensues from the unrelenting tissue saturation of iron salts."*

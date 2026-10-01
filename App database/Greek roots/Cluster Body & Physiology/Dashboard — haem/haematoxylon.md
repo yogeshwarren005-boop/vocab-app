@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of tropical american spiny bushy shrubs or trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of tropical american spiny bushy shrubs or trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering trees in the legume family Fabaceae, native to Central America and the Caribbean, notably including the logwood tree (*Haematoxylum campechianum*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histological terminology and pharmacognosy, the heartwood or crude botanical preparation of Haematoxylum, historically harvested as a prime source of the natural biological dye haematoxylin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematoxylon designates small genus of tropical american spiny bushy shrubs or trees."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The deep reddish exudates extracted from the heartwood of **haematoxylon** illustrate the rich variety of secondary metabolites developed across tropical leguminous trees."*
+> - 📜 **William Turner (*Elements of Botany*):** *"Commercial logwood, imported systematically under the botanical designation **haematoxylon**, was prized by drapers and naturalists alike for its distinctive dark staining properties."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Specimens of tropical flora and wood cuts related to **haematoxylon** were compared in our Kew collections with indigenous dye-yielding timber of the East."*

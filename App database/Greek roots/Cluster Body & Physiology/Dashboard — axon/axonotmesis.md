@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek axon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of peripheral nerve injury characterized by disruption of the nerve axon and myelin sheath while the supporting connective tissue sheath (endoneurium) remains intact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, the intermediate grade of nerve trauma in Herbert Seddon's classification, which permits spontaneous axonal regeneration along intact tubular scaffolds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axonotmesis designates a term designating an entity, condition, or phenomenon derived from greek axon."*
+> - 📜 **Herbert Seddon (*Three Types of Nerve Injury*):** *"In **axonotmesis**, the essential neural tubes survive unbroken, ensuring that regenerating fibers find their proper peripheral destinations."*
+> - 📜 **Wilder Penfield (*Surgical Pathology of the Peripheral Nerves*):** *"Unlike complete transection, **axonotmesis** usually recovers spontaneously without the necessity of open operative nerve suturing."*
+> - 📜 **Sydney Sunderland (*Nerves and Nerve Injuries*):** *"Wallerian degeneration proceeds distally in **axonotmesis**, followed by axonal regeneration at the rate of one millimeter per day."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition (as in Down syndrome) of having one or a few chromosomes triploid in an otherwise diploid set.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Down syndrome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of three copies of a particular chromosome, rather than the normal homologous pair, in an otherwise diploid cell or individual (2n + 1).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human genetics, trisomy 21 (Down syndrome), trisomy 18 (Edwards syndrome), and trisomy 13 (Patau syndrome) are the most common non-mosaic autosomal trisomies that survive to birth, predominantly caused by maternal meiotic non-disjunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trisomy designates the condition (as in down syndrome) of having one or a few chromosomes triploid in an otherwise diploid set."*
+> - 📜 **Jérôme Lejeune (*Étude des chromosomes somatiques de neuf enfants mongoliens*):** *"We observed that nine affected children each possessed forty-seven chromosomes, the anomaly being a **trisomy** of the smallest telocentric element."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Maternal age remains the single most significant epidemiological risk factor predisposing to meiotic non-disjunction and autosomal **trisomy**."*
+> - 📜 **Albert Blakeslee (*The Chromosome Constitution of Datura Mutants*):** *"The morphological distortion produced by **trisomy** directly reflects the overrepresentation of genes carried upon the extra unit."*

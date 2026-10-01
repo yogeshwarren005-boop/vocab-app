@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the hymen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the hymen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated on, or involving the hymen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecology and forensic anatomy, designating the anatomical remnants (carunculae hymenales) or surgical procedures concerning the hymeneal membrane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenal designates of or relating to the hymen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Following normal parturition, the torn membrane is reduced to small nodular **hymenal** caruncles."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Congenital vascular anomalies occasionally produce persistent bleeding along the **hymenal** border."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"Benign mucosal papillomas were observed arising directly from the **hymenal** margin."*

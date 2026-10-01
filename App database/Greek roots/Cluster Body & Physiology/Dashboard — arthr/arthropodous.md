@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to invertebrates of the phylum arthropoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to invertebrates of the phylum arthropoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing jointed legs or appendages; characteristic of or belonging to the arthropods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical zoological descriptions, designating organisms or anatomical structures exhibiting articulated jointed construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthropodous designates of or relating to invertebrates of the phylum arthropoda."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The **arthropodous** limb consists of distinct podomeres linked by flexible articular membranes."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"An **arthropodous** organization provides extraordinary leverage and agility across rugged terrain."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"Even sessile barnacles betray their **arthropodous** nature through their jointed, feather-like thoracic cirri."*

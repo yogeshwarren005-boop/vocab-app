@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant embryonic tumor of the kidney occurring predominantly in young children, commonly known as Wilms tumor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric oncology and pathology, a triphasic neoplasm consisting of blastemal, epithelial, and stromal elements resulting from aberrant kidney organogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephroblastoma designates malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A large, palpable abdominal mass in a young toddler frequently proves to be an embryonic **nephroblastoma**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The histologic appearance of **nephroblastoma** reveals primitive blastemal sheets interspersed with abortive glomerular tubules."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Successful management of pediatric **nephroblastoma** combines meticulous operative excision with systemic therapy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound ventral bone or cartilage of most vertebrates other than fishes that connects the ribs or the shoulder girdle or both and in humans consists of the manubrium, gladiolus, and xiphoid process —called also breastbone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound ventral bone or cartilage of most vertebrates other than fishes that connects the ribs or the shoulder girdle or both and in humans consists of the manubrium, gladiolus, and xiphoid process —called also breastbone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The breastbone; a flat, narrow, elongated bone situated in the median anterior wall of the thorax in humans and most terrestrial vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology, divided into three anatomical regions: the manubrium, the body (gladiolus), and the xiphoid process; it articulates with the clavicles and the cartilages of the first seven pairs of true ribs to protect thoracic viscera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sternum designates a compound ventral bone or cartilage of most vertebrates other than fishes that connects the ribs or the shoulder girdle or both and in humans consists of the manubrium, gladiolus, and xiphoid process —called also breastbone."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **sternum** is an elongated, flattened bone, forming the middle and anterior part of the chest."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tenderness on light percussion over the lower **sternum** frequently signals leukemic bone marrow hyperplasia."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In carinate birds, the **sternum** is expanded into a tremendous median keel that anchors the great pectoral flying muscles."*

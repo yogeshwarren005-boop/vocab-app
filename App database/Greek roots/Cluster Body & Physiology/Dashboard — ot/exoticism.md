@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being exotic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being exotic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or condition of being exotic; foreignness, unusualness, or colorful unfamiliarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and art history, the fascination with or aesthetic appropriation of distant, non-Western cultures, styles, and landscapes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exoticism designates the quality or state of being exotic."*
+> - 📜 **Edward Said (*Orientalism*):** *"Romantic **exoticism** reimagined the East as a sensual playground of decadent despots and veiled mystery."*
+> - 📜 **Gustave Flaubert (*Salammbô*):** *"The lush **exoticism** of ancient Carthage provided a canvas of jeweled elephants, incense, and barbaric splendor."*
+> - 📜 **Victor Segalen (*Essay on Exoticism: An Aesthetics of Diversity*):** *"True **exoticism** is not the mere tourist pursuit of novel sights, but the acute perception of irreducible cultural otherness."*

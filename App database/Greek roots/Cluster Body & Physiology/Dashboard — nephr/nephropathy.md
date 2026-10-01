@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal state of the kidney; especially : one associated with or secondary to some other pathological process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal state of the kidney; especially : one associated with or secondary to some other pathological process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease, damage, or pathological disorder of the kidneys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal medicine and pathology, renal injury resulting from systemic conditions such as diabetes mellitus (diabetic nephropathy), hypertension, amyloidosis, or analgesic abuse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephropathy designates an abnormal state of the kidney; especially : one associated with or secondary to some other pathological process."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In advanced diabetes mellitus, intercapillary glomerulosclerosis heralds the onset of severe diabetic **nephropathy**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Heavy metal poisoning induces acute toxic **nephropathy** characterized by extensive necrosis of the proximal convoluted tubules."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Chronic ischemic **nephropathy** exacerbates refractory hypertension by activating the renin-angiotensin cascade."*

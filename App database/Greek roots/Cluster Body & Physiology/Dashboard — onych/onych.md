@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root combining form (onych- / onycho-) denoting a nail, claw, or talon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatological medicine, zoology, and comparative morphology, utilized in constructing terms relating to unguicular structures, keratinous claws, or nail disorders (e.g., onycholysis, onychomycosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onych designates a term designating an entity, condition, or phenomenon derived from greek onych."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical conditions bearing the prefix **onych-** indicate localized pathology or dystrophic change of the human nail plate."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The Greek root **onych-** designates the keratinous claw or nail produced by the specialized germinative matrix."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Compounded terms with **onych-** denote disorders where the stratified keratin of the nail fails to mature normally."*

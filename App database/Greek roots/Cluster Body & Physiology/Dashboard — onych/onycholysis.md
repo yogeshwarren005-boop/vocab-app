@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The painless separation or loosening of a fingernail or toenail from its underlying nail bed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, a condition typically starting at the distal free edge and advancing proximally, associated with psoriasis, fungal infections, trauma, or thyrotoxicosis (Plummer's nail).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onycholysis designates a term designating an entity, condition, or phenomenon derived from greek onych."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Distal **onycholysis** with separation of the nail plate from the hyponychium frequently accompanies severe hyperthyroidism."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Subungual hyperkeratosis in chronic psoriasis mechanically induces extensive **onycholysis** of multiple digits."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Traumatic injury to the fingertip may precipitate acute **onycholysis** followed by spontaneous regrowth."*

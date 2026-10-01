@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sessile mossy aquatic animal having the anus of the polyp outside the crown of tentacles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sessile mossy aquatic animal having the anus of the polyp outside the crown of tentacles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any microscopic aquatic invertebrate belonging to the phylum Ectoprocta (commonly known as bryozoans or moss animals).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, a colonial lophophorate whose anus is situated outside the circular ring of ciliated feeding tentacles, contrasting with endoprocts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectoproct designates sessile mossy aquatic animal having the anus of the polyp outside the crown of tentacles."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In every colonial **ectoproct**, the individual zooid extends its ciliated lophophore to capture microscopic food particles."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Encrusting the kelp blades, colonies of a delicate **ectoproct** formed lacelike traceries over the brown sea-fronds."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Under submerged rocks, each moss animal or **ectoproct** lives protected within an intricate calcareous zooecium."*

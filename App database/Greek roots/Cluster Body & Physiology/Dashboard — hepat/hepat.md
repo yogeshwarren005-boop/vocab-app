@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: hepatic and.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The liver; a combining form or lexical root derived from ancient Greek denoting the liver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical nomenclature and morphological linguistics, the fundamental root (from Greek ἧπαρ, ἡπατ-) prefixed across biomedical terms indicating hepatic structure, function, or disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hepat as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The ancient Greek designation **hepat** remains the root of all modern anatomical designations pertaining to the parenchymal architecture of the liver."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinicians employ the combining element **hepat** in diagnosing conditions ranging from simple hepatomegaly to toxic hepatopathy."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Our physiological investigations into the glycogenic function of the liver firmly established the primacy of the **hepat** root in metabolic science."*

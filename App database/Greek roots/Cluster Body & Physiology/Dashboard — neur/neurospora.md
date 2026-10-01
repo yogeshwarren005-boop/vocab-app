@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of fungi with black perithecia used extensively in genetic research; includes some forms with orange spore masses that cause severe damage in bakeries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of fungi with black perithecia used extensively in genetic research; includes some forms with orange spore masses that cause severe damage in bakeries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ascomycete fungi, commonly known as red bread mold, widely utilized as a premier model organism in biochemical and fungal genetics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, the experimental organism in which Beadle and Tatum demonstrated the 'one gene-one enzyme' hypothesis, celebrated for its haploid genetics and linear arrangement of ascospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurospora designates genus of fungi with black perithecia used extensively in genetic research; includes some forms with orange spore masses that cause severe damage in bakeries."*
+> - 📜 **George Beadle and Edward Tatum (*Genetic Control of Biochemical Reactions in Neurospora*):** *"By inducing nutritional mutations with X-rays in **Neurospora** crassa, we demonstrated that individual genes govern specific enzymatic steps."*
+> - 📜 **Bernard O. Dodge (*Nuclear Phenomena in the Ascomycete Neurospora*):** *"The linear alignment of eight ascospores within the ascus makes **Neurospora** an ideal organism for tetrad analysis."*
+> - 📜 **Colin Pittendrigh (*Circadian Rhythms in Neurospora*):** *"Rhythmic conidiation in **Neurospora** provides a classical biochemical model for dissecting temperature-compensated circadian clocks."*

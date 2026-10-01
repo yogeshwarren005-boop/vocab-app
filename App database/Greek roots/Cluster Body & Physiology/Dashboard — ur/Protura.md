@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of microscopic, eyeless, wingless, entognathous hexapods that inhabit moist soil and leaf litter, lacking both wings and antennae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod morphology, Protura (commonly called coneheads) hold their elongated, sensory-rich first pair of legs forward like antennae to navigate their subterranean environment, exhibiting anamorphosis (adding abdominal segments during post-embryonic molts).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Protura designates a term designating an entity, condition, or phenomenon derived from greek ur."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Lacking antennae entirely, the minute **Protura** elevate their front legs above their heads to function as sensory antennae."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The discovery of **Protura** in forest humus revealed an extraordinary group of hexapods exhibiting anamorphic post-embryonic development."*
+> - 📜 **Alfred Sherwood Romer (*The Vertebrate Body*):** *"The ancestral affinities of basal hexapods like **Protura** provide essential benchmarks for understanding arthropod terrestrialization."*

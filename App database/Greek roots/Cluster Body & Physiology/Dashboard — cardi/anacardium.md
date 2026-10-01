@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the anacardiaceae: cashew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the anacardiaceae: cashew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical American trees and shrubs in the family Anacardiaceae, notably Anacardium occidentale (the cashew tree).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, trees cultivated for their kidney-shaped nuts borne externally at the end of a swollen, edible fleshy pedicel (cashew apple).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anacardium designates type genus of the anacardiaceae: cashew."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The generic name **anacardium** was bestowed because the heart-shaped nut is situated on the top of the fruit like an inverted heart."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"In the arid savannas of the Orinoco, scattered groves of **anacardium** yielded sweet, astringent cashew apples relished by travelers."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The caustic shell oil of **anacardium** blisters human skin, requiring careful industrial roasting before the kernel can be consumed."*

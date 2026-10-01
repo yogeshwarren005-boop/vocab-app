@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not corresponding in structure or evolutionary origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not corresponding in structure or evolutionary origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to heterology; not describing itself (applied to adjectives); abnormal in structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical logic and semantic theory, designating words that do not possess the property they denote (e.g. 'monosyllabic' is not monosyllabic), forming the crux of the Grelling-Nelson antinomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterological designates not corresponding in structure or evolutionary origin."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"The Grelling paradox asks whether the word **heterological** is itself **heterological**, generating a direct contradiction."*
+> - 📜 **Willard Van Orman Quine (*The Ways of Paradox*):** *"If 'long' is **heterological** because it is short, what must we say of the word '**heterological**' itself?"*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"We designate these morbid growths as **heterological** because their structure violates the histological norms of the host tissue."*

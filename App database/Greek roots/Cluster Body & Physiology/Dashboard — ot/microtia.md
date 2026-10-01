@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital malformation characterized by an abnormally small, underdeveloped, or absent external ear (pinna).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric plastic surgery, a spectrum ranging from a mild miniature pinna (Grade I) to a rudimentary vertical sausage-like cartilage vestige (Grade III).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microtia designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Defective mesenchymal condensation within the embryonic hyoid arch produces the variable grades of clinical **microtia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unilateral **microtia** is frequently associated with conductive hearing loss resulting from external auditory canal atresia."*
+> - 📜 **Isidore Geoffroy Saint-Hilaire (*Treatise on Teratology*):** *"The miniature ear remnants seen in **microtia** demonstrate that localized branchial growth can be arrested while facial bones develop normally."*

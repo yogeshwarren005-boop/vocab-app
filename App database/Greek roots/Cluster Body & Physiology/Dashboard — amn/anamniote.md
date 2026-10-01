@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek amn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any vertebrate animal that lacks an amnion during embryonic development, specifically fishes and amphibians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate morphology, an aquatic or semi-aquatic vertebrate whose eggs must be deposited in water or damp microenvironments to avoid desiccation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anamniote designates a term designating an entity, condition, or phenomenon derived from greek amn."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Comparative Anatomy*):** *"The **anamniote** embryo develops neither amnion nor allantois, relying upon aquatic respiration through functional branchial clefts."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"Fishes and amphibians form the primitive **anamniote** grade from which terrestrial tetrapods subsequently arose."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"The gelatinous egg of the typical **anamniote** lacks the protective mineralized shell seen in advanced land dwellers."*

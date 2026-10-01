@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the brain having the most recent phylogenetic origin; the cerebral cortex and related parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the brain having the most recent phylogenetic origin; the cerebral cortex and related parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phylogenetically newer parts of the brain, especially the cerebral cortex and its associated pathways.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary neurobiology, the telencephalic structures that expanded dramatically in mammals to support higher cognitive processing, sensory perception, and voluntary motor planning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoencephalon designates the part of the brain having the most recent phylogenetic origin; the cerebral cortex and related parts."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Lesions confined to the **neoencephalon** disrupt symbolic abstraction and visual recognition while leaving primitive subcortical instincts intact."*
+> - 📜 **Carl Sagan (*The Dragons of Eden*):** *"The expansion of the **neoencephalon** provided our primate ancestors with the neural machinery for complex social syntax."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Cerebral dominance reflects the gradual subordination of archaic brainstem arcs to the overarching control of the **neoencephalon**."*

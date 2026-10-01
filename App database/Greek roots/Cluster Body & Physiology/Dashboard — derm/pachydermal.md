@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of pachyderms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of pachyderms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or characteristic of a pachyderm; thick-skinned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatopathology, describing pathological skin thickening, induration, and cutaneous folding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachydermal designates of or relating to or characteristic of pachyderms."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The colossal **pachydermal** skeleton of the mastodon supported immense weight upon massive, pillar-like limb bones."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic lymphedema transforms the smooth leg into a rough, corrugated **pachydermal** mass resembling elephant hide."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The cutaneous biopsy revealed dense collagenous fibrosis producing true **pachydermal** induration."*

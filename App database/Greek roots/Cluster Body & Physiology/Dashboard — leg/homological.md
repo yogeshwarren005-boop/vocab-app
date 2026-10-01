@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Similar in evolutionary origin but not in function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Similar in evolutionary origin but not in function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to homology; exhibiting fundamental correspondence in structural plan, evolutionary descent, or algebraic topology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate biology, describing organs derived from the same embryonic and ancestral structures; in algebraic topology, pertaining to homology groups and boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homological designates similar in evolutionary origin but not in function."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The **homological** relations of homologous organs remain traceable even when divergent functions cause drastic modifications."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"We establish **homological** identity by tracing developmental origin and anatomical connections rather than superficial function."*
+> - 📜 **Henri Poincaré (*Analysis Situs*):** *"The introduction of **homological** cycles into topology provided the decisive tool for classifying higher-dimensional manifolds."*

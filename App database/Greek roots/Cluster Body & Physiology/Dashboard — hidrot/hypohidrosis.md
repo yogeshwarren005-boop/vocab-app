@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hidrot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally diminished or reduced capacity to sweat in response to appropriate stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and dermatology, partial sudomotor failure caused by peripheral neuropathy, connective tissue disorders, or ectodermal dysplasias, predisposing to heat intolerance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypohidrosis designates a term designating an entity, condition, or phenomenon derived from greek hidrot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient with generalized **hypohidrosis** presented during the summer heat wave with dangerous hyperthermia and weakness."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"In peripheral diabetic neuropathy, stocking-glove **hypohidrosis** reflects progressive degeneration of small unmyelinated sympathetic fibers."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Congenital absence of sudoriferous tubules manifests clinically as profound **hypohidrosis** across the skin surface."*

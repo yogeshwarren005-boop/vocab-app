@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hormone that is released by nerve impulses (e.g., norepinephrine or vasopressin).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hormone that is released by nerve impulses (e.g., norepinephrine or vasopressin).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance produced and released by neurosecretory nerve cells directly into the circulation to influence distant target organs or cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology, an agent such as vasopressin, oxytocin, or hypothalamic hypophysiotropic releasing factors that combines neural signaling with endocrine action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurohormone designates a hormone that is released by nerve impulses (e.g., norepinephrine or vasopressin)."*
+> - 📜 **Ernst Scharrer (*Die Lichtempfindlichkeit blinder Elritzen*):** *"The secretion of a true **neurohormone** from hypothalamic nuclei demonstrates that neurons can function as bona fide endocrine glands."*
+> - 📜 **Geoffrey Harris (*Neural Control of the Pituitary Gland*):** *"Each hypothalamic **neurohormone** enters the capillary plexus of the median eminence to reach and stimulate anterior pituitary cells."*
+> - 📜 **Vincent du Vigneaud (*Trail of Sulfur Research: From Insulin to Oxytocin*):** *"Elucidating the cyclic peptide structure of oxytocin provided the first chemical description of a mammalian peptide **neurohormone**."*

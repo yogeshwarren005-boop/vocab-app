@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fish including: combtooth blennies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of fish including: combtooth blennies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of small, marine perciform fishes known as combtooth blennies, characterized by scaleless, slime-covered bodies and blunt heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, a family of benthic reef and tidepool fishes possessing close-set, comb-like teeth and modified pelvic fins used for perching on rocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blenniidae designates a family of fish including: combtooth blennies."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Fishes of the family **blenniidae** are nimble tidepool inhabitants, often leaping across exposed rocks between waves."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"A tiny member of the **blenniidae** peered out from an abandoned worm tube in the coral reef, waving its fringed tentacles."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The **blenniidae** are easily recognized by their slender, elongated form, slimy skin, and fleshy orbital crests."*

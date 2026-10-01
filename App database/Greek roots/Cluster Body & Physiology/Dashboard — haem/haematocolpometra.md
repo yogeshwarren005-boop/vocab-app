@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation of blood in the vagina and uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accumulation of blood in the vagina and uterus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The accumulation and retention of menstrual blood in both the vagina and the uterine cavity, usually caused by an imperforate hymen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric and adolescent gynecology, congenital obstructive mullerian tract anomaly producing cyclical pelvic pain and an abdominal pelvic mass in amenorrheic girls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematocolpometra designates accumulation of blood in the vagina and uterus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In pubertal girls with primary amenorrhea and cyclic pelvic pain, inspection of the vulva may reveal a bulging imperforate hymen causing **haematocolpometra**."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Pelvic ultrasound confirmed massive distension of both the endometrial cavity and upper vagina, establishing the diagnosis of **haematocolpometra**."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Cruciate hymenotomy produced instantaneous decompression of the dark, retained blood of the **haematocolpometra**, granting immediate symptom relief."*

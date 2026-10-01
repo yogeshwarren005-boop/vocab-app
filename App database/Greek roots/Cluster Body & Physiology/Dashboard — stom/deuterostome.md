@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a major division (Deuterostomia) of the animal kingdom that includes the bilaterally symmetrical animals (such as the chordates) with indeterminate cleavage and a mouth that does not arise from the blastopore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a major division (Deuterostomia) of the animal kingdom that includes the bilaterally symmetrical animals (such as the chordates) with indeterminate cleavage and a mouth that does not arise from the blastopore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any animal belonging to the major bilaterian clade Deuterostomia, in which the embryonic blastopore becomes the anus, while the mouth forms secondarily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary developmental biology, deuterostomes (comprising Chordata, Hemichordata, and Echinodermata) contrast with protostomes, exhibiting radial indeterminate cleavage and enterocoelous coelom formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuterostome designates any of a major division (deuterostomia) of the animal kingdom that includes the bilaterally symmetrical animals (such as the chordates) with indeterminate cleavage and a mouth that does not arise from the blastopore."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"In every typical **deuterostome**, the primary blastoporic opening marks the future anal aperture of the digestive tube."*
+> - 📜 **Alfred Sherwood Romer (*The Vertebrate Body*):** *"The deep phylogenetic kinship uniting echinoderms with our own chordate ancestry is founded upon shared **deuterostome** embryogenesis."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Cleavage in the **deuterostome** lineage is indeterminate, allowing isolated blastomeres to develop into complete viable embryos."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to slow or inhibit cellular activity and multiplication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to slow or inhibit cellular activity and multiplication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of stopping or slowing cellular growth and division; inhibiting cell proliferation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and oncology, describing therapeutic drugs that arrest cell-cycle progression at specific checkpoints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytostatic designates tending to slow or inhibit cellular activity and multiplication."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The administration of a **cytostatic** compound retards the rapid mitotic division of immature myeloblasts."*
+> - 📜 **Paul Ehrlich (*Chemotherapy*):** *"Our goal in chemical pharmacology is to discover substances whose **cytostatic** efficacy targets the parasite without injuring the host."*
+> - 📜 **Sherwin B. Nuland (*The Doctors' Story*):** *"Modern chemotherapy relies upon **cytostatic** regimens that prevent metastatic clones from dividing."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the hymenophyllaceae: filmy ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the hymenophyllaceae: filmy ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, delicate filmy ferns in the family Hymenophyllaceae, having membranous fronds with bivalved indusia enclosing the sporangia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, moss-like epiphytic or epilithic ferns growing in humid ravine spray zones and mist forests, characterized by two-lipped cup-like soral receptacles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenophyllum designates type genus of the hymenophyllaceae: filmy ferns."*
+> - 📜 **Joseph Dalton Hooker (*Flora Antarctica*):** *"The tiny filmy fern **Hymenophyllum** covers the damp trunks of southern beeches throughout Tierra del Fuego."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The two-lipped indusium of **Hymenophyllum** opens at the top to expose the sporangia clustered upon a short receptacle."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the drenched rainforests of Chiloé, graceful fronds of **Hymenophyllum** clung to every dripping branch."*

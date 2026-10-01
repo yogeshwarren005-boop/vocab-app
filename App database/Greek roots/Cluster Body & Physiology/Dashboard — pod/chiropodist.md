@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: podiatry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: podiatry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical practitioner specialized in the diagnosis, treatment, and prevention of disorders and deformities of the human foot (podiatrist).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In healthcare history, a licensed foot-care specialist (from Greek cheir, hand, and pous, podos, foot) treating corns, bunions, calluses, and ingrown toenails.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog chiropodist as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"The observant detective noted subtle modifications in the man's gait that would not escape an experienced **chiropodist**."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"He consulted a fashionable London **chiropodist** to relieve the agonizing friction of his formal boots."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diabetic neuropathy requires vigilant foot hygiene overseen by a careful **chiropodist** to prevent neuropathic ulcers."*

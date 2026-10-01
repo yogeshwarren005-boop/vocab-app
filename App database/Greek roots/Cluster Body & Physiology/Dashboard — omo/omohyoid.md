@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to omo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to omo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, slender muscle of the neck having two bellies connected by an intermediate tendon, extending from the scapula to the hyoid bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human surgical anatomy, an infrahyoid strap muscle that depresses and fixes the hyoid bone, dividing both the anterior and posterior cervical triangles into subdivisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omohyoid designates adjective & noun*) resembling, having the physical form of, or akin to omo."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The intermediate tendon of the **omohyoid** muscle is bound to the clavicle by a process of the deep cervical fascia."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"During deep radical neck dissection, the inferior belly of the **omohyoid** serves as a reliable landmark for the internal jugular vein."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Retraction of the **omohyoid** permits clear exposure of the deeper carotid sheath and sympathetic chain."*

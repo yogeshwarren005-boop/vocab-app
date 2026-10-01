@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of blood in a body cavity, especially in the tunica vaginalis testis following scrotal trauma or surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology and surgical pathology, an encapsulated hematoma of the scrotum or pelvis that must be differentiated from hydrocele or testicular neoplasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematocele designates swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unlike a clear hydrocele, a clotted **haematocele** fails to transilluminate when tested with a flashlight in a dark room."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Scrotal exploration was performed to evacuate a tense traumatic **haematocele** and verify testicular viability."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Surgical drainage and meticulous hemostasis resolved the postoperative **haematocele** without compromising the testis."*

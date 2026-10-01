@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a didactic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a didactic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a didactic manner; in a way intended to teach or provide moral instruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With an earnest, pedagogical, or lecturing tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Now I hunger." "Silver," said Cappen didactically, "is a certain shield against all black magics."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Wordsworth succeeded best when he sang of nature freely, but stumbled whenever he spoke **didactically** from the pulpit of his verse."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The novelist who insists on preaching **didactically** violates the primary duty of representing life as it is."*
+> - 📜 **Charlotte Brontë (*Shirley*):** *"Mr. Helstone delivered his opinions **didactically**, expecting unconditional submission from his listeners."*

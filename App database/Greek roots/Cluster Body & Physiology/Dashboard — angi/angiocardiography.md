@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The radiographic visualization of the heart and its blood vessels after injection of a radiopaque substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The radiographic visualization of the heart and its blood vessels after injection of a radiopaque substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical imaging technique of visualizing the heart cavities and major thoracic blood vessels through serial radiography after radiopaque injection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invasive diagnostic cardiology, fluoroscopic or digital radiographic tracking of contrast circulation to assess cardiac hemodynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiocardiography designates the radiographic visualization of the heart and its blood vessels after injection of a radiopaque substance."*
+> - 📜 **Charles Dotter (*Angiocardiography*):** *"The clinical introduction of selective **angiocardiography** revolutionized preoperative planning for intracardiac defects."*
+> - 📜 **Helen B. Taussig (*Congenital Malformations of the Heart*):** *"Through selective **angiocardiography**, we can distinguish pulmonary atresia from severe infundibular pulmonary stenosis."*
+> - 📜 **Werner Forssmann (*Experiments on Myself*):** *"Catheterizing the right heart paved the way for modern **angiocardiography**, visualizing chambers in living patients."*

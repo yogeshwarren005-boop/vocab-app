@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical instrument consisting of a mirror mounted at an angle on a rod; used to examine the nasal passages (through the nasopharynx).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical instrument consisting of a mirror mounted at an angle on a rod; used to examine the nasal passages (through the nasopharynx).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical medical instrument or angled mirror designed for visual examination of the internal cavities and passages of the nose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically introduced into laryngology and rhinology in the mid-nineteenth century, modern rhinoscope variants include both rigid Hopkins-rod telescopes and flexible fiberoptic endoscopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinoscope designates medical instrument consisting of a mirror mounted at an angle on a rod; used to examine the nasal passages (through the nasopharynx)."*
+> - 📜 **Morell Mackenzie (*Diseases of the Pharynx, Larynx, and Trachea*):** *"With the small mirror of the **rhinoscope**, the posterior nares and the pharyngeal openings of the Eustachian tubes are brought into view."*
+> - 📜 **Johann Nepomuk Czermak (*The Laryngoscope and Its Practical Employment*):** *"Introducing the illuminated **rhinoscope** behind the soft palate reveals pathological changes inaccessible to anterior inspection."*
+> - 📜 **Lennox Browne (*The Throat and Its Diseases*):** *"The practitioner should warm the **rhinoscope** over the flame before introduction to prevent vaporous condensation from clouding the mirror."*

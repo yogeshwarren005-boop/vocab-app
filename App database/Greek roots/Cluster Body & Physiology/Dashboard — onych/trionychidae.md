@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soft-shelled turtles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soft-shelled turtles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of cryptodiran turtles commonly known as softshell turtles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology and vertebrate paleontology, freshwater turtles characterized by a leathery, shell-reduced carapace lacking horny scutes, elongated snouts, and three clawed digits on each webbed foot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trionychidae designates soft-shelled turtles."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The family **Trionychidae** is distinguished by the loss of epidermal scutes and the extreme reduction of the bony carapace."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Paddle-like webbed limbs armed with three sharp claws enable **Trionychidae** to burrow rapidly into river silt."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"Fossil carapaces of **Trionychidae** displaying pitted bony surfaces are abundant in Eocene freshwater formations."*

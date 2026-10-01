@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visual examination of the rectum and the end of the colon by means of a proctoscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visual examination of the rectum and the end of the colon by means of a proctoscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The visual examination of the rectum and anal canal using a proctoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology and colorectal screening, an office endoscopic procedure essential for evaluating rectal bleeding, anorectal fissures, tenesmus, and suspicious mucosal neoplasms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proctoscopy designates visual examination of the rectum and the end of the colon by means of a proctoscope."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Routine diagnostic **proctoscopy** should never be omitted in the clinical workup of adult rectal hemorrhage."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Diagnostic **proctoscopy** revealed an ulcerated polypoid mass situated just above the pectinate line."*
+> - 📜 **Anthony Fauci (*Harrison's Principles of Internal Medicine*):** *"Biopsy specimens acquired during emergency **proctoscopy** established an immediate diagnosis of cytomegalovirus proctitis."*

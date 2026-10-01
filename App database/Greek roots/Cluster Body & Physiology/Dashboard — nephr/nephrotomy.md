@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incision into a kidney (usually to remove a kidney stone).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incision into a kidney (usually to remove a kidney stone).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical incision into the substance of a kidney, typically performed to drain an abscess, explore the renal pelvis, or remove renal calculi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative urology, a delicate parenchyma-splitting incision designed to expose internal calyces while minimizing vascular damage and renal ischemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrotomy designates incision into a kidney (usually to remove a kidney stone)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When suppuration within the renal pelvis threatens systemic sepsis, prompt exploratory **nephrotomy** is indicated to afford free drainage."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"I performed the first successful **nephrotomy** for calculus in an otherwise intact organ, opening the renal parenchyma along the convex border."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Through an incision in the loin, the kidney is mobilized and subjected to longitudinal **nephrotomy** for the extraction of deeply lodged stones."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bone-forming cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bone-forming cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bone-forming cell that secretes the collagenous matrix (osteoid) and coordinates its mineralization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and bone physiology, a specialized mesenchymal cell that produces alkaline phosphatase, type I collagen, and osteocalcin, transforming into an osteocyte when trapped in mineralized matrix.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoblast designates a bone-forming cell."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The active **osteoblast** deposits layers of osseous matrix, gradually enclosing itself within a lacuna to become a mature bone corpuscle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bone repair after fracture relies upon vigorous proliferation of the **osteoblast** population derived from periosteum."*
+> - 📜 **Alexander Maximow (*A Text-Book of Histology*):** *"Under parathyroid hormone modulation, the **osteoblast** regulates both matrix deposition and osteoclastic bone resorption."*

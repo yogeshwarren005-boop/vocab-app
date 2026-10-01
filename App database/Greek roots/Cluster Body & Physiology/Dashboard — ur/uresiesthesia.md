@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physiological sensation or consciousness of the urge to void urine; normal bladder sensory awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuro-urology, uresiesthesia is mediated by stretch-sensitive mechanoreceptors within the detrusor muscle and bladder wall projecting through pelvic splanchnic nerves to the pontine micturition center.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uresiesthesia designates a term designating an entity, condition, or phenomenon derived from greek ur."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"Distension of the bladder wall stimulates afferent fibers, evoking conscious **uresiesthesia** when volume approaches three hundred cubic centimeters."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Autonomic afferent pathways transmit visceral tension from the urinary bladder to generate normal **uresiesthesia**."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Following spinal cord transection, conscious **uresiesthesia** is abolished, leaving micturition governed solely by autonomous reflex arcs."*

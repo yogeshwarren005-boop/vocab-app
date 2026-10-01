@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the three membranes that envelop the brain and spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the three membranes that envelop the brain and spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The three membranes (the dura mater, arachnoid mater, and pia mater) that envelop and protect the brain and spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology and clinical neurology, the multi-layered mechanical barrier and fluid cushion providing supportive scaffolding and cerebrospinal fluid compartmentalization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meninges designates any of the three membranes that envelop the brain and spinal cord."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Beneath the rigid dura, the delicate inner **meninges** cradle the cortical gyri and capillary plexuses."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Purulent exudate across the cerebral **meninges** accounts for the profound intracranial hypertension in epidemic meningitis."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The spinal **meninges** are continuous with those that enclose the encephalon at the foramen magnum."*

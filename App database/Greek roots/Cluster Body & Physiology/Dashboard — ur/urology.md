@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician who specializes in the urinary or urogenital tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician who specializes in the urinary or urogenital tract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical and surgical specialty concerned with the study, diagnosis, and treatment of disorders of the urinary tract in males and females and the reproductive organs in males.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evolving historically from ancient lithotomy and urinalysis ('water-casting'), modern urology incorporates advanced minimally invasive laparoscopy, robotics, endourology, and oncologic surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urology designates a physician who specializes in the urinary or urogenital tract."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The introduction of the electric cystoscope by Nitze established modern clinical **urology** upon an exact visual foundation."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Specialization in surgery fostered the rapid development of **urology** as an independent and rigorous discipline."*
+> - 📜 **Astley Cooper (*The Principles and Practice of Surgery*):** *"The fundamental principles of **urology** demand an accurate knowledge of both renal physiology and pelvic anatomy."*

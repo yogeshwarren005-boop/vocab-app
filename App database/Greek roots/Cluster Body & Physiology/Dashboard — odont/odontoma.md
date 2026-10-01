@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek odont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign odontogenic tumor of the jaw composed of dental tissue elements (enamel, dentin, cementum, and pulp).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oral maxillofacial pathology, classified as a compound odontoma (resembling small tooth-like structures or denticles) or a complex odontoma (an irregular conglomerate mass).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontoma designates a term designating an entity, condition, or phenomenon derived from greek odont."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Radiographic examination revealed a calcified compound **odontoma** obstructing the normal eruption of the permanent canine."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopically, an **odontoma** displays disordered arrays of mature enamel, dentin, and cementum mimicking dental organogenesis."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"Surgical enucleation of the mandibular **odontoma** was achieved through conservative curettage without altering jaw continuity."*

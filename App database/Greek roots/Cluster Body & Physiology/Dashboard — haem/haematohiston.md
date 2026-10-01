@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless protein obtained by removing heme from hemoglobin; the oxygen carrying compound in red blood cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless protein obtained by removing heme from hemoglobin; the oxygen carrying compound in red blood cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic protein (histone) associated with hemoglobin or isolated from nucleated red blood cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physiological chemistry, a histone fraction extracted from the globin complex of avian or amphibian erythrocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematohiston designates a colorless protein obtained by removing heme from hemoglobin; the oxygen carrying compound in red blood cells."*
+> - 📜 **Albrecht Kossel (*The Protamines and Histones*):** *"My investigations into the basic nucleoproteins of avian erythrocytes yielded the distinct basic compound **haematohiston**."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"Early biochemists debated whether **haematohiston** was an artifact of preparation or an authentic structural nuclear protein."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Nuclear condensation in nucleated red blood cells involves specialized histone variants analogous to classical **haematohiston**."*

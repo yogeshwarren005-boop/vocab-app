@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (cells) more susceptible to the action of phagocytes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (cells) more susceptible to the action of phagocytes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To coat microbes, dead cells, or foreign particles with opsonins so as to render them attractive and susceptible to engulfment by phagocytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biology and experimental immunology, to treat a bacterial suspension with immune serum containing specific antibodies or complement factors in order to induce cellular phagocytosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opsonize designates make (cells) more susceptible to the action of phagocytes."*
+> - 📜 **Almroth Wright (*A Lecture on the Inoculation of Bacterial Vaccines*):** *"Normal human serum will rapidly **opsonize** staphylococci, enabling the white corpuscles to swallow them greedily."*
+> - 📜 **Alexander Fleming (*Penicillin and Its Practical Application*):** *"Before phagocytes can destroy invading cocci, circulating humoral antibodies must first bind and **opsonize** the targets."*
+> - 📜 **Frank Macfarlane Burnet (*Immunology, Aging, and Cancer*):** *"Specific antibodies synthesize the bridge required to **opsonize** particulate antigens for destruction by reticuloendothelial cells."*

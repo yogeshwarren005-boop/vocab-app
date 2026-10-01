@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of spiritual beings or phenomena.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of spiritual beings or phenomena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or doctrine of spiritual beings, spirits, or the Holy Spirit; pneumatics in theological philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical metaphysics and natural philosophy, the systematic treatise on immaterial spiritual substances (angels, human souls, God) or early medical theories of vital animal spirits (pneuma).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumatology designates the study of spiritual beings or phenomena."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Rational **pneumatology** attempts to prove the immateriality and immortality of the human soul through pure concepts."*
+> - 📜 **Jonathan Edwards (*Freedom of the Will*):** *"Orthodox Reformed **pneumatology** expounds the regenerating efficacy of the Divine Spirit upon the corrupt human heart."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Stoic **pneumatology** conceived of the cosmos as animated by a fiery, intelligent breath permeating all matter."*

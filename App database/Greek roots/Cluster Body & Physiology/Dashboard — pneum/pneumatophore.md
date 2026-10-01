@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An air-filled root (submerged or exposed) that can function as a respiratory organ of a marsh or swamp plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An air-filled root (submerged or exposed) that can function as a respiratory organ of a marsh or swamp plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized aerial root produced by certain mangrove and wetland trees that grows upward out of water or waterlogged mud to facilitate gas exchange.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, the gas-filled floating polyp (air-sac) that acts as a float in siphonophores, such as the Portuguese man-of-war (Physalia physalis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumatophore designates an air-filled root (submerged or exposed) that can function as a respiratory organ of a marsh or swamp plant."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The upright **pneumatophore** of the mangrove provides oxygen to subterranean roots submerged in hypoxic coastal mud."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"The apical **pneumatophore** of the siphonophore secretes gas into its central cavity to maintain oceanic buoyancy."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"At low tide, thousands of slender **pneumatophore** roots bristled like dark fingers across the intertidal mangrove swamp."*

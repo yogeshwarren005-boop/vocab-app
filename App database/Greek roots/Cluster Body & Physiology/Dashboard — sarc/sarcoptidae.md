@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small whitish mites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small whitish mites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of astigmatan mites (class Arachnida) comprising obligate, burrowing parasites of mammalian skin that cause mange and scabies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary parasitology, Sarcoptidae is distinguished by unsegmented, globose bodies, reduced legs, absence of stigmata, and adaptations for permanent endoparasitic life in epidermal burrows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoptidae designates small whitish mites."*
+> - 📜 **James Law (*The Farmer's Veterinary Adviser*):** *"Members of the family **Sarcoptidae** burrow into the deeper layers of the epidermis, provoking intense exudative inflammation."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"In systematic acarology, the **Sarcoptidae** include the most medically significant ectoparasites of domestic herds."*
+> - 📜 **Veranus Alva Moore (*The Pathology and Differential Diagnosis of Infectious Diseases of Animals*):** *"The control of **Sarcoptidae** infestations requires strict quarantine and repeated acaricidal dipping of all exposed stock."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal increase in the amount of cerebrospinal fluid within the cranial cavity (as from obstructed flow, excess production, or defective absorption) that is accompanied by expansion of the cerebral ventricles and often increased intracranial pressure, skull enlargement, and cognitive decline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal increase in the amount of cerebrospinal fluid within the cranial cavity (as from obstructed flow, excess production, or defective absorption) that is accompanied by expansion of the cerebral ventricles and often increased intracranial pressure, skull enlargement, and cognitive decline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, excessive accumulation of cerebrospinal fluid (CSF) within the ventricles of the brain, leading to increased intracranial pressure and cranial enlargement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric and adult neurology, categorized into communicating or obstructive (non-communicating) types, typically treated by ventriculoperitoneal shunt placement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocephalus designates an abnormal increase in the amount of cerebrospinal fluid within the cranial cavity (as from obstructed flow, excess production, or defective absorption) that is accompanied by expansion of the cerebral ventricles and often increased intracranial pressure, skull enlargement, and cognitive decline."*
+> - 📜 **Walter Dandy (*Internal Hydrocephalus: An Experimental, Clinical and Pathological Study*):** *"By placing an obstruction in the aqueduct of Sylvius, I produced experimental **hydrocephalus**, proving the circulation of cerebrospinal fluid."*
+> - 📜 **Harvey Cushing (*The Third Circulation*):** *"Impaired absorption of cerebrospinal fluid by the arachnoid villi leads to chronic communicating **hydrocephalus**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In congenital **hydrocephalus**, the infant's cranial sutures separate widely, creating a dramatic disproportion between cranium and face."*

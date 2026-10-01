@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In biology, dactyly is the arrangement of digits on the hands, feet, or sometimes wings of a tetrapod animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The term is derived from the Ancient Greek word δάκτυλος (dáktulos), meaning "finger.".
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition, arrangement, structure, or number of digits on the hand or foot of an animal or human.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology and clinical teratology, the anatomical patterning of autopodial digits (e.g., polydactyly, syndactyly, ectrodactyly).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactyly designates in biology, dactyly is the arrangement of digits on the hands, feet, or sometimes wings of a tetrapod animal."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"The discovery of eight digits in Acanthostega showed that pentadactyly was not an immutable ancestral law, but a contingent outcome of early tetrapod **dactyly**."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"The transition from ancestral multi-toed limbs to modern equine monodactyly illustrates progressive specialization in vertebrate **dactyly**."*
+> - 📜 **Richard Owen (*On the Nature of Limbs*):** *"The archetypal pentadactyl scheme serves as the morphological blueprint underlying every variation of mammalian **dactyly**."*

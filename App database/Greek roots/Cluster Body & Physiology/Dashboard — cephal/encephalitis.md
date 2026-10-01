@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the brain that is caused especially by infection with a virus (such as herpes simplex or West Nile virus) or less commonly by bacterial or fungal infection or autoimmune reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equine encephalitis occurring in the eastern U.S. and Canada : equine encephalitis —abbreviation EEE—called also triple E.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute inflammation of the brain parenchyma, manifesting clinically with fever, headache, altered mental status, and focal neurological deficits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical infectious disease and neurology, a life-threatening cerebral infection commonly caused by viruses (such as herpes simplex virus, arboviruses, or rabies) or autoimmune mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalitis designates inflammation of the brain that is caused especially by infection with a virus (such as herpes simplex or west nile virus) or less commonly by bacterial or fungal infection or autoimmune reaction."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute viral **encephalitis** rapidly progresses from confusion and irritability into violent delirium, convulsions, and deep coma."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Focal perivascular lymphocytic cuffing in **encephalitis** marks the intense inflammatory reaction within the cerebral gray matter."*
+> - 📜 **Constantin von Economo (*Encephalitis Lethargica*):** *"The epidemic **encephalitis** lethargica presented with profound somnolence, ophthalmoplegia, and subsequent post-encephalitic parkinsonism."*

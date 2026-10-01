@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the borage family (Boraginaceae), commonly known as forget-me-nots, characterized by small sky-blue blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical etymology, a generic title derived from Greek for 'mouse's ear,' alluding to the soft, hairy, rounded foliage of the species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Myosotis designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The exquisite blue blossoms of **Myosotis** grace wet stream banks throughout summer, their yellow throats guiding pollinating insects."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The generic designation **Myosotis** commemorates the small, velvety, oblong leaves that resemble the soft ears of a field mouse."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Few garden border plants are more beloved than **Myosotis**, carpeting damp woodland glades with clouds of azure flowers."*

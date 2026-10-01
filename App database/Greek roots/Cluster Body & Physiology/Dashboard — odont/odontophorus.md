@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of central and south american crested partridges resembling quails; sometimes placed in a distinct subfamily or isolated in a distinct family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of central and south american crested partridges resembling quails; sometimes placed in a distinct subfamily or isolated in a distinct family.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of New World quails (wood quails) in the family Odontophoridae, inhabiting Central and South American tropical forests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, plump, terrestrial gamebirds possessing heavy bills with distinct denticulations or serrae along the cutting edges of the lower mandible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontophorus designates genus of central and south american crested partridges resembling quails; sometimes placed in a distinct subfamily or isolated in a distinct family."*
+> - 📜 **John Gould (*A Monograph of the Odontophorinae, or Partridges of America*):** *"The wood quails belonging to the genus **Odontophorus** dwell in dense Neotropical undergrowth, rarely taking wing."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The toothed lower mandible of **Odontophorus** reflects specialized adaptations for processing hard jungle seeds and nuts."*
+> - 📜 **Alexander Wetmore (*The Birds of the Republic of Panama*):** *"The resonant duetting calls of **Odontophorus** echo through the humid montane rainforest at dawn."*

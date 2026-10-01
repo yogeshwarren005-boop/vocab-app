@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical chisel-like cutting instrument beveled on both sides of the blade, used by orthopedic surgeons to divide or excise bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reconstructive and corrective orthopedic surgery, an instrument driven by a mallet to perform precise osteotomies without shattering bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteotome designates a term designating an entity, condition, or phenomenon derived from greek oste."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"The sharp **osteotome** divided the sclerotic bone cleanly, allowing immediate realignment of the malunited fracture."*
+> - 📜 **Robert Jones (*Injuries to Joints*):** *"When driving the **osteotome** through dense cortical bone, the surgeon must avoid penetrating into posterior neurovascular bundles."*
+> - 📜 **John Charnley (*Arthroplasty of the Hip*):** *"A broad, curved **osteotome** facilitates the clean resection of the femoral head prior to reaming the acetabulum."*

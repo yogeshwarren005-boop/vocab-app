@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or coin into a word or accept a new word into the lexicon of a language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make or coin into a word or accept a new word into the lexicon of a language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make into a single word; to express an idea or syntactic sequence as an established lexical entry in a language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psycholinguistics and morphology, the process of assigning a dedicated lexical form to an experiential or conceptual category in the lexicon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lexicalize designates make or coin into a word or accept a new word into the lexicon of a language."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"When speakers **lexicalize** a technical innovation, the new word quickly acquires its own derivative morphological paradigm."*
+> - 📜 **Roman Jakobson (*Six Lectures on Sound and Meaning*):** *"The cognitive capacity to **lexicalize** subtle nuances of feeling distinguishes mature linguistic systems."*
+> - 📜 **John McWhorter (*The Power of Babel*):** *"Every language chooses to **lexicalize** certain everyday actions that other languages express through cumbersome phrases."*

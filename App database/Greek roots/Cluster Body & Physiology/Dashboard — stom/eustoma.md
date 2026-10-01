@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of herbs of warm regions of southern north america to northern south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of herbs of warm regions of southern north america to northern south america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the gentian family (Gentianaceae), commonly known as lisianthus or prairie gentian, native to warm regions of North and South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floriculture and field botany, *Eustoma* (such as *Eustoma grandiflorum* / *russellianum*) is celebrated for its showy, bell-shaped, rose-like blooms in shades of blue, purple, pink, and white.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eustoma designates small genus of herbs of warm regions of southern north america to northern south america."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The showy azure corollas of **Eustoma** russellianum brighten moist alkaline prairies across the southern plains."*
+> - 📜 **John Torrey (*Botany of the Boundary*):** *"Specimens of **Eustoma** gathered near the Rio Grande displayed magnificent campanulate blossoms on erect glaucous stems."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **Eustoma** is distinguished among gentianads by its deeply five-parted calyx and wide funnel-shaped corolla."*

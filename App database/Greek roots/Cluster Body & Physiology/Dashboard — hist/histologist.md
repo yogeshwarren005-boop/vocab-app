@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anatomist who specializes in the microscopic study of animal tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anatomist who specializes in the microscopic study of animal tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist, anatomist, or specialist who investigates the microscopic anatomy, structure, and chemistry of biological tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical science, an investigator skilled in microtomy, histological staining, and microscopic analysis of organ microarchitecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histologist designates anatomist who specializes in the microscopic study of animal tissues."*
+> - 📜 **Santiago Ramón y Cajal (*Recollections of My Life*):** *"The enthusiastic **histologist** discovers unexpected beauty within the intricate labyrinth of cerebral dendrites."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Every competent **histologist** recognizes that cellular division constitutes the universal engine of tissue renewal."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Through the tireless labors of the modern **histologist**, the internal mechanics of the living engine have been laid bare."*

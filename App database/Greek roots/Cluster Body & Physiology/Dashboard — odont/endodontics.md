@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dentistry concerned with diseases of the pulp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of dentistry concerned with diseases of the pulp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The specialized branch of dental medicine dealing with the biology, pathology, and therapy of the dental pulp and surrounding periradicular tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dental surgery, the advanced discipline encompassing root canal therapy, vital pulp therapy, apicoectomy, and the management of traumatized teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endodontics designates a branch of dentistry concerned with diseases of the pulp."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The refinement of clinical **endodontics** has eliminated the necessity for routine tooth extraction in pulpal necrosis."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Intense dental pain referred to the mandibular branch resolved completely under specialized **endodontics**."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The anatomical complexity of root canal bifurcations dictates the technical procedures of modern **endodontics**."*

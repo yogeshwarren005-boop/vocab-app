@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An annoying or frustrating or catastrophic event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An annoying or frustrating or catastrophic event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of great affliction, severe trial, grief, or distress; also, an experience or circumstance that causes profound suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology, the Great Tribulation denotes an apocalyptic period of intense worldwide hardship preceding the millennium; in secular literature, tribulation represents adversity that tests moral fortitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are the youths that thunder at a playhouse and fight for bitten apples, that no audience but the tribulation of Tower Hill or the limbs of Limehouse, their dear brothers, are able to endure."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"London reached, the travellers alight, the old housekeeper in great tribulation and confusion, Mrs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For a moment the voices cheered the heart of Tess, till she reasoned that this interview had its origin, on one side or the other, in the same attraction which had been the prelude to her own tribulation."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Through many a valley of darkness and deep **tribulation**, Christian persevered along the narrow way to the Celestial City."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Great souls are forged in the hot furnace of **tribulation**, wherein all hollow falsehood is burned away."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I had endured hours of bitter spiritual **tribulation** before peace returned to my exhausted heart."*

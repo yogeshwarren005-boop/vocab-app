@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gastr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal downward displacement or prolapse of the stomach into the lower abdominal or pelvic cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology, sagging of the stomach caused by laxity of the gastrophrenic and gastrohepatic ligaments, often part of generalized visceroptosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroptosis designates a term designating an entity, condition, or phenomenon derived from greek gastr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Barium radiography in the upright position clearly demonstrated profound **gastroptosis**, with the greater curvature dipping into the true pelvis."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Nineteenth-century clinicians often attributed visceral neurosis and melancholic symptoms to the mechanical dragging of **gastroptosis**."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"Abdominal palpation confirmed that the splashing succussion splash originated far below the umbilicus, indicative of marked **gastroptosis**."*

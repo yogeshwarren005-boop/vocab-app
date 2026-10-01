@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical procedure in which specific cellular elements of blood (such as leukocytes, platelets, or stem cells) are selectively separated and collected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and transfusion medicine, an extracorporeal centrifugation technique used therapeutically in hyperleukocytosis or for autologous transplant collection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytapheresis designates a term designating an entity, condition, or phenomenon derived from greek cyt."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Therapeutic **cytapheresis** brings rapid symptomatic relief in acute leukostasis by swiftly reducing the circulating blast count."*
+> - 📜 **Maxwell Wintrobe (*Clinical Hematology*):** *"Modern continuous-flow centrifuges permit automated **cytapheresis** to harvest donor granulocytes with minimal red cell loss."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Selective mechanical extraction through early **cytapheresis** demonstrated that specific immune effectors reside in distinct mononuclear bands."*

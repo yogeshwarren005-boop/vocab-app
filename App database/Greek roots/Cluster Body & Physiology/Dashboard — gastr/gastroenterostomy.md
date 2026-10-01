@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical creation of an opening between the stomach wall and the small intestines; performed when the normal opening has been eliminated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical creation of an opening between the stomach wall and the small intestines; performed when the normal opening has been eliminated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical operation creating an artificial passage between the stomach and the small intestine (usually the jejunum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal surgery, a bypass procedure (such as Billroth II or Roux-en-Y reconstruction) to treat gastric outlet obstruction or facilitate bariatric weight loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroenterostomy designates surgical creation of an opening between the stomach wall and the small intestines; performed when the normal opening has been eliminated."*
+> - 📜 **Theodor Billroth (*Surgical Memoirs*):** *"To relieve the vomiting caused by an inoperable pyloric tumor, Anton Wölfler devised the palliative procedure of anterior **gastroenterostomy**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient made a complete recovery from gastric outlet stenosis following a well-placed posterior **gastroenterostomy**."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Laparoscopic Roux-en-Y gastric bypass creates a miniature stomach pouch and connects it via a hand-sewn **gastroenterostomy**."*

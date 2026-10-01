@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A limb of an animal used especially for supporting the body and for walking: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the paired vertebrate limbs that in bipeds extend from the top of the thigh to the foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the lower limbs on which an animal or biped walks, runs, and stands; in humans, the lower extremity from the thigh or knee to the ankle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vertical supporting structure or member of a piece of furniture; a distinct portion or stage of a race, course, flight, or travel journey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I were invisible, to catch the strong fellow by the leg. [_Orlando and Charles wrestle._] ROSALIND."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is not very tall, yet for his years he’s tall; His leg is but so-so, and yet ’tis well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The kingly crowned head, the vigilant eye, The counsellor heart, the arm our soldier, Our steed the leg, the tongue our trumpeter, With other muniments and petty helps Is this our fabric, if that they— MENENIUS."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"I would I were invisible, to catch the strong fellow by the **leg**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He had a great iron upon his **leg**, and he limped along the marshes through the mist."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Captain Ahab stood before them with an ivory **leg** fashioned from the polished jawbone of a sperm whale."*

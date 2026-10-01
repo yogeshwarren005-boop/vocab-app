@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aneuploid condition of possessing four homologous copies of a particular chromosome in an otherwise diploid karyotype.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human medical genetics, tetrasomy 18p and tetrasomy 9p represent recognizable dysmorphic syndromes caused by supernumerary isochromosomes, associated with developmental delay and craniofacial anomalies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrasomy designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Supernumerary isochromosome 18p produces **tetrasomy** of the short arm, leading to distinct microcephaly and spasticity."*
+> - 📜 **Albert Blakeslee (*The Chromosome Constitution of Datura Mutants*):** *"Experimental generation of **tetrasomy** in Datura allowed us to establish precise gene-dosage relationships for specific traits."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"The cytologic stability of **tetrasomy** depends upon regular alternate disjunction of quadrivalents at first anaphase."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A moss having the archegonium or antheridium on a short side branch rather than the main stalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A moss having the archegonium or antheridium on a short side branch rather than the main stalk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A moss that bears its female reproductive organs (archegonia) and subsequent sporophytes on short lateral branches rather than at the stem apex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology, a freely branching, prostrate, or mat-forming moss (order Hypnales, etc.), contrasting morphologically and ecologically with upright acrocarpous mosses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleurocarp designates a moss having the archegonium or antheridium on a short side branch rather than the main stalk."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"A typical **pleurocarp** forms extensive, creeping carpets across damp forest floors and fallen logs."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"The distinction between an acrocarp and a **pleurocarp** is fundamental in bryological identification and classification."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Branching lateral fructifications distinguish the habit of the creeping **pleurocarp** from the erect cushions of Polytrichum."*

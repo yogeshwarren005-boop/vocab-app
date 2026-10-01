@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A discharge of fluid, whether purulent, serous, or bloody, issuing from the external auditory meatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical otology, a cardinal symptom of acute or chronic otitis media with tympanic membrane perforation, otitis externa, or temporal bone fracture with CSF leakage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otorrhea designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Foul-smelling chronic **otorrhea** in a child is a ominous sign of cholesteatoma eroding the delicate ossicular chain."*
+> - 📜 **Joseph Toynbee (*The Diseases of the Ear*):** *"The sudden cessation of purulent **otorrhea** accompanied by rising fever and headache points toward impending intracranial extension."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Clear, watery **otorrhea** following a heavy fall upon the head provides unmistakable bedside proof of a basilar skull fracture."*

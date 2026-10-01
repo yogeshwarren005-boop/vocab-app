@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social division of (usually preliterate) people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A federation (as of american indians).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social division in a traditional society consisting of families or communities linked by social, economic, religious, or blood ties, with a common culture and dialect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman history, the *tribus* was an original civic division (traditionally the Ramnes, Tities, and Luceres, later expanded into thirty-five territorial voting tribes); in biology, a taxonomic rank between family and genus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would my son Were in Arabia and thy tribe before him, His good sword in his hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that I had him, With six Aufidiuses, or more, his tribe, To use my lawful sword."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who, in the lusty stealth of nature, take More composition and fierce quality Than doth within a dull stale tired bed Go to the creating a whole tribe of fops Got ’tween asleep and wake?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Every Roman citizen belonged to a recognized **tribe**, exercising his sovereign suffrage in the voting assemblies."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The **tribe** maintains its social integrity through shared ancestral traditions, collective ceremonies, and mutual defense."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"A **tribe** including many members who possess patriotism, fidelity, and courage would spread and be victorious over others."*

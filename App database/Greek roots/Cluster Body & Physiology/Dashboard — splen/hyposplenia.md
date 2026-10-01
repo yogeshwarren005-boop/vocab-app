@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek splen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subnormal or reduced function of the spleen, resulting in diminished reticuloendothelial filtration and impaired clearance of blood-borne encapsulated bacteria and abnormal erythrocytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, hyposplenia is commonly seen in sickle cell anemia following repetitive microvascular infarctions (autosplenectomy), celiac disease, and chronic graft-versus-host disease, marked by Howell-Jolly bodies on peripheral blood smear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyposplenia designates a term designating an entity, condition, or phenomenon derived from greek splen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The appearance of Howell-Jolly bodies within circulating erythrocytes serves as a reliable microscopic hallmark of **hyposplenia**."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Repetitive vaso-occlusive splenic infarctions in sickle cell disease lead steadily to functional **hyposplenia** in early childhood."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Patients affected by chronic **hyposplenia** require vigilant surveillance against sudden fulminating encapsulated bacteremia."*

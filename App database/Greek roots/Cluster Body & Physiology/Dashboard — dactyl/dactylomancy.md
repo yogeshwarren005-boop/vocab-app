@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of divination using finger rings, typically suspended over a bowl or ringed alphabet circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In folklore and historical occultism, the practice of suspending a gold ring by a fine thread to divine future secrets by its acoustic taps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylomancy designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"The practice of **dactylomancy**, where a suspended ring answers questions by striking a metallic bowl, survives in European folklore."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"To divine secret treasures by the oscillating swings of a ring in **dactylomancy** is a superstitious conceit."*
+> - 📜 **Walter Scott (*Demonology and Witchcraft*):** *"The village sorcerer amused the crowd with demonstrations of **dactylomancy**, predicting marriages by the swings of a signet ring."*

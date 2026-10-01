@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the hypothalamus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the hypothalamus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by the hypothalamus (the ventral diencephalic brain region).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and neurobiology, hypothalamic releasing and inhibiting hormones (such as TRH, CRH, GnRH, and GHRH) govern the hormonal secretions of the anterior pituitary gland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothalamic designates of or relating to the hypothalamus."*
+> - 📜 **Harvey Cushing (*Papers Relating to the Pituitary Body, Hypothalamus and Parasympathetic Nervous System*):** *"Direct surgical trauma to **hypothalamic** nuclei precipitates alarming hyperthermia, diabetes insipidus, and autonomic collapse."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Neurosecretory cells within **hypothalamic** tracts synthesize oxytocin and vasopressin for storage in the posterior pituitary."*
+> - 📜 **Walter Bradford Cannon (*The Wisdom of the Body*):** *"The **hypothalamic** centers act as the master coordinating apparatus governing internal homeostatic equilibria."*

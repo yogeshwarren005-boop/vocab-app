@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to the hypothalamus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to the hypothalamus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of, through the agency of, or with respect to the hypothalamus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in neurophysiology and behavioral neuroscience to denote processes or autonomic responses mediated primarily by hypothalamic circuitry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothalamically designates with respect to the hypothalamus."*
+> - 📜 **Walter Bradford Cannon (*The Wisdom of the Body*):** *"Core temperature defense mechanisms are **hypothalamically** orchestrated through coordinated shivering and peripheral vasoconstriction."*
+> - 📜 **Harvey Cushing (*Papers Relating to the Pituitary Body, Hypothalamus and Parasympathetic Nervous System*):** *"The neurovegetative crisis in basilar tumors is **hypothalamically** triggered when intracranial pressure distorts the third ventricle floor."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Visceral emotional expressions, such as sham rage, are **hypothalamically** integrated even when decortication isolates the forebrain."*

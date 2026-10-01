@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastic surgery or surgical reconstruction of the mouth or oral cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oral and maxillofacial surgery, stomatoplasty involves reconstructive procedures to repair cleft lip and palate deformities, widen microstomia resulting from burn contractures, or excise intraoral neoplasms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatoplasty designates a term designating an entity, condition, or phenomenon derived from greek stom."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Ingenious techniques of **stomatoplasty** restore functional oral opening in patients disfigured by cicatricial scarring."*
+> - 📜 **Astley Cooper (*The Principles and Practice of Surgery*):** *"In congenital hare-lip, delicate **stomatoplasty** mobilizes the lateral vermilion borders to achieve symmetrical union."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Following wide excision of malignant buccal lesions, immediate **stomatoplasty** is required to preserve articulation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting by absorption through the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting by absorption through the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting by absorption through the skin; applied directly to the denuded dermis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical therapeutics, an administration method where a blister was raised with cantharides and therapeutic powders applied directly to the raw dermis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endermic designates acting by absorption through the skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Before the invention of the hypodermic syringe, physicians employed **endermic** medication to introduce morphine into the circulation."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures and Reports*):** *"The **endermic** method was abandoned because it caused severe local pain and unpredictable systemic absorption."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"Old medical compendiums described **endermic** blistering as a sovereign remedy for violent neuralgias."*

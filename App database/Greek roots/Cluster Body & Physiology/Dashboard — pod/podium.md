@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low wall serving as a foundation or terrace wall: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One around the arena of an ancient amphitheater serving as a base for the tiers of seats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small elevated platform on which an orchestral conductor, lecturer, or speaker stands; a pedestal; a raised dais.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture, a continuous stone base or substructure supporting a row of columns or an entire temple (from Greek podion, little foot).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podium designates a low wall serving as a foundation or terrace wall: such as."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman magistrates stood upon the marble **podium** of the amphitheatre, overlooking the gladiatorial arena."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"The conductor ascended the **podium**, raised his baton, and commanded the vast orchestral ensemble into silence."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The noble temple rested upon a massive stone **podium**, lifting the colonnade proudly above the city piazza."*

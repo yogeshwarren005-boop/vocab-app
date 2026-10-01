@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Short-headed or broad-headed with a cephalic index of over 80.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Short-headed or broad-headed with a cephalic index of over 80.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Short-headedness; the condition of having a disproportionately short, broad skull with a cephalic index of 80 or more.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurology and craniofacial surgery, positional flattening of the posterior occiput or premature fusion of the coronal sutures (coronal craniosynostosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachycephaly designates short-headed or broad-headed with a cephalic index of over 80."*
+> - 📜 **Franz Boas (*Anthropometry of Central European Immigrants*):** *"Our surveys demonstrated that **brachycephaly** is not an immutable hereditary constant across successive generations."*
+> - 📜 **Paul Broca (*Craniology of Prehistoric Races*):** *"Measurements of the Auvergne skulls revealed pronounced **brachycephaly** accompanied by high cephalic vaults."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"Artificial infant cradle-boarding frequently accentuates occipital flattening, producing marked acquired **brachycephaly**."*

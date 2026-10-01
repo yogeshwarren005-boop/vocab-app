@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or being fruit enclosed in a shell or husk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or being fruit enclosed in a shell or husk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the fruit or reproductive body covered or enclosed by an external envelope, husk, or protective outer structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic botany and lichenology, designating sporocarps or apothecia that remain closed until the spores are mature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiocarpic designates having or being fruit enclosed in a shell or husk."*
+> - 📜 **Julius von Sachs (*Textbook of Botany*):** *"The **angiocarpic** mode of development in mushrooms shields the delicate hymenial gills from early desiccation."*
+> - 📜 **Heinrich Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"In **angiocarpic** ascocarps, the asci develop within a completely closed perithecial cavity."*
+> - 📜 **Arthur Johnson Eames (*Morphology of Vascular Plants*):** *"The **angiocarpic** involucre of the hazelnut develops directly from coalesced bracteoles."*

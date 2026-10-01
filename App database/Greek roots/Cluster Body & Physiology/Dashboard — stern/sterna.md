@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of sterninae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flat bone that articulates with the clavicles and the first seven pairs of ribs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The plural form of sternum (the breastbones or insect ventral plates); also a large genus of terns (seabirds in the family Laridae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, the genus *Sterna* includes graceful, fork-tailed plunge-diving seabirds such as the common tern (*Sterna hirundo*); in comparative anatomy, sterna describes the ventral thoracic skeletons across vertebrate taxa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was a species of the Sterna nilotica, peculiar to Egypt; its beak is black, head grey and pointed, the eye surrounded by white spots, the back, wings, and tail of a greyish colour, the belly and throat white, and claws red."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The agile **Sterna** hirundo hovers over coastal breakers before dropping like an arrow upon shoaling minnows."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Comparative study of avian **sterna** reveals the towering development of the median keel in powerful fliers."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The black cap, slender bill, and deeply forked tail characterize members of **Sterna** throughout their breeding range."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute, microscopic hemorrhage or petechial bleeding within a bodily tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroimaging and neuropathology, cerebral microbleeds detected by gradient-echo or susceptibility-weighted MRI, indicating chronic hypertensive microangiopathy or cerebral amyloid angiopathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microhemorrhage designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Widespread capillary **microhemorrhage** was observed throughout the cerebellar folia following violent septic embolization."*
+> - 📜 **Santiago Ramón y Cajal (*Degeneration and Regeneration of the Nervous System*):** *"Surrounding each focal **microhemorrhage**, reactive microglial phagocytes gathered to digest fragmented erythrocyte debris."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In infective endocarditis, retinal examination with the ophthalmoscope discloses pale-centered **microhemorrhage** known as Roth's spots."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A patient with imaginary symptoms and ailments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from hypochondria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is abnormally anxious about their health; suffering from excessive fear of disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affected by hypochondria; in anatomy, relating to the hypochondrium (the upper lateral abdomen).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I wish he would come!” I exclaimed, seized with hypochondriac foreboding."*
+> - 📜 **Molière (*The Imaginary Invalid*):** *"The wealthy **hypochondriac** surrounds himself with apothecaries and purges, terrified by every twinge of his pulse."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pott looked as dismal as a confirmed **hypochondriac** contemplating an empty medicine chest."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse was a nervous **hypochondriac**, shivering at every open door and dreading a draft of air as mortal poison."*

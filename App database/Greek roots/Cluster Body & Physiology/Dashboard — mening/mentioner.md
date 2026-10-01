@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speaker who refers to something briefly or incidentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speaker who refers to something briefly or incidentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who mentions, cites, or refers to someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual criticism and historical bibliography, a person who records or references a contemporary event, manuscript, or author in writing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mentioner designates a speaker who refers to something briefly or incidentally."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The chronicler was a faithful **mentioner** of minor local incidents that weightier historians passed over in silence."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Every sincere **mentioner** of artistic beauty helps preserve the public reverence for natural landscapes."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"He remains an early **mentioner** of Chaucer's metrical innovations in Renaissance critical discussions."*

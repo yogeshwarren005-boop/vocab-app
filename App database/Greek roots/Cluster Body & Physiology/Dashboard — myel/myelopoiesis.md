@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production, development, and maturation of blood cells, especially granulocytes and other non-lymphoid elements, in the bone marrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and stem cell biology, the continuous differentiation process from pluripotential hematopoietic stem cells into mature neutrophils, eosinophils, basophils, monocytes, and erythrocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelopoiesis designates a term designating an entity, condition, or phenomenon derived from greek myel."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Bone marrow remains the primary site of active **myelopoiesis** throughout adult human life."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Under conditions of severe peripheral hemolysis, compensatory **myelopoiesis** causes marked marrow hyperplasia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Infection accelerates **myelopoiesis**, resulting in a rapid shift to the left with circulating band neutrophils."*

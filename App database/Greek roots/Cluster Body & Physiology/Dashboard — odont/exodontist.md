@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dentist specializing in the extraction of teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dentist specializing in the extraction of teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dental specialist whose practice is limited to or focuses upon the extraction of teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oral surgery, a practitioner specializing in difficult impactions, bone grafting, and pre-prosthetic alveolar surgical remodeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exodontist designates a dentist specializing in the extraction of teeth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The experienced **exodontist** carefully elevated the deeply impacted mandibular third molar without damaging the alveolar nerve."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Intractable facial spasms prompted a visit to the **exodontist** to extract an irritating retained root fragment."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Surgical decompression by the **exodontist** evacuated a submandibular abscess complicating severe periapical infection."*

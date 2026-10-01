@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to microsomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to microsomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from microsomes (the vesicle fragments of the endoplasmic reticulum obtained by cell fractionation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and biochemistry, the liver microsomal cytochrome P450 enzyme system plays an indispensable role in phase I oxidative metabolism of drugs and xenobiotics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsomal designates of or relating to microsomes."*
+> - 📜 **Christian de Duve (*Tissue Fractionation: Past and Present*):** *"Centrifugation at high speeds yields the **microsomal** pellet, rich in glucose-6-phosphatase and membrane lipids."*
+> - 📜 **Albert Claude (*The Coming of Age of the Cell*):** *"Biochemical analysis of the **microsomal** fraction confirmed its identity with fragmented vesicular endoplasmic reticulum."*
+> - 📜 **George Palade (*Intracellular Aspects of the Process of Protein Synthesis*):** *"Ribosomes attached to the **microsomal** membranes synthesize secretory proteins destined for export."*

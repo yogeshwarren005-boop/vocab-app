@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nephr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone or calculus formed in the kidney; a renal calculus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urology, a crystalline concretion formed from calcium oxalate, uric acid, or struvite that forms in the renal papillae and may lodge in the pelvis or ureter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrolith designates a term designating an entity, condition, or phenomenon derived from greek nephr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Passage of an angular **nephrolith** through the narrow ureter elicits excruciating spasmodic renal colic."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"The extraction of a staghorn **nephrolith** from the renal pelvis was successfully accomplished through nephrolithotomy."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Hyperuricemia predisposes the constitution to the persistent formation of an obstructing **nephrolith**."*

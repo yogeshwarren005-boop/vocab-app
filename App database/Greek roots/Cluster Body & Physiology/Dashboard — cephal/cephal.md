@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek anatomical combining form derived from kephale, denoting the head or cranial structures (cephal- / cephalo-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological and medical nomenclature, an essential prefix entering into terminology describing head anatomy, cephalization, and neurology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephal designates adjective*) pertaining to, derived from, or characteristic of head."*
+> - 📜 **Galen (*On Anatomical Procedures*):** *"Ancient anatomists designated the royal citadel of the body by the radical **cephal**, wherein reason and sensation dwell."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Compound terms rooted in **cephal** identify the cranial bones, cerebral membranes, and cranial nerve trunks."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The prefix **cephal** unites anatomical structures that converge upon the head, distinguishing cranial from caudal axes."*

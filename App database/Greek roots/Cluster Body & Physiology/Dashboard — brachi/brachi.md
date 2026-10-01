@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: arm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: brachial and.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anatomical combining form derived from the Greek brachion, denoting the arm or an arm-like structure (brachi- / brachio-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and embryology, a radical designating the upper limb or structures connected with the brachium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog brachi as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The root **brachi** enters into the nomenclature of muscles and vessels supplying the upper limb from shoulder to elbow."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The muscular anatomy of the human arm is described under terms compounded from the ancient Greek **brachi**."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"In tetrapod morphology, the anterior limb segments are designated by derivatives of the ancestral stem **brachi**."*

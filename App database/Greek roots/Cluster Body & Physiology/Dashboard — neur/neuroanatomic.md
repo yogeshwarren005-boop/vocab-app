@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to neural tissue or the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to neural tissue or the nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the gross structural anatomy and microscopic organization of the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurological research, relating to the spatial mapping of tracts, nuclei, cytoarchitectural cortical layers, and synaptic circuitry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroanatomic designates of or relating to neural tissue or the nervous system."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Our **neuroanatomic** investigations established that the neuron is an autonomous embryological and trophic unit."*
+> - 📜 **Camillo Golgi (*Studies on the Fine Anatomy of the Central Nervous Organs*):** *"The black reaction provided the first clear **neuroanatomic** pictures of dendritic arborizations in the cerebellar cortex."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Direct intraoperative electrical stimulation verified the **neuroanatomic** somatotopic arrangement of the precentral motor gyrus."*

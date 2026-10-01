@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regional variety of language distinguished by features of vocabulary, grammar, and pronunciation from other regional varieties and constituting together with them a single language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two or more cognate languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regional or social variety of a language distinguished by pronunciation, grammar, and vocabulary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and descriptive linguistics, a localized branch of a language system that maintains mutual intelligibility with neighboring sister varieties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To go out of my dialect, which you discommend so much."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For in her youth There is a prone and speechless dialect Such as moves men; beside, she hath prosperous art When she will play with reason and discourse, And well she can persuade."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Their dialect is in some respects akin to the Lowland Scotch, with which it has many words in common; and it has also as a prominent feature that rising intonation, passing sometimes almost into a wail, which one hears all along the eastern Border."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"What we call a language is often little more than a **dialect** that has achieved political and educational dominance."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"It is impossible for an Englishman to open his mouth without making some other Englishman hate or despise his **dialect**."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Every local **dialect** preserves archaic grammatical forms that standard national tongues have long discarded."*

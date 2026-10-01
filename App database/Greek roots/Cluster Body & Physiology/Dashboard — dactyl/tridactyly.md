@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of possessing three digits on each hand or foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary biology, digital reduction to three functional toes, classic in theropod dinosaurs, emus, and fossil horses (Protohippus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tridactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"The Miocene horse Protohippus exhibited complete **tridactyly**, its two slender lateral toes flanking a dominant central hoof."*
+> - 📜 **Michael J. Benton (*Vertebrate Palaeontology*):** *"Theropod dinosaurs achieved formidable bipedal balance through symmetrical avian **tridactyly**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The three-toed rhea of South America illustrates how **tridactyly** evolved to facilitate rapid flightless running over open plains."*

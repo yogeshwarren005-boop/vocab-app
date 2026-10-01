@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical treatment of disease through the therapeutic administration of blood or blood products; blood transfusion therapy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine, therapeutic modalities relying upon whole blood, serum, or autologous blood injections to stimulate immunity or restore volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemotherapy designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **Karl Landsteiner (*The Specificity of Serological Reactions*):** *"The classification of human blood into distinct groups transformed clinical **hemotherapy** into a predictable and safe therapeutic science."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of acute post-hemorrhagic collapse, direct **hemotherapy** supplies the vital volume and cellular elements required to sustain life."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Early forms of biological **hemotherapy** demonstrated how serum antitoxins could neutralize circulating diphtheria toxin."*

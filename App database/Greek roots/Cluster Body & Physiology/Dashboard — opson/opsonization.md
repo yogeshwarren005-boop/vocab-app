@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Process whereby opsonins make an invading microorganism more susceptible to phagocytosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process whereby opsonins make an invading microorganism more susceptible to phagocytosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of coating foreign pathogens or antigens with specific antibodies or complement proteins to facilitate their phagocytosis (standard spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In humoral and innate immunity, the targeted tagging of encapsulated microorganisms with C3b and IgG, enabling receptor-mediated endocytosis by macrophages and polymorphonuclear leukocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opsonization designates process whereby opsonins make an invading microorganism more susceptible to phagocytosis."*
+> - 📜 **Charles Janeway (*Immunobiology: The Immune System in Health and Disease*):** *"Surface **opsonization** by complement component C3b dramatically accelerates pathogen clearance by tissue-resident macrophages."*
+> - 📜 **William E. Paul (*Fundamental Immunology*):** *"Without adequate **opsonization**, encapsulated bacteria frequently evade cellular engulfment and disseminate throughout the bloodstream."*
+> - 📜 **Anthony Fauci (*Harrison's Principles of Internal Medicine*):** *"Defects in complement pathways impair bacterial **opsonization**, predisposing patients to recurrent pyogenic infections."*

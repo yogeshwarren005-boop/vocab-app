@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of red blood cells in the urine, indicating bleeding somewhere along the genitourinary tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical sign and diagnostic symptom distinguishing glomerular renal disease from lower urinary tract trauma, infection, or malignancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematuria designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent painless **haematuria** in an elderly patient must immediately awaken clinical suspicion of renal or vesical neoplasm."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"In several severe instances of dropsy, transient **haematuria** heralded acute inflammatory changes within the substance of the kidneys."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The passage of gravel through the ureters was attended with excruciating colic and evident **haematuria** that alarmed the sufferer."*

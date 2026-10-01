@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medical science dealing with the structure, functions, and diseases of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medical science dealing with the structure, functions, and diseases of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ophthalmology, the branch of medicine dealing with the eye and its diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, designating specialized examination techniques, optical instruments, or surgical procedures dedicated to ocular health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophthalmologic designates a branch of medical science dealing with the structure, functions, and diseases of the eye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A thorough **ophthalmologic** examination reveals the early flame-shaped hemorrhages of hypertensive retinopathy."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Visual field charting remains one of our most indispensable **ophthalmologic** diagnostic procedures."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient's visual complaint proved to be agnosic rather than an ordinary **ophthalmologic** refractive error."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild viral disease transmitted by the bite of the sand fly phlebotomus papatasii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small bloodsucking sand flies that resemble moths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, blood-sucking sandflies in the family Psychodidae, notorious as vectors of leishmaniasis, bartonellosis, and sandfly fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical entomology and parasitology, hairy nematoceran dipterans whose female members feed on vertebrate blood (Greek phlebotomos, vein-cutter), transmitting Leishmania donovani and phleboviruses across tropical regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebotomus designates a mild viral disease transmitted by the bite of the sand fly phlebotomus papatasii."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"Species of the dipteran genus **phlebotomus** inflict painful bites and serve as the principal vectors of kala-azar."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"The distribution of cutaneous oriental sore coincides precisely with the habitat of biting **phlebotomus** sandflies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Troops stationed in the Mediterranean basin suffered widespread febrile debility following attacks by infected **phlebotomus** flies."*

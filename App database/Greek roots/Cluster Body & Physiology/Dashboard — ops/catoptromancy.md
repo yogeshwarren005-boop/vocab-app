@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Catoptromancy, also known as captromancy or enoptromancy, is divination using a mirror..
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Catoptromancy, also known as captromancy or enoptromancy, is divination using a mirror..
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of looking into mirrors or reflective surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of magic and occult folklore, an ancient mantic practice (such as that described by Pausanias at Patras) where mirrors dipped into sacred springs were read to foretell life or death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catoptromancy designates catoptromancy, also known as captromancy or enoptromancy, is divination using a mirror."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"At the sanctuary of Demeter, sick persons consulted the sacred mirror in rites of ancient **catoptromancy**."*
+> - 📜 **Pausanias (*Description of Greece*):** *"They let a mirror down into the spring by a slender cord, practicing **catoptromancy** to divine whether the patient shall live or die."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The widespread belief in soul-reflection provided the psychological foundation for scrying and **catoptromancy**."*

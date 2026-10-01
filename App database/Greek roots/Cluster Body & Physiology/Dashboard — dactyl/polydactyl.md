@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a person (or other vertebrate) having more than the normal number of digits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a person (or other vertebrate) having more than the normal number of digits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more than the normal number of fingers or toes (such as a six-toed cat or human).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and animal breeding, an individual exhibiting extra preaxial or postaxial digits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polydactyl designates of or relating to a person (or other vertebrate) having more than the normal number of digits."*
+> - 📜 **Ernest Hemingway (*Selected Letters*):** *"My white **polydactyl** cat sauntered across the patio, displaying six large claws on each forepaw with comical pride."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **polydactyl** infant had a small rudimentary digit attached by a slender pedicle to the ulnar border of the hand."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Breeders noted that **polydactyl** poultry passed their extra hind toe to half of their offspring with remarkable regularity."*

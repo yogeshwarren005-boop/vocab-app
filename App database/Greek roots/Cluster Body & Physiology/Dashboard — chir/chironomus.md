@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the chironomidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the chironomidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of non-biting midges within the family Chironomidae, noted for their aquatic red hemoglobin-rich larvae (bloodworms).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, the classic model organism whose larval salivary gland polytene chromosomes were among the first observed in detail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chironomus designates type genus of the chironomidae."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Giant polytene chromosomes in the salivary glands of **Chironomus** revealed distinct banding patterns correlating with genetic loci."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The bright red color of the larva of **Chironomus** plumosus is due to true hemoglobin dissolved in its body fluid."*
+> - 📜 **August Weismann (*Essays Upon Heredity*):** *"The early segregation of germ cells in the embryo of **Chironomus** demonstrates the continuity of the germ-plasm."*

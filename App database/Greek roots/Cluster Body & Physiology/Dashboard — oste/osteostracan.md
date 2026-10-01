@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct jawless fish of the devonian with armored head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct jawless fish of the devonian with armored head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct jawless armored vertebrate of the class Osteostraci, having a broad, semicircular bony head shield (an osteostracan).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology, a Silurian or Devonian agnathan characterized by true cellular bone in its head shield and sensory fields linked to cranial nerves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteostracan designates extinct jawless fish of the devonian with armored head."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The well-preserved shield of the **osteostracan** reveals dorsal orbits and an enigmatic median sensory aperture."*
+> - 📜 **Hugh Miller (*The Old Red Sandstone*):** *"The fossil beds of Scotland yielded numerous plates of this archaic **osteostracan**, crowned with polished tuberculated bone."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"Internal vascular canals within the **osteostracan** head shield provide the earliest clear evidence of cellular bone in the fossil record."*

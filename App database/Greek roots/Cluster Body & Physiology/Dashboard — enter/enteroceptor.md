@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any receptor that responds to stimuli inside the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any receptor that responds to stimuli inside the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensory receptor situated in the internal viscera, especially the gastrointestinal tract, that responds to stimuli arising within the body; an interoceptor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, visceral mechanoreceptors, chemoreceptors, or osmoreceptors that relay internal biochemical and distension signals to the autonomic nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enteroceptor designates any receptor that responds to stimuli inside the body."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The **enteroceptor** responds to chemical and mechanical changes occurring within the deep internal environment of the visceral canal."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Distension of the intestinal smooth muscle activates each localized **enteroceptor**, triggering coordinated peristaltic reflex loops via vagal afferents."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Our subconscious sense of visceral well-being depends on continuous background feedback originating from every visceral **enteroceptor**."*

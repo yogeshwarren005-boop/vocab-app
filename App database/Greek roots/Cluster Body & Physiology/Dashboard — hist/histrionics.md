@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance of a play.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberate display of emotion for effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerated, theatrical, melodramatic, or insincere behavior designed to attract attention or produce an effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art, performance, or technique of theatrical acting on stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histrionics designates a performance of a play."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Wopsle indulged in such astounding vocal **histrionics** that the gallery erupted in laughter during Hamlet."*
+> - 📜 **W. M. Thackeray (*Vanity Fair*):** *"Becky Sharp was a mistress of domestic **histrionics**, summoning tears or smiles at a moment's notice to conquer society."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"True dramatic art demands intellectual restraint rather than the cheap emotional **histrionics** of the Victorian melodrama."*

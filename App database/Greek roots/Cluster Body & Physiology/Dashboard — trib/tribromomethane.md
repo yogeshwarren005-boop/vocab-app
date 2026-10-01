@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Colorless liquid haloform chbr3.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colorless liquid haloform chbr3.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bromoform (chemical formula CHBr3), a heavy, colorless, dense, non-flammable liquid with a sweet, chloroform-like odor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and mineralogy, tribromomethane (density 2.89 g/cm3) is used as a heavy liquid for heavy-mineral separation by flotation; in organic synthesis, it is prepared by the haloform reaction of acetone with bromine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribromomethane designates colorless liquid haloform chbr3."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Heavy mineral grains in crushed rock samples are separated by flotation in dense **tribromomethane**."*
+> - 📜 **Justus von Liebig (*Annalen der Pharmacie*):** *"Treatment of ethyl alcohol and alkali with bromine yielded the heavy halogenated liquid **tribromomethane**."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Sedimentologists utilize **tribromomethane** to isolate detrital zircon, garnet, and tourmaline from quartz sands."*

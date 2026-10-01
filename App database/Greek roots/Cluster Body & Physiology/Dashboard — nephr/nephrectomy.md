@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of a kidney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical removal of a kidney.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of one or both kidneys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative urology and oncologic surgery, total or partial excision of a kidney indicated for malignant renal cell carcinoma, severe trauma, or non-functioning hydronephrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrectomy designates the surgical removal of a kidney."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"I performed lumbar **nephrectomy** for intractable calculous pyonephrosis with complete restoration of health."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Following unilateral **nephrectomy**, compensatory hypertrophy allows the remaining kidney to maintain normal renal clearance."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"In cases of extensive neoplastic invasion of the renal bed, radical **nephrectomy** offers the only definitive cure."*

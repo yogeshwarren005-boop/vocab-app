@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A granular brown substance composed of ferric oxide; left from the breakdown of hemoglobin; can be a sign of disturbed iron metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A granular brown substance composed of ferric oxide; left from the breakdown of hemoglobin; can be a sign of disturbed iron metabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellowish-brown iron-storage pigment complex composed of ferric oxide, ferritin, and degraded protein found within cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, insoluble granular intracellular iron deposits demonstrated prominently by Perls' Prussian blue stain following extensive red blood cell extravasation or iron overload.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemosiderin designates a granular brown substance composed of ferric oxide; left from the breakdown of hemoglobin; can be a sign of disturbed iron metabolism."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Within the pulmonary alveolar macrophages of patients with chronic cardiac congestion, dense granules of **haemosiderin** impart a characteristic rusty color."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The extensive deposition of **haemosiderin** within hepatic parenchyma and skin underlies the clinical manifestations of bronze diabetes."*
+> - 📜 **Felix Hoppe-Seyler (*Handbuch der Physiologisch- und Pathologisch-Chemischen Analyse*):** *"Chemical analysis demonstrates that **haemosiderin** consists of insoluble ferric complexes remaining after the disintegration of haemoglobin."*

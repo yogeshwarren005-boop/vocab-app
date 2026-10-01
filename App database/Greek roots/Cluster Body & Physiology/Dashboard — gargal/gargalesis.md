@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gargal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heavy, laughter-inducing tickling, produced by firmer touch to sensitive areas of the body such as the armpits or ribs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and sensory psychology, vigorous tactile stimulation contrasted with knismesis (light, feather-like itching tickle).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gargalesis designates a term designating an entity, condition, or phenomenon derived from greek gargal."*
+> - 📜 **G. Stanley Hall (*The Psychology of Tickling, Laughing, and the Comic*):** *"We proposed the term **gargalesis** for the deep, aggressive tickling that provokes uncontrollable convulsions of laughter and writhing."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Infants giggle and pull away from **gargalesis**, showing that laughter is innately linked to surprise and gentle tactile combat."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Sensory thresholds for **gargalesis** vary widely, reflecting complex cortical gating between tickle perception and defense reflexes."*

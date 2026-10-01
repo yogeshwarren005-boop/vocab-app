@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (classical mythology) god of male procreative power and guardian of gardens and vineyards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (classical mythology) god of male procreative power and guardian of gardens and vineyards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek and Roman mythology, the god of fertility, gardens, vineyards, and male generative power, typically depicted with an enormous erect phallus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical cultural history, a minor rustic deity (son of Dionysus and Aphrodite) whose carved wooden herms guarded orchards against thieves and blight, inspiring the collection of ribald Latin poems known as the Priapea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s able to freeze the god Priapus, and undo a whole generation."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The people chose an old man and gave him a small coffin containing a Priapus-like figure representing Yarilo."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On each of the pots they used formerly to place a statuette or cloth doll dressed as a woman, or a Priapus-like figure made of paste; but this custom, rigorously forbidden by the Church, has fallen into disuse."*
+> - 📜 **Virgil (*Georgics*):** *"Let the guardianship of garden-keeping **Priapus** with his willow scythe protect your fruit trees from marauding birds."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rude wooden effigy of **Priapus** remained a fixture of Roman country villas long into the Christian era."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The cult of **Priapus** represented the most earthly and unabashed celebration of physical vegetative fertility."*

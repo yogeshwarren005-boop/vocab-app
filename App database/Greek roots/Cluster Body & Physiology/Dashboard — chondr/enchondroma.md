@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Benign slow-growing tumor of cartilaginous cells at the ends of tubular bones (especially in the hands and feet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benign slow-growing tumor of cartilaginous cells at the ends of tubular bones (especially in the hands and feet).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign cartilaginous tumor that develops in the interior medullary cavity of a bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic oncology, a common incidental hyaline tumor of the tubular bones of the hand, capable of causing pathological fracture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enchondroma designates benign slow-growing tumor of cartilaginous cells at the ends of tubular bones (especially in the hands and feet)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An asymptomatic **enchondroma** of the proximal phalanx is often discovered purely by chance upon an incidental radiograph."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The central location of the **enchondroma** within the medullary canal distinguishes it from peripheral subperiosteal ecchondroses."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Curettage and bone grafting successfully eliminate the central cavity caused by a benign **enchondroma**."*

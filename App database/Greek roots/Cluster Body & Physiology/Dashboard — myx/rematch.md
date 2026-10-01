@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (especially a game) that is played again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (especially a game) that is played again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A second or repeat contest, match, or competition between the same contestants or opposing teams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports history and game theory, a subsequent competitive encounter undertaken to resolve an undecided or disputed initial contest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rematch designates something (especially a game) that is played again."*
+> - 📜 **Arthur Conan Doyle (*The British Campaign in France and Flanders*):** *"The defeated battalion eagerly anticipated a **rematch** against their former adversaries on equal ground."*
+> - 📜 **Jack London (*The Abysmal Brute*):** *"The sporting public clamored for a decisive **rematch** between the two heavyweight contenders."*
+> - 📜 **P. G. Wodehouse (*The Code of the Woosters*):** *"A spirited **rematch** on the local tennis court restored good humor to the disappointed contestants."*

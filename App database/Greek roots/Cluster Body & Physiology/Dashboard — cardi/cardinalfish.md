@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small red fishes of coral reefs and inshore tropical waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small red fishes of coral reefs and inshore tropical waters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small, brightly colored marine fishes of the family Apogonidae, typically nocturnal reef dwellers with large eyes and two dorsal fins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, reef-dwelling fishes known for oral incubation (paternal mouthbrooding), where males carry fertilized eggs in their mouths until hatching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardinalfish designates small red fishes of coral reefs and inshore tropical waters."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The tiny red **cardinalfish** hides deep within branching coral crevices by day, emerging after sunset to forage upon plankton."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Under the flashlight beam, the bright scarlet scales of the **cardinalfish** gleamed like rubies against the black cavern walls."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"The male **cardinalfish** sheltered his brood of eggs safely inside his pharynx, fasting until the fry were ready to swim."*

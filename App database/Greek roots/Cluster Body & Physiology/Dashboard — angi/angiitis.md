@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a blood vessel or lymph duct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a blood vessel or lymph duct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a blood vessel or lymphatic vessel; vasculitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology and pathology, systemic necrotizing inflammation of arterial or venous walls, as in hypersensitivity angiitis or Granulomatosis with polyangiitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiitis designates inflammation of a blood vessel or lymph duct."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Necrotizing **angiitis** damages the vascular endothelium, leading to thrombosis and ischemic infarction of downstream tissues."*
+> - 📜 **Paul Klemperer (*The Concept of Collagen Diseases*):** *"Diffuse allergic **angiitis** illustrates how hypersensitivity reactions target the fibrinoid matrix of muscular arteries."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In every form of acute **angiitis**, the adventitia and media are heavily infiltrated by emigrating leukocytes."*

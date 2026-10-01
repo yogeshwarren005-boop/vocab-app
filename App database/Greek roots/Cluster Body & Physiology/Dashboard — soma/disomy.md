@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having two copies of a particular chromosome in a cell nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medical genetics, uniparental disomy (UPD) describes the situation where both homologs of a chromosome pair originate from a single parent, predisposing to imprinting disorders such as Prader-Willi or Angelman syndromes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disomy designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Uniparental **disomy** explains the inheritance of recessive traits when only one parent is a heterozygous carrier."*
+> - 📜 **Albert Blakeslee (*The Chromosome Constitution of Datura Mutants*):** *"Restoration of stable **disomy** resolves the phenotypic distortion caused by transient trisomic states in Datura."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"The evolutionary stabilization of amphidiploids requires regular bivalent pairing characteristic of strict functional **disomy**."*

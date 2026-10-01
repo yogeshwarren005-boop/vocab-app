@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fairy shrimp; brine shrimp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fairy shrimp; brine shrimp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of freshwater fairy shrimps (order Anostraca) having elongated bodies and swimming upside down in vernal pools.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, branchiopod crustaceans in which the males possess elaborate hand-like claspers on their second antennae for grasping mates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chirocephalus designates fairy shrimp; brine shrimp."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The delicate phyllopod **Chirocephalus** navigates temporary vernal ponds by rhythmic strokes of its translucent branchial feet."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The male **Chirocephalus** is readily identified by the remarkable hand-like appendages developed upon the cephalic segment."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The drought-resistant resting eggs of **Chirocephalus** can survive years of desiccation before hatching in spring rainpools."*

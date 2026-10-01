@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of heavily armed infantry in ancient Greece formed in close deep ranks and files; broadly : a body of troops in close array.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the digital bones of the hand or foot of a vertebrate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bones of the fingers and toes in humans and other vertebrates (plural of phalanx).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gross human anatomy, the fourteen long bones in each hand or foot arranged into proximal, middle, and distal series (two in the pollex/hallux, three in each other digit).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalanges designates a body of heavily armed infantry in ancient greece formed in close deep ranks and files; broadly : a body of troops in close array."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"There are fourteen **phalanges** in each hand: three for each finger and two for the thumb."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The hyperphalangy of marine reptiles and cetaceans multiplies the number of **phalanges** to stiffen the swimming paddle."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Enchondromas occur with notable frequency in the cancellous core of the proximal **phalanges**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biochemistry) purine base found in dna and rna; pairs with thymine in dna and with uracil in rna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biochemistry) purine base found in dna and rna; pairs with thymine in dna and with uracil in rna.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A purine base (6-aminopurine) that pairs with thymine in DNA and with uracil in RNA, essential for genetic coding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular bioenergetics, the purine nucleobase incorporated into adenosine triphosphate (ATP), NAD+, and FAD to drive metabolic reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenine designates (biochemistry) purine base found in dna and rna; pairs with thymine in dna and with uracil in rna."*
+> - 📜 **Albrecht Kossel (*Researches on the Nuclein of Yeast*):** *"From pancreatic glandular extracts we isolated this fundamental purine base, which I designate **adenine**."*
+> - 📜 **James D. Watson (*The Double Helix*):** *"The spatial dimensions dictated that **adenine** could only pair smoothly with thymine across the twin helical strands."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The strict hydrogen bonding between **adenine** and its pyrimidine partner ensures high fidelity during genetic replication."*

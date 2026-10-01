@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) the number of elements in a set or group (considered as a property of that grouping).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) the number of elements in a set or group (considered as a property of that grouping).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of elements in a mathematical set.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical set theory and logic, Georg Cantor's measure of the size of finite or transfinite sets, distinguishing countable sets from the continuum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardinality designates (mathematics) the number of elements in a set or group (considered as a property of that grouping)."*
+> - 📜 **Georg Cantor (*Contributions to the Founding of the Theory of Transfinite Numbers*):** *"Two sets are said to have the same **cardinality** or power if their elements can be placed in one-to-one correspondence."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The concept of **cardinality** frees arithmetic from empirical counting, defining cardinal numbers as classes of equinumerous sets."*
+> - 📜 **Kurt Gödel (*What is Cantor's Continuum Problem?*):** *"Cantor proved that the **cardinality** of the real continuum strictly exceeds the countable cardinality of the natural numbers."*

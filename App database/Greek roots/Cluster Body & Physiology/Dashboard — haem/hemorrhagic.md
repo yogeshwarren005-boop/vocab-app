@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A copious or heavy discharge of blood from the blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapid and uncontrollable loss or outflow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accompanied by, characterized by, or resulting from bleeding or hemorrhage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting pathological conditions, lesions, or fevers (such as hemorrhagic stroke or dengue hemorrhagic fever) marked by extravasation of blood into tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemorrhagic designates a copious or heavy discharge of blood from the blood vessels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In the malignant **hemorrhagic** form of scarlet fever, petechial extravasations appear across the skin within the first forty-eight hours."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The wedge-shaped pulmonary lesion proved upon microscopic dissection to be a typical **hemorrhagic** infarction."*
+> - 📜 **Alexis Carrel (*The Treatment of Infected Wounds*):** *"Careful wound debridement and arterial repair prevented the formation of destructive **hemorrhagic** hematomas within the muscular bed."*

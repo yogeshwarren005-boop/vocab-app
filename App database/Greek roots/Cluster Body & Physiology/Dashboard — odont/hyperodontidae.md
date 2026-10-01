@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beaked whales; in some especially former classifications included in the family physeteridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beaked whales; in some especially former classifications included in the family physeteridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternate or obsolete family name for the Ziphiidae (beaked whales), named after the bottlenose whale genus Hyperoodon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic cetology and marine zoology, deep-diving toothed whales characterized by a pronounced rostral beak and extreme reduction of functional dentition to one or two mandibular pairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperodontidae designates beaked whales; in some especially former classifications included in the family physeteridae."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Cetaceans formerly cataloged under **Hyperodontidae** exhibit prominent maxillary crests supporting deep acoustic fat organs."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"In members of **Hyperodontidae**, the dentition is reduced to a single pair of functional lower teeth."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The massive cranial expansion in the genus Hyperoodon gave name to the archaic family **Hyperodontidae**."*

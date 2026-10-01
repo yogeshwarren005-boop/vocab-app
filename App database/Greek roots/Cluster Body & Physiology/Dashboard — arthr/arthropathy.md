@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of a joint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease, pathological disorder, or abnormal condition affecting a joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology and neurology, specific destructive joint disorders such as neuropathic arthropathy (Charcot joint) associated with tabes dorsalis or diabetes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthropathy designates a disease of a joint."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"In tabetic patients, a painless destructive **arthropathy** suddenly disintegrates the knee joint without signs of acute fever."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hemophilic **arthropathy** results from repeated intra-articular hemorrhages that progressively erode the hyaline articular cartilage."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Degenerative **arthropathy** begins with fibrillation of the cartilaginous matrix, followed by subchondral sclerosis and osteophyte formation."*

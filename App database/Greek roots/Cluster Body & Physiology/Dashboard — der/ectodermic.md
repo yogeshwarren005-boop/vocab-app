@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the ectoderm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the ectoderm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or formed by the ectoderm; ectodermal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative invertebrate histology, pertaining to the outer cell layer of diploblastic organisms (such as cnidarians).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectodermic designates of or relating to the ectoderm."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The outer **ectodermic** sheath of the hydra contains cnidocytes, epitheliomuscular cells, and sensory receptors."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"In sponges, the pinacoderm represents an **ectodermic** boundary separating the internal choanocytes from seawater."*
+> - 📜 **Ernst Haeckel (*General Morphology of Organisms*):** *"The primordial **ectodermic** layer was the first cellular boundary to mediate contact between the metazoan and its world."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rock of meteoric origin containing chondrules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rock of meteoric origin containing chondrules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stony meteorite containing chondrules, small spherical silicate grains formed in the early solar nebula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cosmochemistry, the most primitive and abundant class of meteorites, preserving the primordial chemical composition of the solar system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondrite designates a rock of meteoric origin containing chondrules."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The carbonaceous **chondrite** provides an invaluable snapshot of the organic chemistry that preceded the origin of life."*
+> - 📜 **Harold Urey (*The Planets: Their Origin and Development*):** *"The uniform elemental abundance found in every ordinary **chondrite** mirrors the solar photosphere with astonishing fidelity."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"Embedded chondrules in a stony **chondrite** testify to sudden melting and rapid crystallization in the primeval planetary cloud."*

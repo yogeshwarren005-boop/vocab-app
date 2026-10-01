@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly variable species of very large primitive ferns of the pacific tropical areas with high rainfall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly variable species of very large primitive ferns of the pacific tropical areas with high rainfall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of massive, primitive eusporangiate ferns in the family Marattiaceae, native to the paleotropics and known as elephant ferns or king ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and pteridophyte systematics, ancient giant ferns with fleshy stipes, large pulvini, and synangia opening along lateral sutures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiopteris designates highly variable species of very large primitive ferns of the pacific tropical areas with high rainfall."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"The immense fronds of **angiopteris**, sometimes reaching twenty feet in length, spread like giant palm leaves in the humid forest."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"The eusporangiate development in **angiopteris** links modern tropical ferns with the Carboniferous fossil marattiaceans."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Conservatories display **angiopteris** as living botanical fossils, admired for their massive fleshy rhizomes and majestic arching fronds."*

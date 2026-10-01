@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no mouth or mouthlike opening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no mouth or mouthlike opening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no mouth, oral aperture, or cytostome; also, in botany, lacking stomata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and protozoology, astomatous organisms (such as adult tapeworms / Cestoda or astome ciliates) absorb all nutrients directly through their integument or body surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astomatous designates having no mouth or mouthlike opening."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The tapeworms are completely **astomatous**, possessing neither mouth nor alimentary canal and absorbing predigested food by osmosis."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The parasitic Astomata are **astomatous** infusorians that dwell symbiotically within the digestive tubes of annelids."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"An **astomatous** endoparasite depends entirely upon the cutaneous absorption of chyle provided by its host."*

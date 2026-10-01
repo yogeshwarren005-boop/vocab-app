@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female homosexual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female homosexual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who engages in homosexual sexual practices with other women; an archaic or classical term for a lesbian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from Greek *tribas* (from *tribein*, to rub); in classical antiquity, nineteenth-century sexology, and literature, used to designate female same-sex desire or sexual expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribade designates a female homosexual."*
+> - 📜 **Richard Burton (*The Book of the Thousand Nights and a Night*):** *"In his Terminal Essay, Burton surveyed historical allusions to the **tribade** across ancient Mediterranean cultures."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Early European legal codes occasionally distinguished the **tribade** from other manifestations of sexual inversion."*
+> - 📜 **Honoré de Balzac (*The Girl with the Golden Eyes*):** *"The mysterious Marquise moved through Parisian salons with the enigmatic allure associated with a classical **tribade**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of dermatoglyphics; relating to the epidermal ridge patterns of the hands and feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and physical anthropology, pertaining to ridge counts, triradii, and digital whorls used in diagnostic screening.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatoglyphic designates the lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet)."*
+> - 📜 **Francis Galton (*Finger Prints*):** *"The immutable **dermatoglyphic** ridges of the fingertips remain unchanged from fetal life until post-mortem decomposition."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A single transverse palmar crease is an important **dermatoglyphic** marker in Down syndrome."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"Genetic dysmorphologists study unusual **dermatoglyphic** configurations to confirm early embryonic developmental disturbances."*

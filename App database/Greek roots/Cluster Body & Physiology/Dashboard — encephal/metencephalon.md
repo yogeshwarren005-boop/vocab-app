@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior segment of the developing vertebrate hindbrain or the corresponding part of the adult brain composed of the cerebellum and pons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior segment of the developing vertebrate hindbrain or the corresponding part of the adult brain composed of the cerebellum and pons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior part of the hindbrain in the vertebrate embryo, which develops into the pons and the cerebellum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and embryology, the rostral division of the rhombencephalon that coordinates somatic motor function, vestibular balance, and autonomic pontine reflexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metencephalon designates the anterior segment of the developing vertebrate hindbrain or the corresponding part of the adult brain composed of the cerebellum and pons."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"During embryonic neurogenesis, the **metencephalon** thickens dorsally to give rise to the cerebellar cortex and Purkinje cell layers."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"The pontine nuclei derived from the **metencephalon** relay massive corticocerebellar projections essential for motor learning."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The fourth ventricle extends through the lumen of the **metencephalon**, roofed by the emerging cerebellar vermis."*

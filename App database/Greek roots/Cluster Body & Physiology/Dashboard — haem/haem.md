@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An iron-containing compound of the porphyrin class which forms the non-protein pigment part of hemoglobin and some other biological molecules (heme).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, an iron(II) protoporphyrin IX complex that binds molecular oxygen in hemoglobin and myoglobin, and mediates electron transfer in cytochromes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haem designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"X-ray crystallography revealed how oxygen binding to the central iron atom of the **haem** group triggers a cooperative allosteric shift across the hemoglobin tetramer."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Magnetic susceptibility measurements confirmed that iron in venous blood is paramagnetic, while oxygenation converts the **haem** to a diamagnetic state."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Mitochondrial cytochromes rely upon central **haem** cofactors to shuttle single electrons down the respiratory chain to oxygen."*

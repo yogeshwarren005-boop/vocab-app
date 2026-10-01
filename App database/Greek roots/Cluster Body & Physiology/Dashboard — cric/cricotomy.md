@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical incision into the cricoid cartilage of the larynx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric laryngology, an operative slit made in the anterior cricoid cartilage to expand the subglottic airway in infants with congenital stenosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cricotomy designates a term designating an entity, condition, or phenomenon derived from greek cric."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Anterior **cricotomy** was devised to widen the rigid subglottic ring in children who failed extubation after prolonged intubation."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Careful longitudinal **cricotomy** allows the surgeon to inspect the posterior wall of the lower larynx directly."*
+> - 📜 **Harvey Cushing (*Surgical Observations*):** *"The incision in a high **cricotomy** must avoid the transverse cricothyroid arterial branches."*

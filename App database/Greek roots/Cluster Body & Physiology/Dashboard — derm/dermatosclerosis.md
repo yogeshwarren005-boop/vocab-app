@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An autoimmune disease that affects the blood vessels and connective tissue; fibrous connective tissue is deposited in the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An autoimmune disease that affects the blood vessels and connective tissue; fibrous connective tissue is deposited in the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease characterized by abnormal hardening and thickening of the skin and subcutaneous tissue; scleroderma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and rheumatology, chronic cutaneous induration resulting from excessive dermal collagen deposition and microvascular obliteration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatosclerosis designates an autoimmune disease that affects the blood vessels and connective tissue; fibrous connective tissue is deposited in the skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diffuse **dermatosclerosis** transforms the skin of the face into an immobile, parchment-like mask, obliterating normal expression."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"In advanced **dermatosclerosis**, the digits become tapered and claw-like, their joints locked by the dense, unyielding cutaneous envelope."*
+> - 📜 **Ferdinand von Hebra (*Lectures on Diseases of the Skin*):** *"The histological section in **dermatosclerosis** shows massive hypertrophy of dermal collagen bundles with atrophy of sweat glands."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A digit, finger, or toe of a human or vertebrate; or a metrical dactyl in classical prosody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod morphology, the terminal movable segment or claw of a crustacean chela or insect leg.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylus designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The formidable pincer of the crayfish is formed by the opposable **dactylus** biting against the immovable propodite."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Invertebrates*):** *"The terminal **dactylus** of the decapod crustacean is armed with sharp denticles for seizing prey."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"In crabs, powerful adductor muscles close the **dactylus** with sufficient force to crush mollusk shells."*

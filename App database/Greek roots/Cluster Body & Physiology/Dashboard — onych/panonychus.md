@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tetranychidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of tetranychidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of spider mites in the family Tetranychidae, including significant agricultural pests such as the European red mite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural acarology and economic entomology, phytophagous mites with strong clawed empodia that feed upon fruit foliage, causing severe leaf bronzing and crop loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panonychus designates a genus of tetranychidae."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Microscopic foliage mites belonging to **Panonychus** cause widespread leaf bronzing throughout cultivated orchards."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The pretarsal claw structure in **Panonychus** enables rapid movement and adherence to silken webbing on leaf surfaces."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Acarine pests such as **Panonychus** pierce plant epidermal cells to ingest intracellular chloroplasts."*

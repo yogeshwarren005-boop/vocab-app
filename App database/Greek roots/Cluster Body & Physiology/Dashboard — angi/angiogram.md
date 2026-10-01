@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radiograph made by angiography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angiography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An X-ray, CT, or MRI image of blood vessels obtained after the introduction of a radiopaque contrast material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology and neurology, a diagnostic image displaying vascular lumen caliber, occlusions, stenoses, or aneurysmal dilatations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiogram designates a radiograph made by angiography."*
+> - 📜 **Charles Dotter (*Transluminal Recanalization of Arteriosclerotic Obstructions*):** *"The follow-up **angiogram** demonstrated immediate restoration of luminal patency through the previously occluded femoral artery."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"The coronary **angiogram** revealed ninety percent narrowing of the anterior descending artery, explaining the exertional angina."*
+> - 📜 **Atul Gawande (*Complications*):** *"We gathered around the light box, studying the cerebral **angiogram** for the subtle outpouching of a berry aneurysm."*

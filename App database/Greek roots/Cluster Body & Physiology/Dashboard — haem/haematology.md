@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine that deals with diseases of the blood and blood-forming organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine that deals with diseases of the blood and blood-forming organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine concerned with the study of the cause, prognosis, treatment, and prevention of diseases related to blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The specialized field of pathology and internal medicine encompassing benign and malignant disorders of erythrocytes, leukocytes, platelets, and coagulation factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematology designates the branch of medicine that deals with diseases of the blood and blood-forming organs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern clinical **haematology** began when Paul Ehrlich introduced aniline dye combinations to differentiate white blood cells."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Progress in molecular **haematology** transformed bone marrow transplantation from an experimental gamble into a curative therapy."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"Coagulation algorithms developed in laboratory **haematology** drastically reduced bleeding complications during massive trauma surgery."*

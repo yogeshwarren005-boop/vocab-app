@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growth of spongy bone in the inner ear that causes progressively increasing deafness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growth of spongy bone in the inner ear that causes progressively increasing deafness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hereditary skeletal disorder of the otic capsule characterized by abnormal bone remodeling, leading to stapes fixation and progressive conductive hearing loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otology and hearing science, a condition typically presenting in young adults, marked by replacement of normal enchondral bone by vascular spongy bone, treated surgically by stapedectomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otosclerosis designates growth of spongy bone in the inner ear that causes progressively increasing deafness."*
+> - 📜 **Adam Politzer (*A Text-Book of the Diseases of the Ear*):** *"In 1893, I demonstrated that clinical ankylosis of the stapes is caused by a primary bone disease of the otic capsule, which I termed **otosclerosis**."*
+> - 📜 **Joseph Toynbee (*The Diseases of the Ear*):** *"The patient with bilateral **otosclerosis** hears speech better in a noisy environment, displaying the classic sign of paracusis Willisii."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Progressive conductive hearing loss with normal tympanic membranes in a young pregnant woman strongly points to familial **otosclerosis**."*

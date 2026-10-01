@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision of the chest wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision of the chest wall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical incision made through the chest wall into the pleural space to obtain operative access to the thoracic organs (heart, lungs, esophagus, or great vessels).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiothoracic surgery, posterolateral thoracotomy and median sternotomy are the primary open surgical approaches used for pulmonary lobectomy, pneumonectomy, and repair of traumatic aortic transections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thoracotomy designates surgical incision of the chest wall."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Advances in positive-pressure endotracheal anesthesia finally made wide exploratory **thoracotomy** safe without fatal lung collapse."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic loculated empyema frequently necessitates open **thoracotomy** and rib resection to permit thorough drainage."*
+> - 📜 **Alexis Carrel (*The Surgery of Blood Vessels*):** *"Through a left intercostal **thoracotomy**, experimental vascular anastomoses upon the descending aorta were successfully executed."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phalang.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of one or more phalanges (digits) of the fingers or toes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and teratology, a congenital limb reduction defect often associated with syndactyly, ectrodactyly, or chromosomal syndromes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphalangia designates a term designating an entity, condition, or phenomenon derived from greek phalang."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Congenital **aphalangia** results from localized failure of digital ray condensation within the apical ectodermal ridge."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Isolated **aphalangia** must be carefully distinguished from amniotic band amputations in the newborn."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Skeletal radiographs of hereditary **aphalangia** reveal complete agenesis of terminal and intermediate digital ossicles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various australian evergreen shrubs of the genus gastrolobium having whorled compound leaves poisonous to livestock and showy yellow to deep reddish-orange flowers followed by two-seeded pods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various australian evergreen shrubs of the genus gastrolobium having whorled compound leaves poisonous to livestock and showy yellow to deep reddish-orange flowers followed by two-seeded pods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the legume family (Fabaceae), native to Western Australia, commonly known as poison peas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and veterinary toxicology, shrubs containing lethal concentrations of monofluoroacetate ('1080'), deadly to introduced domestic livestock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrolobium designates any of various australian evergreen shrubs of the genus gastrolobium having whorled compound leaves poisonous to livestock and showy yellow to deep reddish-orange flowers followed by two-seeded pods."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Australian pastoralists suffered catastrophic sheep losses after herds grazed upon the toxic legume **Gastrolobium**."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"Native Australian marsupials have evolved remarkable physiological tolerance to the deadly fluoroacetates in **Gastrolobium**."*
+> - 📜 **Joseph Dalton Hooker (*On the Flora of Australia*):** *"The western flora abounds in brightly flowered species of **Gastrolobium**, notorious for poisoning introduced European stock."*

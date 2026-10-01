@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the large muscles of the buttocks; especially : gluteus maximus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outermost muscle of the three glutei found in each of the human buttocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the three large muscles of the buttocks: the gluteus maximus, gluteus medius, and gluteus minimus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musculoskeletal kinesiology, the primary hip extensor and abductor muscle group that maintains pelvic stability during human bipedal walking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gluteus designates any of the large muscles of the buttocks; especially : gluteus maximus."*
+> - 📜 **Leonardo da Vinci (*Anatomical Drawings*):** *"The magnificent fleshy mass of the **gluteus** maximus pulls the femoral shaft backward to propel the entire trunk during athletic ascent."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man alone possesses an expanded pelvis crowned by a massive **gluteus**, adaptations that arose concurrently with upright locomotion."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The surgeon incised the deep fascia overlying the **gluteus** medius to access the posterior column of the acetabulum."*

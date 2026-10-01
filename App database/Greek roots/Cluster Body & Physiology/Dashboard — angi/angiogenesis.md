@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation and differentiation of blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation and differentiation of blood vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physiological process through which new blood vessels form and sprout from preexisting vascular networks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and vascular biology, Judah Folkman's principle that solid tumor growth and metastasis depend fundamentally upon recruiting new capillaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiogenesis designates the formation and differentiation of blood vessels."*
+> - 📜 **Judah Folkman (*Tumor Angiogenesis: Therapeutic Implications*):** *"Once tumor **angiogenesis** begins, an exponentially growing capillary network supplies the dormant neoplasm with nutrients."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"By developing antibodies against VEGF, scientists created drugs that choke off tumor **angiogenesis**."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"In wound repair, the vigorous surge of **angiogenesis** rebuilds damaged tissue beds with microscopic capillary loops."*

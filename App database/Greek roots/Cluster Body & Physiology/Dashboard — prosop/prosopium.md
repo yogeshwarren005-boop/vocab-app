@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Whitefishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whitefishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of freshwater salmonid fishes native to North America and eastern Russia, commonly known as round whitefishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and freshwater fisheries ecology, coregonine salmonids (family Salmonidae) characterized by a subterminal mouth, rounded body cross-section, and silvery scales, inhabiting cold, pristine boreal lakes and rivers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosopium designates whitefishes."*
+> - 📜 **Louis Agassiz (*Lake Superior: Its Physical Character, Vegetation, and Animals*):** *"Specimens of the genus **prosopium** inhabit the deep, icy waters of Lake Superior, feeding on benthic invertebrates."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The round whitefish, belonging to **prosopium**, differs from Coregonus in its cylindrical body and narrow mouth."*
+> - 📜 **Henry Bigelow (*Fishes of the Gulf of Maine*):** *"Boreal river drainages support spawning populations of **prosopium** cylindraceum alongside brook trout."*

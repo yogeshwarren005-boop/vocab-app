@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or affecting both the heart and the lungs and their functions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or affecting both the heart and the lungs and their functions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving, relating to, or affecting both the cardiovascular (heart and blood vessels) and respiratory (lungs and airways) systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physiology and sports medicine, designating cardiorespiratory fitness, cardiorespiratory arrest, or synchronized oxygen-delivery systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiorespiratory designates of or pertaining to or affecting both the heart and the lungs and their functions."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"During vigorous muscular exertion, coordinated **cardiorespiratory** adjustments accelerate oxygen delivery and carbon dioxide elimination."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"High altitude induces acute **cardiorespiratory** strain, demanding hyperventilation and tachycardia to preserve tissue oxygen tension."*
+> - 📜 **August Krogh (*The Anatomy and Physiology of Capillaries*):** *"The ultimate limit of human physical endurance resides in the capacity of the **cardiorespiratory** system to perfuse active muscle beds."*

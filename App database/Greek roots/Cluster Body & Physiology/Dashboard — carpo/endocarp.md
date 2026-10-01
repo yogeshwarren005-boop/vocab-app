@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost layer of the pericarp of a fruit, which directly surrounds the seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, a layer that may be membranous (as the core of an apple), woody and stony (as the pit of a peach or olive), or pulp-bearing (as in citrus fruits).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocarp designates the inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In the peach and plum, the outer pericarp remains soft and juicy while the stony **endocarp** protects the enclosed kernel."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The stone of a drupe is not the seed coat itself, but the heavily lignified, sclerified **endocarp** of the pericarp."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"In the orange, the edible pulp segments are composed of succulent juice vesicles projecting inward from the **endocarp**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a vein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a vein.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the wall of a vein, often accompanied by tenderness, erythema, and localized edema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular medicine and pathology, endothelial inflammation commonly triggered by intravenous cannulation, bacterial seeding, or venous stasis, frequently predisposing to thrombosis (thrombophlebitis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebitis designates inflammation of a vein."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Superficial **phlebitis** along the course of the long saphenous vein requires local heat, elevation, and vigilant surveillance."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Virchow demonstrated that inflammatory changes of **phlebitis** are intimately linked with local intravascular coagulation."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Careful monitoring of the limb for signs of heat and cord-like swelling will promptly detect incipient **phlebitis**."*

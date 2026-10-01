@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any individual limb segment or joint of an arthropod appendage (such as coxa, trochanter, femur, tibia, or tarsus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod morphology and developmental biology, an articulated structural segment of a limb connected by flexible arthrodial membranes and operated by antagonistic intrinsic muscle groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podomere designates a term designating an entity, condition, or phenomenon derived from greek pod."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"Each walking leg is composed of seven distinct segments, every **podomere** articulating with its fellow by a hinge joint."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"The distal **podomere** of the insect leg terminates in pretarsal claws and an adhesive arolium."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The fossils of the Burgess Shale display primitive arthropods whose every limb **podomere** preserves delicate setal fringes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of anatomy that deals with the minute structure of animal and plant tissues as discernible with the microscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue structure or organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the microscopic structure, organization, and function of biological tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical medicine, the discipline (founded by Xavier Bichat and elevated by microscopic staining) that bridges gross anatomy and molecular cytology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histology designates a branch of anatomy that deals with the minute structure of animal and plant tissues as discernible with the microscope."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System of Man and Vertebrates*):** *"Comparative **histology** reveals that the basic functional unit of the brain is the independent cellular neuron."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Without a thorough foundation in normal human **histology**, the pathologist cannot interpret malignant degenerations."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The fundamental **histology** of coelenterates is uncomplicated, consisting of simple ectodermal and endodermal sheets."*

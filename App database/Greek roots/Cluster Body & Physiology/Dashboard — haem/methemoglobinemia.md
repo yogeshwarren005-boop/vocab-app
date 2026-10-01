@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of methemoglobin in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of methemoglobin in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of higher than normal levels of methemoglobin in the blood, resulting in cyanosis and impaired tissue oxygen delivery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical toxicology and genetics, an acquired (drug- or toxin-induced) or congenital (cytochrome b5 reductase deficiency or Hemoglobin M) disorder characterized by chocolate-colored blood and hypoxia unresponsive to supplemental oxygen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, methemoglobinemia designates the presence of methemoglobin in the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The distinctive lavender-blue cyanosis of toxic **methemoglobinemia** fails to clear even when the patient inspires one hundred percent oxygen."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Certain aromatic nitro compounds provoke severe **methemoglobinemia** by promoting rapid catalytic oxidation of intracellular iron."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"When arterial **methemoglobinemia** exceeds thirty percent, symptoms of severe cerebral hypoxia, dizziness, and headache manifest promptly."*

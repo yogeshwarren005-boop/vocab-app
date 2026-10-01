@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hormone produced by the anterior pituitary gland; promotes growth in humans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hormone produced by the anterior pituitary gland; promotes growth in humans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growth hormone (GH); a peptide hormone secreted by the anterior pituitary gland that stimulates tissue growth, protein synthesis, and cellular replication (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology, somatotrophin exerts its anabolic actions both directly on target tissues and indirectly by stimulating hepatic secretion of insulin-like growth factor 1 (IGF-1).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatotrophin designates a hormone produced by the anterior pituitary gland; promotes growth in humans."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Hypersecretion of pituitary **somatotrophin** in adults whose epiphyses have fused results in the grotesque disfigurement of acromegaly."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"The acidophilic cells of the anterior lobe elaborate **somatotrophin**, promoting skeletal elongation and cellular mitosis."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"Deficiency of **somatotrophin** during early childhood retards skeletal ossification and leads to symmetrical dwarfism."*

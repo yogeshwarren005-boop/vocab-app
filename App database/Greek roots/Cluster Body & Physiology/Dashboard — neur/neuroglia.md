@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: glia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: glia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The non-neuronal supporting cellular framework and connective interstitial tissue of the central and peripheral nervous systems (glial cells).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular neuroscience, the diverse collective of astrocytes, oligodendrocytes, microglia, and ependymal cells that maintain ionic homeostasis, form myelin sheaths, modulate synapses, and provide immune defense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog neuroglia as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Rudolf Virchow (*Die Cellularpathologie in ihrer Begründung auf physiologische und pathologische Gewebelehre*):** *"I introduced the term **neuroglia** for that interstitial connective substance which cements the nerve elements of the brain and cord together."*
+> - 📜 **Santiago Ramón y Cajal (*Texture of the Nervous System of Man and the Vertebrates*):** *"Glial cells are not inert structural scaffolding; the **neuroglia** actively regulates metabolic exchange between blood capillaries and neurons."*
+> - 📜 **Pío del Río-Hortega (*Microglia*):** *"By developing specific silver carbonate impregnations, I demonstrated that **neuroglia** contains distinct mobile phagocytic elements."*

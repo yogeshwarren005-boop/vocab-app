@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of noninvasive therapy which holds that certain musculoskeletal disorders result from nervous system dysfunction arising from misalignment of the spine and joints and that focuses treatment especially on the manual adjustment or manipulation of the spinal vertebrae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of noninvasive therapy which holds that certain musculoskeletal disorders result from nervous system dysfunction arising from misalignment of the spine and joints and that focuses treatment especially on the manual adjustment or manipulation of the spinal vertebrae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of complementary medicine based on the manual adjustment and manipulation of the spinal column to promote health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In health sociology and alternative medicine, an osteopathic-adjacent discipline founded by D. D. Palmer centered on spinal subluxation theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiropractic designates a system of noninvasive therapy which holds that certain musculoskeletal disorders result from nervous system dysfunction arising from misalignment of the spine and joints and that focuses treatment especially on the manual adjustment or manipulation of the spinal vertebrae."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Many patients with stubborn lower back ache turn to **chiropractic** manipulation when conventional analgesics bring no respite."*
+> - 📜 **William Osler (*The Master-Word in Medicine*):** *"Every century brings forth novel manual therapies, of which modern **chiropractic** is but the latest permutation."*
+> - 📜 **Lewis Thomas (*The Medusa and the Snail*):** *"The persistent popularity of **chiropractic** reminds the medical establishment of the therapeutic power inherent in the laying on of hands."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn into cartilage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into cartilage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert into, develop into, or become cartilage; to undergo chondrification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryological morphogenesis, the cellular differentiation of mesenchyme into mature cartilaginous matrix.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondrify designates turn into cartilage."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Comparative Anatomy*):** *"During embryonic development, the blastema begins to **chondrify** along the future axis of the vertebral column."*
+> - 📜 **Richard Owen (*On the Archetype of the Skeleton*):** *"The mesenchyme of the limb bud must first **chondrify** before endochondral ossification can replace it with true bone."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In certain benign tumors, mesenchymal cells retain the latent capacity to **chondrify** and form hyaline islands."*

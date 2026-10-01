@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of lymantriidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of lymantriidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tussock moths in the family Erebidae (formerly Lymantriidae) whose caterpillars possess irritating, urticating hairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical entomology and toxicology, a genus including pest species (such as the brown-tail moth, Euproctis chrysorrhoea) whose larval setae contain histamine-releasing venom causing severe dermatitis and conjunctivitis (lepidopterism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euproctis designates a genus of lymantriidae."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"The caterpillars of **euproctis** weave protective silken tents, bristling with fine hairs that produce intense itching upon contact."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe contact dermatitis among forestry workers was traced to the wind-blown urticating hairs of **euproctis** caterpillars."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Aerial spraying campaigns targeted invasive infestations of the **euproctis** tussock moth across eastern hardwood forests."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Development and formation of bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hereditary disease caused by defective or deficient collagen production and marked by extreme brittleness of the long bones and a bluish color of the whites of the eyes —called also brittle bone disease, brittle bones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process of bone formation, development, and mineralization; ossification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics, specifically osteogenesis imperfecta (brittle bone disease), a hereditary disorder of type I collagen synthesis causing fragile bones and blue sclerae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteogenesis designates development and formation of bone."*
+> - 📜 **Alexander Maximow (*A Text-Book of Histology*):** *"Endochondral **osteogenesis** replaces a cartilaginous model with vascularized trabecular bone, whereas intramembranous ossification develops directly from mesenchyme."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Active periosteal **osteogenesis** bridges the fracture gap, providing the provisional callus that stabilizes broken bones."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Primary centers of **osteogenesis** appear in the fetal diaphysis long before secondary epiphyseal ossification commences."*

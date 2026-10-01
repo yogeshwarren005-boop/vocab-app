@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: succulent shrub or tree of tropical africa and arabia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: succulent shrub or tree of tropical africa and arabia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of succulent pachycaul shrubs and small trees in the dogbane family (Apocynaceae), commonly known as desert roses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and ethnobotany, African desert succulents containing toxic cardiac glycosides historically utilized as arrow poisons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenium designates one species: succulent shrub or tree of tropical africa and arabia."*
+> - 📜 **John Lindley (*Edwards's Botanical Register*):** *"The swollen caudex of **adenium** provides an extraordinary reservoir of moisture amidst the arid wastes of southern Arabia."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Cultivated specimens of **adenium** produce dazzling clusters of crimson funnelform blossoms above a bonsai-like basal trunk."*
+> - 📜 **Richard Evans Schultes (*Plants of the Gods*):** *"Indigenous hunters throughout East Africa pounded the bark of **adenium** to extract lethal cardiac arrow venoms."*

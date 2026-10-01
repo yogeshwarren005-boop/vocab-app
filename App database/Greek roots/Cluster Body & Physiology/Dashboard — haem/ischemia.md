@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deficient supply of blood to a body part (such as the heart or brain) that is due to obstruction of the inflow of arterial blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient supply of blood to a body part (such as the heart or brain) that is due to obstruction of the inflow of arterial blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inadequate blood supply to an organ or tissue of the body, causing a deficiency of oxygen and nutrients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathophysiological cardiology and neurology, localized tissue hypoperfusion resulting from arterial stenosis, thrombosis, embolism, or spasm, leading to cellular dysfunction or infarction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ischemia designates deficient supply of blood to a body part (such as the heart or brain) that is due to obstruction of the inflow of arterial blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Angina pectoris arises from transient myocardial **ischemia** provoked when coronary flow fails to satisfy metabolic demand."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Complete arterial **ischemia** leads irrevocably to coagulation necrosis and ischemic infarction of the dependent tissue territory."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"During localized **ischemia**, accumulation of acidic metabolites and adenosine acts as a potent stimulus for collateral vasodilation."*

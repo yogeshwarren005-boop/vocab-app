@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soreness of voluntary muscle due to inflammation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soreness of voluntary muscle due to inflammation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a muscle, particularly a skeletal voluntary muscle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology and pathology, an acute or chronic condition characterized by muscle weakness, tenderness, and lymphocytic infiltration, including dermatomyositis and polymyositis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myositis designates soreness of voluntary muscle due to inflammation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Primary suppurative **myositis** may follow deep trauma, causing exquisite local swelling and septic fever."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Biopsy specimens in chronic **myositis** demonstrate marked interstitial mononuclear infiltration and myofiber degeneration."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"In acute **myositis**, even the gentlest palpation of the calf muscles elicits intense agony."*

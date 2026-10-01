@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing equal or similar to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One able to cope with another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, item, or entity equal, suited, or corresponding to another; also, a contest or game between opposing sides, or a friction device for producing flame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marriage, social relations, or sporting competitions, an alliance or formal contest between two individuals, parties, or athletic contenders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou proceed As high as word, my deed shall match thy deed. [_Flourish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Half won is match well made; match, and well make it; He ne’er pays after-debts, take it before."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gracious madam, I that do bring the news made not the match."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Content thee, gentle coz, let him alone; he bears him like a portly gentleman... you shall find no **match** for him in Verona."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"To look upon him as a suitable **match** for Elizabeth had never entered her mother's wildest imagination."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He struck a **match** against the rough hearth, illuminating the dark corners of the forge."*

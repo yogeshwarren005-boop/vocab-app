@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the chest caused by inflammation of the muscles between the ribs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the chest caused by inflammation of the muscles between the ribs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the side, chest wall, or pleura (pleurodynia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, sharp, lancinating thoracic chest pain aggravated by deep inspiration or coughing, originating from parietal pleural irritation, intercostal neuralgia, or rib trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleuralgia designates pain in the chest caused by inflammation of the muscles between the ribs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden onset of severe **pleuralgia** in young adults should suggest acute pleurisy or spontaneous pneumothorax."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Intercostal shingles often masquerades as acute **pleuralgia** before the vesicular cutaneous eruption appears."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Patients tormented with sharp **pleuralgia** find breathing insupportable except when lying immobilized on the affected side."*

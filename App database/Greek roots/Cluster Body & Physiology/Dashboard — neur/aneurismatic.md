@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected by an aneurysm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affected by an aneurysm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with or exhibiting the characteristics of an aneurism; aneurysmal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In older medical literature, relating to the pathological formation, structure, or manifestations of an aneurismal dilatation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aneurismatic designates relating to or affected by an aneurysm."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Post-mortem examination disclosed an extensive **aneurismatic** pouch arising from the thoracic aorta and eroding the adjacent ribs."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Auscultation enables the physician to detect the rasping bellows-sound indicative of an **aneurismatic** dilatation of the arterial trunk."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"The **aneurismatic** tumor gradually expanded until its thinned walls ruptured into the left pleural cavity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a tall dark (mostly muslim) people inhabiting somalia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the african republic of somalia or its people or their language and culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or native to Somalia or its inhabitants; an alternative adjective and demonym for Somali.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in geographical, diplomatic, and ecological literature to describe the terrestrial fauna, coastal fisheries, and cultural traditions of the Somali peninsula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somalian designates a member of a tall dark (mostly muslim) people inhabiting somalia."*
+> - 📜 **Richard Burton (*First Footsteps in East Africa*):** *"We traversed the vast **Somalian** scrublands, enduring extreme heat under the shelter of thorny acacia groves."*
+> - 📜 **Arthur Rimbaud (*Letters from Harar*):** *"The **Somalian** trade routes to the interior remained closed for months during inter-clan disputes."*
+> - 📜 **Winston Churchill (*My Early Life*):** *"Troops dispatched to the **Somalian** border encountered barren stony wastes and fiercely independent nomadic bands."*

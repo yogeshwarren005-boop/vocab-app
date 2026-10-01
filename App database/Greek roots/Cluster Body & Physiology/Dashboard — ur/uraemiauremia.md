@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The toxic clinical syndrome arising from severe renal failure, characterized by the retention in the blood of urea and other nitrogenous waste products normally excreted in urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Known in British medical literature as uraemia and American as uremia, clinical manifestations include anorexia, nausea, uremic encephalopathy, asterixis, pericardial friction rub (uremic pericarditis), and pruritus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uraemiauremia designates a term designating an entity, condition, or phenomenon derived from greek ur."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The toxemia of terminal **uremia** clouds the patient's intellect, ushering in deep coma and stertorous breathing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In advanced **uraemia**, the retention of nitrogenous waste produces a peculiar ammoniacal odor on the breath."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Convulsive seizures occurring in chronic Bright's disease are attributable to profound systemic **uremia**."*

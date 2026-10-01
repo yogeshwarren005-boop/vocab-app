@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to spleen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to spleen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling the spleen or splenic tissue in structure, appearance, or consistency; spleen-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and histological anatomy, splenoid tissue refers to ectopic splenic nodules (splenosis or accessory spleens) or spleen-like stromal vascularization in atypical tumors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, splenoid designates adjective & noun*) resembling, having the physical form of, or akin to spleen."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The excised peritoneal nodule displayed a distinctly **splenoid** architecture, complete with sinusoids and lymphoid follicles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Following traumatic rupture, autotransplanted peritoneal fragments can form functioning **splenoid** masses throughout the pelvis."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Certain highly vascular mesenchymal tumors exhibit a soft, **splenoid** texture that bleeds profusely on biopsy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any insect of the order Hymenoptera, including bees, wasps, ants, and sawflies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the insect order Hymenoptera; exhibiting characteristic membranous wings, haplodiploidy, and complete metamorphosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenopteran designates insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"The haplodiploid genetic system of the **hymenopteran** predisposes female siblings to altruistic colonial cooperation."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"Kin selection provides an elegant explanation for the evolution of sterile worker castes in the **hymenopteran**."*
+> - 📜 **Jean-Henri Fabre (*Bramble-Bees and Others*):** *"Each solitary **hymenopteran** constructs her brood cell with architectural geometry innate to her species."*

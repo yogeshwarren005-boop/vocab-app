@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intravenous anesthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intravenous anesthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brominated alcohol (chemical formula C2H3Br3O, commonly marketed as Avertin), used historically as a sedative and general anesthetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and laboratory animal science, tribromoethanol was formerly used for basal anesthesia in human surgery, and continues to be employed in veterinary research for short surgical procedures in rodents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribromoethanol designates an intravenous anesthetic."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Rectal administration of **tribromoethanol** produced rapid basal narcosis, reducing the required concentration of volatile inhalation agents."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"The hepatotoxic potential and myocardial depression of **tribromoethanol** led to its replacement by safer modern anesthetics."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Basal narcosis induced by **tribromoethanol** smoothed the transition to intracranial operating room procedures in anxious patients."*

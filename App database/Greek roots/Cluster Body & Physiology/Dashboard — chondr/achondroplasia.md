@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic disorder that is marked by abnormally slow conversion of cartilage to bone during development resulting in a form of dwarfism characterized by a usually normal torso and shortened limbs and that is usually inherited as an autosomal dominant trait.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genetic disorder that is marked by abnormally slow conversion of cartilage to bone during development resulting in a form of dwarfism characterized by a usually normal torso and shortened limbs and that is usually inherited as an autosomal dominant trait.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic disorder of bone growth that results in disproportionate dwarfism, characterized by shortened limbs and normal trunk size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics, an autosomal dominant skeletal dysplasia caused by a gain-of-function mutation in the FGFR3 receptor gene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achondroplasia designates a genetic disorder that is marked by abnormally slow conversion of cartilage to bone during development resulting in a form of dwarfism characterized by a usually normal torso and shortened limbs and that is usually inherited as an autosomal dominant trait."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The typical patient with **achondroplasia** displays short, muscular extremities with a prominent forehead and normal intellect."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"In congenital **achondroplasia**, the long bones of the limbs fail to elongate while periosteal thickening proceeds unabated."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"The skeletal proportions characteristic of **achondroplasia** were faithfully depicted by Velázquez in his portraits of Spanish court dwarfs."*

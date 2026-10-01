@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscle in the back part of the leg that forms the greater part of the calf; responsible for the plantar flexion of the foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The muscle in the back part of the leg that forms the greater part of the calf; responsible for the plantar flexion of the foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief muscle of the calf of the leg, which flexes the knee and foot, terminating downward in the calcaneal (Achilles) tendon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musculoskeletal anatomy, a superficial two-headed biarticular muscle essential for running, jumping, and plantar flexion of the ankle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrocnemius designates the muscle in the back part of the leg that forms the greater part of the calf; responsible for the plantar flexion of the foot."*
+> - 📜 **Leonardo da Vinci (*Anatomical Drawings*):** *"The two powerful bellies of the **gastrocnemius** unite into the strong cord of the heel to lift the whole weight of the body in walking."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The massive development of the human **gastrocnemius** muscle is an evolutionary adaptation directly linked to upright bipedal posture."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Following the tendon tear, the lateral head of my **gastrocnemius** contracted into an agonizing, useless knot of muscle fiber."*

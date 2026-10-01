@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ischi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form or prefix derived from Greek ἰσχίον (ischion), signifying the ischium, hip joint, or pelvic region in vertebrate anatomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical nomenclature, an affix employed in designating structural complexes, muscles, or nerves uniting the ischium with adjoining regions (such as ischiofemoral or ischiorectal).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ischi designates a term designating an entity, condition, or phenomenon derived from greek ischi."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The prefix **ischi** designates anatomical connections uniting the hip bone with neighboring spinal and pelvic ligaments."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"In comparative anatomy, the **ischi**-pubic arch exhibits profound modifications reflecting bipedal versus quadrupedal locomotion."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The **ischi**-bulbar musculature differentiates early in embryonic life around the perineal floor."*

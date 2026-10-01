@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one or more chromosomes present in two copies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having one or more chromosomes present in two copies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two homologous copies of each chromosome (as in a normal diploid state), or possessing two copies of a specific chromosome in an aneuploid background.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In haploid genetics or fungal biology, a disomic strain carries one extra duplicate chromosome (n + 1); in human cytogenetics, disomic inheritance denotes normal biparental or uniparental chromosome pairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disomic designates having one or more chromosomes present in two copies."*
+> - 📜 **Albert Blakeslee (*The Chromosome Constitution of Datura Mutants*):** *"The standard diploid organism is normally **disomic** for each set of homologous genetic linkage groups."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"Meiotic restitution nuclei produce gametes that are functionally **disomic** for individual chromosomes."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"A strain remaining **disomic** for the sex element exhibits predictable sex-linked phenotypic ratios in its progeny."*

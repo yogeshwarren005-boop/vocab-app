@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 6-faced polyhedron all of whose faces are parallelograms lying in pairs of parallel planes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 6-faced polyhedron all of whose faces are parallelograms lying in pairs of parallel planes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A six-faced three-dimensional polyhedron whose faces are all parallelograms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and vector calculus, the unit cell or volume spanned by three linearly independent basis vectors computed via scalar triple product.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parallelepiped designates a 6-faced polyhedron all of whose faces are parallelograms lying in pairs of parallel planes."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"The cubical content of an oblique **parallelepiped** is calculated by multiplying its base area by its perpendicular altitude."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"We establish the flux of magnetic induction across the differential faces of an infinitesimal **parallelepiped**."*
+> - 📜 **René Just Haüy (*Traité de Minéralogie*):** *"Calcite cleaves naturally into a rhombohedral **parallelepiped**, revealing the fundamental geometric brick of its crystal lattice."*

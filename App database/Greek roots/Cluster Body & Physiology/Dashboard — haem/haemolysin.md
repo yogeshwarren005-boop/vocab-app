@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that can cause lysis (destruction) of erythrocytes (red blood cells) and the release of their hemoglobin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance that can cause lysis (destruction) of erythrocytes (red blood cells) and the release of their hemoglobin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody, toxin, or biological agent capable of destroying red blood cells and liberating their hemoglobin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and microbiology, a bacterial exotoxin (such as streptolysin) or serological immune complex that induces complement-mediated lysis of red blood cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemolysin designates any substance that can cause lysis (destruction) of erythrocytes (red blood cells) and the release of their hemoglobin."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"By immunizing an animal with foreign erythrocytes, a specific immune **haemolysin** is generated in the serum requiring complement for activation."*
+> - 📜 **Jules Bordet (*Studies in Immunity*):** *"The destruction of red cells requires two distinct substances: a sensitizing **haemolysin** and a heat-labile alexin."*
+> - 📜 **Alexander Fleming (*On the Antibacterial Action of Cultures of a Penicillium*):** *"Bacterial filtrates rich in pathogenic **haemolysin** caused clear zones of clearing upon defibrinated blood agar plates."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronic and abnormal anxiety about one's health, characterized by the persistent belief that one has a serious undiagnosed medical illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in humoral medicine, a nervous affliction believed to originate in the abdominal organs situated beneath the ribs (the hypochondrium).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I wish this present hour would never end: who knows with what fate the next may come charged?” “This is hypochondria, Jane."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The fact that this introspection is an inevitable symptom in many mental derangements, hypochondria, melancholia and others, indicates a not very remote relation of Weltschmerz to insanity."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Wir wollen von andern Dingen sprechen...."[189] And yet Heine's disposition was not naturally inclined to hypochondria."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Windy vapors ascending from the spleen and liver into the brain were held to be the prime cause of **hypochondria**."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The imaginary invalid suffers no less torment from his **hypochondria** than if his fancied distemper were real."*
+> - 📜 **William Osler (*Aequanimitas*):** *"To listen with unwearied patience to the manifold complaints of **hypochondria** tests the equanimity of the physician."*

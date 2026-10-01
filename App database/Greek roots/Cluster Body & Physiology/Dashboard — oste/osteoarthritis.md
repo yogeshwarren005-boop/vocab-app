@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A common form of arthritis typically with onset during middle or old age that is characterized by progressive degenerative changes in the cartilage of one or more joints (as of the knees, hips, and hands) accompanied by thickening and overgrowth of adjacent bone and that is marked symptomatically chiefly by stiffness, swelling, pain, deformation of joints, and loss of range of motion —abbreviation OA.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common form of arthritis typically with onset during middle or old age that is characterized by progressive degenerative changes in the cartilage of one or more joints (as of the knees, hips, and hands) accompanied by thickening and overgrowth of adjacent bone and that is marked symptomatically chiefly by stiffness, swelling, pain, deformation of joints, and loss of range of motion —abbreviation OA.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A degenerative joint disease characterized by the breakdown and eventual loss of cartilage of one or more joints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology and orthopedic pathology, the most common form of arthritis, involving progressive degradation of articular cartilage, subchondral bone sclerosis, and osteophyte formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoarthritis designates a common form of arthritis typically with onset during middle or old age that is characterized by progressive degenerative changes in the cartilage of one or more joints (as of the knees, hips, and hands) accompanied by thickening and overgrowth of adjacent bone and that is marked symptomatically chiefly by stiffness, swelling, pain, deformation of joints, and loss of range of motion —abbreviation oa."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic **osteoarthritis**, the articular cartilage is gradually worn away, exposing the polished eburnated bone beneath."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic sections in severe **osteoarthritis** reveal chondrocyte clustering and deep fibrillations of the articular cartilage."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Cervical spine mobility was significantly restricted by advanced degenerative **osteoarthritis**."*

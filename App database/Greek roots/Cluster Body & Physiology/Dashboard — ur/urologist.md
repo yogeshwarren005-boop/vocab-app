@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in urology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in urology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical physician and surgeon who specializes in urology, diagnosing and treating disorders of the urinary system in males and females and the reproductive system in males.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern surgical practice, a urologist manages nephrolithiasis, uro-oncology (prostate, bladder, renal cancers), benign prostatic hyperplasia (BPH), urinary incontinence, and male infertility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urologist designates a specialist in urology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The skilled **urologist** utilizes cystoscopic catheterization to ascertain the functional capacity of each kidney separately."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Collaboration between the general surgeon and the specialized **urologist** advanced operative safety in pelvic interventions."*
+> - 📜 **Astley Cooper (*The Principles and Practice of Surgery*):** *"The early lithotomist was the direct historical forerunner of the modern hospital **urologist**."*

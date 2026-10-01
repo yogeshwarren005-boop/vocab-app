@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tubular glandular excretory organ characteristic of various invertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tubular glandular excretory organ characteristic of various invertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tubular excretory organ found in many invertebrates, serving functions analogous to the vertebrate kidney.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative invertebrate morphology, categorized as either a protonephridium (with flame cells) or metanephridium (with an open coelomic nephrostome), maintaining osmoregulation and waste expulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephridium designates a tubular glandular excretory organ characteristic of various invertebrates."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The annelid **nephridium** exhibits a complex convoluted canal lined with active ciliated epithelium."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Osmotic regulation in freshwater invertebrates is largely maintained through active transport along the **nephridium**."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The segmental arrangement of the **nephridium** mirrors the primitive metameric architecture of the coelom."*

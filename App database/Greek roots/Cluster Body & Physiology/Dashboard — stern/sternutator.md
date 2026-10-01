@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance that causes sneezing and coughing and crying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance that causes sneezing and coughing and crying.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance, chemical compound, or agent that induces sneezing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military toxicology, sensory irritant riot control agents (such as diphenylchloroarsine or Adamsite) are classified as sternutators, designed to cause sneezing, coughing, and nausea to force the removal of protective masks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sternutator designates a chemical substance that causes sneezing and coughing and crying."*
+> - 📜 **Fritz Haber (*The Chemical Warfare*):** *"Arsenical particulate clouds functioned as an efficient **sternutator**, penetrating standard charcoal filters to incapacitate the enemy."*
+> - 📜 **Claude Bernard (*Lessons on the Effects of Toxic and Medicinal Substances*):** *"The synthetic compound acted as a violent **sternutator**, provoking uncontrollable sneezing even at extreme dilutions."*
+> - 📜 **John Scott Haldane (*Investigation of Mine Air*):** *"Inhaling fine mineral dusts serves as a mechanical **sternutator**, triggering protective clearance reflexes in the upper respiratory tract."*

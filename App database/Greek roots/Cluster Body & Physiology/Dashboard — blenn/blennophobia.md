@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek blenn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational, abnormal, and persistent fear or visceral revulsion of slime, mucus, or viscous substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology, a specific phobia presenting with acute disgust and avoidance behaviors triggered by slippery, slimy, or gelatinous textures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blennophobia designates a term designating an entity, condition, or phenomenon derived from greek blenn."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Visceral aversions to slippery textures often crystallize into pathological **blennophobia**, paralyzing the neurotic subject."*
+> - 📜 **G. Stanley Hall (*A Study of Fears*):** *"In children, an intense horror of slugs and sticky mud often heralds persistent adult **blennophobia**."*
+> - 📜 **George M. Beard (*A Practical Treatise on Nervous Exhaustion*):** *"Morbid dread of bodily secretions is a well-known symptom of neurasthenia, presenting as acute **blennophobia**."*

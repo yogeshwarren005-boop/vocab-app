@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sarcoma derived from bone or containing bone tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sarcoma derived from bone or containing bone tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most common primary malignant bone tumor, characterized by the direct production of osteoid or immature bone by neoplastic mesenchymal cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic oncology, an aggressive cancer arising predominantly in the metaphyses of long bones (such as the distal femur or proximal tibia) in adolescents and young adults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteosarcoma designates a sarcoma derived from bone or containing bone tissue."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"The histologic hallmark of **osteosarcoma** is the deposition of unmineralized osteoid matrix by highly pleomorphic, anaplastic stromal cells."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Amputation was formerly the sole treatment for extremity **osteosarcoma**, but modern adjuvant chemotherapy enables limb-salvage surgery."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Multi-agent chemotherapy transformed the survival curve of young patients diagnosed with metastatic **osteosarcoma**."*

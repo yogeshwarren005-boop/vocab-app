@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bronch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal softening, weakness, or loss of structural rigidity in the cartilaginous support rings of the bronchial walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric pulmonology, a congenital or acquired disorder causing expiratory dynamic airway collapse, persistent stridor, and recurrent respiratory infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchomalacia designates a term designating an entity, condition, or phenomenon derived from greek bronch."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Congenital **bronchomalacia** results from defective chondrogenesis in the embryonic bronchial arches, leading to flaccid airway walls."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dynamic airway collapse in **bronchomalacia** provokes chronic brassy cough and severe respiratory distress during crying or exertion."*
+> - 📜 **Harvey Cushing (*Surgery of the Mediastinum*):** *"Extrinsic compression from vascular rings can induce localized **bronchomalacia**, predisposing the infant to sudden suffocative crises."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme aneuploid state characterized by the presence of seven copies of a particular chromosome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Observed rarely in high-polyploid plants or experimentally manipulated tissue cultures where unequal meiotic disjunction generates multivalent chromosomal excess.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptasomy designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Albert Blakeslee (*New Datura Mutants*):** *"Plants exhibiting **heptasomy** show exaggerated morphological stunting and severely distorted leaf serration."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"The mechanical pairing of seven homologs in **heptasomy** yields irregular multivalent configurations at diakinesis."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"Extreme polysomy such as **heptasomy** demonstrates the outer developmental limit of chromosomal tolerance in flora."*

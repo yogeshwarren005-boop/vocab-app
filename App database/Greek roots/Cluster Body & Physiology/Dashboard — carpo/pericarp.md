@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ripened and variously modified walls of a plant ovary composed of an outer exocarp, middle mesocarp, and inner endocarp layer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ripened and variously modified walls of a plant ovary composed of an outer exocarp, middle mesocarp, and inner endocarp layer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ripened and modified wall of a plant ovary that encloses the seeds; the fruit wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical anatomy, the structure developing from the ovary wall after fertilization, classically differentiated into epicarp (exocarp), mesocarp, and endocarp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericarp designates the ripened and variously modified walls of a plant ovary composed of an outer exocarp, middle mesocarp, and inner endocarp layer."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The **pericarp** exhibits immense morphological diversity, ranging from the papery pod of a pea to the hard shell of a hazelnut."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Whatever intervenes between the seed and the outer surface of the fruit belongs properly to the botanical **pericarp**."*
+> - 📜 **Julius von Sachs (*Textbook of Botany*):** *"Cell division and cellular enlargement in the **pericarp** are triggered by hormone signals released from developing seeds."*

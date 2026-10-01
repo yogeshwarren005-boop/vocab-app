@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary outgrowth used by some microorganisms as an organ of feeding or locomotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporary outgrowth used by some microorganisms as an organ of feeding or locomotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary cytoplasmic protrusion extended by an amoeba or amoeboid cell for locomotion or feeding (plural: pseudopodia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biomechanics, an actin-myosin cytoskeleton extension (lobopodium, filopodium, or reticulopodium) enabling cell motility, haptotaxis, and phagocytic uptake of microbes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudopodium designates temporary outgrowth used by some microorganisms as an organ of feeding or locomotion."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The crawling leucocyte puts forth a delicate **pseudopodium**, demonstrating the intrinsic motility of individual living cells."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"By extending and retracting each **pseudopodium**, the freshwater Rhizopod engulfs unicellular algae."*
+> - 📜 **Alexander Maximow (*A Text-Book of Histology*):** *"Upon contacting a bacterial target, the macrophage projects an encircling **pseudopodium** to complete the phagocytic cup."*

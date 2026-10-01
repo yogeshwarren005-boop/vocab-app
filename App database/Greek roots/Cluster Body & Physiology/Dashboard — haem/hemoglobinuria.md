@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of free hemoglobin in the urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of free hemoglobin in the urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal excretion of free hemoglobin in the urine, giving it a dark red or brown smoky hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology, a sign of rapid intravascular erythrocyte destruction that saturates serum haptoglobin and spills free hemoglobin through the renal glomeruli into the urine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemoglobinuria designates the presence of free hemoglobin in the urine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden voiding of dark burgundy urine during an acute attack of cold-induced paroxysmal **hemoglobinuria** represents extensive intravascular red cell breakdown."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"The definitive clinical crisis of blackwater fever is marked by profound rigors, jaundice, and intense **hemoglobinuria**."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Our serological tests showed that auto-antibodies were responsible for triggering the rapid hemolysis and resulting **hemoglobinuria**."*

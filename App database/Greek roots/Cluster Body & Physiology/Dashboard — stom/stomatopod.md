@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of crustacean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of crustacean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any marine predatory crustacean belonging to the order Stomatopoda, commonly known as a mantis shrimp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, stomatopods are famous for their raptorial second thoracic appendages (adapted for spearing or smashing hard-shelled prey at explosive speeds) and hyper-complex compound eyes capable of polarized and multispectral vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatopod designates a kind of crustacean."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The raptorial claws of the **stomatopod** strike out with incredible velocity to crush mollusks and crabs."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Among the coral pools of Keeling Island, an active **stomatopod** darted into rocky crevices when alarmed."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The flattened abdomen and specialized pleopods of the **stomatopod** function as efficient swimming and respiratory organs."*

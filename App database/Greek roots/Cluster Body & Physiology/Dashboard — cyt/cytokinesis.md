@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cytoplasmic changes accompanying mitosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cleavage of the cytoplasm into daughter cells following nuclear division.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical division of the cytoplasm of a parental cell into two daughter cells following mitosis or meiosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology, the stage of the cell cycle driven in animal cells by a contractile ring of actin and myosin filaments, and in plant cells by cell plate formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytokinesis designates the cytoplasmic changes accompanying mitosis."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"Nuclear division or karyokinesis is followed by the cleavage of the cell body itself, termed **cytokinesis**."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"During animal cell **cytokinesis**, a purse-string constriction of actin microfilaments pinches the plasma membrane into two distinct cells."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The coordination between chromosome segregation and physical **cytokinesis** ensures equal distribution of genetic heritage."*

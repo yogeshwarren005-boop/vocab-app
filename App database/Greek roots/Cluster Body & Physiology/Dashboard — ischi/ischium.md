@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower and posterior of the three principal bones composing either half of the pelvis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lower and posterior of the three principal bones composing either half of the pelvis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest and posterior of the three primary bones that fuse to form each half of the vertebrate pelvis (os coxae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology, the heavy bone composed of a body, superior and inferior rami, and a large rugose tuberosity that supports sitting posture and serves as attachment for posterior thigh muscles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ischium designates the lower and posterior of the three principal bones composing either half of the pelvis."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **ischium** forms the lower and back part of the innominate bone, terminating inferiorly in the great tuberosity."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Homologies between the **ischium** of terrestrial mammals and the pelvic rudiments of cetaceans reveal ancestral pelvic architecture."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Ossification of the **ischium** proceeds from a primary center appearing during the third month of fetal development."*

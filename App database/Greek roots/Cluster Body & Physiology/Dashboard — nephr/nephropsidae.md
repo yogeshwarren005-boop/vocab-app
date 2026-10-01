@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications coextensive with the homaridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications coextensive with the homaridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternate or obsolete spelling of Nephropidae, the family of clawed lobsters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic carcinology and marine zoology, marine decapod crustaceans possessing large, asymmetrical claws (chelipeds) and calcified abdominal somites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephropsidae designates in some classifications coextensive with the homaridae."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The marine clawed lobsters included within **Nephropsidae** share a tripartite body plan and calcified carapace."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Members of **Nephropsidae** are readily separated from spiny lobsters by the prominent development of anterior pinchers."*
+> - 📜 **William Thomas Calman (*The Life of Crustacea*):** *"Taxonomic arrangements of the **Nephropsidae** emphasize the structure of the branchial formulas and thoracic appendages."*

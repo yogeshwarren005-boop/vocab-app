@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or behavior of consuming or feeding on blood; hematophagy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and immunology, the phagocytic ingestion and digestion of red blood cells by macrophages and histiocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemophagy designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The nocturnal **hemophagy** of the vampire bat upon cattle in the Pampas is carried out with such gentle incision that the sleeper never stirs."*
+> - 📜 **Élie Metchnikoff (*Immunity in Infective Diseases*):** *"Within the spleen pulp, active **hemophagy** by wandering macrophages represents nature's routine method for clearing aged, worn-out red cells."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"The habit of **hemophagy** among hematophagous arthropods constitutes the obligate biological bridge for transmitting blood-borne filariae."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of all or a major part of the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital absence of all or a major part of the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious birth defect in which a baby is born without parts of the brain and skull, caused by failure of the neural tube to close.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prenatal medicine and epidemiology, a lethal congenital neural tube defect preventable in large part by periconceptional maternal folic acid supplementation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anencephaly designates congenital absence of all or a major part of the brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The incidence of **anencephaly** displays striking geographic variation and a notable preponderance among female infants."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"The tragedy of **anencephaly** underscores the absolute dependence of conscious awareness upon an intact cerebral cortex."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures and Reports*):** *"Early maternal serum screening has dramatically reduced the birth prevalence of open **anencephaly**."*

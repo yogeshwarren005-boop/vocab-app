@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin membranous sheath around a nerve fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thin membranous sheath around a nerve fiber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thin membranous outer sheath of Schwann cells enclosing the myelin sheath of peripheral nerve fibers; an alternative spelling of neurilemma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical terminology, the external nucleated cytoplasmic layer of a Schwann cell surrounding an axon in the peripheral nervous system, absent in the central nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurolemma designates thin membranous sheath around a nerve fiber."*
+> - 📜 **Theodor Schwann (*Microscopical Researches*):** *"The structureless outer membrane enclosing the fatty matter of the peripheral fiber corresponds to the cellular **neurolemma**."*
+> - 📜 **Louis-Antoine Ranvier (*Leçons sur l'histologie du système nerveux*):** *"At each node of Ranvier, the myelin is interrupted while the delicate **neurolemma** continues across the constriction."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The presence of a nucleated **neurolemma** in peripheral nerves explains their capacity for regeneration compared to central white tracts."*

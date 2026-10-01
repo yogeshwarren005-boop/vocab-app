@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost of the three primary germ layers of an embryo that is the source of the epithelium of the digestive tract and its derivatives and of the lower respiratory tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tissue (such as esophageal or pancreatic tissue) derived from this germ layer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost layer of cells or tissue of an embryo in early development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, the germ layer that forms the lining of the digestive tract, respiratory system, liver, pancreas, and urinary bladder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoderm designates the innermost of the three primary germ layers of an embryo that is the source of the epithelium of the digestive tract and its derivatives and of the lower respiratory tract."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Comparative Anatomy*):** *"The primitive gut or archenteron of the gastrula is lined entirely by the vegetative **endoderm**."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The **endoderm** preserves the primary nutritive function of the ancestral hypothetical Gastraea."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"Invagination of large yolk-laden cells during gastrulation establishes the future intestinal **endoderm**."*

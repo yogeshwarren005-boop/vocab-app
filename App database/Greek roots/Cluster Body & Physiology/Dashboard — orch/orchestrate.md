@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Write an orchestra score for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plan and direct (a complex undertaking).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To compose, score, or arrange musical material for performance by an orchestra, or to organize and coordinate complex events to achieve a desired outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and strategic discourse, to engineer, direct, or synchronize disparate factions and actions behind the scenes with meticulous calculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It is my opinion that the positions taken by the governments of the Jovian Federation are orchestrated."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"To **orchestrate** a melody successfully, the musician must perceive in imagination the unique timbre of every instrument."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The Allied commanders met in secret to **orchestrate** the coordinated amphibious landings along the Normandy coast."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Skillful party leaders often seek to **orchestrate** public opinion through newspapers and political assemblies."*

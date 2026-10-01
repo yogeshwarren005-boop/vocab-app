@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any neuropathy of a single nerve trunk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any neuropathy of a single nerve trunk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological condition or neuropathy affecting only a single peripheral or cranial nerve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a focal nerve deficit resulting from localized trauma, entrapment, ischemia, or compression (such as carpal tunnel syndrome of the median nerve), contrasted with generalized polyneuropathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mononeuropathy designates any neuropathy of a single nerve trunk."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Isolated wrist drop resulting from radial nerve compression during drunken stupor represents a classic example of acute **mononeuropathy**."*
+> - 📜 **William Richard Gowers (*A Manual of Diseases of the Nervous System*):** *"Focal entrapment beneath a rigid ligament leads to chronic **mononeuropathy**, with sensory loss restricted to the autonomous anatomical zone."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"The diagnostic differentiation between a toxic polyneuritis and an ischemic diabetic **mononeuropathy** rests upon the asymmetric distribution of deficits."*

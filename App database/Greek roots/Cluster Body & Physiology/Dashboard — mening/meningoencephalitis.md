@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the brain and spinal cord and their meninges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the brain and spinal cord and their meninges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammatory condition affecting both the meninges and the underlying brain tissue (encephalon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious neuropathology, an acute or chronic condition caused by viral, bacterial, fungal, or amoebic pathogens presenting with fever, altered consciousness, and neurological deficits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meningoencephalitis designates inflammation of the brain and spinal cord and their meninges."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Fulminant viral **meningoencephalitis** rapidly advances from severe cephalalgia to delirium and focal motor seizures."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Microscopic sections in chronic **meningoencephalitis** reveal extensive perivascular lymphocytic cuffing throughout the cortex."*
+> - 📜 **Victor Horsley (*The Pathology of the Nervous System*):** *"Prompt identification of the causative agent in acute **meningoencephalitis** is vital to arrest irreversible cortical necrosis."*

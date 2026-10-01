@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anatomy of the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anatomy of the nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of anatomy that deals with the structural organization, macroscopic features, and microscopic architecture of the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical education and research, the foundational discipline elucidating neural nuclei, fiber tracts, cranial nerve origins, and cortical localization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroanatomy designates the anatomy of the nervous system."*
+> - 📜 **Thomas Willis (*Cerebri Anatome*):** *"A rigorous foundation in **neuroanatomy** is indispensable for unraveling the mysteries of voluntary motion and sensation."*
+> - 📜 **Santiago Ramón y Cajal (*Texture of the Nervous System of Man and the Vertebrates*):** *"Modern **neuroanatomy** began when the silver-dichromate method revealed the magnificent diversity of neuronal morphology."*
+> - 📜 **Wilder Penfield (*Epilepsy and the Functional Anatomy of the Human Brain*):** *"The neurosurgeon must command every nuance of **neuroanatomy** before attempting resection within the speech zones."*

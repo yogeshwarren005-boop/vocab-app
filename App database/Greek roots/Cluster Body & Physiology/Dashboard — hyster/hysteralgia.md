@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hyster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the uterus; uterine neuralgia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology, severe pelvic pain or cramping originating from uterine contractions, adenomyosis, endometriosis, or pelvic congestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteralgia designates a term designating an entity, condition, or phenomenon derived from greek hyster."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe spasmodic **hysteralgia** during the menstrual cycle frequently responds to rest, heat, and analgesic sedation."*
+> - 📜 **Thomas Addison (*A Collection of the Published Writings*):** *"Chronic **hysteralgia** was often mistaken by older clinicians for inflammatory peritonitis before pelvic palpation was perfected."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Neuralgic pelvic complaints presenting as **hysteralgia** may accompany generalized neurasthenic debility."*

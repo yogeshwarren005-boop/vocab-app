@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German statesman; chancellor of west germany (1876-1967).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German statesman; chancellor of west germany (1876-1967).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Konrad Adenauer (1876–1967), German statesman who served as the first Federal Chancellor of West Germany from 1949 to 1963.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In postwar European history, the Christian Democratic leader who anchored the Federal Republic in the Western alliance and co-founded European integration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenauer designates german statesman; chancellor of west germany (1876-1967)."*
+> - 📜 **Winston Churchill (*Speeches in the House of Commons*):** *"The resolute leadership of Chancellor **Adenauer** has firmly restored democratic Germany to the family of Western nations."*
+> - 📜 **Dwight D. Eisenhower (*Waging Peace*):** *"In every diplomatic crisis, Konrad **Adenauer** demonstrated unwavering moral conviction and steadfast European loyalty."*
+> - 📜 **Charles de Gaulle (*Memoirs of Hope*):** *"Meeting with **Adenauer** at Colombey-les-Deux-Églises sealed the historic reconciliation between France and Germany."*

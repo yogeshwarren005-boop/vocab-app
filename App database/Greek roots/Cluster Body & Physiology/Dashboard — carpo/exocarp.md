@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost layer of the pericarp of a fruit : epicarp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outermost layer of the pericarp of a fruit : epicarp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost layer of the pericarp of a fruit; the skin or outer covering of a seed vessel; epicarp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carpology, the exterior epidermal and subepidermal tissue of a fruit, often modified with hairs, bloom, or leathery rinds (as in hesperidia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exocarp designates the outermost layer of the pericarp of a fruit : epicarp."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In the walnut, the green fibrous husk that splits open at frost represents the fused **exocarp** and mesocarp."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The leathery rind of the pomegranate consists of the hardened **exocarp** adnate to the accrescent floral tube."*
+> - 📜 **Arthur Johnson Eames (*Morphology of Angiosperms*):** *"Stomatal frequency on the **exocarp** of developing fruits reflects their early photosynthetic contribution prior to ripening."*

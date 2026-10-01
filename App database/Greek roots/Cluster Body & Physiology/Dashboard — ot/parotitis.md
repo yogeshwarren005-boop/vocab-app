@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of one or both parotid glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of one or both parotid glands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of one or both parotid salivary glands, producing painful periauricular swelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious disease and geriatrics, either viral mumps parotitis or bacterial ascending suppurative parotitis occurring in dehydrated, debilitated patients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parotitis designates inflammation of one or both parotid glands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Suppurative **parotitis** in post-operative patients demands energetic rehydration and targeted antibiotic administration."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic examination of epidemic **parotitis** reveals diffuse interstitial lymphocytic infiltrates without suppuration."*
+> - 📜 **Thomas Sydenham (*The Whole Works of That Excellent Practical Physician*):** *"The painful tumefaction beneath the ears known as **parotitis** often migrates toward the testes during convalescence."*

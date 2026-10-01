@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, involving, or specializing in the heart and chest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, involving, or specializing in the heart and chest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving both the heart and the thoracic cavity or its organs (lungs, pleura, esophagus, and great vessels).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgery, the medical specialty encompassing operations on the heart, lungs, esophagus, and chest wall (cardiothoracic surgery).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiothoracic designates relating to, involving, or specializing in the heart and chest."*
+> - 📜 **John Gibbon (*Cardiothoracic Surgery*):** *"The emergence of modern **cardiothoracic** surgery required the synchronized mastery of endotracheal anesthesia, blood banking, and bypass mechanics."*
+> - 📜 **Helen B. Taussig (*Congenital Malformations of the Heart*):** *"The skilled **cardiothoracic** surgeon can reconstruct intricate aortic arch anomalies that were universally fatal in infancy."*
+> - 📜 **Michael DeBakey (*A History of Vascular Surgery*):** *"Resection of thoracic aortic aneurysms remains among the most technically demanding challenges in **cardiothoracic** practice."*

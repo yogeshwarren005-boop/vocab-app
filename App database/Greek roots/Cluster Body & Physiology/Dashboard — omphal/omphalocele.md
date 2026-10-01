@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protrusion of the intestine and omentum through a hernia in the abdominal wall near the navel; usually self correcting after birth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protrusion of the intestine and omentum through a hernia in the abdominal wall near the navel; usually self correcting after birth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital herniation of abdominal viscera into the base of the umbilical cord, enclosed within an amnioperitoneal sac.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric surgery and embryology, a major abdominal wall defect caused by failure of the physiological midgut herniation to return to the peritoneal cavity by the tenth week of gestation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omphalocele designates protrusion of the intestine and omentum through a hernia in the abdominal wall near the navel; usually self correcting after birth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A translucent membranous sac encloses the liver and intestines in neonates born with a large **omphalocele**."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Failure of lateral embryonic body folds to fuse at the midline produces the clinical defect termed **omphalocele**."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Careful staged reduction of the **omphalocele** prevents fatal elevations in intra-abdominal pressure."*

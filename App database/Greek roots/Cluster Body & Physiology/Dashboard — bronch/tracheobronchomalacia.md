@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bronch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by abnormal flaccidity, weakness, and dynamic collapse of both the trachea and the bronchial walls during expiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric and adult pulmonology, diffuse weakness of central airway cartilages causing recurrent barking cough, expiratory stridor, and respiratory arrest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheobronchomalacia designates a term designating an entity, condition, or phenomenon derived from greek bronch."*
+> - 📜 **Chevalier Jackson (*Diseases of the Air and Food Passages of Foreign-Body Origin*):** *"Direct endoscopy in severe **tracheobronchomalacia** reveals the anterior and posterior walls slapping together in complete expiratory collapse."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Congenital **tracheobronchomalacia** arises from structural immaturity of the embryonic cartilaginous rings, improving as the infant matures."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Surgical tracheobronchopexy has been devised to stabilize the collapsing airway in intractable, life-threatening **tracheobronchomalacia**."*

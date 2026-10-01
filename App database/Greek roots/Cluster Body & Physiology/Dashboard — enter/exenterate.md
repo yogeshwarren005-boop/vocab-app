@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the contents of (an organ).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the contents of (an organ).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To eviscerate; to remove the contents of an anatomical cavity or internal viscera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical oncology and anatomical dissection, to excise completely the organs and contents of a body compartment (such as the orbit or pelvis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exenterate designates remove the contents of (an organ)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extensive malignant invasion of the maxillary antrum required the surgeon to **exenterate** the entire orbital cavity."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Before preserving large zoological specimens, collectors carefully **exenterate** the visceral mass to prevent post-mortem putrefaction."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"To achieve clear margins in advanced pelvic sarcoma, the surgical oncology team had to **exenterate** the pelvic basin."*

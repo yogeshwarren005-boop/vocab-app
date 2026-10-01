@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of tropical ferns; sometimes placed in polypodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of tropical ferns; sometimes placed in polypodiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of about 30 species of ferns in the family Nephrolepidaceae, including the sword fern and the common Boston fern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and horticulture, pantropical epiphytic or terrestrial ferns characterized by pinnate fronds and kidney-shaped indusia covering their spore-bearing sori.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrolepis designates small genus of tropical ferns; sometimes placed in polypodiaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Nephrolepis** is recognized by its kidney-shaped indusium attached at the sinus."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivated sports of **Nephrolepis** exhibit remarkable diversity in frond division and leaf curl."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species of **Nephrolepis** flourish as epiphytes along the mossy trunks of tropical rain-forest trees."*

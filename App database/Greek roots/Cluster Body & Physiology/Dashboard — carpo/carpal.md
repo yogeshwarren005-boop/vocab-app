@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the carpus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carpal element or bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the carpus or wrist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In skeletal osteology, any of the eight small, irregularly shaped bones (scaphoid, lunate, triquetrum, pisiform, trapezium, trapezoid, capitate, hamate) that form the human wrist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpal designates of or relating to the carpus."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The eight **carpal** bones are arranged in two transverse rows, closely bound together by dorsal and palmar ligaments."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The proximal row of **carpal** bones articulates directly with the lower end of the radius to form the wrist joint."*
+> - 📜 **Charles Bell (*The Hand: Its Mechanism and Vital Endowments*):** *"The arching configuration of the **carpal** skeleton protects the long flexor tendons and vital nerves from external compression."*

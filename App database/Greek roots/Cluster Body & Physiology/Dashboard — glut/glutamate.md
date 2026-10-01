@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of glutamic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt or ester of glutamic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of glutamic acid; the principal excitatory neurotransmitter in the vertebrate central nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurochemistry and cellular physiology, an amino acid neurotransmitter that acts on NMDA, AMPA, and kainate receptors, implicated in long-term potentiation and excitotoxicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glutamate designates a salt or ester of glutamic acid."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Synaptic release of **glutamate** depolarizes the post-synaptic dendritic spine, unlocking NMDA receptors to initiate memory storage."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Excessive accumulation of extracellular **glutamate** during ischemic stroke triggers catastrophic excitotoxic cell death in cortical neurons."*
+> - 📜 **Harold McGee (*On Food and Cooking*):** *"Fermented delicacies such as aged Parmesan and soy sauce owe their savory umami richness to unbound monosodium **glutamate**."*

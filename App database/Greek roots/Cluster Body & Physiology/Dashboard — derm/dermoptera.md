@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flying lemurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flying lemurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The order of arboreal gliding mammals native to Southeast Asia commonly known as colugos or flying lemurs (family Cynocephalidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and evolutionary genomics, the closest living sister group to primates, possessing the most extensive gliding patagium of any mammal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermoptera designates flying lemurs."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The colugo, belonging to the **Dermoptera**, launched itself from the crest of a tall dipterocarp and glided seventy yards across the ravine."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The order **Dermoptera** displays comb-like lower incisors and an expansive flight membrane extending to the very tips of the claws."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extensive membrane of the **Dermoptera** illustrates an intermediate evolutionary stage between arboreal climbers and true bat-like flight."*

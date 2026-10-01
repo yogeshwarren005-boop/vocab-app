@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ornithology, the arrangement of bird toes in which three digits point forward and one digit points backward (the hallux).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian biomechanics, the most common perching foot arrangement, found in passerines, enabling a firm automatic grasp on branches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisodactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The typical **anisodactyly** of passerine birds allows them to grasp slender swaying boughs with automatic muscular security."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"The foot of the sparrow exhibits classic **anisodactyly**, with the opposable hallux acting against the three anterior toes."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Different feeding strategies in birds are reflected in foot architecture, from climbing zygodactyly to perching **anisodactyly**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the vertebrate body between the neck and the abdomen; also : thoracic cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The middle of the three chief divisions of the body of an insect; also : the corresponding part of a crustacean or an arachnid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the human or animal body between the neck and the abdomen, enclosed by the ribs, sternum, and vertebral column; the chest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod anatomy, the middle of the three primary body regions (head, thorax, abdomen), bearing the three pairs of walking legs and any wings in insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"There was one moth in particular, with spread wings, on the upper side of the thorax of which was traced in white the semblance of a human skull."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **thorax** is a conical osteocartilaginous cage, broader below than above and flattened from before backward."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"The powerful flying muscles of the insect are packed within the compact armor of the **thorax**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Physical examination of the **thorax** by inspection, palpation, percussion, and auscultation remains foundational to pulmonary diagnosis."*

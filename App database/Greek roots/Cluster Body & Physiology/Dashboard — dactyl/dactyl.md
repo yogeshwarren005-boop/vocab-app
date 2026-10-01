@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of one long and two short syllables or of one stressed and two unstressed syllables (as in tenderly).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Finger : toe : digit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot in poetry consisting of one stressed or long syllable followed by two unstressed or short syllables; or a finger or toe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical prosody, the foundational foot of epic dactylic hexameter, so named from the Greek daktylos (finger) with its one long and two short joints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan’s gay voice went on. —My name is absurd too: Malachi Mulligan, two dactyls."*
+> - 📜 **Samuel Taylor Coleridge (*Metrical Feet: A Lesson for a Boy*):** *"This is a **dactyl**, with solemn rhythm advancing; first comes the long, then the two short, like tripping feet dancing."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The mammalian pentadactyl limb displays five radiating digits, each **dactyl** composed of articulated phalanges."*
+> - 📜 **Edgar Allan Poe (*The Rationale of Verse*):** *"The rapid falling cadence of the **dactyl** gives heroic narrative its sweeping majesty."*

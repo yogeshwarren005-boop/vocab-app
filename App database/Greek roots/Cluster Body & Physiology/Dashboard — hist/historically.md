@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Throughout history.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to history.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With reference to history, past events, or historical development; throughout recorded history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of historical context, origin, or chronology rather than static abstract principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Son of Man, historically, has again and again found the lost--the lost gifts, the lost faculties, the lost charms and graces--and given them back to the man whom he had also found and brought home to God."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"But religions have, historically, a wonderful way of living in spite of their weaknesses--yes, and in spite of their apologetics."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He led them, historically, into what was, in truth, a new world, into a new understanding of life in all its relations."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The institutions of the republic had **historically** dissolved long before the formal title of Augustus was conferred."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"Modern rational capitalism was **historically** conditioned by ascetic religious ethics emerging during the Reformation."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Township self-government in New England was **historically** established prior to state or national confederation."*

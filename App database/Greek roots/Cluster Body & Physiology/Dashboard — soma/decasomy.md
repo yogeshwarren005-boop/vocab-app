@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal aneuploid condition of having ten copies of a specific chromosome in an otherwise euploid organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant cytogenetics and polyploid breeding, decasomy can occur in high-polyploid polycarpic species where duplicated genomic sectors missegregate during meiosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decasomy designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Albert Blakeslee (*New Datura Mutants*):** *"Through non-disjunction in high polyploids, extreme imbalances such as **decasomy** can be produced experimentally in Datura."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"The meiotic pairing behavior in cases of **decasomy** results in complex multivalent associations and low pollen viability."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"While animal development cannot survive such severe imbalance, floral tissue occasionally tolerates localized **decasomy**."*

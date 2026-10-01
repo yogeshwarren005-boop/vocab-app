@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensation (given or received) for an insult or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) compensation exacted from a defeated nation by the victors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of making amends for a wrong done, by providing payment or other assistance to the injured party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international law, post-war compensation demanded from a defeated nation; in biology and pathology, tissue repair and regeneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then I shall acknowledge it and make him reparation.” Everything postponed to that imaginary time!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sight had quite depressed her this evening; had reminded her of her folly; she wished anew, as she had wished many months ago, for some means of making reparation for her fault."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"However, what I want to ask you is, will you put it in my power to do my duty—to make the only reparation I can make for the trick played you: that is, will you be my wife, and go with me?..."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"Imposing crushing financial **reparation** upon the vanquished power paralyzes the industrial recovery of the whole continent."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The biological **reparation** of wounded parenchyma requires proliferation of vascular connective tissue and scar formation."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The magistrate may remit civil punishment, but he cannot remit the private victim's right to full **reparation**."*

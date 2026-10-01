@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of values and value judgments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of values and value judgments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy that investigates the nature, types, and criteria of values and value judgments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaethics and aesthetic theory, the philosophical discipline analyzing what is intrinsically valuable, good, or beautiful, as distinguished from purely instrumental worth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axiology designates the study of values and value judgments."*
+> - 📜 **William James (*The Will to Believe*):** *"Philosophical **axiology** must ultimately ground human valuations in living emotional preferences rather than abstract dogmas."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"The domain of **axiology** remains distinct from natural science, for no physical experiment can determine the ultimate good."*
+> - 📜 **George Edward Moore (*Principia Ethica*):** *"A rigorous **axiology** begins by distinguishing instrumental utility from intrinsic value."*

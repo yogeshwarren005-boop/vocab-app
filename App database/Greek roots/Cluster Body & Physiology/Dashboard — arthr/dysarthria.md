@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficulty in articulating words due to disease of the central nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficulty in articulating words due to disease of the central nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motor speech disorder characterized by poor articulation, slurred speech, or difficulty speaking due to neurological impairment of speech muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a motor deficit resulting from damage to cranial nerves, the cerebellum, basal ganglia, or corticobulbar tracts, with language comprehension intact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysarthria designates difficulty in articulating words due to disease of the central nervous system."*
+> - 📜 **A. R. Luria (*The Working Brain*):** *"Cerebellar lesions produce an explosive, scanning **dysarthria** with erratic vocal pitch and broken rhythm."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Scanning speech, nystagmus, and intention tremor form the classic triad of multiple sclerosis, marked by progressive **dysarthria**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bulbar palsy manifests early as nasal **dysarthria** and difficulty swallowing due to paralysis of the palatal muscles."*

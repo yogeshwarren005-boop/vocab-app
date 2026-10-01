@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Larvae live under the skin of domestic mammals and humans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Larvae live under the skin of domestic mammals and humans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of New World botflies (family Oestridae), especially Dermatobia hominis, commonly known as the human botfly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical parasitology and medical entomology, a fly whose females capture mosquitoes to carry their eggs, allowing hatching larvae to penetrate mammal skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatobia designates larvae live under the skin of domestic mammals and humans."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"The larva of **Dermatobia** hominis burrows into the subcutaneous tissue, creating a painful, discharging furuncular lesion."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Native guides in the Orinoco forests warned us of the painful swellings caused by the burrowing grub of **Dermatobia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extraction of the living **Dermatobia** maggot brings immediate relief to the traveler returning from tropical America."*

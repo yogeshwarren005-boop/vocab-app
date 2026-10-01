@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pharmac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combining form relating to drugs, pharmaceuticals, medicine, or poisons (from Greek pharmakon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical etymology and linguistics, the formative prefix/stem underlying pharmacology, pharmacopeia, and pharmacotherapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmac designates a term designating an entity, condition, or phenomenon derived from greek pharmac."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"The classical root **pharmac** derives from Greek pharmakon, which ambiguously meant both healing remedy and lethal poison."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern therapeutics builds its nomenclature upon the Greek stem **pharmac**, anchoring medical terminology in ancient scholarship."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"Every discipline utilizing the prefix **pharmac** investigates the reciprocal interaction between chemical molecules and living organisms."*

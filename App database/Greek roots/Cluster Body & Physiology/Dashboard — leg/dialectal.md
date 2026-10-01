@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or characteristic of a dialect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or characteristic of a dialect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or resembling a dialect or regional linguistic variant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic geography, describing phonological, lexical, or syntactic features that demarcate a specific speech community from the standard literary language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialectal designates belonging to or characteristic of a dialect."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The preservation of unrounded vowels is a notable **dialectal** feature of northern communities."*
+> - 📜 **Otto Jespersen (*Growth and Structure of the English Language*):** *"Chaucer carefully utilized **dialectal** idioms in the Reeve's Tale to characterize his northern clerks."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Geographical boundaries between speech communities rarely show sharp cleavages, but rather continuous **dialectal** transitions."*

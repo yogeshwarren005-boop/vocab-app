@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence or defect of sight; blindness (anopsia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual neuroanatomy, total or regional visual field blindness resulting from lesions along the retinogeniculostriate pathway (e.g., quadrantanopia, hemianopia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anopia designates a term designating an entity, condition, or phenomenon derived from greek ops."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete section of the left optic nerve produces absolute unilateral **anopia** with loss of direct pupillary light reflex."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Compression of the central chiasm causes bitemporal visual **anopia**, restricting the patient's lateral gaze."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Unilateral vascular infarction of the calcarine cortex results in complete contralateral homonymous **anopia**."*

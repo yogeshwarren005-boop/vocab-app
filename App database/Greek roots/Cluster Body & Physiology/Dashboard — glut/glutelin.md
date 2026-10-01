@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple protein found in the seeds of cereals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple protein found in the seeds of cereals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of plant storage proteins insoluble in water or neutral salt solutions but soluble in dilute acids or alkalis (such as glutenin in wheat).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural biochemistry, high-molecular-weight storage proteins found in cereal grains (especially wheat and rice) that provide nutritional value and dough structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glutelin designates a simple protein found in the seeds of cereals."*
+> - 📜 **Thomas Osborne (*The Vegetable Proteins*):** *"I classified cereal proteins into albumins, globulins, prolamins, and the insoluble **glutelin** fraction extracted by dilute alkali."*
+> - 📜 **Harold McGee (*On Food and Cooking*):** *"When flour is hydrated, the long chains of **glutelin** link via disulfide bonds to form the elastic scaffolding of bread dough."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"The endosperm of cereal grains concentrates **glutelin** reserves to nourish the germinating embryo during initial seedling growth."*

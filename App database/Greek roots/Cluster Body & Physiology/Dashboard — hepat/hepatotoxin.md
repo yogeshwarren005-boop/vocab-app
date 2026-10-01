@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hepat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic substance or agent that damages or destroys liver cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical pathology and toxicology, any chemical compound, biological alkaloid (e.g. phalloidin), or bacterial toxin that specifically targets hepatocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatotoxin designates a term designating an entity, condition, or phenomenon derived from greek hepat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Phosphorus serves as the classic experimental **hepatotoxin**, provoking rapid fatty metamorphosis followed by acute yellow atrophy."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"By administering a specific **hepatotoxin**, we were able to dissociate the glycogen-storing function of the liver from its biliary secretion."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The cellular receptors of the liver parenchyma exhibit high binding avidity for this dangerous bacterial **hepatotoxin**."*

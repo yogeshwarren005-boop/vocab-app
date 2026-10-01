@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cephal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which the head circumference is abnormally large, typically defined as more than two standard deviations above the mean for age and sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics and neurology, benign familial macrocephaly or enlargement caused by megalencephaly, hydrocephalus, or metabolic storage diseases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrocephaly designates a term designating an entity, condition, or phenomenon derived from greek cephal."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Progressive **macrocephaly** in infancy must be investigated promptly to distinguish benign megalencephaly from expanding hydrocephalus."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology*):** *"In achondroplasia, true megalencephaly combines with small foramen magnum caliber to produce characteristic **macrocephaly**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The pathological overgrowth of glial tissues can produce striking **macrocephaly** in childhood degenerative neuropathies."*

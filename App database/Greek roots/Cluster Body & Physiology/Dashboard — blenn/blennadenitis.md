@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek blenn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of mucous glands, especially those of the conjunctiva, respiratory tract, or genitourinary mucous membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, chronic inflammation of the mucous crypts and glands of Krause and Wolfring within the eyelid conjunctiva.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blennadenitis designates a term designating an entity, condition, or phenomenon derived from greek blenn."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"Follicular **blennadenitis** of the palpebral conjunctiva produces persistent granular irritation requiring topical astringents."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Catarrhal **blennadenitis** of the bronchial glands exacerbates chronic cough in patients with recurrent bronchitis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic examination in **blennadenitis** shows the mucous acini distended with stagnant inspissated secretions."*

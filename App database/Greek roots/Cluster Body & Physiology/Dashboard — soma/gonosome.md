@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sex chromosome (allosome); also, in colonial hydrozoans, a specialized reproductive zooid or structure that produces medusae or sexual gametes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, gonosomes contrast with nutritive trophosomes (gastrozooids) and defensive dactylozooids in polymorphic hydrozoan colonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonosome designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"The polymorphic Siphonophora dedicate the **gonosome** entirely to the generation and discharge of sexual medusoid bells."*
+> - 📜 **George James Allman (*A Monograph of the Gymnoblastic or Tubularian Hydroids*):** *"Each blastostyle bearing clustered sporosacs forms part of the reproductive apparatus designated the **gonosome**."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Early cytologists occasionally applied the term **gonosome** to the dimorphic sex chromosome in heterogametic species."*

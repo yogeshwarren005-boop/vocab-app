@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hymen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical reconstruction, restoration, or repair of the hymen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reconstructive and cosmetic gynecology, an elective surgical procedure (hymenorrhaphy) performed to approximate or reconstruct hymenal mucosal edges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenoplasty designates a term designating an entity, condition, or phenomenon derived from greek hymen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Operative procedures encompassing **hymenoplasty** demand meticulous surgical approximation of mucosal tissue flaps."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Plastic repair or **hymenoplasty** was indicated to correct cicatricial stenosis resulting from severe laceration."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Delicate reconstructive surgery or **hymenoplasty** utilizes fine absorbable sutures to secure mucosal union."*

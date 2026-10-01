@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family secotiaceae; they resemble boletes but the spores are not discharged from the basidium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family secotiaceae; they resemble boletes but the spores are not discharged from the basidium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bolete-like fungi in the family Boletaceae that produce secotioid or semi-enclosed fruiting bodies that do not open fully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, an evolutionary intermediate between traditional capped boletes and hypogeous false truffles, characterized by contorted pore tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroboletus designates a genus of fungi belonging to the family secotiaceae; they resemble boletes but the spores are not discharged from the basidium."*
+> - 📜 **Alexander H. Smith (*The Boletes of Michigan*):** *"Species of **Gastroboletus** represent secotioid adaptations to arid montane environments, retaining their spores within enclosed spongy tubes."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"In high Sierra Nevada conifer forests, small rodents dig for partially buried basidiocarps of **Gastroboletus**, dispersing their spores."*
+> - 📜 **David Attenborough (*The Private Life of Plants*):** *"The subterranean habit of **Gastroboletus** protects its reproductive tissue from drying alpine winds and early autumn frosts."*

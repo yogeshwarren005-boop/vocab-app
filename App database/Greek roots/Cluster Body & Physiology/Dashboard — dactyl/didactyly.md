@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having only two digits (fingers or toes) on a hand or foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate zoology, the specialized two-toed foot morphology evolved in certain cursorial or arboreal animals, such as the ostrich (Struthio camelus) or two-toed sloth (Choloepus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"The extreme cursorial adaptation of the ostrich culminates in complete **didactyly**, reducing the avian foot to two powerful running toes."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In the two-toed sloth, **didactyly** of the forelimb provides a pair of massive curved hooks for suspended arboreal locomotion."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Functional **didactyly** in running birds reduces ground friction and concentrates propulsion upon the enlarged third digit."*

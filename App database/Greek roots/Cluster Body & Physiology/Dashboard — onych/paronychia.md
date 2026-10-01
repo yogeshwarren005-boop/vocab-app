@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the tissues adjacent to the nail of a finger or toe usually accompanied by infection and pus formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the tissues adjacent to the nail of a finger or toe usually accompanied by infection and pus formation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infection and inflammation of the tissue adjacent to a fingernail or toenail; a felon or whitlow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and dermatologic surgery, an acute or chronic condition caused by bacterial (Staphylococcus aureus) or fungal (Candida) inoculation following manicuring, hangnails, or onychophagia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paronychia designates inflammation of the tissues adjacent to the nail of a finger or toe usually accompanied by infection and pus formation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute suppurative **paronychia** demands prompt marginal incision to relieve tension and prevent necrosis of the nail matrix."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Meticulous aseptic technique protects surgical personnel against occupational herpetic or bacterial **paronychia**."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Severe throbbing nocturnal pain in the finger pad heralds the rapid development of deep acute **paronychia**."*

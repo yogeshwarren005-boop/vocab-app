@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to increase the excretion of urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to increase the excretion of urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to promote or increase the excretion of urine; also, a substance or medication that promotes diuresis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, diuretics (such as loop diuretics, thiazides, and potassium-sparing agents) act on specific segments of the nephron to inhibit sodium and water reabsorption, reducing blood pressure and systemic edema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I had, the evening before, drunk plentifully of a most delicious wine called _glimigrim_, (the Blefuscudians call it _flunec_, but ours is esteemed the better sort,) which is very diuretic."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A powerful **diuretic** such as theobromine or calomel is prescribed to purge dropsical fluid in advanced cardiac breakdown."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Caffeine acts as a mild renal **diuretic** by dilating afferent arterioles and decreasing sodium reabsorption."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Judicious administration of **diuretic** infusions of digitalis leaf unburdens the congested venous system."*

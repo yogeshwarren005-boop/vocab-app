@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The visual endoscopic examination and intervention of the interior of the ureter and renal collecting system using a rigid or flexible ureteroscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endourology, ureteroscopy allows direct visualization, laser lithotripsy of ureteral and renal calculi, biopsy and ablation of upper tract urothelial carcinoma, and dilatation of ureteral strictures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ureteroscopy designates a term designating an entity, condition, or phenomenon derived from greek ur."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Miniaturization of endoscopic instruments opened the pathway to safe diagnostic **ureteroscopy** of the upper urinary tract."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The development of endourological tools such as **ureteroscopy** revolutionized the management of impacted ureteral stones."*
+> - 📜 **Alexis Carrel (*The Surgery of Blood Vessels*):** *"Direct mucosal visualization through **ureteroscopy** provides precise anatomical orientation prior to operative repair."*

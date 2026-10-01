@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek my.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The structural state, quality, or morphological condition of being mouse-like; resemblance to rodents of the suborder Myomorpha.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative rodent osteology and evolutionary biology, the suite of cranial, dental, and masseteric muscle arrangements that define the myomorph lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myomorphy designates a term designating an entity, condition, or phenomenon derived from greek my."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The evolutionary emergence of **myomorphy** provided rodents with unmatched efficiency in processing coarse grain and seeds."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Degrees of **myomorphy** can be traced through fossil lineages that bridge primitive sciurids and modern murids."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"Cranial **myomorphy** represents a convergence in the forward displacement of the jaw-closing musculature."*

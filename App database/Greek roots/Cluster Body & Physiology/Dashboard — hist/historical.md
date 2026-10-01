@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the study of history.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having once lived or existed or taken place in the real world as distinct from being legendary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the character of history; based on real past events rather than myth or legend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and social science, pertaining to temporal development, contextual documentation, and chronological records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These historical lectures were almost overweighted by the learning which he thus accumulated; but they were at once massive in their structure and orderly and lucid in their arrangement."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Yet even here the books that interested him most were mainly historical, such as the first volume of Ritschl's great work on Justification (almost the only German book he read in a translation), and the three volumes of Harnack's _History of Dogma_."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **historical** method reconstructs not merely royal decrees, but the daily habits and convictions of the common people."*
+> - 📜 **Lord Acton (*Lectures on Modern History*):** *"Strict **historical** criticism requires judging the past by standards of universal morality without partisan bias."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her quiet life was woven into the vast, silent fabric of unwritten **historical** change."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mane of a horse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mane of a horse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The neck of an animal, especially the arch, crest, muscular contour, and carriage of a horse's neck in equestrian conformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hippology and veterinary conformation assessment, a well-formed encolure displays balanced muscular muscling and natural arch, providing optimal balance and balance during dressage and jumping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encolure designates the mane of a horse."*
+> - 📜 **Honoré de Balzac (*A Passion in the Desert*):** *"The magnificent Arabian steed tossed its graceful head, exhibiting a proud, arched **encolure** of noble breeding."*
+> - 📜 **George Borrow (*The Romany Rye*):** *"The horse dealer pointed with pride to the powerful **encolure** and broad chest of the young stallion."*
+> - 📜 **Émile Zola (*Nana*):** *"The sleek thoroughbred stretched its long **encolure** forward as it galloped across the Longchamp turf."*

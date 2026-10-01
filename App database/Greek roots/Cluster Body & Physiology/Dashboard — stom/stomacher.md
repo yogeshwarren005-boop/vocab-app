@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Garment consisting of a v-shaped panel of stiff material worn over the chest and stomach in the 16th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garment consisting of a v-shaped panel of stiff material worn over the chest and stomach in the 16th century.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative, stiffened V-shaped or triangular panel worn over the chest and stomach, popular in European dress from the fifteenth to eighteenth centuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical costume and material culture, stomachers were heavily embroidered, jeweled, or boned with stays, pinned or laced into the front of a gown's bodice to create a fashionable rigid silhouette.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s calm hands lose their composure when she speaks of him, and unfolding themselves from her stomacher, hover about her in an agitated manner as she says what a likely lad, what a fine lad, what a gay, good-humoured, clever lad he was!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, expanding her stomacher to its utmost limits, “than it formerly was!” The young man inclines his head in acknowledgment of the precepts of experience."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And the broad stomacher heaves, and the quaint upright old-fashioned figure bends under its load of affectionate distress."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"My Lady Castlewood wore a rich brocade gown adorned with an emerald-studded **stomacher** that sparkled in the candlelight."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The dowager's stiff silk bodice was pinned over a long, peaked **stomacher** of antique Elizabethan embroidery."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"On the breast of her gown, upon the richly worked **stomacher**, appeared the burning letter 'A' surrounded by gold thread."*

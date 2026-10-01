@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease of the throat or fauces marked by spasmodic attacks of intense suffocative pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heart condition marked by paroxysms of chest pain due to reduced oxygen to the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition marked by severe, constricting paroxysmal pain, especially angina pectoris caused by myocardial ischemia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, any severe suffocating inflammation of the throat or pharynx (such as Ludwig's angina or Vincent's angina).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The doctor says it is angina pectoris.” “Angina?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Oh, that’s a terrible illness!” “They say that the rivals are reconciled, thanks to the angina...” and the word angina was repeated with great satisfaction."*
+> - 📜 **William Heberden (*Some Account of a Disorder of the Breast*):** *"There is a disorder of the breast marked with strong and peculiar symptoms, to which I have given the name of **angina** pectoris."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris and Allied States*):** *"The agony of true **angina** involves not merely physical constriction, but an overwhelming dread of impending dissolution."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"Inflammatory **angina** of the fauces threatens suffocation when swollen tonsils obstruct the passage of air to the lungs."*

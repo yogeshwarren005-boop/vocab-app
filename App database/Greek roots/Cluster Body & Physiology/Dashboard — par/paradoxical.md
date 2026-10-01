@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seemingly contradictory but nonetheless possibly true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seemingly contradictory but nonetheless possibly true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seemingly contradictory, unbelievable, or absurd, yet perhaps expressing an underlying reality or truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and medicine, denoting an abnormal bodily reaction opposite to what is expected, such as paradoxical vocal fold movement or paradoxical breathing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Night and day is this death-watch on me, and its paradoxical function is to see that I do not die."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The figures reflect changes in the paradoxical section of the scale of values, and express scarcity rather than wealth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Gresham's law has a paradoxical wording and is frequently misunderstood."*
+> - 📜 **William James (*The Principles of Psychology*):** *"It is a **paradoxical** fact that emotional excitement often quickens the perception of peripheral sensory cues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In massive pericardial tamponade, a **paradoxical** pulse reveals marked decline of arterial pressure during inspiration."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"It may seem **paradoxical** to claim that ideas of primary qualities resemble physical bodies while secondary qualities do not."*

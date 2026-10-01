@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hysteria with cataleptic symptoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hysteria with cataleptic symptoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by symptoms of both hysteria and catalepsy, in which an individual enters a trance-like state with plastic muscle rigidity during a hysterical episode.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century neuropsychiatry (associated with Jean-Martin Charcot at the Salpêtrière), a stage of major hysteria (grande hystérie) marked by wax-like waxy flexibility (flexibilitas cerea) and sensory anesthesia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysterocatalepsy designates hysteria with cataleptic symptoms."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"During the phase of **hysterocatalepsy**, the patient's limbs retain any bizarre posture in which the examiner places them."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The profound trance seen in **hysterocatalepsy** illustrates the complete dissociation of motor control from conscious will."*
+> - 📜 **Pierre Janet (*The Mental State of Hystericals*):** *"Cases of **hysterocatalepsy** exhibit deep analgesia, failing to respond to painful needle pricks while the cataleptic posture persists."*

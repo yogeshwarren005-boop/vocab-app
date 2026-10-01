@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Succulent subshrubs or vines; tropical and subtropical india and africa and malaysia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Succulent subshrubs or vines; tropical and subtropical india and africa and malaysia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of trailing, climbing, or leafless succulent flowering plants in the milkweed family (Apocynaceae), native to tropical and warm arid regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ethnobotany and classical Indian medicine, *Sarcostemma* (synonymized in part with *Cynanchum*) was revered as one of the traditional botanical candidates for the sacred Vedic ritual drink Soma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcostemma designates succulent subshrubs or vines; tropical and subtropical india and africa and malaysia."*
+> - 📜 **William Roxburgh (*Flora Indica*):** *"The leafless, jointed stems of **Sarcostemma** yield an abundant milky juice that exudes copiously when bruised."*
+> - 📜 **Robert Brown (*On the Asclepiadeae*):** *"In **Sarcostemma**, the corona is double, with the fleshy inner segments closely pressed against the anthers."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Vagrant twining species of **Sarcostemma** climb over arid rocks, bearing sweet-smelling umbels of white blossoms."*

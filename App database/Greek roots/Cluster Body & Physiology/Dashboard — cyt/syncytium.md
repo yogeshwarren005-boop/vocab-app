@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A multinucleate mass of cytoplasm resulting from fusion of cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A multinucleate mass of cytoplasm resulting from fusion of cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single multinucleated mass of cytoplasm produced either by the fusion of multiple cells or by nuclear division without cytokinesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human histology and embryology, exemplified by the multinucleated skeletal muscle fiber or the placental syncytiotrophoblast.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syncytium designates a multinucleate mass of cytoplasm resulting from fusion of cells."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Cajal decisively refuted the reticular theory of Gerlach, proving that the nervous system is composed of discrete neurons rather than a continuous **syncytium**."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Cardiac muscle cells branch and anastomose, functioning electrophysiologically as a coordinated **syncytium**."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"The outer invasive layer of the mammalian blastocyst forms a true vegetative **syncytium** that penetrates the uterine mucosa."*

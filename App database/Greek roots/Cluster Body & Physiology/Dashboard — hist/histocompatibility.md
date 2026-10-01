@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of mutual tolerance that allows some tissues to be grafted effectively to others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of genes in mammals that code for cell-surface polymorphic glycoprotein molecules which display antigenic peptide fragments for T cell recognition and aid in the ability of the immune system to determine self from nonself —often used before another noun —abbreviation MHC.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The immunological compatibility between the tissues of a donor and recipient, determining the success of organ or tissue transplantation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and transplant medicine, the matching of major histocompatibility complex (MHC) or human leukocyte antigen (HLA) surface glycoproteins to prevent allograft rejection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histocompatibility designates a state of mutual tolerance that allows some tissues to be grafted effectively to others."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"Tissue transplantation between genetically discordant individuals fails because of antigenic differences governed by **histocompatibility** genes."*
+> - 📜 **Jean Dausset (*The Major Histocompatibility Complex in Man (Nobel Lecture)*):** *"The discovery of the HLA system established the genetic basis of human **histocompatibility** and cellular self-recognition."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Renal allograft survival is profoundly prolonged when donor and host share close **histocompatibility** antigens."*

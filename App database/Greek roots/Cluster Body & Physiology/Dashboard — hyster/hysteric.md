@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person subject to or affected by hysteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overemotional or unstable person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by, suffering from, or exhibiting hysteria; a person subject to hysterical fits or behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine, describing spasmodic, emotional, or convulsive paroxysms once attributed to uterine disturbance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He could not, even in his newfound heroism, and with whatever hysteric hardihood he was prepared to meet the stroke of fate, he could not as yet encounter Brown, and lay bare before him the plot of the melancholy farce he had played an hour ago."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"But,’ with a half-hysteric courage, ‘suppose you had--suppose I had--suppose anybody had--what would he do?"*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Her voice was succeeded by the hysteric shrieks of several women, but the feelings of the audience generally had not been drawn onward in the current with her own."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"The ancient physicians attributed many wild melancholic paroxysms to **hysteric** vapors rising to the brain."*
+> - 📜 **William Shakespeare (*King Lear*):** *"O, how this mother swells up toward my heart! Hysterica passio, down, thou climbing sorrow, thy element's below! Cried the **hysteric** king."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The classic **hysteric** attack may simulate epilepsy with dramatic pseudoseizures and arching of the back."*

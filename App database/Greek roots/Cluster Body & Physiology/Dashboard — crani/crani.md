@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cranium : cranial and.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cranium : cranial and.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining root (from Greek kranion, meaning 'skull'), used in anatomy, zoology, and medicine for terms relating to the skull and cranial cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative morphology, the radical designating skeletal structures enclosing the brain (craniology, cranium, craniosynostosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crani designates cranium : cranial and."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek noun kranion denoted the skull or upper part of the head, furnishing the modern anatomical root **crani**."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The combining form **crani** underlies craniology and cranium, pointing directly to the bony case of the brain."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Vertebrate taxa possessing an unsegmented head skeleton rely upon the root **crani** for their taxonomic designations."*

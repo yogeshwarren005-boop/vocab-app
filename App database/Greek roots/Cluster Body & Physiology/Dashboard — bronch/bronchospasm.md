@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spasm of the bronchi that makes exhalation difficult and noisy; associated with asthma and bronchitis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spasm of the bronchi that makes exhalation difficult and noisy; associated with asthma and bronchitis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sudden, involuntary constriction of the muscular walls of the bronchioles, causing acute narrowing of the airways and difficulty breathing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pulmonology, the acute pathophysiological mechanism causing expiratory wheezing, chest tightness, and dyspnea during acute asthma exacerbations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchospasm designates a spasm of the bronchi that makes exhalation difficult and noisy; associated with asthma and bronchitis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inhaling cold dry air or antigenic dust triggers violent **bronchospasm**, locking the chest in a desperate struggle to exhale."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"The musical sibilant rales heard over both hemithoraces reflect air being forced through airways narrowed by acute **bronchospasm**."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Differentiating cardiac asthma from true allergic **bronchospasm** is vital before administering adrenergic therapeutics."*

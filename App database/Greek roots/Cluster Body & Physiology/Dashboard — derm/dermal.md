@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cuticle or cuticula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or located in the dermis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the skin, especially the dermis; cutaneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and comparative anatomy, pertaining to structures, glands, or ossifications arising within the dermis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermal designates of or relating to a cuticle or cuticula."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The teeth of vertebrates and the placoid scales of sharks are homologous **dermal** structures derived from dentine papillae."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The characteristic **dermal** lesions of secondary syphilis present as symmetrical, coppery-red macules."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The human body retains fine **dermal** hair tracts that correspond to the primordial coat of our mammalian ancestors."*

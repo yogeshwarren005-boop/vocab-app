@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek blenn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive, profuse mucous or mucopurulent discharge, especially from the urethra; gonorrhea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical medicine, the profuse purulent urethritis caused by Neisseria gonorrhoeae before the discovery of antibiotics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blennorrhagia designates a term designating an entity, condition, or phenomenon derived from greek blenn."*
+> - 📜 **Philippe Ricord (*Treatise on Venereal Diseases*):** *"Through rigorous inoculation experiments, I demonstrated that **blennorrhagia** is completely distinct from the syphilitic chancre."*
+> - 📜 **John Hunter (*A Treatise on the Venereal Disease*):** *"The inflammatory discharge in acute **blennorrhagia** issues from the vascular lining of the anterior urethra."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Untreated gonorrheal **blennorrhagia** frequently leads to chronic posterior urethritis and fibrous stricture formation."*

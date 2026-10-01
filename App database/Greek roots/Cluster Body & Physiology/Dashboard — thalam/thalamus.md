@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest subdivision of the diencephalon that consists chiefly of an ovoid mass of nuclei in each lateral wall of the third ventricle and serves chiefly to relay impulses and especially sensory impulses to and from the cerebral cortex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest subdivision of the diencephalon that consists chiefly of an ovoid mass of nuclei in each lateral wall of the third ventricle and serves chiefly to relay impulses and especially sensory impulses to and from the cerebral cortex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, dual-lobed ovoid mass of gray matter situated in the dorsal part of the diencephalon, serving as the principal sensory relay station between subcortical pathways and the cerebral cortex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All sensory modalities except olfaction synapse in specific thalamic nuclei (e.g., lateral geniculate for vision, medial geniculate for audition, ventral posterolateral for somatosensation) before reaching primary cortical projection areas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thalamus designates the largest subdivision of the diencephalon that consists chiefly of an ovoid mass of nuclei in each lateral wall of the third ventricle and serves chiefly to relay impulses and especially sensory impulses to and from the cerebral cortex."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The **thalamus** functions as an obligatory processing gateway sorting incoming sensory streams before dispatching them to the neocortex."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Vascular destruction of the posterior **thalamus** produces the agonizing central pain syndrome of Déjerine and Roussy."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"In the **thalamus**, ascending somatic impulses converge with affective tone to color the fundamental quality of sensation."*

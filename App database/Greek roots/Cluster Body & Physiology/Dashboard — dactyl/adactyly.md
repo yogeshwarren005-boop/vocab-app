@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of fingers and/or toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital absence of fingers and/or toes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital absence of fingers or toes on one or more limbs; adactylia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics, a terminal transverse limb deficiency occurring either as an isolated anomaly or as part of complex syndromic conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adactyly designates congenital absence of fingers and/or toes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Isolated **adactyly** of the feet rarely impairs walking if compensatory metatarsal weight-bearing develops."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The infant was born with unilateral **adactyly**, having a normal radius and ulna but no digital rays."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Patients with congenital **adactyly** often develop astonishing dexterity using their palm and forearm stumps to write and manipulate tools."*

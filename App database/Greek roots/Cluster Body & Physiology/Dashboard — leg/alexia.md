@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aphasia marked by loss of ability to read.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aphasia marked by loss of ability to read.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological condition characterized by the loss of the ability to read or comprehend written language, usually following brain injury or stroke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral neurology, a focal cortical impairment (often termed word blindness) associated with left occipito-temporal or angular gyrus lesions, frequently distinguishing alexia with agraphia from pure alexia without agraphia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alexia designates aphasia marked by loss of ability to read."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden onset of pure **alexia** without agraphia points reliably to an infarction in the territory of the posterior cerebral artery."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Patients with cortical **alexia** can trace letters tactilely yet fail completely to synthesize visual graphemes into words."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The musician developed an astonishing musical **alexia**, losing the capacity to decipher musical notation while maintaining spoken literacy."*

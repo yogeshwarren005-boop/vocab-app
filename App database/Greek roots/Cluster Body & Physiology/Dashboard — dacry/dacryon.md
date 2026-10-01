@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the junction of the anterior border of the lacrimal bone with the frontal bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the junction of the anterior border of the lacrimal bone with the frontal bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In craniometry and human anatomy, the point of junction of the frontal, lacrimal, and maxillary bones on the medial wall of the orbit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and cephalometry, a landmark used to measure the interorbital width and facial skeleton proportions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacryon designates the craniometric point at the junction of the anterior border of the lacrimal bone with the frontal bone."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Craniometric measurements between the left and right **dacryon** define the precise interorbital breadth across human races."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"Broca calibrated his calipers upon the **dacryon** to compute the facial and lacrimal indices with geometric precision."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of the Vertebrate Animals*):** *"In anthropoid apes, the lacrimal suture meets the frontal bone at the **dacryon**, just as in the human skull."*

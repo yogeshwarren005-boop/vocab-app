@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of the myelin covering of some nerve fibers resulting in their impaired function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of the myelin covering of some nerve fibers resulting in their impaired function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss, destruction, or removal of the myelin sheath covering nerve fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and neuropathology, the hallmark process of diseases such as multiple sclerosis and Guillain-Barré syndrome, leading to slowed conduction velocity and functional deficit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demyelination designates loss of the myelin covering of some nerve fibers resulting in their impaired function."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Disseminated sclerosis is anatomically characterized by multiple circumscribed patches of **demyelination** throughout the cerebrospinal axis."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Following focal **demyelination**, the bare axonal membrane cannot sustain saltatory nerve conduction."*
+> - 📜 **Wilder Penfield (*Cytology and Cellular Pathology of the Nervous System*):** *"Plaques of chronic **demyelination** exhibit dense gliosis with complete loss of oligodendrocytes."*

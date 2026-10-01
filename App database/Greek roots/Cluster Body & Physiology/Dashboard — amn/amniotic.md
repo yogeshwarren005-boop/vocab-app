@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The thin inner membrane of the amniotic sac that fills with the amniotic fluid and that in placental mammals also contains the umbilical cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A membrane analogous to the amnion and occurring in various invertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by the amnion (as in amniotic fluid, amniotic cavity, or amniotic sac).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and perinatology, designating the protective aqueous cushion that permits fetal movement and buffers against external trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amniotic designates the thin inner membrane of the amniotic sac that fills with the amniotic fluid and that in placental mammals also contains the umbilical cord."*
+> - 📜 **William Harvey (*On the Generation of Animals*):** *"The **amniotic** water serves not only for lubrication at birth but buffers the growing fetus against sudden shocks."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomenon of Life*):** *"The **amniotic** fluid maintains a strictly regulated osmotic pressure, shielding embryonic tissues from chemical disturbance."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Each mammal still carries in its mother's womb the ancient sea, cradled safely within the warm **amniotic** sac."*

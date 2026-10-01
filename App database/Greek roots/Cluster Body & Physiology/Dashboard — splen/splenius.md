@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two flat muscles that extend from the upper vertebrae to the base of the skull and serve to rotate or flex or extend the head and neck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two flat muscles that extend from the upper vertebrae to the base of the skull and serve to rotate or flex or extend the head and neck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two flat, strap-like paired muscles of the back of the neck (splenius capitis and splenius cervicis) that act to extend, laterally bend, and rotate the head and cervical spine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating from the nuchal ligament and upper thoracic spinous processes, inserting into the mastoid process and cervical transverse processes; named from Greek *splenion* (bandage) for its strap-like appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, splenius designates either of two flat muscles that extend from the upper vertebrae to the base of the skull and serve to rotate or flex or extend the head and neck."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **splenius** capitis arises from the lower half of the ligamentum nuchae and inserts into the mastoid process."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Bilateral contraction of the **splenius** draws the head directly backward in the tonic labyrinthine righting reflex."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"Motor endplates distributed through the **splenius** receive rich innervation from the posterior primary rami of cervical nerves."*

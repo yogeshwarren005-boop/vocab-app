@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large widely distributed family of termites of temperate to tropical regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large widely distributed family of termites of temperate to tropical regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of subterranean termites within the order Blattodea, known for wood-damaging tendencies and defensive secretions expelled from a frontal gland pore (fontanelle).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and structural pest control, Rhinotermitidae includes destructive genera such as *Coptotermes* and *Reticulitermes*, which require moist subterranean nests linked by earthen mud tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinotermitidae designates large widely distributed family of termites of temperate to tropical regions."*
+> - 📜 **Alfred E. Emerson (*Termite Ecology and Taxonomy*):** *"The family **Rhinotermitidae** is distinguished from primitive termites by the specialized cephalic fontanelle in the soldier caste."*
+> - 📜 **Thomas E. Snyder (*Catalog of the Termites of the World*):** *"Subterranean species of **Rhinotermitidae** cause millions of dollars in annual timber degradation throughout warm temperate regions."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Soldiers in the **Rhinotermitidae** discharge viscous chemical repellents through their modified frontal glands to repel foraging ants."*

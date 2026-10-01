@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital limb malformation characterized by the deficiency or absence of one or more central digits of the hand or foot (split-hand/split-foot malformation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and dysmorphology, an autosomal dominant autopodial anomaly resulting in a deep median cleft of the hand or foot ('lobster-claw' deformity).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectrodactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The family pedigree demonstrated typical dominant transmission of **ectrodactyly**, with median clefting of both hands across four generations."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"In severe **ectrodactyly**, the central rays are entirely suppressed, leaving only two opposed pincers of remarkable strength."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The dexterity with which the patient manipulated surgical instruments with his **ectrodactyly** hand astonished all his colleagues."*

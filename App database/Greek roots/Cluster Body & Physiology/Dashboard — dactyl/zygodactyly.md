@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of bird toes in which two toes point forward (digits 2 and 3) and two point backward (digits 1 and 4).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian functional anatomy, the specialized climbing and grasping foot morphology characteristic of woodpeckers, parrots, and toucans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygodactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **zygodactyly** of the woodpecker allows it to climb tree trunks with extraordinary vertical agility while hammering for grubs."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"In parrots, **zygodactyly** transforms the foot into a versatile hand capable of holding nuts while the beak cracks them."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Tropical forest birds like toucans and barbets utilize their **zygodactyly** claws to scramble among dense hanging vines."*

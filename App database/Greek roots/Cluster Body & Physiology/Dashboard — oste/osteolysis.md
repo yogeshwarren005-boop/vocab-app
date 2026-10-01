@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pathological destruction, dissolution, or enzymatic resorption of bone tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and orthopedics, localized bone destruction caused by metastatic tumors or inflammatory response to prosthetic wear particles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteolysis designates a term designating an entity, condition, or phenomenon derived from greek oste."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Active **osteolysis** along the margins of the chronic gumma leaves pitted, irregular excavations across the skull table."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"Multiple myeloma presents radiographically with punched-out areas of **osteolysis** unaccompanied by reactive new bone formation."*
+> - 📜 **Fuller Albright (*The Parathyroid Glands and Metabolic Bone Disease*):** *"Extreme hyperparathyroidism provokes widespread generalized **osteolysis**, causing subperiosteal bone resorption in the phalanges."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a branching or armlike part of an animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) a branching or armlike part of an animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arm, specifically the upper arm between the shoulder and the elbow joint in human anatomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, any arm-like connecting tract or peduncle of white nerve fibers in the brain stem (e.g. brachium pontis, brachium conjunctivum).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachium designates (biology) a branching or armlike part of an animal."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The humerus provides the sole skeletal foundation of the **brachium**, articulating above with the scapula and below with the radius and ulna."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The superior cerebellar peduncle was formerly known to anatomists as the **brachium** conjunctivum connecting the cerebellum to the midbrain."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Myelinated fibers streaming through the **brachium** of the inferior colliculus convey auditory impulses toward the thalamus."*

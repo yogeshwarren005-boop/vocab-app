@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to the adenoids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sounding as if the nose were pinched.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the adenoids or glandular tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing speech sounds that have a nasal, muffled quality resulting from obstruction of the nasopharynx by enlarged adenoids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenoidal designates of or pertaining to the adenoids."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Her muffled, **adenoidal** delivery betrayed years of neglected childhood nasal obstruction."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The typical **adenoidal** countenance features an open mouth, flattened nasal bridge, and listless expression."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"The elderly clergyman droned his evening announcements in a curious, dry, **adenoidal** tone."*

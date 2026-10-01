@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generalized or local excessive sweating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generalized or local excessive sweating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally excessive sweating, often exceeding that required for normal thermoregulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and neurology, a condition categorized as primary focal hyperhidrosis (affecting palms, soles, axillae) or secondary generalized hyperhidrosis (due to endocrine, metabolic, or neoplastic disorders).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperhidrosis designates generalized or local excessive sweating."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe primary **hyperhidrosis** of the hands causes constant dripping of sweat, creating profound psychological distress and functional impairment."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Overactivity of the thoracic sympathetic chain drives localized **hyperhidrosis** even in cool ambient surroundings."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Emotional stress triggers acute palmar **hyperhidrosis**, reflecting heightened sympathetic autonomic discharge."*

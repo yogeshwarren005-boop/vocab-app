@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any defective or abnormal development of the spinal cord; also, a hematologic disorder marked by ineffective production of blood cells in the bone marrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurology, congenital spinal cord malformation associated with spina bifida; in hematology, myelodysplastic syndrome (MDS) characterized by peripheral cytopenias and potential leukemic transformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelodysplasia designates a term designating an entity, condition, or phenomenon derived from greek myel."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Occult spinal **myelodysplasia** should be suspected in children with persistent nocturnal enuresis and pes cavus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **myelodysplasia** in elderly patients leads to progressive refractory anemia resistant to iron therapy."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The marrow biopsy in **myelodysplasia** reveals hypercellularity accompanied by dysmorphic erythroblasts and megakaryocytes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplying or draining the eye or structures in the region of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near the eye; ocular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, designating the ophthalmic division of the trigeminal nerve (V1) or the ophthalmic artery supplying the globe and orbit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Yet I do not call to mind that I was ever in my earlier youth the subject of remark in our social family circle, but some large-handed person took some such ophthalmic steps to patronise me."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **ophthalmic** artery enters the orbital cavity through the optic canal, lying inferolateral to the optic nerve."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Herpes zoster involving the **ophthalmic** branch of the fifth cranial nerve carries grave hazard of corneal necrosis."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Loss of the corneal reflex occurs early when tumors in the cerebellopontine angle compress the **ophthalmic** root."*

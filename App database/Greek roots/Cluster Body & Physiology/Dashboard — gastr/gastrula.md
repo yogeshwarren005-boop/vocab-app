@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Double-walled stage of the embryo resulting from invagination of the blastula; the outer layer of cells is the ectoderm and the inner layer differentiates into the mesoderm and endoderm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Double-walled stage of the embryo resulting from invagination of the blastula; the outer layer of cells is the ectoderm and the inner layer differentiates into the mesoderm and endoderm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early multicellular embryo, following the blastula, in which the germ layers (ectoderm, endoderm, and mesoderm) are formed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology, the cup-shaped embryonic stage produced by invagination during gastrulation, enclosing the primitive gut (archenteron).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrula designates double-walled stage of the embryo resulting from invagination of the blastula; the outer layer of cells is the ectoderm and the inner layer differentiates into the mesoderm and endoderm."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"I formulated the Gastraea theory, proposing that the embryonic **gastrula** mirrors the common two-layered ancestor of all higher animal phyla."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The transformation of the hollow blastula into the double-walled **gastrula** is one of the grand conserved architectural movements of animal life."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Lewis Wolpert famously remarked that it is not birth, marriage, or death, but the formation of the **gastrula** that is the most important time in your life."*

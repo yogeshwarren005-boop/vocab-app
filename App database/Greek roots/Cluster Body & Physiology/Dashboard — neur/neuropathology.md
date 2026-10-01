@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathology of the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pathology of the nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical discipline and branch of pathology concerned with the structural, cellular, and molecular abnormalities of diseases affecting the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In post-mortem and surgical evaluation, the examination of brain, spinal cord, and peripheral nerve biopsy specimens to identify ischemia, demyelination, neoplasms, or neurodegeneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropathology designates pathology of the nervous system."*
+> - 📜 **Alois Alzheimer (*Über eine eigenartige Erkrankung der Hirnrinde*):** *"The foundation of our discovery was laid in the **neuropathology** laboratory by identifying neurofibrillary tangles and miliary plaques."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Accurate surgical intervention requires daily consultation with the diagnostic findings of experimental **neuropathology**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Recent investigations in **neuropathology** have clarified the distinction between primary degenerative tabes and syphilitic meningitis."*

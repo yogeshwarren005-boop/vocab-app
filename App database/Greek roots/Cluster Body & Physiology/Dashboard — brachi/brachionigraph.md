@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek brachi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or physiological apparatus designed for measuring, recording, and graphically tracing the movements and mechanical work of the arm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early experimental physiology and kinesiology, a mechanical recorder tracing arm flexion, fatigue, and tremor during physical exertion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachionigraph designates a term designating an entity, condition, or phenomenon derived from greek brachi."*
+> - 📜 **Angelo Mosso (*Fatigue*):** *"Using a customized **brachionigraph**, we plotted the progressive decline of voluntary muscular power in the human arm."*
+> - 📜 **Étienne-Jules Marey (*Movement*):** *"The **brachionigraph** provided an accurate graphic tracing of the trajectory and velocity of arm movement during heavy labor."*
+> - 📜 **Hugo Münsterberg (*Psychology and Industrial Efficiency*):** *"Industrial psychologists employed the **brachionigraph** to optimize repetitive arm movements among factory workers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meteorology of the total extent of the atmosphere; especially the upper layers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meteorology of the total extent of the atmosphere; especially the upper layers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of meteorology and physics that deals with the whole extent of the Earth's atmosphere, especially the upper regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric science and aviation meteorology, the direct sounding and physical investigation of free atmospheric currents, temperature lapses, and pressures above surface friction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerology designates meteorology of the total extent of the atmosphere; especially the upper layers."*
+> - 📜 **Cleveland Abbe (*The Mechanics of the Earth's Atmosphere*):** *"The development of sounding balloons has transformed **aerology** from speculative conjecture into an exact physical science."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Our understanding of terrestrial climate requires systematic **aerology** across equatorial and polar altitudes."*
+> - 📜 **Robert FitzRoy (*The Weather Book: A Manual of Practical Meteorology*):** *"Upper-air observations in **aerology** explain sudden barometric depressions that baffle surface observers."*

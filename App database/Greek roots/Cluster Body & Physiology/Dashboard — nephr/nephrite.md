@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compact tremolite or actinolite that is the commoner and less valuable kind of jade and that varies in color from white to dark green or black.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact tremolite or actinolite that is the commoner and less valuable kind of jade and that varies in color from white to dark green or black.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tough, compact variety of actinolite or tremolite amphibole, which is one of the two distinct mineral species commonly termed jade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and gemology, a calcium-magnesium-iron amphibole gemstone renowned for its interlocking fibrous microcrystalline toughness, historically worn as an amulet against kidney ailments (Greek nephros).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrite designates a compact tremolite or actinolite that is the commoner and less valuable kind of jade and that varies in color from white to dark green or black."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The smooth green stone called **nephrite** was celebrated among ancients as a sovereign remedy for gravel."*
+> - 📜 **George Frederick Kunz (*The Curious Lore of Precious Stones*):** *"The mineral **nephrite**, or true greenstone, was shaped into sacred amulets by ancient peoples from China to New Zealand."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The felted fibrous texture of **nephrite** confers upon it an extraordinary resistance to mechanical fracture."*

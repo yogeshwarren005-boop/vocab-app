@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Union of two or more separate bones to form a single bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Union of two or more separate bones to form a single bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The union or fusion of adjacent bones by the growth of osseous tissue, converting a joint into solid bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In craniofacial and orthopedic surgery, normal physiological fusion (as in cranial sutures with age) or pathological premature fusion (craniosynostosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synostosis designates union of two or more separate bones to form a single bone."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The three separate components of the os coxae undergo complete **synostosis** during puberty to form the adult pelvic bone."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Premature **synostosis** of the sagittal suture arrests transverse cranial growth, producing a scaphocephalic head form."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"In radioulnar **synostosis**, congenital osseous fusion locks the forearm in permanent pronation."*

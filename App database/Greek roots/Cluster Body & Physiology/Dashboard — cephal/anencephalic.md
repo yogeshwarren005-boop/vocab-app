@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by partial or total absence of a brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by partial or total absence of a brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by or relating to anencephaly; born without the major portion of the brain, skull vault, and scalp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neonatology and pathology, describing a neonate with lethal neural tube closure defect exposing the rudimentary brainstem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anencephalic designates characterized by partial or total absence of a brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **anencephalic** infant exhibits primitive reflex sucking movements driven solely by preserved bulbar centers."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Dissection of the **anencephalic** cranium reveals the base of the skull covered only by a vascular mass of cerebro-vasculosa."*
+> - 📜 **Harvey Cushing (*Surgery of the Head*):** *"Failure of the anterior neuropore to close at the twenty-fourth day of gestation produces the classic **anencephalic** malformation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek my.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign fibrous neoplasm composed of both fibrous connective tissue and smooth muscle fibers, commonly occurring in the uterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological pathology and oncology, a leiomyoma exhibiting extensive collagenous stromal fibrosis, frequently causing uterine enlargement, bleeding, or pelvic discomfort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fibromyoma designates a term designating an entity, condition, or phenomenon derived from greek my."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A large uterine **fibromyoma** may attain massive proportions, compressing the pelvic ureters and bladder."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Surgical enucleation of an intramural **fibromyoma** preserves uterine function while relieving intractable menorrhagia."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopically, the **fibromyoma** exhibits interlacing bundles of smooth muscle cells mingled with dense bands of fibrous tissue."*

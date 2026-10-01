@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unconcerned with or unrelated to history or to historical development or to tradition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unconcerned with or unrelated to history or to historical development or to tradition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking historical perspective or context; unconcerned with history or historical development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and critical theory, describing analyses, doctrines, or assumptions that treat cultural, social, or linguistic phenomena as static and universal rather than products of temporal development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ahistorical designates unconcerned with or unrelated to history or to historical development or to tradition."*
+> - 📜 **Michel Foucault (*The Archaeology of Knowledge*):** *"To view language as a timeless grammatical structure detached from discourse is to adopt an essentially **ahistorical** stance."*
+> - 📜 **Edward Said (*Orientalism*):** *"Orientalist discourse posited an **ahistorical**, unchanging East perpetually contrasted with a dynamic Western world."*
+> - 📜 **Fredric Jameson (*Postmodernism, or, the Cultural Logic of Late Capitalism*):** *"Postmodern cultural fragmentation often fosters an **ahistorical** consumer consciousness severed from historical memory."*

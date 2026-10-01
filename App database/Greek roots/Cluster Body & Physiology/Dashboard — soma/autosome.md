@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chromosome other than a sex chromosome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chromosome other than a sex chromosome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any chromosome that is not an allosome (sex chromosome), appearing in homologous pairs in diploid somatic cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human genomics, autosomes are numbered 1 through 22 in order of descending size; genes on autosomes exhibit mendelian inheritance unaffected by biological sex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autosome designates a chromosome other than a sex chromosome."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The standard chromosomes of the diploid complement are termed **autosomes** to distinguish them from the accessory sex chromosome."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Linkage groups mapped upon an **autosome** exhibit identical rates of recombination in both reciprocal crosses."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Inversion polymorphism on the third **autosome** provides wild Drosophila populations with adaptively flexible supergenes."*

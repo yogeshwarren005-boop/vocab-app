@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of arm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of arm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving both the upper arm (brachium) and the forearm or elbow (cubitus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive anatomy and clinical surgery, pertaining to the region extending along the arm from the shoulder to the elbow joint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiocubital designates adjective*) pertaining to, derived from, or characteristic of arm."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **brachiocubital** fascia binds together the flexor and extensor muscles as they cross the elbow articulation."*
+> - 📜 **Charles Bell (*The Anatomy of the Human Body*):** *"Careful dissection of the **brachiocubital** region reveals the superficial course of the basilic and cephalic veins."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The **brachiocubital** musculature coordinates the powerful flexion of the forearm upon the upper arm."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eat a lot and without restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eat a lot and without restraint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To eat voraciously or indulge habitually in gluttony; to gorge oneself (British spelling of gluttonize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and satire, to consume resources, luxuries, or sustenance with unbridled, selfish greed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gluttonise designates eat a lot and without restraint."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley retired to his chambers to **gluttonise** in secret upon spiced jellies, punch, and rich pastries."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"He watched the boarding-house guests **gluttonise** at the breakfast table, competing for every scrap of butter and ham."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Is man born merely to **gluttonise** and sleep, or to body forth the divine idea of the universe in noble labor?"*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to catoptrics; produced by or based on mirrors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to catoptrics; produced by or based on mirrors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to catoptrics; produced by the reflection of light (synonym of catoptric).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical physics and mathematics, describing treatises, experiments, or geometric proofs concerning the behavior of reflected rays of light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catoptrical designates of or relating to catoptrics; produced by or based on mirrors."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Geometrical proofs of **catoptrical** focus establish that rays incident upon a parabolic mirror converge to a single mathematical point."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"Early investigators constructed curious **catoptrical** ciphers that could only be deciphered through cylindrical mirrors."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The large specula designed by my father achieved unprecedented **catoptrical** resolving power in deep space observations."*

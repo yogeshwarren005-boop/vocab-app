@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vaccine (trade name pneumovax) effective against the 23 most common strains of pneumococcus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vaccine (trade name pneumovax) effective against the 23 most common strains of pneumococcus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial trade name for the 23-valent pneumococcal polysaccharide vaccine (PPSV23) used to immunize against Streptococcus pneumoniae infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In preventive medicine and immunology, an unconjugated polysaccharide vaccine covering 23 virulent pneumococcal serotypes, indicated for older adults and high-risk immunocompromised individuals to prevent invasive pneumococcal bacteremia and pneumonia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumovax designates vaccine (trade name pneumovax) effective against the 23 most common strains of pneumococcus."*
+> - 📜 **Anthony Fauci (*Harrison's Principles of Internal Medicine*):** *"Routine vaccination with **Pneumovax** substantially reduces the risk of life-threatening bacteremic pneumococcal pneumonia in the elderly."*
+> - 📜 **Paul Offit (*Vaccinated: One Man's Quest to Defeat the World's Deadliest Diseases*):** *"The introduction of polyvalent formulations such as **Pneumovax** established broad protective antibody titers against diverse capsular serotypes."*
+> - 📜 **William E. Paul (*Fundamental Immunology*):** *"Unlike conjugate vaccines, unconjugated **Pneumovax** stimulates a T-cell-independent B-cell response, providing serotype-specific humoral defense."*

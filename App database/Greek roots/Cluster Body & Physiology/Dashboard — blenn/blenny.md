@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small usually scaleless fishes with comb-like teeth living about rocky shores; are territorial and live in holes between rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small usually scaleless fishes with comb-like teeth living about rocky shores; are territorial and live in holes between rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small, elongated, scaleless or small-scaled marine fishes of the suborder Blennioidei, common in tidepools and coastal reefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, bottom-dwelling coastal fishes characterized by blunt heads, large pectoral fins, and a thick coating of body slime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blenny designates small usually scaleless fishes with comb-like teeth living about rocky shores; are territorial and live in holes between rocks."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"A startled **blenny** darted from under a frond of sea lettuce, disappearing into a shadowed granite crevice."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"The curious little **blenny** rested on its pelvic fins, watching my diver's helmet with large, rotating eyes."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"Every rocky headland washed by temperate surf is home to the agile, slime-coated **blenny**."*

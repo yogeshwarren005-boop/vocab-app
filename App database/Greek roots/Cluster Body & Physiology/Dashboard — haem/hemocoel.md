@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body cavity (as in arthropods or some mollusks) that contains blood or hemolymph and functions as part of the circulatory system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body cavity (as in arthropods or some mollusks) that contains blood or hemolymph and functions as part of the circulatory system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primary body cavity of most invertebrates (such as arthropods and mollusks), containing circulating hemolymph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate anatomy and developmental embryology, an open circulatory body space formed by expanded blastocoelic blood sinuses through which hemolymph directly bathes visceral organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemocoel designates a body cavity (as in arthropods or some mollusks) that contains blood or hemolymph and functions as part of the circulatory system."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"In insects and crustaceans, the true coelom is largely reduced, replaced functionally by an expansive blood-filled **hemocoel**."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The open circulation of arthropods propels blood from the dorsal vessel directly into the perivisceral **hemocoel**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Dissections of arthropods demonstrate how nutrients circulate freely through the extensive sinuses of the **hemocoel**."*

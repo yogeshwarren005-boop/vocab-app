@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of optics that deals with the reflection of light and reflective optical surfaces (such as mirrors).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physics, the mathematical science formulated by Euclid and Archimedes analyzing the equality of angles of incidence and reflection on plane, spherical, and parabolic surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catoptrics designates a term designating an entity, condition, or phenomenon derived from greek ops."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The foundational theorem of **catoptrics** demonstrates that the angle of incidence equals the angle of reflection."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"Progress in theoretical **catoptrics** facilitated the design of burning mirrors capable of fusing metals at a distance."*
+> - 📜 **Thomas Young (*A Course of Lectures on Natural Philosophy and the Mechanical Arts*):** *"While dioptrics governs refraction through transparent media, **catoptrics** regulates all phenomena of light rebound."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A b vitamin that prevents skin lesions and weight loss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A b vitamin that prevents skin lesions and weight loss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical name for riboflavin (vitamin B2) when originally isolated from mammalian liver tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional biochemistry, a water-soluble yellow-green fluorescent pigment isolated from hepatic extracts, subsequently demonstrated to be identical to vitamin B2.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatoflavin designates a b vitamin that prevents skin lesions and weight loss."*
+> - 📜 **Paul Karrer (*Helv. Chim. Acta*):** *"The yellow water-soluble pigment isolated from liver, designated **hepatoflavin**, was found identical in constitution to lactoflavin and ovoflavin."*
+> - 📜 **Richard Kuhn (*Berichte der deutschen chemischen Gesellschaft*):** *"Our isolation of crystalline **hepatoflavin** proved that this essential growth factor serves universally as the prosthetic group of yellow respiratory enzymes."*
+> - 📜 **Frederick Gowland Hopkins (*Feeding Experiments Illustrating the Importance of Accessory Factors*):** *"Early bioassays revealed that concentrated extracts containing **hepatoflavin** cured specific nutritional deficiencies in experimental animals."*

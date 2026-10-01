@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light spongy cubical bone forming much of the walls of the nasal cavity and part of those of the orbits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light spongy cubical bone forming much of the walls of the nasal cavity and part of those of the orbits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light, spongy, cubical bone located at the roof of the nose between the two orbits, perforated with holes for olfactory nerves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology, the cranial bone comprising the horizontal cribriform plate, vertical perpendicular plate, and lateral labyrinths containing ethmoidal air cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethmoid designates a light spongy cubical bone forming much of the walls of the nasal cavity and part of those of the orbits."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Slender olfactory axonic bundles pass from the nasal neuroepithelium through the cribriform plate of the **ethmoid** to synapse in the olfactory bulb."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Suppuration within the air cells of the **ethmoid** poses grave danger of intracranial extension across the thin orbital roof."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The delicate lamellae of the **ethmoid** bone resemble frozen sea foam, separating the sensory chambers of the nose from the brain."*

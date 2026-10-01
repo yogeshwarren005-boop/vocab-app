@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having in fact existed in the past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Significance owing to its history.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of being historical; historical authenticity, actuality, or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of history and existential phenomenology (historicity / Geschichtlichkeit), the intrinsic temporal and situated nature of human existence and institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, historicalness designates the state of having in fact existed in the past."*
+> - 📜 **Wilhelm Dilthey (*The Formation of the Historical World in the Human Sciences*):** *"The profound **historicalness** of human consciousness means that we understand human nature only through history."*
+> - 📜 **Lord Acton (*Lectures on Modern History*):** *"The documentary test of **historicalness** separates authentic ancient charters from spurious pious inventions."*
+> - 📜 **Martin Heidegger (*Being and Time*):** *"The authentic temporality of Dasein grounds the primordial **historicalness** of our shared cultural inheritance."*

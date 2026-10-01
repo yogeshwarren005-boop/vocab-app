@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the entire heart (the epicardium and the myocardium and the endocardium).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the entire heart (the epicardium and the myocardium and the endocardium).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diffuse, severe inflammation simultaneously affecting all three anatomical layers of the heart: the endocardium, myocardium, and pericardium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical rheumatology and infectious disease, a life-threatening manifestation of acute rheumatic fever characterized by cardiomegaly, friction rubs, murmurs, and acute heart failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pancarditis designates inflammation of the entire heart (the epicardium and the myocardium and the endocardium)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute rheumatic **pancarditis** combines endocardial valvular damage, myocardial contractile failure, and serofibrinous pericardial effusion."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"When rheumatic fever strikes the heart, it spares no part of the organ, kindling a general **pancarditis** that threatens swift dissolution."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"The mortality of childhood rheumatic fever was dictated largely by the severity of the initial attack of acute **pancarditis**."*

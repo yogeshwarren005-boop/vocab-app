@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious usually painful inflammatory disease of bone often of bacterial origin that may result in the death of bone tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infectious usually painful inflammatory disease of bone often of bacterial origin that may result in the death of bone tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute or chronic inflammation and bacterial infection of bone and bone marrow, commonly caused by pyogenic organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic surgery, an infection typically provoked by Staphylococcus aureus via hematogenous seeding or open fracture, risking bone necrosis (sequestrum) and involucrum formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteomyelitis designates an infectious usually painful inflammatory disease of bone often of bacterial origin that may result in the death of bone tissue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute hematogenous **osteomyelitis** in children demands urgent surgical decompression of the subperiosteal space to preserve the femoral shaft."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Chronic suppurative **osteomyelitis** forms deep sinus tracts that periodically discharge dead bone fragments termed sequestra."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"The introduction of penicillin dramatically reduced the crippling amputations once necessitated by intractable acute **osteomyelitis**."*

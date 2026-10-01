@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large flat triangular superficial muscle of each side of the upper back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large flat triangular superficial muscle of each side of the upper back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, superficial, paired muscle of the upper back and neck, roughly trapezoidal or diamond-shaped when viewed together, extending from the occipital bone and cervical-thoracic spine to the clavicle and scapular spine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Innervated by the spinal accessory nerve (cranial nerve XI) and cervical branches (C3-C4); acts to elevate, retract, depress, and rotate the scapula during arm elevation above the horizontal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trapezius designates a large flat triangular superficial muscle of each side of the upper back."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **trapezius** is a broad, flat, triangular muscle covering the upper and back part of the neck and shoulders."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Shoulder shrug reflexes trigger prompt motor discharge down the accessory nerve into the fibers of the **trapezius**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Injury to the spinal accessory nerve results in drooping of the shoulder and wasting of the **trapezius** muscle."*

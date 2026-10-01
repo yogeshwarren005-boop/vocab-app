@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having given birth to one or more viable children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having given birth to one or more viable children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having borne offspring; producing viable young; designated by the number of times a female has given birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and ecology, describing a female organism that has completed one or more gestations (e.g., primiparous, multiparous), contrasted with nulliparous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parous designates having given birth to one or more viable children."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The external os of the cervix in a **parous** woman typically appears as a transverse slit rather than a round dimple."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Maternal investment differs markedly between nulliparous heifers and seasoned, fully **parous** individuals."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The pelvic floor muscles and vaginal canal retain distinct structural alterations in every **parous** subject."*

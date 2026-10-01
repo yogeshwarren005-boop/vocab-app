@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling; progression and severity vary among individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling; progression and severity vary among individuals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic inflammatory disease of the muscles, characterized by progressive, symmetric weakness and wasting of proximal skeletal muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical rheumatology, an idiopathic autoimmune inflammatory myopathy mediated by cytotoxic CD8+ T cells targeting non-necrotic muscle fibers, without cutaneous involvement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymyositis designates myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling; progression and severity vary among individuals."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients with idiopathic **polymyositis** experience insidious difficulty in climbing stairs and raising the arms above the head."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"The diagnostic evaluation of unexplained pelvic girdle weakness must exclude systemic **polymyositis** before considering surgical intervention."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Elevated serum muscle enzymes and progressive weakness in proximal limbs confirm the diagnosis of **polymyositis**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being given a date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being given a date.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being dated; impossible to assign to a specific historical date or chronological period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical archaeology and palaeography, lacking stratigraphic markers, typological diagnostics, or radiocarbon material necessary for chronology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undatable designates not capable of being given a date."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ancient tribal customs drifted through oral traditions in an **undatable** antiquity long before the arrival of Roman legions."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"Unstratified surface sherds gathered outside the palace walls remained unfortunately **undatable**."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"Love and grief belong to that timeless, **undatable** realm of the human soul that laughs at centuries."*

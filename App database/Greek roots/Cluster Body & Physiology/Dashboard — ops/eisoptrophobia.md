@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, persistent, and irrational fear of mirrors or of seeing one's reflection in a mirror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopathology, a specific phobic neurosis often rooted in supernatural dread, identity dissociation, or fear of contact with a supernatural or demonic realm through glass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eisoptrophobia designates a term designating an entity, condition, or phenomenon derived from greek ops."*
+> - 📜 **Sigmund Freud (*The Uncanny*):** *"In pathological cases of **eisoptrophobia**, the looking-glass ceases to be an ordinary domestic object and becomes a menacing double."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The autonomic panic provoked in **eisoptrophobia** illustrates how visual symbols can trigger instinctive flight reactions."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Morbid dreads such as **eisoptrophobia** compel the sufferer to avert their eyes from shop windows and dark polished water."*

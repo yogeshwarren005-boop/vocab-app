@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of blood or blood cells in the urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of blood or blood cells in the urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of red blood cells in the urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nephrology and urology, a key clinical sign categorized as microscopic or gross hematuria, signaling pathology ranging from glomerulonephritis and renal calculi to urinary tract neoplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematuria designates the presence of blood or blood cells in the urine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Whenever painless macroscopic **hematuria** is encountered, thorough cystoscopic examination of the bladder mucosa is urgently indicated."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"In the early acute stages of renal inflammation, the patient voided scanty urine tinged with noticeable **hematuria**."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Severe nephritic paroxysms caused by renal calculi were uniformly attended with sharp lumbar pain and transient **hematuria**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: nerve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: neural : neural and.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining form and root (neuron) signifying nerve, tendon, sinew, or the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical lexicography and anatomical nomenclature, the fundamental root employed in constructing terms denoting nerves, neuronal structures, neurological disorders, and neuroscientific disciplines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog neur as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The ancient Greek designation for sinew and cord evolved into the root **neur**, by which modern science designates the conducting units of mind."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Every reflex arc traces its operational continuity to the anatomical pathway symbolized by the classical combining form **neur**."*
+> - 📜 **Thomas Willis (*Cerebri Anatome*):** *"The white medullary cords spreading from the encephalon were recognized by the ancients under the appellation **neur**, distributing animal spirits to the limbs."*

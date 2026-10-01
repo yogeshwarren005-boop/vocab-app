@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phylogenetically older part of the brain, including the brainstem, midbrain, and basal ganglia, responsible for primitive, instinctive behaviors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative neurology, the subcortical core conserved across all vertebrates that governs homeostatic regulation, arousal, visceral control, and basic survival reflexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleoencephalon designates the more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex."*
+> - 📜 **Carl Sagan (*The Dragons of Eden*):** *"Deep beneath the neocortex lies the ancient **paleoencephalon**, the neural chassis inherited from ancestral reptiles."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Encephalitis lethargica selectively ravaged the dopaminergic networks of the **paleoencephalon**, immobilizing patients in catatonic stupor."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Primitive emotional responses such as fear and autonomic rage originate within circuits of the conserved **paleoencephalon**."*

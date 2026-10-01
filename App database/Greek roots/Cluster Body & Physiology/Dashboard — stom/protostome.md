@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a major group (Protostomia) of bilateral metazoan animals (such as mollusks, annelids, and arthropods) characterized in typical forms by determinate and spiral cleavage, formation of a mouth and anus directly from the blastopore, and formation of the coelom by splitting of the embryonic mesoderm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a major group (Protostomia) of bilateral metazoan animals (such as mollusks, annelids, and arthropods) characterized in typical forms by determinate and spiral cleavage, formation of a mouth and anus directly from the blastopore, and formation of the coelom by splitting of the embryonic mesoderm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any animal belonging to the major bilaterian clade Protostomia, in which the embryonic blastopore develops into the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, protostomes (including mollusks, annelids, and arthropods) typically exhibit spiral determinate cleavage and schizocoelous coelom formation, contrasting with deuterostomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protostome designates any of a major group (protostomia) of bilateral metazoan animals (such as mollusks, annelids, and arthropods) characterized in typical forms by determinate and spiral cleavage, formation of a mouth and anus directly from the blastopore, and formation of the coelom by splitting of the embryonic mesoderm."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"In every typical **protostome**, the primary indentation of the blastopore directly establishes the larval mouth."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The dichotomy separating the **protostome** from the deuterostome marks the earliest bilateral bifurcation of the metazoa."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Cleavage in the **protostome** embryo proceeds by rigid spiral apportionment, fixing early blastomere fates."*

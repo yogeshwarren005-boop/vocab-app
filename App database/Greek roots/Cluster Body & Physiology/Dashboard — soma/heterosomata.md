@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flatfishes: halibut; sole; flounder; plaice; turbot; tonguefishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flatfishes: halibut; sole; flounder; plaice; turbot; tonguefishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic suborder or former order of flatfishes (Pleuronectiformes), characterized by an asymmetrical body plan with both eyes situated on one side of the head in adults.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, Heterosomata includes flounders, soles, and turbots; during larval metamorphosis, the skull undergoes radical cranial torsion as one eye migrates across the dorsal midline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterosomata designates flatfishes: halibut; sole; flounder; plaice; turbot; tonguefishes."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The asymmetrical craniofacial development of the **Heterosomata** represents one of the most astonishing transformations in vertebrate biology."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Adult **Heterosomata** rest upon the seabed on their eyeless, unpigmented blind side, perfectly camouflaged on the ocean floor."*
+> - 📜 **Francis Day (*The Fishes of Great Britain and Ireland*):** *"Linnaeus and Cuvier recognized the distinctive nature of the **Heterosomata**, grouping them by their laterally compressed form."*

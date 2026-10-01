@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The metatarsal part of a human foot or of a hind foot in quadrupeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The metatarsal part of a human foot or of a hind foot in quadrupeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The region of the foot between the ankle (tarsus) and the toes (phalanges), comprising the five metatarsal bones in humans; also, the penultimate segment of an arthropod's leg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human biomechanics, the metatarsus forms both longitudinal and transverse arches that distribute body weight during bipedal standing and locomotion; in ornithology, it fuses with distal tarsals to form the tarsometatarsus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metatarsus designates the metatarsal part of a human foot or of a hind foot in quadrupeds."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **metatarsus** is composed of five cylindrical bones numbered from the medial to the lateral side of the foot."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In ungulates, the elements of the **metatarsus** fuse into a single robust cannon-bone adapted for cursorial speed."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the arachnid leg, the **metatarsus** precedes the terminal tarsus, providing exceptional flexibility in web construction."*

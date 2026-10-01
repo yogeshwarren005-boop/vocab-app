@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sphyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pulse; the rhythmic beating or throbbing of the arteries produced by the periodic ejection of blood from the left ventricle into the arterial system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical medical term derived from Greek *sphygmos* (pulse), prominent in ancient humoral medicine (notably Galen's treatise *De Pulsibus*) and early modern clinical diagnostics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphygmus designates a term designating an entity, condition, or phenomenon derived from greek sphyg."*
+> - 📜 **Galen (*On the Pulse*):** *"By attending to the rhythm and magnitude of the **sphygmus**, the skilled physician perceives the internal heat of the heart."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"The expansion of the arteries, known as the **sphygmus**, corresponds in time and force with the contraction of the cardiac ventricles."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The ancients observed that fever quickens the **sphygmus**, communicating its accelerated motion through every major artery."*

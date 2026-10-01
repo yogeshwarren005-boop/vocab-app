@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pharynx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the pharynx.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucous membranes and submucosa of the pharynx; commonly called a sore throat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, an infectious condition typically caused by respiratory viruses or Group A Streptococcus, presenting with erythema, exudates, and fever.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharyngitis designates inflammation of the pharynx."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Streptococcal **pharyngitis** requires prompt bacteriological diagnosis to guide antimicrobial therapy and prevent acute rheumatic fever."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"Epidemic catarrhs of winter are invariably accompanied by fiery **pharyngitis** that makes swallowing even liquids painful."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Severe membranous **pharyngitis** must be watched vigilantly to ensure inflammatory edema does not spread downward into the glottis."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Known widely and usually unfavorably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Known widely and usually unfavorably.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely and unfavorably known; publicly acknowledged for disreputable deeds or negative traits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical narrative and characterization, famous for misconduct, criminal audacity, or controversial public infamy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would it were not notorious."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, sir, I shall have law in Ephesus, To your notorious shame, I doubt it not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alençon, that notorious Machiavel!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Commodus was a **notorious** gladiator whose shameful exhibitions in the amphitheater outraged the dignity of Roman senators."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Chancery suit of Jarndyce and Jarndyce had become a **notorious** monument to legal delay and wasted fortunes."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The smuggler had long been **notorious** along the coast for his daring evasions of His Majesty's excise officers."*

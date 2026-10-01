@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The post or office of legate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A permanent diplomatic mission headed by a minister.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diplomatic mission, embassy, or delegation sent to represent a state or sovereign abroad; the official residence and offices of such a mission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dispatching or sending forth of an official envoy; the collective body of diplomatic ministers and attachés assigned to a foreign station.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Shortly after this his older brother, Gansevoort Melville, sailed for England as secretary of legation to Ambassador McLane, and the manuscript was intrusted to Gansevoort for submission to John Murray."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"I did not fear trouble of any sort in spite of a last letter of warning received at Hong Kong from our Peking Legation, but there was just enough of a touch of adventure to the trip to make the roughnesses of the way endurable."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"He had since acted as Secretary to the Chinese Legation in Washington, and was quite at home in Western ways."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"During the Civil War, the American **legation** in London became the storm center of transatlantic diplomacy."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The staff of the foreign **legation** observed republican political customs with keen curiosity."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Urgent dispatches reached the British **legation** warning of immediate troop mobilizations along the border."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the eyelid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the eyelid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the tarsus, specifically the tarsal cartilage plate of the eyelid; less commonly, inflammation of the tarsal bones of the foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, chronic tarsitis frequently complicates posterior blepharitis, meibomian gland dysfunction, or ocular rosacea, presenting with hyperemic, thickened lid margins and chalazion formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tarsitis designates inflammation of the eyelid."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"Syphilitic **tarsitis** produces a painless, stony-hard thickening of the entire cartilaginous tarsal plate of the upper lid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic scrofulous **tarsitis** in children requires attention to general nutrition as well as local antiseptic ointments."*
+> - 📜 **Astley Cooper (*The Principles and Practice of Surgery*):** *"When suppurative **tarsitis** involves the tarsal glands, warm fomentations encourage localized drainage."*

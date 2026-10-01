@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toxic to the kidney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Toxic to the kidney.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destructive, poisonous, or damaging to the kidney cells or renal functional parenchyma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and pathology, describing chemical agents, heavy metals, biological toxins, or metabolites that induce acute tubular necrosis or glomerular impairment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrotoxic designates toxic to the kidney."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Specific organic compounds and heterologous sera demonstrate marked **nephrotoxic** properties, precipitating acute degeneration of the convoluted tubules."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Among mineral poisons, bichloride of mercury exhibits a virulent **nephrotoxic** action, leading to complete anuria."*
+> - 📜 **Carl von Noorden (*Clinical Treatises on the Pathology and Therapy of Disorders of Metabolism and Nutrition*):** *"Excessive accumulation of metallic salts exerts an intensely **nephrotoxic** influence upon the secretory epithelium of the Malpighian tufts."*

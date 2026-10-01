@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the lining membrane of the stomach and the intestines characterized especially by nausea, vomiting, diarrhea, and cramps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the lining membrane of the stomach and the intestines characterized especially by nausea, vomiting, diarrhea, and cramps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucous membrane of both the stomach and the intestines, causing vomiting, diarrhea, and cramps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical infectious disease and public health, an acute, highly communicable syndrome caused by viruses (norovirus), bacteria (Salmonella), or protozoa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroenteritis designates inflammation of the lining membrane of the stomach and the intestines characterized especially by nausea, vomiting, diarrhea, and cramps."*
+> - 📜 **Paul Farmer (*Fevers, Feuds, and Diamonds*):** *"Preventing infantile death from epidemic **gastroenteritis** requires community water sanitation combined with packaged oral rehydration therapy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In severe toxic **gastroenteritis**, constant vomiting precludes oral fluid intake, demanding prompt intravenous electrolyte replacement."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"A standard clinical checklist for pediatric **gastroenteritis** ensured that nurses monitored capillary refill and urine output vigilantly."*

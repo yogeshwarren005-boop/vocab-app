@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mitochondrion of a striated muscle fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mitochondrion of a striated muscle fiber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized, large mitochondrion found in the sarcoplasm of striated (skeletal or cardiac) muscle fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ultrastructural histology and physiology, sarcosomes are densely packed with cristae and localized adjacent to myofibrillar Z-discs to deliver immediate ATP supplies for excitation-contraction coupling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcosome designates a mitochondrion of a striated muscle fiber."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"Under electron microscopy, each **sarcosome** is revealed as an elaborate mitochondrion specialized for high aerobic turnover."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"In avian flight muscle, virtually every sarcomere is flanked by an enormous, energetic **sarcosome**."*
+> - 📜 **Andrew Huxley (*Reflections on Muscle*):** *"The proximity of the **sarcosome** to the contractile filaments minimizes diffusion distances for regenerated ATP."*

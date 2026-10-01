@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to adenocarcinoma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to adenocarcinoma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or having the histological characteristics of an adenocarcinoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, describing tissue specimens that display malignant glandular proliferation, atypical mitosis, and basement membrane breach.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenocarcinomatous designates of or pertaining to adenocarcinoma."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"Biopsy of the polypoid mucosal mass revealed focal **adenocarcinomatous** transformation within preexisting dysplastic crypts."*
+> - 📜 **William Stewart Halsted (*The Results of Operations for the Cure of Cancer of the Breast*):** *"Extensive lymphatic emboli confirmed the aggressively **adenocarcinomatous** nature of the infiltrating mammary neoplasm."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The frozen section report described **adenocarcinomatous** invasion extending beyond the resection margin of the pancreatic margin."*

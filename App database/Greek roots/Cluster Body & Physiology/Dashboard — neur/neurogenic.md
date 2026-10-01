@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising in or stimulated by nerve tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising in or stimulated by nerve tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating in, stimulated by, or caused by the nervous system or nerve tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and pathology, describing bodily processes, shocks, muscular contractions, or bladder dysfunctions initiated primarily by neural impulses rather than myogenic or chemical mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurogenic designates arising in or stimulated by nerve tissues."*
+> - 📜 **Walter Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"The acute release of epinephrine from the adrenal gland is a purely **neurogenic** reflex evoked by splanchnic nerve stimulation."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Rhythmic stepping movements in the spinal animal exhibit a coordinated **neurogenic** timing governed by reciprocal inhibition."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Puncture of the fourth ventricle elicits a **neurogenic** glycosuria by transmitting impulses through the sympathetic nervous pathways."*

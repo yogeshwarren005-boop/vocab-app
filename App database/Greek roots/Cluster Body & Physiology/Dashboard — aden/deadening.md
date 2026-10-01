@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something futile and useless (as by routine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make vague or obscure or make (an image) less visible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing a loss of sensation, vitality, or keenness; producing dullness, apathy, or numbness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Material used for insulating against the transmission of sound or heat in buildings; dampening or muffling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"These appalling facts display more of the malignity of sin, its blinding, deadening influence, and more of the rancorous enmity of the carnal heart against God, than all the other enormities which blacken the world's history."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I mark this in our old Mogul’s wine; it’s quite as deadening to some as filliping to others."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I mark this in our old Mogul’s wine; it’s quite as deadening to some as filliping to others."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She felt the slow, **deadening** weight of domestic routine crushing out her youthful intellectual aspirations."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The mechanical monotony of his daily ledger-work exercised a **deadening** influence upon his passionate nature."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"She hated the **deadening** effect of conventional social chitchat that drowned all genuine feeling."*

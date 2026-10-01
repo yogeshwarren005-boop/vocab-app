@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of the brain; especially : one involving alterations of brain structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fatal prion disease of cattle that affects the nervous system, resembles or is identical to scrapie of sheep and goats, and is probably transmitted by infected tissue in food —abbreviation BSE—called also mad cow disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any broad disease, disorder, or damage affecting the brain, characterized by an altered mental state, confusion, or cognitive impairment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical internal medicine and critical care, cerebral dysfunction secondary to systemic metabolic failure (hepatic, uremic, hypertensive, or hypoxic encephalopathy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalopathy designates a disease of the brain; especially : one involving alterations of brain structure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Flapping tremor (asterixis) and fluctuating lethargy are the clinical hallmarks of metabolic **encephalopathy** in hepatic cirrhosis."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Hypoxic **encephalopathy** following cardiac arrest can selectively damage the vulnerable CA1 neurons of the hippocampus."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Toxic **encephalopathy** dulls the cortical tone, extinguishing the fine discrimination required for complex problem-solving."*

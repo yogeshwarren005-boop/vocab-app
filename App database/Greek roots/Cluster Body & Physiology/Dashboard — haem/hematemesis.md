@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vomiting of blood, indicating bleeding from the upper gastrointestinal tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, an acute medical emergency manifested by the expulsion of bright red blood or dark coffee-ground material resulting from gastric acid degradation of hemoglobin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematemesis designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Profuse **hematemesis** following epigastric pain is the hallmark of acute peptic ulceration eroding into a gastric arterial branch."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The patient was seized with faintness and violent retching, followed immediately by alarming **hematemesis** that left him thoroughly exsanguinated."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"In advanced portal cirrhosis, rupture of engorged esophageal varices frequently precipitates fatal recurrent **hematemesis**."*

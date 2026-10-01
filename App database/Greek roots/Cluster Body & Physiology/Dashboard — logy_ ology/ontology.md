@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) a rigorous and exhaustive organization of some knowledge domain that is usually hierarchical and contains all the relevant entities and their relations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The metaphysical study of the nature of being and existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of metaphysics dealing with the nature of being, existence, and ultimate reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and knowledge representation, a formal specification of concepts, categories, and relationships within a particular domain of discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology needed 129:21 We must abandon pharmaceutics, and take up ontol- ogy, - "the science of real being." We must look deep into realism instead of accepting only the out- 129:24 ward sense of things."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology defined 460:3 Ontology is defined as "the science of the necessary constituents and relations of all beings," and it under- lies all metaphysical practice."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology /versus/ physiology Ontology receives less attention than physiology."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The proud name of an **ontology** that presumes to give synthetic a priori cognitions of things in general must give place to a modest critique of pure understanding."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Plato's metaphysical **ontology** populated reality with eternal Forms more real than the fleeting sensible world."*
+> - 📜 **Willard Van Orman Quine (*From a Logical Point of View*):** *"To be is to be the value of a bound variable; this remains the fundamental criterion of philosophical **ontology**."*

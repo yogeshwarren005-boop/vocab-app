@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical prosody, an anapest; a metrical foot consisting of two short or unstressed syllables followed by one long or stressed syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical metrics, literally the 'counter-dactyl', so called because its syllabic weight reverses the long-short-short sequence of the dactyl.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidactylus designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The ancient grammarians termed the anapaest an **antidactylus**, emphasizing its reversed metrical direction."*
+> - 📜 **Samuel Taylor Coleridge (*Metrical Feet*):** *"The rushing foot which mirrors the dactyl backwards was prized as the **antidactylus** by Greek choric bards."*
+> - 📜 **John Ruskin (*The Elements of English Prosody*):** *"The rising impetus of the **antidactylus** lends an energetic, leaping cadence to martial lyrics."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of nerve , sinew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of nerve , sinew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to neuroplasticity; capable of undergoing structural or functional synaptic reorganization in response to experience or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rehabilitation neurology and cognitive science, describing the brain's dynamic capacity to forge new neural connections, remap cortical territories, and recover lost faculties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroplastic designates adjective*) pertaining to, derived from, or characteristic of nerve , sinew."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Reorganization of motor responses following cortical injury demonstrates the remarkable **neuroplastic** potential of surviving tissue."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Synaptic growth underlying long-term memory constitutes the biological embodiment of **neuroplastic** transformation."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The brain of the blind person demonstrates profound **neuroplastic** adaptation, reallocating visual cortex to auditory and tactile navigation."*

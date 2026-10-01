@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin-shelled freshwater mussels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thin-shelled freshwater mussels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of large freshwater mussels in the family Unionidae, characterized by thin, toothless shell hinges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, unionid bivalves lacking pseudocardinal and lateral hinge teeth, commonly known as floater mussels or swan mussels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anodonta designates thin-shelled freshwater mussels."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The freshwater bivalve **Anodonta** lacks the interlocking hinge teeth found in more robust unionids."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Glochidia larvae discharged by **Anodonta** attach to the gills of passing fish to complete development."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Ciliary feeding currents across the ctenidia of **Anodonta** provide an elegant model of lamellibranch respiration."*

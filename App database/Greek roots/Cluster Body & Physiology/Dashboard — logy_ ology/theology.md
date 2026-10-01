@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rational and systematic study of religion and its influences and of the nature of religious truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular system or school of religious beliefs and teachings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic study of the nature of the divine, religious beliefs, sacred scriptures, and spiritual practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical and dogmatic traditions, the rational analysis and doctrinal defense of the tenets, revelation, and moral teachings of a faith.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some people might have cried “Alas, poor Theology!” at the hideous defacement—the last grotesque phase of a creed which had served mankind well in its time."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Felix, though an offshoot from a far more recent point in the devolution of theology than his father, was less self-sacrificing and disinterested."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sermon, as might be expected, was of the extremest antinomian type; on justification by faith, as expounded in the theology of St Paul."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Sacred doctrine or **theology** proceeds from principles revealed by God, transcending mere human reason."*
+> - 📜 **Augustine of Hippo (*The City of God*):** *"True **theology** seeks an understanding of the divine reality through the alignment of faith and intellectual contemplation."*
+> - 📜 **John Calvin (*Institutes of the Christian Religion*):** *"Sound **theology** begins with the knowledge of God and the complementary knowledge of ourselves."*

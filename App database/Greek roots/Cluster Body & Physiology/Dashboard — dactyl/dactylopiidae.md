@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cochineal insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cochineal insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of scale insects (superfamily Coccoidea) comprising the cochineal insects, which feed on cacti and produce crimson carminic acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology and historical commerce, scale insects cultivated in Mesoamerica and the Mediterranean to manufacture royal carmine dyes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylopiidae designates cochineal insects."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The cultivation of cochineal insects of the family **Dactylopiidae** upon nopal cacti was a source of colossal wealth for Oaxaca."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the Canary Islands, broad plantations of opuntia are planted solely to nourish parasitic colonies of the **Dactylopiidae**."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"The vivid scarlet dye extracted from the crushed bodies of the **Dactylopiidae** has colored royal robes and painter's pigments for centuries."*

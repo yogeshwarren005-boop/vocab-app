@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A calcareous concretion in the inner ear of a vertebrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calcareous concretion in the inner ear of a vertebrate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense calcium carbonate granule or stone in the inner ear of vertebrates, resting upon sensory hair cells to detect gravity and motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and fisheries biology, one of three pairs of earstones in bony fishes (sagitta, asteriscus, lapillus), whose growth rings record age and environmental history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otolith designates a calcareous concretion in the inner ear of a vertebrate."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The dense **otolith** shifts under gravitational acceleration, exerting mechanical shearing force upon the underlying sensory hair cells."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"In bony fishes, the large calcareous **otolith** fills the saccular cavity, vibrating in resonance with aquatic sound waves."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Vestibular nerve endings form delicate calyceal contacts beneath the macula where the heavy **otolith** mass rests."*

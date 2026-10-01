@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a neurotic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a neurotic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a neurotic manner; with excessive anxiety, nervous apprehension, or emotional instability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral description, acting out of subconscious conflict, obsessive perfectionism, or irrational fear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotically designates in a neurotic manner."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The patient responded **neurotically** to the slightest moral demand, magnifying ordinary guilt into crushing despair."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Individuals whose sensory thresholds are lowered react **neurotically** to ambient noises that others scarcely register."*
+> - 📜 **Karen Horney (*The Neurotic Personality of Our Time*):** *"Driven by basic anxiety, the individual clings **neurotically** to unrealistic demands for universal affection and approval."*

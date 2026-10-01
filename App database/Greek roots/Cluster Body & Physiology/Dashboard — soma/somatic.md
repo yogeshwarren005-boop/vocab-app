@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the body especially as distinguished from the germplasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the wall of the body : parietal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the physical body as distinguished from the mind or germ cells; also relating to the wall of the body cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and oncology, somatic mutations occur in non-germline tissues and are not transmissible to offspring, yet frequently drive carcinogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatic designates of, relating to, or affecting the body especially as distinguished from the germplasm."*
+> - 📜 **August Weismann (*The Germ-Plasm: A Theory of Heredity*):** *"Acquired alterations in the **somatic** tissues of an organism cannot modify the hereditary factors sequestered in the germ-plasm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician must recognize when profound **somatic** symptoms mask an underlying melancholic depression."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The **somatic** nervous system coordinates voluntary musculoskeletal responses to fluctuating environmental demands."*

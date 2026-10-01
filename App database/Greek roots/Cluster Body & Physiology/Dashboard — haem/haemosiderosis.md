@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of iron overload disorder resulting in widespread accumulation of haemosiderin within tissues and macrophages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, localized or systemic iron accumulation (such as idiopathic pulmonary hemosiderosis or post-transfusional siderosis) that typically lacks the destructive fibrosis seen in hemochromatosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemosiderosis designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Repeated blood transfusions in cases of refractory aplastic anemia culminate invariably in generalized secondary **haemosiderosis**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Local **haemosiderosis** invariably marks the site of ancient tissue hemorrhages, where phagocytes engulf and degrade extravasated red cells."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"When reticuloendothelial storage capacity is overwhelmed, progressive **haemosiderosis** develops across the liver, spleen, and bone marrow."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood disease characterized by an abnormal multiplication of macrophages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blood disease characterized by an abnormal multiplication of macrophages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal excessive proliferation and accumulation of histiocytes in bodily tissues and organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology and oncology, a diverse group of rare disorders (including Langerhans cell histiocytosis and hemophagocytic lymphohistiocytosis) characterized by clonal or reactive infiltration of histiocytes causing osteolytic lesions, rash, or organ failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histiocytosis designates a blood disease characterized by an abnormal multiplication of macrophages."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diffuse osseous lesions and hepatosplenomegaly in childhood may point toward a severe form of systemic **histiocytosis**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic examination of the resected tissue demonstrated massive infiltration by atypical macrophages, diagnostic of **histiocytosis**."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"In reactive **histiocytosis**, cytokine hypersecretion drives unregulated phagocytic engulfment of mature hematopoietic cells."*

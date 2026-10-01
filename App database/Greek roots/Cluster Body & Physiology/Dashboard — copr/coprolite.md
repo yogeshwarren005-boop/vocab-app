@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fossilized excrement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fossilized excrement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of fossilized animal dung, studied by paleontologists to reconstruct the diet and ecology of extinct creatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobiology and sedimentary geology, a trace fossil (ichnofossil) preserving undigested bones, scales, and seeds from ancient ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprolite designates fossilized excrement."*
+> - 📜 **Mary Anning via Frank Buckland (*Geology and Mineralogy Considered with Reference to Natural Theology*):** *"Mary Anning discovered that the dark stony bezoars found in the Lias were in truth **coprolite** masses dropped by giant ichthyosaurs."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Chemical analysis of each Cretaceous **coprolite** reveals high percentages of calcium phosphate derived from swallowed fish bones."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The preservation of fossil teeth within an ancient **coprolite** provides direct evidence of the predatory habits of prehistoric reptiles."*

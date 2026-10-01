@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on dung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on dung.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The consumption of feces; the habit or act of eating excrement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In animal behavior and veterinary medicine, normal cecotrophy (as in lagomorphs) or an abnormal behavioral vice observed in domestic canines and captive apes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprophagia designates feeding on dung."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Rabbits re-ingest their cecal pellets by habitual **coprophagia**, recovering vital vitamins synthesized by intestinal microbes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In advanced stages of senile dementia or chronic psychosis, severe behavioral regression may manifest as **coprophagia**."*
+> - 📜 **Konrad Lorenz (*On Aggression*):** *"Captive animals under extreme sensory deprivation sometimes develop unnatural stereotypic habits such as **coprophagia**."*

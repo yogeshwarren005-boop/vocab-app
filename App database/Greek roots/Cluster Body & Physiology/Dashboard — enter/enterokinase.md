@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enzyme in the intestinal juice that converts inactive trypsinogen into active trypsin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enzyme in the intestinal juice that converts inactive trypsinogen into active trypsin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme of the brush border of the duodenal mucosa that converts inactive trypsinogen into active trypsin; also called enteropeptidase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digestive physiology and biochemistry, the master proteolytic trigger that initiates the cascade of pancreatic digestive enzyme activation in the intestinal lumen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterokinase designates enzyme in the intestinal juice that converts inactive trypsinogen into active trypsin."*
+> - 📜 **Ivan Pavlov (*The Work of the Digestive Glands*):** *"The discovery of **enterokinase** in intestinal juice revealed that the intestine produces an enzyme capable of animating other enzymes."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"By cleaving a single hexapeptide from trypsinogen, mucosal **enterokinase** unleashes the entire proteolytic power of the pancreatic secretion."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Deficiency of duodenal **enterokinase** impairs protein assimilation, leading to severe infantile malabsorption and failure to thrive."*

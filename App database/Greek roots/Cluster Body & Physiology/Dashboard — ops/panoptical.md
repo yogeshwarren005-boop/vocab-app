@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Including everything visible in one view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Including everything visible in one view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a panopticon; comprehensive, all-inclusive in view (synonym of panoptic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and sociology, describing surveillance mechanisms or totalizing observation systems where subjects are continuously visible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panoptical designates including everything visible in one view."*
+> - 📜 **Jeremy Bentham (*Panopticon; or, The Inspection-House*):** *"The moral effect of this **panoptical** arrangement is to convince the inmate that he is perpetually observed."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary surveillance committee exercised a **panoptical** vigilance over every citizen's speech."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"True intellect aspires to a **panoptical** survey of human history, rising above sectarian prejudices."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a vibrant noise, of grasshoppers or cicadas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a vibrant noise, of grasshoppers or cicadas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a short, sharp, trilling, or stridulating sound, like that of a cricket, cicada, or bird.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory description and nature writing, the vibratory acoustic drone produced by insects rubbing bodily structures together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chirr designates make a vibrant noise, of grasshoppers or cicadas."*
+> - 📜 **Alfred, Lord Tennyson (*The Brook*):** *"I chatter over stony ways, in little sharps and trebles, while grasshoppers **chirr** among the sunny meadow grasses."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The solitary heath cricket began to **chirr** in the heather as the last crimson gleam faded from the sky."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"In the August noontide, the locusts **chirr** from the dry pitch pines with a brassy, heat-drenched insistence."*

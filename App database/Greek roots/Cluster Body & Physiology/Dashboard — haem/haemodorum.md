@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of family haemodoraceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of family haemodoraceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial herbs native to Australia and New Guinea in the family Haemodoraceae, commonly called bloodroot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and botanical chemistry, the tuberous red-rooted plants of genus Haemodorum, traditionally utilized by Indigenous Australians as food seasonings and pigment dyes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemodorum designates type genus of family haemodoraceae."*
+> - 📜 **Robert Brown (*General Remarks on the Botany of Terra Australis*):** *"The fleshy bulbous roots of **haemodorum** yield a brilliant crimson sap that leaves an enduring stain upon paper and cloth."*
+> - 📜 **Ferdinand von Mueller (*Select Extra-Tropical Plants*):** *"Several native species belonging to the genus **haemodorum** produce edible bulbous roots rich in pungent resinous matter."*
+> - 📜 **Ludwig Leichhardt (*Journal of an Overland Expedition in Australia*):** *"The natives dig diligently in the damp sandy flats for the scarlet tubers of **haemodorum**, which they bake over embers."*

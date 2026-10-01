@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the blenniidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the blenniidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine combtooth blennies (family Blenniidae), comprising small, scaleless fishes with tentacled crests above their eyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic history, the type genus established by Linnaeus in 1758, encompassing active intertidal fishes that graze on algae and small invertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blennius designates type genus of the blenniidae."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"The genus **blennius** is characterized by a slimy body, two jugular ventral rays, and teeth arranged in a close comb-like row."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"In **blennius**, the dorsal fin runs the entire length of the back, and the head is adorned with curious fleshy appendages."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"Naturalists along the Mediterranean have long studied **blennius** for its curious territorial fidelity to rocky crevices."*

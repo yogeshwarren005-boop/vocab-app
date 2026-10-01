@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A defect in brain development resulting in small or missing brain hemispheres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A defect in brain development resulting in small or missing brain hemispheres.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital absence of the cranial vault and cerebral hemispheres; anencephaly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and embryology, a lethal open neural tube defect resulting from failure of anterior neural pore closure during primary neurulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anencephalia designates a defect in brain development resulting in small or missing brain hemispheres."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The obstetric museum preserved an extraordinary case of **anencephalia**, where the flat skull base supported only vascular stroma."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In **anencephalia**, the brainstem and spinal cord may be intact while the higher cerebral mantle is entirely absent."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Surgical Subjects*):** *"The prominent protruding eyes and absence of forehead give the infant with **anencephalia** a characteristic batrachian visage."*

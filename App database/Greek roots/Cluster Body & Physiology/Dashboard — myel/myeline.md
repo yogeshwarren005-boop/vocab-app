@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white fatty substance that forms a medullary sheath around the axis cylinder of some nerve fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white fatty substance that forms a medullary sheath around the axis cylinder of some nerve fibers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternate spelling of myelin, designating the fatty substance forming the medullary sheath of nerve fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical neurochemistry and pathology, the lipid extract obtained from brain and marrow tissue that forms birefringent myelinic figures in water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myeline designates a white fatty substance that forms a medullary sheath around the axis cylinder of some nerve fibers."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Under the microscope, isolated drops of **myeline** expand into cylindrical, coiled myelinic forms when exposed to warm water."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The medullary substance of Schwann, formerly designated **myeline**, surrounds the cylindrical axis of white nerve fibers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chemical degeneration of peripheral **myeline** accompanies toxic neuritis caused by heavy metals."*

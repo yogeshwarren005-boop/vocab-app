@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of hip joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of hip joint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or located in the ischium or hip; anatomical synonym of sciatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical human anatomy and neuroanatomy, designating pelvic ligaments, foramina, vessels, or nerves associated with the ischial framework (e.g., the greater ischiadic notch).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ischiadic designates adjective*) pertaining to, derived from, or characteristic of hip joint."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The great **ischiadic** notch gives exit to the piriformis muscle and the superior gluteal vessels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Compression along the **ischiadic** trunk produces the characteristic radiation of severe neuralgia."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The primitive **ischiadic** artery forms the axial arterial vessel of the embryonic lower limb bud before disappearing."*

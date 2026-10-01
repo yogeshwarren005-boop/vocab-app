@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or arising from physiological causes rather than being psychogenic in origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or arising from physiological causes rather than being psychogenic in origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating in or produced by bodily (somatic) cells or tissues, rather than having a germinal, genetic, or purely psychogenic origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and embryology, somatogenetic variations arise from environmental or physiological stresses on somatic tissue and are distinct from blastogenic (germline) mutations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatogenetic designates of or arising from physiological causes rather than being psychogenic in origin."*
+> - 📜 **August Weismann (*Essays Upon Heredity*):** *"We must strictly distinguish between blastogenetic variations inherent in the germ-cell and **somatogenetic** changes impressed upon the body."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain emotional reactions appear to possess a purely **somatogenetic** trigger in sudden vasomotor changes."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"The neurotic symptoms were originally regarded as **somatogenetic**, until psychic catharsis dispelled their stubborn persistence."*

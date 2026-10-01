@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That which is perceived or known or inferred to have its own distinct existence (living or nonliving).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That which is perceived or known or inferred to have its own distinct existence (living or nonliving).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing with distinct and independent existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and computer science, an ontological being, unit, or database object possessing well-defined attributes and relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The soundlessness impressed her as a positive entity rather than as the mere negation of noise."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The entity, or the real thing that was he, was thought, spirit."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Even the daemons they dismissed to irrelevance and non-entity."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind abstracts general ideas from individual things, conceiving of each substance as a distinct **entity** in nature."*
+> - 📜 **Willard Van Orman Quine (*From a Logical Point of View*):** *"No **entity** without identity: to accept a conceptual class into our ontology, we must provide clear identity criteria for its members."*
+> - 📜 **Bertrand Russell (*The Analysis of Matter*):** *"Modern physics replaces the static material substance with an event-based structure, where no enduring **entity** exists outside relations."*

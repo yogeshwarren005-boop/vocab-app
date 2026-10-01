@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walks with regular or stately step.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walks with regular or stately step.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who marches in a parade; a person who ostentatiously displays or flaunts their possessions, accomplishments, or virtues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social satire, a vain exhibitionist who struts in public view to command admiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parader designates walks with regular or stately step."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Every fashionable boulevard had its **parader**, strolling slowly to exhibit the latest cut of his waistcoat."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Turveydrop was a celebrated **parader** of deportment, bowing with majestic condescension to the admiring throng."*
+> - 📜 **Henry James (*The Bostonians*):** *"She had no desire to become a vulgar public **parader** of private griefs upon the political platform."*

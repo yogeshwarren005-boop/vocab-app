@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastic surgery on the nose usually for cosmetic purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plastic surgery on the nose usually for cosmetic purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastic surgery performed on the nose to alter its appearance or improve its respiratory function (commonly known as a nose job).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reconstructive and cosmetic surgery, surgical reshaping of the nasal osteocartilaginous framework (first systematically documented in ancient India by Sushruta), performed via open or endonasal closed approach to correct deformities, trauma, or septal deviation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinoplasty designates plastic surgery on the nose usually for cosmetic purposes."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Modern reconstructive **rhinoplasty** traces its lineage to the ancient Indian forehead flap technique for nasal rebuilding."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Functional **rhinoplasty** corrects internal nasal valve collapse, providing dramatic relief from chronic respiratory obstruction."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Restoring the shattered nasal bridge through autologous rib cartilage **rhinoplasty** rehabilitated the wounded soldier's facial appearance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of large fishes that live in freshwater; includes bandfish and bonytongues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of large fishes that live in freshwater; includes bandfish and bonytongues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of primitive, freshwater bony fishes (the bonytongues or arowanas), characterized by heavily toothed parasphenoid and glossohyal bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and biogeography, an ancient relict Gondwanan family containing colossal freshwater fishes like the pirarucu (Arapaima gigas) and Asian arowana.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoglossidae designates a family of large fishes that live in freshwater; includes bandfish and bonytongues."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The family **osteoglossidae** unites fishes whose tongues are armed with sharp bony teeth that bite against the palate."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The ancient lineage of the **osteoglossidae** is distributed across South America, Africa, and Australia, testifying to ancient continental linkages."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The massive bony scales and heavy cephalic plates of **osteoglossidae** reflect an archaic grade of teleost evolution."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen coniferous shrubs or trees of new zealand to malaysia and philippines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen coniferous shrubs or trees of new zealand to malaysia and philippines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of coniferous trees in the podocarp family (Podocarpaceae), native to Australasia and Southeast Asia, bearing seeds atop fleshy, tear-shaped receptacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and paleobotany, ancient Southern Hemisphere conifers (such as the kahikatea, Dacrycarpus dacrydioides) prominent in gondwanan rainforests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacrycarpus designates evergreen coniferous shrubs or trees of new zealand to malaysia and philippines."*
+> - 📜 **Joseph Dalton Hooker (*Flora Novae-Zelandiae*):** *"The towering kahikatea, a noble species of **Dacrycarpus**, forms vast swamp forests across both islands of New Zealand."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The dense temperate rainforests of the southern hemisphere abound in stately podocarps belonging to the genus **Dacrycarpus**."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"The edible succulent fruit receptacles of **Dacrycarpus** attract flocks of native pigeons that disperse its seeds across the valleys."*

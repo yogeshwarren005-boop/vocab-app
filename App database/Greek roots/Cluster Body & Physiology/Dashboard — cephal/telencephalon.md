@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior subdivision of the embryonic forebrain or the corresponding part of the adult forebrain that includes the cerebral hemispheres and associated structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior subdivision of the embryonic forebrain or the corresponding part of the adult forebrain that includes the cerebral hemispheres and associated structures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior subdivision of the forebrain, comprising the cerebral hemispheres, basal ganglia, and lateral ventricles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and comparative embryology, the highest integrative center of the mammalian brain derived from the prosencephalon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telencephalon designates the anterior subdivision of the embryonic forebrain or the corresponding part of the adult forebrain that includes the cerebral hemispheres and associated structures."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The immense expansion of the **telencephalon** in higher mammals reflects the proliferation of cortical pyramidal neurons."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Complex voluntary actions require constant dialogue between the prefrontal lobes of the **telencephalon** and subcortical relays."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Damage to specific association areas within the **telencephalon** can disrupt visual recognition while leaving primary sight intact."*

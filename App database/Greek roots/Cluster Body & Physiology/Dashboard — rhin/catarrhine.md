@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being any of a division (Catarrhina) of primates comprising the Old World monkeys, higher apes, and hominids that have the nostrils close together and directed downward, 32 teeth, and the tail when present never prehensile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being any of a division (Catarrhina) of primates comprising the Old World monkeys, higher apes, and hominids that have the nostrils close together and directed downward, 32 teeth, and the tail when present never prehensile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the Catarrhini, the group of simian primates comprising Old World monkeys, apes, and humans, characterized by downward-pointing, closely spaced nostrils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary primatology, anthropoid primates possessing a tubular ectotympanic bone and two premolars in each quadrant, contrasting with platyrrhine New World monkeys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catarrhine designates of, relating to, or being any of a division (catarrhina) of primates comprising the old world monkeys, higher apes, and hominids that have the nostrils close together and directed downward, 32 teeth, and the tail when present never prehensile."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man is unequivocally classified among the **catarrhine** division of the Simiadae, sharing their dental formula and nasal structure."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The structural gap between the lowest ape and man is far narrower than that between **catarrhine** and platyrrhine primates."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The evolutionary emergence of the **catarrhine** clade in Africa laid the anatomical groundwork for hominoid divergence."*

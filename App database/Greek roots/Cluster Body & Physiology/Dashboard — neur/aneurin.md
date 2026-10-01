@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A b vitamin that prevents beriberi; maintains appetite and growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A b vitamin that prevents beriberi; maintains appetite and growth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical international nonproprietary name for vitamin B1 (thiamine), designated for its ability to treat and prevent polyneuritis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional biochemistry, a water-soluble heterocyclic amine whose pyrophosphate ester functions as an essential coenzyme in carbohydrate metabolism and neural energy production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aneurin designates a b vitamin that prevents beriberi; maintains appetite and growth."*
+> - 📜 **Christiaan Eijkman (*Nobel Lecture in Physiology or Medicine*):** *"The crystalline antineuritic factor, subsequently designated **aneurin**, completely reversed the paralysis observed in beriberi."*
+> - 📜 **Casimir Funk (*The Vitamines*):** *"Extracts from rice polishings rich in **aneurin** demonstrated the curative power of specific organic bases in avian polyneuritis."*
+> - 📜 **Robert R. Williams (*Water-Soluble Vitamins*):** *"Chemical synthesis confirmed that **aneurin** chloride hydrochloride corresponds structurally to the thiazole-pyrimidine compound thiamine."*

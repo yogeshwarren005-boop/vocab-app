@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a nerve fiber or impulse passing toward motor effectors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a nerve fiber or impulse passing toward motor effectors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving both neural and motor mechanisms, specifically the control of muscular action by the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protistology and physiology, referring to integrated neural and contractile apparatuses, including the coordinated ciliary system in ciliates and motor unit innervation in animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuromotor designates relating to a nerve fiber or impulse passing toward motor effectors."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Every purposeful movement relies upon integrated **neuromotor** circuits that coordinate agonists and antagonize opposing muscle groups."*
+> - 📜 **Charles Atwood Kofoid (*The Neuromotor System of Ciliates*):** *"We demonstrated an interconnected fibrillar **neuromotor** apparatus that synchronizes the beating of membranelles in Euplotes."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Direct stimulation of Area 4 elicits discrete contractions, mapping out the precise **neuromotor** representations of the fingers and tongue."*

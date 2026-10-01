@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pneumatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pneumatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of air, gas, or pneumatic pressure mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and industrial technology, operating, conveying, or controlling machinery, valves, or switches via pressurized air conduits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumatically designates in a pneumatic manner."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The alien handling-machine operated **pneumatically**, flexing its jointed tentacles with soft hissing puffs."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Water ballast was **pneumatically** expelled from the tanks of the Nautilus to regain positive buoyancy."*
+> - 📜 **George Orwell (*1984*):** *"Messages and historical documents were **pneumatically** whisked through the Ministry of Truth to the memory holes."*

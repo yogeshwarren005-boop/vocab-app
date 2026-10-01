@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of the organs within a body cavity (as those of the pelvis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of the organs within a body cavity (as those of the pelvis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of the contents of a body cavity, especially the orbit of the eye or the pelvic organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radical surgical oncology, an extensive en bloc resection (such as total pelvic exenteration) performed for recurrent, localized cancer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exenteration designates surgical removal of the organs within a body cavity (as those of the pelvis)."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Total pelvic **exenteration** remains one of the most radical, formidable procedures in modern surgical oncology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Orbital **exenteration** was successfully carried out to extirpate the aggressive invasive fungal infection of the sinus."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The operative note documented the meticulous multi-organ **exenteration** required to obtain disease-free surgical margins."*

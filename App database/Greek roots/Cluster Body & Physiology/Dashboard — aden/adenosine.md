@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biochemistry) a nucleoside that is a structural component of nucleic acids; it is present in all living cells in a combined form as a constituent of dna and rna and adp and atp and amp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biochemistry) a nucleoside that is a structural component of nucleic acids; it is present in all living cells in a combined form as a constituent of dna and rna and adp and atp and amp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A purine ribonucleoside composed of adenine attached to a ribofuranose moiety via a beta-N9-glycosidic bond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry and physiology, an endogenous neuromodulator promoting sleep and an essential building block of ATP and cAMP.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenosine designates (biochemistry) a nucleoside that is a structural component of nucleic acids; it is present in all living cells in a combined form as a constituent of dna and rna and adp and atp and amp."*
+> - 📜 **Phoebe Levene (*Nucleic Acids*):** *"Hydrolysis of ribose nucleic acid yields crystalline **adenosine**, establishing the nucleoside structure of cellular purines."*
+> - 📜 **Fritz Lipmann (*Metabolic Generation of Phosphate Bond Energy*):** *"The energetic currency of living cells consists of high-energy phosphate groups bound sequentially to **adenosine**."*
+> - 📜 **Earl W. Sutherland (*Cyclic AMP*):** *"Hormonal stimulation triggers adenylyl cyclase to cyclize **adenosine** triphosphate into the second messenger cyclic AMP."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek copr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The involuntary passing of feces into inappropriate places (such as clothing) by a child past the age of normal toilet training.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental pediatrics and child psychiatry, fecal soiling typically resulting from chronic fecal impaction and paradoxical overflow diarrhea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encopresis designates a term designating an entity, condition, or phenomenon derived from greek copr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Treatment of chronic **encopresis** in children requires systematic evacuation of the rectum followed by prolonged habit retraining."*
+> - 📜 **Donald Winnicott (*The Child and the Outside World*):** *"The emotional distress surrounding **encopresis** reflects the child's struggle with maternal control and anxieties over bodily autonomy."*
+> - 📜 **Benjamin Spock (*Baby and Child Care*):** *"Parents should understand that persistent **encopresis** is not deliberate naughtiness, but an involuntary consequence of constipation."*

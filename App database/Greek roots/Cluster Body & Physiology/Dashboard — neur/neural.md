@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting a nerve or the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated in the region of or on the same side of the body as the brain and spinal cord : dorsal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the nerves, neurons, or the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology and embryology, pertaining to the dorsal axis, nerve signaling pathways, neural tube development, or computational neural architectures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neural designates of, relating to, or affecting a nerve or the nervous system."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The central feature of **neural** coordination is the conversion of isolated afferent impulses into purposeful, coordinated motor acts."*
+> - 📜 **Santiago Ramón y Cajal (*Texture of the Nervous System of Man and the Vertebrates*):** *"The functional independence of each **neural** unit demonstrates that conduction occurs across contact points rather than continuous syncytial networks."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"Auditory perception transforms acoustic mechanical vibrations into discrete **neural** discharges along the fibers of the acoustic nerve."*

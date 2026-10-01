@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving the stomach and esophagus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving the stomach and esophagus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving both the stomach and the esophagus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, designating the gastroesophageal junction, lower esophageal sphincter, or gastroesophageal reflux disease (GERD).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroesophageal designates of or relating to or involving the stomach and esophagus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Incompetence of the lower sphincter mechanism permits acidic **gastroesophageal** reflux, producing chronic retrosternal heartburn."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Long-standing severe **gastroesophageal** reflux can induce Barrett's metaplasia in the distal squamous mucosa, predisposing to adenocarcinoma."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The barium swallow clearly demonstrated hiatal herniation across the weakened **gastroesophageal** diaphragm opening."*

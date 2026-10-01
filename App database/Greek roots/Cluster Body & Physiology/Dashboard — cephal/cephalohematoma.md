@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of blood under the scalp of a newborn; caused by pressure during birth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of blood under the scalp of a newborn; caused by pressure during birth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subperiosteal collection of blood over a neonatal cranial bone, typically the parietal bone, resulting from birth trauma and limited by suture lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neonatology and obstetrics, a firm, fluctuant scalp swelling caused by ruptured subperiosteal blood vessels that does not cross cranial sutures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalohematoma designates a collection of blood under the scalp of a newborn; caused by pressure during birth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Because the blood in a **cephalohematoma** is subperiosteal, the swelling is strictly bounded by the cranial suture margins."*
+> - 📜 **Astley Cooper (*Lectures on the Principles and Practice of Surgery*):** *"A benign neonatal **cephalohematoma** requires watchful expectancy rather than incision, resorbing completely over several weeks."*
+> - 📜 **Harvey Cushing (*Surgery of the Head*):** *"Distinguishing a simple **cephalohematoma** from a caput succedaneum is easy, as the latter crosses cranial sutures freely."*

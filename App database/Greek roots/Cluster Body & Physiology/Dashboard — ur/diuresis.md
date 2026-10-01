@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An increased excretion of urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An increased excretion of urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increased or excessive production and excretion of urine by the kidneys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renal physiology, diuresis may be physiological (water diuresis from suppressed ADH, or osmotic diuresis in uncontrolled diabetes mellitus) or pharmacologically induced by diuretic agents to reduce fluid overload.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diuresis designates an increased excretion of urine."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Intravenous injection of hypertonic saline induces profound osmotic **diuresis** by overwhelming tubular reabsorptive capacity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Administration of digitalis in dropsical cardiac failure promptly restores copious **diuresis**, clearing peripheral edema."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The sudden re-establishment of **diuresis** in acute scarlatinal nephritis marks the favorable turning point of the illness."*

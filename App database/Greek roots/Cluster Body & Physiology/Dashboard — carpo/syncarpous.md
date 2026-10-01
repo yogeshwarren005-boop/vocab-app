@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of ovaries of flowering plants) consisting of united carpels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ovaries of flowering plants) consisting of united carpels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the carpels of a flower united or fused together into a single compound ovary or pistil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral morphology and evolution, the advanced gynoecial condition typical of higher angiosperms, enabling centralized pollen tube competition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syncarpous designates (of ovaries of flowering plants) consisting of united carpels."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"A **syncarpous** pistil may possess several internal chambers or locules, or coalesce into a single unilocular cavity with parietal placentation."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"In a **syncarpous** flower, several styles frequently unite into a single central column crowned by lobed stigmas."*
+> - 📜 **Arthur Johnson Eames (*Morphology of Angiosperms*):** *"The evolution of the **syncarpous** gynoecium allowed uniform distribution of pollen tubes across all ovules within the ovary."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large dark-red oval organ on the left side of the body between the stomach and the diaphragm; produces cells involved in immune responses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of resentful anger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, vascular lymphoid organ located in the left upper quadrant of the abdominal cavity, responsible for filtering blood, destroying old erythrocytes, and coordinating adaptive immune responses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Histologically partitioned into red pulp (which filters blood and recycles iron from senescent red cells) and white pulp (periarteriolar lymphoid sheaths and follicles mediating humoral and cell-mediated immunity); historically considered the seat of melancholy and anger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So use it That my revengeful services may prove As benefits to thee, for I will fight Against my cankered country with the spleen Of all the under fiends."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A weasel hath not such a deal of spleen As you are toss’d with."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic malaria, the **spleen** enlarges to colossal proportions, forming the classic ague cake of tropical literature."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The malpighian corpuscles of the **spleen** are true lymph follicles intimately associated with the splenic arterioles."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Must I give way and room to your rash choler? Shall I be frighted when a madman stares? Must I observe you? Must I stand and crouch under your testy humor? By the gods, you shall digest the venom of your **spleen**."*

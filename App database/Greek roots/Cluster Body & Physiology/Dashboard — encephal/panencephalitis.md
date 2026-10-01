@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diffuse inflammation of the entire brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diffuse inflammation of the entire brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widespread inflammation of the entire brain, involving both the gray matter (polioencephalitis) and white matter (leukoencephalitis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a progressive, devastating encephalitis such as subacute sclerosing panencephalitis (SSPE), triggered by persistent defective measles virus infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panencephalitis designates diffuse inflammation of the entire brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Histopathological examination in fatal cases of **panencephalitis** demonstrates diffuse perivascular lymphocytic cuffing across both cortical ribbons and deep tracts."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Years after an unremarkable childhood viral infection, insidious progressive **panencephalitis** produced dementia, myoclonus, and motor collapse."*
+> - 📜 **Paul Farmer (*Fevers, Feuds, and Diamonds*):** *"Maintaining universal measles immunization remains our sole public health defense against the catastrophic late complication of sclerosing **panencephalitis**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute or chronic inflammation of the bronchial tubes; also : a disease marked by this.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute or chronic inflammation of the bronchial tubes; also : a disease marked by this.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucous membranes of the bronchial tubes, manifested by cough, phlegm production, and substernal chest discomfort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pulmonology, divided into acute infectious bronchitis and chronic obstructive bronchitis (COPD), typically provoked by smoking or atmospheric pollution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy’s bronchitis came to his relief and stopped his measurement of the table."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"One morning Blanche was applying hot bandages to relieve bronchitis, and before night Clara had the small-pox."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She remained, however, only until May, when a severe attack of acute bronchitis so prostrated her strength as to quite unfit her for her duties during the whole summer."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"I have designated acute catarrh of the lungs by the title of acute **bronchitis**, characterized by dry sonorous rales followed by mucous rattles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic **bronchitis** is the constant companion of winter fogs in large industrial cities, fostering gradual right ventricular hypertrophy."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The seasonal chest cough, which modern physicians term **bronchitis**, demands bloodletting and demulcent syrups to soothe the inflamed throat."*

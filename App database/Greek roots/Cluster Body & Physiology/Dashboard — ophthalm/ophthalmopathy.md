@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophthalm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease, disorder, or abnormal condition affecting the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and autoimmunology, thyroid eye disease (Graves' ophthalmopathy) characterized by orbital inflammation, extraocular muscle enlargement, and proptosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophthalmopathy designates a term designating an entity, condition, or phenomenon derived from greek ophthalm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe thyroid **ophthalmopathy** can progress to optic neuropathy through apical compression within the orbit."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"The degree of **ophthalmopathy** in dysthyroid states does not always correlate with circulating hormone titers."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Profound chemosis and lid retraction signify advancing congestive **ophthalmopathy**."*

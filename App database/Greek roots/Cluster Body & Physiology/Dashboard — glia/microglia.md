@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek glia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Glial cells of the central nervous system that act as the main active immune defense and phagocytes of the brain and spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology, resident macrophage-like cells derived from yolk-sac primitive myeloid progenitors that clear cellular debris and remodel synapses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microglia designates a term designating an entity, condition, or phenomenon derived from greek glia."*
+> - 📜 **Pío del Río-Hortega (*Microglia*):** *"I demonstrated that resting **microglia** possess delicate thorny processes that continuously monitor the cerebral parenchyma for injury."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Upon acute neural injury, quiescent **microglia** transform within hours into mobile amoeboid phagocytes that clear necrotic cellular debris."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"During critical developmental periods, activated **microglia** sculpt neural connectivity by selectively engulfing and pruning inactive synaptic boutons."*

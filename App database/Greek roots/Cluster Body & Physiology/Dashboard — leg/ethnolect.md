@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek leg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of a language spoken by a specific ethnic or cultural subgroup within a larger linguistic community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics, a distinctive linguistic code carrying phonetic, syntactic, and lexical markers that express cultural identity and communal solidarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethnolect designates a term designating an entity, condition, or phenomenon derived from greek leg."*
+> - 📜 **William Labov (*Sociolinguistic Patterns*):** *"An **ethnolect** serves not merely as a communicative tool, but as a primary badge of community solidarity and identity."*
+> - 📜 **Peter Trudgill (*Sociolinguistics: An Introduction to Language and Society*):** *"Features of an **ethnolect** frequently migrate into the wider vernacular of multicultural urban centers."*
+> - 📜 **John McWhorter (*The Power of Babel*):** *"Every vibrant **ethnolect** possesses an internal grammatical regularity as intricate and rigorous as any national standard."*

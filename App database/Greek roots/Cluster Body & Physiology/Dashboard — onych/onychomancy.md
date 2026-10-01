@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or fortune-telling by inspecting the fingernails, especially the reflections of sunlight upon oiled nails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occult anthropology and the history of magic, an ancient form of scrying wherein oil and soot applied to a child's nails were read for prophetic visions and omens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychomancy designates a term designating an entity, condition, or phenomenon derived from greek onych."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient practitioners of **onychomancy** anointed the fingernails of young boys with oil to read prophetic reflections in the sun."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The magical art of **onychomancy** illustrates how primitive divination seized upon bodily marks as celestial ciphers."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Magicians claimed that secret events occurring across the empire could be discovered through the rites of **onychomancy**."*

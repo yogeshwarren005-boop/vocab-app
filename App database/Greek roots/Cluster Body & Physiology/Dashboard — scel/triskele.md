@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure composed of three usually curved or bent branches radiating from a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure composed of three usually curved or bent branches radiating from a center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient decorative or symbolic motif consisting of three radiating, interlocked spirals or three bent human legs emanating from a central hub.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology, art history, and Celtic mythology, the triskele appears in Neolithic passage tombs (such as Newgrange), Iron Age La Tène metalwork, and classical Mediterranean coins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triskele designates a figure composed of three usually curved or bent branches radiating from a center."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The engraved Minoan seal displays a dynamic **triskele** whose curvilinear arms suggest perpetual solar rotation."*
+> - 📜 **Joseph Déchelette (*Manuel d'archéologie préhistorique, celtique et gallo-romaine*):** *"On Celtic bronze shields, the incised **triskele** symbolizes the dynamic threefold harmony of nature and motion."*
+> - 📜 **W. B. Yeats (*The Celtic Twilight*):** *"Carved upon ancient granite slabs, the mysterious **triskele** preserves memories of pre-Christian Irish cosmology."*

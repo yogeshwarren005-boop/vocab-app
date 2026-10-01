@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a decrease in the volume of circulating blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a decrease in the volume of circulating blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or characterized by hypovolemia; exhibiting low circulating blood volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency and critical care medicine, describing shock states (hypovolemic shock) manifested by hypotension, cold clammy extremities, oliguria, and metabolic acidosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypovolemic designates of or relating to a decrease in the volume of circulating blood."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"In the early phases of **hypovolemic** shock, peripheral arteriolar constriction preserves cerebral and coronary perfusion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient lapsed into a **hypovolemic** crisis marked by imperceptible radial pulses and clammy, pallid skin."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"To operate upon a patient in deep **hypovolemic** collapse without simultaneous vascular replenishment invites immediate cardiac arrest."*

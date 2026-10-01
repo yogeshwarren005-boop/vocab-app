@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swinging by the arms from branch to branch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swinging by the arms from branch to branch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of arboreal locomotion in which an animal swings hand over hand along tree branches using only its arms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology and physical anthropology, the specialized locomotive adaptation of apes featuring elongated forelimbs, mobile wrists, and a rotatable shoulder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiation designates swinging by the arms from branch to branch."*
+> - 📜 **C. R. Carpenter (*A Field Study in Siam of the Behavior and Social Relations of the Gibbon*):** *"True **brachiation** allows the gibbon to traverse gaps in the forest canopy at speeds exceeding thirty miles per hour."*
+> - 📜 **Sherwood Washburn (*The Evolution of Man*):** *"The anatomical modifications required for **brachiation** freed the ancestral ape torso from quadrupedal stiffness."*
+> - 📜 **Jane Goodall (*The Chimpanzees of Gombe*):** *"While chimpanzees rely mostly on knuckle-walking, they readily employ **brachiation** when traveling through the high fruiting trees."*

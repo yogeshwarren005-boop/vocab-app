@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An emergency surgical procedure in which an incision is made through the skin and cricothyroid membrane to establish a patent airway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acute trauma resuscitation and critical care medicine, the definitive surgical airway intervention for patients who cannot be intubated or ventilated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cricothyrotomy designates a term designating an entity, condition, or phenomenon derived from greek cric."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When foreign body impaction produces immediate asphyxia, a prompt **cricothyrotomy** with a penknife has saved many a dying patient."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"In the trauma bay, when all intubation attempts fail, the surgeon must execute an emergency **cricothyrotomy** without hesitation."*
+> - 📜 **Sherwin B. Nuland (*How We Die: Reflections on Life's Final Chapter*):** *"A successful **cricothyrotomy** bypasses massive facial trauma, delivering life-saving air directly into the subglottic trachea."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that deals with the anatomy and physiology and pathology of the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biology that deals with the anatomy and physiology and pathology of the nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the biology, cellular mechanics, developmental processes, and functional circuits of the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An integrative discipline synthesizing neuroanatomy, neurophysiology, neurogenetics, and molecular pharmacology to understand brain function and behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurobiology designates the branch of biology that deals with the anatomy and physiology and pathology of the nervous system."*
+> - 📜 **Stephen Kuffler (*From Neuron to Brain*):** *"The emergence of modern **neurobiology** as a unified discipline dissolved the artificial barriers between anatomy and physiology."*
+> - 📜 **David Hubel (*Eye, Brain, and Vision*):** *"The triumph of visual **neurobiology** lies in showing how individual cortical neurons parse the visual scene into lines and orientations."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"A central premise of **neurobiology** is that all mental processes represent reflections of brain cell interactions."*

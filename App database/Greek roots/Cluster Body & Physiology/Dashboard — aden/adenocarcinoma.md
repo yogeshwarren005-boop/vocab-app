@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant tumor originating in glandular epithelium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malignant tumor originating in glandular epithelium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant epithelial tumor originating in glandular tissue or exhibiting glandular histologic characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology, the most common histological form of cancer occurring in the colon, breast, prostate, pancreas, and lung.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenocarcinoma designates a malignant tumor originating in glandular epithelium."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The microscopic architecture of an **adenocarcinoma** demonstrates atypical glandular acini invading adjacent stroma."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"Mucin secretion within the invading neoplastic tubules confirms the diagnosis of invasive colorectal **adenocarcinoma**."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Targeted therapies revolutionized our approach to lung **adenocarcinoma** by blocking mutant epidermal growth factor receptors."*

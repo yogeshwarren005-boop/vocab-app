@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spondyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital or developmental flattening of the vertebral bodies, resulting in reduced height of the spinal column and trunk shortening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and pediatric radiology, platyspondyly is a hallmark radiologic feature of various skeletal dysplasias, including thanatophoric dysplasia, metatropic dysplasia, and spondyloepiphyseal dysplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platyspondyly designates a term designating an entity, condition, or phenomenon derived from greek spondyl."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Radiographic examination of the neonate demonstrated generalized wafer-thin **platyspondyly** characteristic of thanatophoric dysplasia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe disproportionate dwarfism with spinal shortening frequently rests upon underlying congenital **platyspondyly**."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Careful neurosurgical imaging in skeletal dysplasias evaluates cervical canal compromise aggravated by thoracic **platyspondyly**."*

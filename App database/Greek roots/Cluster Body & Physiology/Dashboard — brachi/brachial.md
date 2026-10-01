@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an arm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an arm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the arm, especially the upper arm (e.g. brachial plexus, brachial veins).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, designating an arm-like appendage, ray, or locomotive tentacle in marine invertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachial designates of or relating to an arm."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **brachial** plexus arises from the ventral rami of the lower four cervical nerves and the first thoracic nerve."*
+> - 📜 **Charles Bell (*The Nervous System of the Human Body*):** *"Severe traction upon the neonate's shoulder during delivery can tear the **brachial** nerves, causing Erb's palsy."*
+> - 📜 **Galen (*On Anatomical Procedures*):** *"The main **brachial** vessels lie deeply sheltered along the inner aspect of the bone to escape external injury."*

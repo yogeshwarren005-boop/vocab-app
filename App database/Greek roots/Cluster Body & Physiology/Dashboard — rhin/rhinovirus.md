@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of three enteroviruses (Enterovirus alpharhino, E. betarhino, and E. cerhino) having numerous serotypes causing respiratory infections (such as the common cold) in humans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of three enteroviruses (Enterovirus alpharhino, E. betarhino, and E. cerhino) having numerous serotypes causing respiratory infections (such as the common cold) in humans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of small, non-enveloped, positive-sense single-stranded RNA viruses in the family Picornaviridae that constitute the predominant cause of the common cold in humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rhinoviruses replicate optimally at 33°C to 35°C (the typical temperature of the human nasopharynx) and trigger symptoms via proinflammatory cytokine release rather than cytolytic destruction of respiratory epithelium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinovirus designates any of three enteroviruses (enterovirus alpharhino, e. betarhino, and e. cerhino) having numerous serotypes causing respiratory infections (such as the common cold) in humans."*
+> - 📜 **Frank Macfarlane Burnet (*Principles of Animal Virology*):** *"The antigenic diversity of **rhinovirus** strains explains why lifetime immunity to common cold syndromes remains elusive."*
+> - 📜 **David Baltimore (*Expression of Animal Virus Genomes*):** *"Like other picornaviruses, **rhinovirus** translates its genomic RNA into a single polyprotein that undergoes proteolytic cleavage."*
+> - 📜 **Edwin D. Kilbourne (*The Influenza Viruses and Influenza*):** *"Mild upper respiratory catarrh caused by **rhinovirus** must be differentiated clinically from epidemic influenza."*

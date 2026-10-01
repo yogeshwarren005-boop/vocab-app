@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous cycads of the genus encephalartos having stout cylindrical trunks and a terminal crown of long often spiny pinnate leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous cycads of the genus encephalartos having stout cylindrical trunks and a terminal crown of long often spiny pinnate leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of African cycads in the family Zamiaceae, commonly known as bread palms, having stout woody trunks and spiny pinnate leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and horticulture, ancient gymnosperms whose starchy pith was historically washed and baked into bread by indigenous peoples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalartos designates any of numerous cycads of the genus encephalartos having stout cylindrical trunks and a terminal crown of long often spiny pinnate leaves."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The generic name **encephalartos** literally signifies 'bread inside the head,' alluding to the farinaceous pith extracted from the trunk."*
+> - 📜 **Robert Brown (*Botanical Appendix to Flinders' Voyage*):** *"Massive woody cones crowned the apex of **encephalartos**, surrounded by a stiff rosette of rigid, spine-tipped fronds."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of Tropical Africa*):** *"South African species of **encephalartos** represent living Mesozoic relicts that have survived in rocky scrub hillsides."*

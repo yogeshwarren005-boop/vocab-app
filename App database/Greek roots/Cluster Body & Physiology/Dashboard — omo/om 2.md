@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek omo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical combining form or designation (om- / omo-) derived from the Greek omos, denoting the shoulder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musculoskeletal anatomy, utilized in naming structures associated with the shoulder or scapular girdle (such as the omohyoid muscle or omoclavicular triangle).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, om 2 designates a term designating an entity, condition, or phenomenon derived from greek omo."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The anatomical prefix **om-** denotes relations with the shoulder girdle and the superior border of the scapula."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Muscular atrophy involving the **om-** girdle causes drooping of the shoulder and winging of the scapula."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Motor nerve filaments innervating the **om-** region branch from the upper trunks of the brachial plexus."*

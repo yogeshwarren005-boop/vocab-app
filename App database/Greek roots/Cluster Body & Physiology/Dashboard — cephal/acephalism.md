@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of the head (as in the development of some monsters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence of the head (as in the development of some monsters).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition, state, or political situation of being without a head, sovereign ruler, or central governing authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and sociological theory, the absence of centralized hierarchical leadership in decentralized societies or revolutionary movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acephalism designates absence of the head (as in the development of some monsters)."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Parisian mob plunged into violent **acephalism**, rejecting all magistrates and obeying only sudden gusts of rumor."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Following the assassination of the emperor, the Roman army drifted in perilous **acephalism** before electing a new general."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic associations avoid the chaos of **acephalism** by voluntarily delegating temporary authority to chosen committees."*

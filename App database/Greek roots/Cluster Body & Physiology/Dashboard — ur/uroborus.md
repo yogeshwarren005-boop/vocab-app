@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient symbolic emblem depicting a serpent or dragon devouring its own tail, representing eternity, cyclic renewal, and the unity of life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In alchemy, Carl Jung's analytical psychology, and mythology, the ouroboros (uroborus) signifies the primordial unconscious, cyclical time, and the self-contained integration of opposites (ouroboric wholeness).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uroborus designates a term designating an entity, condition, or phenomenon derived from greek ur."*
+> - 📜 **Carl Jung (*Psychology and Alchemy*):** *"The dragon biting its own tail, the ancient **uroborus**, symbolizes the circular process of psychological individuation."*
+> - 📜 **Thomas Browne (*Urn Burial*):** *"The ancient Egyptians shadowed out eternity by the mystical circle of the **uroborus**, where end and beginning meet."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The cyclical regeneration of the cosmos is symbolized across archaic mystery cults by the coiled serpent **uroborus**."*

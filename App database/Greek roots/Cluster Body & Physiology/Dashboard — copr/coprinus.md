@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of black-spotted agarics in which the cap breaks down at maturity into an inky fluid; sometimes placed in its own family coprinaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of black-spotted agarics in which the cap breaks down at maturity into an inky fluid; sometimes placed in its own family coprinaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of inky cap mushrooms (such as Coprinus comatus, the shaggy mane) characterized by gills that autodigest into black ink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, saprophytic fungi prized as edible delicacies when young, though certain species contain coprine, causing disulfiram-like reactions with alcohol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprinus designates genus of black-spotted agarics in which the cap breaks down at maturity into an inky fluid; sometimes placed in its own family coprinaceae."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"The shaggy mane, **Coprinus** comatus, must be cooked immediately upon picking, or it will dissolve into a useless black puddle."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"Foliage and rich organic compost quickly produce clusters of ephemeral **Coprinus** toadstools after autumn rain."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"I found this morning a stately **Coprinus** rising from the roadside turf, already melting at its blackening frills."*

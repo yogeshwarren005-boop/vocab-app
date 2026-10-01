@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of navel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of navel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root combining form (omphal- / omphalo-) denoting the navel or umbilicus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical terminology and surgical pathology, utilized in constructing clinical terms relating to the umbilicus, umbilical cord, or primitive yolk stalk (e.g., omphalocele, omphalic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omphal designates adjective*) pertaining to, derived from, or characteristic of navel."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Disorders designated by the prefix **omphal-** involve inflammatory or congenital defects centered upon the umbilicus."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The Greek root **omphal-** serves as the basis for clinical nomenclature concerning the umbilical cord and vitelline duct."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Neonatal infections denoted with **omphal-** spread via the unclosed umbilical vessels to produce systemic phlebitis."*

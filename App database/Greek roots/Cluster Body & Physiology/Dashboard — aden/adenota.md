@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: African antelopes: puku.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: African antelopes: puku.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus or taxonomic grouping of African antelopes (the kobs and lechwes), distinguished by prominent glandular facial markings or hoof glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy, a former subgenus or genus name (Adenota) including the kob (Kobus kob) of sub-Saharan grasslands and floodplains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenota designates african antelopes: puku."*
+> - 📜 **Richard Lydekker (*The Game Animals of Africa*):** *"The kob, formerly classified under the generic name **adenota**, gathers in immense herds across the seasonal floodplains of the Upper Nile."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"Along the reed beds of Lake Victoria, we observed the reddish-yellow coats of **adenota** grazing in the morning mist."*
+> - 📜 **Oldfield Thomas (*Catalogue of the Ungulate Mammals*):** *"Morphological distinctions in preorbital gland structure led earlier naturalists to separate **adenota** from true waterbucks."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing little emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing little emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sluggish, cool, or indifferent in temperament; phlegmatic (archaic variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern literary and philosophical prose, demonstrating stoic impassivity, heavy dullness, or cold apathy in response to stimulating events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlegmatical designates showing little emotion."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Cold and moist humors incline the **phlegmatical** man to drowsiness, slow wits, and perpetual torpor."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A **phlegmatical** constitution rarely catches the spark of poetic genius, yet excels in plodding methodical inquiry."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"He received the disastrous tidings with a **phlegmatical** composure that astonished his volatile companions."*

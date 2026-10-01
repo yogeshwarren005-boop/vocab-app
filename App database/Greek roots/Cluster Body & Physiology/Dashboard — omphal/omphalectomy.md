@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek omphal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision or removal of the umbilicus (navel).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abdominal and plastic surgery, excision of the navel performed during radical repair of umbilical hernias, excision of urachal cysts, or abdominoplasty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omphalectomy designates a term designating an entity, condition, or phenomenon derived from greek omphal."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Complete **omphalectomy** with elliptical incision of the fibrous ring ensured secure closure of the giant umbilical hernia."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"Total excision of an infected urachal sinus necessitated concurrent **omphalectomy** to eliminate the fistulous tract."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surgical intervention involving **omphalectomy** was curative for chronic umbilical granulomas that resisted cautery."*

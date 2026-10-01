@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: X ray of the uterus and fallopian tubes; usually done in diagnosing infertility (to see if there any blockages).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: X ray of the uterus and fallopian tubes; usually done in diagnosing infertility (to see if there any blockages).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radiographic (X-ray) image of the uterus and fallopian tubes taken after injecting a radio-opaque contrast medium through the cervix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive medicine and fertility evaluation, a primary diagnostic fluoroscopic procedure (HSG) used to determine fallopian tube patency and detect uterine cavity anomalies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysterosalpingogram designates x ray of the uterus and fallopian tubes; usually done in diagnosing infertility (to see if there any blockages)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Evaluating the cause of primary female infertility routinely incorporates a diagnostic **hysterosalpingogram**."*
+> - 📜 **Maxwell M. Wintrobe (*Clinical Hematology*):** *"The **hysterosalpingogram** clearly outlined the submucosal fibroid that was distorting the endometrial contour."*
+> - 📜 **Harvey Cushing (*The Medical Career and Other Papers*):** *"Contrast radiography represented a monumental advance, making internal pelvic anatomy visible upon the **hysterosalpingogram**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phleb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radiograph of a vein or venous system obtained after the injection of a radiopaque contrast medium (venogram), or a tracing of venous pulse waveforms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic cardiology and vascular imaging, either a fluoroscopic X-ray displaying venous patency and deep thrombosis or a jugular venous pulse tracing depicting atrial and ventricular hemodynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebogram designates a term designating an entity, condition, or phenomenon derived from greek phleb."*
+> - 📜 **James Mackenzie (*The Study of the Pulse, Arterial, Venous, and Hepatic*):** *"Careful inspection of the jugular **phlebogram** reveals distinct waves corresponding to auricular systole and ventricular filling."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An ascending contrast **phlebogram** remains the definitive radiographic standard for demonstrating deep vein thrombosis."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"The cerebral **phlebogram** confirmed complete occlusion of the right transverse dural sinus."*

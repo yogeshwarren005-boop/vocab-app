@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cytoplasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cytoplasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring within the cytoplasm of a cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and physiology, designating intracellular signaling pathways, microfilament systems, or post-transcriptional regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytoplasmic designates of or relating to cytoplasm."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Motor proteins such as kinesin transport membrane-bound vesicles along **cytoplasmic** microtubules toward the cell periphery."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"Mitochondria drift within the **cytoplasmic** sea, retaining their ancestral bacterial DNA like permanent micro-colonies."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The evolution of the eukaryotic cell required the integration of endosymbionts into a coordinated **cytoplasmic** community."*

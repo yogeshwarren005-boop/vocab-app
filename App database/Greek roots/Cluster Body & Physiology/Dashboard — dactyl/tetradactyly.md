@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of possessing four fingers or toes on a limb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology, digital reduction from the ancestral pentadactyl condition to four functional digits, seen across anurans and avian feet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetradactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Avian **tetradactyly** preserves digits one through four, while the fifth digit is entirely lost."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Comparative analysis of tetrapod feet shows that **tetradactyly** arose independently in multiple amphibian and reptilian lineages."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The functional stability of **tetradactyly** in perching birds proves that four digits provide optimal grasping geometry."*

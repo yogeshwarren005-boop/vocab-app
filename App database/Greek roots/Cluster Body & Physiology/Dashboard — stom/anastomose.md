@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come together or open into each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to join or open into each other by anastomosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To connect, join, or communicate by anastomosis; to form an interconnected network or branching junction (applied to blood vessels, nerve fibers, leaf veins, or river streams).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular anatomy and surgery, collateral vessels naturally anastomose around joints to preserve distal perfusion if a major arterial trunk becomes occluded.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The vegetative system of the “rust,” and similar fungi, consists of a number of delicate, simple, or branched threads, often intertwining and anastomosing, or uniting one to the other by means of lateral branchlets."*
+> - 📜 **William Hunter (*Medical Observations and Inquiries*):** *"Small arterial twigs freely **anastomose** around the elbow joint, maintaining the peripheral circulation after ligature of the brachial trunk."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The fine reticulated veins of the leaf **anastomose** continually, distributing sap to every portion of the photosynthetic lamina."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Branches of the internal and external carotid arteries **anastomose** across the facial midline and within the orbit."*

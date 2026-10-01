@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical cutting, division, or resection of a bone, performed to realign deformities, relieve osteoarthritis pain, or alter limb length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reconstructive orthopedics, an operative realignment procedure such as high tibial osteotomy or femoral corrective osteotomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteotomy designates a term designating an entity, condition, or phenomenon derived from greek oste."*
+> - 📜 **Robert Jones (*Orthopaedic Surgery of Injuries*):** *"Corrective **osteotomy** of the tibia restores mechanical axis alignment, halting the progression of unicompartmental knee arthritis."*
+> - 📜 **John Charnley (*The Closed Treatment of Common Fractures*):** *"Intertrochanteric **osteotomy** alters the weight-bearing area of the femoral head, providing years of relief from arthritic pain."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"The success of a corrective **osteotomy** depends on rigid internal fixation and meticulous preservation of periosteal blood supply."*

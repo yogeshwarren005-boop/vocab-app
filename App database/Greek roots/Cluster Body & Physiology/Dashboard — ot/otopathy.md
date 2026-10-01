@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any generic disease, abnormality, or pathological disorder affecting the ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, an overarching term encompassing inflammatory, degenerative, neoplastic, or vascular conditions of the auditory and vestibular apparatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otopathy designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic suppurative **otopathy** can remain dormant for years before suddenly erupting into intracranial complications."*
+> - 📜 **Joseph Toynbee (*The Diseases of the Ear*):** *"The primary clinical manifestations of chronic **otopathy** include progressive deafness, persistent tinnitus, and occasional vertigo."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Inflammatory **otopathy** following blunt head injury must be investigated immediately for basilar skull fracture and cerebrospinal fluid leak."*

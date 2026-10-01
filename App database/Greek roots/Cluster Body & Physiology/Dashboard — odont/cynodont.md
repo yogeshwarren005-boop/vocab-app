@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek odont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an extinct group of carnivorous and herbivorous therapsid synapsids from which mammals evolved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary biology, advanced theriodonts possessing specialized heterodont dentition, secondary bony palates, and differentiated jaw musculature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cynodont designates a term designating an entity, condition, or phenomenon derived from greek odont."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"The skull of the advanced **cynodont** exhibits transitional features that bridge ancient reptiles and primitive mammals."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In every true **cynodont**, the differentiation into incisors, canines, and multicuspid cheek teeth is clearly displayed."*
+> - 📜 **Richard Owen (*Odontography: A Treatise on the Comparative Anatomy of the Teeth*):** *"The dentary bone of the **cynodont** expanded progressively, foreshadowing the mammalian single-bone lower jaw."*

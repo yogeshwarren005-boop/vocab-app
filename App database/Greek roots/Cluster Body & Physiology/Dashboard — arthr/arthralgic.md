@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to arthralgia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to arthralgia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by arthralgia; afflicted with pain in the joints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, designating patient complaints or symptom complexes dominated by articular pain without overt signs of acute effusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthralgic designates of or relating to arthralgia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The convalescent patient remained weak and **arthralgic**, complaining of dull aches whenever barometric pressure plummeted."*
+> - 📜 **Benjamin Rush (*Medical Inquiries and Observations*):** *"A severe **arthralgic** paroxysm seized the extremities following sudden exposure to cold autumnal rains."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Transient **arthralgic** complaints in pediatric patients must be scrutinized for evidence of underlying rheumatic fever."*

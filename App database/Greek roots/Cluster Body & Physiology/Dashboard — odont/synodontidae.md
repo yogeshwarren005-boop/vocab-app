@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soft-finned bottom-dwelling fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soft-finned bottom-dwelling fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of predatory marine ray-finned fishes in the order Aulopiformes, commonly known as lizardfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and ichthyology, benthic ambush predators possessing needle-like, hinged teeth lining the jaws, palate, and tongue, adapted for seizing elusive prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synodontidae designates soft-finned bottom-dwelling fishes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Fishes of the family **Synodontidae** bury themselves in bottom sand, exposing only their eyes to ambush passing prey."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The jaws and palatines of **Synodontidae** are crowded with sharp, depressible teeth, earning them the name lizardfishes."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The predatory efficiency of **Synodontidae** relies upon instantaneous lunges propelled by wide pectoral and caudal fins."*

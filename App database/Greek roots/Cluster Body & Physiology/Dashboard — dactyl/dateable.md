@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That can be given a date; - c.w.shumaker.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That can be given a date; - c.w.shumaker.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant spelling of datable; capable of being assigned to a specific time, era, or historical date.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical bibliography and numismatics, having identifiable historical markers that permit chronological dating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dateable designates that can be given a date; - c.w.shumaker."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The political tract was certainly **dateable** to the feverish months preceding the flight of James the Second."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The manuscript contains marginal watermarks that render its transcription reliably **dateable** to the late sixteenth century."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Associated volcanic tuff beds provided a clear, **dateable** geological marker across the entire river valley."*

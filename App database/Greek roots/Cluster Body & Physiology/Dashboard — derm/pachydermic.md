@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of pachyderms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of pachyderms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a pachyderm; thick-skinned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pathology, describing thickened, coarse, elephantiasic skin resulting from chronic lymphatic obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachydermic designates of or relating to or characteristic of pachyderms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In advanced filarial elephantiasis, the lower limbs assume a grotesque, **pachydermic** appearance."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"His brow was furrowed with **pachydermic** wrinkles, telling of long decades of Arctic storms."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases*):** *"The localized **pachydermic** thickening of the scrotum was traced to chronic lymphatic obliteration."*

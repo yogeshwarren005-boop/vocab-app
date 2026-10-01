@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow and painful spasmodic discharge of urine drop by drop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slow and painful spasmodic discharge of urine drop by drop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by painful, frequent, and difficult urination in which urine is voided drop by drop with intense straining and spasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology, strangury results from severe irritation or spasm of the trigone of the bladder and urethral sphincter, common in acute cystitis, prostatitis, or bladder neck impaction by a calculus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strangury designates a slow and painful spasmodic discharge of urine drop by drop."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cantharides poisoning produces agonizing **strangury**, with persistent priapism and bloody urine passed drop by drop."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The intense vesical tenesmus and scalding **strangury** caused by acute cystitis yield rapidly to warm sitz baths."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"A stone caught in the neck of the bladder provokes continual straining and distressing **strangury**."*

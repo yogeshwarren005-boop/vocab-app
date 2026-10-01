@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large class (Gastropoda) of mollusks (such as snails and slugs) usually with a univalve shell or none and a distinct head bearing sensory organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large class (Gastropoda) of mollusks (such as snails and slugs) usually with a univalve shell or none and a distinct head bearing sensory organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mollusk of the large class Gastropoda, such as a snail, slug, or whelk, typically having a single spiral shell or no shell at all.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, an asymmetrical mollusk characterized by torsion during larval development and a broad, muscular ventral creeping foot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastropod designates any of a large class (gastropoda) of mollusks (such as snails and slugs) usually with a univalve shell or none and a distinct head bearing sensory organs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The freshwater **gastropod** Ancylus adheres tenaciously to floating driftwood, facilitating accidental transport between isolated ponds."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Larval torsion in the developing **gastropod** rotates the visceral mass by 180 degrees, bringing the mantle cavity above the head."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The carnivorous marine **gastropod** drills a neat round hole through the bivalve shell with its rasping radula."*

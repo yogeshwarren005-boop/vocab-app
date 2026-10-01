@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Epithelium associated with special sense organs and containing sensory nerve endings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epithelium associated with special sense organs and containing sensory nerve endings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized type of epithelial tissue containing sensory receptor cells that convert environmental stimuli into nerve impulses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory histology and embryology, the receptor lining found in the olfactory mucosa, retina, taste buds, and internal ear, as well as the proliferative lining of the embryonic neural tube.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroepithelium designates epithelium associated with special sense organs and containing sensory nerve endings."*
+> - 📜 **Wilhelm His (*Zur Geschichte des menschlichen Rückenmarkes und der Nervenwurzeln*):** *"The primary wall of the medullary tube consists of a pseudostratified **neuroepithelium** whose mitotic figures border the internal lumen."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The olfactory **neuroepithelium** is unique among mammalian sensory surfaces in that its bipolar receptor cells project axons directly into the brain."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Light striking the retinal **neuroepithelium** undergoes photochemical decomposition in the rods and cones to initiate sensory conduction."*

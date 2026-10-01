@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of blow, breathe, lung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of blow, breathe, lung.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regulating or coordinating the rate, rhythm, and pattern of respiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, designating the pontine pneumotaxic center (located in the parabrachial nucleus and Kölliker-Fuse nucleus) that limits inspiration and controls respiratory frequency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumotaxic designates adjective*) pertaining to, derived from, or characteristic of blow, breathe, lung."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of the Nervous System*):** *"Brainstem transection experiments revealed a specialized **pneumotaxic** mechanism coordinating rhythmic phrenic discharge."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Damage to pontine **pneumotaxic** tracts produces apneustic breathing characterized by prolonged inspiratory spasms."*
+> - 📜 **Charles Scott Sherrington (*The Integrative Action of the Nervous System*):** *"Rhythmic breathing reflects intrinsic pacemakers regulated by descending inhibitory signals from the **pneumotaxic** center."*

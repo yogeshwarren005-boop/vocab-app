@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek my.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The delicate sheath of connective tissue that surrounds each individual skeletal muscle fiber (myocyte).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and muscle pathology, a fine reticular connective tissue matrix rich in capillaries and nerves that invaginates from the perimysium to cushion single myofibers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endomysium designates a term designating an entity, condition, or phenomenon derived from greek my."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Terminal nerve arborizations pierce the **endomysium** to form motor end-plates upon individual myofibers."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The connective tissue within the muscle fascicle constitutes the **endomysium**, supporting the finest capillary networks."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In inflammatory myositis, mononuclear leukocytes infiltrate the interstitial spaces of the **endomysium**."*

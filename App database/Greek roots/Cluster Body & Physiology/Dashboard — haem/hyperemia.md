@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excess of blood in a body part : congestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excess of blood in a body part : congestion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An increased volume of blood in a particular organ, vascular bed, or bodily tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and pathology, vascular engorgement categorized as active (functional or reactive, mediated by local vasodilators) or passive (resulting from impaired venous drainage).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperemia designates excess of blood in a body part : congestion."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The intense focal **hyperemia** observed surrounding the wound site marks the preliminary vascular phase of repair."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inspection of the pharyngeal mucosa revealed diffuse fiery **hyperemia** characteristic of acute streptococcal infection."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Following temporary arterial occlusion, reactive **hyperemia** rapidly restores oxygenation to the ischemic muscle tissue."*

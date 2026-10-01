@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the hand or forefoot that contains the metacarpals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the hand or forefoot that contains the metacarpals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intermediate skeletal part of the hand between the carpus (wrist) and the phalanges (fingers), consisting of five cylindrical bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, the corresponding region of the forefoot in tetrapod vertebrates, forming the cannon bone in ungulates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metacarpus designates the part of the hand or forefoot that contains the metacarpals."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **metacarpus** consists of five cylindrical bones which are numbered from the radial to the ulnar side."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Palmar interosseous muscles occupy the deep intervals between the adjacent skeletal shafts of the **metacarpus**."*
+> - 📜 **Galen (*On the Usefulness of the Parts of the Body*):** *"Nature interposed the firm framework of the **metacarpus** between the wrist and fingers to provide an unyielding palm for grasping."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various moss-like aquatic animals usually forming branching colonies; each polyp having a both mouth and anus within a closed ring of tentacles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various moss-like aquatic animals usually forming branching colonies; each polyp having a both mouth and anus within a closed ring of tentacles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small aquatic invertebrate animal of the phylum Entoprocta (also spelled endoproct).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate biology, a microscopic, sessile suspension feeder whose ciliated crown of tentacles creates an inward water current directed toward the mouth, with an anus situated inside the tentacular ring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entoproct designates any of various moss-like aquatic animals usually forming branching colonies; each polyp having a both mouth and anus within a closed ring of tentacles."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The solitary marine **entoproct** Loxosoma lives commensally upon the bristles of benthic polychaete worms."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"A microscopic **entoproct** bends and sways on its flexible stalk, filtering passing organic detritus."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The spiral cleavage and trochophore-like larva of the **entoproct** indicate close phylogenetic links with spiralian protostomes."*

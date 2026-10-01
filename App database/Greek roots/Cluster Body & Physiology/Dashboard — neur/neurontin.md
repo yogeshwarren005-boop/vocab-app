@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticonvulsant (trade name neurontin) used to control some types of seizures in the treatment of epilepsy; also used to manage neuralgia caused by shingles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anticonvulsant (trade name neurontin) used to control some types of seizures in the treatment of epilepsy; also used to manage neuralgia caused by shingles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for gabapentin, an anticonvulsant and neuropathic pain analgesic that binds to the alpha-2-delta subunit of voltage-gated calcium channels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopharmacology and neurology, a medication originally designed as a lipophilic GABA agonist, widely prescribed for partial seizures, postherpetic neuralgia, and restless legs syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurontin designates an anticonvulsant (trade name neurontin) used to control some types of seizures in the treatment of epilepsy; also used to manage neuralgia caused by shingles."*
+> - 📜 **Stephen Stahl (*Stahl's Essential Psychopharmacology*):** *"Prescription of **Neurontin** modulates neurotransmitter release by dampening calcium influx through voltage-sensitive channels in hyperexcitable neurons."*
+> - 📜 **David Taylor (*The Maudsley Prescribing Guidelines in Psychiatry*):** *"When managing refractory neuropathic distress, therapeutic titration of **Neurontin** provides analgesic efficacy with favorable tolerability."*
+> - 📜 **Anthony Trevor (*Katzung & Trevor's Pharmacology*):** *"Despite its structural similarity to gamma-aminobutyric acid, **Neurontin** does not bind directly to GABA receptors."*

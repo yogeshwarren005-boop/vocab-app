@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi of the family secotiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi of the family secotiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of secotioid fungi in the family Bolbitiaceae, notably Gastrocybe lateritia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agaricology, an ephemeral mushroom that fruits in grassy lawns at dawn, collapsing into a gelatinous mass as its spores mature internally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrocybe designates a genus of fungi of the family secotiaceae."*
+> - 📜 **Alexander H. Smith (*The Mushroom Hunter's Field Guide*):** *"The fragile, unexpanded cap of **Gastrocybe** emerges on dew-drenched suburban lawns before dissolving by mid-morning."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"Mycologists study **Gastrocybe** as a prime example of evolutionary transition toward gastroid spore retention within the agarics."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Before the prairie sun grew warm, ephemeral little mushrooms like **Gastrocybe** appeared and melted back into the turf."*

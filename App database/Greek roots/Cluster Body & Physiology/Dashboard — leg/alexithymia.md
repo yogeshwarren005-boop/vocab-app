@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek leg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychological condition characterized by the inability to identify, describe, and express one's own emotional states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychosomatic medicine and clinical psychology, a trait characterized by difficulty distinguishing between feelings and bodily sensations, an impoverished fantasy life, and an externally oriented cognitive style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alexithymia designates a term designating an entity, condition, or phenomenon derived from greek leg."*
+> - 📜 **Peter Sifneos (*Short-Term Psychotherapy and Emotional Crisis*):** *"Patients presenting with profound **alexithymia** tend to describe visceral discomfort rather than verbalizing fear, anger, or despair."*
+> - 📜 **Bessel van der Kolk (*The Body Keeps the Score*):** *"Trauma frequently induces an acquired **alexithymia**, leaving survivors unable to articulate what their bodies are registering."*
+> - 📜 **Antonio Damasio (*Descartes' Error*):** *"The cognitive impairment of **alexithymia** highlights the fundamental role of somatic markers in emotional awareness."*

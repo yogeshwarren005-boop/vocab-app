@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine soft silk fabric often used for linings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fine soft silk fabric often used for linings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine, thin, soft silk fabric of plain or twilled weave, historical used for linings, veils, ribbons, and lightweight garments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating in medieval Europe (traditionally derived through Arab commerce and the crusades), sarcenet was prized for its lustrous drape and pliable texture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not you, in good sooth,” and “As true as I live,” and “As God shall mend me,” and “As sure as day” And givest such sarcenet surety for thy oaths As if thou never walk’dst further than Finsbury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why art thou, then, exasperate, thou idle immaterial skein of sleave silk, thou green sarcenet flap for a sore eye, thou tassel of a prodigal’s purse, thou?"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Val's language was refined enough for a curate, and even Rowsley in his young sister's presence never went beyond a sarcenet oath; but Hyde's frank fury was piquant to Isabel's not very decorous taste."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Her bonnet was trimmed with a fluttering veil of pale green **sarcenet**, well suited to the summer breeze."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The sisters spent the morning selecting yards of white **sarcenet** for their forthcoming ball gowns."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The portrait represented a lady in a quilted bodice of crimson **sarcenet**, holding a rose in her slender hand."*

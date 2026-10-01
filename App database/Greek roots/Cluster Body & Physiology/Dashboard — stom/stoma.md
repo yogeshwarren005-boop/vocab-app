@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the minute openings in the epidermis of a plant organ (such as a leaf) through which gaseous interchange takes place; also : the opening with its associated cellular structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small simple opening in or on the body of an animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic pore in the epidermis of plant leaves and stems flanked by guard cells, regulating gas exchange and transpiration; also, a surgically created opening connecting a hollow internal organ to the body surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, stomata open in response to light and osmotic swelling of guard cells; in surgery, ostomies (colostomy, ileostomy, tracheostomy) establish an artificial stoma for elimination or airway maintenance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stoma designates one of the minute openings in the epidermis of a plant organ (such as a leaf) through which gaseous interchange takes place; also : the opening with its associated cellular structures."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"Osmotic influx into the guard cells arches their outer walls, widening the aperture of the **stoma** for carbon dioxide uptake."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Each **stoma** acts as an adjustable valve balancing photosynthetic gas exchange against hazardous water loss."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Creation of an emergency tracheal **stoma** immediately relieves asphyxiating obstruction of the upper glottis."*

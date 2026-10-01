@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most primitive teleost fishes; all are soft-finned: salmon; trout; herring; shad; sardines; anchovies; whitefish; smelts; tarpon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most primitive teleost fishes; all are soft-finned: salmon; trout; herring; shad; sardines; anchovies; whitefish; smelts; tarpon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic order of soft-rayed bony fishes (including herrings, salmons, and tarpons) characterized by simple, uniform vertebrae and the absence of a Weberian apparatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical ichthyological taxonomy (notably Jordan and Berg), Isospondyli represented the primitive basal stock of teleost fishes, now reorganized into Clupeiformes, Salmoniformes, and Elopiformes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isospondyli designates most primitive teleost fishes; all are soft-finned: salmon; trout; herring; shad; sardines; anchovies; whitefish; smelts; tarpon."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The large order **Isospondyli** comprises the most primitive of the true teleosts, typified by the salmon and herring."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Abyssal **Isospondyli** dredged from deep oceanic basins display luminous organs along their slender lateral margins."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"From the early Mesozoic **Isospondyli**, virtually all modern higher teleost lineages eventually radiated."*

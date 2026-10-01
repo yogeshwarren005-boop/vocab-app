@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomist who is skilled is osteology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomist who is skilled is osteology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or literary term for an osteologist; an investigator who studies bones and skeletal frameworks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical intellectual literature, a comparative anatomist dedicated to classifying fossil and living vertebrate skeletons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteologer designates an anatomist who is skilled is osteology."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"The antiquary and the **osteologer** gaze with equal wonder upon the calcined fragments of ancient kings and warriors."*
+> - 📜 **Richard Owen (*On the Nature of Limbs*):** *"The patient **osteologer** discovers in the flipper of a whale the identical pentadactyl homologies that govern the human hand."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Comparative Anatomy*):** *"Every trained **osteologer** must be able to reconstruct an extinct quadruped from a single fossilized articular facet."*

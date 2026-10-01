@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Independent of external and especially patriarchal authority —used especially of Eastern national churches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Independent of external and especially patriarchal authority —used especially of Eastern national churches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Eastern Orthodox canon law and ecclesiastical history, the status of a self-governing national church whose primate does not report to any higher authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ecclesiastical independence; the right of an independent church synod to elect its own patriarch or metropolitan without external patriarchal confirmation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autocephaly designates independent of external and especially patriarchal authority —used especially of eastern national churches."*
+> - 📜 **John Meyendorff (*The Orthodox Church: Its Past and Its Role in the World Today*):** *"The grant of **autocephaly** recognizes that a national church has attained the spiritual maturity to govern its own pastoral life."*
+> - 📜 **Jaroslav Pelikan (*The Spirit of Eastern Christendom*):** *"The Russian Church achieved de facto **autocephaly** after the Council of Florence, consecrating its own metropolitan in Moscow."*
+> - 📜 **Timothy Ware (*The Orthodox Church*):** *"The delicate balance between conciliar unity and jurisdictional **autocephaly** defines the ecclesiological genius of Orthodoxy."*

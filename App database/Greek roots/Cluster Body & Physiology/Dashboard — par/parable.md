@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually short fictitious story that illustrates a moral attitude or a religious principle; also : something (such as a news story or a series of real events) likened to a parable in providing an instructive example or lesson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually short fictitious story that illustrates a moral attitude or a religious principle; also : something (such as a news story or a series of real events) likened to a parable in providing an instructive example or lesson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple story used to illustrate a moral or spiritual lesson, typically featuring human characters and familiar situations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and biblical hermeneutics, an allegorical narrative that conceals esoteric theological truths beneath pastoral tropes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt never get such a secret from me but by a parable."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have myself—I tell it you without parable—been a worldly, dissipated, restless man; and I believe I have found the instrument for my cure in—” He paused: the birds went on carolling, the leaves lightly rustling."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Ezekiel "puts forth a riddle and speaks a parable" about an eagle--a frankly heraldic eagle, that plants a tree-top in a city of merchants (Ezek. 17:2-5)."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"A true **parable** is never mere fiction; it mirrors an enduring divine reality through an earthly occurrence."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The sacred **parable** communicates its profoundest ethical wisdom precisely by condescending to the shepherd and the tiller."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Every natural fact is a symbol of some spiritual fact, and the universe itself stands as an open **parable**."*

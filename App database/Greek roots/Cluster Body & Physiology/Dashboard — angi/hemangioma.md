@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually benign tumor made up of blood vessels that typically occurs as a purplish or reddish slightly elevated area of skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually benign tumor made up of blood vessels that typically occurs as a purplish or reddish slightly elevated area of skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign vascular tumor consisting of an abnormal buildup and proliferation of blood vessels in the skin or internal organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric dermatology and pathology, infantile strawberry hemangioma or adult cavernous hemangioma occurring commonly in the skin, liver, or vertebrae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemangioma designates a usually benign tumor made up of blood vessels that typically occurs as a purplish or reddish slightly elevated area of skin."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The cavernous **hemangioma** consists of large communicating vascular spaces filled with circulating blood and lined by flat endothelium."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Excision of a deep intramuscular **hemangioma** requires meticulous proximal vessel control to avert severe hemorrhage."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"The spontaneous involution of infantile strawberry **hemangioma** demonstrates that not all vascular growths behave as permanent neoplasms."*

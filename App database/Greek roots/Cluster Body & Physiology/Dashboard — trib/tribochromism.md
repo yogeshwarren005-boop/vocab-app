@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trib.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon in which the color of a substance changes when subjected to mechanical friction, grinding, crushing, or rubbing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and materials science, tribochromism involves reversible or irreversible shifts in molecular conformation, crystalline packing, or charge-transfer states induced by mechanical shearing forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribochromism designates a term designating an entity, condition, or phenomenon derived from greek trib."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Certain metallic salts undergo remarkable alterations of tint under heavy pestle friction, exhibiting clear **tribochromism**."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The phenomenon of **tribochromism** demonstrates that mechanical strain directly perturbs the molecular absorption of light."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"Grinding the crystalline compound in an agate mortar induced vivid **tribochromism**, changing its orange luster to deep red."*

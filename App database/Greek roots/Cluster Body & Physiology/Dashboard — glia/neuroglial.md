@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of neuroglia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of neuroglia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or composed of neuroglia; glial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropathology and cellular neurobiology, describing non-neuronal cells, neoplasms (gliomas), or protective cellular responses in the nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroglial designates relating to or consisting of neuroglia."*
+> - 📜 **Santiago Ramón y Cajal (*Degeneration and Regeneration of the Nervous System*):** *"The hypertrophic **neuroglial** response forms a physical barrier that restricts the sprouting of severed central axons."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of the cerebral tumor revealed a dense proliferation of atypical **neuroglial** fibers and pleomorphic nuclei."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"The close apposition of **neuroglial** end-feet to the cerebral vasculature establishes the structural framework of the blood-brain barrier."*

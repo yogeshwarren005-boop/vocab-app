@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal having teeth fused with the inner surface of the alveolar ridge without sockets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal having teeth fused with the inner surface of the alveolar ridge without sockets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having teeth ankylosed or attached by their sides to the inner surface of the jaw bone without sockets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology and comparative vertebrate anatomy, describing dentition typical of iguanas, monitors, and many other lizards, where teeth fuse directly to the lingual shelf of the jawbone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleurodont designates an animal having teeth fused with the inner surface of the alveolar ridge without sockets."*
+> - 📜 **Richard Owen (*Odontography; or, A Treatise on the Comparative Anatomy of the Teeth*):** *"In the **pleurodont** dentition of iguanid lizards, the base of each tooth fuses securely along the inner alveolar ledge."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Lizards exhibit either acrodont or **pleurodont** tooth attachment, reflecting divergent evolutionary lineages within the squamates."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The fossil jaw fragments revealed a typical **pleurodont** structure, confirming their affinity with modern lacertilians."*

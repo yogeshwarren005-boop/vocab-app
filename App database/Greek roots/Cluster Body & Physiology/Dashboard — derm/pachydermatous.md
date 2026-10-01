@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of pachyderms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally hardened.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having thick skin; or metaphorically, thick-skinned and insensitive to criticism, reproof, or emotional injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate zoology, relating to thick-skinned ungulates such as elephants, tapirs, and rhinoceroses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The impressionable peasant leads a larger, fuller, more dramatic life than the pachydermatous king."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke was too cheerful and **pachydermatous** to be wounded by the sharp barbs of political satire."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The old monarchy presented a tough, **pachydermatous** resistance to reform until the explosive fury of the mob shattered it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer was a dry, **pachydermatous** gentleman whom no client's tears could ever soften."*

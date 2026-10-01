@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phleb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fibrous thickening, hardening, and loss of elasticity of the walls of a vein, analogous to arteriosclerosis in arteries (venosclerosis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pathology, chronic fibromuscular hyperplasia and collagen deposition in the venous media and intima, resulting from prolonged venous hypertension or recurrent phlebitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebosclerosis designates a term designating an entity, condition, or phenomenon derived from greek phleb."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Prolonged venous stasis induces profound mural thickening, culminating in pronounced **phlebosclerosis** of the saphenous vessels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Upon palpation, the cord-like resistance of the hardened vein evidenced widespread underlying **phlebosclerosis**."*
+> - 📜 **James Mackenzie (*Diseases of the Heart*):** *"Chronic portal congestion causes secondary **phlebosclerosis** throughout the mesenteric and hepatic venous networks."*

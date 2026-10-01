@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek prosop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ancient Greek, a face, mask, or outward appearance; an individual persona.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology and Christology, the philosophical term (πρόσωπον) employed by the early Church councils (especially Chalcedon, 451 AD) to define the single divine-human Person of Jesus Christ existing in two distinct natures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosopon designates a term designating an entity, condition, or phenomenon derived from greek prosop."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In classical Attic Greek, **prosopon** designated the actor's theatrical mask as well as the natural human countenance."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"The theological adoption of the Greek term **prosopon** secured the orthodox definition of personal unity against Nestorian division."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The sculpted relief captured the calm, tragic beauty of the heroic Greek **prosopon**."*

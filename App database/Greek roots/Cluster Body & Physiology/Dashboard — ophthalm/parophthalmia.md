@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophthalm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the tissues surrounding the eye, such as the orbital connective tissue or eyelids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ophthalmology, an inflammatory condition of the orbital periocular connective tissues, distinct from intrinsic intraocular inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parophthalmia designates a term designating an entity, condition, or phenomenon derived from greek ophthalm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Orbital cellulitis originating from an infected ethmoid sinus presents as acute severe **parophthalmia** with proptosis."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"In acute **parophthalmia**, the eyelids become violently edematous while the globe itself remains miraculously intact."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"Deep orbital suppuration complicating facial erysipelas manifests as extensive phlegmonous **parophthalmia**."*

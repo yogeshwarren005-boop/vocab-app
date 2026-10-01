@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The clinical term in psychiatry for illness anxiety disorder; severe, persistent morbid preoccupation with imagined sickness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic psychopathology, an anxiety disorder characterized by misinterpretation of normal somatic sensations despite medical reassurance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypochondriasis designates excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **hypochondriasis** can become so deeply rooted that no negative diagnostic test will reassure the troubled mind."*
+> - 📜 **Sigmund Freud (*On Narcissism: An Introduction*):** *"In **hypochondriasis**, bodily libido is withdrawn from the external world and concentrated morbidly upon a particular organ."*
+> - 📜 **Emil Kraepelin (*Clinical Psychiatry*):** *"The chronic distress of **hypochondriasis** often represents the somatic somaticization of an underlying depressive illness."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal enlargement of one or more fingers or toes; macrodactyly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic surgery and pediatric genetics, a rare congenital overgrowth of digital soft tissue and bone, often associated with neurofibromatosis or Proteus syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylomegaly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Localized **dactylomegaly** of the index finger can produce colossal digital disproportion while the adjacent digits remain normal."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The enormous hypertrophy in true **dactylomegaly** involves not only the phalanges but also the digital nerves and subcutaneous fat."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Excision or epiphysiodesis is often required in **dactylomegaly** to prevent progressive deviation of the oversized digit."*

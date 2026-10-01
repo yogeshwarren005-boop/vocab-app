@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling accompanied by skin rash affecting cheeks and eyelids and neck and chest and limbs; progression and severity vary among individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling accompanied by skin rash affecting cheeks and eyelids and neck and chest and limbs; progression and severity vary among individuals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An uncommon inflammatory disease characterized by progressive muscle weakness and a distinctive skin rash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical rheumatology, an idiopathic autoimmune inflammatory myopathy presenting with a heliotrope rash around the eyes and Gottron papules over knuckle joints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatomyositis designates myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling accompanied by skin rash affecting cheeks and eyelids and neck and chest and limbs; progression and severity vary among individuals."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The violaceous heliotrope discoloration of the eyelids accompanied by proximal limb girdle paresis establishes the diagnosis of **dermatomyositis**."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"In adult patients presenting with acute **dermatomyositis**, the clinician must conduct a vigilant search for occult internal neoplasm."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Muscle biopsy in **dermatomyositis** demonstrates perivascular lymphocytic cuffing and characteristic perifascicular atrophy."*

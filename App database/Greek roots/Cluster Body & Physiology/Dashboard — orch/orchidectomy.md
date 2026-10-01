@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of one or both testicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of one or both testicles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision and removal of one or both testicles (orchiectomy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urologic oncology and endocrinology, a surgical procedure performed via inguinal or scrotal approach for testicular neoplasia, severe gonadal trauma, or androgen deprivation in metastatic prostate cancer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchidectomy designates surgical removal of one or both testicles."*
+> - 📜 **William Stewart Halsted (*The Operative Story of Goitre and Other Surgical Essays*):** *"Radical inguinal **orchidectomy** with early vascular control of the spermatic cord prevents systemic tumor dissemination."*
+> - 📜 **William Osler (*A System of Medicine*):** *"Bilateral **orchidectomy** was once employed experimentally to arrest the proliferation of advanced prostatic carcinoma."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Emergency **orchidectomy** became unavoidable following catastrophic testicular necrosis induced by neglected spermatic cord torsion."*

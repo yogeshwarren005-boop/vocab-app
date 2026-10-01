@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crani.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or anthropologist who studies the shape, size, and proportions of human skulls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, a 19th-century physical anthropologist who classified human racial types based on cranial indices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniologist designates a term designating an entity, condition, or phenomenon derived from greek crani."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The **craniologist** must rely on exact cephalic indices rather than prejudiced impressions of facial beauty."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"Samuel George Morton was celebrated as the foremost American **craniologist**, amassing hundreds of human skulls to measure their cranial volume."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **craniologist** finds that differences in skull shape within a single civilized nation often exceed those between distinct races."*

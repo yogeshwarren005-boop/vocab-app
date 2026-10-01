@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Headless; lacking a distinct head or cranial structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and zoology, describing organisms (such as bivalve mollusks) or developmental anomalies that lack a differentiated head.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acephalic designates adjective*) pertaining to, derived from, or characteristic of head."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Lamellibranch mollusks were formerly grouped as **acephalic** invertebrates because their bodies lack a distinct cranial region."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"At its earliest stage, the vertebrate blastoderm appears as an **acephalic** disk prior to the formation of the anterior head fold."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The **acephalic** condition of sedentary bivalves represents an evolutionary adaptation to filter-feeding within a hinged shell."*

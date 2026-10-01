@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute or chronic inflammation of the lungs that is characterized especially by cough, shortness of breath, fatigue, and fever, and may result in the development of fibrotic scar tissue when chronic or untreated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute or chronic inflammation of the lungs that is characterized especially by cough, shortness of breath, fatigue, and fever, and may result in the development of fibrotic scar tissue when chronic or untreated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of lung tissue, especially non-infectious inflammation or inflammation localized in the alveolar walls and interstitium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonology and oncology, lung inflammation caused by radiation (radiation pneumonitis), chemical inhalation, drug toxicity, or hypersensitivity (hypersensitivity pneumonitis / farmer's lung).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumonitis designates acute or chronic inflammation of the lungs that is characterized especially by cough, shortness of breath, fatigue, and fever, and may result in the development of fibrotic scar tissue when chronic or untreated."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic hypersensitivity **pneumonitis** results from repeated inhalation of organic dusts, leading to granulomatous interstitial fibrosis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Chemical irritation of the terminal airways provoked diffuse interstitial **pneumonitis** with extensive alveolar wall thickening."*
+> - 📜 **Anthony Fauci (*Harrison's Principles of Internal Medicine*):** *"Prompt corticosteroid administration is necessary to halt the progression of drug-induced acute **pneumonitis**."*

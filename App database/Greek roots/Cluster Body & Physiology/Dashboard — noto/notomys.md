@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Jerboa rats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jerboa rats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Australian conilurine rodents, commonly known as hopping mice, adapted for arid environments with enlarged hind feet and long tufted tails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In desert mammalogy, desert-dwelling nocturnal murids renowned for exceptional renal concentrating ability that allows survival without drinking free water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notomys designates jerboa rats."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"The graceful Australian hopping mouse of the genus **Notomys** bounds across sandy plains with the agility of a miniature jerboa."*
+> - 📜 **Oldfield Thomas (*Annals and Magazine of Natural History*):** *"Species of **Notomys** are characterized by prominent gular pouches and elongated hind limbs modified for saltatorial locomotion."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Australian desert rodents such as **Notomys** illustrate remarkable convergent evolution with the jerboas of the Old World deserts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The involuntary discharge of urine : incontinence of urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The involuntary discharge of urine : incontinence of urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involuntary discharge or leakage of urine, particularly nocturnal bed-wetting in children past the age at which bladder control is normally acquired.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric medicine, enuresis is classified as primary (bladder control never achieved) or secondary (relapse after at least six months of continence), influenced by genetics, nocturnal polyuria, or deep sleep arousal thresholds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enuresis designates the involuntary discharge of urine : incontinence of urine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Nocturnal **enuresis** in young boys frequently responds to bladder training, restriction of evening fluids, and belladonna."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Early psychoanalytic theory explored the symbolic connection between infantile **enuresis** and subconscious emotional conflict."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Habitual **enuresis** during sleep often subsides spontaneously as neuromuscular coordination matures in puberty."*

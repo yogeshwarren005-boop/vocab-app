@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek proct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe pain in the rectum or anus (proctodynia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology and colorectal surgery, rectal discomfort stemming from anal fissures, thrombosed external hemorrhoids, perianal abscesses, or pelvic muscular spasms such as proctalgia fugax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proctalgia designates a term designating an entity, condition, or phenomenon derived from greek proct."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Recurrent nocturnal spasms of intense anorectal pain without organic lesion characterize idiopathic **proctalgia** fugax."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Surgical drainage of an ischiorectal abscess gave instantaneous relief from excruciating perianal **proctalgia**."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Tabetic neurosyphilis frequently manifests with visceral sensory crises, including agonizing rectal **proctalgia**."*

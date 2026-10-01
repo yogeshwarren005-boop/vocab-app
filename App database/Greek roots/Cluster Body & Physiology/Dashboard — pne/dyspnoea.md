@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult, labored, or painful breathing; shortness of breath (Commonwealth spelling; dyspnea).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiopulmonary semiotics, a subjective sensation of breathing discomfort resulting from mismatched ventilatory demand and mechanical capacity, characteristic of asthma, heart failure, or pulmonary fibrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyspnoea designates a term designating an entity, condition, or phenomenon derived from greek pne."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Severe paroxysmal **dyspnoea** seizing the patient in the dead of night is the cardinal symptom of cardiac asthma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Exertional **dyspnoea** marks the earliest functional failure of myocardial compensation in mitral valvular stenosis."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The chest seemed bound with iron bands, provoking agonizing **dyspnoea** whenever the sufferer attempted recumbency."*

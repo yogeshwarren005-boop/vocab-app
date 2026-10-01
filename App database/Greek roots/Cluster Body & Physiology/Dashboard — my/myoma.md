@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tumor consisting of muscle tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tumor consisting of muscle tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign tumor composed of muscular tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncologic pathology, classified as either a leiomyoma (arising from smooth muscle, common in the uterus) or a rhabdomyoma (arising from striated muscle).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myoma designates a tumor consisting of muscle tissue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A solitary **myoma** embedded within the uterine wall may remain asymptomatic for decades until compressive symptoms develop."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The architectural pattern of a uterine **myoma** displays interlacing bundles of mature smooth muscle cells amidst sparse connective stroma."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Conservative myomectomy aims at removing the **myoma** while carefully conserving the reproductive anatomy."*

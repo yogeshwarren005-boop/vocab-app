@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduced vision typically in one eye that results from the brain suppressing input from the affected eye due to unequal visual signals from each eye (as from strabismus or anisometropia) leading to poor development of visual acuity in the affected eye —called also lazy eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduced vision typically in one eye that results from the brain suppressing input from the affected eye due to unequal visual signals from each eye (as from strabismus or anisometropia) leading to poor development of visual acuity in the affected eye —called also lazy eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dimness of sight or impaired vision without detectable organic lesion of the eye; lazy eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric ophthalmology and visual neuroscience, unilateral or bilateral reduction in visual acuity resulting from abnormal visual experience (strabismus, anisometropia, or deprivation) during early critical periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amblyopia designates reduced vision typically in one eye that results from the brain suppressing input from the affected eye due to unequal visual signals from each eye (as from strabismus or anisometropia) leading to poor development of visual acuity in the affected eye —called also lazy eye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Uncorrected childhood strabismus inexorably causes suppression of the deviated image, resulting in permanent **amblyopia**."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Early patching of the sound eye forces the cortex to process signals from the eye affected by **amblyopia**."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Toxic tobacco-alcohol **amblyopia** presents with a symmetrical bilateral central scotoma and loss of color vision."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek splen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clinical syndrome characterized by spleen enlargement (splenomegaly), reduction in one or more peripheral blood cell lineages (cytopenias), normal compensatory bone marrow cellularity, and improvement following splenectomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and gastroenterology, hypersplenism commonly complicates congestive splenomegaly due to portal hypertension, cirrhosis, or chronic parasitic diseases, accelerating the clearance of erythrocytes, leukocytes, and platelets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypersplenism designates a term designating an entity, condition, or phenomenon derived from greek splen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cirrhotic portal hypertension leads inexorably to congestive splenomegaly and severe peripheral **hypersplenism**."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"In chronic **hypersplenism**, profound leukopenia and thrombocytopenia develop despite hyperplastic bone marrow."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Surgical excision of the enormous spleen successfully reversed the life-threatening cytopenia caused by **hypersplenism**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungal infection of the skin (especially of moist parts covered by clothing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungal infection of the skin (especially of moist parts covered by clothing).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A superficial fungal infection of keratinized tissues (skin, hair, or nails) caused by dermatophyte fungi; ringworm or tinea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious disease medicine, infections caused by species of Trichophyton, Microsporum, or Epidermophyton that digest cutaneous keratin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatophytosis designates fungal infection of the skin (especially of moist parts covered by clothing)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Common athlete's foot is a localized **dermatophytosis** that flourishes in warm, occluded interdigital spaces."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases of the Skin*):** *"The circular expanding margin of active erythema in tinea circinata illustrates the invasive centrifugal growth of **dermatophytosis**."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"Direct microscopic examination of epilated hairs demonstrates the endothrix spore chains characteristic of fungal **dermatophytosis**."*

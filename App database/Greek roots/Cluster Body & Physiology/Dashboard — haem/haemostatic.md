@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to arrest or stop bleeding; having hemostatic properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent, drug, or dressing (such as topical thrombin, gelatin sponge, or styptic) that arrests hemorrhage by promoting coagulation or vascular constriction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemostatic designates adjective*) pertaining to, derived from, or characteristic of blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The application of cold saline and local **haemostatic** sponges checked the stubborn oozing from the granulating ulcer."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Various plant styptics and chemical compresses have been vaunted for their **haemostatic** virtues with varying degrees of surgical success."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"Every emergency dresser must keep an ample supply of **haemostatic** bandages ready for instant application in the trauma ward."*

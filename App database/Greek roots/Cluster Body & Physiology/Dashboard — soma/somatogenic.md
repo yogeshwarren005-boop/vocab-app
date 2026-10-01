@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or arising from physiological causes rather than being psychogenic in origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or arising from physiological causes rather than being psychogenic in origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating within or caused by physiological or physical factors of the body, rather than psychogenic or mental causes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and psychosomatic medicine, somatogenic hypotheses attribute affective or psychotic disorders to cerebral lesions, endocrine imbalances, or metabolic intoxications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatogenic designates of or arising from physiological causes rather than being psychogenic in origin."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"Dementia praecox was presumed by many investigators to arise from a toxic, **somatogenic** source damaging cortical neurones."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A thorough diagnostic workup must rule out **somatogenic** causes of delirium, such as uremia or acute cerebral infection."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"While medical science favored a **somatogenic** etiology for hysteria, psychological analysis revealed deep mental conflict."*

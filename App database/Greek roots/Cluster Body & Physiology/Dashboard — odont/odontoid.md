@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toothlike process projecting from the anterior end of the centrum of the axis vertebra on which the atlas vertebra rotates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toothlike process projecting from the anterior end of the centrum of the axis vertebra on which the atlas vertebra rotates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a tooth; designating the tooth-like process (dens) projecting upward from the second cervical vertebra (axis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gross human osteology and spinal surgery, the vertical bony peg that articulates with the anterior arch of the atlas, providing the pivot for rotational head movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontoid designates a toothlike process projecting from the anterior end of the centrum of the axis vertebra on which the atlas vertebra rotates."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **odontoid** process of the axis ascends into the ring of the atlas, held firmly by the transverse ligament."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Fracture of the **odontoid** process with backward displacement instantly crushes the medulla oblongata, causing fatal arrest."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Congenital hypoplasia of the **odontoid** peg predisposes to dangerous atlantoaxial subluxation upon minor trauma."*

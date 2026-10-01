@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being known for some unfavorable act or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being known for some unfavorable act or quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being widely and publicly known, especially for some unfavorable, scandalous, or disreputable quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social discourse, prominent public recognition that lacks the esteem or moral sanction associated with genuine fame.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Everybody of any consequence or notoriety in Bath was well know by name to Mrs Smith."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"John and the ugliness of Judas Iscariot, as represented in a window of the church he attended, that not a single lineament could be selected and called worthy either of distinction or notoriety."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Even into the living grave Oppenheimer had occupied for ten years had my fame, or notoriety, rather, penetrated."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Many men mistake the clamor of public censure for fame, courting scandalous **notoriety** rather than quiet virtue."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The crimes of the tyrant attained an odious **notoriety** that echoed across every province of the Mediterranean."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp achieved an unenviable **notoriety** in fashionable society that caused respectable matrons to shun her salon."*

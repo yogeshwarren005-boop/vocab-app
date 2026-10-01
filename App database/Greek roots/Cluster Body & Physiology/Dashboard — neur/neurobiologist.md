@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in neurobiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in neurobiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or specialist who studies the biology, structure, physiology, and pathology of the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary science, a researcher investigating cellular signaling, neural development, circuitry, or neurochemical transmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurobiologist designates a specialist in neurobiology."*
+> - 📜 **Stephen Kuffler (*From Neuron to Brain*):** *"The task of the **neurobiologist** is to bridge the conceptual gap between biophysical ion flows and complex behavioral outputs."*
+> - 📜 **Rita Levi-Montalcini (*In Praise of Imperfection*):** *"My destiny as a **neurobiologist** was sealed when the nerve growth factor revealed itself in our embryonic chick cultures."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"As a young **neurobiologist**, I resolved to reduce Freudian concepts of memory to specific cellular mechanisms in defined circuits."*

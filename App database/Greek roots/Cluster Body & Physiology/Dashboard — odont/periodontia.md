@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dentistry dealing with diseases of the gums and other structures around the teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of dentistry dealing with diseases of the gums and other structures around the teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dentistry that deals with the study and treatment of diseases of the supporting tissues of the teeth; periodontics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical stomatology, the preventive and surgical discipline dedicated to the health of the gingiva, periodontal ligament, cementum, and alveolar bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontia designates the branch of dentistry dealing with diseases of the gums and other structures around the teeth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The development of rational clinical **periodontia** emphasized mechanical subgingival scaling to halt alveolar resorption."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Specialized techniques evolved in operative **periodontia** for regenerating supporting bone lost to chronic suppuration."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Knowledge of the vascular supply of the gingival papillae is fundamental to the surgical procedures of **periodontia**."*

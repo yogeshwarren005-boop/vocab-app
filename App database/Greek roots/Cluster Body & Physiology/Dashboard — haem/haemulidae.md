@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grunts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grunts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of marine perciform fish commonly known as grunts, recognized for the grunting sounds they produce by grinding their pharyngeal teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, a teleost fish family closely related to snappers, characterized by a bright red or orange inner oral cavity lining and nocturnal reef-foraging behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog haemulidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Fishes of the family **haemulidae**, termed grunts by coastal fishermen, congregate in large daytime schools along coral formations."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Within the great order of acanthopterygian fishes, the **haemulidae** are distinguished by the interior coloration of their mouths and their sound-producing pharyngeal apparatus."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The tropical reefs supported numerous colorful species belonging to **haemulidae**, whose feeding habits we observed in the clear lagoon waters."*

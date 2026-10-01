@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fleshy fungi: coral fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fleshy fungi: coral fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of basidiomycete fungi commonly known as club or coral fungi, characterized by erect, simple, or branched clavate fruiting bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, saprophytic agaricoid fungi that produce hymenium over the entire outer surface of their upright, club-like branches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clavariaceae designates fleshy fungi: coral fungi."*
+> - 📜 **Charles Horton Peck (*Report of the State Botanist on Edible Fungi of New York*):** *"The colorful branched tufts of the **Clavariaceae** brighten forest litter with coral-like sprays of yellow, white, and violet."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"In the family **Clavariaceae**, the hymenial surface covers the entire exposed club without forming distinct gills or pores."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Woodland foragers prize several edible species among the **Clavariaceae** for their tender, cauliflower-like texture."*

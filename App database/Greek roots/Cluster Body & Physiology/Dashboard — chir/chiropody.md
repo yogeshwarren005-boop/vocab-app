@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine concerned with the feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine concerned with the feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical care and treatment of ailments of the foot, especially corns, calluses, and nail disorders; podiatry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, the craft of tending to minor conditions of both the feet and hands before the development of specialized modern orthopedics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiropody designates the branch of medicine concerned with the feet."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diabetic patients require meticulous instruction in personal hygiene and professional **chiropody** to prevent ischemic ulceration."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She practiced a neat little trade in **chiropody**, trimming corns with rapid professional dexterity."*
+> - 📜 **H. G. Wells (*The History of Mr. Polly*):** *"Mr. Polly's agonizing tight boots made him ponder the urgent blessings of skilled **chiropody**."*

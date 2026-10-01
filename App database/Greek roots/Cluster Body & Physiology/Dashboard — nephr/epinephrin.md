@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hormone and neurotransmitter secreted by the adrenal medulla; adrenaline (alternate spelling of epinephrine).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacology and autonomic physiology, a powerful catecholamine stimulating both alpha and beta-adrenergic receptors, elevating cardiac output and blood pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epinephrin designates a catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action."*
+> - 📜 **John Jacob Abel (*The Chemistry of the Suprarenal Gland*):** *"I succeeded in isolating the active pressor principle of the adrenal medulla, naming it **epinephrin**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intravenous administration of **epinephrin** causes an immediate elevation of systemic arterial tension."*
+> - 📜 **Walter Bradford Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"The emergency secretion of **epinephrin** mobilizes blood sugar and shunts circulation to the skeletal muscles."*

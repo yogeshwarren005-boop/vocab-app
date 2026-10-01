@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An iron-containing respiratory pigment of vertebrate red blood cells that consists of a globin composed of four subunits each of which is linked to a heme molecule, that functions in oxygen transport to the tissues after conversion to oxygenated form in the gills or lungs, and that assists in carbon dioxide transport back to the gills or lungs after surrender of its oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous iron-containing respiratory pigments of various organisms (such as invertebrates and yeasts).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The iron-containing protein pigment present in the red blood cells of vertebrates that transports oxygen from the lungs to body tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tetrameric allosteric metalloprotein composed of four heme-iron complexes bound to globin polypeptides, responsible for reversible oxygen and carbon dioxide transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemoglobin designates an iron-containing respiratory pigment of vertebrate red blood cells that consists of a globin composed of four subunits each of which is linked to a heme molecule, that functions in oxygen transport to the tissues after conversion to oxygenated form in the gills or lungs, and that assists in carbon dioxide transport back to the gills or lungs after surrender of its oxygen."*
+> - 📜 **Felix Hoppe-Seyler (*Zeitschrift für Physiologische Chemie*):** *"We established that the respiratory pigment of blood, crystallized as **hemoglobin**, forms an easily dissociable compound with oxygen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical degree of pallor in secondary anemia correlates directly with the fall in circulating **hemoglobin** percentage."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Each gram of pure **hemoglobin** is capable of binding approximately 1.34 milliliters of oxygen under normal alveolar conditions."*

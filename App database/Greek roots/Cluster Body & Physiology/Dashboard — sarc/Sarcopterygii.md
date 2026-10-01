@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sarc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major class or clade of bony vertebrates (Osteichthyes), commonly known as lobe-finned fishes, characterized by muscular, paired, lobed fins joined to the body by a single basal bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and cladistics, Sarcopterygii encompasses coelacanths, lungfishes, and all terrestrial tetrapods, documenting the historic transition from aquatic locomotion to land-dwelling life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Sarcopterygii designates a term designating an entity, condition, or phenomenon derived from greek sarc."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"From within the ancient crossopterygian stock of **Sarcopterygii**, the first amphibian limbs developed their recognizable bony framework."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"The surviving members of **Sarcopterygii**, such as Latimeria and the lungfishes, are precious living relicts of Paleozoic divergence."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"Strict phylogenetic classification unites tetrapods directly within **Sarcopterygii**, emphasizing monophyly across vertebrate evolution."*

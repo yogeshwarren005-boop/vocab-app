@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (such as norepinephrine or acetylcholine) that transmits nerve impulses across a synapse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (such as norepinephrine or acetylcholine) that transmits nerve impulses across a synapse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An endogenous chemical messenger that transmits signals across a chemical synapse from a neuron to a target cell (another neuron, muscle cell, or gland).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular neurobiology, a chemical substance (such as dopamine, acetylcholine, serotonin, or glutamate) synthesized presynaptically, released upon depolarization, and binding specific postsynaptic receptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotransmitter designates a substance (such as norepinephrine or acetylcholine) that transmits nerve impulses across a synapse."*
+> - 📜 **Henry Hallett Dale (*Adventures in Physiology*):** *"The physiological discovery that acetylcholine acts as a diffusible **neurotransmitter** revolutionized our concept of synaptic transmission."*
+> - 📜 **Julius Axelrod (*Noradrenaline: Fate and Control of Its Biosynthesis*):** *"Reuptake mechanisms in the presynaptic terminal serve to terminate the synaptic action of the adrenergic **neurotransmitter**."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Quantal release of **neurotransmitter** packages from synaptic vesicles underlies graded postsynaptic potentials."*

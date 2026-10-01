@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ethnography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to ethnography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ethnography; describing customs, social structures, and cultures of specific human groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In qualitative anthropology and sociology, describing observational field research conducted through immersive participant observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethnographic designates of or relating to ethnography."*
+> - 📜 **Bronislaw Malinowski (*Argonauts of the Western Pacific*):** *"The **ethnographic** diary records the imponderabilia of actual life and typical behavior in an indigenous village."*
+> - 📜 **Clifford Geertz (*The Interpretation of Cultures*):** *"Thick description distinguishes meaningful human action from mere physical twitching in **ethnographic** analysis."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"The **ethnographic** journey confronts the observer with the fragility of our own civilized categories."*

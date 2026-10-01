@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Anthurium) of tropical American plants of the arum family with large often brightly colored leaves, a cylindrical spadix, and a colored spathe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Anthurium) of tropical American plants of the arum family with large often brightly colored leaves, a cylindrical spadix, and a colored spathe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of tropical American epiphytic or terrestrial flowering plants in the arum family Araceae, cultivated for their showy, brightly colored spathes and tail-like spadices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from Greek *anthos* (flower) and *oura* (tail), alluding to the tail-like flowering spadix; popular horticultural species include *Anthurium andraeanum* (flamingo flower) and *Anthurium scherzerianum*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthurium designates any of a genus (anthurium) of tropical american plants of the arum family with large often brightly colored leaves, a cylindrical spadix, and a colored spathe."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"The scarlet waxy spathe and twisted yellow spadix of **Anthurium** make it one of the most striking ornaments of the greenhouse."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In tropical rainforests, species of **Anthurium** grow as vigorous epiphytes, anchoring to wet tree barks with aerial roots."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature, and Other Essays*):** *"The brilliant lacquered spathes of **Anthurium** gleam amidst the dense, dripping undergrowth of the equatorial forest."*

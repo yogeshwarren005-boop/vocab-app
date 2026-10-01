@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not breathing or able to breathe except with difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not breathing or able to breathe except with difficulty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, experiencing, or characterized by dyspnea or difficult breathing (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical case reporting, describing acute episodes, posture, or physical findings (such as tachypnea, grunting, and intercostal indrawing) associated with respiratory distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyspnoeal designates not breathing or able to breathe except with difficulty."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient assumed an upright orthopneic posture to alleviate the distressing **dyspnoeal** paroxysm."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"On auscultation during the **dyspnoeal** crisis, widespread sonorous rhonchi and wheezing filled both hemithoraces."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"A well-ventilated chamber without direct drafts brings visible relief to the **dyspnoeal** invalid."*

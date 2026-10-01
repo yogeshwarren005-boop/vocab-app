@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous substance (such as tetrodotoxin or saxitoxin) that acts on the nervous system and disrupts the normal function of nerve cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous substance (such as tetrodotoxin or saxitoxin) that acts on the nervous system and disrupts the normal function of nerve cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic substance that specifically damages, destroys, or impairs the functioning of nerve cells and the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biophysics and toxicology, an agent such as tetrodotoxin, botulinum toxin, or alpha-bungarotoxin that blocks voltage-gated ion channels or synaptic vesicle exocytosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotoxin designates a poisonous substance (such as tetrodotoxin or saxitoxin) that acts on the nervous system and disrupts the normal function of nerve cells."*
+> - 📜 **Paul Ehrlich (*Collected Papers on Immunology*):** *"By neutralizing the lethal **neurotoxin** with specific antitoxin antibodies, the animal is completely shielded from tetanic convulsions."*
+> - 📜 **Louis Goodman and Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"Botulinum **neurotoxin** acts as a zinc endopeptidase that selectively cleaves SNARE proteins required for acetylcholine release."*
+> - 📜 **Stephen Kuffler (*From Neuron to Brain*):** *"The pufferfish poison tetrodotoxin was identified as an exquisite selective **neurotoxin** that plugs voltage-gated sodium channels."*

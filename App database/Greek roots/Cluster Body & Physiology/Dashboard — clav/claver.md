@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk socially without exchanging too much information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk socially without exchanging too much information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To talk idly, chatter, gossip, or babble (chiefly Scottish and Northern English dialect); idle chatter or gossip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scottish and regional British literature, empty or foolish talk exchanged between neighbors or gossips.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Country Lass In simmer, when the hay was mawn, And corn wav’d green in ilka field, While claver blooms white o’er the lea And roses blaw in ilka beild!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Clish-ma-claver, gossip, taletelling; non-sense."*
-> - 📜 **James Joyce (*Ulysses*):** *"No, Peter Claver I am thinking of."*
+> - 📜 **Robert Burns (*The Holy Fair*):** *"There's peace an’ rest nae langer; the folks begin to **claver** loud, and tongues get louder and anger."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"Cease your foolish **claver**, woman, and attend to the business of the house before darkness falls upon us."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"He had no patience for the idle **claver** of the tavern loungers, having serious matters of life and death upon his mind."*

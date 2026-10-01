@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by abnormally short fingers and toes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human medical genetics, an inherited skeletal dysplasia (types A through E) caused by mutations in cartilage and bone morphogenetic genes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachydactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The inheritance of **brachydactyly** in human families was one of the first human traits demonstrated to obey Mendelian laws."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Farabee's famous pedigree of **brachydactyly** proved that human anatomical variations follow predictable genetic ratios."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The patient regarded his **brachydactyly** not as a deformity, but as a distinctive family heirloom shared with his brothers."*

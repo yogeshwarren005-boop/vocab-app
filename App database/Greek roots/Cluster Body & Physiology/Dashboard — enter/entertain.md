@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide entertainment for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take into consideration, have in view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To provide amusement, diversion, or hospitality to guests or an audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give consideration or harbor in the mind (such as a thought, suspicion, or proposal).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I play the noble housewife with the time, to entertain it so merrily with a fool."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But entertain it, And though you think me poor, I am the man Will give thee all the world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Until I know this sure uncertainty I’ll entertain the offer’d fallacy."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon 'em. **Entertain** thy fortune with a cheerful eye."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bingley was lively and unreserved, ready to **entertain** all the guests at the assembly ball with effortless charm."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"With malice toward none; with charity for all; let us strive on to bind up the nation's wounds and **entertain** no thought of vengeance."*

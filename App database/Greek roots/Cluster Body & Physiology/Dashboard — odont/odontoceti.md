@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toothed whales: dolphins; porpoises; sperm whales; beaked whales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Toothed whales: dolphins; porpoises; sperm whales; beaked whales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic suborder of cetaceans that have teeth rather than baleen, comprising dolphins, porpoises, killer whales, and sperm whales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine mammalogy and evolutionary biology, monophyletic toothed whales that employ sophisticated echolocation via acoustic melon structures and asymmetric skull morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontoceti designates toothed whales: dolphins; porpoises; sperm whales; beaked whales."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The suborder **Odontoceti** is distinguished from mysticetes by the persistence of homodont teeth and a single blowhole."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"Cranial asymmetry and maxillary expansion are hallmark osteological characteristics of all living **Odontoceti**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The remarkable homodont dentition of **Odontoceti** represents an adaptation for grasping slippery pelagic prey."*

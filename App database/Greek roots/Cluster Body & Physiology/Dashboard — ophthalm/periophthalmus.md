@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of gobiidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of gobiidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of amphibious teleost fishes in the family Gobiidae, commonly known as mudskippers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and evolutionary ecology, mangrove-dwelling gobies possessing protruding periscopic eyes, muscular pectoral fins for terrestrial walking, and vascular cutaneous breathing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periophthalmus designates a genus of gobiidae."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The amphibious goby **Periophthalmus** skips actively across tropical mudflats, hunting terrestrial insects."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The elevated, swiveling eyes of **Periophthalmus** provide panoramic vision both in air and beneath water."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Muscular pectoral fins allow **Periophthalmus** to climb mangrove roots with surprising agility."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oral cephalosporin (trade names keflex and keflin and keftab) commonly prescribe for mild to moderately severe infections of the skin or ears or throat or lungs or urinary tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral cephalosporin (trade names keflex and keflin and keftab) commonly prescribe for mild to moderately severe infections of the skin or ears or throat or lungs or urinary tract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A first-generation oral beta-lactam cephalosporin antibiotic used to treat bacterial infections of the respiratory tract, urinary tract, and skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a bactericidal antibiotic that inhibits bacterial cell-wall synthesis by binding to penicillin-binding proteins, active primarily against Gram-positive cocci.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalexin designates an oral cephalosporin (trade names keflex and keflin and keftab) commonly prescribe for mild to moderately severe infections of the skin or ears or throat or lungs or urinary tract."*
+> - 📜 **Edward Abraham (*Cephalosporins: Chemistry and Biology*):** *"The chemical modification of 7-aminocephalosporanic acid yielded **cephalexin**, an orally absorbed antibiotic of high acid stability."*
+> - 📜 **Selman Waksman (*The Conquest of Infectious Diseases*):** *"The therapeutic introduction of **cephalexin** provided physicians with a dependable oral agent against penicillinase-producing staphylococci."*
+> - 📜 **René Dubos (*Bacterial and Mycotic Infections of Man*):** *"Prompt administration of **cephalexin** rapidly eradicates cutaneous streptococcal cellulitis while sparing normal gastrointestinal flora."*

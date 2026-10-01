@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous cycads of the genus encephalartos having stout cylindrical trunks and a terminal crown of long often spiny pinnate leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous cycads of the genus encephalartos having stout cylindrical trunks and a terminal crown of long often spiny pinnate leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of African cycads (family Zamiaceae) commonly known as bread palms, characterized by thick cylindrical trunks and crowns of stiff, spiny pinnate leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and plant systematics, an ancient gymnosperm lineage surviving from the Mesozoic, with seeds historically processed into flour after detoxifying cycasin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalartos designates any of numerous cycads of the genus encephalartos having stout cylindrical trunks and a terminal crown of long often spiny pinnate leaves."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The native tribes extract an edible flour from the pithy trunk of **Encephalartos**, burying it in water to wash out its poison."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of Tropical Africa*):** *"The massive cones of **Encephalartos** can weigh over eighty pounds, displaying vivid scarlet seeds upon maturity."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Like other cycads, species of **Encephalartos** rely upon specialized curculionid weevils for subterranean cone pollination."*

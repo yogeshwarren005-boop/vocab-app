@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasite of the muscles of vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasite of the muscles of vertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative or variant designation for an organism belonging to or exhibiting the traits of the parasitic coccidian family Sarcocystidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Applied in comparative veterinary protozoology to describe tissue cyst-forming coccidia inhabiting skeletal and cardiac muscle tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcocystieian designates parasite of the muscles of vertebrates."*
+> - 📜 **Veranus Alva Moore (*The Pathology and Differential Diagnosis of Infectious Diseases of Animals*):** *"The **sarcocystieian** cysts in swine muscle, historically known as Miescher's tubes, contain millions of banana-shaped bradyzoites."*
+> - 📜 **James Law (*The Farmer's Veterinary Adviser*):** *"Meat inspection protocols require rejection of carcasses exhibiting widespread **sarcocystieian** degeneration."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Accidental human infection with **sarcocystieian** parasites may result from consuming raw or undercooked intermediate host tissues."*

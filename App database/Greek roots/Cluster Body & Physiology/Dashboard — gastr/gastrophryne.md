@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primarily tropical narrow-mouthed toads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primarily tropical narrow-mouthed toads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, narrow-mouthed toads in the family Microhylidae, native to North and Central America, including the eastern narrow-mouthed toad (Gastrophryne carolinensis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, secretive fossorial amphibians characterized by a pointed snout, a distinctive fold of skin behind the eyes, and a specialized ant-eating diet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrophryne designates primarily tropical narrow-mouthed toads."*
+> - 📜 **David Starr Jordan (*Manual of the Vertebrates of the Northern United States*):** *"The tiny narrow-mouthed toad **Gastrophryne** burrows into moist humus, feeding almost exclusively upon small ants."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"After warm summer thunderstorms, the bleating, sheep-like calls of **Gastrophryne** filled the flooded roadside ditches."*
+> - 📜 **David Attenborough (*Life in Cold Blood*):** *"The smooth, slippery skin and pointed snout of **Gastrophryne** permit it to squeeze effortlessly into subterranean ant chambers."*

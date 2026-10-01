@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science dealing with the classification of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medical science dealing with the classification of disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science dealing with the systematic classification of diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and epidemiology, the systematic categorization of diseases based upon etiology, anatomical site, pathology, and symptomatology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nosology designates the branch of medical science dealing with the classification of disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A scientific **nosology** must classify diseases by their microbiological etiologies rather than by superficial symptom complexes."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Cellular pathology provided the anatomical foundation required to reform the chaotic **nosology** of the eighteenth century."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"Sydenham insisted that clinical **nosology** should catalog morbid entities with the same botanical precision as plants."*

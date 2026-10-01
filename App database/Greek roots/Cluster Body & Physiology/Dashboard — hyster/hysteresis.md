@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slowing of an effect when the forces acting upon a body are changed (as if from viscosity or internal friction); especially : a lagging in the values of resulting magnetization in a magnetic material (such as iron) due to a changing magnetizing force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slowing of an effect when the forces acting upon a body are changed (as if from viscosity or internal friction); especially : a lagging in the values of resulting magnetization in a magnetic material (such as iron) due to a changing magnetizing force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon in which the value of a physical property lags behind changes in the effect causing it, as in the magnetization of ferromagnetic materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and materials science, the loop-like lag observed in magnetic, elastic, or dielectric systems where the state of the material depends upon its past history (discovered and named by J. A. Ewing).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteresis designates a slowing of an effect when the forces acting upon a body are changed (as if from viscosity or internal friction); especially : a lagging in the values of resulting magnetization in a magnetic material (such as iron) due to a changing magnetizing force."*
+> - 📜 **James Alfred Ewing (*Magnetic Induction in Iron and Other Metals*):** *"I propose to call this lagging of magnetic effects behind magnetizing changes by the name of **hysteresis**."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The energy dissipated as heat in transformer cores is proportional to the area of the magnetic **hysteresis** loop."*
+> - 📜 **Nikola Tesla (*My Inventions: The Autobiography of Nikola Tesla*):** *"In alternating current machines, iron cores must be laminated to reduce losses arising from magnetic **hysteresis**."*

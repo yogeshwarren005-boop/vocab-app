@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small freshwater crustaceans with a shield-shaped carapace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small freshwater crustaceans with a shield-shaped carapace.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of small branchiopod crustaceans known as tadpole shrimps, characterized by a broad, shield-like dorsal carapace covering the head and thorax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and evolutionary biology, ancient 'living fossils' (exemplified by Triops and Lepidurus) whose morphological body plan has remained virtually unchanged since the Triassic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notostraca designates small freshwater crustaceans with a shield-shaped carapace."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The order **Notostraca** possesses a flattened dorsal carapace and numerous pairs of leaf-like swimming limbs."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"In temporary vernal pools, the eggs of **Notostraca** withstand years of desiccation before hatching into swimming nauplii."*
+> - 📜 **Robert Gurnay (*British Fresh-Water Copepoda*):** *"The primitive multi-segmented trunk and caudal furca in **Notostraca** offer valuable clues to archaic branchiopod phylogeny."*

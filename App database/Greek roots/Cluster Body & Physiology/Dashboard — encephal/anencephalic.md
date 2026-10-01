@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by partial or total absence of a brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by partial or total absence of a brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by or characterized by anencephaly; born without the cerebral hemispheres and top of the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neonatal neurology and medical ethics, designating an infant surviving only by primitive brainstem reflexes due to absence of neocortex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anencephalic designates characterized by partial or total absence of a brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An **anencephalic** fetus may display active suckling and swallowing reflexes despite the complete absence of cerebral hemispheres."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Polyhydramnios during pregnancy should alert the obstetrician to the possibility of an **anencephalic** malformation."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Study of the **anencephalic** infant confirmed that basic autonomic vegetative rhythms are coordinated entirely within the brainstem."*

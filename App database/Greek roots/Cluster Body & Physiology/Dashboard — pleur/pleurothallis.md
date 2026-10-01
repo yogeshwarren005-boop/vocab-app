@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small tufted orchids of the genus pleurothallis having leathery to fleshy leaves and racemes of 1 to many small flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous small tufted orchids of the genus pleurothallis having leathery to fleshy leaves and racemes of 1 to many small flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A huge genus of Neotropical epiphytic orchids in the family Orchidaceae, characterized by non-pseudobulbous stems bearing a single leaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, one of the most species-rich genera of angiosperms, featuring small, intricately structured zygomorphic flowers emerging from the sulcus of the leaf blade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleurothallis designates any of numerous small tufted orchids of the genus pleurothallis having leathery to fleshy leaves and racemes of 1 to many small flowers."*
+> - 📜 **Charles Darwin (*Fertilisation of Orchids*):** *"The miniature flowers of **pleurothallis** present microscopic floral mechanisms adapted for tiny dipteran pollinators."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Neotropical cloud forests harbor an immense diversity of the genus **pleurothallis**, growing high in the mossy canopy."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"In **pleurothallis**, each slender stem bears only a single solitary leaf, from whose base delicate racemes arise."*

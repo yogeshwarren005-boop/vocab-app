@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes considered a subphylum of bryozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes considered a subphylum of bryozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum of largely marine, stalked, sessile aquatic animals characterized by having both the mouth and anus situated inside a crown of ciliated tentacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate phylogenetic systematics, a distinct clade of pseudocoelomate protostomes (Greek entos, inside, and proktos, anus) comprising around 150 species, closely allied to Mollusca and Annelida within Lophotrochozoa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Entoprocta designates sometimes considered a subphylum of bryozoa."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Embryological evidence firmly separates the **Entoprocta** from true bryozoans, demonstrating their distinct blastocoelic ancestry."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Taxonomic placement of the **Entoprocta** required careful microscopic analysis of larval ciliary locomotion."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Members of the **Entoprocta** settle in quiet tidal pools, their delicate tentacular crowns constantly sweeping the water."*

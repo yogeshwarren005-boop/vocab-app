@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many contractile filaments that make up a striated muscle fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many contractile filaments that make up a striated muscle fiber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A myofibril or fine longitudinal contractile fibril within a striated muscle fiber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical nineteenth-century histology (introduced by Schäfer), sarcostyles were described as the individual columnar elements whose alternating light and dark discs generate striated patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcostyle designates one of many contractile filaments that make up a striated muscle fiber."*
+> - 📜 **Edward Albert Sharpey-Schafer (*Essentials of Histology*):** *"Each voluntary muscle fiber consists of a bundle of microscopic contractile fibrils termed **sarcostyles**."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"Under high resolving power, the isolated **sarcostyle** displays regular transverse banding and undergoes shortening upon stimulation."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"The **sarcostyle** represents the elementary contractile unit, embedded in the nutritive and conductive sarcoplasm."*

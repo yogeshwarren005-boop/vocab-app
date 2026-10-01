@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek proct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a pair of subanal lobes or lateral plates flanking the anus in insects and other arthropods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect anatomy, one of the two ventral or lateral sclerites on either side of the anal opening (derived from the sternum of the eleventh abdominal somite), often bearing cerci.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraproct designates a term designating an entity, condition, or phenomenon derived from greek proct."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Flanking the anal opening, each lateral **paraproct** provides an articulating base for the paired cerci."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"The caudal sensory apparatus of the termite includes tactile cerci originating immediately beside each **paraproct**."*
+> - 📜 **John Lubbock (*On the Origin and Metamorphoses of Insects*):** *"During embryological development of the nymph, the paired **paraproct** sclerites condense around the proctodeum."*

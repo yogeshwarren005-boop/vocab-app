@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical division or taxonomic class comprising all flowering plants whose ovules are enclosed within an ovary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetics, the dominant terrestrial plant radiation encompassing monocots, eudicots, and basal magnoliids, comprising over 300,000 extant species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiospermae designates comprising flowering plants that produce seeds enclosed in an ovary; in some systems considered a class (angiospermae) and in others a division (magnoliophyta or anthophyta)."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"We contrast the Gymnospermae with the vast division **angiospermae**, wherein the seed matures within a sealed pericarp."*
+> - 📜 **Julius von Sachs (*History of Botany*):** *"The triumph of the **angiospermae** during the Cretaceous reshaped the entire terrestrial biosphere and spurred insect evolution."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The vascular efficiency of vessel elements gave the **angiospermae** decisive competitive advantages over archaic gymnosperm forests."*

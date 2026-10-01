@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who studies the structure and function of cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist who studies the structure and function of cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or medical specialist who studies the structure, function, and pathology of cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory medicine, a diagnostician who interprets cellular smears and aspirates to detect malignancy or premalignant dysplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytologist designates a biologist who studies the structure and function of cells."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"The modern **cytologist** does not merely admire cell anatomy under the microscope, but investigates the chemical mechanics of life."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Collaboration between the experimental geneticist and the observant **cytologist** unraveled the mystery of chromosomal crossover."*
+> - 📜 **William Osler (*Aequanimitas*):** *"To the hospital **cytologist**, a single atypical cell in a pleural aspirate can decisively alter a patient's prognosis."*

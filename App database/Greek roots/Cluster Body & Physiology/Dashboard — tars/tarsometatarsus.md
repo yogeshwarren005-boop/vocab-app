@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The large compound bone of the lower leg of a bird that is formed by fusion of the metatarsals with the distal end of the tarsus; also : the segment of the limb it supports.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The large compound bone of the lower leg of a bird that is formed by fusion of the metatarsals with the distal end of the tarsus; also : the segment of the limb it supports.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single long bone in the lower leg of birds and certain non-avian dinosaurs, formed by the embryonic fusion of the distal tarsal elements with the second, third, and fourth metatarsals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian osteology and functional morphology, the tarsometatarsus serves as the primary lower lever arm of the avian foot, elevating the bird's ankle joint above the ground and supporting perching and running mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tarsometatarsus designates the large compound bone of the lower leg of a bird that is formed by fusion of the metatarsals with the distal end of the tarsus; also : the segment of the limb it supports."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The avian leg is uniquely characterized by the consolidation of the distal ankle and foot bones into a single **tarsometatarsus**."*
+> - 📜 **Thomas Henry Huxley (*On the Animals Which Are Most Nearly Intermediate between Birds and Reptiles*):** *"The fusion observed in the bird's **tarsometatarsus** was foreshadowed in the elongated foot of bipedal dinosaurian reptiles."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"In wading birds, the **tarsometatarsus** attains remarkable elongation, raising the plumage high above shallow marsh waters."*

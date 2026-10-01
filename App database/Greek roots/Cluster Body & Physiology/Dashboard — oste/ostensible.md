@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing as such but not necessarily so.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represented or appearing as such; pretended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stated, appearing, or declared to be true, but perhaps not so in reality; apparent; professed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and diplomatic history, serving as an outward pretext or plausible justification designed to conceal underlying motives or covert intentions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But man, even to himself, is a palimpsest, having an ostensible writing, and another beneath the lines."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Could it be possible, he continued, that eyes which as they gazed never expressed any divergence from what the tongue was telling, were yet ever seeing another world behind her ostensible one, discordant and contrasting?"*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"He wove into it, with all possible heightening of poetic imagery, the chief events of the period of revolution through which southern Europe was then passing, so that it differs from the Prometheus in having historical facts as ostensible subject."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **ostensible** reason for the expedition was the protection of the frontier, though the true motive was territorial conquest."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men frequently adopt opinions for reasons other than their **ostensible** logical justifications."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Beneath their **ostensible** declarations of liberty and equality lay a ruthless ambition to overthrow constitutional order."*

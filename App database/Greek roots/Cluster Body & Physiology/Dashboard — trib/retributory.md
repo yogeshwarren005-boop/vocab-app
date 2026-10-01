@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having the nature of retribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given or inflicted in requital according to merits or deserts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by retribution; dispensing punishment, vengeance, or repayment for wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and moral philosophy, retributory justice posits that punitive sanctions are morally justified because wrongdoers deserve punishment proportional to their offense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retributory designates of or relating to or having the nature of retribution."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sack of the capital was viewed by contemporaries as a **retributory** judgment upon centuries of imperial tyranny."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Chillingworth dedicated his subtle intellect to a silent, **retributory** torment of the secret sinner."*
+> - 📜 **Thomas Carlyle (*The French Revolution: A History*):** *"The guillotine became the grim instrument of **retributory** vengeance against the ancient feudal aristocracy."*

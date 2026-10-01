@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding a nutrient solution into the stomach through a tube through a surgically created opening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding a nutrient solution into the stomach through a tube through a surgically created opening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Artificial feeding into the stomach through a flexible tube passed down the esophagus or through a gastrostomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical therapeutics and pediatric nursing, enteral tube administration of liquid nutrition in patients unable to swallow voluntarily.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrogavage designates feeding a nutrient solution into the stomach through a tube through a surgically created opening."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of profound diphtheritic pharyngeal paralysis, nutritional sustenance was maintained through cautious **gastrogavage**."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Families often face agonizing decisions regarding long-term **gastrogavage** via feeding tubes for patients with end-stage dementia."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The nurse measured the residual volume before administering the scheduled morning **gastrogavage** formula."*

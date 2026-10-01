@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood cell especially of an invertebrate animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blood cell especially of an invertebrate animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood cell, especially an invertebrate blood or hemolymph amoebocyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative immunology, any circulating mobile cellular element of invertebrate hemolymph that participates in phagocytosis, encapsulation, melanization, and wound repair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemocyte designates a blood cell especially of an invertebrate animal."*
+> - 📜 **Élie Metchnikoff (*Immunity in Infective Diseases*):** *"When foreign fungal spores penetrate the daphnia's body cavity, every wandering **hemocyte** rushes forward to engulf and digest the invader."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Microscopic examination of fresh insect lymph reveals nucleated, amoeboid corpuscles, each functioning as a protective **hemocyte**."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The clotting of crustacean hemolymph is initiated by the explosive rupture of a specialized phagocytic **hemocyte**."*

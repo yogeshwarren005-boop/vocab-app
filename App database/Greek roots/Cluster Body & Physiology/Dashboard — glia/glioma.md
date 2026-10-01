@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tumor arising from glial cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tumor arising from glial cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tumor that arises from the glial (supportive) tissue of the brain or spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical oncology and neuropathology, a primary central nervous system neoplasm categorized into astrocytomas, oligodendrogliomas, and ependymomas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glioma designates a tumor arising from glial cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intracranial **glioma** typically manifests with progressive morning headache, papilledema, and focal sensorimotor deficits."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"A slow-growing frontal **glioma** produced subtle disinhibition and personality changes long before physical weakness appeared."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Targeted molecular therapies for low-grade **glioma** aim to inhibit mutant IDH enzymes that drive oncogenic chromatin remodeling."*

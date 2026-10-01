@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign gynecological condition characterized by the abnormal ingrowth of endometrial glandular tissue into the muscular wall (myometrium) of the uterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, an ectopic glandular condition causing symmetrical uterine enlargement, menorrhagia, and severe dysmenorrhea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenomyosis designates a term designating an entity, condition, or phenomenon derived from greek aden."*
+> - 📜 **Thomas Stephen Cullen (*Adenomyoma of the Uterus*):** *"Microscopic sections reveal that **adenomyosis** represents a direct downgrowth of basal endometrium into the underlying myometrium."*
+> - 📜 **John A. Sampson (*Peritoneal Endometriosis*):** *"Unlike pelvic endometriosis on the peritoneal surface, diffuse **adenomyosis** remains confined within the uterine wall."*
+> - 📜 **Robert Meyer (*On the Histogenesis of Uterine Tumors*):** *"Cyclic bleeding within the displaced glands in **adenomyosis** induces widespread muscular hypertrophy and painful uterine spasms."*

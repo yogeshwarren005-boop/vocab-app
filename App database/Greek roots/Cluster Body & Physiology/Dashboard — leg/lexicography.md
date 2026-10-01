@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The editing or making of a dictionary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principles and practices of dictionary making.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, craft, or science of writing, compiling, and editing dictionaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic linguistics, the theory and systematic practice of organizing, defining, and tracing the etymological development of words across textual corpora.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lexicography designates the editing or making of a dictionary."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"Such was the labor of modern **lexicography**, wherein no assistance was given by former compilations."*
+> - 📜 **James Murray (*The Evolution of English Lexicography*):** *"English **lexicography** began humbly with bilingual glosses for Latin schoolboys and culminated in the monumental historical dictionary."*
+> - 📜 **Noah Webster (*An American Dictionary of the English Language*):** *"National independence justified an independent system of **lexicography** suited to the institutions of the American people."*

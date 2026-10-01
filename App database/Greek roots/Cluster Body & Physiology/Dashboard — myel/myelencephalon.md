@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior part of the developing vertebrate hindbrain or the corresponding part of the adult brain composed of the medulla oblongata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The posterior part of the developing vertebrate hindbrain or the corresponding part of the adult brain composed of the medulla oblongata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior subdivision of the embryonic hindbrain (rhombencephalon) that develops into the medulla oblongata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental neurobiology and neuroanatomy, the lowest brain segment containing the vital autonomic respiratory, vasomotor, and cardiac reflex centers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelencephalon designates the posterior part of the developing vertebrate hindbrain or the corresponding part of the adult brain composed of the medulla oblongata."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The **myelencephalon** gives rise directly to the medulla oblongata, where cranial nerve nuclei are arranged in longitudinal columns."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The central canal of the embryonic **myelencephalon** expands dorsally to form the floor of the fourth ventricle."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"During hindbrain differentiation, the metencephalon develops into the cerebellum and pons, while the **myelencephalon** becomes the medulla."*

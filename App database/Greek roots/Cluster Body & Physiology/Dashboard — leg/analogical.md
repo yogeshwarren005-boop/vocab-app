@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or based on analogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing or implying analogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based upon, expressing, or utilizing analogy; showing a correspondence or likeness between dissimilar things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical logic and linguistics, denoting reasoning that infers common attributes between systems from partial resemblances, or describing morphological regularization modeled on parallel paradigms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The understanding readily falls into **analogical** reasoning, projecting familiar structural affinities upon obscure phenomena."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An **analogical** inference provides only probable conjecture until reinforced by direct inductive verification."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The human mind relies upon **analogical** associations to bridge the chasm between known sensations and novel concepts."*

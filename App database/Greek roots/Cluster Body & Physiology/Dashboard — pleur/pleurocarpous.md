@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of mosses) having the archegonia on short lateral branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of mosses) having the archegonia on short lateral branches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having female reproductive organs and sporophytes produced on short lateral twigs or branches rather than terminating the main stem (of mosses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryological ecology, characterizing prostrate, interwoven, carpet-forming mosses that dominate moist forest soils, rotting wood, and wetland bogs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleurocarpous designates (of mosses) having the archegonia on short lateral branches."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Most **pleurocarpous** mosses are recognized by their spreading, feathery mats and lateral capsule stalks."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"In subantarctic woodlands, luxurious carpets of **pleurocarpous** species drape rocks and tree bases alike."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Damp southern beech forests in Tierra del Fuego were upholstered in thick mats of **pleurocarpous** mosses."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophthalm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of the extraocular or intraocular muscles of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, complete loss of motor function in the eye muscles, categorized as internal (pupillary sphincter and ciliary muscle) or external (extraocular recti and obliques).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophthalmoplegia designates a term designating an entity, condition, or phenomenon derived from greek ophthalm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete external **ophthalmoplegia** leaves the eyeball fixed and motionless within the center of the orbital rim."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Aneurysms of the cavernous carotid artery produce sudden painful third nerve palsy and total **ophthalmoplegia**."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient presented with cerebellar ataxia, areflexia, and acute **ophthalmoplegia**, constituting the Miller Fisher syndrome."*

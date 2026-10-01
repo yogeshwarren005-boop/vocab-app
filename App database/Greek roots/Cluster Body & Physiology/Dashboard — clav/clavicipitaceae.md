@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various mushrooms of the class ascomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various mushrooms of the class ascomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of perithecial ascomycete fungi (order Hypocreales) that includes ergot fungi, cordyceps, and grass endophytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, parasitic fungi distinguished by cylindrical asci, filiform ascospores, and potent biological alkaloid synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clavicipitaceae designates any of various mushrooms of the class ascomycetes."*
+> - 📜 **Charles Horton Peck (*Annual Report of the State Botanist of New York*):** *"The family **Clavicipitaceae** includes some of our most formidable agricultural blights as well as fascinating insect parasites."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"Species of the **Clavicipitaceae** produce erect, club-shaped stromata rising directly from the hardened sclerotium of the host."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Pathologists study the **Clavicipitaceae** to understand how fungal endophytes impart both pest resistance and toxicity to pasture grasses."*

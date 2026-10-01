@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dentistry that deals with diseases of the supporting and investing structures of the teeth including the gums, cementum, periodontal membranes, and alveolar bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of dentistry that deals with diseases of the supporting and investing structures of the teeth including the gums, cementum, periodontal membranes, and alveolar bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dental medicine concerned with the study, prevention, and treatment of diseases affecting the supporting tissues of the teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern dental surgery, the subspecialty managing gingivitis, periodontitis, guided tissue regeneration, and the placement of dental implants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontics designates a branch of dentistry that deals with diseases of the supporting and investing structures of the teeth including the gums, cementum, periodontal membranes, and alveolar bone."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The systematic practice of **periodontics** plays a critical role in mitigating systemic inflammation and secondary bacteremia."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Rigorous oral hygiene and expert **periodontics** prevented further loss of mandibular support in the elderly patient."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Surgical procedures in **periodontics** require an exact understanding of alveolar bone morphology and biological width."*

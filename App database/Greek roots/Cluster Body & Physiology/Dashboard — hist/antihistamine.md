@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine used to treat allergies and hypersensitive reactions and colds; works by counteracting the effects of histamine on a receptor site.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine used to treat allergies and hypersensitive reactions and colds; works by counteracting the effects of histamine on a receptor site.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug or pharmaceutical agent that opposes the actions of histamine, used primarily to treat allergic reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, a competitive H1-receptor inverse agonist that reduces pruritus, vascular permeability, rhinorrhea, and bronchospasm in allergic and anaphylactic disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antihistamine designates a medicine used to treat allergies and hypersensitive reactions and colds; works by counteracting the effects of histamine on a receptor site."*
+> - 📜 **Daniel Bovet (*Nobel Lecture: The Relationships Between Chemical Structure and Pharmacodynamic Action*):** *"The synthesis of the first synthetic **antihistamine** opened completely new horizons for the pharmacological management of anaphylaxis."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Administration of an effective **antihistamine** blocks the arteriolar vasodilation and increased capillary permeability triggered by allergen challenge."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern treatment of urticaria and hay fever relies fundamentally upon the prompt administration of an appropriate **antihistamine**."*

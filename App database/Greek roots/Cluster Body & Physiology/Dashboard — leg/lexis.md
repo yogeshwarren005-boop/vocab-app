@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: lexicon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: lexicon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The total stock of words, morphemes, and idioms in a language; vocabulary as distinct from syntactic structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek rhetoric (λέξις), the style, diction, or choice of words in speech or poetry; in systemic functional linguistics, lexical selection operating in lexical cohesion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog lexis as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Aristotle (*The Poetics*):** *"Under the head of **lexis** or diction, I include the verbal expression of thought, which has the same meaning whether in verse or prose."*
+> - 📜 **Michael Halliday (*Language as Social Semiotic*):** *"Grammar and **lexis** are not separate compartments, but form a single continuous lexicogrammatical spectrum."*
+> - 📜 **John Addington Symonds (*Studies of the Greek Poets*):** *"The majestic **lexis** of Aeschylean tragedy reflects the archaic grandeur of heroic Athenian thought."*

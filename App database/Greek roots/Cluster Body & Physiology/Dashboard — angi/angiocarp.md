@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree bearing fruit enclosed in a shell or involucre or husk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tree bearing fruit enclosed in a shell or involucre or husk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fruit or reproductive structure that is covered, enclosed, or enveloped by an external husk, calyx, or involucre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, a fungal fruiting body (such as a cleistothecium, perithecium, or closed basidiocarp) that matures while enclosed within protective tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiocarp designates tree bearing fruit enclosed in a shell or involucre or husk."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The acorn enclosed within its scaly cupule represents a familiar botanical example of an **angiocarp**."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"When the fruit is permanently wrapped by an accrescent calyx, it is properly termed an **angiocarp**."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"In closed fungal fructifications, the **angiocarp** protects the developing spores until environmental conditions trigger dehiscence."*

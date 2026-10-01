@@ -43,7 +43,9 @@ dv.container.appendChild(toggle);
 
 > [!book] 📖 Definitions & Semantic Range
 > 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the spinal cord or of the bone marrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serious, rare, neurological condition of sudden onset chiefly affecting young children that causes inflammation of the gray matter of the spinal cord, results in severe, sometimes permanent weakness and loss of muscle tone especially of the arms or legs, and is often preceded by a viral respiratory illness or fever —abbreviation AFM.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, an acute inflammatory disorder affecting the gray and white matter of the spinal cord (such as transverse myelitis), causing sensorimotor paraplegia and autonomic dysfunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelitis designates inflammation of the spinal cord or of the bone marrow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute transverse **myelitis** develops with rapid onset of motor paralysis, sensory dissociation, and loss of sphincter control."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"The onset of severe spinal **myelitis** is frequently preceded by girdling abdominal pain."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Focal necrotic lesions in acute **myelitis** disrupt the ascending sensory and descending motor pathways of the cord."*

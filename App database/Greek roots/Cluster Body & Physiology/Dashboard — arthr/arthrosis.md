@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An articulation between bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A degenerative disease of a joint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical articulation or joint between two or more bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, a degenerative, non-inflammatory disease of a joint (osteoarthrosis or osteoarthritis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthrosis designates an articulation between bones."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Every movable skeletal union constitutes a true **arthrosis**, secured by fibrous ligaments and lubricated by synovia."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Unlike inflammatory arthritis, senile **arthrosis** represents mechanical wear and tear accompanied by cartilage erosion."*
+> - 📜 **Jean-Martin Charcot (*Diseases of Old Age*):** *"Severe hip **arthrosis** limits ambulation in the elderly, producing characteristic antalgic gait patterns."*

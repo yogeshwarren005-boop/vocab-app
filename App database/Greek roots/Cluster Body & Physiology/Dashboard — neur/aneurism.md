@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cardiovascular disease characterized by a saclike widening of an artery resulting from weakening of the artery wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cardiovascular disease characterized by a saclike widening of an artery resulting from weakening of the artery wall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic spelling of aneurysm, signifying a localized abnormal dilatation of an artery resulting from weakness in the vessel wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical surgery and morbid anatomy, a pulsating arterial tumor caused by rupture or expansion of the muscular tunics of an arterial trunk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Hearts palpitated, fearfully preparing themselves for future incurable aneurism."*
+> - 📜 **John Hunter (*Lectures on the Principles of Surgery*):** *"In the treatment of popliteal **aneurism**, I recommended tying the femoral artery in the sound part above the sac."*
+> - 📜 **Astley Cooper (*The Anatomy and Surgical Treatment of Abdominal Hernia and Aneurism*):** *"A pulsating tumour in the groin affords unmistakable evidence of an inguinal **aneurism** demanding surgical ligature."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Thoracic **aneurism** frequently reveals itself by pressure upon the recurrent laryngeal nerve, causing hoarseness and brassy cough."*

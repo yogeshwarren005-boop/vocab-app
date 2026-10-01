@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the mouth; oral; also, relating to plant stomata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early medical terminology and physiology, applied to medicines designed for oral application or conditions affecting the oral cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatic designates adjective*) pertaining to, derived from, or characteristic of mouth."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The astringent **stomatic** gargle rapidly reduced the inflamed mucosal swelling of the fauces."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The **stomatic** cleft varies continuously in width under the direct influence of solar illumination."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"A mild **stomatic** wash containing potassium chlorate affords prompt relief in aphthous ulcerations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing or affecting blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing or affecting blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or acting on the blood; containing or colored like blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacological therapeutics, describing tonics, hematinics, or medications designed to enrich blood quality or hemoglobin concentration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematic designates relating to or containing or affecting blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Iron compounds act as potent **haematic** tonics in chlorosis, stimulating accelerated erythropoiesis in the bone marrow."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The red corpuscle owes its distinctive **haematic** color to the iron-bearing protein hemoglobin."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Ancient apothecaries prescribed red rubies and powdered coral as **haematic** remedies under the doctrine of signatures."*

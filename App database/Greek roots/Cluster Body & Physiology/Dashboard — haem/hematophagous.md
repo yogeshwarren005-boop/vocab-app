@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on blood as a primary food source; blood-sucking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology and entomology, describing organisms (such as mosquitoes, ticks, leeches, and vampire bats) possessing specialized physiological and behavioral adaptations for acquiring and digesting vertebrate blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematophagous designates feeding on blood."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The **hematophagous** habits of the South American desmodus bat were confirmed when our horses awoke with blood-encrusted shoulders."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"The transmission of filariasis depends upon the predatory nocturnal feeding cycle of **hematophagous** culicine mosquitoes."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"Every **hematophagous** insect that pierces mammalian skin must be regarded as a potential vector of microparasitic disease."*

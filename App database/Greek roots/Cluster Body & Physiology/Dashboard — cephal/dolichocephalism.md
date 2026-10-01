@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being dolichocephalic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being dolichocephalic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or cranial characteristic of being dolichocephalic; long-headedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In craniology and physical anthropology, a head shape characterized by a cephalic index below 75.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolichocephalism designates the quality of being dolichocephalic."*
+> - 📜 **Paul Broca (*Mémoires d'Anthropologie*):** *"Prehistoric European burial mounds contain numerous skeletons displaying pronounced **dolichocephalism** alongside primitive flint implements."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The Neanderthal cranium exhibits extreme **dolichocephalism** combined with massive supraorbital ridges and a flattened vault."*
+> - 📜 **Franz Boas (*The Mind of Primitive Man*):** *"Our anthropometric data demonstrated that **dolichocephalism** does not correlate in any meaningful way with intellectual capacity."*

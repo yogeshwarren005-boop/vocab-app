@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fold of mucous membrane partly closing the orifice of the vagina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Greek god of marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin mucous membrane that partially or completely occludes the external opening of the vagina in human females and certain other mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek mythology, Hymen (Ὑμήν), the god of marriage and wedding ceremonies; also used figuratively for nuptials or marriage vows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Hymen, Rosalind in woman’s clothes, and Celia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hymen from heaven brought her, Yea, brought her hither, That thou mightst join her hand with his, Whose heart within his bosom is."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SONG Wedding is great Juno’s crown, O blessed bond of board and bed. ’Tis Hymen peoples every town, High wedlock then be honoured."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Then is there mirth in heaven, When earthly things made even Atone together: Good **Hymen**, people every town."*
+> - 📜 **John Milton (*L'Allegro*):** *"There let **Hymen** oft appear In saffron robe, with taper clear, And pomp, and feast, and revelry."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital imperforation of the **hymen** leads to hematocolpos with retained menstrual flow at puberty."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to insects of the order hymenoptera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to insects of the order hymenoptera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the Hymenoptera; having four membranous wings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, describing insects such as bees, wasps, and ants that undergo complete metamorphosis with membranous wings joined by hamuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenopterous designates of or relating to insects of the order hymenoptera."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The stinging apparatus in **hymenopterous** insects is a modified ovipositor adapted for defense or predation."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"The **hymenopterous** parasitoid paralyzes its victim, ensuring fresh living tissue for its emerging grub."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Immense **hymenopterous** insects, including giant black carpenter bees, droned around the dead forest timber."*

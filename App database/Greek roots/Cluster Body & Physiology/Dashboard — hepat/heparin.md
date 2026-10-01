@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mucopolysaccharide sulfuric acid ester that is found especially in the liver and lungs, that prolongs the clotting time of blood, and that is used medically in the form of its sodium salt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mucopolysaccharide sulfuric acid ester that is found especially in the liver and lungs, that prolongs the clotting time of blood, and that is used medically in the form of its sodium salt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring glycosaminoglycan anticoagulant produced by mast cells and basophils, used medically to prevent and treat thrombosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and hematology, an unbranched sulfated polysaccharide that binds to and exponentially accelerates the inhibitory activity of antithrombin III against thrombin and factor Xa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heparin designates a mucopolysaccharide sulfuric acid ester that is found especially in the liver and lungs, that prolongs the clotting time of blood, and that is used medically in the form of its sodium salt."*
+> - 📜 **William Henry Howell (*The Harvey Lectures*):** *"Because this potent physiological anticoagulant was first extracted in quantity from canine liver tissue, we designated it **heparin**."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Therapeutic **heparin** administration immediately prolongs the partial thromboplastin time by neutralizing active coagulation proteases."*
+> - 📜 **Alexis Carrel (*The Treatment of Infected Wounds*):** *"The introduction of pure **heparin** during vascular suturing dramatically reduced the risk of intraluminal platelet thrombus formation."*

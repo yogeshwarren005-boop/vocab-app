@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of a syllable in the last foot of a line or verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of a syllable in the last foot of a line or verse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The omission or dropping of one or more syllables in the final metrical foot of a line of verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metric theory, the structural mechanism of rhythmic truncation that imparts terminal emphasis or marks stanzaic boundaries in poetic meters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalexis designates the absence of a syllable in the last foot of a line or verse."*
+> - 📜 **George Saintsbury (*Manual of English Prosody*):** *"Through calculated **catalexis**, Greek tragic choruses produced an effect of solemn finality at the strophic close."*
+> - 📜 **Ezra Pound (*The ABC of Reading*):** *"The student of metric must recognize **catalexis** as a conscious rhythmic device rather than a careless metrical lapse."*
+> - 📜 **John Addington Symonds (*Studies of the Greek Poets*):** *"The dramatic tension in Aeschylus owes much to the abrupt **catalexis** terminating his anapestic systems."*

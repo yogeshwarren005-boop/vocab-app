@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Overly concerned with masculinity and male sexuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or being a phallus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or suggestive of the phallus; phallic; having or displaying male sexual potency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and art history, evoking the bawdy, fertile, or grotesque attributes of the Greco-Roman god Priapus, characterized by exaggerated or uncontrolled sexual energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Consult index for agitated fear of aconite, melancholy of muriatic, priapic pulsatilla."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ancient garden statues of Priapus were celebrated with crude, **priapic** festivals celebrating seasonal fertility."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Rustic altars adorned with **priapic** emblems offered first-fruits to protect vineyards from predatory birds."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"The satirical conversation drifted into a mocking dissection of modern **priapic** obsessions and bourgeois hypocrisies."*

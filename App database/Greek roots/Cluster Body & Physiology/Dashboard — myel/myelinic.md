@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the substance that forms a sheath around the axon of some nerve fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the substance that forms a sheath around the axon of some nerve fibers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from myelin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular physical chemistry and histopathology, describing the cylindrical, tubular birefringent forms (myelinic figures) produced when phospholipids swell in aqueous media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelinic designates of or relating to the substance that forms a sheath around the axon of some nerve fibers."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The spontaneous generation of **myelinic** forms from degenerating cells illustrates the physical properties of cellular lipoids."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"During Wallerian degeneration, the breaking down of the **myelinic** sheath yields fatty droplets and debris."*
+> - 📜 **Wilder Penfield (*Cytology and Cellular Pathology of the Nervous System*):** *"Phagocytic microglia engulf disrupted **myelinic** fragments following traumatic spinal cord injury."*

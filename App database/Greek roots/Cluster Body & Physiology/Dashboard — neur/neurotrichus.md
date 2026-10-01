@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrew moles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrew moles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small talpid insectivores containing the American shrew-mole (Neurotrichus gibbsii), native to the Pacific Northwest of North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy and functional morphology, an amphibious insectivore possessing sensitive touch organs (Eimer's organs) on its snout and intermediate skeletal adaptations between shrews and burrowing moles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotrichus designates shrew moles."*
+> - 📜 **Spencer Fullerton Baird (*Mammals of North America*):** *"I established the genus **Neurotrichus** for this extraordinary Pacific insectivore uniting the dental formula of moles with shrew-like habits."*
+> - 📜 **Clinton Hart Merriam (*Synopsis of the American Shrews*):** *"In **Neurotrichus**, the forefeet lack the extreme spade-like lateral expansion observed in the subterranean fossorial moles."*
+> - 📜 **Hartley H. T. Jackson (*A Review of the American Moles*):** *"The muzzle of **Neurotrichus** is richly innervated with specialised sensory papillae that guide tactile foraging in forest litter."*

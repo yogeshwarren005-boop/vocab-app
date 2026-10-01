@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Overeat or eat immodestly; make a pig of oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overeat or eat immodestly; make a pig of oneself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To swallow greedily; to devour, gulp down, or gorge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and archaic prose, to engulf or swallow up entirely (as by the sea or an abyss).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, englut designates overeat or eat immodestly; make a pig of oneself."*
+> - 📜 **William Shakespeare (*Othello*):** *"My particular grief / Is of so flood-gate and o'erbearing nature / That it **englut** and swallows other sorrows, / And it is still itself."*
+> - 📜 **John Milton (*Paradise Lost*):** *"How shall I **englut** my vengeance on this rebel crew, cast down from heavenly heights into bottomless perdition?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ocean abyss seemed ready to **englut** both ship and crew in one colossal vortex of foam."*

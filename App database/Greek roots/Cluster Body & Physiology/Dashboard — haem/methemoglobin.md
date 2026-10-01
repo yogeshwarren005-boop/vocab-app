@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soluble brown crystalline basic blood pigment that differs from hemoglobin in containing ferric iron and in being unable to combine reversibly with molecular oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soluble brown crystalline basic blood pigment that differs from hemoglobin in containing ferric iron and in being unable to combine reversibly with molecular oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stable oxidation product of hemoglobin in which the iron of the heme group is oxidized from the ferrous (Fe2+) to the ferric (Fe3+) state, unable to bind oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical biochemistry and toxicology, an altered blood metalloprotein that causes functional tissue hypoxia and gives blood a chocolate-brown appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, methemoglobin designates a soluble brown crystalline basic blood pigment that differs from hemoglobin in containing ferric iron and in being unable to combine reversibly with molecular oxygen."*
+> - 📜 **Felix Hoppe-Seyler (*Zeitschrift für Physiologische Chemie*):** *"Upon treatment of hemoglobin with ferricyanide or nitrites, a brown derivative termed **methemoglobin** is produced, lacking oxygen-carrying capacity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Toxic aniline exposure produces slate-gray cyanosis caused by the extensive conversion of normal pigment into **methemoglobin**."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Magnetic susceptibility data demonstrate that the iron atom in **methemoglobin** occupies a high-spin trivalent state coordinated with a water molecule."*

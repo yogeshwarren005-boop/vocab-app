@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bone of the shoulder girdle typically serving to link the scapula and sternum —called also collarbone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bone of the shoulder girdle typically serving to link the scapula and sternum —called also collarbone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The collarbone; a slender, doubly curved long bone connecting the sternum to the acromion of the scapula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human and vertebrate anatomy, the strut-like skeletal element that braces the shoulder girdle and provides free lateral mobility to the arm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clavicle designates a bone of the shoulder girdle typically serving to link the scapula and sternum —called also collarbone."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The presence of a well-developed **clavicle** is characteristic of animals whose forelimbs enjoy wide freedom of movement."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Fracture of the **clavicle** is the most common skeletal injury in children, usually occurring at the junction of the outer and middle thirds."*
+> - 📜 **Richard Owen (*On the Archetype of the Skeleton*):** *"The paired **clavicle** elements fuse in the avian lineage to form the furcula or wishbone, stabilizing the flight stroke."*

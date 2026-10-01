@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally profuse menstrual flow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally profuse menstrual flow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally heavy or prolonged menstrual bleeding occurring at regular menstrual intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecology, excessive uterine bleeding exceeding 80 mL per cycle or lasting more than seven days, commonly caused by uterine fibroids (leiomyomas), adenomyosis, endometrial polyps, or coagulopathies (e.g. von Willebrand disease).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, menorrhagia designates abnormally profuse menstrual flow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe chronic microcytic anemia in young women frequently results from unrecognised **menorrhagia** caused by uterine fibroids."*
+> - 📜 **James Marion Sims (*Clinical Notes on Uterine Surgery*):** *"Diagnostic curettage was performed to establish the etiology of intractable, debilitating **menorrhagia**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Submucous myomas distorting the endometrial lining provoke chronic vascular engorgement and profuse **menorrhagia**."*

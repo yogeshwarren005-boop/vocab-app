@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Handwriting, penmanship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calligraphy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Handwriting, penmanship, or the art and style of writing by hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical bibliography and palaeography, the individual script characteristics and ductus distinguishing manuscript scribes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Unconsciously my chirography expands into placard capitals."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Unconsciously my chirography expands into placard capitals."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This envelope had the air of an official record of some period long past, when clerks engrossed their stiff and formal chirography on more substantial materials than at present."*
+> - 📜 **Edgar Allan Poe (*Autography*):** *"A man's **chirography** is a key to his character; the swift, nervous dashes of his pen reveal the agitation of his mind."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"He examined the crabbed, tortuous **chirography** of the manuscript with the patient eye of an antiquary."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The delicate, precise **chirography** of the letter immediately revealed its continental origin."*

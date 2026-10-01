@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of female homosexual behavior that attempts to simulate heterosexual behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of female homosexual behavior that attempts to simulate heterosexual behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of tribadism or tribades.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in historical sexological and literary contexts to characterize female same-sex practices, desires, or intimate associations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribadistic designates of female homosexual behavior that attempts to simulate heterosexual behavior."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The psychiatric literature of the late nineteenth century recorded various cases of **tribadistic** attraction among school companions."*
+> - 📜 **Richard Burton (*The Book of the Thousand Nights and a Night*):** *"Persian and Arabic poets occasionally composed verses alluding to private **tribadistic** attachments in the harem."*
+> - 📜 **Honoré de Balzac (*The Girl with the Golden Eyes*):** *"The sinister drama unfolded around a veiled, **tribadistic** rivalry that dominated the secluded mansion."*

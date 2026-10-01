@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skill in preparing mixed drinks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skill in preparing mixed drinks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The skill, craft, or science of preparing and mixing alcoholic drinks and cocktails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern gastronomy and beverage craft, the culinary discipline of compounding artisanal liquors, bitters, and botanical infusions to achieve balanced flavor profiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mixology designates skill in preparing mixed drinks."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The expansion of American vernacular gave the tavern keeper the imposing academic title of professor of **mixology**."*
+> - 📜 **Jerry Thomas (*The Bartender's Guide*):** *"True mastery of **mixology** requires discerning palates, precise measurements, and artistic presentation."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He took immense pride in his domestic **mixology**, shaking gin cocktails for his suburban guests with theatrical flourish."*

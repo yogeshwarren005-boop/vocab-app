@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal enlargement of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal enlargement of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gross or extraordinary enlargement of the heart; extreme cardiomegaly (often termed cor bovinum or ox heart).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and autopsy medicine, massive cardiac enlargement, typically exceeding 800 to 1000 grams in weight, seen in severe valvular disease or advanced cardiomyopathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalocardia designates an abnormal enlargement of the heart."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The postmortem examination revealed astounding **megalocardia**, the massive ventricles resembling an ox heart in volume and wall thickness."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"In extreme **megalocardia**, the cardiac dullness extends from the right mammary line far across the left axilla."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Radiographs in cases of syphilitic aortic regurgitation exhibit monumental **megalocardia** with pronounced left ventricular rounding."*

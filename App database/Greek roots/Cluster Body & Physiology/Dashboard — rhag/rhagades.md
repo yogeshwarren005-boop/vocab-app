@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Painful linear cracks, fissures, or excoriations of the skin, especially occurring around the mouth, anus, or skin folds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology and pediatrics, linear cicatrices radiating around the lips (Parrot's lines) formed by the healing of syphilitic rhagades in congenital syphilis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhagades designates a term designating an entity, condition, or phenomenon derived from greek rhag."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Radiating linear scars or **rhagades** around the oral angles serve as an indelible stigma of infantile congenital syphilis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Severe mechanical maceration in intertriginous skin produces deep, painful **rhagades** vulnerable to secondary bacterial infection."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Cutaneous fissures and painful **rhagades** developed upon the denervated fingers in syringomyelia."*

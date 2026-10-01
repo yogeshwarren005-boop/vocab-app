@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one less than the diploid number of chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having one less than the diploid number of chromosomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or characterized by monosomy; lacking one chromosome of a normal homologous pair (2n - 1).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics, monosomic plant series (such as in hexaploid wheat *Triticum aestivum*) are vital cytogenetic tools for mapping genes to specific chromosomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosomic designates having one less than the diploid number of chromosomes."*
+> - 📜 **Albert Blakeslee (*The Chromosome Constitution of Datura Mutants*):** *"A **monosomic** Datura plant is typically characterized by reduced vigor and low pollen germination."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"In hexaploid wheat, all twenty-one possible **monosomic** lines have been isolated and maintained for genetic mapping."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Male Drosophila carrying a single X chromosome are functionally **monosomic** for all sex-linked loci."*

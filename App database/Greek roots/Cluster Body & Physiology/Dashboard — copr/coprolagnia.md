@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek copr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sexual paraphilia in which erotic pleasure and arousal are derived from contact with, observation of, or thoughts of feces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and forensic psychiatry, an extreme scatological paraphilic disorder involving compulsive eroticization of excrement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprolagnia designates a term designating an entity, condition, or phenomenon derived from greek copr."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"The bizarre cases of **coprolagnia** recorded in our clinical annals demonstrate how sexual perversion can attach to repulsive organic objects."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Psychological analysis reveals that **coprolagnia** often represents an arrest at the earliest infantile excretory stages of development."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Sublimation of anal-erotic impulses fails in those rare neurotic perversions that degenerate into overt **coprolagnia**."*

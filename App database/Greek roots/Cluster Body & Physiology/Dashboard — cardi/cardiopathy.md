@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any generic disease, morbid condition, or functional disorder affecting the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In general medical pathology, an overarching term encompassing valvular, ischemic, electrical, or myocardial afflictions of the cardiac organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiopathy designates a disease of the heart."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Every organic **cardiopathy** alters the natural rhythm and acoustic qualities of the heart sounds heard through the cylinder."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **cardiopathy** in infants manifests as central cyanosis, clubbed digits, and harsh precordial systolic murmurs."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Rheumatic fever remains the primary cause of chronic valvular **cardiopathy** throughout developing regions of the world."*

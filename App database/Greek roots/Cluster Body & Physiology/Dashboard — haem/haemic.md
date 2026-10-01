@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing or affecting blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing or affecting blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, derived from, or contained within the blood; vascular or hematological in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology and physiology, describing functional murmurs or physiological phenomena produced by abnormal blood composition (such as anaemia) rather than structural valvular defects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemic designates relating to or containing or affecting blood."*
+> - 📜 **William Osler (*Lectures on the Diagnosis of Abdominal Tumours*):** *"A soft systolic **haemic** murmur was detected over the pulmonary orifice, disappearing entirely as the red cell count recovered."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **haemic** circulation through the hepatic sinusoids provides an expansive vascular capillary bed for metabolic interchange."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"We must not confuse true cellular degeneration with secondary changes caused solely by altered **haemic** velocity and plasma viscosity."*

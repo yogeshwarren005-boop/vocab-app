@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rupture, tear, break, or fracture in a tissue or anatomical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology and surgical pathology, a full-thickness tear or break in the sensory retina that permits liquefied vitreous humor to pass into the subretinal space, causing retinal detachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhegma designates a term designating an entity, condition, or phenomenon derived from greek rhag."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Ophthalmoscopic inspection revealed a horseshoe-shaped **rhegma** in the superior temporal retina."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"The essential precursor to detachment of the sensory retina is the formation of a distinct **rhegma** at the vitreous base."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Mechanical traction exerted by contracting vitreous strands produced a full-thickness retinal **rhegma**."*

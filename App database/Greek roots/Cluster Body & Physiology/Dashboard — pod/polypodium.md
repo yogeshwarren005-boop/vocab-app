@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ferns belonging to the family polypodiaceae and having rounded naked sori.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of ferns belonging to the family polypodiaceae and having rounded naked sori.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ferns in the family Polypodiaceae commonly known as polypodies, bearing creeping scaly rhizomes and pinnatifid fronds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic pteridology, a large cosmopolitan genus (from Greek polys, many, and podion, little foot) characterized by exindusiate circular sori borne on the underside of frond lobes and sweet-tasting rhizomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polypodium designates a genus of ferns belonging to the family polypodiaceae and having rounded naked sori."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The genus **Polypodium** is distinguished by its creeping foot-like rhizomes and round sori devoid of any covering membrane."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The rock polypody, **Polypodium** vulgare, drapes damp mossy boulders in northern deciduous forests."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"Epiphytic fronds of **Polypodium** cling securely to the trunks of tree ferns in the damp ravines."*

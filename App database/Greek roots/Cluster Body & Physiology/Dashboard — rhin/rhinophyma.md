@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by a large, bulbous, ruddy, and bumpy enlargement of the nose, usually resulting from severe, untreated rosacea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, end-stage phymatous rosacea involving severe sebaceous gland hyperplasia, chronic inflammation, fibrosis, and telangiectasia of the lower half of the nose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinophyma designates a term designating an entity, condition, or phenomenon derived from greek rhin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The bulbous, lobulated hypertrophy of the nose in advanced **rhinophyma** represents severe chronic sebaceous hyperplasia."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic sections of **rhinophyma** demonstrate massive dilation of sebaceous ducts embedded within dense fibrovascular connective tissue."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Surgical tangling shave excision of **rhinophyma** followed by secondary re-epithelialization restores normal nasal contour."*

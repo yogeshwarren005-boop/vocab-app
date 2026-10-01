@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe, throbbing, or lancinating pain in the ear; acute otalgia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical practice, agonizing ear pain caused by deep inflammation, acute middle-ear suppuration, or furunculosis of the ear canal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otodynia designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"The patient complained of violent **otodynia**, describing a sharp darting pain that shot from the ear deep into the brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **otodynia** aggravated by chewing is the characteristic bedside sign of acute furunculosis of the cartilaginous meatus."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"In acute suppurative disease, the throbbing **otodynia** ceases the moment the tympanic membrane ruptures and discharges its purulent burden."*

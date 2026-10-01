@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The latin name for england.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The latin name for england.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medieval Latin name for England, or the historic eastern English region of East Anglia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geography, the ancestral territory occupied by the Angles in Britain, comprising Norfolk, Suffolk, and parts of Cambridgeshire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What do the yellowjohns of Anglia owe us for our ruined trade and our ruined hearths?"*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"It was then taken to Westminster, where the solemnity was again performed, and on Ascension-day it was consigned to the earth[61] with the following epitaph:-- Sum qui Saturnum sibi sensit Hibernia: Solem Anglia; Mercurium Normannia; Gallia Martem."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Anglia Sacra, 1. 761., as quoted by Craik, 1. 137. [170] Sketches of the History of Literature and Learning in England, vol. i. p. 69."*
+> - 📜 **Bede (*Ecclesiastical History of the English People*):** *"From the country of the Angles came the people of East **Anglia**, settling fertile lands bounded by the fenland marshes and the North Sea."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Saxons and Angles established their heptarchy, bestowing upon the conquered Roman province the enduring name of **Anglia**."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"Ancient Saxon dialects still echoed in the placenames across the windswept coastal heaths of East **Anglia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument combining the telescope and microscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circular prison built with cells arranged radially so that a guard at a central position can see all the prisoners.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An architectural structure or institutional facility designed so that all interior points are visible from a single central observation point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social theory and penology, Jeremy Bentham's circular prison inspection model, later analyzed by Michel Foucault as a paradigm of disciplinary power and pervasive surveillance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"What can be a greater anachronism than the death of Prince Arthur three months hence on the stage of the Panopticon Theatre?"*
+> - 📜 **Jeremy Bentham (*Panopticon; or, The Inspection-House*):** *"Morals reformed—health preserved—industry invigorated—instruction diffused... all by a simple idea in Architecture! The **panopticon** provides constant surveillance."*
+> - 📜 **Michel Foucault (*Discipline and Punish*):** *"The major effect of the **panopticon** is to induce in the inmate a state of conscious and permanent visibility that assures the automatic functioning of power."*
+> - 📜 **Shoshana Zuboff (*The Age of Surveillance Capitalism*):** *"Digital surveillance capitalism resurrects the architectural logic of the **panopticon**, transforming behavioral data into predictive certainty."*

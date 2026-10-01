@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek splen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital developmental anomaly characterized by the presence of multiple, small spleens (accessory spleens) rather than a single normal organ, frequently occurring as part of a heterotaxy syndrome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric cardiology and embryology, polysplenia syndrome (left isomerism) is associated with bilateral bilobed lungs, left bronchial morphology, interrupted inferior vena cava with azygous continuation, and complex cardiac septal defects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysplenia designates a term designating an entity, condition, or phenomenon derived from greek splen."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"The left atrial isomerism syndrome is commonly characterized by bilateral morphological left lungs and visceral **polysplenia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Autopsy on the cyanotic infant revealed an absent inferior vena cava and numerous discrete splenic nodules indicative of **polysplenia**."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"Deviations in visceral lateralization occasionally present as fragmented splenic lobules termed **polysplenia**."*

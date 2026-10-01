@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to ring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to ring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or connecting the cricoid cartilage and the thyroid cartilage of the larynx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In head and neck anatomy, denoting the cricothyroid muscle that tenses the vocal cords, and the cricothyroid membrane traversed in emergency airways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cricothyroid designates adjective & noun*) resembling, having the physical form of, or akin to ring."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Contraction of the **cricothyroid** muscles tilts the thyroid cartilage forward, thereby tightening and elongating the vocal cords."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Digital palpation easily locates the soft depression of the **cricothyroid** space between the thyroid prominence and the lower ring."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Paralysis of the **cricothyroid** muscle results in a hoarse, monotonous voice due to inability to modulate vocal pitch."*

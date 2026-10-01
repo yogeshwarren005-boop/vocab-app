@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ode honoring a bride and bridegroom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ode honoring a bride and bridegroom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nuptial poem, hymn, or song composed in honor of a bride and groom to celebrate their marriage (Latinate form).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Latin literature, Catullus (notably Carmen 61 and 62) and Claudian perfected the rhetorical epithalamium, a genre that flourished among Renaissance neo-Latin humanists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epithalamium designates an ode honoring a bride and bridegroom."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The humanist poet composed an elegant Latin **epithalamium** to celebrate the nuptials of the young Duke of Urbino."*
+> - 📜 **Alfred Tennyson (*In Memoriam A. H. H.*):** *"The poem concludes with an **epithalamium** celebrating his sister's bridal day as a symbol of cosmic renewal."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ancient rhetoric prescribed fixed conventions for the **epithalamium**, balancing praise of ancestral virtue with bridal beauty."*

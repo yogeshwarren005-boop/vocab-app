@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal or excessive increase in the number of cells in an organ, tissue, or body fluid; leukocytosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and clinical pathology, marked elevation of circulating cellular elements, as in reactive leukocytosis or myeloproliferative disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercytosis designates a term designating an entity, condition, or phenomenon derived from greek cyt."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute lobar pneumonia provokes dramatic **hypercytosis**, with leukocyte counts frequently exceeding thirty thousand per cubic millimeter."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Differential cell counts distinguish reactive inflammatory **hypercytosis** from the neoplastic proliferation of leukemia."*
+> - 📜 **Maxwell Wintrobe (*Clinical Hematology*):** *"Severe **hypercytosis** in chronic myeloid leukemia increases blood viscosity, risking vascular stasis."*

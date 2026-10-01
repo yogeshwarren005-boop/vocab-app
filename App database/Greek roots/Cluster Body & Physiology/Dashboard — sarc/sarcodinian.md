@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protozoa that move and capture food by forming pseudopods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protozoa that move and capture food by forming pseudopods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling the Sarcodina or amoeboid organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In micropaleontology and protozoology, applied to describe amoeboid structural features, pseudopodial formations, or fossil tests of rhizopods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcodinian designates protozoa that move and capture food by forming pseudopods."*
+> - 📜 **Joseph Leidy (*Fresh-Water Rhizopods of North America*):** *"The simple **sarcodinian** body plan represents the most primitive manifestation of animal vitality known to microscopists."*
+> - 📜 **Ernst Haeckel (*Report on the Radiolaria*):** *"Vast limestone deposits are formed from the accumulated mineral skeletons of ancient **sarcodinian** plankton."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Contractile vacuole pulsations in **sarcodinian** organisms suggest rudimentary hydrostatic regulation."*

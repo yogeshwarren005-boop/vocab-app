@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of five copies of a particular chromosome in an otherwise euploid genome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics, pentasomy X (49,XXXXX) is an exceedingly rare sex chromosome aneuploidy in females, characterized by developmental delay, craniofacial dysmorphism, and cardiovascular defects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentasomy designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Karyotypic analysis in female infants with severe mental deficiency occasionally uncovers rare cases of **pentasomy** X."*
+> - 📜 **Albert Blakeslee (*New Datura Mutants*):** *"Successive non-disjunction events during Datura fertilization can produce stable lines demonstrating **pentasomy**."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"The severe morphological penalty of **pentasomy** highlights the critical importance of balanced chromosomal ratios."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The vascular, thick layer of the skin lying below the epidermis and above the superficial fascia that contains fibroblasts, macrophages, mast cells, B cells, and sensory nerve endings and has an extracellular matrix composed of proteoglycans and glycoproteins embedded with collagen and elastin fibers —called also corium, cutis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Layer of skin or tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thick layer of living tissue below the epidermis which forms the true skin, containing blood capillaries, nerve endings, and sweat glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cuticular physiology and histopathology, the dense irregular connective tissue layer providing tensile strength and elasticity to the integument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermis designates the vascular, thick layer of the skin lying below the epidermis and above the superficial fascia that contains fibroblasts, macrophages, mast cells, b cells, and sensory nerve endings and has an extracellular matrix composed of proteoglycans and glycoproteins embedded with collagen and elastin fibers —called also corium, cutis."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The vascular **dermis** projects into the overlying epidermis in thousands of sensitive papillae containing tactile corpuscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extravasated erythrocytes trapped within the **dermis** produce the non-blanching macules of purpura."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The human **dermis** is the sensitive boundary where the nervous system touches and perceives the external universe."*

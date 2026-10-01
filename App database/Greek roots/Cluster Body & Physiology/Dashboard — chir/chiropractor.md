@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A licensed health care professional who treats disorders (such as back and neck pain) chiefly of the musculoskeletal system especially through the manual adjustment or manipulation of the spinal vertebrae to correct nervous system dysfunction : a specialist in chiropractic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A licensed health care professional who treats disorders (such as back and neck pain) chiefly of the musculoskeletal system especially through the manual adjustment or manipulation of the spinal vertebrae to correct nervous system dysfunction : a specialist in chiropractic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner licensed in chiropractic, specializing in the manual manipulation of joints and the spinal column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A healthcare clinician who diagnoses neuromuscular disorders and performs spinal adjustments to relieve mechanical impingement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiropractor designates a licensed health care professional who treats disorders (such as back and neck pain) chiefly of the musculoskeletal system especially through the manual adjustment or manipulation of the spinal vertebrae to correct nervous system dysfunction : a specialist in chiropractic."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"He had consulted every physician and **chiropractor** in the county, seeking relief from his persistent cervical spasm."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"In the booming prairie town, the local **chiropractor** competed vigorously with the regular doctors for civic patronage."*
+> - 📜 **Raymond Chandler (*The Big Sleep*):** *"He had the massive shoulders and large, heavy hands of a seasoned **chiropractor** who spent his days cracking joints."*

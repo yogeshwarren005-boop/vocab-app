@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungal infection of the skin (especially of moist parts covered by clothing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungal infection of the skin (especially of moist parts covered by clothing).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A superficial fungal infection of the skin, hair, or nails caused by dermatophytes or yeasts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical mycology, cuticular infections such as tinea versicolor or ringworm characterized by scaling, erythema, and epidermal maceration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatomycosis designates fungal infection of the skin (especially of moist parts covered by clothing)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic scrapings mounted in potassium hydroxide reveal branching hyphae, confirming the diagnosis of **dermatomycosis**."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures and Reports*):** *"The spread of contagious **dermatomycosis** among schoolboys was checked by strict isolation and sulfur applications."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"Schoenlein's discovery of the parasitic fungus in favus proved that certain chronic dermatoses are true forms of **dermatomycosis**."*

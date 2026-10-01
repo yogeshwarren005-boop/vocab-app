@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition (as in Down syndrome) of having one or a few chromosomes triploid in an otherwise diploid set.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition (as in Down syndrome) of having one or a few chromosomes triploid in an otherwise diploid set.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an extra third copy of a specific chromosome in an otherwise diploid organism (2n + 1).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics, trisomic individuals display distinct phenotypes due to gene dosage imbalance; Albert Blakeslee's classic work on *Datura stramonium* identified twelve distinct trisomic mutants corresponding to its twelve chromosome pairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trisomic designates the condition (as in down syndrome) of having one or a few chromosomes triploid in an otherwise diploid set."*
+> - 📜 **Albert Blakeslee (*The Chromosome Constitution of Datura Mutants*):** *"Each of the twelve possible **trisomic** variants of Datura stramonium produces a distinct and easily recognizable capsule shape."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"A **trisomic** Drosophila female transmits the triplicated chromosome to half of her viable gametes."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"The discovery of the **trisomic** constitution in mongolism inaugurated the modern era of human clinical cytogenetics."*

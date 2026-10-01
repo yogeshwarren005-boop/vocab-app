@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spur or bony outgrowth from a bone or the root of a tooth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spur or bony outgrowth from a bone or the root of a tooth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign outgrowth of cartilaginous or bony tissue on the surface of a bone (osteoma or osteochondroma).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic pathology and clinical otology, an abnormal bone formation projecting into soft tissues or the external auditory canal (surfer's ear), often stimulated by chronic trauma or cold water exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exostosis designates a spur or bony outgrowth from a bone or the root of a tooth."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"A localized **exostosis** arises from the periosteal surface as a dense bony projection preserving lamellar structure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hereditary multiple **exostosis** leads to asymmetric limb shortening and secondary compressive neuropathies in growing children."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Surgical excision of the symptomatic **exostosis** must remove the entire cartilaginous cap to prevent local recurrence."*

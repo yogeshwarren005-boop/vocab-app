@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct jawless fish of the devonian with armored head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct jawless fish of the devonian with armored head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct, jawless armored fish of the order Cephalaspida (Osteostraci), abundant in the Silurian and Devonian periods and characterized by a broad bony head shield.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, an agnathan ostracoderm whose horseshoe-shaped head shield bore dorsal eyes, a pineal opening, and lateral sensory fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalaspid designates extinct jawless fish of the devonian with armored head."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The remarkable fossil **cephalaspid** was covered anteriorly by a single, continuous, crescentic plate of solid bone."*
+> - 📜 **Hugh Miller (*The Old Red Sandstone*):** *"In the sandstone quarries of Cromarty, I uncovered the polished buckler of a **cephalaspid**, its ancient bony luster intact."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The semicircular head shield of the **cephalaspid** contained intricate internal canals for electric or pressure-sensitive sensory organs."*

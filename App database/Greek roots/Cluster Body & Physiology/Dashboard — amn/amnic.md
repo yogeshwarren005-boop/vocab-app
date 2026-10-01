@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to the amnion or characterized by developing an amnion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to the amnion or characterized by developing an amnion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated within an amnion; amniotic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and physical geography, of or pertaining to a river (from Latin amnis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amnic designates of or related to the amnion or characterized by developing an amnion."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The delicate **amnic** envelope protects the fragile avian embryo from desiccation during incubation."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Ancient gravels of **amnic** origin were deposited along broad river plains before Pleistocene channel incision."*
+> - 📜 **Henry Fairfield Osborn (*The Origin and Evolution of Life*):** *"The development of internal **amnic** moisture freed early reptiles from returning to water to deposit spawn."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being similar or corresponding in position or value or structure or function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being similar or corresponding in position or value or structure or function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having the same or corresponding structure, position, or origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and phylogenetics, structural similarity between organs across different species derived from a common ancestral prototype.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homology designates the quality of being similar or corresponding in position or value or structure or function."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"I define **homology** as the same organ in different animals under every variety of form and function."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"What can be more curious than that the hand of man, formed for grasping, and the wing of a bat should exhibit precise **homology**?"*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The structural **homology** uniting the anthropoid brain with the human brain is complete and undeniable."*

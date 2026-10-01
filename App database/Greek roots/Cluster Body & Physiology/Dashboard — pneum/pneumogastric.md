@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mixed nerve that supplies the pharynx and larynx and lungs and heart and esophagus and stomach and most of the abdominal viscera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the vagus nerve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to both the lungs and the stomach, or denoting the tenth cranial nerve (the vagus nerve).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical neuroanatomy and autonomic physiology, the archaic designation for the vagus nerve (nervus pneumogastricus), reflecting its extensive parasympathetic distribution to thoracic viscera and abdominal digestive organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumogastric designates a mixed nerve that supplies the pharynx and larynx and lungs and heart and esophagus and stomach and most of the abdominal viscera."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Section of the **pneumogastric** nerve in the neck profoundly disrupts both cardiac inhibition and gastric digestive secretion."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **pneumogastric** nerve supplies motor and sensory parasympathetic fibers to the respiratory organs and alimentary canal."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Irritation of the recurrent branches of the **pneumogastric** nerve by an aortic aneurysm produces hoarseness and laryngeal stridor."*

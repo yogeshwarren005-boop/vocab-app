@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cashew family; trees and shrubs and vines having resinous (sometimes poisonous) juice; includes cashew and mango and pistachio and poison ivy and sumac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cashew family; trees and shrubs and vines having resinous (sometimes poisonous) juice; includes cashew and mango and pistachio and poison ivy and sumac.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants in the order Sapindales (the cashew or sumac family), characterized by resin ducts and phenolic urushiol compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic and economic botany, a cosmopolitan family comprising trees and shrubs such as the cashew, pistachio, mango, and poison ivy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anacardiaceae designates the cashew family; trees and shrubs and vines having resinous (sometimes poisonous) juice; includes cashew and mango and pistachio and poison ivy and sumac."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Members of the **anacardiaceae** are characterized by acrid, milky or resinous juices that turn black upon exposure to atmospheric air."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **anacardiaceae** includes both delicious edible fruits like the mango and notoriously virulent contact poisons like Rhus toxicodendron."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Horticultural interest in **anacardiaceae** spans tropical commercial orchards and brilliant autumn foliage ornamentals across temperate regions."*

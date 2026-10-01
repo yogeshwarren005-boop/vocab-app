@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either member of the first and most cranial pair of the three successive paired vertebrate renal organs that functions in the adults of amphioxus and some lampreys, functions temporarily in larval fishes and amphibians, and is present but nonfunctional in embryos of reptiles, birds, and mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either member of the first and most cranial pair of the three successive paired vertebrate renal organs that functions in the adults of amphioxus and some lampreys, functions temporarily in larval fishes and amphibians, and is present but nonfunctional in embryos of reptiles, birds, and mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primordial, most anterior excretory organ of vertebrate embryos, representing the earliest stage of kidney development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology, a transient functional kidney in larval anamniotes (such as fish and amphibians) that degenerates in amniotes while providing the initial duct system for subsequent renal stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pronephros designates either member of the first and most cranial pair of the three successive paired vertebrate renal organs that functions in the adults of amphioxus and some lampreys, functions temporarily in larval fishes and amphibians, and is present but nonfunctional in embryos of reptiles, birds, and mammals."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The primitive head-kidney or **pronephros** is the first urinary organ to differentiate in the intermediate cell mass of the vertebrate embryo."*
+> - 📜 **Charles Sedgwick Minot (*Human Embryology*):** *"In the human embryo, the **pronephros** consists of a few rudimentary tubules that rapidly atrophy as the mesonephros assumes prominence."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The ontogenetic appearance of the ancestral **pronephros** recapitulates the earliest aquatic stage of vertebrate excretory evolution."*

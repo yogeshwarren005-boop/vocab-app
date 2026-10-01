@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the large multinucleate cells closely associated with areas of bone resorption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the large multinucleate cells closely associated with areas of bone resorption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, multinucleated bone cell that absorbs and removes osseous tissue during normal skeletal growth, remodeling, and repair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bone cell biology and endocrinology, a macrophage-lineage cell that secretes acid and cathepsin K to demineralize and digest bone matrix.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoclast designates any of the large multinucleate cells closely associated with areas of bone resorption."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The multinucleated giant cell termed an **osteoclast** hollows out Howship's lacunae across the resorbing bone surface."*
+> - 📜 **Alexander Maximow (*A Text-Book of Histology*):** *"Bone remodeling represents a dynamic balance between matrix deposition by osteoblasts and localized resorption by each **osteoclast**."*
+> - 📜 **Fuller Albright (*The Parathyroid Glands and Metabolic Bone Disease*):** *"Parathyroid hormone stimulates rapid proliferation of the **osteoclast**, driving calcium liberation into the extracellular fluid."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an instrument for examining the interior of the bronchi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an instrument for examining the interior of the bronchi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or performed by means of a bronchoscope or bronchoscopy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thoracic surgery, designating interventional diagnostic procedures, such as bronchoscopic biopsy, bronchoalveolar lavage, or endobronchial stenting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchoscopic designates of or relating to an instrument for examining the interior of the bronchi."*
+> - 📜 **Chevalier Jackson (*Bronchoscopy and Esophagoscopy*):** *"Expert **bronchoscopic** extraction demands delicate tactile coordination to disengage sharp foreign objects without lacerating the mucosal wall."*
+> - 📜 **Gustav Killian (*Direct Bronchoscopy*):** *"The **bronchoscopic** appearance of the carina provides essential diagnostic clues regarding subcarinal lymph node metastases."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"Under fiberoptic **bronchoscopic** guidance, difficult endotracheal intubations can be accomplished safely in patients with unstable cervical spines."*

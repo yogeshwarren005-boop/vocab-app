@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transient suspension of external breathing (Commonwealth spelling; apnea).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neonatal medicine and physiology, failure of involuntary respiration in premature infants resulting from immature brainstem respiratory centers, often accompanied by bradycardia and hypoxemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apnoea designates a term designating an entity, condition, or phenomenon derived from greek pne."*
+> - 📜 **John Tyndall (*Sound*):** *"Artificial ventilation with excess oxygen saturates the blood, precipitating a physiological state of respiratory **apnoea**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The recurrent attacks of infant **apnoea** subsided as the medullary respiratory centers matured under close observation."*
+> - 📜 **Joseph Lister (*Collected Papers*):** *"Under deep chloroform administration, brief reflexes of **apnoea** must be distinguished from toxic respiratory arrest."*

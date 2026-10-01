@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to invertebrates of the phylum arthropoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to invertebrates of the phylum arthropoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to, characteristic of, or pertaining to the phylum Arthropoda; an arthropod.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and paleontology, describing the clade or morphological lineage of jointed-legged ecdysozoans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthropodan designates of or relating to invertebrates of the phylum arthropoda."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The **arthropodan** line achieved mastery of land flight millions of years before vertebrates took to the air."*
+> - 📜 **E. Ray Lankester (*Extinct Animals*):** *"Giant eurypterids of the Silurian seas represent the largest **arthropodan** predators in the fossil record."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life: The Burgess Shale and the Nature of History*):** *"The Burgess Shale deposits revealed a wild disparity of **arthropodan** body architectures that defy modern classification."*

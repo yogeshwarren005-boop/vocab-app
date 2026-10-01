@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of say.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of say.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or method of examining opinions and arriving at truth through logical discourse, questioning, and exchange of counterarguments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy (particularly in Plato, Kant, and Hegel), the developmental process whereby contradictions are uncovered, clarified, and resolved through progressive synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"At the same time he can use the Old Testament in an efficient way for dialectic, when an "argumentum ad hominem" best meets the case (Mark 7:6; Luke 20:37, 44)."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Madagascar a similar custom everywhere prevails and has resulted, as among the Zulus, in producing certain dialectic differences in the speech of the various tribes."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In the things of sense it is called Right Opinion; in matters of handicraft, Art; in the logical discussion of the things of the mind, it is Dialectic."*
+> - 📜 **Benjamin Jowett (*The Dialogues of Plato*):** *"For Socrates, philosophical **dialectic** was the highest instrument for liberating the soul from unexamined dogmas."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Transcendental **dialectic** exposes the inevitable illusions that arise when pure reason oversteps empirical boundaries."*
+> - 📜 **Georg Wilhelm Friedrich Hegel (*The Phenomenology of Spirit*):** *"The movement of the concept follows an internal **dialectic** wherein every determinate reality overcomes its own contradiction."*

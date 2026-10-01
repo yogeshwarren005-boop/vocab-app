@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Snails and slugs and their relatives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Snails and slugs and their relatives.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large class of mollusks (including snails, slugs, sea hares, and limpets) having a muscular foot, eyes, and usually a spiral shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic malacology, the most diverse molluscan class, displaying developmental torsion, a radula, and adaptive radiation into marine, freshwater, and terrestrial biomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastropoda designates snails and slugs and their relatives."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The distinguishing morphological hallmark of the class **Gastropoda** is the asymmetrical disposition of the visceral sac relative to the foot."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Tertiary sedimentary strata are dated with extraordinary precision using the fossil shells of extinct **Gastropoda**."*
+> - 📜 **E.O. Wilson (*The Diversity of Life*):** *"Speciation among land snails of the **Gastropoda** across Pacific islands provides classic models of adaptive radiation in miniature."*

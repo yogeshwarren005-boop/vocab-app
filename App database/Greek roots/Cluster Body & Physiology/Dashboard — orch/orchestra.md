@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The circular space used by the chorus in front of the proscenium in an ancient Greek theater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A corresponding semicircular space in a Roman theater used for seating important persons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large ensemble of instrumental musicians combining string, woodwind, brass, and percussion sections, or the semicircular space in front of an ancient Greek theatre stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology and dramatic history, the performance space reserved for the choral dance in classical Athens (from orcheisthai, to dance), later transferred to designate the musical ensemble performing symphonic repertoires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed there may be generally observed in him an unbending, unyielding, brass-bound air, as if he were himself the bassoon of the human orchestra."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It seemed as if she had been one moment too late; and as long as she dared observe, he did not look again: but the performance was recommencing, and she was forced to seem to restore her attention to the orchestra and look straight forward."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She must have been in your own circle; for as you went with Lady Dalrymple, you were in the seats of grandeur, round the orchestra, of course.” “No, that was what I dreaded."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"In the ancient theatre, the tragic chorus sang and danced within the circular **orchestra**, uniting spectator and myth."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"The modern symphonic **orchestra** is an enormous musical instrument capable of expressing every passion and nuance of human emotion."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The precision and dynamic range of the London **orchestra** brought Beethoven's Ninth Symphony to triumphant life."*

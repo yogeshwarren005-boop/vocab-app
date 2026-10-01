@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: —used as a function word to indicate inclusion, location, or position within limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used as a function word to indicate inclusion, location, or position within limits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In anatomical and biochemical nomenclature, a combining root denoting fibrous tissue, sinew, or muscular strength (from Greek ἴς, ἰνός); also functioning in standard English as a fundamental preposition or adverb indicating inclusion within limits of space, time, or circumstance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological terminology, designating fiber components or fibrous formations (as in inosinic acid or inoma); colloquially and idiomatically used in English to designate social belonging, advantage, or internal operational details ('the ins and outs').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Stuhlmann, _Mit Emin Pascha ins Herz von Afrika_ (Berlin, 1894), p. 506. [155] As a confirmation of this view it may be pointed out that beating or scourging is inflicted on inanimate objects expressly for the purpose indicated in the text."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I han’t seen a way to get you safe, and I’ve looked arter you to know your ins and outs."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And it’s a difficult matter to get, in this part of the country.” Caleb scattered his snuff carefully instead of taking it, and then added, “The ins and outs of things are curious."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Knowledge that tendeth but to satisfaction is but as a courtesan, which is for pleasure, and not for fruit or generation; but that which is fruitful, is **in** such sort as may be profitable to human life."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"To be, or not to be, that is the question: Whether 'tis nobler **in** the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The mind is its own place, and **in** itself can make a heaven of hell, a hell of heaven."*

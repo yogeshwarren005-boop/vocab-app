@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek my.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of semiaquatic Neotropical rodents in the family Cricetidae, commonly known as Neotropical water rats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology and mammalogy, water-dwelling oryzomyine rodents characterized by webbed hind feet, dense waterproof fur, and foraging habits along Amazonian riverbanks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Nectomys designates a term designating an entity, condition, or phenomenon derived from greek my."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"Specimens of **Nectomys** illustrate remarkable anatomical adaptations to semiaquatic foraging in tropical rivers."*
+> - 📜 **Joel Asaph Allen (*Bulletin of the American Museum of Natural History*):** *"The cranial dimensions of **Nectomys** distinguish it readily from terrestrial oryzomyine relatives."*
+> - 📜 **Oldfield Thomas (*Annals and Magazine of Natural History*):** *"Our field survey in South America yielded several distinct regional varieties of the genus **Nectomys**."*

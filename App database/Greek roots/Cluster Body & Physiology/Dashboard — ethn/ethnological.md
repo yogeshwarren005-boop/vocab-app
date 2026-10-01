@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ethnology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to ethnology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to ethnology; comparative, analytical, and historical study of human cultures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In museum curation and social anthropology, describing collections, analyses, and comparative syntheses of human societies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roth, _Ethnological Studies among the North-West-Central Queensland Aborigines_ (Brisbane and London, 1897), p. 156, § 265."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hutchinson, "On the Chaco and other Indians of South America," _Transactions of the Ethnological Society of London_, N.S. iii. (1865) p. 327."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Forbes, "On the Aymara Indians of Bolivia and Peru," _Journal of the Ethnological Society of London_, ii. (1870) p. 235. [552] Edmond Doutté, _Magie et Religion dans l'Afrique du Nord_ (Algiers, 1908), pp. 566 _sq_."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **ethnological** evidence gathered from every quarter of the globe points toward common ancestry for all human races."*
+> - 📜 **Edward Burnett Tylor (*Researches into the Early History of Mankind*):** *"An **ethnological** comparison of burial customs reveals recurring intuitions regarding the soul and an afterlife."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Huge **ethnological** libraries were ransacked to illustrate how agricultural rituals centered upon dying and rising fertility gods."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to ethnicity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to ethnicity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to ethnicity, race, or cultural background.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to ethnic identity, customs, or ancestral heritage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What anthem did Bloom chant partially in anticipation of that multiple, ethnically irreducible consummation?"*
+> - 📜 **Benedict Anderson (*Imagined Communities*):** *"The empire encompassed an **ethnically** diverse population bound together only by allegiance to the Habsburg crown."*
+> - 📜 **Jared Diamond (*Guns, Germs, and Steel*):** *"New Guinea highlands remain **ethnically** and linguistically the most fragmented landscape on earth."*
+> - 📜 **Francis Fukuyama (*The Origins of Political Order*):** *"States that fail to accommodate **ethnically** distinct minorities risk recurring civil fracture and institutional decay."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a hemorrhage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a hemorrhage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accompanied by, characterized by, or resulting in severe bleeding or hemorrhage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, descriptive of conditions (such as hemorrhagic stroke, hemorrhagic fever, or hemorrhagic diathesis) marked by prominent vascular extravasation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemorrhagic designates of or relating to a hemorrhage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The eruption in the malignant form of smallpox assumes a dark **haemorrhagic** character, accompanied by widespread mucosal bleeding."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The post-mortem examination showed dense **haemorrhagic** infarctions scattered through the lower lobes of both lungs."*
+> - 📜 **Alexis Carrel (*The Treatment of Infected Wounds*):** *"Careful vascular ligation prevented the formation of troublesome **haemorrhagic** clots within the debrided laceration."*

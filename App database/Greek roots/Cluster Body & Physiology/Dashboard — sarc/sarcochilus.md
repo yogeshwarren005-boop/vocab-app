@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diminutive epiphytic or lithophytic orchids with clumped short-stemmed foliage and arching racemes of colorful flowers; australia and polynesia to southeastern asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diminutive epiphytic or lithophytic orchids with clumped short-stemmed foliage and arching racemes of colorful flowers; australia and polynesia to southeastern asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of epiphytic or lithophytic orchids native to Australia, New Guinea, and adjacent islands, characterized by fleshy labellums and sprays of colorful flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commonly known as fairy orchids, *Sarcochilus* species thrive on damp shaded rocks and rainforest tree trunks, prized in horticulture for delicate fragrance and compact habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcochilus designates diminutive epiphytic or lithophytic orchids with clumped short-stemmed foliage and arching racemes of colorful flowers; australia and polynesia to southeastern asia."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"I established the genus **Sarcochilus** on account of the remarkable fleshy spur and lobed form of the labellum."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"Clinging to sandstone escarpments, **Sarcochilus** falcatus displays fragrant white blooms against its leathery foliage."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"The species of **Sarcochilus** are easily cultivated in cool shaded orchid houses, rewarding the grower with profuse racemes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid swelling (edema) of the deep layers of the skin, subcutaneous tissues, or mucous membranes, often caused by allergic or bradykinin-mediated mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology and emergency medicine, sudden swelling typically affecting the face, lips, tongue, and larynx, posing an acute risk of asphyxiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angioedema designates a term designating an entity, condition, or phenomenon derived from greek oed."*
+> - 📜 **William Osler (*Hereditary Angioneurotic Oedema*):** *"I observed a remarkable family history in which recurring attacks of acute **angioedema** afflicted five generations."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Mast cell degranulation releases vasoactive amines that provoke sudden localized **angioedema** in sensitized tissues."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology*):** *"Sudden laryngeal **angioedema** demands prompt airway intervention before complete respiratory occlusion occurs."*

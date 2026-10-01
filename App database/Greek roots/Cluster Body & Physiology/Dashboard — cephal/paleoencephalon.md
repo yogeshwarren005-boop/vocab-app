@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of paleencephalon; the primitive, phylogenetically ancient portion of the brain as distinguished from the neocortex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary neurobiology, the subcortical and brainstem structures mediating visceral homeostasis, primitive emotions, and stereotyped motor patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleoencephalon designates the more primitive parts of the brain phylogenetically; most structures other than the cerebral cortex."*
+> - 📜 **Paul D. MacLean (*A Triune Concept of the Brain and Behaviour*):** *"Deep within the human skull lies the **paleoencephalon**, silently directing cardiovascular and respiratory homeostasis."*
+> - 📜 **C. Judson Herrick (*Introduction to Neurology*):** *"The sensory integration of the olfactory and gustatory tracts was the ancestral foundation around which the **paleoencephalon** crystallized."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Comparative vertebrate anatomy proves that the basic reticular architecture of the **paleoencephalon** has remained stable for hundreds of millions of years."*

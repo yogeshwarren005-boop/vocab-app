@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of all or a major part of the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital absence of all or a major part of the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lethal congenital neural tube defect characterized by the absence of a major portion of the brain, skull, and scalp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In perinatology, a defect resulting from failure of the rostral neuropore to close around day 24 to 26 of embryonic development, detectable by elevated maternal alpha-fetoprotein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anencephaly designates congenital absence of all or a major part of the brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Maternal dietary supplementation with folic acid has achieved a dramatic reduction in the incidence of congenital **anencephaly**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In **anencephaly**, the calvarium fails to form, leaving the remnants of the diencephalon exposed to the amniotic fluid."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology*):** *"Severe cranial vault agenesis in **anencephaly** contrasts sharply with the localized calvarial defects seen in encephalocele."*

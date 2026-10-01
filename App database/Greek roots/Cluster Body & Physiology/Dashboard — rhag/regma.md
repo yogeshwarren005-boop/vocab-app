@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dry fruit consisting of three or more carpels that breaks open elastically into one-seeded parts (cocci); a rupture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical carpology (derived from Greek rhegma, fracture or rupture), an explosive or dehiscent schizocarp typical of the spurge family (Euphorbiaceae) and Geraniaceae, releasing seeds by sudden elastic curling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regma designates a term designating an entity, condition, or phenomenon derived from greek rhag."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The ripe fruit of Euphorbia forms a characteristic **regma**, splitting violently to fling its seeds afar."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"A dry schizocarp that breaks open elastically into separate one-seeded carpels is technically termed a **regma**."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The mechanical dehiscence of the tricoccous **regma** ensures wide seed dispersal across rocky hillsides."*

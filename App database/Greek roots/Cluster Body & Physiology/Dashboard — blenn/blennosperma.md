@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek blenn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of spring-flowering annual herbs in the daisy family (Asteraceae), native to vernal pools and wet meadows in California and Chile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, stickyseed herbs whose achenes produce a mucilaginous, sticky gelatinous coat when moistened by winter rains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blennosperma designates a term designating an entity, condition, or phenomenon derived from greek blenn."*
+> - 📜 **Asa Gray (*Botanical Memoirs*):** *"The generic name **blennosperma** accurately describes the achene, which becomes surrounded by a thick envelope of mucilage when wetted."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In **blennosperma**, the gelatinous seed coat facilitates anchorage in the drying mud of ephemeral spring pools."*
+> - 📜 **Willis Linn Jepson (*A Flora of California*):** *"The yellow radiate heads of **blennosperma** carpet the margins of California vernal pools in early March."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family orchestiidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family orchestiidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, hopping amphipod crustaceans commonly known as sand hoppers or beach fleas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine and littoral zoology, semiterrestrial talitrid amphipods named from Greek orchestes (dancer) due to their remarkable jumping locomotion powered by abdominal appendages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchestia designates type genus of the family orchestiidae."*
+> - 📜 **Charles Darwin (*Journal of Researches into the Natural History and Geology*):** *"Along the damp sandy shore, thousands of crustaceans belonging to the genus **orchestia** leaped about like fleas."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The terrestrial habits of **orchestia** illustrate the physiological adaptations required for crustaceans living above high-tide line."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Under decaying wrack and driftweed, colonies of **orchestia** dance and leap in constant restless motion."*

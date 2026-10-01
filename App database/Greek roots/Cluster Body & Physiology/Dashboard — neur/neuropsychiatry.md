@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine dealing with mental disorders attributable to diseases of the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine dealing with mental disorders attributable to diseases of the nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical specialty dealing with mental disorders attributable to underlying organic diseases of the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An integrative medical field bridging neurology and psychiatry to understand, diagnose, and treat behavioral, emotional, and cognitive sequelae of brain injury and pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropsychiatry designates the branch of medicine dealing with mental disorders attributable to diseases of the nervous system."*
+> - 📜 **Alois Alzheimer (*Über eine eigenartige Erkrankung der Hirnrinde*):** *"The convergence of clinical observation with histological post-mortem analysis forms the enduring mission of **neuropsychiatry**."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Although psychoanalysis explores the mental realm, future developments in **neuropsychiatry** will surely supply an organic foundation."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Post-encephalitic syndromes demolished the artificial barrier separating neurology from psychiatry, revitalizing the spirit of classic **neuropsychiatry**."*

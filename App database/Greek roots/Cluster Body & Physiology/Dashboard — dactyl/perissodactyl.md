@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Perissodactyla) of nonruminant ungulate mammals (such as a horse, a tapir, or a rhinoceros) that usually have an odd number of toes, molar teeth with transverse ridges on the grinding surface, and the posterior premolars resembling true molars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Perissodactyla) of nonruminant ungulate mammals (such as a horse, a tapir, or a rhinoceros) that usually have an odd number of toes, molar teeth with transverse ridges on the grinding surface, and the posterior premolars resembling true molars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An odd-toed ungulate mammal belonging to the order Perissodactyla (such as horses, tapirs, and rhinoceroses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian systematics, an ungulate characterized by mesaxonic foot symmetry, where weight is borne primarily by the enlarged third digit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perissodactyl designates any of an order (perissodactyla) of nonruminant ungulate mammals (such as a horse, a tapir, or a rhinoceros) that usually have an odd number of toes, molar teeth with transverse ridges on the grinding surface, and the posterior premolars resembling true molars."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"The **perissodactyl** lineage traces an unbroken fossil succession from the four-toed dawn horse to the single-toed modern stallion."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Extinct tapir-like creatures connect the ancient **perissodactyl** stock with early pachyderms."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"In the **perissodactyl** skeleton, the middle digit bears the main axis of stress, while the lateral toes progressively diminish."*

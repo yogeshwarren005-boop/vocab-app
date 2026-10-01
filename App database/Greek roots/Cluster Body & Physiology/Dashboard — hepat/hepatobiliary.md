@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of liver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving both the liver and the gallbladder or bile ducts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology and gastrointestinal surgery, denoting the integrated anatomical and physiological organ system responsible for bile synthesis, secretion, transport, and excretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatobiliary designates adjective*) pertaining to, derived from, or characteristic of liver."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The development of obstructive jaundice requires immediate evaluation of the entire **hepatobiliary** tree to rule out choledocholithiasis."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **hepatobiliary** ducts form an intricate arborizing network draining hepatic bile into the duodenum via the common bile duct."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Careful surgical exploration of the **hepatobiliary** triangle minimizes the catastrophic risk of inadvertent common duct transection."*

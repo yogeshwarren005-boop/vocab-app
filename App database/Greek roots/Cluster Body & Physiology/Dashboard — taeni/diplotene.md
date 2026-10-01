@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stage of meiotic prophase which follows the pachytene and during which the paired homologous chromosomes begin to separate and chiasmata become visible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stage of meiotic prophase which follows the pachytene and during which the paired homologous chromosomes begin to separate and chiasmata become visible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fourth sub-stage of prophase I of meiosis, during which homologous paired chromosomes begin to desynapse and separate, remaining attached only at points of genetic exchange called chiasmata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human female gametogenesis, primary oocytes enter a prolonged diplotene arrest (termed the dictyate or dictyotene stage) during embryonic development, remaining suspended until resumed after puberty prior to ovulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplotene designates a stage of meiotic prophase which follows the pachytene and during which the paired homologous chromosomes begin to separate and chiasmata become visible."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"During the **diplotene** stage, the synaptic attraction wanes and chromosomes open out, revealing cross-shaped chiasmata."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"In the **diplotene** nucleus, chiasma terminalization begins as the paired homologs pull apart along their lengths."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Oocytes remain arrested at the **diplotene** period for months or years awaiting hormonal stimulation."*

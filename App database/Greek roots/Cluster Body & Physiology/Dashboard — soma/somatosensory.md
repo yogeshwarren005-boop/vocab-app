@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the somatosenses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the somatosenses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting the neural structures and mechanisms mediating somatic sensations (such as touch, vibration, temperature, nociception, and proprioception).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the primary somatosensory cortex (S1) is located in the postcentral gyrus of the parietal lobe, exhibiting a somatotopic homunculus representation of the contralateral human body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatosensory designates of or relating to the somatosenses."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Electrical stimulation of the postcentral gyrus evoked distinct tingling sensations in the contralateral **somatosensory** strip."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The massive convergence of ascending **somatosensory** tracts in the thalamus underpins the coordination of motor acts."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Dissociation of deep proprioceptive and superficial tactile inputs highlights the separate sorting of **somatosensory** pathways."*

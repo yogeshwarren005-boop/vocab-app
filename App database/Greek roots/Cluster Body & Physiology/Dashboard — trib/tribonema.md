@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of tribonemaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of tribonemaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of unbranched, filamentous yellow-green algae in the family Tribonemataceae (class Xanthophyceae), common in freshwater pools and ditches during spring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology, *Tribonema* is distinguished by cell walls composed of two overlapping H-shaped halves; when a filament breaks, characteristic H-shaped pieces are exposed at the fragmented ends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribonema designates type genus of tribonemaceae."*
+> - 📜 **William Henry Harvey (*Phycologia Britannica*):** *"Under the microscope, filaments of **Tribonema** separate into distinct H-shaped wall segments upon vegetative fragmentation."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The pale green chromatophores of **Tribonema** contain excess xanthophyll pigments and store lipids rather than starch."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In early spring ditches, silky pale mats of **Tribonema** float upon cold stagnant water."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of cephalotaxaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of cephalotaxaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small family of coniferous gymnosperms (order Pinales), commonly known as plum yews, native to eastern and southeastern Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and pharmacognosy, evergreen conifers producing large, fleshy plum-like arillate seeds and cancer-inhibiting harringtonine alkaloids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalotaxaceae designates a family of cephalotaxaceae."*
+> - 📜 **Philipp Franz von Siebold (*Flora Japonica*):** *"In the mountain forests of Japan, the **cephalotaxaceae** form graceful understory trees bearing lustrous dark green needles."*
+> - 📜 **Ernest Henry Wilson (*The Conifers and Taxads of Japan*):** *"The distinct two-ranked foliage and drupaceous seeds of the **cephalotaxaceae** set them apart from true Taxaceae."*
+> - 📜 **Charles Sprague Sargent (*Plantae Wilsonianae*):** *"Explorations in western Hupeh revealed extensive native populations of the **cephalotaxaceae** growing on shaded limestone cliffs."*

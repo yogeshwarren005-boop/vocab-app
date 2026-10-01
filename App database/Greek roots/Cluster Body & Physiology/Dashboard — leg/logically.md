@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: According to logical reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a logical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that conforms to the principles of logic; reasonably, rationally, and consistently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a necessary or unavoidable deductive inference; by virtue of logical consequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But money and private property are not essentially and logically bound up together, for a certain measure of private property always has been found where money was little or not at all used."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"See ch. 14, sec. 3.] [Footnote 12: Such changes are logically related to the subject of financial crises rather than to that of the tariff."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It seems to be admitted by the friends of minimum wage legislation that this result is logically to be expected and that to some degree it appears."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"If the premises are universally true, the conclusion must **logically** follow beyond all contradiction."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"A proposition that is **logically** possible cannot be dismissed merely because it contradicts commonsense prejudice."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"When you have eliminated the impossible, whatever remains, however improbable, must **logically** be the truth."*

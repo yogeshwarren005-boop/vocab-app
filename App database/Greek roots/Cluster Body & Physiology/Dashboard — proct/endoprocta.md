@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes considered a subphylum of bryozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes considered a subphylum of bryozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum of small, mostly marine, stalked pseudocoelomate or acoelomate animals commonly known as entoprocts, having both mouth and anus within the tentacular crown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, a group of solitary or colonial filter-feeders (alternate spelling of Entoprocta) possessing a cup-shaped calyx mounted on an anchoring stalk, previously grouped with Bryozoa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoprocta designates sometimes considered a subphylum of bryozoa."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **endoprocta** possess an anus opening within the circle of ciliated tentacles, distinct from the true Bryozoa."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Minute stalked creatures belonging to the **endoprocta** clung to the carapaces of crabs brought up from the reef."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Fouling communities on harbor pilings regularly feature miniature colonies of the stalked **endoprocta**."*

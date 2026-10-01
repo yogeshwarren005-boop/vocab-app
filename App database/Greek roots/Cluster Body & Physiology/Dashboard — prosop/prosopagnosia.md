@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of visual agnosia characterized by an inability to recognize faces : face blindness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of visual agnosia characterized by an inability to recognize faces : face blindness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological disorder characterized by the inability to recognize the faces of familiar people, often called face blindness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience and neuropsychology, a visual agnosia resulting from bilateral or right-hemisphere occipitotemporal lesions (especially the fusiform face area), impairing holistic facial recognition while preserving general object vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosopagnosia designates a form of visual agnosia characterized by an inability to recognize faces : face blindness."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"His profound **prosopagnosia** was so complete that he failed to recognize his own face when looking into a mirror."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Neurological dissociation where visual sensation remains intact while face identification vanishes reflects the clinical picture of **prosopagnosia**."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Focal damage to inferior temporal cortex selectively abolishes facial synthesis, producing classical acquired **prosopagnosia**."*

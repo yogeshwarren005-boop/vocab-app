@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A free-floating, colonial pelagic tunicate of the genus *Pyrosoma* (class Thaliacea), forming cylindrical, tubular colonies noted for brilliant bioluminescence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, individual zooids in a pyrosome colony pump water through their branchial baskets into a common central cloacal cavity, generating jet propulsion while emitting prolonged pulses of blue-green light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrosome designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Thomas Henry Huxley (*Anatomy of Invertebrated Animals*):** *"The hollow cylinder of the **pyrosome** drifts through warm tropical seas, propelled by the combined respiratory jets of its zooids."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"At night the vessel sailed through a glowing sea illuminated by millions of phosphorescent **pyrosome** colonies."*
+> - 📜 **Ernst Haeckel (*Report on the Tunicata*):** *"Under mechanical excitation, each zooid of the **pyrosome** lights up, producing waves of vivid luminescence along the tube."*

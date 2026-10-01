@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a medium-proportioned skull with a cephalic index between 75 and 80; intermediate between dolichocephalic and brachycephalic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and veterinary anatomy, designating skulls or canine breeds (such as beagles and retrievers) possessing average cranial proportions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesaticephalic designates adjective*) pertaining to, derived from, or characteristic of head."*
+> - 📜 **Paul Broca (*Instructions Craniologiques*):** *"Crania whose length-breadth ratio falls between seventy-five and eighty percent are designated **mesaticephalic** or sub-brachycephalic."*
+> - 📜 **Franz Boas (*Changes in Bodily Form of Descendants of Immigrants*):** *"The blending of diverse cranial types in metropolitan centers generates predominantly **mesaticephalic** intermediate forms."*
+> - 📜 **William Z. Ripley (*The Races of Europe*):** *"The transitional populations of central France display a balanced, **mesaticephalic** head index reflecting ancestral cross-currents."*

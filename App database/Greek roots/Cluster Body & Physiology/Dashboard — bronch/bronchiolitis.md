@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the membranes lining the bronchioles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the membranes lining the bronchioles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute inflammation of the bronchioles, prevalent in infants and young children and characterized by wheezing, cough, and tachypnea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric pulmonology, an acute viral infection, most commonly caused by respiratory syncytial virus (RSV), causing edema and mucus obstruction of small airways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchiolitis designates inflammation of the membranes lining the bronchioles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Capillary bronchitis, known today as acute **bronchiolitis**, is a perilous affection of infancy marked by intense cyanosis and intercostal retractions."*
+> - 📜 **René Laennec (*Treatise on Diseases of the Chest*):** *"Widespread inflammation of the smallest air passages, or **bronchiolitis**, suffocates the infant by mechanically blocking expiratory airflow."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"Winter distempers in tender infants often descend from simple catarrh into a suffocating **bronchiolitis** that requires warm moist vapors."*

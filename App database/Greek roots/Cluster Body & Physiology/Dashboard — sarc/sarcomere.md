@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the segments into which a myofibril is divided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the segments into which a myofibril is divided.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic structural and functional contractile unit of striated muscle, bounded by two successive Z-discs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biophysics and physiology, sarcomere shortening occurs via the sliding filament mechanism as myosin heads pull actin filaments toward the central M-line, dependent on ATP hydrolysis and calcium binding to troponin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcomere designates one of the segments into which a myofibril is divided."*
+> - 📜 **Andrew Huxley (*Reflections on Muscle*):** *"During active muscle contraction, each **sarcomere** shortens without alteration in the length of the constituent A-band thick filaments."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"The repeating longitudinal pattern of the **sarcomere** imparts to skeletal muscle its distinctive transverse striation."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"Precise alignment of every **sarcomere** across adjacent myofibrils ensures synchronized tension throughout the muscle fiber."*

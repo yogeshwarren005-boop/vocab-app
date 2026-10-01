@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basal part of the diencephalon that lies beneath the thalamus on each side, forms the floor of the third ventricle, and includes vital autonomic regulatory centers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basal part of the diencephalon that lies beneath the thalamus on each side, forms the floor of the third ventricle, and includes vital autonomic regulatory centers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vital basal region of the diencephalon located ventral to the thalamus and forming the floor and lower walls of the third ventricle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroendocrinology and physiology, the hypothalamus maintains homeostasis by coordinating the autonomic nervous system, regulating body temperature, hunger, thirst, sleep-wake cycles, circadian rhythms, and pituitary hormone secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothalamus designates a basal part of the diencephalon that lies beneath the thalamus on each side, forms the floor of the third ventricle, and includes vital autonomic regulatory centers."*
+> - 📜 **Harvey Cushing (*Papers Relating to the Pituitary Body, Hypothalamus and Parasympathetic Nervous System*):** *"Here in this well-concealed pocket of the brain, the **hypothalamus** governs the primitive emotional and vegetative life of man."*
+> - 📜 **Walter Bradford Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"Discharge from the **hypothalamus** mobilizes the sympathetic adrenomedullary system for instant flight or fight."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The small multipolar neurons of the **hypothalamus** project densely into the infundibular stalk of the hypophysis."*

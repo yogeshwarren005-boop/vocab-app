@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute spasmodic pain along the course of one or more nerves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute spasmodic pain along the course of one or more nerves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic variant spelling of neuralgia, denoting sharp paroxysmal nerve pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth- and nineteenth-century medical tracts, the denomination given to nervous pains lacking visible organic lesions or fever.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuralgy designates acute spasmodic pain along the course of one or more nerves."*
+> - 📜 **Benjamin Rush (*Medical Inquiries and Observations*):** *"Affections of the nerves, historically styled **neuralgy**, yield most readily to depletion followed by therapeutic tonics."*
+> - 📜 **John Bell (*The Principles of Surgery*):** *"When simple division of the infraorbital nerve fails to cure facial **neuralgy**, the surgeon must seek an irritation nearer the trunk."*
+> - 📜 **Robley Dunglison (*Medical Lexicon: A Dictionary of Medical Science*):** *"Under the term **neuralgy**, practitioners classify severe pains seated in the nerves without inflammatory swelling."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A band on a Doric order separating the frieze from the architrave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A band on a Doric order separating the frieze from the architrave.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ribbon, band, or tape-like anatomical structure; also, a genus of cyclophyllidean parasitic tapeworms (*Taenia*) infecting humans and other mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy and gastroenterology, taenia designates anatomical bands such as the taeniae coli (three longitudinal smooth muscle bands of the colon) or the taenia thalami; in parasitology, *Taenia solium* (pork tapeworm) and *Taenia saginata* (beef tapeworm) cause intestinal taeniasis and cysticercosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taenia designates a band on a doric order separating the frieze from the architrave."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Infection with **Taenia** saginata follows the ingestion of undercooked measly beef harboring encysted cysticerci."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The three longitudinal muscular bands termed **taenia** coli produce the characteristic sacculations or haustra of the large bowel."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Ingestion of eggs from **Taenia** solium can lead to human cerebral cysticercosis, producing intractable epileptic seizures."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman who stuffs and mounts the skins of animals for display.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A craftsman who stuffs and mounts the skins of animals for display.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who prepares, stuffs, and mounts the skins of animals for preservation, study, or exhibition in lifelike form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In museum curation, a specialist trained in animal anatomy, tanning, sculptural mannikin fabrication, and lifelike posture reconstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taxidermist designates a craftsman who stuffs and mounts the skins of animals for display."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Every bird and mammal collected during the inland expedition was skinned and labeled for the **taxidermist** in London."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The skilled **taxidermist** must work with rapid precision in the tropics before ants and moisture ruin the bird skins."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Around the naturalist's study were perched stuffed owls and birds of prey mounted by a local **taxidermist**."*

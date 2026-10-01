@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British English spelling of myxedema, denoting severe hypothyroid skin infiltration and metabolic slowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal medicine, a state of profound thyroid insufficiency marked by dry skin, alopecia, hoarseness, hypothermia, and potential progression to myxedema coma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myxoedema designates a term designating an entity, condition, or phenomenon derived from greek myx."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The therapeutic efficacy of sheep thyroid extract in **myxoedema** remains one of the most brilliant chapters in therapeutics."*
+> - 📜 **William Gull (*Transactions of the Clinical Society of London*):** *"The dull, impassive expression in **myxoedema** reflects the infiltration of the subcutis with mucinous fluid."*
+> - 📜 **Victor Horsley (*The Pathology of the Thyroid Gland*):** *"Surgical ablation of the thyroid gland in primates produced a condition identical to human **myxoedema**."*

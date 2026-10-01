@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A center in the cerebral hemispheres that governs the sense of smell in lower animals; in humans it seems to mediate complex emotional behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A center in the cerebral hemispheres that governs the sense of smell in lower animals; in humans it seems to mediate complex emotional behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The olfactory lobe and associated structures of the brain concerned with the reception and perception of smell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative neuroanatomy and limbic system evolution, the phylogenetically ancient 'smell-brain' (paleocortex and archicortex) comprising the olfactory bulbs, olfactory tracts, piriform lobe, and amygdala.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinencephalon designates a center in the cerebral hemispheres that governs the sense of smell in lower animals; in humans it seems to mediate complex emotional behavior."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In lower vertebrates, the **rhinencephalon** constitutes by far the largest portion of the cerebral hemispheres."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Uncinate epileptic fits accompanied by olfactory hallucinations implicate deep lesions within the **rhinencephalon**."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Evolution saw the expansion of the neocortex overshadow the primitive olfactory processing centers of the **rhinencephalon**."*

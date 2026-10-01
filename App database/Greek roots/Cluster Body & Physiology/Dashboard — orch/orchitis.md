@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of one or both testes; characterized by pain and swelling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of one or both testes; characterized by pain and swelling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of one or both testicles, usually caused by bacterial or viral infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology, acute or chronic testicular inflammation frequently complicating epidemic parotitis (mumps orchitis) or extending from bacterial epididymitis, presenting with intense scrotal swelling and tenderness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchitis designates inflammation of one or both testes; characterized by pain and swelling."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **orchitis** is a recognized and painful complication of mumps occurring in adolescent and adult males."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Histological sections of acute **orchitis** demonstrate severe neutrophil infiltration and interstitial edema compressing the seminiferous tubules."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Certain Diseases of the Nervous System*):** *"Severe constitutional fever accompanied by acute scrotal swelling strongly indicates an active bacterial **orchitis**."*

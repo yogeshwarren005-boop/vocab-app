@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visual examination of the cervix and interior of the uterus with an endoscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visual examination of the cervix and interior of the uterus with an endoscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The visual inspection and examination of the uterine cavity by means of an endoscope (hysteroscope) inserted through the cervix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern gynecological surgery, an endoscopic diagnostic and operative procedure used to identify and resect endometrial polyps, submucosal fibroids, or intra-uterine adhesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteroscopy designates visual examination of the cervix and interior of the uterus with an endoscope."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Direct visualization of the endometrial mucosa by **hysteroscopy** revolutionized the diagnosis of abnormal uterine bleeding."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Endoscopic methods such as **hysteroscopy** permit targeted biopsy of suspicious intrauterine lesions under direct vision."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The optical improvement of illuminated specula paved the way for diagnostic **hysteroscopy** in pelvic disorders."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving the stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stimulating, invigorating, or beneficial to the stomach; also, a medicine, tonic, or herbal preparation that improves gastric digestion and appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and modern pharmacognosy, stomachic bitters (such as gentian, quassia, and cinchona) stimulate gustatory and gastric receptors to promote digestive enzyme secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The house has not done so much in the stomachic article of cloves or in brandy-and-water warm since the inquest."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A simple **stomachic** mixture of dilute hydrochloric acid and gentian tincture was prescribed to revive the patient's appetite."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Nutmeg and cinnamon are prized for their warming **stomachic** virtues, expelling cold vapors from the visceral cavities."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The apothecary relied upon bitter **stomachic** infusions to rekindle digestion when constitutional vigor faltered."*

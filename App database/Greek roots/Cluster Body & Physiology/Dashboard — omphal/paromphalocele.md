@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek omphal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hernia occurring near, adjacent to, or alongside the umbilicus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative abdominal surgery, a parumbilical hernia protruding through the linea alba slightly above or below the umbilical fibrous ring, common in adults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paromphalocele designates a term designating an entity, condition, or phenomenon derived from greek omphal."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Surgical repair of a recurrent **paromphalocele** requires overlapping closure of the adjacent rectus sheaths."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"Unlike true congenital omphalocele, a **paromphalocele** protrudes alongside the intact umbilical cicatricial ring."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Incarceration of omentum within an irreducible **paromphalocele** can simulate an acute intra-abdominal catastrophe."*

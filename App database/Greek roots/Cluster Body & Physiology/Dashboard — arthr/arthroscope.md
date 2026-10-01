@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An endoscope that is inserted through an incision near a joint (such as the knee) and is used for the visual examination, diagnosis, and treatment of the interior of a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endoscope that is inserted through an incision near a joint (such as the knee) and is used for the visual examination, diagnosis, and treatment of the interior of a joint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An endoscopic surgical instrument equipped with fiberoptic illumination and lenses, inserted into a joint cavity for direct visual examination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic surgery, an instrument introduced through a puncture incision to inspect articular surfaces, menisci, and synovial linings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthroscope designates an endoscope that is inserted through an incision near a joint (such as the knee) and is used for the visual examination, diagnosis, and treatment of the interior of a joint."*
+> - 📜 **Kenji Takagi (*The Arthroscope*):** *"By inserting a miniature **arthroscope** into the knee, the surgeon inspects the living cartilage without opening the joint capsule."*
+> - 📜 **Masaki Watanabe (*Atlas of Arthroscopy*):** *"The development of the modern self-focusing **arthroscope** converted joint diagnostics into a minimally invasive art."*
+> - 📜 **John Charnley (*The Closed Treatment of Common Fractures*):** *"Direct visualization through the **arthroscope** prevents unnecessary exploratory arthrotomies in athletic knee trauma."*

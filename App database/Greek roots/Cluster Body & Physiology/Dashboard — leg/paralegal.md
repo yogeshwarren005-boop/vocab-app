@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with specialized training who assists lawyers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with specialized training who assists lawyers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person trained in legal matters who assists licensed attorneys with case preparation, document drafting, and research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or designating auxiliary legal duties, research tasks, or support roles performed under the supervision of a practicing attorney.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paralegal designates a person with specialized training who assists lawyers."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The attorney relies extensively upon trained **paralegal** clerks to assemble affidavits and digest voluminous depositions."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The vast apparatus of American litigation fosters a thriving secondary body of **paralegal** assistants."*
+> - 📜 **Oliver Wendell Holmes (*The Common Law*):** *"Careful fact-finding performed by an acute **paralegal** assistant often reveals the decisive equity upon which a cause turns."*

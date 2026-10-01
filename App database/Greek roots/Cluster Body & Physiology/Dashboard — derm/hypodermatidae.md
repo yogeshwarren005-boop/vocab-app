@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warble flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warble flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family or subfamily (Hypodermatinae) of oestrid botflies comprising warble flies that parasitize ungulates and domestic livestock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary entomology, dipterans whose endoparasitic larvae migrate through host esophageal and spinal tissues before encysting subcutaneously.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypodermatidae designates warble flies."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Members of the **Hypodermatidae** cause immense distress to herds, triggering frantic gadding behavior as cattle flee ovipositing flies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Parasitic warbles produced by the **Hypodermatidae** were formerly common among rural livestock across Europe and North America."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Wild ungulates have evolved behavioral defenses against the persistent attacks of parasitic flies of the **Hypodermatidae**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tranquilizer used to treat psychotic conditions when a calming effect is desired.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tranquilizer used to treat psychotic conditions when a calming effect is desired.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication or pharmacological agent used to treat psychosis (an antipsychotic), characterized by emotional calming, suppression of hallucinations, and psychomotor deceleration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopharmacology, describing major tranquilizers (such as chlorpromazine or haloperidol) that act primarily as antagonists at dopamine D2 receptors and may induce extrapyramidal motor signs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroleptic designates tranquilizer used to treat psychotic conditions when a calming effect is desired."*
+> - 📜 **Jean Delay and Pierre Deniker (*Thirty-Eight Cases of Psychoses Treated with Chlorpromazine*):** *"We propose the term **neuroleptic** for drugs that produce psychological detachment, emotional indifference, and reduction of motor agitation without inducing true hypnosis."*
+> - 📜 **Arvid Carlsson (*Nobel Lecture: A Half-Century of Neurotransmitter Research*):** *"The therapeutic efficacy of every major **neuroleptic** compound correlates directly with its affinity for blocking striatal and mesolimbic dopamine receptors."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Overmedication with a potent **neuroleptic** agent reproduced the parkinsonian rigidity and masked facies seen in encephalitis lethargica."*

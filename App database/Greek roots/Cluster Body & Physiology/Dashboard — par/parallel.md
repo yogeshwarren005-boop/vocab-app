@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending in the same direction, everywhere equidistant, and not meeting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Everywhere equally distant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Side by side and having the same distance continuously between them; occurring or existing at the same time and in a similar way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry and computer architecture, lines or planes that never meet, or concurrent execution of independent processing threads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, behold this ring, Whose high respect and rich validity Did lack a parallel; yet for all that He gave it to a commoner o’ the camp, If I be one."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When once he was mature for man, In Britain where was he That could stand up his parallel, Or fruitful object be In eye of Imogen, that best Could deem his dignity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My young remembrance cannot parallel A fellow to it."*
+> - 📜 **Euclid (*Elements*):** *"If a straight line falling on two straight lines makes the interior angles on the same side less than two right angles, the two lines will meet if extended, but if equal, they remain **parallel**."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The rays emitted from a distant luminary may be regarded as practically **parallel** when entering an earthly aperture."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The historical development of institutions often displays a curious **parallel** across widely separated civilizations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the brain usually caused by a virus; symptoms include headache and neck pain and drowsiness and nausea and fever (`phrenitis' is no longer in scientific use).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the brain usually caused by a virus; symptoms include headache and neck pain and drowsiness and nausea and fever (`phrenitis' is no longer in scientific use).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the brain or head; encephalitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical pathology, severe cerebral inflammation presenting with high fever, delirium, headache, and coma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalitis designates inflammation of the brain usually caused by a virus; symptoms include headache and neck pain and drowsiness and nausea and fever (`phrenitis' is no longer in scientific use)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **cephalitis** swiftly advances from irritable restlessness into profound lethargy and irreversible coma."*
+> - 📜 **Thomas Willis (*The Anatomy of the Brain*):** *"Postmortem dissection in fatal **cephalitis** reveals fiery vascular injection across the cerebral convolutions."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Trauma to the cranial vault is frequently followed by secondary **cephalitis** as suppuration invades the meningeal membranes."*

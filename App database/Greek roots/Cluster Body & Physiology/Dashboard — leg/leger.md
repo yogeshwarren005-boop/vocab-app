@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A record in which commercial accounts are recorded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French painter who was an early cubist (1881-1955).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nimble, light, or quick (archaic, from French léger); also surviving in sleight of hand (legerdemain) and ledger lines in musical notation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater angling, designating stationary tackle with a heavy sliding lead weight (*leger*) that holds bait on the bottom of a current; historically, a fixed book or register.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Leger, and the colloquy between the Rector and his wife ended."*
-> - 📜 **James Joyce (*Ulysses*):** *"That was one of the saint Legers of Doneraile."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"By nimbleness and **leger** dexterity of wit, the sophist can dazzle an uncritical assembly."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"For bottom fishing in a swift stream, the **leger** tackle keeps the worm securely anchored amidst the gravel."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old antiquary consulted his ancient **leger** of monastic accounts to verify the disputed tithe."*

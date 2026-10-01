@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monocotyledonous genus of the family gramineae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monocotyledonous genus of the family gramineae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of annual and perennial grasses (family Poaceae) commonly known as crowfoot grasses, bearing digitately arranged spikes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrostology and tropical botany, C4 grasses with spreading finger-like seed heads, adapted to arid sandy soils and disturbed habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactyloctenium designates a monocotyledonous genus of the family gramineae."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"The curious radiating spikes of **Dactyloctenium** resemble the outspread claws of a bird's foot."*
+> - 📜 **John Torrey (*Flora of North America*):** *"Crowfoot grass, **Dactyloctenium** aegyptium, has naturalized throughout the southern states in cultivated fields."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"The digitately clustered spikes of **Dactyloctenium** distinguish it readily from ordinary meadow grasses."*

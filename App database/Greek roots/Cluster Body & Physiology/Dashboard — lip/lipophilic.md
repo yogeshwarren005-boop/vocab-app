@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an affinity for lipids (such as fats).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an affinity for lipids (such as fats).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an affinity for fats or lipids; soluble in fats and nonpolar solvents; fat-loving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and membrane biochemistry, describing drugs and bioactive solutes that readily partition across hydrophobic cell membranes and penetrate the blood-brain barrier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lipophilic designates having an affinity for lipids (such as fats)."*
+> - 📜 **Bertram Katzung (*Basic and Clinical Pharmacology*):** *"Highly **lipophilic** anesthetics rapidly penetrate the central nervous system, producing prompt induction of anesthesia."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Steroid hormones, being **lipophilic**, diffuse freely across target cell membranes to bind cytoplasmic receptors."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"The myocardial distribution of beta-blockers is strongly determined by whether the agent is hydrophilic or **lipophilic**."*

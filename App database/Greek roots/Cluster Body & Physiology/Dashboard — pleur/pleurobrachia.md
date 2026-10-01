@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea gooseberries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea gooseberries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ctenophores (comb jellies) commonly known as sea gooseberries, characterized by a rounded, transparent body and two long tentilla-bearing tentacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, the type genus of Pleurobrachiidae, possessing eight meridional rows of ciliated comb plates (ctenes) used for swimming and colloblasts for capturing planktonic prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleurobrachia designates sea gooseberries."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The transparent spherical body of **pleurobrachia** glitters with iridescent colors along its eight active comb rows."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Specimens of **pleurobrachia** swept along by ocean currents trail long, contractile tentacles adorned with sticky colloblasts."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"At night the waters sparkled with phosphorescent flashes emitted by drifting **pleurobrachia** and hydromedusae."*

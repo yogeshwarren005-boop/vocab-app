@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or located in the dermis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or located in the dermis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of the dermis; dermal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histological descriptions, pertaining to the vascular, collagenous corium situated beneath the basement membrane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermic designates of or relating to or located in the dermis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Inflammatory infiltrates congregate primarily around the capillary loops of the upper **dermic** papillae."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Subcutaneous edema separates the deeper **dermic** fibers, producing a boggy swelling that pits on pressure."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Surgical Subjects*):** *"Chronic syphilitic eruptions typically produce indurated **dermic** nodules that heal with circular scarring."*

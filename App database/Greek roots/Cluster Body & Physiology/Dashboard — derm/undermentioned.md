@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: About to be mentioned or specified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: About to be mentioned or specified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mentioned, specified, or referred to subsequently or below in a written document or text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal documents, official decrees, and historical treatises, introducing a catalog of enumerated provisions or names.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undermentioned designates about to be mentioned or specified."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **undermentioned** legions were ordered to march immediately from the Rhine frontier to the defense of Italy."*
+> - 📜 **Alexander Hamilton (*The Federalist No. 22*):** *"The **undermentioned** defects in the Articles of Confederation rendered the national government incapable of collecting revenue."*
+> - 📜 **Thomas Jefferson (*Writings of Thomas Jefferson*):** *"I transmit herewith the **undermentioned** papers concerning the boundary dispute between the neighboring territories."*

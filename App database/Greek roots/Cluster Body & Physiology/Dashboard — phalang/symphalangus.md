@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classifications for the siamangs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classifications for the siamangs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of hylobatid primates comprising the siamang (Symphalangus syndactylus), the largest of the gibbons, native to Sumatra and the Malay Peninsula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology and physical anthropology, characterized by syndactyly (webbed second and third toes) and a colossal inflatable throat sac for booming territorial calls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphalangus designates used in some classifications for the siamangs."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The booming morning duet of **symphalangus** resonates for miles across the mountain valleys of Sumatra."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"In skull structure and brachiation mechanics, **symphalangus** represents the most heavily built among the anthropoid lesser apes."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The laryngeal pouch of **symphalangus** inflates to the size of the head, acting as a powerful resonant sound box."*

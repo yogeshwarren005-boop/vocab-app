@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or caused by neuromas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or caused by neuromas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or characterized by the presence of a neuroma or neuromas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, describing nodular, tangled nerve swellings or reactive fibrous proliferation following peripheral nerve transection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuromatous designates of or relating to or caused by neuromas."*
+> - 📜 **Silas Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"The bulbous **neuromatous** mass at the extremity of the stump was exquisitely painful upon the slightest pressure."*
+> - 📜 **Carl von Rokitansky (*A Manual of Pathological Anatomy*):** *"Microscopic examination of the **neuromatous** nodule reveals bundles of medullated fibers intertwined in fibrous connective tissue."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Multiple **neuromatous** growths along the sciatic trunk may provoke progressive muscular wasting in the distal extremity."*

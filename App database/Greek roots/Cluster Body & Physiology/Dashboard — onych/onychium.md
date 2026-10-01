@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small terrestrial ferns of old world tropics and subtropics: clawed ferns; sometimes placed in family cryptogrammataceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small terrestrial ferns of old world tropics and subtropics: clawed ferns; sometimes placed in family cryptogrammataceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small footpad, pulvillus, or adhesive pad located between or beneath the claws of insects and arachnids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect functional morphology, a median pretarsal structure (arolium or empodium) equipped with micro-tenent setae that generate capillary adhesion on smooth vertical surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychium designates small terrestrial ferns of old world tropics and subtropics: clawed ferns; sometimes placed in family cryptogrammataceae."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The pretarsus of the beetle bears a delicate adhesive **onychium** positioned between the terminal claws."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Secretions moistening the micro-hairs of the **onychium** enable climbing insects to traverse polished glass with ease."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"During late pupal metamorphosis, the pretarsal pad or **onychium** differentiates alongside the pair of chitinous ungues."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gland enlargement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gland enlargement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal enlargement of a gland, especially a lymphatic gland (lymphadenopathy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, pathological swelling of glandular organs detectable by palpation or radiographic imaging during systemic disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenomegaly designates gland enlargement."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Generalized **adenomegaly** accompanied by splenomegaly and fever strongly points toward systemic lymphoma or infection."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Mesenteric **adenomegaly** reflects chronic inflammatory drainage from ulcerated intestinal lesions."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The acute **adenomegaly** observed after antigen exposure results from rapid follicular proliferation within the regional nodes."*

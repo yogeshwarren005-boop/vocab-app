@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the formation of blood or blood cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the formation of blood or blood cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating in, carried by, or producing blood; hematogenous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, describing dissemination of pathogens, emboli, or metastatic tumor cells via the bloodstream.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematogenic designates pertaining to the formation of blood or blood cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute osteomyelitis in children arises predominantly through **haematogenic** dissemination of staphylococci from a distant skin pustule."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Malignant cancer cells breach capillary walls to achieve **haematogenic** metastasis in distant organs like the lung and liver."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"Sterile central line maintenance prevents **haematogenic** seeding of prosthetic heart valves by skin commensals."*

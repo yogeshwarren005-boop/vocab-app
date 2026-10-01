@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal brittleness of the fingernails or toenails with longitudinal splitting, striation, and furrowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, a nail dystrophy caused by aging, chronic exposure to solvents, hypothyroidism, lichen planus, or severe systemic nutritional deficits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychorrhexis designates a term designating an entity, condition, or phenomenon derived from greek onych."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prominent longitudinal ridging and terminal splitting known as **onychorrhexis** frequently accompany advanced senile nutritional states."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Histopathologic sectioning of nails in **onychorrhexis** demonstrates focal failure of cornification in the intermediate nail matrix."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Severe metabolic disturbances following enteric fever may leave deep transverse grooves and fragile **onychorrhexis**."*

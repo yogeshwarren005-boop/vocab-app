@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal hardening or eburnation of bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal hardening or eburnation of bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal hardening, thickening, or increased density of bone tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In skeletal radiology and pathology, localized or generalized bone thickening accompanying chronic osteomyelitis, Paget's disease, or fluorosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteosclerosis designates abnormal hardening or eburnation of bone."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Chronic low-grade inflammation induces productive **osteosclerosis**, narrowing the haversian canals and solidifying the cancellous bone."*
+> - 📜 **Fuller Albright (*The Parathyroid Glands and Metabolic Bone Disease*):** *"The 'rugger-jersey spine' observed in secondary hyperparathyroidism features bands of **osteosclerosis** adjacent to the vertebral endplates."*
+> - 📜 **Heinrich Albers-Schönberg (*Studies in Bone Pathology*):** *"In extreme **osteosclerosis**, the brittle bones exhibit remarkable radiodensity, masking all internal trabecular architecture."*

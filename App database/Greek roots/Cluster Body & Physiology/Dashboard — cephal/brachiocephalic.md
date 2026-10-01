@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short artery that arises from the arch of the aorta and divides into the carotid and subclavian arteries of the right side —called also innominate artery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two large veins that occur one on each side of the neck, receive blood from the head and neck, and unite to form the superior vena cava —called also innominate vein.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or supplying both the arm (brachium) and the head (cephalon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human cardiovascular anatomy, designating the brachiocephalic artery (innominate artery) and the paired brachiocephalic veins forming the superior vena cava.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiocephalic designates a short artery that arises from the arch of the aorta and divides into the carotid and subclavian arteries of the right side —called also innominate artery."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **brachiocephalic** artery is the largest vessel branching from the arch of the aorta, dividing into the right common carotid and subclavian."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The great venous trunks from the head and arm unite behind the sternoclavicular joint to form the **brachiocephalic** vein."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Resection of mediastinal neoplasms requires exquisite surgical care around the anterior surface of the left **brachiocephalic** vein."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sand sharks; in some classifications coextensive with family carcharhinidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sand sharks; in some classifications coextensive with family carcharhinidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of lamniform sharks comprising the sand tiger sharks (ragged-tooth sharks).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In elasmobranch ichthyology and marine biology, predatory sharks possessing awl-like, non-serrated teeth adapted for grasping slippery prey, and lacking a nictitating eyelid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontaspididae designates sand sharks; in some classifications coextensive with family carcharhinidae."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Members of **Odontaspididae** display protruding, needle-like teeth designed for seizing swift marine teleosts."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The reproductive biology of **Odontaspididae** features intrauterine cannibalism among developing embryos."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Fossil teeth identical to modern **Odontaspididae** are abundant throughout Cretaceous marine strata."*

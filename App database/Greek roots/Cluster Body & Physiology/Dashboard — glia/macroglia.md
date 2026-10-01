@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue consisting of large stellate neuroglial cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue consisting of large stellate neuroglial cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The larger glial cells of the central nervous system, comprising astrocytes and oligodendrocytes (and in some classifications ependymal cells).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurohistology and developmental neurobiology, neuroectoderm-derived supporting cells that contrast developmentally and functionally with mesoderm-derived microglia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroglia designates tissue consisting of large stellate neuroglial cells."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Unlike migratory microglia, the lineages of **macroglia** arise from neuroepithelial progenitors lining the embryonic ventricular zone."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Silver impregnation cleanly demarcates the expansive, starlike processes of **macroglia** supporting cortical capillary beds."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"The **macroglia** provide metabolic fuel, ionic buffering, and myelin wrapping to billions of functioning cortical axons."*

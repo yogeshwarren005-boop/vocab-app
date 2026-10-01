@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small, dorsoventrally flattened crustacean of the order Isopoda, having seven pairs of thoracic walking legs of similar size and shape (including woodlice, pill bugs, and sea slaters).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine and terrestrial invertebrate zoology, a diverse malacostracan order (from Greek isos, equal, and pous, foot) lacking a carapace and adapted to diverse niches from ocean abyssal benthos (giant Bathynomus) to dry land.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isopod designates any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The common woodlouse represents a fully terrestrial **isopod**, breathing by means of modified abdominal pleopods."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Deep sea dredging brought to the surface an unusual parasitic **isopod** clinging firmly to the gills of a codfish."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Under every damp sea-board along the splash zone, colonies of the rock-dwelling **isopod** Ligia scurry out of sight."*

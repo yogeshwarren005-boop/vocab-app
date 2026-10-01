@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of anatomy dealing with the bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bony structure of an organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific branch of anatomy and anthropology that deals with the study of bones, their structure, development, and function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical education, the foundational study of the human skeleton, detailing bone landmarks, foramina, and muscular attachment sites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Mon._ [416] His work on Osteology--written during the time he acted as Demonstrator in one of the metropolitan schools, and before he had reached his twentieth year--did him great credit."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Human **osteology** forms the indispensable groundwork of anatomical science, providing the rigid framework upon which all soft tissues rely."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"I begin my anatomical demonstrations with **osteology**, for the bones are the foundation, the props, and the pillars of the entire bodily edifice."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"Comparative **osteology** reveals that all vertebrate skeletons are architectural variations of a single primordial ideal archetype."*

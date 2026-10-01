@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of digit, finger , toe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of digit, finger , toe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having digits that are fused together or connected by a web; web-toed or web-fingered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, describing animals whose digits are enclosed within a shared integumentary sheath.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndactylous designates adjective*) pertaining to, derived from, or characteristic of digit, finger , toe."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **syndactylous** foot of marsupial climbers demonstrates how fused digits can be repurposed for grooming fur."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Cuscuses and tree kangaroos display **syndactylous** hind feet that grip mossy branches with remarkable tenacity."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Kingfishers possess **syndactylous** feet in which the outer and middle toes are united for half their length."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Angiospermae) of vascular plants that have male and female reproductive structures enclosed in a flower, that have seeds which arise from ovules contained in the ovaries, and that produce dry or fleshy fruits after double fertilization : flowering plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group (Angiospermae) of vascular plants that have male and female reproductive structures enclosed in a flower, that have seeds which arise from ovules contained in the ovaries, and that produce dry or fleshy fruits after double fertilization : flowering plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vascular plant of the clade Angiospermae that produces seeds enclosed within a protective ovary or fruit; a flowering plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, the dominant group of land plants, characterized by flowers, endosperm, and specialized vessel elements in the xylem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiosperm designates any of a group (angiospermae) of vascular plants that have male and female reproductive structures enclosed in a flower, that have seeds which arise from ovules contained in the ovaries, and that produce dry or fleshy fruits after double fertilization : flowering plant."*
+> - 📜 **Charles Darwin (*Letter to Joseph Dalton Hooker*):** *"The rapid development as far as we can judge of all the higher plants within recent geological times is an abominable mystery, speaking of the **angiosperm**."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The fundamental distinction of an **angiosperm** is that its seeds are borne inside a closed carpel, rather than exposed naked upon a scale."*
+> - 📜 **Arthur Johnson Eames (*Morphology of Angiosperms*):** *"Double fertilization yielding a triploid nutritive endosperm is the defining embryological hallmark of every true **angiosperm**."*

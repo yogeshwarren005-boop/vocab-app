@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Snow plant; in some classifications placed in family pyrolaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Snow plant; in some classifications placed in family pyrolaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of parasitic herbaceous plants in the family Ericaceae containing *Sarcodes sanguinea*, commonly known as the snow plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and forest ecology, *Sarcodes* is a non-photosynthetic mycoheterotroph of western North American coniferous forests, drawing nutrients from mycorrhizal fungi and producing a bright crimson floral shoot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcodes designates snow plant; in some classifications placed in family pyrolaceae."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Emerging from melting drifts of Sierra snow, the glowing scarlet column of **Sarcodes** sanguinea strikes the traveler with wonder."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The genus **Sarcodes** lacks chlorophyll entirely, its succulent stem and scaly bracts suffused with dazzling blood-red pigment."*
+> - 📜 **John Torrey (*Plantae Fremontianae*):** *"I proposed the name **Sarcodes** in reference to the fleshy, thick, and brightly colored habit of this singular root-parasite."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from irrational fears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from irrational fears.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, showing, or relating to an extreme, irrational, or morbid fear or aversion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatry and psychoanalysis, describing an individual suffering from a phobia or the defense mechanisms, avoidance behaviors, and reactions associated with phobic neurosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phobic designates suffering from irrational fears."*
+> - 📜 **Sigmund Freud (*Analysis of a Phobia in a Five-Year-Old Boy*):** *"Little Hans's **phobic** dread of horses stemmed from displaced feelings of rivalry and fear toward his father."*
+> - 📜 **Pierre Janet (*The Major Symptoms of Hysteria*):** *"The patient developed a **phobic** reaction so intense that the sight of water triggered violent spasms."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"Introverted personalities may develop **phobic** defenses against overwhelming external sensory stimulation."*

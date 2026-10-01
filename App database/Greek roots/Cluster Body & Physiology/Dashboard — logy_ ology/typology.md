@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classification according to general type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classification according to general type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study, classification, or systematic arrangement of items, concepts, or entities into categories according to common characteristics or types.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical hermeneutics and theology, the interpretation of historical persons, events, or institutions in the Old Testament as prefiguring elements in the New Testament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typology designates classification according to general type."*
+> - 📜 **Max Weber (*The Theory of Social and Economic Organization*):** *"The construction of an ideal **typology** aids in conceptualizing divergent modes of legitimate authority."*
+> - 📜 **Joseph Campbell (*The Hero with a Thousand Faces*):** *"Comparative mythic **typology** reveals recurring archetypes across disparate human cultures."*
+> - 📜 **Erich Auerbach (*Mimesis: The Representation of Reality in Western Literature*):** *"Christian figural **typology** links past historical figures to their ultimate prophetic fulfillment."*

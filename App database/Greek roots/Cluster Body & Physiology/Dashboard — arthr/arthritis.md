@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of joints due to infectious, metabolic, or constitutional causes; also : a specific arthritic condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammatory arthritis that develops following a bacterial infection (as with chlamydia, shigella, or salmonella), is characterized by pain, swelling, and stiffness of joints (as of the knees or ankles), may be accompanied by inflammation of the eyelids, skin, or urinary tract, and typically lasts one year or less but may become chronic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of one or more joints, causing pain, swelling, stiffness, and restricted movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, an umbrella term encompassing osteoarthritis, rheumatoid arthritis, gout, and infectious joint diseases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"The doctors kept saying that my general condition was good and my arthritis might improve some."*
+> - 📜 **Thomas Sydenham (*Treatise on the Gout and Dropsy*):** *"Gout is a specific form of **arthritis** that seizes the great toe with agonizing nocturnal burning."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic rheumatoid **arthritis** gradually destroys articular cartilage, leading to bony ankylosis and crippling contractures."*
+> - 📜 **Benjamin Rush (*An Account of the Arthritic State of Fever*):** *"Articular inflammation or **arthritis** is not a local disease alone, but partakes of systemic vascular agitation."*

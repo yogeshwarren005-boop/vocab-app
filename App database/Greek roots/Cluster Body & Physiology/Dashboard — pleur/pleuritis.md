@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pleur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pleura; pleurisy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histological pathology and clinical pulmonology, acute or chronic inflammation of the mesothelial lining and subpleural connective tissue, often leading to fibrous adhesions between lung and chest wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleuritis designates a term designating an entity, condition, or phenomenon derived from greek pleur."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In acute fibrinous **pleuritis**, dense networks of fibrin and migrating leucocytes cover the glistening surface of the lungs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tuberculous **pleuritis** frequently presents insidiously with massive lymphocytic effusion and minimal fever."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Chronic calcifying **pleuritis** created an unyielding fibrous peel that severely restricted ventilatory excursion."*

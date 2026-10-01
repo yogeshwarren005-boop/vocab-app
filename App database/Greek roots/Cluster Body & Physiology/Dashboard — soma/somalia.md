@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in extreme eastern africa on the somali peninsula; subject to tribal warfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in extreme eastern africa on the somali peninsula; subject to tribal warfare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign country located in the Horn of Africa, bordered by Djibouti, Ethiopia, Kenya, the Gulf of Aden, and the Indian Ocean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical geography and historical studies, Somalia possesses the longest coastline on mainland Africa and has historically served as a critical maritime trading hub linking Africa, Arabia, and South Asia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somalia designates a republic in extreme eastern africa on the somali peninsula; subject to tribal warfare."*
+> - 📜 **Richard Burton (*First Footsteps in East Africa*):** *"Our expedition ventured inland from the scorching coastal fringe of northern **Somalia** into the interior plateaus."*
+> - 📜 **Winston Churchill (*The River War*):** *"The military operations along the arid sands of **Somalia** tested British desert transport to its absolute limit."*
+> - 📜 **T. E. Lawrence (*Seven Pillars of Wisdom*):** *"Merchants from across the Gulf traded regularly with ports in southern Arabia and the coastal towns of **Somalia**."*

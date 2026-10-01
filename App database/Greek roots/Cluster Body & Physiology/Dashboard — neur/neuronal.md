@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to neurons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to neurons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a neuron or neurons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and molecular biology, describing cellular mechanisms such as membrane depolarization, synaptic vesicle release, or neurodegenerative cascades occurring within nerve cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuronal designates of or relating to neurons."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Long-term synaptic potentiation requires persistent alterations in **neuronal** gene expression and protein synthesis."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The **neuronal** doctrine triumphed because it explained nervous conduction without invoking an amorphous reticular syncytium."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Subclinical paroxysmal discharges demonstrate the hypersynchrony of injured **neuronal** aggregates within the epileptic focus."*

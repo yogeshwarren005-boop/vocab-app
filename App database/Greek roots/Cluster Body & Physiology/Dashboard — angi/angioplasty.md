@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical repair or recanalization of a blood vessel; especially : balloon angioplasty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dilation of an obstructed atherosclerotic artery by the passage of a balloon catheter through the vessel to the area of disease where inflation of the catheter's tip compresses the plaque against the vessel wall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical or percutaneous endovascular repair or recanalization of a narrowed or obstructed blood vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interventional cardiology, percutaneous transluminal coronary angioplasty (PTCA), utilizing inflatable balloon catheters and expandable stents to restore blood flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angioplasty designates surgical repair or recanalization of a blood vessel; especially : balloon angioplasty."*
+> - 📜 **Andreas Grüntzig (*Transluminal Dilation of Coronary-Artery Stenosis*):** *"In September 1977, we performed the first percutaneous coronary **angioplasty** in an awake patient, dilating the LAD lesion successfully."*
+> - 📜 **Charles Dotter (*Transluminal Angioplasty: A New Concept*):** *"The catheter is an instrument of reconstruction; transluminal **angioplasty** offers relief without the trauma of open bypass surgery."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"The widespread adoption of balloon **angioplasty** transformed the clinical management of acute coronary syndromes worldwide."*

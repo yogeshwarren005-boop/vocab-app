@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from the mesoderm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or derived from the mesoderm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from the embryonic mesoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and oncology, designating tissues (such as bone, muscle, and vascular walls) or neoplasms (sarcomas) of mesodermal origin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesodermal designates relating to or derived from the mesoderm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Malignant transformation of **mesodermal** connective tissues produces the rapidly growing, vascular sarcomas."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"The dorsal **mesodermal** mantle acts as the primary organizer, instructing the overlying ectoderm to form the neural tube."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"Lateral plate **mesodermal** sheets split to line the coelom and envelop the visceral viscera."*

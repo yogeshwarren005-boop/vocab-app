@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek brachi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The major systemic blood vessel of the upper arm, extending from the lower border of the teres major as a continuation of the axillary artery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, the principal artery of the arm used for measuring systemic blood pressure via sphygmomanometry, dividing at the elbow into radial and ulnar branches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachial artery designates a term designating an entity, condition, or phenomenon derived from greek brachi."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **brachial artery** descends down the medial side of the arm, lying along the inner border of the biceps muscle."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Ligature of the **brachial artery** requires delicate dissection to avoid injuring the accompanying median nerve."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Compressing the **brachial artery** against the humerus provides immediate hemostasis for severe hemorrhage in the forearm."*

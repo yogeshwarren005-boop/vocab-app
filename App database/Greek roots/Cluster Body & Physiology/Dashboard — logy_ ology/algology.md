@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of botany that studies algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of botany that studies algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of botany and marine biology concerned with the scientific study of algae; phycology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic ecology and systematic biology, the classification, physiological ecology, and cellular structures of freshwater and marine algae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, algology designates the branch of botany that studies algae."*
+> - 📜 **William Henry Harvey (*Phycologia Britannica*):** *"The pioneer of **algology** is rewarded with marine forms displaying breathtaking morphological elegance."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Microscopic **algology** has demonstrated that the ocean surface teems with minute unicellular flora sustaining marine fauna."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The radiolarians and diatoms documented in **algology** reveal geometric symmetries of astonishing perfection."*

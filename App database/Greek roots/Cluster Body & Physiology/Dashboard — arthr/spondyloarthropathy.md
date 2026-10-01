@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arthr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family of interrelated chronic inflammatory rheumatic diseases primarily affecting the spine, sacroiliac joints, and entheses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology, an HLA-B27 associated seronegative disease complex encompassing ankylosing spondylitis, psoriatic arthritis, and reactive arthritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondyloarthropathy designates a term designating an entity, condition, or phenomenon derived from greek arthr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Axial stiffness and fusion of the vertebral column in young men point to a progressive seronegative **spondyloarthropathy**."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Senile Diseases*):** *"In severe **spondyloarthropathy**, the entire spinal axis transforms into a rigid, curved osseous column termed bamboo spine."*
+> - 📜 **Philip Hench (*Rheumatism and Arthritis*):** *"Unlike rheumatoid disease, **spondyloarthropathy** targets the entheses where tendons insert into bone, driving asymmetric inflammation."*

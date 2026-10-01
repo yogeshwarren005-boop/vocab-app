@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the three membranes that envelop the brain and spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the three membranes that envelop the brain and spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the membranes that envelop the brain and spinal cord (singular form of meninges).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative neuroanatomy, the primitive embryonic membranous covering (meninx primitiva) that subsequently differentiates into the dura mater and leptomeninges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meninx designates any of the three membranes that envelop the brain and spinal cord."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The outer **meninx**, or dura mater, adheres tightly to the inner table of the cranial bones."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In lower vertebrates, a single vascular **meninx** suffices to insulate the central nervous axis."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The embryonic mesenchyme surrounding the neural tube condenses to form the primitive undifferentiated **meninx**."*

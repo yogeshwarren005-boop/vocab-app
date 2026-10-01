@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slowing of an effect when the forces acting upon a body are changed (as if from viscosity or internal friction); especially : a lagging in the values of resulting magnetization in a magnetic material (such as iron) due to a changing magnetizing force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slowing of an effect when the forces acting upon a body are changed (as if from viscosity or internal friction); especially : a lagging in the values of resulting magnetization in a magnetic material (such as iron) due to a changing magnetizing force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by hysteresis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanics and materials physics, describing energy dissipation or phase lag resulting from cyclic loading and unloading in ferromagnetic, ferroelectric, or viscoelastic materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteretic designates a slowing of an effect when the forces acting upon a body are changed (as if from viscosity or internal friction); especially : a lagging in the values of resulting magnetization in a magnetic material (such as iron) due to a changing magnetizing force."*
+> - 📜 **James Alfred Ewing (*Magnetic Induction in Iron and Other Metals*):** *"The **hysteretic** loss per cycle in soft Swedish iron is remarkably small compared to hardened carbon steel."*
+> - 📜 **Nikola Tesla (*Experiments with Alternate Currents of High Potential and High Frequency*):** *"At elevated frequencies, internal **hysteretic** damping generates intense heating within dielectric insulators."*
+> - 📜 **William Thomson (Lord Kelvin) (*Mathematical and Physical Papers*):** *"Elastic bodies subjected to rapid cyclic twisting demonstrate measurable **hysteretic** retardations of recovery."*

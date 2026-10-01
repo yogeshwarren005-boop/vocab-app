@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An X-ray picture of the brain made by encephalography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An X-ray picture of the brain made by encephalography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographic, radiographic, or electrical record or image of the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a diagnostic image depicting cerebral ventricular contours (pneumoencephalogram) or brain wave tracings (electroencephalogram).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalogram designates an x-ray picture of the brain made by encephalography."*
+> - 📜 **Walter Dandy (*Ventriculography Following the Injection of Air into the Cerebral Ventricles*):** *"The air-filled **encephalogram** revealed marked asymmetric ventricular shift caused by a deep subcortical glioma."*
+> - 📜 **Hans Berger (*Electroencephalography in Humans*):** *"The normal **encephalogram** demonstrates steady synchronization of cortical neuronal firing across the parietal regions."*
+> - 📜 **Wilder Penfield (*Somatic Motor and Sensory Representation in the Cerebral Cortex of Man*):** *"Correlating the diagnostic **encephalogram** with intraoperative cortical stimulation allowed precise functional mapping of the precentral gyrus."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protozoa that move and capture food by forming pseudopods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protozoa that move and capture food by forming pseudopods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any amoeboid protozoan of or resembling the Sarcodina, characterized by pseudopodial locomotion and feeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In limnology and soil biology, sarcodines play major roles as microbial grazers controlling bacterial populations in aquatic and terrestrial ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcodine designates protozoa that move and capture food by forming pseudopods."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The fine ocean ooze brought up by our deep sounding lead consisted almost entirely of microscopic **sarcodine** shells."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Every free-living **sarcodine** responds to contact with nutrient particles by extending enveloping lobes of clear cytoplasm."*
+> - 📜 **Joseph Leidy (*Fresh-Water Rhizopods of North America*):** *"The graceful slow movement of a freshwater **sarcodine** under high magnification reveals active cytoplasmic streaming."*

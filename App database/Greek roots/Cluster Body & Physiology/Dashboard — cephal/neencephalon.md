@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cephal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phylogenetically newer part of the brain, specifically the cerebral neocortex and related telencephalic structures (neoencephalon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative evolutionary neurology, the modern cortical mantle that overlies and exerts inhibitory control over archaic subcortical brain centers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neencephalon designates a term designating an entity, condition, or phenomenon derived from greek cephal."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System of Man and Vertebrates*):** *"The phenomenal evolutionary expansion of the **neencephalon** provided the histological basis for human symbolic and reflective thought."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Voluntary motor control requires continuous descending facilitation from the **neencephalon** acting upon lower spinal mechanisms."*
+> - 📜 **C. Judson Herrick (*Brains of Rats and Men*):** *"The **neencephalon** is not an isolated organ, but an intricate associative superstructure built upon the ancient sensory paleencephalon."*

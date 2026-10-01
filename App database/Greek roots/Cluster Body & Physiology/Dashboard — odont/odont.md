@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: tooth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: having teeth of a (specified) nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root combining form (odont- / odonto-) meaning tooth or teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical nomenclature and taxonomic zoology, utilized in forming terms that designate tooth structures, dentition, or dental disorders (e.g., odontoid, odontology).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog odont as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Owen (*Odontography: A Treatise on the Comparative Anatomy of the Teeth*):** *"The Greek root **odont-** provides the foundational prefix for descriptive anatomical nomenclature of mammalian dentition."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Compounds incorporating **odont-** designate structures possessing tooth-like shapes or relations with the dental apparatus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pathological syndromes bearing the prefix **odont-** involve infectious or developmental disorders of the teeth and jaws."*

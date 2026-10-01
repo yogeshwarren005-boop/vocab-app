@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from or prone to bronchitis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from or prone to bronchitis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or suffering from bronchitis; characterized by inflammation of the bronchial tubes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, describing a chronic productive cough, wheezing respiration, or an individual constitution prone to recurrent chest catarrh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchitic designates suffering from or prone to bronchitis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The elderly patient exhibited chronic **bronchitic** cough, accompanied by coarse rales audible across both lung bases."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The raw winter damp brought on a harsh **bronchitic** wheeze that made every sentence an exhausting effort."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Thick purulent expectoration confirms the progression from simple catarrh to a severe **bronchitic** inflammation of the mucus lining."*

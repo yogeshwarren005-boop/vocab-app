@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: palmistry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: palmistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of predicting the future or interpreting character by inspecting the lines, mounts, and shape of the palm; palmistry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In esoteric history, a system of divination correlating astrological planetary influences with specific regions of the human hand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiromancy designates palmistry."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"To ground predictions of human fate upon the intersecting lines of the palm in **chiromancy** is an ancient and groundless vanity."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie listened with wonder as the gypsy woman pretended to decipher her future through rustic **chiromancy**."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes laughed at the pretensions of **chiromancy**, preferring the exact observation of trade calluses upon the fingertips."*

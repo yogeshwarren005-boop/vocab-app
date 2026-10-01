@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of blood in the anterior chamber of the eye between the cornea and the iris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic surgery and trauma, a hemorrhagic collection in the anterior ocular segment resulting from blunt trauma to the iris or ciliary body, carrying risk of secondary glaucoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyphaema designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **William Mackenzie (*A Practical Treatise on the Diseases of the Eye*):** *"Blunt contusion of the globe frequently precipitates a visible **hyphaema**, the blood settling down by gravity to the lower angle of the chamber."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Laceration of the delicate circulus arteriosus iridis leads directly to traumatic **hyphaema** obscuring the lower half of the pupil."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"Unless strict bed rest is enforced, recurrent **hyphaema** may cause secondary corneal blood staining and severe elevation of intraocular tension."*

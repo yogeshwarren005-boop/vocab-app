@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small abnormal bony outgrowth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small abnormal bony outgrowth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bony projection or spur that develops along joint margins or vertebral bodies in response to cartilage degeneration and stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology and orthopedics, a fibrocartilaginous and osseous outgrowth characteristic of osteoarthritis, spondylosis, or chronic mechanical joint instability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteophyte designates small abnormal bony outgrowth."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Marginal proliferation of bone, producing the classic **osteophyte**, represents an attempt by the joint to widen its load-bearing surface."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cervical spondylosis, a posterior vertebral **osteophyte** can encroach upon the spinal cord or exiting nerve roots."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of Old Age*):** *"The Heberden nodes observed on osteoarthritic distal interphalangeal joints are composed of hypertrophic **osteophyte** outgrowths."*

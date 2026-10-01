@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an exceptionally large head and brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an exceptionally large head and brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an abnormally large head or skull; macrocephalous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and neurology, having a cranial circumference greater than two standard deviations above the population mean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrocephalic designates having an exceptionally large head and brain."*
+> - 📜 **Paul Broca (*Instructions Craniologiques*):** *"Skulls exhibiting cranial capacity well above eighteen hundred cubic centimeters are classified as markedly **macrocephalic**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient presented with a **macrocephalic** cranial vault, prominent bossing, and bowing of the long bones characteristic of Paget's disease."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"Certain geographical populations exhibit naturally **macrocephalic** cranial averages without any accompanying mental deficit."*

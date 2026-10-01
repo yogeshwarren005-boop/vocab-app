@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chromosome that differs from the ordinary autosomes in morphology, size, staining behavior, or genetic role (chiefly a sex chromosome).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduced by Thomas Montgomery in 1904 to encompass allosomes, accessory chromosomes, and B-chromosomes displaying heteropyknosis during cell cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterochromosome designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Montgomery applied the name **heterochromosome** to those elements which exhibit distinct condensed behavior during interkinesis."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"The unequal pair of elements in male hemipterans revealed that the **heterochromosome** directly governed sex determination."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Differential heterochromatic staining clearly distinguishes each **heterochromosome** from the remainder of the karyotype."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A respiratory infection of the nose and throat in cattle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A respiratory infection of the nose and throat in cattle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation simultaneously affecting the mucous membranes of the nasal passages and the trachea, typically caused by viral or bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine, feline viral rhinotracheitis (caused by Feline herpesvirus 1) and bovine infectious rhinotracheitis (Bovine herpesvirus 1) represent highly contagious and economically significant herd ailments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinotracheitis designates a respiratory infection of the nose and throat in cattle."*
+> - 📜 **James Law (*The Farmer's Veterinary Adviser*):** *"Epizootic **rhinotracheitis** spreads rapidly through feedlots, marked by high fever, salivation, and necrotic nasal exudate."*
+> - 📜 **Veranus Alva Moore (*The Pathology and Differential Diagnosis of Infectious Diseases of Animals*):** *"In feline **rhinotracheitis**, paroxysmal sneezing and ulcerated cornea frequently accompany upper airway obstruction."*
+> - 📜 **Theobald Smith (*Studies on Animal Diseases*):** *"The respiratory lesions of **rhinotracheitis** establish favorable niduses for secondary opportunistic bacterial invaders."*

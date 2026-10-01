@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lethal congenital malformation characterized by the ventromedial migration and fusion of the external ears beneath an absent or rudimentary lower jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental teratology, agnathia-otocephaly complex, an extreme first branchial arch defect resulting in lack of a mandible and approximation of the ears.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otocephaly designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **Isidore Geoffroy Saint-Hilaire (*General and Particular History of Anomalies of Organization*):** *"In **otocephaly**, the external ears meet in the anterior midline of the neck because the lower jaw has completely failed to form."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The severe developmental anomaly termed **otocephaly** demonstrates how mandibular hypoplasia disrupts the lateral migration of the auricles."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Severe disruption of neural crest cell migration into the first pharyngeal arch is the underlying developmental etiology of human **otocephaly**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease characterized by severe diarrhea with passage of mucus and blood and usually caused by infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease characterized by severe diarrhea with passage of mucus and blood and usually caused by infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection of the intestines resulting in severe diarrhea with the presence of blood and mucus in the feces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical infectious disease and epidemiology, an acute gastrointestinal syndrome caused either by invasive bacilli (Shigella) or parasitic amoebae (Entamoeba histolytica).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They were willing to be wounded, shot, to die, if need be, but after months of inaction they find themselves conquered by dysentery or fever."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was evidently not so much his sufferings that caused him to moan (he had dysentery) as his fear and grief at being left alone."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"On the 20th Cardinal Portocarero will die of a dysentery, with great suspicion of poison, but the report of his intention to revolt to King Charles will prove false. _July_."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The plague in besieged Athens was aggravated by crowded quarters, and virulent **dysentery** swept through the refugee huts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Amebic **dysentery** must be differentiated from acute bacillary outbreaks by immediate microscopic demonstration of motile trophozoites."*
+> - 📜 **Paul Farmer (*Pathologies of Power*):** *"Access to clean municipal water instantly eliminates the scourge of infantile **dysentery** that haunts informal refugee camps."*

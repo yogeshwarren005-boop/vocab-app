@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cephal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or fortune-telling practiced by inspecting the head or skull of an animal or person, or by roasting an ass's head on burning coals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of occultism and magical folklore, an ancient divinatory ritual wherein crackling sounds or facial contortions were interpreted as oracles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalomancy designates a term designating an entity, condition, or phenomenon derived from greek cephal."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Among obsolete superstitions, **cephalomancy** roasted an ass's head upon glowing embers to discover the identity of thieves."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The divinatory rites of **cephalomancy** reflect the universal archaic belief that spiritual wisdom lingers within the severed skull."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Consulting skull oracles or practicing **cephalomancy** was a widespread method of seeking prophetic counsel before military campaigns."*

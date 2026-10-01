@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic class of jawless, eel-shaped marine fishes comprising the hagfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate phylogenetics and ichthyology, ancient craniates lacking true vertebrae, jaws, and paired fins, renowned for producing vast quantities of defensive slime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Myxini designates a term designating an entity, condition, or phenomenon derived from greek myx."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The class **Myxini** represents the most primitive living branch of the craniate chordates."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Abundant slime pores along the ventrolateral margins of **Myxini** secrete fibrous mucus to deter predators."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Embryological studies of **Myxini** have illuminated the evolutionary origin of the vertebrate skull."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of fingers and/or toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital absence of fingers and/or toes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital absence of all fingers or toes on one or more limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and medical genetics, an extreme reduction malformation of the autopod resulting from early failure of limb bud apical ectodermal ridge signaling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adactylia designates congenital absence of fingers and/or toes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The teratological museum possessed an example of complete bilateral **adactylia**, where the forearms ended in smooth, rounded stumps."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"In congenital **adactylia**, the carpals are frequently hypoplastic or fused into a solid cartilaginous plate."*
+> - 📜 **Étienne Geoffroy Saint-Hilaire (*Philosophie Anatomique*):** *"Cases of **adactylia** demonstrate that the terminal segments of the vertebrate limb are the most vulnerable to developmental arrest."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of entering again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of entering again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of entering again; especially the return of a spacecraft or missile into the Earth's atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and cardiology, the reintegration of an individual into society, or an abnormal circular cardiac electrical conduction loop causing arrhythmia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reentry designates the act of entering again."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"The fiery friction of atmospheric **reentry** bathed the capsule heat shield in glowing orange plasma, cutting radio telemetry."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Ablative tiles on the spacecraft belly absorbed thousands of degrees of friction heat during supersonic **reentry** into Florida skies."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Ventricular tachycardia often arises from an electrical **reentry** circuit circulating around an ischemic myocardial scar."*

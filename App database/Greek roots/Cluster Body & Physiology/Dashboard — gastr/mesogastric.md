@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the middle region of the abdomen (umbilical region); or relating to the mesogastrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and anatomy, pertaining to the embryonic mesentery (dorsal or ventral mesogastrium) that suspends the stomach from the abdominal wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesogastric designates adjective*) pertaining to, derived from, or characteristic of stomach."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Localized tenderness in the **mesogastric** zone surrounding the umbilicus suggests pathology of the small intestine or mesenteric nodes."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"During gastric rotation, the dorsal **mesogastric** fold balloons outward to form the expansive apron of the greater omentum."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The surgeon divided the avascular window in the **mesogastric** ligament to enter the lesser peritoneal sac."*

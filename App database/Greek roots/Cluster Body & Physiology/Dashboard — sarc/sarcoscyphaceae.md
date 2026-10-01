@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of fungi belonging to the order pezizales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of fungi belonging to the order pezizales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of cup fungi within the order Pezizales (phylum Ascomycota), typified by brilliant scarlet, orange, or crimson apothecia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, Sarcoscyphaceae species (such as *Sarcoscypha coccinea*, the scarlet elf cup) grow as saprobes on decaying fallen twigs and woody litter in moist temperate forests during late winter and early spring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoscyphaceae designates family of fungi belonging to the order pezizales."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"The family **Sarcoscyphaceae** comprises cup-fungi possessing fleshy or subgelatinous apothecia lined with brightly pigmented hymenia."*
+> - 📜 **Charles Horton Peck (*Report of the State Botanist of New York*):** *"On damp forest branches half-buried in spring leaves, species of **Sarcoscyphaceae** display their dazzling vermilion cups."*
+> - 📜 **M. J. Berkeley (*Outlines of British Fungology*):** *"The thick-walled asci of the **Sarcoscyphaceae** dehisce operculately to discharge their smooth, guttulate ascospores."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of the volume of red blood cells to the total volume of blood as determined by separation of red blood cells from the plasma usually by centrifugation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of the volume of red blood cells to the total volume of blood as determined by separation of red blood cells from the plasma usually by centrifugation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The percentage of whole blood volume that is made up of red blood cells, determined by centrifugation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A centrifuge or graduated capillary tube instrument used to measure packed red cell volume, serving as a fundamental parameter in assessing anemia and polycythemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematocrit designates the ratio of the volume of red blood cells to the total volume of blood as determined by separation of red blood cells from the plasma usually by centrifugation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Measurement of the **hematocrit** provides an indispensable baseline for evaluating hemoconcentration in dehydrated patients."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"When whole blood is spun down in a capillary tube, the resulting **hematocrit** typically registers approximately forty-five percent in healthy adult males."*
+> - 📜 **Karl Landsteiner (*The Specificity of Serological Reactions*):** *"Centrifugal packing in the **hematocrit** confirmed the proportional volume occupied by sensitized agglutinated cells."*

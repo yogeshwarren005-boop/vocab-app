@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialty concerned especially with the ear, nose, and throat and related parts of the head and neck —called also otorhinolaryngology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical specialty concerned especially with the ear, nose, and throat and related parts of the head and neck —called also otorhinolaryngology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical and surgical specialty that focuses on the anatomy, physiology, diagnosis, and treatment of diseases of the ears, nose, and throat (ENT).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a surgical discipline encompassing otology, rhinology, laryngology, facial plastic surgery, and head and neck oncology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otolaryngology designates a medical specialty concerned especially with the ear, nose, and throat and related parts of the head and neck —called also otorhinolaryngology."*
+> - 📜 **Chevalier Jackson (*The Life of Chevalier Jackson: An Autobiography*):** *"The development of endolaryngeal optical instruments expanded the frontiers of **otolaryngology** into life-saving airway surgery."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Specialization in **otolaryngology** brought unprecedented surgical precision to conditions that were formerly fatal in childhood."*
+> - 📜 **Harvey Cushing (*Intracranial Tumours*):** *"Modern transsphenoidal approaches to the pituitary gland rely on the shared anatomical expertise of neurosurgery and **otolaryngology**."*

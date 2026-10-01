@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek my.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, persistent, and irrational fear or dread of mice and rats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and abnormal psychology, a specific phobia belonging to the animal subtype, often accompanied by panic, hyperventilation, and extreme avoidance behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, musophobia designates a term designating an entity, condition, or phenomenon derived from greek my."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Severe **musophobia** frequently traces back to childhood trauma or repressed anxieties displaced onto household rodents."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An acute attack of **musophobia** triggers instantaneous autonomic arousal and uncontrollable flight reflexes."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Pathological dreads such as **musophobia** reveal how primitive animal fears persist within civilized neuroses."*

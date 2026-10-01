@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cephal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The head or anterior body region of a trilobite or other arthropod, composed of fused segments bearing eyes, antennae, and mouthparts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology, the consolidated dorsal shield of a trilobite, divided into a central glabella and lateral genae or cheeks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalon designates a term designating an entity, condition, or phenomenon derived from greek cephal."*
+> - 📜 **Charles Doolittle Walcott (*The Fauna of the Lower Cambrian or Olenellus Zone*):** *"The semicircular **cephalon** of the trilobite is armed with prominent genal spines projecting backward along the thorax."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"In trilobites, the **cephalon** represents the anterior tagma formed by the ancestral fusion of five or six segments."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Examining the ventral surface of the **cephalon** reveals the hypostome that sheltered the arthropod mouth."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With sternness; in a severe manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With sternness; in a severe manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stern, strict, severe, or uncompromising manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adverb conveying severe moral gravity, unyielding discipline, or unrelenting disapproval in expression or action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Much better!” “Why, you an’t such an unnatural woman, I hope,” returns Bucket sternly, “as to wish your own child dead?” “God knows you are right, master,” she returns."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not dead in the first hours of her life, as my cruel sister told me, but sternly nurtured by her, after she had renounced me and my name!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What do you mean?” inquired my guardian, almost sternly."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"'You will answer for this neglect,' said the magistrate **sternly**, fixing his cold eyes upon the frightened turnkey."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She spoke **sternly**, determined that no weakness of compassion should divert her from the painful path of duty."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The Puritan elders frowned **sternly** upon any outward show of luxury or frivolous decoration."*

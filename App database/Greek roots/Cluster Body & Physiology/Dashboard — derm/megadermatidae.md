@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world false vampire bats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world false vampire bats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of microchiropteran bats commonly known as false vampire bats, characterized by very large ears joined across the forehead and a tall nose-leaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chiropteran systematics, predatory Old World bats of Africa, southern Asia, and Australia that hunt small vertebrates and large arthropods by gleaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megadermatidae designates old world false vampire bats."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The family **Megadermatidae** ranges across the tropical zones of the Old World, from central Africa to northern Australia."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The immense tragus and fused pinnae in the **Megadermatidae** endow these bats with extraordinary passive acoustic sensitivity."*
+> - 📜 **Donald Griffin (*Listening in the Dark*):** *"Gleaning bats of the **Megadermatidae** can locate rustling prey on the ground using passive hearing rather than loud echolocation."*

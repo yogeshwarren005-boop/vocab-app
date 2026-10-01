@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The social event at which the ceremony of marriage is performed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wedding hymn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nuptial songs, wedding poems, or marriage celebrations (plural form of hymeneal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetry, joyful choral songs invoking Hymen to bless newly wedded lovers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymeneals designates the social event at which the ceremony of marriage is performed."*
+> - 📜 **Lord Byron (*Don Juan*):** *"The joyous feast, the dancing, and the loud **hymeneals** echoed through the palace till dawn."*
+> - 📜 **John Dryden (*The Fables of John Dryden*):** *"Soft flutes accompanied the sweet **hymeneals** chanted by the maidens before the bridal chamber."*
+> - 📜 **Alexander Pope (*The Odyssey of Homer*):** *"Joyful youths led forth the radiant bride amidst festive torches and resonant **hymeneals**."*

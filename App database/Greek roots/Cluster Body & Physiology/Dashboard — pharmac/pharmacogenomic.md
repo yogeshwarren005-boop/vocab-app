@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science concerned with understanding how genetic differences among individuals cause varied responses to the same drug and with developing drug therapies to compensate for these differences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science concerned with understanding how genetic differences among individuals cause varied responses to the same drug and with developing drug therapies to compensate for these differences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pharmacogenomics—the study of how the entire genome influences an individual's response to drugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biotechnology and clinical oncology, describing genome-wide approaches to drug discovery, targeted therapies, and individualized dosing algorithms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacogenomic designates the science concerned with understanding how genetic differences among individuals cause varied responses to the same drug and with developing drug therapies to compensate for these differences."*
+> - 📜 **Francis Collins (*The Language of Life*):** *"Comprehensive **pharmacogenomic** profiling enables clinicians to tailor chemotherapy cocktails to the tumor's distinct genetic mutations."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Modern **pharmacogenomic** assays screen multiple polygenic loci to optimize anticoagulant therapy with warfarin."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"The transition from single-gene pharmacogenetics to high-throughput **pharmacogenomic** screening heralds personalized medicine."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hemoprotein composed of globin and heme that gives red blood cells their characteristic color; function primarily to transport oxygen from the lungs to the body tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hemoprotein composed of globin and heme that gives red blood cells their characteristic color; function primarily to transport oxygen from the lungs to the body tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The iron-containing oxygen-transport metalloprotein present in the red blood cells of vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quaternary tetrameric protein consisting of four globin subunits, each bound to a prosthetic haem group capable of reversible cooperative oxygen binding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoglobin designates a hemoprotein composed of globin and heme that gives red blood cells their characteristic color; function primarily to transport oxygen from the lungs to the body tissues."*
+> - 📜 **Felix Hoppe-Seyler (*Handbuch der Physiologisch- und Pathologisch-Chemischen Analyse*):** *"The crystalline red matter of blood, which we designate **haemoglobin**, exhibits a remarkable property of combining reversibly with atmospheric oxygen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A reduction in the percentage of circulating **haemoglobin** constitutes the fundamental physiological definition of an anemic state."*
+> - 📜 **John Burdon-Sanderson (*Handbook for the Physiological Laboratory*):** *"When illuminated by the spectroscope, dilute solutions of oxy-**haemoglobin** display two well-defined dark bands between the Fraunhofer lines D and E."*

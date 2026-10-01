@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or expressed by parables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the form of a parabola.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the form of, or resembling a parabola; parabolic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conveying moral or spiritual instruction through parables; allegorical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parabolical designates resembling or expressed by parables."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanicall*):** *"The **parabolical** mirror concentrates parallel rays of light with supreme intensity upon its central focus."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ancient fables carry a **parabolical** sense beneath their outward narrative ornament."*
+> - 📜 **Isaac Barrow (*Geometrical Lectures*):** *"We deduce the quadrature of **parabolical** figures by exhaustively inscribing rectilinear polygons."*

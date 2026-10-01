@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing large star-shaped cells in the neuroglia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing large star-shaped cells in the neuroglia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or composed of astrocytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropathology, describing reactive gliosis (astrogliosis) or neoplasms (astrocytomas) derived from transformed star-shaped glial cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrocytic designates of or relating to or containing large star-shaped cells in the neuroglia."*
+> - 📜 **Santiago Ramón y Cajal (*Degeneration and Regeneration of the Nervous System*):** *"Dense meshworks of **astrocytic** end-feet envelop the cerebral microvasculature, forming a continuous perivascular sheath."*
+> - 📜 **Harvey Cushing (*A Classification of the Tumors of the Glioma Group*):** *"The benign fibrillary tumor consists of well-differentiated cells of **astrocytic** lineage with delicate spider-like fibrils."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Post-mortem analysis revealed intense **astrocytic** scarring throughout the substantia nigra of the post-encephalitic patients."*

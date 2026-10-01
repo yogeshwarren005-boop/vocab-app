@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To flood (the market) with goods so that supply exceeds demand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To fill especially with food to excess.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessively abundant supply of something; or to supply or fill to excess, especially with food or commodities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical economics, an overproduction or general excess of goods beyond effective market demand (a market glut).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As I fell I could see the concern on the faces of Lanfranc and Bohemond and the glut of satisfaction in the face of de Villehardouin as he pressed me."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Most strange is man, ever insatiable, ever unsatisfied, never at peace with God or himself, his days filled with restlessness and useless endeavour, his nights a glut of vain dreams of desires wilful and wrong."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I have lain in the barley, sick with yearning for her, just to see her pass and glut my eyes with the swaying wonder of her and of her hair, black with the night, or brown or flaxen, or all golden-dusty with the sun."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"When merchant fleets dump colonial commodities simultaneously onto the docks, a sudden **glut** in the market collapses prices."*
+> - 📜 **Thomas Robert Malthus (*Principles of Political Economy*):** *"Ricardo denied the possibility of a general **glut**, arguing that supply necessarily creates its own demand."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"He'll be hang'd yet, / Though every drop of water swear against it / And gape at widest to **glut** him."*

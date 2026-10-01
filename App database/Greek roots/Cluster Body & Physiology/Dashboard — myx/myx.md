@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mucus : slime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mucus : slime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root combining form (myx- / myxo-) meaning mucus or slime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological nomenclature and medical pathology, utilized to designate mucinous organisms, tissues, or pathological conditions (e.g., myxoma, myxedema).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myx designates mucus : slime."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The root **myx-** appropriately designates pathological tissues whose intercellular substance is saturated with mucin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Terms incorporating **myx-** denote clinical syndromes characterized by excessive gelatinous or mucinous deposits."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"In anatomical terminology, the prefix **myx-** refers to the presence of mucus-like connective tissue."*

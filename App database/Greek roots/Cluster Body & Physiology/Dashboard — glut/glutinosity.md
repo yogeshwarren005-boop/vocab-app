@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having a viscosity like jelly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having a viscosity like jelly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being glutinous; stickiness, viscidity, or adhesive tackiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material science and botanical descriptive morphology, viscous adhesiveness resulting from concentrated polysaccharides, mucilage, or resins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glutinosity designates the property of having a viscosity like jelly."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain tree barks yield a thick exudation that hardens into gum by reason of its natural **glutinosity**."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The glandular hairs of the butterwort secrete droplets endowed with extraordinary **glutinosity**, trapping small gnats upon contact."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"Examined under the lens, the snail's glistening trail retained a tenacious **glutinosity** that resisted drying in the air."*

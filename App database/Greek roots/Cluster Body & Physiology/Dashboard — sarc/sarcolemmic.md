@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to sarcolemma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to sarcolemma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or derived from the sarcolemma; an alternative adjective to sarcolemmal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frequently found in earlier histological and pathological literature describing muscle fiber sheaths and neuromuscular junctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcolemmic designates of or relating to sarcolemma."*
+> - 📜 **William Bowman (*On the Minute Structure and Movements of Voluntary Muscle*):** *"The **sarcolemmic** wall remains intact even when violent mechanical rupture fractures the enclosed sarcous elements."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"During granular degeneration of voluntary muscle, the **sarcolemmic** tubes become filled with fatty and proteinaceous debris."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"Subneural motor arborizations spread directly across the **sarcolemmic** surface without penetrating the inner sarcoplasm."*

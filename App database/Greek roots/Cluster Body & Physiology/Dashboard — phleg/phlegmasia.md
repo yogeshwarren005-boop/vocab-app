@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phleg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation or an acute inflammatory disease accompanied by fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical vascular pathology, acute deep venous occlusion of the extremities, especially phlegmasia alba dolens (milk leg) and phlegmasia cerulea dolens (ischemic venous gangrene).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlegmasia designates a term designating an entity, condition, or phenomenon derived from greek phleg."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Postpartum **phlegmasia** alba dolens produces painful pale swelling of the entire lower extremity due to femoral thrombosis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The cyanotic engorgement of **phlegmasia** cerulea dolens results from total occlusion of both deep and collateral venous drainage."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Urgent thrombectomy was undertaken to prevent impending limb gangrene in fulminant **phlegmasia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the kidneys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned with the kidneys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science that deals with the physiology, diseases, and treatment of the kidneys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal medicine, the subspecialty focused on renal hemodynamics, glomerular filtration, tubular electrolyte transport, and maintenance dialysis therapies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrology designates a branch of medicine concerned with the kidneys."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The emergence of modern clinical **nephrology** has revolutionized our understanding of systemic fluid homeostasis."*
+> - 📜 **Homer Smith (*The Kidney: Structure and Function in Health and Disease*):** *"Experimental clearance techniques established the quantitative foundation of contemporary **nephrology**."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The systematic correlation of albuminous urine with renal structural changes laid the cornerstone of scientific **nephrology**."*

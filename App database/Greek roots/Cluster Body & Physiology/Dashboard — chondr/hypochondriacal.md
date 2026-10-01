@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from hypochondria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from hypochondria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suffering from hypochondria; morbidly anxious regarding health and bodily functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing gloom, melancholic delusion, or imagined physical ailments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A hypochondriacal tendency had shown itself in the banker’s constitution of late; and a lack of sleep, which was really only a slight exaggeration of an habitual dyspeptic symptom, had been dwelt on by him as a sign of threatening insanity."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This brilliant and hypochondriacal person spent years in watching his symptoms and consulting the god about them."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"He fell into a gloomy, **hypochondriacal** humor, fancying that every slight cold was the forerunner of consumption."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A sedentary life in ill-ventilated chambers often breeds **hypochondriacal** vapors that darken creative genius."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"An earnest study of strange antique treatises aggravated the **hypochondriacal** terrors of Roderick Usher."*

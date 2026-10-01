@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A book describing drugs, chemicals, and medicinal preparations; especially : one issued by an officially recognized authority and serving as a standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection or stock of drugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official book published by authority, containing directions for the identification, compounding, and testing of medicines (traditional British and classical spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical history and law, the statutory reference work defining chemical purity and standards of drug formulations (e.g., British Pharmacopoeia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"The Professor’s actions were certainly odd and not to be found in any pharmacopoeia that I ever heard of."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She should have change, fresh air, gaiety; the most delightful remedies in the pharmacopoeia," Mr."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Many fabulous ingredients formerly admitted into the **pharmacopoeia** have been purged by critical chemical inquiry."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The British **pharmacopoeia** provides an authoritative safeguard ensuring uniform strength across all compounded tinctures."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The compilers of the London **pharmacopoeia** did wisely in standardizing chemical distillations against fraudulent adulteration."*

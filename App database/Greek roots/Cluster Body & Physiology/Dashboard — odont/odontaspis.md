@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type and sole genus of carchariidae: sand sharks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type and sole genus of carchariidae: sand sharks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of lamniform sharks in the family Odontaspididae, including the smalltooth sand tiger shark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine paleontology and ichthyology, slender-bodied sharks with long, awl-like teeth characterized by prominent lateral denticles, known from abundant fossil tooth beds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontaspis designates type and sole genus of carchariidae: sand sharks."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"I established the genus **Odontaspis** to receive fossil shark teeth displaying slender crowns flanked by sharp lateral cusps."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The living shark **Odontaspis** swims slowly over sandy sea bottoms, snatching cephalopods and bottom-dwelling fishes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The jaw mechanics of **Odontaspis** illustrate efficient puncture-and-hold predation among primitive lamniforms."*

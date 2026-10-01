@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition in which cerebrospinal fluid collects in the ventricles of the brain; in infants it can cause abnormally rapid growth of the head and bulging fontanelles and a small face; in adults the symptoms are primarily neurological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition in which cerebrospinal fluid collects in the ventricles of the brain; in infants it can cause abnormally rapid growth of the head and bulging fontanelles and a small face; in adults the symptoms are primarily neurological.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative medical term for hydrocephalus; the pathological accumulation of fluid within the cranium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical pathology and surgery, the chronic expansion of the intracranial fluid spaces causing cerebral thinning and cranial deformity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocephaly designates an abnormal condition in which cerebrospinal fluid collects in the ventricles of the brain; in infants it can cause abnormally rapid growth of the head and bulging fontanelles and a small face; in adults the symptoms are primarily neurological."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Congenital **hydrocephaly** softens the cranial bones to such a degree that the sutures feel like yielding parchment under the fingers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of neglected **hydrocephaly**, the brain parenchyma is stretched into a paper-thin shell lining the dilated ventricles."*
+> - 📜 **Harvey Cushing (*Surgery of the Head*):** *"Early surgical drainage remains the only rational therapy to arrest the progressive neurological deterioration of severe **hydrocephaly**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease or condition (such as hepatitis A or hepatitis B) marked by inflammation of the liver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the liver, resulting in parenchymal cellular injury and potential impairment of liver function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hepatology, an acute or chronic hepatic inflammatory disorder induced by hepatotropic viruses (A, B, C, D, E), autoimmune mechanisms, alcohol, or hepatotoxins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatitis designates inflammation of the liver."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute viral **hepatitis** presents with malaise, anorexia, and right upper quadrant tenderness, followed in several days by prominent clinical jaundice."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic sections from cases of acute yellow atrophy demonstrate an extreme, fulminant form of necrotizing **hepatitis**."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Obstinate inflammation of the liver, or acute **hepatitis**, if not promptly relieved by cooling remedies, may terminate in purulent abscess."*

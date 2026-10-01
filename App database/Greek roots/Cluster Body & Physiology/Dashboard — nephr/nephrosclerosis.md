@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kidney disease that is usually associated with hypertension; sclerosis of the renal arterioles reduces blood flow that can lead to kidney failure and heart failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kidney disease that is usually associated with hypertension; sclerosis of the renal arterioles reduces blood flow that can lead to kidney failure and heart failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hardening and scarring of the kidney tissues, especially involving the renal arteries and arterioles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renal pathology, progressive vascular sclerosis associated with chronic systemic hypertension, resulting in ischemia, loss of glomeruli, and fibrous contracted kidneys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrosclerosis designates kidney disease that is usually associated with hypertension; sclerosis of the renal arterioles reduces blood flow that can lead to kidney failure and heart failure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Arteriolar **nephrosclerosis** is the anatomical substrate of the contracted kidney found in chronic hypertension."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The gross appearance of **nephrosclerosis** shows a finely granular, shrunken cortical surface with adherent capsule."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Longstanding essential hypertension eventually compromises renal reserve through advancing **nephrosclerosis**."*

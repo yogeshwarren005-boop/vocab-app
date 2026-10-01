@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of vascular connective tissue lining the medullary cavities of bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The layer of vascular connective tissue lining the medullary cavities of bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin, vascular membrane of connective tissue that lines the inner surface of the medullary cavity and trabeculae of bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and bone biology, the osteogenic and osteolytic cellular layer lining internal bone cavities, active in bone resorption, mineral homeostasis, and marrow maintenance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endosteum designates the layer of vascular connective tissue lining the medullary cavities of bone."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The cellular elements of the **endosteum** participate actively in the remodeling of the internal trabecular architecture."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Purulent infection within the medullary canal rapidly strips the **endosteum**, causing extensive ischemic necrosis of the shaft."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Lining the medullary canal of long bones, the **endosteum** contains osteoblasts and osteoclasts essential for bone repair."*

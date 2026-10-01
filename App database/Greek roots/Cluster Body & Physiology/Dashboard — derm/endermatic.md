@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting by absorption through the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting by absorption through the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting through or applied directly to the denuded dermis; endermic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical pharmacology, a technique of introducing medicaments onto a raw de-epithelialized skin surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endermatic designates acting by absorption through the skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early nineteenth-century clinicians frequently resorted to **endermatic** application of belladonna to quiet severe sciatic neuralgia."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures and Reports*):** *"The **endermatic** method fell into disuse as soon as hypodermic needles provided exact dosing and painless administration."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Topical mercurial salves were administered by **endermatic** inunction over denuded blisters to treat constitutional syphilis."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek angi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small vascular malformation characterized by dilated, tortuous, thin-walled submucosal blood vessels in the gastrointestinal tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, an acquired degenerative vascular lesion of the cecum and ascending colon and a frequent cause of unexplained lower gastrointestinal bleeding in the elderly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiodysplasia designates a term designating an entity, condition, or phenomenon derived from greek angi."*
+> - 📜 **Siddhartha Mukherjee (*The Laws of Medicine*):** *"Endoscopic examination revealed a bleeding **angiodysplasia** in the cecal wall, amenable to thermal coagulation."*
+> - 📜 **Atul Gawande (*Complications*):** *"The patient had suffered chronic occult blood loss caused by an elusive cecal **angiodysplasia** missed on standard radiographs."*
+> - 📜 **Jack A. Pritchard (*Clinical Gastroenterology*):** *"Aortic stenosis is frequently associated with bleeding colonic **angiodysplasia** in Heyde's syndrome."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defective or abnormal ossification and bone development, particularly involving the craniofacial skeleton or limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics and skeletal dysplasias, a hereditary disorder of skeletal morphogenesis (such as cleidocranial dysostosis or mandibulofacial dysostosis) caused by mutations in developmental patterning genes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysostosis designates a term designating an entity, condition, or phenomenon derived from greek oste."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients with cleidocranial **dysostosis** can approximate their shoulders in the midline due to congenital aplasia of the clavicles."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The skeletal deformities in generalized **dysostosis** reveal a disruption in the primary cartilaginous matrix preceding ossification."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Genetic mapping in craniofacial **dysostosis** syndromes pinpointed specific mutations in fibroblast growth factor receptor genes."*

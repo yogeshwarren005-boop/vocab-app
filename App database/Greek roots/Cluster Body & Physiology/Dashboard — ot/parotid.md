@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the parotid gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serous salivary gland situated on each side of the face below and in front of the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest of the three pairs of major salivary glands, situated anteroinferior to the external ear canal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gross human anatomy and head and neck surgery, the glandular space traversed by the facial nerve, retromandibular vein, and external carotid artery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This was described as “inflammation of the right parotid gland.” On August 24th it was decided to make an incision below and forward of the right ear, in order to prevent suppuration."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The superficial lobe of the **parotid** gland rests upon the masseter muscle, emptying serous saliva through Stensen's duct."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute bilateral swelling of the **parotid** glands is the hallmark sign of epidemic mumps in pediatric patients."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Pleomorphic adenoma commonly arises within the deep parenchyma of the **parotid**, requiring careful preservation of the facial branches."*

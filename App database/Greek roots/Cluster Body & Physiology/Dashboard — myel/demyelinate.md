@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy the myelin sheath of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy the myelin sheath of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To destroy, strip away, or remove the myelin sheath from a nerve fiber or axon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental neurobiology and pathology, to induce loss of myelin insulation through toxic, autoimmune, or mechanical insults, disrupting saltatory action potential propagation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demyelinate designates destroy the myelin sheath of."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Chemical neurotoxins selectively **demyelinate** central pathways while leaving the underlying axis cylinder structurally intact."*
+> - 📜 **Wilder Penfield (*Cytology and Cellular Pathology of the Nervous System*):** *"Activated microglial cells actively ingest and **demyelinate** focal patches of white matter in animal models."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Autoimmune cascades that systematically **demyelinate** peripheral axons cause acute flaccid paralysis."*

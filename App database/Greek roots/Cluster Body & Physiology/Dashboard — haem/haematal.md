@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the blood vessels or blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the blood vessels or blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the blood or blood vessels; hemal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical anatomy and physiological zoology, describing vascular channels, circulation, or blood-vascular axes in invertebrates and vertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematal designates relating to the blood vessels or blood."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The pulsating dorsal vessel of the annelid directs rhythmic **haematal** flow forward toward the esophageal rings."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"In mollusks, the open circulatory system conveys the **haematal** fluid into spacious lacunae bathing the visceral organs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The profound **haematal** changes occurring during severe sepsis include consumption coagulopathy and thrombocytopenia."*

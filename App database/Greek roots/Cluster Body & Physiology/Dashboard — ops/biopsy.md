@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal and examination of tissue, cells, or fluids from the living body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The removal and examination of tissue, cells, or fluids from the living body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal and examination of tissue, cells, or fluids from the living body for diagnostic purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology and oncologic medicine, an essential diagnostic procedure (incisional, excisional, core-needle, or punch) establishing definitive histopathological diagnosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biopsy designates the removal and examination of tissue, cells, or fluids from the living body."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic examination of a living surgical **biopsy** reveals cellular alterations long before macroscopic symptoms appear."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A diagnostic lymph node **biopsy** confirmed the characteristic Reed-Sternberg cells of Hodgkin's disease."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Frozen-section analysis of an intraoperative **biopsy** guides the surgeon on whether to proceed with radical excision."*

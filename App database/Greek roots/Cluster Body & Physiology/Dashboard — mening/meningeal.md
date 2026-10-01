@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the meninges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the meninges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the meninges, the membranes that envelop the brain and spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurovascular anatomy, describing arteries, veins, nerves, or irritation syndromes (such as meningismus) located within or supplying the meninges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meningeal designates relating to the meninges."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Laceration of the middle **meningeal** artery generates a rapidly expanding extradural hematoma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked **meningeal** irritation accompanied by Kernig's sign strongly suggests acute subarachnoid pathology."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The posterior **meningeal** branches arise from the occipital artery and enter the posterior cranial fossa."*

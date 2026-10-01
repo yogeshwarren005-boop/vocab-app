@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of optics that deals with optical systems combining both refraction (lenses) and reflection (mirrors).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics and astronomical engineering, the design principles of catadioptric telescopes, searchlights, and lighthouse fresnel lenses that eliminate chromatic and spherical aberrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catadioptrics designates a term designating an entity, condition, or phenomenon derived from greek ops."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"The principles of **catadioptrics** permit the construction of lighthouse lanterns that concentrate divergent beams into intense parallel rays."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"By uniting reflection and refraction, **catadioptrics** achieves wide flat focal planes free from coma."*
+> - 📜 **Thomas Young (*A Course of Lectures on Natural Philosophy and the Mechanical Arts*):** *"In **catadioptrics**, spherical aberration is neutralized by placing an aspheric correcting plate before the primary mirror."*

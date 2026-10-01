@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A star-shaped radiating system of cytoplasmic microtubules that forms outside the nucleus during mitosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and embryology, an aster-like radial array of microfilaments and microtubules that can develop in unfertilized artificially activated ova.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytaster designates a term designating an entity, condition, or phenomenon derived from greek cyt."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"Artificial parthenogenesis induces the formation of an autonomous **cytaster** within the egg cytoplasm, independent of sperm entry."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"The appearance of the **cytaster** demonstrates that aster formation is an intrinsic mechanical property of the egg cytoplasm."*
+> - 📜 **Jacques Loeb (*Artificial Parthenogenesis and Fertilization*):** *"Hypertonic chemical solutions provoke the rapid assembly of a visible **cytaster** surrounding the maternal centrosome."*

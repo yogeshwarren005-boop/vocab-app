@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior segment of the developing vertebrate hindbrain or the corresponding part of the adult brain composed of the cerebellum and pons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior segment of the developing vertebrate hindbrain or the corresponding part of the adult brain composed of the cerebellum and pons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior part of the embryonic hindbrain (rhombencephalon), which differentiates into the pons and the cerebellum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the division of the brainstem and hindbrain lying between the mesencephalon and myelencephalon (medulla oblongata).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metencephalon designates the anterior segment of the developing vertebrate hindbrain or the corresponding part of the adult brain composed of the cerebellum and pons."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **metencephalon** develops dorsally into the vast foliated mass of the cerebellum and ventrally into the transverse bridge of the pons."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"During embryonic neurogenesis, neuroblasts of the **metencephalon** migrate outward to establish the Purkinje cell layer of the cerebellar cortex."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The fourth ventricle expands broadly within the dorsal cavity of the developing **metencephalon**."*

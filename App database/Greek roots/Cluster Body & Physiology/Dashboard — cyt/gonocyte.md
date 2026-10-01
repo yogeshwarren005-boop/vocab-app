@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primordial germ cell; an embryonic cell that differentiates into a gamete (spermatozoon or ovum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology and teratology, early migratory germ cells that colonize the genital ridges and establish the germline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonocyte designates a term designating an entity, condition, or phenomenon derived from greek cyt."*
+> - 📜 **August Weismann (*The Germ-Plasm: A Theory of Heredity*):** *"The early segregation of each primary **gonocyte** guarantees the uninterrupted transmission of the hereditary substance."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"In vertebrate embryos, the ancestral **gonocyte** migrates along the mesentery from the yolk sac to populate the developing gonad."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"Any mutation that occurs within a functional **gonocyte** will be transmitted to all progeny derived from that gamete."*

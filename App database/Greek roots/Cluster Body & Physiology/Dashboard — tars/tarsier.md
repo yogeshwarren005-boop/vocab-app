@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal arboreal primate of indonesia and the philippines having huge eyes and digits ending in pads to facilitate climbing; the only primate that spurns all plant material as food living entirely on insects and small vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal arboreal primate of indonesia and the philippines having huge eyes and digits ending in pads to facilitate climbing; the only primate that spurns all plant material as food living entirely on insects and small vertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, nocturnal, carnivorous arboreal primate belonging to the family Tarsiidae, native to islands of Southeast Asia (such as the Philippines, Borneo, and Sumatra).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology, tarsiers are characterized by exceptionally elongated tarsal ankle bones (adapted for vertical clinging and leaping), massive immobile eyes that exceed their brain volume, and ability to rotate their head 180 degrees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tarsier designates nocturnal arboreal primate of indonesia and the philippines having huge eyes and digits ending in pads to facilitate climbing; the only primate that spurns all plant material as food living entirely on insects and small vertebrates."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The curious little **tarsier** leaped from trunk to trunk in the twilight with the agility of a tree frog."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The skeletal peculiarities of the **tarsier**, particularly in the prolonged foot, separate it from all other lemurine primates."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The enormous nocturnal eyes of the **tarsier** demonstrate morphological specialization for hunting insects in dense jungle darkness."*

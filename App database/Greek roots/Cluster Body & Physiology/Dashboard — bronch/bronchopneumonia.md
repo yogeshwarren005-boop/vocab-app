@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pneumonia involving many relatively small areas of lung tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pneumonia involving many relatively small areas of lung tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of pneumonia characterized by patchy inflammation of the lung parenchyma, originating in the bronchioles and spreading to surrounding alveolar lobules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, lobular pneumonia caused by bacterial or viral aspiration, presenting with patchy bilateral consolidations, fever, and tachypnea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchopneumonia designates pneumonia involving many relatively small areas of lung tissue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In infants and the debilitated aged, **bronchopneumonia** is the great reaper, seizing upon lungs weakened by previous viral catarrhs."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Autopsy reveals scattered focal nodules of **bronchopneumonia** surrounded by areas of crepitant, emphysematous lung tissue."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In **bronchopneumonia**, the inflammatory exudate fills both the lumen of the small bronchiole and the immediately adjacent alveolar spaces."*

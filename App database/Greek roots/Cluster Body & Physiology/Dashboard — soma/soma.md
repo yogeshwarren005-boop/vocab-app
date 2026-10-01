@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intoxicating juice from a plant of disputed identity that was used in ancient India as an offering to the gods and as a drink of immortality by worshippers in Vedic ritual and worshipped in personified form as a Vedic god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of an organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cell body of a neuron, containing the nucleus and major organelles, excluding axons and dendrites; also, the entire physical body of an organism as distinguished from the mind or germ cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology (Weismann's germ-plasm theory), the soma consists of mortal bodily tissues that house and nourish the immortal germline; in neurobiology, the soma integrates incoming synaptic potentials before generating action potentials at the axon hillock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For this is the very soma-plant of India, the holy grail of King Arthur, the—but enough! enough!"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Origen's reply is absurd--_hina gar kai doxe hoti hesthein, hos soma phoron ho Iesous hesthein_."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Mayor's translation. [116] _Paed._ i, 6, 6, _to de soma kallei kai eurythmia synekerasato_. [117] Phrases mostly from Strom, vii, 6-9. _ennoian enestachtai theou_."*
+> - 📜 **August Weismann (*The Germ-Plasm: A Theory of Heredity*):** *"The mortal **soma** serves merely as the temporary carrier and protector of the perpetual germ-plasm."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Numerous dendrites converge upon the neuronal **soma**, which houses the prominent nucleus and Nissl bodies."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Graded synaptic currents summate across the membrane of the motor neuron **soma** to govern reflex discharge."*

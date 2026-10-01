@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pheb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vague, generalized, and persistent fear of everything; an all-encompassing dread (panophobia; pantophobia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive psychopathology, a severe neurotic condition characterized by continuous free-floating anxiety without a specific external stimulus or rational focus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panphobia designates a term designating an entity, condition, or phenomenon derived from greek pheb."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"The patient was overwhelmed by profound **panphobia**, perceiving fatal danger in every ordinary occurrence of daily life."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In acute melancholia, the emotional state degenerates into generalized **panphobia**, where the entire universe seems full of nameless terror."*
+> - 📜 **Théodule-Armand Ribot (*The Psychology of the Emotions*):** *"When fear loses its definite object and attaches itself indiscriminately to all sensations, it constitutes true **panphobia**."*

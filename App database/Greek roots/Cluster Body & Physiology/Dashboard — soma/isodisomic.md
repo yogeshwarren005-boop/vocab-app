@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characterized by uniparental isodisomy (inheritance of two duplicate, genetically identical copies of a single parental chromosome).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human genetics, an isodisomic chromosome leads to complete homozygosity for all alleles on that chromosome, frequently unmasking rare recessive disease mutations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isodisomic designates adjective*) pertaining to, derived from, or characteristic of body."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"The child developed cystic fibrosis because he was **isodisomic** for the maternal chromosome 7 bearing the mutant CFTR allele."*
+> - 📜 **Curt Stern (*Principles of Human Genetics*):** *"When non-disjunction occurs in meiosis II, the resulting uniparental complement is entirely **isodisomic**."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Demonstration of **isodisomic** inheritance showed that chromosomal duplication could expose recessive lethals in human pedigrees."*

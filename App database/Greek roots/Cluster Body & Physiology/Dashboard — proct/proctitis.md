@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek proct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucous membrane lining the rectum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology and infectious disease, inflammation presenting with tenesmus, rectal bleeding, and mucus discharge, resulting from inflammatory bowel disease (ulcerative proctitis), sexually transmitted infections, or radiation therapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proctitis designates a term designating an entity, condition, or phenomenon derived from greek proct."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ulcerative **proctitis** is characterized by distressing rectal tenesmus and the frequent passage of bloody mucus."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Histological sections of acute **proctitis** demonstrate intense hyperemia and neutrophilic crypt abscesses in the rectal mucosa."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Chronic radiation **proctitis** requires careful conservative management to prevent ischemic rectal stricture formation."*

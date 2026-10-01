@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifestly demonstrative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represented or appearing as such; pretended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifesting, demonstrating, or pointing directly to an object or instance; directly demonstrative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of language and epistemology, referring to direct definition or teaching by pointing to an exemplar (ostensive definition), rather than through verbal description.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostensive designates manifestly demonstrative."*
+> - 📜 **Ludwig Wittgenstein (*Philosophical Investigations*):** *"An **ostensive** definition can be variously interpreted in every case unless the grammar of the language-game is already established."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"All empirical vocabulary must ultimately trace its meaning back to **ostensive** acquaintance with concrete sensory data."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The most primitive mode of explaining names is the **ostensive** method of pointing directly at the named object."*

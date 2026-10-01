@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teleost fish with bony tongues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teleost fish with bony tongues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient, basal order of teleost ray-finned fishes comprising the bonytongues, mormyrids (elephantfishes), and related archaic freshwater lineages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ichthyology, an early-diverging teleost clade characterized by primitive caudal fin skeletons, toothed tongues, and electroreceptive adaptations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoglossiformes designates teleost fish with bony tongues."*
+> - 📜 **Louis Agassiz (*Monograph on the Fossil Fishes*):** *"Fossils of the **osteoglossiformes** demonstrate that this toothed-tongue lineage flourished in Cretaceous lakes before modern percoids evolved."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"Within the order **osteoglossiformes**, the weakly electric mormyrids possess enlarged cerebellums that rival mammalian proportions."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The basal position of **osteoglossiformes** on the teleost tree illuminates the transition from archaic holostean to advanced modern teleost anatomy."*

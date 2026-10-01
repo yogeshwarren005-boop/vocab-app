@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spondyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suppurative or purulent inflammation of one or more vertebrae; suppurative osteomyelitis of the spine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious disease and spine surgery, spondylopyosis is typically caused by hematogenous seeding of *Staphylococcus aureus*, presenting with fever, severe focal back tenderness, epidural abscess formation, and rapid destruction of disc space and vertebral bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondylopyosis designates a term designating an entity, condition, or phenomenon derived from greek spondyl."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **spondylopyosis** presents with high hectic fever, agonizing localized spinal pain, and danger of rapid paraplegia."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Purulent collections arising from **spondylopyosis** must be drained promptly before they dissect into the epidural space."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Pyogenic vertebral necrosis, or **spondylopyosis**, differs from Pott's disease by its acutely violent clinical onset."*

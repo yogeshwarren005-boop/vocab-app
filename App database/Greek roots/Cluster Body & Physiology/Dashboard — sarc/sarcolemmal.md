@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sarcolemma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the sarcolemma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated at or within the sarcolemma of muscle tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In muscle physiology and cardiology, sarcolemmal ion channels, exchangers, and receptors govern excitation-contraction coupling and action potential generation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcolemmal designates of or relating to the sarcolemma."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"The wave of excitation traveling along the **sarcolemmal** membrane is accompanied by measurable shifts in electrical potential."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"Under high magnification, **sarcolemmal** nuclei appear flattened immediately beneath the outer glycoprotein envelope."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In progressive muscular dystrophy, structural defects in the **sarcolemmal** architecture lead to myofibrillar fragmentation."*

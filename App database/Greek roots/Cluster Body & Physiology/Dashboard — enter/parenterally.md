@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By parenteral means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By parenteral means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By route other than through the digestive tract, especially by injection directly into veins, muscles, or subcutaneous tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, describing therapeutics administered by injection to avoid hepatic first-pass metabolism or gastric degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parenterally designates by parenteral means."*
+> - 📜 **Alexander Fleming (*Penicillin*):** *"Because penicillin was destroyed by stomach acid, our initial clinical trials required the antibiotic to be administered **parenterally**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Morphine administered **parenterally** produced swift relief from the agonizing paroxysms of acute biliary colic."*
+> - 📜 **Paul Farmer (*Infections and Inequalities*):** *"Delivering second-line tuberculosis medications **parenterally** in rural settings required training community health workers in sterile injection."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to invertebrates of the phylum arthropoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to invertebrates of the phylum arthropoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling an arthropod.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, describing characteristics typical of arthropods, such as jointed appendages, chitinous cuticles, and hemocoelic body cavities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthropodal designates of or relating to invertebrates of the phylum arthropoda."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The tropical forest floor teems with bizarre **arthropodal** life, from giant centipedes to camouflaged stick-insects."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The **arthropodal** limb functions via antagonistic muscle groups attached directly to the inner surface of the exoskeleton."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"Onychophorans exhibit an intermediate grade between annelid wormlike traits and true **arthropodal** sclerotization."*

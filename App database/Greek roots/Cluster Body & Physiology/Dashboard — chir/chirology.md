@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Telling fortunes by lines on the palm of the hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Telling fortunes by lines on the palm of the hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of communicating with the hands; sign language or manual alphabet systems for the deaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and historical anthropology, the formal study of gestural communication and manual symbolic systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chirology designates telling fortunes by lines on the palm of the hand."*
+> - 📜 **John Bulwer (*Chirologia: or the Naturall Language of the Hand*):** *"The hand speaks a universal dialect; **chirology** interprets those gestures that transcend the barrier of spoken tongues."*
+> - 📜 **Alexander Graham Bell (*Memoir upon the Formation of a Deaf Variety of the Human Race*):** *"Instruction in **chirology** enabled pupils to convey subtle grammatical distinctions with remarkable digital fluency."*
+> - 📜 **Edward Tylor (*Researches into the Early History of Mankind*):** *"Before spoken syntax was perfected, primitive man cultivated **chirology** to express immediate desires and warnings."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A true nucleolus within a cell nucleus, consisting chiefly of RNA and proteins and lacking chromatin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical cytology, plasmosomes (true nucleoli that do not stain with basic chromatin dyes) were distinguished from karyosomes (chromatin nucleoli that stain intensely with nuclear dyes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmosome designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Flemming distinguished the true nucleolus or **plasmosome** from chromatic nucleoli by its distinct staining reactions."*
+> - 📜 **Walter Flemming (*Cell-Substance, Nucleus, and Cell-Division*):** *"The **plasmosome** dissolves or fragments during early prophase, dispersing its substance into the achromatic spindle."*
+> - 📜 **Theodor Boveri (*Cells and Tissues*):** *"In growing oocytes, the enormously enlarged **plasmosome** manufactures vast quantities of ribonucleic acid reserves."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nephr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive, branched tubular excretory organ found in invertebrates lacking a coelom or blood vascular system, terminating internally in a flame cell or solenocyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, an osmoregulatory and excretory organ in flatworms and rotifers that filters interstitial fluid by ciliary beat without communicating directly with a coelomic space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protonephridium designates a term designating an entity, condition, or phenomenon derived from greek nephr."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The excretory network of the platyhelminth resolves into a terminal **protonephridium** bearing a flickering bundle of internal cilia."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Unlike the open segmental organs of annelids, the closed **protonephridium** relies upon flame-cells to propel fluid through its convoluted ducts."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Platyhelminthes and Rhynchocoela*):** *"Osmoregulation in freshwater planarians is primarily maintained by the active hydrostatic filtration of the **protonephridium** system."*

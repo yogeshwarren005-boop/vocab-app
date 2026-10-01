@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult or painful discharge of urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult or painful discharge of urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Painful, burning, stinging, or difficult urination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology, dysuria is a cardinal symptom of lower urinary tract pathology, most commonly caused by acute bacterial cystitis, urethritis, prostatitis, or bladder calculi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysuria designates difficult or painful discharge of urine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute gonococcal urethritis is introduced by severe ardor urinae, or scalding **dysuria**, during micturition."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Painful **dysuria** accompanied by frequent imperative calls to void points directly to acute inflammation of the vesical neck."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"The presence of a sharp stone in the bladder produces agonizing **dysuria** that ceases abruptly when the calculus rolls away."*

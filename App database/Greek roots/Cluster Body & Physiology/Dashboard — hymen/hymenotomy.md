@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hymen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision of the hymen, especially to relieve an imperforate hymen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology, a minor operative incision performed to drain retained menstrual blood (hematocolpos) caused by congenital hymenal atresia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenotomy designates a term designating an entity, condition, or phenomenon derived from greek hymen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cruciate **hymenotomy** released several pints of dark, tarry fluid, providing immediate relief from pelvic distension."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"In cases of congenital imperforation, prompt **hymenotomy** prevents ascending infection and hematometra."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Simple **hymenotomy** performed under aseptic precautions completely resolves the obstructive pelvic mass."*

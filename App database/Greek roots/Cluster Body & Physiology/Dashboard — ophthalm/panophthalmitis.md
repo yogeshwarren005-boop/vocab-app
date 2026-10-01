@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophthalm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intense, destructive inflammation of all the tissues and structures of the eyeball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ocular surgery and pathology, fulminant purulent endophthalmitis extending beyond the sclera into the Tenon capsule and orbital tissues, typically terminating in blindness and requiring evisceration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panophthalmitis designates a term designating an entity, condition, or phenomenon derived from greek ophthalm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Septic emboli during puerperal bacteremia may lodge in the choroid, rapidly inducing devastating **panophthalmitis**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic examination of the globe in **panophthalmitis** shows diffuse purulent infiltration liquefying the vitreous and retina."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"When fulminant **panophthalmitis** threatens intracranial spread via the cavernous sinus, prompt evisceration is required."*

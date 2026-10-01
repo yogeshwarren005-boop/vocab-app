@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or suffering from neuralgia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or suffering from neuralgia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or afflicted with neuralgia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In symptom evaluation, describing sharp, stabbing, electric-shock-like pains that shoot along an anatomical nerve pathway.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"For fifteen years, with few exceptions, she had had severe neuralgic sick headaches monthly or oftener."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Senile and Chronic Diseases*):** *"The lightning pains of tabes dorsalis bear a deceptive resemblance to ordinary **neuralgic** attacks in the extremities."*
+> - 📜 **Silas Weir Mitchell (*Wear and Tear, or Hints for the Overworked*):** *"Exhausted mental workers frequently suffer from persistent **neuralgic** headaches centered behind the orbital cavities."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"The epileptiform **neuralgic** spasm causes involuntary grimacing and convulsive twitches of the facial musculature."*

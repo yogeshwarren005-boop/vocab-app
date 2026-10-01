@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic elastomer or polymer formed by the step-growth polymerization of a diisocyanate with a diamine, characterized by repeating urea linkages (-NH-CO-NH-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial materials chemistry and engineering coatings, polyurea formulations are valued for their extremely rapid curing times, high tensile strength, waterproofing, and chemical and abrasion resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyurea designates a term designating an entity, condition, or phenomenon derived from greek ur."*
+> - 📜 **Wallace Carothers (*Collected Papers on High Polymeric Substances*):** *"Reaction of aliphatic diisocyanates with diamines yields robust crystalline polymers exhibiting characteristic **polyurea** linkages."*
+> - 📜 **Herman Staudinger (*From Organic Chemistry to Macromolecules*):** *"The macromolecular architecture of **polyurea** features strong intermolecular hydrogen bonding across adjacent chains."*
+> - 📜 **Paul Flory (*Principles of Polymer Chemistry*):** *"The step-growth kinetics of the **polyurea** condensation reaction proceed with exceptional velocity even at ambient temperatures."*

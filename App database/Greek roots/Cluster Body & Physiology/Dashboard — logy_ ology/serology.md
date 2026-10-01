@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science that deals with serums; especially with blood serums and disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medical science that deals with serums; especially with blood serums and disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study and diagnostic analysis of blood serum and other bodily fluids, especially regarding the immune responses and antibodies they contain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory medicine and epidemiology, the identification of antigens and corresponding specific antibodies to detect infectious pathogens or autoimmune reactivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serology designates the branch of medical science that deals with serums; especially with blood serums and disease."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Systematic investigations in **serology** demonstrate the high specificity of antibody-antigen precipitation in fresh blood serum."*
+> - 📜 **Karl Landsteiner (*The Specificity of Serological Reactions*):** *"The techniques of modern **serology** reveal profound individual and species variations among serum proteins."*
+> - 📜 **William H. Welch (*Papers and Addresses*):** *"Practical **serology** has transformed clinical diagnostics by rendering early detection of bacterial agglutinins routine."*

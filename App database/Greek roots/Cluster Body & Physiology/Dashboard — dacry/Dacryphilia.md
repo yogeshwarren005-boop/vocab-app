@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dacry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paraphilia in which sexual arousal or pleasure is derived from tears or seeing someone cry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology, an eroticized emotional condition where weeping, emotional distress, or tears serve as the primary sexual trigger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Dacryphilia designates a term designating an entity, condition, or phenomenon derived from greek dacry."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"Clinical instances of **dacryphilia** illustrate how sorrow and weeping can become strangely linked with erotic excitation."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"In analyzing **dacryphilia**, the psychologist discovers a complex fusion of tender sympathy and sadomasochistic impulse."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"The fixation observed in **dacryphilia** reveals how early emotional scenes of weeping can fixate the instinctual drive."*

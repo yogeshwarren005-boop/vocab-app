@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychopath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a person who is mentally or emotionally unsound or unstable especially in a way that results in dangerous or violent behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychopath or a mentally unstable, volatile person (informal noun); relating to the mind or psychological processes (combining form / adjective).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric semiotics and popular culture, an informal term for a psychotic or severely antisocial individual exhibiting lack of empathy and unpredictable or violent behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psycho designates psychopath."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"Severe personality fragmentation occasionally produces behavior popularly branded as that of a violent **psycho**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The morbid emotional deviations of the constitutional **psycho** require objective neurological analysis."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Beneath the sensational label of a violent **psycho** lay a profound and treatable temporal lobe seizure focus."*

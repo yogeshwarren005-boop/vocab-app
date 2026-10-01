@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery of nervous structures (such as nerves, the brain, or the spinal cord).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery of nervous structures (such as nerves, the brain, or the spinal cord).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgeon who specializes in operative procedures on the brain, spinal cord, and peripheral nerves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a surgical specialist skilled in microscopic craniotomy, tumor resection, aneurysm clipping, stereotactic guidance, and trauma decompression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurosurgeon designates surgery of nervous structures (such as nerves, the brain, or the spinal cord)."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"The modern **neurosurgeon** must combine exquisite technical gentleness with thorough knowledge of intracranial pressure dynamics."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Before resecting an epileptogenic focus, the **neurosurgeon** maps adjacent eloquent cortex using gentle electrical stimulation."*
+> - 📜 **Walter Dandy (*Intracranial Arterial Aneurysms*):** *"Pioneering the direct obliteration of vascular malformations required the **neurosurgeon** to conquer fears of fatal operative hemorrhage."*

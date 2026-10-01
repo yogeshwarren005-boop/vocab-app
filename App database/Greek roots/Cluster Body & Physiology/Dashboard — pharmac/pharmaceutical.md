@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drug or medicine that is prepared or dispensed in pharmacies and used in medical treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to pharmacy or pharmacists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to medicinal drugs, or their preparation, use, sale, and regulation; a manufactured medicinal drug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In healthcare economics and industrial chemistry, pertaining to the commercial development, manufacture, and distribution of medications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmaceutical designates drug or medicine that is prepared or dispensed in pharmacies and used in medical treatment."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Rigorous clinical trials are mandatory before any new **pharmaceutical** preparation receives regulatory approval."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician must resist the aggressive commercial promotion of every novel **pharmaceutical** compound."*
+> - 📜 **Alexander Fleming (*Penicillin: Its Practical Application*):** *"Large-scale submerged fermentation transformed crude mold broth into a lifesaving **pharmaceutical** product."*

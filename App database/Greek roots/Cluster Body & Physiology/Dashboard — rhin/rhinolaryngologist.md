@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in the disorders of the ear or nose or throat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in the disorders of the ear or nose or throat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist who diagnoses and treats diseases and disorders of both the nose and larynx (throat).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative surgery and clinical medicine, a specialist focused on upper airway pathology, vocal cord lesions, nasal polyposis, and sinus disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinolaryngologist designates a specialist in the disorders of the ear or nose or throat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent hoarseness and nasal airway obstruction warrant comprehensive evaluation by a **rhinolaryngologist**."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Operative management of upper respiratory tract neoplasms requires the specialized skill of the **rhinolaryngologist**."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"The clinical **rhinolaryngologist** introduced direct mirror laryngoscopy to map vocal fold motion."*

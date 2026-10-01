@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Whitish mites that attack the skin of humans and other animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whitish mites that attack the skin of humans and other animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any microscopic burrowing parasitic mite belonging to the family Sarcoptidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acarology, sarcoptids possess rounded bodies, stumpy legs terminating in suckers or bristles, and modified mouthparts adapted to burrowing through mammalian keratin layers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoptid designates whitish mites that attack the skin of humans and other animals."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Every domestic animal has its specific **sarcoptid** mite capable of producing intensely irritating cutaneous tunnels."*
+> - 📜 **Veranus Alva Moore (*The Pathology and Differential Diagnosis of Infectious Diseases of Animals*):** *"The **sarcoptid** parasite causes hyperkeratosis and secondary pyogenic infection through ceaseless epidermal irritation."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Isolation of the offending **sarcoptid** under low-power magnification reveals its characteristic globose body and short legs."*

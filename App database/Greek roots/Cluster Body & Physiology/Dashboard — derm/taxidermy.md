@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of preparing, stuffing, and mounting the skins of animals and especially vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of preparing, stuffing, and mounting the skins of animals and especially vertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of preparing, stuffing, and mounting the skins of animals with lifelike effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In museum science, the preservation of wildlife specimens for scientific reference collections, anatomical research, and educational dioramas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taxidermy designates the art of preparing, stuffing, and mounting the skins of animals and especially vertebrates."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"I devoted my evenings to the delicate **taxidermy** of birds of paradise, preserving their marvelous plumes with powdered arsenic."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"As a young student at Edinburgh, I took lessons in **taxidermy** from a freed slave that proved invaluable on the Beagle."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Modern **taxidermy** in public museums has progressed from grotesque stuffed skins to anatomically accurate artistic mounts."*

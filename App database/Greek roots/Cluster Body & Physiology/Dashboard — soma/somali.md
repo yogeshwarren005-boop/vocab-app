@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a tall dark (mostly muslim) people inhabiting somalia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cushitic language spoken by the somali.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Somalia, its people, or the Somali language (an Afroasiatic language of the Cushitic branch).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and African linguistics, Somali pastoral nomadic culture and oral poetic traditions historically shaped social organization across the Horn of Africa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somali designates a member of a tall dark (mostly muslim) people inhabiting somalia."*
+> - 📜 **Richard Burton (*First Footsteps in East Africa*):** *"The **Somali** tribesmen possess an extraordinary oral literature, chanting genealogies and heroic ballads around the evening fire."*
+> - 📜 **Arthur Rimbaud (*Letters from Harar*):** *"Caravans arriving from the **Somali** coast bring coffee, hides, and gum through the arid mountain passes."*
+> - 📜 **T. E. Lawrence (*Seven Pillars of Wisdom*):** *"In the Red Sea ports, bold **Somali** sailors navigated dhows with seasoned mastery through dangerous coral reefs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of blood cells in the living body (especially in the bone marrow).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of blood cells in the living body (especially in the bone marrow).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation and development of blood cells; hematopoiesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and hematology, the physiological process originating in embryonic yolk-sac blood islands and shifting sequentially to the fetal liver, spleen, and adult bone marrow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematogenesis designates the formation of blood cells in the living body (especially in the bone marrow)."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"During fetal development, active **haematogenesis** shifts from the yolk sac mesoderm to the sinusoids of the embryonic liver."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Self-renewing pluripotential hematopoietic stem cells maintain lifelong **haematogenesis** within specialized bone marrow niches."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"A single stem cell transplanted into an irradiated mouse can reconstitute the entire architecture of **haematogenesis**."*

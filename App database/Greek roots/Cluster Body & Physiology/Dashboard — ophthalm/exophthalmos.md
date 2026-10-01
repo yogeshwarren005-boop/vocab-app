@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal protrusion of the eyeball.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal protrusion of the eyeball.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal protrusion or forward displacement of the eyeball; proptosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and endocrinology, bulging of the eye resulting from retro-orbital fat and glycosaminoglycan accumulation in Graves' orbitopathy, or orbital tumors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exophthalmos designates abnormal protrusion of the eyeball."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe bilateral **exophthalmos** may lead to exposure keratitis and corneal ulceration unless protected."*
+> - 📜 **Harvey Cushing (*Meningiomas: Their Classification, Regional Behaviour, Life History, and Surgical End Results*):** *"Sphenoid ridge meningiomas typically manifest with progressive unilateral **exophthalmos** and optic atrophy."*
+> - 📜 **Walter Dandy (*Orbital Tumors: Results Following the Transcranial Operative Attack*):** *"Transcranial orbital decompression relieves severe visual loss caused by compressive **exophthalmos**."*

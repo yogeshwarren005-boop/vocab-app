@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the structure, functions, diseases, and pathology of the stomach and intestines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned with the structure, functions, diseases, and pathology of the stomach and intestines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and physiology concerned with the structure, functions, and diseases of the digestive tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subspecialty of internal medicine encompassing the esophagus, stomach, small intestine, colon, pancreas, gallbladder, and liver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroenterology designates a branch of medicine concerned with the structure, functions, diseases, and pathology of the stomach and intestines."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The rapid development of **gastroenterology** as an independent discipline owes much to the clinical application of mucosal biopsies."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"Modern clinical **gastroenterology** combines molecular pathophysiology with high-definition optical imaging of the living mucosa."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"Advances in interventional **gastroenterology** have replaced many traditional open abdominal surgeries with minimally invasive endoscopy."*

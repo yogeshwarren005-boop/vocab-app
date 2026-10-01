@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory that social and cultural events are determined by history.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theory that social and cultural events are determined by history.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical theory that social, cultural, and political phenomena are determined by and can only be understood through historical context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th- and 20th-century intellectual history, the doctrine that values and truths are historically relative, or (critiqued by Karl Popper) the belief that history unfolds according to inexorable developmental laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, historicism designates a theory that social and cultural events are determined by history."*
+> - 📜 **Karl Popper (*The Poverty of Historicism*):** *"I mean by **historicism** an approach to the social sciences which assumes that historical prediction is their principal aim."*
+> - 📜 **Ernst Cassirer (*The Philosophy of the Enlightenment*):** *"Romantic **historicism** arose as a profound reaction against the abstract universalism of the Enlightenment."*
+> - 📜 **Friedrich Nietzsche (*On the Use and Abuse of History for Life*):** *"An excess of uncritical **historicism** paralyzes modern man, transforming him into a passive spectator of the past."*

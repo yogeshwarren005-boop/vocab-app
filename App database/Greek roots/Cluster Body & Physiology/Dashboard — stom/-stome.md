@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form denoting a mouth, oral aperture, or an organism possessing a designated type of oral structure (e.g., cyclostome, cytostome, deuterostome).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative morphology, zoological taxa are frequently categorized by the character of their oral opening using suffixes with -stome, reflecting developmental or dietary specializations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, -stome designates a term designating an entity, condition, or phenomenon derived from greek stom."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The anatomical suffix **-stome** designates the nature of the primary ingestion orifice across diverse invertebrate phyla."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"In phylogenetic terms, whether a taxon bears the suffix **-stome** in protostome or deuterostome depends upon the embryonic fate of the blastopore."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"Comparative morphologists employ the element **-stome** to differentiate mouthparts adapted for suction, mastication, or filtration."*

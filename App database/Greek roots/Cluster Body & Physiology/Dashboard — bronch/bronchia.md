@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bronch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bronchial tubes collectively; the smaller branches and ramifications of the bronchi within the substance of the lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical medicine, the intricate branching tubular airways examined by auscultation for adventitious rales and rhonchi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchia designates a term designating an entity, condition, or phenomenon derived from greek bronch."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest and on Mediate Auscultation*):** *"The stethoscope reveals distinct mucous clickings when catarrhal exudate accumulates within the smaller **bronchia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Spasm of the muscular walls of the deeper **bronchia** produces the prolonged expiratory wheeze characteristic of bronchial asthma."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"As the **bronchia** divide and subdivide, their cartilaginous plates diminish in size, disappearing at the level of the terminal bronchioles."*

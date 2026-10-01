@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek my.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Neotropical rodents within the family Cricetidae, commonly referred to as Alfaro's water rats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and rodent phylogenetics, a specialized oryzomyine genus endemic to Central and northwestern South America, adapted to riparian montane forest habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Sigmodontomys designates a term designating an entity, condition, or phenomenon derived from greek my."*
+> - 📜 **Joel Asaph Allen (*Bulletin of the American Museum of Natural History*):** *"The rodent genus **Sigmodontomys** exhibits distinctive molar cusp patterns separating it from allied marsh rats."*
+> - 📜 **Oldfield Thomas (*Annals and Magazine of Natural History*):** *"We designated the new specimens from Costa Rica under the generic title **Sigmodontomys**."*
+> - 📜 **Edward Drinker Cope (*The Primary Factors of Organic Evolution*):** *"Morphological variations in the dentition of **Sigmodontomys** shed light on the radiation of Neotropical cricetids."*

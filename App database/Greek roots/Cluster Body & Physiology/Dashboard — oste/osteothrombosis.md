@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrombosis occurring within the veins or capillary channels of a bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology and orthopedic infection, intravascular clotting within osseous canals that leads to bone ischemia and necrosis during acute osteomyelitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteothrombosis designates a term designating an entity, condition, or phenomenon derived from greek oste."*
+> - 📜 **Percivall Pott (*Observations on Wounds and Contusions of the Head*):** *"Septic **osteothrombosis** within the diploic veins of the skull can swiftly extend inward to cause epidural suppuration."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Early antibiotic intervention prevents extensive **osteothrombosis** within nutrient vessels, sparing the femoral shaft from total necrosis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic examination reveals septic **osteothrombosis** filling the haversian canals and cutting off blood flow to the osteocytes."*

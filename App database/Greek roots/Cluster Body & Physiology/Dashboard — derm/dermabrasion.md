@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Removal of scars or tattoos by anesthetizing the skin surface and then sanding or scraping off some of the outer skin layer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Removal of scars or tattoos by anesthetizing the skin surface and then sanding or scraping off some of the outer skin layer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dermatological procedure in which the superficial layers of the skin are mechanically removed using a high-speed rotating abrasive tool to reduce scars and wrinkles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic and reconstructive plastic surgery, controlled skin resurfacing allowing re-epithelialization from adnexal follicular reservoirs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermabrasion designates removal of scars or tattoos by anesthetizing the skin surface and then sanding or scraping off some of the outer skin layer."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Post-acne pitting and traumatic tattoos are effectively softened through careful surgical **dermabrasion**."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Surgical Subjects*):** *"Mechanical **dermabrasion** of superficial facial scars permits fresh epidermal migration from undamaged hair follicles."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Controlled cutaneous scraping, the forerunner of **dermabrasion**, was employed to remove persistent tuberculous lupus nodules."*

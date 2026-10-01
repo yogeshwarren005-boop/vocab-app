@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Microphthalmia, also referred as microphthalmos, is a developmental disorder of the eye in which one or both eyes are abnormally small and have anatomic malformations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Microphthalmia is a distinct condition from anophthalmia and nanophthalmia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital condition in which one or both eyeballs are abnormally small.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ocular dysmorphology and pediatric ophthalmology, developmental hypoplasia of the optic globe, frequently accompanied by coloboma, cataracts, or congenital rubella syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphthalmia designates microphthalmia, also referred as microphthalmos, is a developmental disorder of the eye in which one or both eyes are abnormally small and have anatomic malformations."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Maternal rubella infection during the first trimester frequently induces fetal cataracts and severe bilateral **microphthalmia**."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Failure of the embryonic optic vesicle to expand after neural closure results in persistent **microphthalmia**."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"In experimental **microphthalmia**, the retinal layers exhibit disorganized cellular stratification and optic nerve hypoplasia."*

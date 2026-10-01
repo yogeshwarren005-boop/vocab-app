@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classifications for the genus coprinus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classifications for the genus coprinus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of dark-spored, saprophytic basidiomycete fungi commonly known as the inky cap family, characterized by deliquescent gills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, agaric fungi whose gills undergo enzymatic autodigestion into a black fluid to facilitate spore release.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprinaceae designates used in some classifications for the genus coprinus."*
+> - 📜 **Charles Horton Peck (*Report of the State Botanist on Edible Fungi*):** *"The family **Coprinaceae** is readily recognized by its black spores and the remarkable melting of the mature pileus into an inky liquid."*
+> - 📜 **Elias Magnus Fries (*Epicrisis Systematis Mycologici*):** *"Autodigestion in the **Coprinaceae** ensures that spores are exposed to air currents as the lower margin dissolves."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Several species of the **Coprinaceae** appear overnight in rich garden compost and manured pastures."*

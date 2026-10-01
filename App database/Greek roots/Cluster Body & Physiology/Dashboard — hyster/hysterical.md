@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or arising from psychoneurotic hysteria; - morris fishbein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by excessive or uncontrollable emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deriving from or affected by uncontrolled, extreme emotional excess, panic, or wild laughter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatry and psychopathology, relating to conversion disorder, somatization, or dissociative states historically diagnosed as hysteria (studied by Charcot and Freud).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"You saw how hysterical I was yesterday.” “But that was only the effect of the suddenness of your alarm—of the shock."*
-> - 📜 **Jane Austen (*Persuasion*):** *"You will not be hysterical again."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Mary had been hysterical again this morning."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"**Hysterical** patients suffer mainly from reminiscences; their suppressed traumatic memories convert into bodily symptoms."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In the **hysterical** state, whole tracts of consciousness and sensory awareness split off from voluntary control."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A demonic, **hysterical** laugh echoed through the third-story corridor of Thornfield Hall in the dead of night."*

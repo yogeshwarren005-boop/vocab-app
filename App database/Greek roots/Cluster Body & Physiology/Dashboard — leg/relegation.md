@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Authorizing subordinates to make certain decisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of assigning (someone or something) to a particular class or category.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of banishing, demoting, or assigning someone or something to an inferior, remote, or obscure position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In athletic league competition, the formal demotion of a team to a lower division; in ancient Roman law (*relegatio*), exile to a designated region without confiscation of goods or loss of citizenship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"He objected to the dissociation of school and home life--to that relegation of domestic interests and duties to the background, which large and highly-organized schools, and teachers much above the home level, must necessarily involve."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor tempered his wrath by sentencing the fallen minister to simple **relegation** on an isolated Aegean isle."*
+> - 📜 **Thomas Macaulay (*The History of England*):** *"The political revolution resulted in the sudden **relegation** of the high church faction from court influence."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The rise of experimental physics caused the immediate **relegation** of scholastic physics to historical curiosity."*

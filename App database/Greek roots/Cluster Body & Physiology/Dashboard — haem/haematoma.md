@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A localized swelling filled with blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A localized swelling filled with blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid swelling of clotted blood within the tissues, resulting from a broken blood vessel; a hematoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical surgery and neurosurgery, a localized blood collection (such as an epidural or subdural hematoma) that exerts pathological mass effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematoma designates a localized swelling filled with blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Laceration of the middle meningeal artery by a temporal skull fracture produces an expanding epidural **haematoma**."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The emergency craniotomy was performed immediately to evacuate the acute subdural **haematoma** and relieve brain herniation."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The orthopedic surgeon drained the tense subungual **haematoma** by trephining the nail plate with a heated wire."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of dactylopteridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of dactylopteridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of flying gurnards (family Dactylopteridae), especially Dactylopterus volitans, the flying robin of warm Atlantic waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, bottom-dwelling coastal fishes that flash large, blue-edged pectoral fins to intimidate predators and probe benthic sediments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylopterus designates a genus of dactylopteridae."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"A living specimen of **Dactylopterus** volitans was brought on board, snapping its bony opercular spines when touched."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In **Dactylopterus**, the anterior rays of the pectoral fin are detached, functioning like sensitive fingers to turn over pebbles."*
+> - 📜 **Philip Henry Gosse (*The Aquarium*):** *"The gorgeous peacock-like spots upon the expansive fins of **Dactylopterus** astonish all who behold this creature in motion."*

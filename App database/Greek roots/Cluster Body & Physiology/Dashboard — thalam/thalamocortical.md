@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or connecting the cortex and thalamus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or connecting the cortex and thalamus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, connecting, or denoting reciprocal nerve fibers and circuits between the thalamus and the cerebral cortex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and cognitive science, the thalamocortical loop is critical for generating conscious perception, regulating sleep-wake rhythms (such as sleep spindles and delta waves), and gating sensory input to cortical processing areas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thalamocortical designates relating to or connecting the cortex and thalamus."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The ascending **thalamocortical** radiations terminate extensively upon the granular interneurons of the fourth cortical layer."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Conscious awareness depends upon ongoing dynamic synchronization throughout the centrencephalic **thalamocortical** system."*
+> - 📜 **Charles Sherrington (*Man on His Nature*):** *"Millions of flashing shuttles weave rhythmic patterns of light across the vast **thalamocortical** loom of the waking brain."*

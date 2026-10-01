@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ciliated funnel-shaped coelomic opening of a typical nephridium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ciliated funnel-shaped coelomic opening of a typical nephridium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ciliated funnel-shaped opening through which an excretory tubule (nephridium) communicates with the coelomic cavity in invertebrate and primitive vertebrate excretory systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and embryology, a cellular funnel that draws coelomic fluid into the nephridial canal for filtration, found in annelids and early vertebrate pronephric tubules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrostome designates the ciliated funnel-shaped coelomic opening of a typical nephridium."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Each segmental organ communicates with the peritoneal cavity by a wide, ciliated funnel termed the **nephrostome**."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The primitive excretory duct originates at a peritoneal aperture or **nephrostome**, through which coelomic waste products are swept."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"In the development of the elasmobranch pronephros, several segmentally arranged ciliated funnels or **nephrostomes** open directly into the body cavity."*

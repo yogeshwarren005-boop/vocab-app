@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: hindbrain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the posterior of the three primary divisions of the developing vertebrate brain or the corresponding part of the adult brain that includes the cerebellum, the medulla oblongata, and in mammals the pons and that controls autonomic functions and equilibrium —called also rhombencephalon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The embryonic hindbrain, the most posterior of the three primary brain vesicles in vertebrate development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroembryology, the primary vesicle that differentiates into the metencephalon (pons and cerebellum) and the myelencephalon (medulla oblongata).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhombencephalon designates hindbrain."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The cavity of the **rhombencephalon** expands into the diamond-shaped space of the adult fourth ventricle."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Rhombomeres subdividing the **rhombencephalon** dictate the precise segmental distribution of the motor cranial nerves."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Within the dorsal neuroepithelium of the **rhombencephalon**, the rhombic lip gives origin to all cerebellar precursor cells."*

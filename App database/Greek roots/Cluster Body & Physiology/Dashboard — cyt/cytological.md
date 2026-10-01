@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of cytology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of cytology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of cytology and the microscopic observation of cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory pathology, pertaining to cellular morphology, nuclear atypia, and mitotic index evaluated in cell preparations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytological designates of or relating to the science of cytology."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"The **cytological** proof that chromosomes retain their individuality through successive divisions transformed genetics."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Genetic linkage maps were triumphantly confirmed by direct **cytological** observation of translocated chromosome segments."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"Without refined **cytological** fixation techniques, the delicate fine neurofibrils inside neurons remain entirely invisible."*

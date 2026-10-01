@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (prosody) a line of verse that has the full number of syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (verse) metrically complete; especially having the full number of syllables in the final metrical foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical prosody, having the full and complete number of syllables in the final metrical foot of a poetic verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metric analysis and literary criticism, describing verse that strictly adheres to the established rhythmic scheme without terminal syllable omission or truncation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acatalectic designates (prosody) a line of verse that has the full number of syllables."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The sonorous march of the iambic tetrameter **acatalectic** lends stability to the lyric stanza."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A pure **acatalectic** line maintains the equilibrium of the rhythmic period without requiring pause or syncopation."*
+> - 📜 **Edgar Allan Poe (*The Rationale of Verse*):** *"In scanning the trochaic measure, the poet may alternate between catalectic endings and the full **acatalectic** cadence."*

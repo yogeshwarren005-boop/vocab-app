@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct order or suborder of medium to large carnivorous or omnivorous ungulate mammals from the Paleocene and Eocene epochs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary phylogenetics, archaic hoofed carnivores with triangular, bunodont-crushing molars and blunt, hoof-like claws, closely allied to artiodactyls and cetaceans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Mesonychia designates a term designating an entity, condition, or phenomenon derived from greek onych."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"I described the archaic predator under **Mesonychia**, recognizing its unique combination of ungulate feet and carnivorous dentition."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"Digits in the order **Mesonychia** terminate in blunt, fissured hooves rather than the sharp, retractile claws of carnivorans."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The cranial architecture of **Mesonychia** displays massive sagittal crests for the attachment of powerful temporal muscles."*

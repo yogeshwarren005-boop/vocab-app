@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek taeni.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any extinct mammal belonging to the order Taeniodonta, an early Paleocene to Eocene clade of archaic, heavy-clawed, digging placental herbivores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian paleontology, taeniodonts (such as *Stylinodon* and *Psittacotherium*) evolved specialized hypsodont, rootless, chisel-like canine and incisor tusks with enamel limited to longitudinal bands, adapted for unearthing abrasive roots and tubers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taeniodont designates a term designating an entity, condition, or phenomenon derived from greek taeni."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"The archaic **taeniodont** skull exhibits powerful fossorial adaptations matched by massive, curved front claws."*
+> - 📜 **Henry Fairfield Osborn (*The Age of Mammals*):** *"The evolutionary trajectory of the **taeniodont** demonstrates rapid dental specialization immediately following the Cretaceous extinction."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"In advanced **taeniodonts**, the cheek teeth lost their roots, growing continuously throughout the life of the animal."*

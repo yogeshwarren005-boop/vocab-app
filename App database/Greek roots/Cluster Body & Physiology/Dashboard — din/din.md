@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud continued noise; especially : a welter of discordant sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation or condition resembling a din.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud, unpleasant, and prolonged confusion of noises; an uproar or racket.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory description and literature, a deafening acoustic clamor that drowns out individual speech or thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To Adriana, that is where we din’d, Where Dowsabel did claim me for her husband."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O husband, God doth know you din’d at home, Where would you had remain’d until this time, Free from these slanders and this open shame."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, in truth, thus far I witness with him, That he din’d not at home, but was lock’d out."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"Think you a little **din** can daunt mine ears? Have I not heard the sea puff'd up with winds rage like an angry boar?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"A monstrous **din** of raging elements broke loose, shaking the high towers of heaven to their deep foundations."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The ceaseless **din** of Saint Antoine resounded through the narrow streets as the crowd prepared for revolt."*

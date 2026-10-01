@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine concerned with the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine concerned with the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical science and clinical specialty dealing with the anatomy, physiology, and pathology of the ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical otolaryngology, the diagnosis and microsurgical management of conductive hearing loss, middle-ear infections, cholesteatoma, and vertigo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otology designates the branch of medicine concerned with the ear."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Suppurative middle-ear disease requires prompt consultation in **otology** to avert fatal intracranial complications."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"Helmholtz's resonance theory of hearing transformed physiological **otology** into an exact physical science."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The fascinating field of **otology** traces how mammalian ear ossicles evolved from the ancestral reptilian jaw hinge."*

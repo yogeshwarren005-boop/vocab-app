@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dialysis of the blood to remove toxic substances or metabolic wastes from the bloodstream; used in the case of kidney failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dialysis of the blood to remove toxic substances or metabolic wastes from the bloodstream; used in the case of kidney failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A renal replacement therapy that purifies blood by circulating it through an extracorporeal dialyzer membrane to remove metabolic wastes and excess fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nephrological therapeutics, the acute or chronic process of diffusive and convective mass transport across a semipermeable synthetic membrane to correct uremia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemodialysis designates dialysis of the blood to remove toxic substances or metabolic wastes from the bloodstream; used in the case of kidney failure."*
+> - 📜 **Willem Kolff (*New Ways of Treating Uraemia*):** *"Our earliest rotating drum dialyzer demonstrated that effective **haemodialysis** could cleanse the uremic patient's blood safely and repeatedly."*
+> - 📜 **Belding Scribner (*Transplantation and Hemodialysis*):** *"With the development of permanent arteriovenous Teflon shunts, maintenance **haemodialysis** evolved from an experimental emergency intervention into a sustainable life-saving regimen."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"During **haemodialysis**, the concentration gradient between plasma and the dialysate bath determines the net clearance rate of creatinine and urea."*

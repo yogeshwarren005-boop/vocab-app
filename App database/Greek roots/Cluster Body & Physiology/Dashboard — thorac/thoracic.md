@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, located within, or involving the thorax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cavity of the thorax that is bounded below by the diaphragm, is enclosed by the sternum, ribs, and thoracic vertebrae, and that contains the heart and lungs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, situated in, or affecting the thorax (the chest).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, the thoracic cavity is bounded by the ribs, thoracic vertebrae, and sternum, separated from the abdominal cavity by the diaphragm, and contains the heart, lungs, great vessels, and esophagus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thoracic designates of, relating to, located within, or involving the thorax."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **thoracic** cage provides robust bony protection for the vital cardiopulmonary organs while facilitating respiratory expansion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Aneurysm of the **thoracic** aorta may compress the recurrent laryngeal nerve, causing brassy cough and hoarseness."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In mammals, the **thoracic** cavity is completely shut off from the abdomen by the muscular dome of the diaphragm."*

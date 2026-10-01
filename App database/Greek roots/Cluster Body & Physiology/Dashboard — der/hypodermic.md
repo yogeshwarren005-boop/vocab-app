@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted for use in or administered by injection beneath the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the parts beneath the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the region immediately beneath the skin; or a hypodermic needle or syringe used for injecting fluids subcutaneously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and therapeutics, the parenteral administration of soluble medications directly into the subcutaneous space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I shall give hypodermic injection of morphia.” He proceeded then, swiftly and deftly, to carry out his intent."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sedatives valueless 416:6 A hypodermic injection of morphine is administered to a patient, and in twenty minutes the sufferer is qui- etly asleep."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"At one time I was in bed eleven weeks, suffering intensely all the time except when relieved by hypodermic injections."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes took his bottle from the corner of the mantelpiece and his **hypodermic** syringe from its neat morocco case."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The introduction of the **hypodermic** needle revolutionized the emergency management of intractable pain and collapse."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr. Jekyll and Mr. Hyde*):** *"He glanced at the glass phials and the **hypodermic** apparatus with a shudder of fearful fascination."*

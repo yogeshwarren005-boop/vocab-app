@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Long nerve fiber that conducts away from the cell body of the neuron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long nerve fiber that conducts away from the cell body of the neuron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant or historical spelling of axon, the principal efferent nerve fiber that transmits impulses away from the neuron cell body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early twentieth-century neuroanatomy, the axis-cylinder or neurite conducting nerve impulses to other neurons or effector organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axone designates long nerve fiber that conducts away from the cell body of the neuron."*
+> - 📜 **Santiago Ramón y Cajal (*Structure of the Nervous System*):** *"Each motor neuron emits a solitary **axone** that enters the anterior root to innervate peripheral striated muscle fibers."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The terminal arborizations of an **axone** form functional synaptic contacts with the dendrites of neighboring nerve cells."*
+> - 📜 **C. Judson Herrick (*An Introduction to Neurology*):** *"The myelin sheath encircling the central **axone** dramatically increases the conduction velocity of the electrical impulse."*

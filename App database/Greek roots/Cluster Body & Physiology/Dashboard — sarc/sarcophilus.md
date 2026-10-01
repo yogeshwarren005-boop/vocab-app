@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tasmanian devil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tasmanian devil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of carnivorous dasyurid marsupials native to Australia, currently represented by the Tasmanian devil (*Sarcophilus harrisii*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and wildlife pathology, *Sarcophilus* is celebrated for its powerful bite force, scavenger feeding habits, and ongoing vulnerability to Devil Facial Tumor Disease (DFTD).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcophilus designates tasmanian devil."*
+> - 📜 **Richard Owen (*Descriptive Catalogue of the Osteological Series*):** *"The massive cranium and crushing dentition of **Sarcophilus** reflect its role as the dominant scavenger of the Tasmanian bush."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"Colloquially known as the native devil, **Sarcophilus** harrisii is nocturnal and defends its prey with ferocious growls."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"When irritated, the **Sarcophilus** bares its canine teeth and emits a hollow, threatening snarl."*

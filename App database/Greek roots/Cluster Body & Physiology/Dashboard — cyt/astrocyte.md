@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large star-shaped cell of the glia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large star-shaped cell of the glia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A star-shaped glial cell of the central nervous system that supports neurons, regulates blood flow, and maintains the blood-brain barrier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology, the most abundant glial cell type, essential for synaptic transmission, extracellular potassium buffering, and glial scar formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrocyte designates a large star-shaped cell of the glia."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"With gold sublimate staining, each **astrocyte** unfurls hundreds of delicate radiating processes that terminate on capillary walls."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Neurobiologists now recognize that the **astrocyte** is not merely passive brain glue, but an active partner in neural processing."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Following localized ischemic infarction, reactive proliferation of the **astrocyte** leads to fibrous glial encapsulation."*

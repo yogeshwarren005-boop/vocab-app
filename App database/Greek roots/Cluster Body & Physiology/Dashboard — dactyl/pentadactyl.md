@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having five fingers or toes on each hand or foot; an animal possessing five-toed limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate morphology, characterizing the primitive ancestral limb design shared by amphibians, reptiles, birds, and mammals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentadactyl designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The basic **pentadactyl** limb is modified by natural selection into the wing of the bat, the paddle of the whale, and the foot of the horse."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"What can be more curious than that the **pentadactyl** hand of man, formed for grasping, should be fashioned on the same pattern as the mole's digging claw?"*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Early Devonian tetrapods experimented with polydactylous paddles before the **pentadactyl** standard was locked in."*

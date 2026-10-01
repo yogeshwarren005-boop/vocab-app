@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tumor (usually benign) of the sheath surrounding a nerve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tumor (usually benign) of the sheath surrounding a nerve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign tumor of the peripheral nerve sheath derived from Schwann cells; a schwannoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical neuro-oncology and European neuropathology, the historical designation (introduced by Verocay) for solitary encapsulated sheath tumors, particularly of the acoustic nerve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurinoma designates tumor (usually benign) of the sheath surrounding a nerve."*
+> - 📜 **José Verocay (*Zur Kenntnis der Neurofibrome*):** *"Because these tumors originate from immature cells of the Schwannian sheath, I proposed designating the solitary lesion a **neurinoma**."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus and the Syndrome of the Cerebellopontile Angle*):** *"Unilateral tinnitus and progressive deafness frequently signal the occult growth of an acoustic **neurinoma**."*
+> - 📜 **Walter Dandy (*Results of Removal of Acoustic Tumors by the Unilateral Approach*):** *"Complete extirpation of the acoustic **neurinoma** with its capsule affords permanent cure without recurrence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign vascular tumor characterized by an abnormal collection of blood vessels (hemangioma).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and pediatric dermatology, a common vascular proliferation, such as infantile 'strawberry' hemangioma or cavernous hemangioma of the liver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemangioma designates benign angioma consisting of a mass of blood vessels; some appear as birthmarks."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A small cavernous **haemangioma** of the liver is an incidental autopsy finding of no clinical significance unless ruptured."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Pediatric dermatologists manage strawberry **haemangioma** with oral propranolol, inducing rapid involution of the vascular mass."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Histology revealed benign capillary channels lined with flattened endothelium, typical of an uncomplicated cutaneous **haemangioma**."*

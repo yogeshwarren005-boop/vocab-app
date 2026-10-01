@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crani.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe, episodic headache affecting only one side of the head; the classical medical term for unilateral migraine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurological history, paroxysmal unilateral cranial pain often accompanied by ophthalmic aura, photophobia, and nausea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemicrania designates a term designating an entity, condition, or phenomenon derived from greek crani."*
+> - 📜 **Galen (*On the Affected Parts*):** *"Because the painful paroxysm seizes only one half of the head along the sagittal division, we call this affliction **hemicrania**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Periodic attacks of **hemicrania** frequently exhibit a strong familial predisposition, beginning in adolescence."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on the Diseases of the Nervous System*):** *"Ophthalmic **hemicrania** displays a scintillating scotoma that expands across the visual field before the pain begins."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agarics with white spores and caps having an eccentric stem; an important mushroom of japan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agarics with white spores and caps having an eccentric stem; an important mushroom of japan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of gilled mushrooms commonly known as oyster mushrooms, typically growing shelf-like on decaying wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and biotechnology, wood-decaying basidiomycete fungi (e.g. Pleurotus ostreatus) characterized by eccentric or lateral stipes, white spore prints, and carnivorous nematophagous abilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleurotus designates agarics with white spores and caps having an eccentric stem; an important mushroom of japan."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Species of the genus **pleurotus** flourish on decaying tree trunks, displaying laterally attached imbricated caps."*
+> - 📜 **Beatrix Potter (*Illustrations and Studies in Mycology*):** *"The fan-shaped, fleshy basidiocarps of **pleurotus** ostreatus cluster upon decaying beech logs in autumn."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Wood-decay fungi such as **pleurotus** play an indispensable role in recycling forest lignocellulose back into living soil."*

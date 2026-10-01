@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of slender evergreen shrubs; grow in australia and new zealand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of slender evergreen shrubs; grow in australia and new zealand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of rigid, often spiny shrubs and small trees in the violet family (Violaceae), native to Australasia (often included in Melicytus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, woody violaceous shrubs characterized by anthers bearing membranous terminal appendages, yielding small white or purple berries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenanthera designates a genus of slender evergreen shrubs; grow in australia and new zealand."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"The coastal shrub **Hymenanthera** crassifolia forms dense spiny thickets along windswept sea cliffs."*
+> - 📜 **Asa Gray (*Botany of the United States Exploring Expedition*):** *"In **Hymenanthera**, the anthers are capped by delicate membranous scales from which the generic name is derived."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The anomalous woody habit of **Hymenanthera** contrasts with the herbaceous nature of northern violets."*

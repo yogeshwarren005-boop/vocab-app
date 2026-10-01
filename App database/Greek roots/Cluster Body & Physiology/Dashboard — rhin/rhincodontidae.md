@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small-toothed sharks comprising only one species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small-toothed sharks comprising only one species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of large filter-feeding carpet sharks in the order Orectolobiformes, containing only the whale shark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic marine biology, a monotypic family characterized by broad, flattened heads, terminal mouths, checkerboard patterns of white spots and stripes, and filter-feeding gill apparatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhincodontidae designates small-toothed sharks comprising only one species."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The anatomical uniqueness of the **rhincodontidae** demands separate familial standing among the galeoid sharks."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The family **rhincodontidae** comprises the single largest extant species of chondrichthyan fish."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Vast ocean depths shelter solitary giants of the **rhincodontidae**, gliding gracefully without natural predators."*

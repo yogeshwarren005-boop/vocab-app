@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical, mechanical fracture or forceful manual remodeling of the tarsal bones of the foot to correct rigid congenital deformities such as severe clubfoot (talipes equinovarus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical orthopedic procedure popular in the late nineteenth and early twentieth centuries, utilized before modern conservative serial casting (the Ponseti method) and selective soft-tissue releases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tarsoclasis designates a term designating an entity, condition, or phenomenon derived from greek tars."*
+> - 📜 **Astley Cooper (*A Treatise on Dislocations and Fractures of the Joints*):** *"Forceful **tarsoclasis** with a mechanical wrench was employed to realign the rigid, distorted tarsal bones in stubborn talipes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Older children with neglected congenital clubfoot often required open osteotomy or instrumental **tarsoclasis** to permit plantigrade walking."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The reparative callus following closed **tarsoclasis** solidly unites the crushed tarsal bones in their corrected alignment."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oystercatchers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oystercatchers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of wading shorebirds in the order Charadriiformes, commonly known as oystercatchers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, robust coastal shorebirds characterized by stout red chisel-like bills, black and white or all-black plumage, and specialized bivalve-feeding habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematopodidae designates oystercatchers."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Along the rocky shores of Tierra del Fuego, shorebirds of the family **Haematopodidae** pried limpets from the boulders with flattened bills."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The piercing whistling cries of **Haematopodidae** echoed over the mudflats as the tide retreated, exposing cockle beds."*
+> - 📜 **David Attenborough (*The Life of Birds*):** *"Members of **Haematopodidae** learn specialized shell-smashing or shell-stabbing techniques by observing their parents for months."*

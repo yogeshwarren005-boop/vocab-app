@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek proct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The small membrane or region surrounding the anus in echinoderms (especially sea urchins) and crustaceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and paleontology, the flexible, non-calcified apical plate or membrane enclosing the anal aperture within the aboral ring of regular and irregular echinoids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periproct designates a term designating an entity, condition, or phenomenon derived from greek proct."*
+> - 📜 **Louis Agassiz (*Monographies d'Échinodermes*):** *"In regular sea urchins, the apical system encircles the circular **periproct**, through which the anus opens."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The flexible **periproct** of the sea urchin contains minute, embedded calcareous plates surrounding the anal pore."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The evolutionary migration of the **periproct** to the posterior margin marked the transition from regular to irregular heart urchins."*

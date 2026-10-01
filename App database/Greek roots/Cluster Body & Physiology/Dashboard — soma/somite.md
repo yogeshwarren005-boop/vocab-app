@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the longitudinal series of segments into which the body of many animals is divided : metamere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the longitudinal series of segments into which the body of many animals is divided : metamere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of a bilaterally paired series of block-like segments of paraxial mesoderm that form sequentially along the anterior-posterior neural axis of developing vertebrate embryos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and developmental biology, somites differentiate into three distinct lineages: the sclerotome (giving rise to vertebrae and rib cartilage), the myotome (skeletal musculature), and the dermatome (dermis of the back).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somite designates one of the longitudinal series of segments into which the body of many animals is divided : metamere."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The paraxial mesoderm cleaves into discrete transverse blocks, each **somite** containing an internal myocoel."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"From each embryonic **somite**, a ventral sclerotome migrates inward to wrap around the notochord and lay down the vertebral column."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The metameric segmentation displayed by the embryonic **somite** reveals the ancestral vertebrate heritage of segmented annelids."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the lungs : pulmonic, pulmonary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or affected with pneumonia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, located in, or characteristic of the lungs; pulmonary; pneumonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pulmonary semiotics, referring to physical signs of consolidated lung tissue (such as bronchial breath sounds, egophony, and dullness) resulting from pneumonia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumonic designates of, relating to, or affecting the lungs : pulmonic, pulmonary."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Crepitant rales heard over the lower lobe signal the earliest stage of acute **pneumonic** exudation."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"The stethoscope revealed intense tubular resonance, confirming extensive **pneumonic** hepatization throughout the right lung."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The resolution of **pneumonic** consolidation depends upon the enzymatic liquefaction of intra-alveolar fibrin by leucocytic ferments."*

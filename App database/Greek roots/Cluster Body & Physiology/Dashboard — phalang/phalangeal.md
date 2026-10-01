@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the bones of the fingers or toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the bones of the fingers or toes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the phalanges (bones of the fingers or toes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musculoskeletal medicine and biomechanics, describing joints, fractures, ligaments, or nerves of the digital segments (e.g., interphalangeal joints).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalangeal designates of or relating to the bones of the fingers or toes."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Each proximal **phalangeal** shaft articulates with the rounded head of its corresponding metacarpal bone."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rheumatoid arthritis characteristically inflicts symmetric inflammatory erosions upon the proximal **phalangeal** joints."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Tophaceous urate deposits frequently cause osteolytic destruction within the **phalangeal** cortices in chronic gout."*

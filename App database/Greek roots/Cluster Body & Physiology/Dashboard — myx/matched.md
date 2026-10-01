@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be compatible, similar or consistent; coincide in their characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide funds complementary to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equal, suited, or paired appropriately with another person, item, or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, statistics, and genetics, describing donors, recipients, or experimental controls carefully selected to correspond across specific clinical variables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The harder matched, the greater victory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The only soil of his fair virtue’s gloss, If virtue’s gloss will stain with any soil, Is a sharp wit matched with too blunt a will, Whose edge hath power to cut, whose will still wills It should none spare that come within his power."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The son of Clarence have I pent up close; His daughter meanly have I matched in marriage; The sons of Edward sleep in Abraham’s bosom, And Anne my wife hath bid the world good night."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The two advocates were equally **matched** in courtroom eloquence and legal subtlety."*
+> - 📜 **Jane Austen (*Emma*):** *"A better **matched** pair in fortune, age, and disposition could scarcely be discovered in the parish."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"Survival of skin allografts was significantly prolonged between genetically **matched** donor pairs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiny lizards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiny lizards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and diverse genus of North and Central American lizards in the family Phrynosomatidae, commonly known as spiny lizards or swift lizards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, *Sceloporus* species are noted for their keeled, pointed scales and vibrant blue ventral patches displayed by territorial males during aggressive or courtship posturing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sceloporus designates spiny lizards."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"The genus **Sceloporus** represents one of the most abundant and characteristic iguanian groups inhabiting the arid American southwest."*
+> - 📜 **Raymond L. Ditmars (*The Reptile Book*):** *"Sun-loving lizards of the genus **Sceloporus** dart across rocky outcrops with astonishing speed when approached."*
+> - 📜 **John Edwards Holbrook (*North American Herpetology*):** *"The male **Sceloporus** undulatus flashes vivid azure patches along its belly when challenging a rival on an old rail fence."*

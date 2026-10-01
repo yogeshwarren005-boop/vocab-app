@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arthr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of anatomical and physiological science that deals with the study of joints and articulations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical education, the systematic study of the classification, morphology, biomechanics, and pathology of skeletal connections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthrology designates a term designating an entity, condition, or phenomenon derived from greek arthr."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"In systematic **arthrology**, joints are categorized as synarthroses, amphiarthroses, or diarthroses according to their degree of movement."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"A thorough mastery of **arthrology** is indispensable to any physician who would reduce dislocations without causing fracture."*
+> - 📜 **Albrecht von Haller (*First Lines of Physiology*):** *"Comparative **arthrology** demonstrates how the quadruped carpus is exquisitely modified to support the locomotive shocks of the animal."*

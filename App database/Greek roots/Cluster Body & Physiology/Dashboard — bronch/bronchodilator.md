@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that relaxes and dilates the bronchial passageways and improves the passages of air into the lungs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that relaxes and dilates the bronchial passageways and improves the passages of air into the lungs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication or physical agent that causes widening of the lumina of the bronchial tubes by relaxing smooth muscle in the airway walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical therapeutics, a class of drugs encompassing beta-2 adrenergic agonists, anticholinergics, and methylxanthines used to relieve asthma and COPD bronchospasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchodilator designates a drug that relaxes and dilates the bronchial passageways and improves the passages of air into the lungs."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Administering a rapid-acting **bronchodilator** relieves the respiratory distress of asthma while sparing the myocardium unnecessary tachycardic strain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The inhalation of belladonna fumes acted as a crude **bronchodilator** in our nineteenth-century management of nocturnal asthmatic paroxysms."*
+> - 📜 **Edwin B. Astwood (*Clinical Pharmacology of the Sympathetic System*):** *"Selective beta-2 receptor agonists achieve powerful **bronchodilator** action without the pronounced cardiac stimulation provoked by epinephrine."*

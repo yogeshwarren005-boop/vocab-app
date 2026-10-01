@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound C5H9N3 especially of mammalian tissues that causes dilation of capillaries, contraction of smooth muscle, and stimulation of gastric acid secretion, that is released during allergic reactions, and that is formed by decarboxylation of histidine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound C5H9N3 especially of mammalian tissues that causes dilation of capillaries, contraction of smooth muscle, and stimulation of gastric acid secretion, that is released during allergic reactions, and that is formed by decarboxylation of histidine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physiologically active biogenic amine found in body tissues, involved in local immune responses, gastric acid secretion, and neurotransmission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and pharmacology, 2-(1H-imidazol-4-yl)ethanamine, synthesized by mast cells and basophils, which binds to H1, H2, H3, and H4 receptors to mediate vasodilation, vascular permeability, smooth muscle contraction, and pruritus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histamine designates a compound c5h9n3 especially of mammalian tissues that causes dilation of capillaries, contraction of smooth muscle, and stimulation of gastric acid secretion, that is released during allergic reactions, and that is formed by decarboxylation of histidine."*
+> - 📜 **Henry Dale (*The Action of Extracts of the Pituitary Body*):** *"Our isolation of **histamine** from animal ergot extracts revealed a compound possessing astonishing potency in depressing arterial pressure."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Degranulation of sensitized mast cells discharges preformed **histamine**, sparking the triple response of Lewis in the microcirculation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The profound capillary dilation and bronchospasm characteristic of anaphylactic shock are mediated by sudden explosive release of **histamine**."*

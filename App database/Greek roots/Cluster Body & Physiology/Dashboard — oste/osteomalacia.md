@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of adults that is characterized by softening of the bones and is analogous to rickets in the young.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of adults that is characterized by softening of the bones and is analogous to rickets in the young.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of adults characterized by softening of the bones resulting from inadequate mineralization of the organic bone matrix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, the adult counterpart of rickets, commonly caused by severe vitamin D deficiency, renal tubular acidosis, or malabsorption, producing diffuse bone pain and pseudo-fractures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteomalacia designates a disease of adults that is characterized by softening of the bones and is analogous to rickets in the young."*
+> - 📜 **Fuller Albright (*The Parathyroid Glands and Metabolic Bone Disease*):** *"In **osteomalacia**, the total volume of bone matrix remains normal, but failure of calcium deposition leaves the skeleton soft and yielding."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The pregnant woman with severe **osteomalacia** develops a triradiate pelvis that creates insuperable obstacles to natural delivery."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic examination in **osteomalacia** reveals wide borders of uncalcified osteoid tissue encasing every bony trabecula."*

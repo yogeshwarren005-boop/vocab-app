@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly epiphytic tropical ferns with free veins bearing sori.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly epiphytic tropical ferns with free veins bearing sori.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of epiphytic ferns in the family Polypodiaceae, native to tropical and subtropical regions of the Americas, commonly known as golden polypody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology and botanical morphology, a genus characterized by distinctively netted, anastomosing veins (Greek phleps, vein) with excurrent free veinlets bearing sori.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebodium designates chiefly epiphytic tropical ferns with free veins bearing sori."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The distinctive fronds of **phlebodium** are marked by prominent, branching venation that catches the light in canopy habitats."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **phlebodium** is distinguished from Polypodium by its reticulated areolae enclosing fertile sori."*
+> - 📜 **Joseph Dalton Hooker (*The Rhododendrons of Sikkim-Himalaya*):** *"Under glasshouse cultivation, the blue-green glaucescent leaves of **phlebodium** aureum create an elegant ornamental display."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small granule (of e.g. chrysolite) found in some meteoric rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small granule (of e.g. chrysolite) found in some meteoric rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, rounded spherical granule composed of olivine or pyroxene found embedded in chondritic meteorites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cosmochemistry, solidified droplets of molten silicate spray formed by flash heating events in the primordial solar nebula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondrule designates small granule (of e.g. chrysolite) found in some meteoric rocks."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Each microscopic **chondrule** represents an ancient molten droplet that froze in space before the Earth took form."*
+> - 📜 **Harold Urey (*The Planets: Their Origin and Development*):** *"The sudden flash-melting that created each **chondrule** remains one of the fascinating enigmas of nebular physics."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"Microscopic sections of the meteorite reveal thousands of glassy spheres, each individual **chondrule** cemented in dark matrix."*

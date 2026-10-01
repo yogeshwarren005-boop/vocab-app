@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument that stops bleeding by clamping the blood vessel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical instrument that stops bleeding by clamping the blood vessel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical clamp or instrument used to grasp and compress blood vessels to arrest hemorrhage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any chemical agent, pharmaceutical drug, or mechanical appliance employed to stop or control bleeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemostat designates a surgical instrument that stops bleeding by clamping the blood vessel."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"The light, curved **haemostat** with fine serrated jaws enables the operator to grasp the bleeding lumen without crushing adjacent healthy tissue."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"A sterilized **haemostat** was applied immediately to the severed digital artery, arresting all blood loss before application of the carbolized dressing."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The surgeon reached swiftly for a **haemostat**, snapping it shut upon the spurting radial vessel with practiced dexterity."*

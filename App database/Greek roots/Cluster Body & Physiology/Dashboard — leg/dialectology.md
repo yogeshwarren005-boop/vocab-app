@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic study of dialect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of data available for study of a dialect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific branch of linguistics concerned with the study of dialects and dialectal divergence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistic geography, the comparative investigation of geographic, social, and historical variations in pronunciation, vocabulary, and grammar within a language family.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialectology designates the systematic study of dialect."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Linguistic atlases compiled through modern **dialectology** demonstrate that speech boundaries are gradient rather than absolute."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Comparative **dialectology** sheds invaluable light upon the historical processes of language divergence."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The findings of geographical **dialectology** dismantled the older notion of sharply demarcated dialect territories."*

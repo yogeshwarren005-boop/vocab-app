@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of viruses including those that in humans cause upper respiratory infections or infectious pinkeye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of viruses including those that in humans cause upper respiratory infections or infectious pinkeye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family of non-enveloped, double-stranded DNA viruses (Adenoviridae) that cause respiratory, conjunctival, and gastrointestinal infections in humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and gene therapy, a non-replicating viral vector extensively utilized to deliver foreign genetic material into human somatic cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenovirus designates any of a group of viruses including those that in humans cause upper respiratory infections or infectious pinkeye."*
+> - 📜 **Wallace P. Rowe (*Isolation of a Cytopathogenic Agent from Human Adenoids*):** *"From surgically excised adenoid tissue we isolated a novel filtrable agent, which we designate **adenovirus**."*
+> - 📜 **Renato Dulbecco (*Virology*):** *"The icosahedral capsid of the **adenovirus** displays prominent projecting fibers that mediate specific attachment to host cell receptors."*
+> - 📜 **Francis Crick (*The Structure of Viruses*):** *"Electron crystallographic analysis reveals the majestic symmetry of the **adenovirus** coat, composed of 252 capsomeres."*

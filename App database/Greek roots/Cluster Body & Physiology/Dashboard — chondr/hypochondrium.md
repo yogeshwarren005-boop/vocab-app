@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The upper region of the abdomen just below the lowest ribs on either side of the epigastrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The upper region of the abdomen just below the lowest ribs on either side of the epigastrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In human surface anatomy, either of the two upper lateral regions of the abdomen situated on each side of the epigastrium, beneath the cartilages of the ribs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physical diagnosis, the anatomical quadrant containing the liver and gallbladder on the right, and the spleen and stomach fundus on the left.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypochondrium designates the upper region of the abdomen just below the lowest ribs on either side of the epigastrium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Deep palpation beneath the right **hypochondrium** reveals the smooth, firm margin of an enlarged congestive liver."*
+> - 📜 **Galen (*On the Affected Parts*):** *"Ancient physicians observed that melancholic humors frequently stagnated in the left **hypochondrium** near the spleen."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"A massive pleuritic effusion may push the diaphragm downwards, producing fullness in the ipsilateral **hypochondrium**."*

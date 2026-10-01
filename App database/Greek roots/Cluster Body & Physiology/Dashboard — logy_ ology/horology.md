@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of designing and making clocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of designing and making clocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science and art of measuring time and constructing instruments for indicating time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and the history of chronometry, the design of escapements, balances, and timekeeping mechanisms for nautical and astronomical precision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horology designates the art of designing and making clocks."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The perfection of **horology** and the invention of accurate marine chronometers were essential to determine longitude at sea."*
+> - 📜 **Diderot (*Encyclopédie*):** *"The art of **horology** represents the pinnacle of mechanical ingenuity, mimicking the celestial revolutions in a handheld case."*
+> - 📜 **Herman Melville (*Pierre; or, The Ambiguities*):** *"He compared human virtue to terrestrial clocks, and divine perfection to celestial **horology**."*

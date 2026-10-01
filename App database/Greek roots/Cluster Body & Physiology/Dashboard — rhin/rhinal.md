@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or in or relating to the nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or in or relating to the nose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located near, or affecting the nose; nasal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, designating the rhinal sulcus (sulcus rhinalis), an ancient phylogenetic fissure demarcating the olfactory paleocortex from the neocortex in the vertebrate brain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinal designates of or in or relating to the nose."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The lateral **rhinal** fissure clearly separates the basal olfactory lobe from the expanding cerebral hemisphere."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"In mammalian brains with well-developed olfaction, the **rhinal** sulcus forms a deep, conspicuous landmark."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Cortical areas situated immediately above the **rhinal** sulcus participate in basic sensory integration and limbic memory."*

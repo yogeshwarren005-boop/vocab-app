@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Righteye flounders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Righteye flounders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flatfishes commonly known as righteye flounders, characterized by having both eyes on the right side of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, marine demersal teleosts whose pelagic symmetrical larvae undergo cranial metamorphosis during settlement, resulting in an asymmetrical benthic adult morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleuronectidae designates righteye flounders."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The family **pleuronectidae** comprises benthic predators exquisitely adapted for camouflage among sandy sea bottoms."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Skeletal asymmetry in the **pleuronectidae** was long cited as one of the most remarkable puzzles of vertebrate morphology."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Flounders belonging to the **pleuronectidae** lay buried in the silt, only their elevated periscopic eyes protruding."*

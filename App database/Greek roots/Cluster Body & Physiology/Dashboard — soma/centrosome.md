@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: centriole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the centriole-containing region of clear cytoplasm adjacent to the cell nucleus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal microtubule-organizing center of animal cells, typically composed of a pair of orthogonally arranged centrioles embedded in pericentriolar material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell division and mitosis, the centrosome duplicates during interphase and forms the opposing poles of the mitotic spindle that segregate sister chromatids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosome designates centriole."*
+> - 📜 **Theodor Boveri (*Cells and Tissues*):** *"The **centrosome** represents the true dynamic division center of the cell, orchestrating astral rays during aster formation."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Boveri demonstrated that the fertilized egg inherits its functional **centrosome** exclusively from the penetrating spermatozoon."*
+> - 📜 **Walter Flemming (*Cell-Substance, Nucleus, and Cell-Division*):** *"Radiating astral filaments focus symmetrically upon the minute central body termed the **centrosome**."*

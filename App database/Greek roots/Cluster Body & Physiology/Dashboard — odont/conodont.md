@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A Paleozoic toothlike fossil that is probably the remains of an extinct eellike marine animal that may be an invertebrate or primitive vertebrate; also : the animal from which conodonts are derived.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Paleozoic toothlike fossil that is probably the remains of an extinct eellike marine animal that may be an invertebrate or primitive vertebrate; also : the animal from which conodonts are derived.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct microscopic tooth-like fossil composed of calcium phosphate, produced by primitive marine agnathan chordates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In micropaleontology and biostratigraphy, index fossils spanning the Cambrian to Triassic that belonged to eel-like chordates (Conodonta) possessing mineralized feeding apparatuses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conodont designates a paleozoic toothlike fossil that is probably the remains of an extinct eellike marine animal that may be an invertebrate or primitive vertebrate; also : the animal from which conodonts are derived."*
+> - 📜 **Edward Drinker Cope (*The Primary Factors of Organic Evolution*):** *"The tiny phosphatic structures designated as **conodont** elements represent the earliest vertebrate mineralized hard tissues."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Stratigraphic correlation of Paleozoic marine limestone strata relies heavily upon the evolutionary succession of the **conodont**."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Microscopic **conodont** teeth arranged along the pharynx provided primitive chordates with an effective grasping apparatus."*

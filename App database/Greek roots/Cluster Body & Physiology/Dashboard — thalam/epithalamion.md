@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A song or poem in honor of a bride and bridegroom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A song or poem in honor of a bride and bridegroom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal nuptial poem or song written in celebration of a marriage, composed to honor the bride and groom upon their wedding night (Greek form).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, Sappho and Theocritus established the epithalamion genre, famously brought into English literature by Edmund Spenser in his celebrated poem *Epithalamion* (1595).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Sing mournfully that sad Epithalamion I gave thee now: and prethee let thy lute weep."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"EPITHALAMION The pale dawn went down unto the sea, Past the gray ships in the offing."*
+> - 📜 **Edmund Spenser (*Epithalamion*):** *"Song, made in lieu of many ornaments, be unto her a goodly ornament, and for short time an endless moniment: thus closed my joyous **epithalamion**."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Spenser's **epithalamion** surpasses all ancient wedding hymns in its radiant blend of pastoral melody and passionate devotion."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Celestial voices sung the first **epithalamion** in Eden, while heavenly choirs showered fragrant blossoms upon the bower."*

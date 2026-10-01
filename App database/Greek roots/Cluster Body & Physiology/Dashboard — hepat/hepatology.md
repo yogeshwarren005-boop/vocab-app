@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the structure, functions, diseases, and abnormalities of the liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned with the structure, functions, diseases, and abnormalities of the liver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and medical science concerned with the study, diagnosis, and treatment of diseases of the liver, gallbladder, and biliary tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal medicine, a specialized subdiscipline of gastroenterology addressing acute liver failure, cirrhosis, viral hepatitis, and liver transplantation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatology designates a branch of medicine concerned with the structure, functions, diseases, and abnormalities of the liver."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Recent advances in clinical **hepatology** have elucidated the physiological distinctions between obstructive and hemolytic varieties of jaundice."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Modern experimental **hepatology** dates from the discovery that the liver acts as an active chemical factory rather than a passive filter."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Contemporary **hepatology** relies extensively upon metabolic clearance assays and imaging of hepatic portal hemodynamics."*

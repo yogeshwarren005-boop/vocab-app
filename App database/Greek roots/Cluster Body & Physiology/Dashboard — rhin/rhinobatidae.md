@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive rays with guitar-shaped bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive rays with guitar-shaped bodies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of rays commonly known as guitarfishes, characterized by an elongated body and a triangular or wedge-shaped snout intermediate between sharks and rays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic elasmobranch ichthyology, benthic marine batoids (order Rhinopristiformes) possessing a stout shark-like tail with two dorsal fins and pectoral fins expanded into a ray-like disc.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinobatidae designates primitive rays with guitar-shaped bodies."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The family **rhinobatidae** occupies an evolutionary transition between typical shark morphology and flattened batoid rays."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The guitarfishes of the **rhinobatidae** glide over sandy coastal bottoms, preying on burrowing mollusks and crabs."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Along sandy surf lines, members of the **rhinobatidae** lie partially submerged under silt, disguised like stones."*

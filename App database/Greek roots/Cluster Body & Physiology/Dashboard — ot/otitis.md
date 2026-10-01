@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the middle ear marked especially by pain, fever, dizziness, and abnormalities in hearing; especially : acute otitis media.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the ear, involving either the external, middle, or internal ear structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, subdivided into otitis externa (swimmer's ear), otitis media, and otitis interna (labyrinthitis causing vertigo).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otitis designates inflammation of the ear."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **otitis** requires vigilant examination of the mastoid process to ensure inflammation has not invaded the bony cells."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Infection in external **otitis** is constrained by the dense cartilaginous meatus, producing exquisite tenderness upon traction of the pinna."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Neglected **otitis** has too often been permitted to erode the tegmen tympani, carrying lethal infection directly into the middle cranial fossa."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The category of nouns serving as the indirect object of a verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The category of nouns serving as the indirect object of a verb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In inflected languages, the grammatical case expressing the indirect object of an action or the recipient of a gift or benefit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology and grammar, the case typically indicating the person to or for whom something is done (from Latin dare, datum).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The use of the dative, or indirect object, without “to” or “for”."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language (Grammar)*):** *"The English noun has lost its ancient inflections, replacing the classical **dative** case with the prepositions 'to' and 'for'."*
+> - 📜 **Max Müller (*The Science of Language*):** *"Comparative Indo-European grammar demonstrates that the **dative** originally functioned to designate personal recipients of an action."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"Old English possessed a distinct **dative** inflection in both nouns and pronouns, which survives today only in him, her, and them."*

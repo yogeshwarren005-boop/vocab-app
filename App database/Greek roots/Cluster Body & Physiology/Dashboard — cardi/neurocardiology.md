@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cardi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interdisciplinary medical science that studies the physiological and pathological interactions between the nervous system and the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuroscience and cardiology, the study of brain-heart interactions, including arrhythmogenic effects of stroke, stress-induced cardiomyopathy (Takotsubo), and autonomic regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurocardiology designates a term designating an entity, condition, or phenomenon derived from greek cardi."*
+> - 📜 **Walter Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"The pioneering insights of **neurocardiology** trace how intense emotional shock can provoke fatal cardiac arrhythmias via massive sympathetic discharge."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Autonomic reflex arcs coordinate cardiac output with vascular tone, demonstrating the profound integration explored by modern **neurocardiology**."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Every observant physician recognizes that emotional storms affect the heart, giving rise to the modern specialty of **neurocardiology**."*

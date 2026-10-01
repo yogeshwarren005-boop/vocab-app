@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dacry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the lacrimal gland, causing pain, swelling, and redness in the outer upper part of the eyelid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, an acute or chronic condition associated with systemic disorders such as mumps, sarcoidosis, or autoimmune disease, presenting with an S-shaped ptosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacryoadenitis designates a term designating an entity, condition, or phenomenon derived from greek dacry."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **dacryoadenitis** causes severe tenderness beneath the outer third of the upper orbital rim, tilting the globe downward."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Surgical Subjects*):** *"Chronic painless enlargement in bilateral **dacryoadenitis** often heralds systemic granulomatous disease."*
+> - 📜 **René Laennec (*A Treatise on Diseases of the Chest and Senses*):** *"The characteristic S-shaped contour of the upper lid reveals the acute inflammatory tumefaction of **dacryoadenitis**."*

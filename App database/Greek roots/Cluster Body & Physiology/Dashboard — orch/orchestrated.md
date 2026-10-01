@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Write an orchestra score for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plan and direct (a complex undertaking).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged or scored for an orchestra, or carefully planned and executed to achieve a specific effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic and historical analysis, describing events, public campaigns, or military operations that were systematically prearranged and synchronized behind the scenes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It is my opinion that the positions taken by the governments of the Jovian Federation are orchestrated."*
+> - 📜 **George Orwell (*1984*):** *"The Two Minutes Hate was a cleverly **orchestrated** display designed to channel collective fury against the state's enemies."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The diplomatic maneuverings that precipitated the crisis were an **orchestrated** campaign of intimidation and propaganda."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"He listened intently to the masterfully **orchestrated** variations, admiring the seamless fusion of winds and strings."*

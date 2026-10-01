@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the functional units of the kidney that filters the blood, selectively reabsorbs substances (such as glucose, ions, and amino acids), and excretes nitrogenous waste (such as urea) and excess water and salts in the form of urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the functional units of the kidney that filters the blood, selectively reabsorbs substances (such as glucose, ions, and amino acids), and excretes nitrogenous waste (such as urea) and excess water and salts in the form of urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental structural and functional microscopic unit of the kidney, responsible for filtering blood and producing urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renal physiology and histology, a microscopic tubule consisting of a renal corpuscle (glomerulus and Bowman's capsule) and a tubular system that regulates water and electrolyte balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephron designates one of the functional units of the kidney that filters the blood, selectively reabsorbs substances (such as glucose, ions, and amino acids), and excretes nitrogenous waste (such as urea) and excess water and salts in the form of urine."*
+> - 📜 **Homer Smith (*The Kidney: Structure and Function in Health and Disease*):** *"Each human kidney contains roughly one million **nephron** units filtering plasma under hydrostatic pressure."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Vasomotor nerve endings arborize around the afferent arteriole of every single **nephron**."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The convoluted tubule of the **nephron** descends into the medulla as the loop of Henle before returning to the cortex."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nephr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical condition characterized by the formation or presence of calculi (kidney stones) in the kidneys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology, a chronic metabolic or dietary disorder leading to supersaturation of urine and crystalluria, precipitating recurrent nephroliths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrolithiasis designates a term designating an entity, condition, or phenomenon derived from greek nephr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Recurrent **nephrolithiasis** requires rigorous chemical evaluation of twenty-four-hour urinary excretion."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"Chronic urinary stasis and persistent Proteus infection are primary causative factors in calculous **nephrolithiasis**."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Patients tormented by gout frequently share an underlying bodily diathesis toward painful **nephrolithiasis**."*

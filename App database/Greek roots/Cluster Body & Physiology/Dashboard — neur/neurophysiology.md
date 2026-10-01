@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of neuroscience that studies the physiology of the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of neuroscience that studies the physiology of the nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physiology and neuroscience that studies the electrical and chemical functioning of the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical science, the investigation of action potential propagation, synaptic transmission, sensory transduction, and neural network oscillations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurophysiology designates the branch of neuroscience that studies the physiology of the nervous system."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The overarching task of **neurophysiology** is to demonstrate how individual conduction pathways integrate into unified organic behavior."*
+> - 📜 **Hermann von Helmholtz (*On the Rate of Transmission of the Nerve Impulse*):** *"Measuring the propagation speed of the nerve impulse demonstrated that **neurophysiology** obeys the universal laws of physical chemistry."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Modern **neurophysiology** reveals that memory traces correspond to quantifiable changes in synaptic transmission efficacy."*

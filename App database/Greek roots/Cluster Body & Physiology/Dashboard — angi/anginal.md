@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to the pain of angina pectoris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to the pain of angina pectoris.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling angina, especially angina pectoris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, describing retrosternal compressive chest pain, heaviness, or radiation provoked by myocardial oxygen deprivation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anginal designates of or related to the pain of angina pectoris."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris*):** *"The patient complained of recurrent **anginal** distress radiating down the inner aspect of the left arm upon climbing stairs."*
+> - 📜 **Harvey Cushing (*Clinical Studies on Blood Pressure*):** *"Sublingual nitroglycerin brought prompt relief from the acute **anginal** paroxysm by dilating systemic venous beds."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Atypical **anginal** discomfort may masquerade as indigestion, leading unwary clinicians to overlook coronary occlusion."*

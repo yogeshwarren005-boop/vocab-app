@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of the uterus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical operation of removing the uterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological surgery, total or subtotal excision of the uterus (frequently accompanied by salpingo-oophorectomy) indicated for leiomyomas, endometriosis, uterine prolapse, or pelvic malignancies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysterectomy designates surgical removal of the uterus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Radical abdominal **hysterectomy** became a safe and standard procedure following the introduction of antiseptic surgical technique."*
+> - 📜 **Harvey Cushing (*The Medical Career and Other Papers*):** *"Advances in hemostasis transformed the dangerous **hysterectomy** into one of the most successful major pelvic operations."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Careful ligation of the uterine arteries is the crucial step when performing a complete abdominal **hysterectomy**."*

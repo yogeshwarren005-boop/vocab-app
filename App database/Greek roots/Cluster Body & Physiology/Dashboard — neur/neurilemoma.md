@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tumor of the fibrous covering of a peripheral nerve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tumor of the fibrous covering of a peripheral nerve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign neoplasm originating from the Schwann cells of the peripheral nerve sheath (synonymous with schwannoma).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, an encapsulated, slowly growing peripheral or cranial nerve tumor exhibiting distinctive Antoni A (dense, palisading) and Antoni B (loose, myxoid) histological patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurilemoma designates tumor of the fibrous covering of a peripheral nerve."*
+> - 📜 **Arthur Purdy Stout (*The Peripheral Manifestations of the Specific Nerve Sheath Tumor (Neurilemoma)*):** *"I coined the term **neurilemoma** to designate encapsulated benign tumors arising exclusively from the sheath of Schwann."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"The eighth cranial nerve tumor is a classic **neurilemoma**, expanding benignly within the cerebellopontine angle."*
+> - 📜 **Dorothy Russell (*Pathology of Tumours of the Nervous System*):** *"Microscopic sections of a **neurilemoma** reveal orderly palisading nuclei forming Verocay bodies within dense Antoni A tissue."*

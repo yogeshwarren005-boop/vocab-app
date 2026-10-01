@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek prosop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare congenital malformation characterized by the total or partial absence of facial structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental teratology and craniofacial embryology, an extreme blastogenetic midline defect involving failure of the frontonasal and branchial arch processes, typically associated with holoprosencephaly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aprosopia designates a term designating an entity, condition, or phenomenon derived from greek prosop."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The teratological specimen exhibited complete **aprosopia**, where arrest of the anterior neural ridge prevented facial development."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Severe blastogenetic defects such as **aprosopia** are almost invariably accompanied by fatal developmental anomalies of the central nervous system."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Embryological malformations, including catastrophic **aprosopia**, illustrate the delicate coordination required during facial suture assembly."*

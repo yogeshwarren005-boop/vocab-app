@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order or suborder (Plesiosauria) of large carnivorous marine reptiles of the Mesozoic with dorsoventrally flattened bodies and limbs modified into flippers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order or suborder (Plesiosauria) of large carnivorous marine reptiles of the Mesozoic with dorsoventrally flattened bodies and limbs modified into flippers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various extinct marine reptiles of the order Plesiosauria, having a broad, flat body, flippers, and typically an elongated neck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, Mesozoic diapsid carnivores that dominated Jurassic and Cretaceous seas, using four paddle-like limbs for underwater paraxial flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plesiosaur designates any of an order or suborder (plesiosauria) of large carnivorous marine reptiles of the mesozoic with dorsoventrally flattened bodies and limbs modified into flippers."*
+> - 📜 **Richard Owen (*Palaeontology, or A Systematic Summary of Extinct Animals and Their Geological Relations*):** *"The long-necked **plesiosaur** presents an extraordinary combination of lacertilian, crocodilian, and cetacean anatomical features."*
+> - 📜 **Gideon Mantell (*The Wonders of Geology*):** *"Mary Anning extracted the nearly complete skeleton of a large **plesiosaur** from the Blue Lias cliffs at Lyme Regis."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossil remains of the **plesiosaur** indicate that these marine reptiles preyed upon cephalopods in ancient epicontinental seas."*

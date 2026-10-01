@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ischi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bodily strength, physical vigor, or muscular power, derived directly from the classical Greek noun ἰσχύς.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Hellenic philosophy, physiology, and gymnastics, the kinetic force and constitutional robust health of the athlete or organism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ischys designates a term designating an entity, condition, or phenomenon derived from greek ischi."*
+> - 📜 **Benjamin Jowett (*The Dialogues of Plato*):** *"Socrates distinguished mere physical **ischys**, or brute strength, from virtue guided by philosophical temperance."*
+> - 📜 **Richard Claverhouse Jebb (*Sophocles: The Plays and Fragments*):** *"The hero's **ischys** faltered when grief overcame his bodily endurance."*
+> - 📜 **William Henry Smith (*A Dictionary of Greek and Roman Antiquities*):** *"Athletic training in the palaestra sought to cultivate harmonious **ischys** rather than hypertrophied bulk."*

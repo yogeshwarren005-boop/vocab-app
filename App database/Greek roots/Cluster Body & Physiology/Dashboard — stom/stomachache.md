@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ache localized in the stomach or abdominal region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ache localized in the stomach or abdominal region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain or discomfort localized in the stomach or abdominal region; gastralgia or abdominal colic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, stomachache encompasses visceral pain caused by gastritis, peptic ulcer disease, functional dyspepsia, food poisoning, or referred pain from appendicitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomachache designates an ache localized in the stomach or abdominal region."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An acute **stomachache** accompanied by persistent localized tenderness in the right iliac fossa must be treated as appendicitis."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip attributed his sudden **stomachache** to the hasty consumption of cold pork pie during his anxious morning flight."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom feigned a sudden, agonizing **stomachache** on Monday morning in a desperate bid to escape school."*

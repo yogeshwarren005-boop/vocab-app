@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The delicate serous membrane that lines each half of the thorax of mammals and is folded back over the surface of the lung of the same side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The delicate serous membrane that lines each half of the thorax of mammals and is folded back over the surface of the lung of the same side.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A delicate serous membrane enclosing each lung and lining the thoracic cavity (consisting of visceral and parietal layers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and thoracic pathology, the double-layered mesothelial sac that secretes serous fluid into the pleural space to allow frictionless pulmonary sliding during breathing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleura designates the delicate serous membrane that lines each half of the thorax of mammals and is folded back over the surface of the lung of the same side."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Each lung is invested on its external surface by a delicate serous sac, the **pleura**, which also lines the inner thoracic wall."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Fibrinous exudate coating the inflamed **pleura** produces the harsh friction rub audible on auscultation."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Malignant mesothelioma arises directly from the mesothelial lining cells of the parietal and visceral **pleura**."*

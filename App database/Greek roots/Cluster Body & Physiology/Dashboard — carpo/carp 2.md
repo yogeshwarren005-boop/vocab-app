@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek carpo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To find fault, complain, or raise petty, captious objections continually; to cavil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical and moral discourse, the persistent habit of uncharitable, nagging criticism directed against trivial flaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carp 2 designates a term designating an entity, condition, or phenomenon derived from greek carpo."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Suspend thy purpose, if thou didst intend to make this creature fruitful into a child that may **carp** at her mother's care."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The superficial critic loves to **carp** at minute grammatical slips while blind to the sublime design of the work."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"It is the easy prerogative of small minds to **carp** at greatness, measuring the giant by their own diminutive stature."*

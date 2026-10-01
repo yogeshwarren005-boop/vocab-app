@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek prosop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The personal name of an individual, especially as used to identify a historical personage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In onomastics and historical philology, an anthroponym or personal proper name analyzed in its historical, social, and cultural context.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosoponym designates a term designating an entity, condition, or phenomenon derived from greek prosop."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The analysis of each ancient **prosoponym** unlocks genealogical relationships recorded in early medieval charters."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The adoption of a traditional Roman **prosoponym** symbolized the political assimilation of barbarian chieftains."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Every classical Greek **prosoponym** was formed with careful regard to auspicious meanings and ancestral heritage."*

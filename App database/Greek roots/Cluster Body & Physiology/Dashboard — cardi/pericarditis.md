@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pericardium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the pericardium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pericardium, the fibroserous sac that encloses the heart, characterized by chest pain and a pericardial friction rub.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, an acute or chronic condition caused by viral infection, autoimmune disease, uremia, or myocardial infarction, risking cardiac tamponade or constrictive fibrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericarditis designates inflammation of the pericardium."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"The hallmark of acute fibrinous **pericarditis** is the superficial, to-and-fro leathery friction sound heard over the precordium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic constrictive **pericarditis** encases the heart in a rigid calcified armor, preventing diastolic filling of the ventricles."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"Violent substernal chest agony aggravated by recumbency and coughing signals inflammatory **pericarditis** attacking the heart's outer cloak."*

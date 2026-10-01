@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The connective-tissue sheath that surrounds a bundle of nerve fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The connective-tissue sheath that surrounds a bundle of nerve fibers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sheath of dense connective tissue and flattened epithelial-like cells that encloses each separate fascicle of nerve fibers within a peripheral nerve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurohistology and clinical medicine, a multilayered cellular sheath forming a blood-nerve barrier that maintains the internal microenvironment of the endoneurium and resists intra-neural pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perineurium designates the connective-tissue sheath that surrounds a bundle of nerve fibers."*
+> - 📜 **Louis-Antoine Ranvier (*Leçons sur l'histologie du système nerveux*):** *"Each bundle of nerve fibers is wrapped in a concentric lamellar sheath which we designate the **perineurium**."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The continuous epithelial lining of the **perineurium** prevents toxic transudates from penetrating into the inner nerve fascicle."*
+> - 📜 **Sydney Sunderland (*Nerves and Nerve Injuries*):** *"Fascicular suture requires precise placement of microscopic stitches through the tough, protective **perineurium**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sarc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tough, outer chitinous or horny protective integument or sheath enclosing the soft coenosarc of colonial hydrozoans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, the perisarc may form the hydrothecae protecting hydranths in theleptomedusae (thecate hydroids) or terminate below the polyps in athecate forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perisarc designates a term designating an entity, condition, or phenomenon derived from greek sarc."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"The branching colonies are fortified externally by a continuous chitinous tube, termed the **perisarc** by Allman."*
+> - 📜 **George James Allman (*A Monograph of the Gymnoblastic or Tubularian Hydroids*):** *"The soft living axis of the zoophyte secretes the **perisarc** as an exoskeleton providing mechanical rigidity against ocean currents."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Protozoa through Ctenophora*):** *"In thecate hydroids, the **perisarc** expands distally into a protective cup into which the polyp can retract when disturbed."*

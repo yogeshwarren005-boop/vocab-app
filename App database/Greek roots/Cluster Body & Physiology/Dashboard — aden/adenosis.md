@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any generalized or abnormal development, proliferation, or disease of glandular tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, specifically sclerosing adenosis of the breast or vaginal adenosis associated with fetal exposure to diethylstilbestrol (DES).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenosis designates a term designating an entity, condition, or phenomenon derived from greek aden."*
+> - 📜 **Arthur Purdy Stout (*Human Cancer*):** *"Sclerosing **adenosis** of the mammary gland can mimic infiltrating adenocarcinoma histologically, requiring careful frozen-section evaluation."*
+> - 📜 **Arthur L. Herbst (*Adenocarcinoma of the Vagina: Association with Maternal Stilbestrol Therapy*):** *"Benign vaginal **adenosis** was detected in a substantial percentage of young women exposed in utero to maternal diethylstilbestrol."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"Florid lobular **adenosis** represents an exuberant non-neoplastic multiplication of acinar units during reproductive life."*

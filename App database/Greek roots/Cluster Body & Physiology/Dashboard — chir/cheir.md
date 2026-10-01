@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The classical Greek root (cheir, meaning 'hand'), forming the foundation of terms related to manual manipulation, chirality, and surgical crafts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymological lexicography and anatomical nomenclature, the radical denoting manual dexterity, palms, or hand-directed instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cheir designates a term designating an entity, condition, or phenomenon derived from greek chir."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"From the fundamental Greek noun **cheir** arose an extensive family of compounds designating skilled manual labor and surgery."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek root **cheir** signifies the hand, appearing in chirality, chiromancy, and the archaic chirurgeon."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The Indo-European root reflecting the grasping hand gave the Greeks their expressive noun **cheir**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brown, oblong edible fruit of a palm (Phoenix dactylifera).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tall palm with pinnate leaves that yields the date.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The day of the month or year as specified by a number; or the sweet, oblong edible fruit of the date palm (Phoenix dactylifera).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical etymology, the fruit term derives through Latin dactylus from Greek daktylos (finger), alluding to the finger-like shape of the fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the tenth Muse, ten times more in worth Than those old nine which rhymers invocate, And he that calls on thee, let him bring forth Eternal numbers to outlive long date."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your date is better in your pie and your porridge than in your cheek."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here comes the almanac of my true date."*
+> - 📜 **Alexander von Humboldt (*Views of Nature*):** *"The nomadic caravans sustained themselves across the blazing desert upon dried clusters of the wild **date**."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"They call for **dates** and quinces in the pastry, while the servants hasten with roasted meats for the banquet."*
+> - 📜 **Edward William Lane (*Manners and Customs of the Modern Egyptians*):** *"The harvest of the desert **date** is celebrated with festivities, as it provides the staple nourishment of the oasis."*

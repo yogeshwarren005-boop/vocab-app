@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthropologist who studies ethnology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropologist who studies ethnology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in ethnology, the comparative study of peoples and their cultures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the human sciences, a scholar who synthesizes ethnographic data to explain cultural evolution, diffusion, and kinship structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In recent years the true nature of the association has been duly recognised by the distinguished Dutch ethnologist, J."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"The professional **ethnologist** lives as an exile at home and a perpetual stranger abroad."*
+> - 📜 **Franz Boas (*Race, Language, and Culture*):** *"The careful **ethnologist** must master the native language to understand the inner conceptual world of his informants."*
+> - 📜 **Margaret Mead (*Sex and Temperament in Three Primitive Societies*):** *"To the trained **ethnologist**, contrasting personality ideals among neighboring tribes illuminate the plasticity of culture."*

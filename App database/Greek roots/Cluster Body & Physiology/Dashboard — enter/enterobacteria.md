@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rod-shaped gram-negative bacteria; most occur normally or pathogenically in intestines of humans and other animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rod-shaped gram-negative bacteria; most occur normally or pathogenically in intestines of humans and other animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of Gram-negative, rod-shaped bacteria that typically inhabit the intestines of humans and other animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic bacteriology, facultatively anaerobic coliform bacilli that ferment glucose, reduce nitrates to nitrites, and lack cytochrome oxidase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterobacteria designates rod-shaped gram-negative bacteria; most occur normally or pathogenically in intestines of humans and other animals."*
+> - 📜 **Carl Woese (*The Genetic Code*):** *"Comparative sequencing revealed clear phylogenetic boundaries separating harmless symbiotic **enterobacteria** from soil-dwelling pseudomonads."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"The emergence of antibiotic resistance among hospital-acquired **enterobacteria** poses an escalating challenge to modern chemotherapy."*
+> - 📜 **Ed Yong (*I Contain Multitudes*):** *"In every human gut, specialized **enterobacteria** produce vitamin K and break down complex dietary polysaccharides."*

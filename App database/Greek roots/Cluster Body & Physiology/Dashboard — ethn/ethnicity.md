@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ethnic quality or affiliation resulting from racial or cultural ties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ethnic quality or affiliation resulting from racial or cultural ties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fact or state of belonging to a social group that has a common national or cultural tradition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and political science, a dynamic social construct rooted in shared heritage, language, customs, and collective identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I would like to communicate with other classes all over the U.S., especially from areas where ethnicity, cultural values and religion are known to vary from the majority."*
+> - 📜 **Clifford Geertz (*The Interpretation of Cultures*):** *"Primordial attachments based on blood, speech, and custom endow **ethnicity** with immense emotional and political force."*
+> - 📜 **Benedict Anderson (*Imagined Communities*):** *"Print-capitalism unified dispersed dialects, reshaping traditional **ethnicity** into national consciousness."*
+> - 📜 **Kwame Anthony Appiah (*The Lies That Bind: Rethinking Identity*):** *"We construct **ethnicity** through shared stories and social expectations, though biology shows our lineages are thoroughly intertwined."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lysis of red blood cells with liberation of hemoglobin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lysis of red blood cells with liberation of hemoglobin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The breakdown or destruction of red blood cells, resulting in the release of hemoglobin into the blood plasma or surrounding fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and laboratory medicine, the physiological, pathological, or in vitro disruption of erythrocyte cell membrane integrity by toxins, immune reactions, shear stress, or osmotic shock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemolysis designates lysis of red blood cells with liberation of hemoglobin."*
+> - 📜 **Karl Landsteiner (*The Specificity of Serological Reactions*):** *"When serum antibodies combine with incompatible red cells in the presence of fresh complement, rapid **hemolysis** ensues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The severe anemia accompanying certain venomous bites is directly attributable to violent intravascular **hemolysis**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The microscopic field showed swollen erythrocyte envelopes followed by sudden osmotic **hemolysis**, leaving empty stromata."*

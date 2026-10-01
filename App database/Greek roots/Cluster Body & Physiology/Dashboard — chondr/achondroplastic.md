@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to achondroplasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to achondroplasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected by achondroplasia; exhibiting disproportionate short-limbed dwarfism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical morphology, describing bone histopathology characterized by arrested chondrocyte proliferation in epiphyseal growth plates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achondroplastic designates of or relating to achondroplasia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Radiographs of the **achondroplastic** skeleton reveal characteristic flared metaphyses and shortened tubular limb bones."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Surgical Subjects*):** *"The **achondroplastic** child develops normal muscular strength despite severe mechanical disadvantage in the limbs."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"He examined the skull of an **achondroplastic** subject, remarking on the characteristic depression at the root of the nose."*

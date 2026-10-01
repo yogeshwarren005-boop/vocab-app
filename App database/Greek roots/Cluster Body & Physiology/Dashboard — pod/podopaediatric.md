@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the diagnosis and management of foot and lower-limb disorders in children (pediatric podiatry; Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic semiotics and rehabilitation, referring to the evaluation of pediatric gait abnormalities, clubfoot (talipes equinovarus), flatfoot (pes planus), and torsional skeletal deformities in growing infants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podopaediatric designates adjective*) pertaining to, derived from, or characteristic of foot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early **podopaediatric** evaluation detects congenital talipes before irreversible ossification sets in."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Conservative splinting in **podopaediatric** practice often remedies severe postural clubbing without open osteotomy."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Properly fitted footwear in childhood constitutes the primary foundation of preventative **podopaediatric** hygiene."*

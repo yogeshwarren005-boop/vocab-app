@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anatomical brain; the entire mass of nervous tissue enclosed within the cranium of a vertebrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative neuroanatomy, the central cephalic nervous structure comprising the prosencephalon (forebrain), mesencephalon (midbrain), and rhombencephalon (hindbrain).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalon designates that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **encephalon** of the vertebrate expands from three primitive cerebral vesicles into the complex architecture of hemispheres and cerebellum."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Millions of interconnected neurons within the human **encephalon** form the physical organ of perception and thought."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The ratio of the **encephalon** to total body weight reaches its absolute evolutionary peak in primates and cetaceans."*

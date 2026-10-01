@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Maleos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maleos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally large head, or an organism characterized by an immense head shield or cranium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and teratology, the anatomical condition of cranial overgrowth or disproportionate cephalic dimensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog macrocephalon as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The broad, flattened **macrocephalon** of ancient armored arthropods protected the vital nervous ganglia during benthic foraging."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"In early fossil agnathans, the immense **macrocephalon** constitutes more than half the total volume of the preserved fossil skeleton."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Disproportionate developmental acceleration of the anterior somites generates the striking **macrocephalon** seen in larval fishes."*

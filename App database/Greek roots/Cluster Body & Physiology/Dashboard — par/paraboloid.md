@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface all of whose intersections by planes are either parabolas and ellipses or parabolas and hyperbolas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saddle-shaped quadric surface whose sections by planes parallel to one coordinate plane are hyperbolas while those sections by planes parallel to the other two are parabolas if proper orientation of the coordinate axes is assumed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional quadric surface whose planar sections are either parabolas or ellipses/hyperbolas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics and antenna design, a paraboloid of revolution used to collimate or focus electromagnetic radiation and sound waves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraboloid designates a surface all of whose intersections by planes are either parabolas and ellipses or parabolas and hyperbolas."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Grinding a metallic reflector into a true **paraboloid** avoids the spherical aberration inherent in circular curvatures."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Electromagnetic wavefronts reflecting from a conducting **paraboloid** are transformed into perfectly parallel beams."*
+> - 📜 **Leonhard Euler (*Mechanica*):** *"The equilibrium surface assumed by a rotating fluid vessel is a circular **paraboloid** proportional to angular velocity."*

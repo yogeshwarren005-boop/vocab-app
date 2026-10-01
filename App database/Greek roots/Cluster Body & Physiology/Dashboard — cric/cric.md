@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of ring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of ring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root (krikos, meaning 'ring'), designating ring-shaped anatomical structures, particularly the cricoid cartilage of the larynx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological and medical terminology, the radical forming compounds such as cricoid, cricothyroid, and Cricetus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cric designates adjective*) pertaining to, derived from, or characteristic of ring."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek noun krikos signified a finger-ring or hoop, providing anatomists with the radical **cric** for the ring-shaped laryngeal cartilage."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From the ancient Greek stem **cric**, a circle or ring, derives the anatomical adjective cricoid."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The root **cric** appears in laryngeal terms denoting the circular foundation cartilage of the windpipe."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a tribe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a tribe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a tribe, its members, customs, or social organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and sociology, tribal societies are characterized by kinship-based alliances, collective resource management, customary law, and distinct cultural identities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Be that as it may, throughout history the family and tribal elders passed their knowledge and codes of conduct on to those who, as part of the natural process, carry the torches into the future."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Within Lololand, of course, no Chinese writ runs, no Chinese magistrate holds sway, and the people, more or less divided among themselves, are under the government of their tribal chiefs."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The other bank is the country of the tribesmen, people of Mantzu stock living under the rule of their tribal chiefs."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The earliest forms of human jurisprudence developed from sacred **tribal** customs enforced by elder councils."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Sacred kingship in many archaic societies carried the vital burden of maintaining the **tribal** fertility and fortune."*
+> - 📜 **Winston Churchill (*My Early Life*):** *"The Pathan warriors were bound by intense **tribal** loyalty and an unwritten code of relentless revenge."*

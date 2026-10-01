@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that records graphically the movements or character of the pulse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that records graphically the movements or character of the pulse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed to provide a graphic recording (sphygmogram) of the variations in pressure and form of the arterial pulse wave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invented by Karl von Vierordt in 1854 and greatly perfected by Étienne-Jules Marey in 1860, the device was foundational to nineteenth-century hemodynamic research and clinical pulse analysis before modern non-invasive cuff monitors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphygmograph designates an instrument that records graphically the movements or character of the pulse."*
+> - 📜 **Étienne-Jules Marey (*Physiologie médicale de la circulation du sang*):** *"The spring and recording lever of the **sphygmograph** translate the silent arterial pulse into a clear, legible curve upon smoked paper."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In aortic regurgitation, the tracing of the **sphygmograph** displays a sudden vertical ascent followed by precipitous collapse."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"Analysis of the curves inscribed by Marey's **sphygmograph** revealed the true nature of the dicrotic wave."*

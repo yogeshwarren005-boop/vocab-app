@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hyster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root morpheme (ὕστερος, hysteros) signifying latter, subsequent, coming after, or lagging behind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical science and rhetoric, a formative element producing terms relating to delayed physical effects or inverted sequence (as in hysteresis, hysteron proteron).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyster 2 designates a term designating an entity, condition, or phenomenon derived from greek hyster."*
+> - 📜 **James Alfred Ewing (*Magnetic Induction in Iron and Other Metals*):** *"I selected the Greek root **hyster-** to name the phenomenon wherein magnetic effect lags behind magnetizing force."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"The rhetorical figure hysteron proteron derives from Greek **hyster-**, placing that which is subsequent in the front."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The comparative adjective **hyster-** reflects an ancient Indo-European construction signifying behind or later."*

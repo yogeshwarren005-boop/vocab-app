@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by phlegm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by phlegm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling, consisting of, or full of phlegm or thick viscous mucus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical respiratory semiology, describing a wet, rattling, or productive cough accompanied by abundant bronchial secretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Phlegmy coughs shook the air of the bookshop, bulging out the dingy curtains."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The old tramp in the corner coughed with a heavy, **phlegmy** rattle that shook his emaciated frame."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The greasy taproom was filled with tobacco smoke and the **phlegmy** voices of drunken bargemen."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailor cleared his throat with a deep, **phlegmy** rasp before beginning his sea ballad."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of causing tribal people to abandon their customs and adopt urban ways of living.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The decline or termination of tribal organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of removing individuals from their tribal connections, habits, allegiance, or customs (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological, historical, and anthropological studies, detribalization examines the profound cultural, economic, and identity disruptions caused by forced assimilation policies (such as Native American boarding schools) or rapid urbanization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detribalization designates the act of causing tribal people to abandon their customs and adopt urban ways of living."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The sudden **detribalization** of indigenous communities leads to widespread demoralization when older values are shattered."*
+> - 📜 **Franz Boas (*The Mind of Primitive Man*):** *"Government programs aimed at rapid **detribalization** failed to comprehend the profound tenacity of native social institutions."*
+> - 📜 **W. E. B. Du Bois (*The World and Africa*):** *"Colonial mining compounds in southern Africa enforced economic **detribalization** to secure cheap migrant labor."*

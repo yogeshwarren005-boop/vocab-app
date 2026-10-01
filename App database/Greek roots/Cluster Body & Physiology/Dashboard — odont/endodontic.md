@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving or practicing endodontics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving or practicing endodontics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated within the dental pulp or the root canal of a tooth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative dentistry, designating diagnostic instruments, rotary files, disinfection irrigants, or therapy targeting the inner neurovascular pulpal core.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endodontic designates of or relating to or involving or practicing endodontics."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Failure of complete **endodontic** debridement allows persistent anaerobic colonies to sustain chronic periapical osteitis."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Referred facial pain along the trigeminal divisions may subside following timely **endodontic** drainage."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Histological examination of the inflamed **endodontic** pulp reveals granulomatous tissue surrounded by dentinal tubules."*

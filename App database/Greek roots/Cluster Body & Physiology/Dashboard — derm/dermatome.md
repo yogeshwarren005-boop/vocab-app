@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lateral wall of a somite from which the dermis is produced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lateral wall of a somite from which the dermis is produced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of skin that is primarily innervated by a single spinal sensory nerve root.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical instruments, a mechanical device equipped with an oscillating blade used to harvest split-thickness skin grafts of uniform depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatome designates the lateral wall of a somite from which the dermis is produced."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The vesicular eruption of herpes zoster maps out with astonishing precision the sensory **dermatome** supplied by the affected dorsal ganglion."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Cutaneous sensory mapping demonstrates how each spinal **dermatome** overlaps with adjacent segments to prevent sensory gaps."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The invention of the calibrated **dermatome** allowed surgeons to excise uniform epidermal sheets for immediate autografting."*

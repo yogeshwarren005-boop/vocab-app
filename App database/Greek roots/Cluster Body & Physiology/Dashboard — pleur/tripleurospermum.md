@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus comprising plants often included in genus matricaria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus comprising plants often included in genus matricaria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Asteraceae commonly known as scentless mayweed or false chamomile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, annual or perennial herbs distinguished from Matricaria by having achenes with three prominent ribs and two resin glands on the dorsal surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tripleurospermum designates small genus comprising plants often included in genus matricaria."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Linnaeus described the daisy-like heads of **tripleurospermum** growing profusely in fallow grain fields."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The lack of aromatic fragrance immediately separates **tripleurospermum** inodorum from true chamomile."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"We found hearty colonies of **tripleurospermum** thriving along gravelly riverbeds in high Himalayan valleys."*

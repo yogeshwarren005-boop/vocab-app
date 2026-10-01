@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make legal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make legal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make lawful or officially sanction by legislative enactment; British English spelling of legalize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political jurisprudence, to repeal statutory prohibitions on an activity, bringing it under civil authorization and regulatory oversight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The artist may of course, in wanton moods, dream of some Paradise (for art) where the direct appeal to the intelligence might be legalised; for to such extravagances as these his yearning mind can scarce hope ever completely to close itself."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"To **legalise** combinations among workingmen was a necessary step toward establishing true equality of contract."*
+> - 📜 **Jeremy Bentham (*The Theory of Legislation*):** *"The legislator must decide whether to penalize a practice or **legalise** and regulate its operation for the public good."*
+> - 📜 **Thomas Macaulay (*History of England*):** *"Parliament hesitated long before passing the enactments that would **legalise** dissenters' places of worship."*

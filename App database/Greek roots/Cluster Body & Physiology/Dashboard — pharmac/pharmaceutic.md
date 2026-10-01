@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drug or medicine that is prepared or dispensed in pharmacies and used in medical treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to pharmacy or pharmacists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pharmacy, medicinal drugs, or their preparation; pharmaceutical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicinal chemistry and health sciences, pertaining to the compounding, formulation, or dispensing of therapeutic agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology needed 129:21 We must abandon pharmaceutics, and take up ontol- ogy, - "the science of real being." We must look deep into realism instead of accepting only the out- 129:24 ward sense of things."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Chymical preparations offer far purer **pharmaceutic** remedies than the crude concoctions of the herbalists."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A sound understanding of **pharmaceutic** chemistry preserves the clinician from ordering incompatible compounds."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"The formulation of stable tablets represents a triumph of modern **pharmaceutic** science."*

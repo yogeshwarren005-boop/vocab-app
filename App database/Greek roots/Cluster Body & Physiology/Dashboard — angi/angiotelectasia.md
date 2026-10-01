@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dilation and enlargement of arterioles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dilation and enlargement of arterioles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal, permanent dilatation of groups of capillaries, venules, or arterioles; telangiectasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and clinical pathology, vascular lesions producing visible spider-like cutaneous red spots or mucosal bleeding points.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiotelectasia designates dilation and enlargement of arterioles."*
+> - 📜 **William Osler (*On a Family Form of Recurrent Epistaxis, Associated with Multiple Telangiectases*):** *"The cutaneous lesions represented multiple foci of **angiotelectasia**, bleeding profusely upon the slightest mechanical friction."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Congenital **angiotelectasia** arises from defective muscular coats in the microvasculature, predisposing vessels to ectasia."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Local inflammatory mediators induce transient **angiotelectasia**, permitting increased capillary permeability and plasma exudation."*

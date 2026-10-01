@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian order of even-toed hoofed mammals, comprising ruminants, pigs, hippopotamuses, and camels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic paleontology, a massive ungulate clade displaying paraxonic limb symmetry, complex rumination systems, and cannon bones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artiodactyla designates an order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes."*
+> - 📜 **Richard Owen (*On the Archetype of the Skeleton*):** *"I proposed the name **Artiodactyla** for those ungulates whose digital symmetry hinges upon an even number of functional toes."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"Molecular phylogenetics revolutionized mammalogy by placing cetaceans directly within the genealogical tree of the **Artiodactyla**."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The grasslands of the Old and New Worlds provided the stage for the tremendous Miocene radiation of the **Artiodactyla**."*

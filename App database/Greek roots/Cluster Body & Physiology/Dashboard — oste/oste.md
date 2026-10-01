@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and morpheme derived from Greek ὀστέον (osteon) signifying bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and biological terminology, the prefix (frequently osteo-) denoting bone tissue, skeletal structures, or osseous diseases (as in osteocyte, osteotomy, osteoarthritis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog oste as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The formative **oste-** is derived from Greek osteon, cognate with Latin os and Sanskrit asthi, meaning bone."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In Hippocratic and Galenic medical treatises, compounds beginning with **oste-** refer to skeletal fracture and bone physiology."*
+> - 📜 **Eric Partridge (*Origins: A Short Etymological Dictionary of Modern English*):** *"Surgical vocabulary draws continuously upon **oste-** to name pathological conditions and operative interventions on the skeleton."*

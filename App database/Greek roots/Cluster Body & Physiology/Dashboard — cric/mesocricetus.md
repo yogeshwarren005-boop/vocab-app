@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Golden hamsters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Golden hamsters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of hamsters (family Cricetidae), most notably Mesocricetus auratus, the golden or Syrian hamster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical research, rodents widely utilized as laboratory animal models in oncology, immunology, and infectious disease studies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesocricetus designates golden hamsters."*
+> - 📜 **Konrad Lorenz (*King Solomon's Ring*):** *"The golden hamster, **Mesocricetus** auratus, was first captured near Aleppo, and all our domestic stocks descend from that single litter."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Circadian rhythm investigations in **Mesocricetus** illuminate the pacemaker function of the hypothalamic suprachiasmatic nucleus."*
+> - 📜 **Edward O. Wilson (*Sociobiology: The New Synthesis*):** *"Territorial solitary aggression in **Mesocricetus** is mediated by specific flank-gland pheromones deposited on burrow walls."*

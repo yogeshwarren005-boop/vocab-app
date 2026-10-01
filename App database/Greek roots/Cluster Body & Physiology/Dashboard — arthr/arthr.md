@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: joint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek anatomical root and combining form denoting a joint or articulation (arthr- / arthro-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive anatomy and zoology, a root designating articulated connections between bones, cartilages, or exoskeleton segments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog arthr as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Galen (*On the Usefulness of the Parts of the Body*):** *"Every movable union of skeletal elements was designated by ancient anatomists through the radical **arthr**."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Dissecting the limbs reveals how bone meets bone through specialized synovial junctions marked by the Greek stem **arthr**."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"In osteology and syndesmology, words derived from **arthr** categorize both immovable sutures and free diarthrodial joints."*

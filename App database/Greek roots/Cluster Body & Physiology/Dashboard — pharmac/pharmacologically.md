@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to pharmacology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to pharmacology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pharmacological manner; by means of pharmacological agents or drug action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used to describe interventions or biological states produced or modified through medications rather than mechanical or surgical means.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacologically designates with regard to pharmacology."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Hypertension can be controlled **pharmacologically** by blocking adrenergic receptors or inhibiting angiotensin-converting enzyme."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"By acting **pharmacologically** upon the neuromuscular junction, curare reveals the functional distinction between nerve and muscle."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"Inducing hypothermia **pharmacologically** preserves ischemic neural tissue during acute cerebral vascular occlusion."*

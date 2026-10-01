@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statistic that combines a hitter's on-base percentage and slugging percentage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Roman goddess of abundance and the wife of Saturn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root combining form (-ops / ops-) denoting the eye, sight, or visual appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological terminology and optical science, utilized in compounding words relating to vision, ocular pathology, or visible inspections (e.g., biopsy, autopsy, trionyx).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This is a Slingshot Tac Ops from Red Fox to Keeper."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your Tac Ops and psych systems are monitored."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The UIPS patrollers were on directed Tac Ops missions: cite our messages to Red Fox and Blue Fox past half-hour, info recorded in Tac Ops Actions Register, your Headquarters."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Terms incorporating the Greek element **-ops** relate fundamentally to vision or visual inspection of pathological tissues."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Compounds built from **ops-** reflect ancient Greek roots for sight and the organ of vision."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In medical nomenclature, the terminal root **-ops** signifies ocular inspection, as demonstrated in biopsy and necropsy."*

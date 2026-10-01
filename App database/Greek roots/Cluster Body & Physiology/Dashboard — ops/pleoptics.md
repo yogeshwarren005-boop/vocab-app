@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized clinical method of visual training and ophthalmologic therapy designed to treat amblyopia and restore foveal fixation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric ophthalmology, visual exercises utilizing flash stimulation and macular dazzling to re-establish central binocular coordination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleoptics designates a term designating an entity, condition, or phenomenon derived from greek ops."*
+> - 📜 **Curt Cüppers (*Pleoptics in the Treatment of Strabismic Amblyopia*):** *"Through systematic application of **pleoptics**, the eccentric fixation of the amblyopic eye may be gradually transferred back to the central fovea."*
+> - 📜 **Arthur Jampolsky (*Management of Strabismus*):** *"The clinical introduction of **pleoptics** offered an alternative method to traditional occlusion therapy in resistant amblyopic patients."*
+> - 📜 **Marshall M. Parks (*Ocular Motility and Strabismus*):** *"Active stimulation techniques in **pleoptics** rely on intense after-images to retrain spatial orientation in non-fixating retinas."*

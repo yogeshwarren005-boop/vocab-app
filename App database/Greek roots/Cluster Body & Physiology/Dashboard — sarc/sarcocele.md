@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sarc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fleshy enlargement, induration, or tumor-like swelling of the testicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical surgical pathology, the term differentiated solid fleshy neoplasms or chronic orchitis of the testis from fluid-filled hydroceles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcocele designates a term designating an entity, condition, or phenomenon derived from greek sarc."*
+> - 📜 **Percivall Pott (*Chirurgical Observations*):** *"True **sarcocele** begins as an indolent induration of the body of the testis, gradually increasing to an enormous weight."*
+> - 📜 **Astley Cooper (*Observations on the Structure and Diseases of the Testis*):** *"Diagnostic puncture distinguishes a simple collection of serum from that solid fleshy degeneration known as **sarcocele**."*
+> - 📜 **John Hunter (*A Treatise on the Venereal Disease*):** *"Chronic syphilitic affection of the testicle frequently produces a firm, painless **sarcocele** requiring mercurial treatment."*

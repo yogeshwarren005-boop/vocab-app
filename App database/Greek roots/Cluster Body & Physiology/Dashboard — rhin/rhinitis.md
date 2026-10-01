@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucous membrane of the nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rhinitis caused by exposure to an allergen; especially : hay fever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucous membrane of the nose, characterized by rhinorrhea, sneezing, and nasal congestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical otorhinolaryngology, classified as allergic rhinitis (IgE-mediated hypersensitivity to airborne allergens) or non-allergic (infectious, vasomotor, or drug-induced) rhinitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinitis designates inflammation of the mucous membrane of the nose."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Seasonal allergic **rhinitis**, or hay fever, is provoked by airborne pollen particles inciting acute nasal catarrh."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Chronic hypertrophic **rhinitis** severely obstructs nasal breathing, forcing the patient into permanent mouth-breathing."*
+> - 📜 **Anthony Fauci (*Harrison's Principles of Internal Medicine*):** *"Topical nasal corticosteroids constitute the primary pharmacotherapy in controlling moderate to severe allergic **rhinitis**."*

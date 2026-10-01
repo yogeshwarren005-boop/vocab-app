@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Midges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Midges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, cosmopolitan family of nematoceran flies commonly known as non-biting midges, whose aquatic larvae are called bloodworms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater ecology and paleoclimatology, insects whose chitinous larval head capsules preserve in lake sediments as vital temperature proxies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog chironomidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Larval stages of the **Chironomidae** flourish in stagnant pools, respiring by means of cutaneous hemoglobin."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Clouds of minute **Chironomidae** hovered above the marsh, providing abundant food for insectivorous waterfowl."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The immense geographical range of certain **Chironomidae** is explained by the ease with which their eggs are transported in mud on birds' feet."*

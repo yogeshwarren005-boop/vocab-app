@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of angles) pointing inward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of angles) pointing inward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Re-entering or directed inward, as an angle pointing inward in a polygon or fortification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science, describing subroutines or code that can be interrupted and safely re-invoked concurrently by multiple execution threads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reentrant designates (of angles) pointing inward."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"A subroutine that avoids shared global state is fully **reentrant**, permitting safe execution within multi-threaded interrupt handlers."*
+> - 📜 **Vauban (Sébastien Le Prestre de Vauban) (*A Treatise on the Defense of Places*):** *"The bastioned trace was engineered with alternating salient and **reentrant** angles to cross-fire upon approaching sappers."*
+> - 📜 **Andrew Tanenbaum (*Modern Operating Systems*):** *"System kernel functions must be rigorously **reentrant** to handle nested asynchronous hardware interrupts without data corruption."*

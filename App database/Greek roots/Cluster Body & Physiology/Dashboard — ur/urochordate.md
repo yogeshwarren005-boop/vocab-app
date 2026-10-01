@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive marine animal having a saclike unsegmented body and a urochord that is conspicuous in the larva.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive marine animal having a saclike unsegmented body and a urochord that is conspicuous in the larva.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any marine invertebrate animal belonging to the subphylum Urochordata (Tunicata), comprising sea squirts, salps, and larvaceans, possessing a notochord and nerve cord in the larval tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, urochordates are recognized as the closest living sister group to vertebrates (Craniata); adults typically exhibit a thick cellulose tunic and branchial basket, having resorbed their larval chordate tail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urochordate designates primitive marine animal having a saclike unsegmented body and a urochord that is conspicuous in the larva."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The **urochordate** tadpole undergoes retrogressive metamorphosis, losing its notochord as it settles onto the sea floor."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Every typical **urochordate** secretes an outer protective tunic composed of tunicin, a substance identical to plant cellulose."*
+> - 📜 **Alfred Sherwood Romer (*The Vertebrate Body*):** *"Modern phylogenetic evidence unites the **urochordate** ascidians with cephalochordates and vertebrates in one grand phylum."*

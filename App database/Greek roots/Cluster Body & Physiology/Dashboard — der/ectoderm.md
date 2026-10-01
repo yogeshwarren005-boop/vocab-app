@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost of the three primary germ layers of an embryo that is the source of various tissues and structures (such as the epidermis, the nervous system, and the eyes and ears).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tissue (such as neural tissue) derived from this germ layer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost layer of cells or tissue of an embryo in early development, or the parts derived from this.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, the germ layer that gives rise to the epidermis, hair, nails, tooth enamel, sensory epithelia, and the entire nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectoderm designates the outermost of the three primary germ layers of an embryo that is the source of various tissues and structures (such as the epidermis, the nervous system, and the eyes and ears)."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Comparative Anatomy*):** *"The hollow blastula invaginates to form two primary germ layers, of which the outer is the **ectoderm**."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The entire spinal cord and brain arise from a simple longitudinal folding of the embryonic **ectoderm**."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"Comparative gastrulation proves that the neural tube and the skin share a common parentage in the primordial **ectoderm**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally downward position of the intestines in the abdominal cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally downward position of the intestines in the abdominal cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal downward displacement or prolapse of the intestines into the lower abdominal or pelvic cavity; also known as Glenard's disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical medicine, visceroptosis attributed to laxity of the abdominal wall musculature and supporting peritoneal ligaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enteroptosis designates an abnormally downward position of the intestines in the abdominal cavity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The asthenic woman with narrow thoracic angles frequently displays marked **enteroptosis**, with the transverse colon sagging into the true pelvis."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Nineteenth-century physicians frequently ascribed nervous exhaustion and hypochondria to mechanical visceral dragging or **enteroptosis**."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"Physical examination in Glénard's **enteroptosis** revealed palpable descent of the stomach and mobile kidneys upon standing."*

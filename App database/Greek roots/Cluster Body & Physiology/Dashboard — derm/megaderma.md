@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the megadermatidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the megadermatidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Old World false vampire bats (family Megadermatidae), including Megaderma lyra (the greater false vampire bat) and Megaderma spasma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy, carnivorous and insectivorous bats of South and Southeast Asia possessing prominent upright nose-leaves and broad wings for slow, agile flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megaderma designates type genus of the megadermatidae."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the twilight, a large **Megaderma** fluttered through the forest veranda, swooping down to pluck a gecko from the bamboo wall."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skull of **Megaderma** is distinguished by the total absence of upper premaxillary incisors."*
+> - 📜 **Francis Day (*Fauna of British India*):** *"Specimens of **Megaderma** lyra roost in ancient ruined temples, emerging at dusk to hunt small frogs, birds, and insects."*

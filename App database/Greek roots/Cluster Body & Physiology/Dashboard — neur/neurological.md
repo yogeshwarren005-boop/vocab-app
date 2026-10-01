@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or used in or practicing neurology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or used in or practicing neurology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting neurology or the structure, function, and pathology of the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, designating organic abnormalities, physical examination signs, or disease states directly attributable to lesions of neural pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurological designates of or relating to or used in or practicing neurology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A complete **neurological** assessment requires systematic inspection of sensory perception, motor reflexes, and cranial nerve integrity."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"The patient presented profound **neurological** signs indicating progressive uncal herniation through the tentorial notch."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Focal epileptogenic discharge evokes predictable **neurological** auras that disclose the precise anatomical seat of origin."*

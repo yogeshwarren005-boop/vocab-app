@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of historical literature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The writing of history.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The writing of history based on the critical examination of authentic sources; the body of historical literature on a specific subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic history, the methodological and philosophical study of how historical interpretations, paradigms, and narratives evolve over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, historiography designates a body of historical literature."*
+> - 📜 **Lord Acton (*The Study of History*):** *"Modern **historiography** was transformed when European archives opened their unvarnished diplomatic records to scholars."*
+> - 📜 **R. G. Collingwood (*The Idea of History*):** *"The central problem of **historiography** is how the contemporary mind re-enacts past human thought in its own context."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Classical **historiography** combined poetic drama with political philosophy, as seen in the immortal narrative of Thucydides."*

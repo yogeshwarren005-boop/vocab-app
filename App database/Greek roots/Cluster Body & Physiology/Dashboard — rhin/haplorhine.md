@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of nose,snout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of nose,snout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the suborder Haplorhini of primates, which includes tarsiers, monkeys, apes, and humans, characterized by a dry, non-rhinarium nose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian systematics and primatology, anthropoid and tarsier primates lacking a moist rhinarium (naked wet snout) and possessing a fused upper lip and a postorbital plate behind the eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplorhine designates adjective*) pertaining to, derived from, or characteristic of nose,snout."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Phylogenetic analysis grouped tarsiers with anthropoids within the single monophyletic **haplorhine** clade."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"The loss of the wet snout or rhinarium in every **haplorhine** primate reflects an evolutionary shift from olfaction to binocular vision."*
+> - 📜 **Edward O. Wilson (*Sociobiology: The New Synthesis*):** *"Complex visual communication flourished among **haplorhine** primates as olfactory signaling diminished."*

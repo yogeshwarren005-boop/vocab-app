@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek odont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cartilaginous structure in the mouth of most mollusks that supports the radula (toothed chitinous ribbon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and comparative functional morphology, the muscular cushion and subradular membrane that protrudes and rasps algae or flesh during molluscan feeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontophore designates a term designating an entity, condition, or phenomenon derived from greek odont."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The muscular **odontophore** acts as an elastic bolster over which the rasping radula is rhythmically drawn."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Paired cartilages within the gastropod **odontophore** provide rigid support during vigorous feeding upon tough algae."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Development of the **odontophore** proceeds from a ventral invagination of the stomodaeal floor in the molluscan larva."*

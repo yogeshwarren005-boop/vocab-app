@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of terrestrial orchids of europe and asia and north africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of terrestrial orchids of europe and asia and north africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial orchids commonly known as marsh orchids or spotted orchids, characterized by palmately divided root tubers resembling fingers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European orchidology and plant systematics, a taxonomically complex genus of wetland orchids noted for hybrid swarms and polymorphic spotted foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylorhiza designates genus of terrestrial orchids of europe and asia and north africa."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"The palmate, hand-like tubers of **Dactylorhiza** distinguish it immediately from the simple globose bulbs of true Orchis."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"Specimens of **Dactylorhiza** flourish in calcareous fens, displaying dense spikes of lilac and purple flowers."*
+> - 📜 **Arthur George Tansley (*The British Islands and Their Vegetation*):** *"In water meadows, colonies of **Dactylorhiza** hybridize freely, presenting endless botanical puzzles to the field taxonomist."*

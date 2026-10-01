@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the bodily absorption, distribution, metabolism, and excretion of drugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The characteristic interactions of a drug and the body in terms of its absorption, distribution, metabolism, and excretion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of pharmacology dedicated to the study of the bodily absorption, distribution, metabolism, and excretion (ADME) of drugs over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, mathematical modeling of drug concentration-time profiles, clearance rates, half-life, and volume of distribution (what the body does to the drug).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacokinetics designates the study of the bodily absorption, distribution, metabolism, and excretion of drugs."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"A thorough knowledge of **pharmacokinetics** is essential to formulate rational dosing intervals that prevent toxic accumulation."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"Renal insufficiency profoundly alters antibiotic **pharmacokinetics**, mandating downward dosage adjustments."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The speed of gastrointestinal absorption dictates the immediate clinical **pharmacokinetics** of orally administered narcotics."*

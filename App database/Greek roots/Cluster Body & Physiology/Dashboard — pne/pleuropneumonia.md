@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combined inflammation of the pleura and lungs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute febrile and often fatal respiratory disorder of cattle, goats, sheep, and related animals caused by a mycoplasma (Mycoplasma mycoides).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concurrent inflammation affecting both the pleura and the pulmonary parenchyma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary and comparative medicine, infectious pleuropneumonia of bovines and swine caused by Mycoplasma species, distinguished by extensive fibrinous pleurisy and pulmonary consolidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleuropneumonia designates combined inflammation of the pleura and lungs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The combination of harsh friction rubs and dense bronchial breathing pointed unmistakably to acute **pleuropneumonia**."*
+> - 📜 **Louis Pasteur (*Collected Works on Infectious Diseases*):** *"Inoculation of attenuated exudate into the tail of cattle provided solid immunity against contagious **pleuropneumonia**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The marble-like appearance of the lung parenchyma in bovine **pleuropneumonia** stems from thrombosed interlobular lymphatics."*

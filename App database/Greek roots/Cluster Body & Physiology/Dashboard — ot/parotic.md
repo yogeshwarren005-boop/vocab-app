@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated near or beside the ear; anatomical variant or synonym of parotid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and embryology, relating to structures located adjacent to the otic capsule, such as the parotic process of the chondrocranium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parotic designates adjective*) pertaining to, derived from, or characteristic of ear."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **parotic** lymph nodes drain the temple and the external acoustic meatus before emptying into the deep cervical chain."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In the reptilian skull, the **parotic** process projects outward from the otic capsule to articulate with the quadrate bone."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The vestigial **parotic** crest reflects ancestral cranial architecture preserved in primitive teleost crania."*

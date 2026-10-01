@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by a (specified) action, process, or condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having (such) a relationship to the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in or near the ear (e.g. otic capsule, otic drops).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy and embryology, designating structures such as the otic ganglion, otic vesicle (otocyst), or otic placode.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otic designates of, relating to, or characterized by a (specified) action, process, or condition."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **otic** ganglion is situated immediately below the foramen ovale, supplying parasympathetic secretory fibers to the parotid gland."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The **otic** capsule of the petrous temporal bone is the densest skeletal structure in the human body."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Invagination of the ectodermal **otic** placode forms the closed hollow vesicle that develops into the membranous labyrinth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of the heart (as in the development of some monsters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital absence of the heart (as in the development of some monsters).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of the heart, a rare and fatal teratological malformation occurring primarily in monozygotic twin gestations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental teratology, the condition of an acardiac twin (twin reversed arterial perfusion sequence) sustained solely by the circulation of the pump twin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acardia designates congenital absence of the heart (as in the development of some monsters)."*
+> - 📜 **Isidore Geoffroy Saint-Hilaire (*General and Particular History of Anomalies of Organization*):** *"The condition of **acardia** represents the most radical developmental arrest, wherein an amorphous parasite develops entirely without a central cardiac organ."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In cases of fetal **acardia**, the deformed twin survives in utero only because retrograde perfusion is pumped across placental vascular anastomoses."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete **acardia** is universally incompatible with independent extrauterine life, occurring exclusively in abnormal monochorionic twin pregnancies."*

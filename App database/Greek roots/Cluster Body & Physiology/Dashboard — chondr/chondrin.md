@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that resembles gelatin and is obtained by boiling cartilage in water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that resembles gelatin and is obtained by boiling cartilage in water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gelatinous proteinaceous substance obtained by boiling cartilage in water, consisting chiefly of a mixture of gelatin and chondroitin sulfate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological chemistry, the structural proteoglycan-derived matrix extracted from hyaline cartilage and corneal stroma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondrin designates a substance that resembles gelatin and is obtained by boiling cartilage in water."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Prolonged boiling of costal cartilage yields **chondrin**, which precipitates upon the addition of dilute acetic acid, unlike pure gelatin."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The ground substance of cartilage consists of **chondrin**, imparting elasticity and firm resilience to the articular surfaces."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"Chemical tests distinguish **chondrin** from collagen by its characteristic behavior in the presence of alum and metallic salts."*

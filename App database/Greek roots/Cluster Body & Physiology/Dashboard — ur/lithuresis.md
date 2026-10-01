@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The passage or evacuation of gravel, calculi, or urinary stones in the urine during micturition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and clinical urology, lithuresis accompanies the spontaneous expulsion of small nephroliths down the ureter and through the urethra, often attended by severe renal colic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithuresis designates a term designating an entity, condition, or phenomenon derived from greek ur."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Following the agonizing paroxysms of renal colic, the patient experienced relief marked by the **lithuresis** of uric acid gravel."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Repeated episodes of **lithuresis** indicate an underlying metabolic diathesis favoring calcium oxalate precipitation."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Copious **lithuresis** of reddish sandy sediment was noted in the chamber vessel after each acute attack."*

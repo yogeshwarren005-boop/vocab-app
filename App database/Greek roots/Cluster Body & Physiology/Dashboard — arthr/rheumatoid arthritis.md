@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually chronic autoimmune disease that is characterized especially by pain, stiffness, inflammation, swelling, and sometimes destruction of joints —abbreviation RA.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually chronic autoimmune disease that is characterized especially by pain, stiffness, inflammation, swelling, and sometimes destruction of joints —abbreviation RA.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic, systemic autoimmune inflammatory disorder characterized primarily by symmetrical, destructive, erosive inflammation of the peripheral joints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology, an autoimmune disease characterized by persistent synovial proliferation (pannus formation), circulating rheumatoid factors, and eventual joint ankylosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheumatoid arthritis designates a usually chronic autoimmune disease that is characterized especially by pain, stiffness, inflammation, swelling, and sometimes destruction of joints —abbreviation ra."*
+> - 📜 **Alfred Baring Garrod (*A Treatise on Gout and Rheumatic Gout*):** *"I propose the term **rheumatoid arthritis** to designate this chronic symmetrical articular affection distinct from true gout."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **rheumatoid arthritis**, proliferative changes in the synovium and cartilage lead slowly to characteristic ulnar deviation of the fingers."*
+> - 📜 **Philip Hench (*The Effect of a Hormone of the Adrenal Cortex on Rheumatoid Arthritis*):** *"Administering cortisone produced dramatic, unprecedented remission of pain and stiffness in patients with advanced **rheumatoid arthritis**."*

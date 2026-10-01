@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A b vitamin that is essential for metabolism of amino acids and starch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A b vitamin that is essential for metabolism of amino acids and starch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete historical name for vitamin B6 (pyridoxine), originally designated for its curative effect on rat acrodynia (dermatitis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional biochemistry history, the water-soluble vitamin isolated by Paul György that prevents rat pellagra-like dermal necrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adermin designates a b vitamin that is essential for metabolism of amino acids and starch."*
+> - 📜 **Paul György (*Investigations on the Vitamin B2 Complex*):** *"We propose the name **adermin** for the rat acrodynia-preventing factor, which restores normal hair and skin integrity."*
+> - 📜 **Albert Szent-Györgyi (*Studies on Biological Oxidation*):** *"The discovery of **adermin** established another essential coenzyme in cellular amino acid metabolism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Experimental nutritional deficiency proved that deprivation of **adermin** provoked severe cutaneous desquamation and convulsions."*

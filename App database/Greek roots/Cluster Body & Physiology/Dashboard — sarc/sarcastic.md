@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of sarcasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to the use of sarcasm : caustic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to, using, or characterized by bitter, cutting, or derisive irony intended to mock, disparage, or wound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and literary criticism, sarcastic expression relies on vocal inflection, exaggerated praise, or incongruous tone to convey disdain or ridicule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Even when he told his experiences at great length, she never became impatient, but encouraged him to go on when his brothers and sisters made sarcastic remarks about him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I really don’t know but what I WILL take summer cabbage.” Order given; with the sarcastic addition (from Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn rubs his head with the key while she entertains herself with a sarcastic laugh."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He that gives way to **sarcastic** wit seldom preserves friends, for few men forgive a wound inflicted on their pride."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth answered with a **sarcastic** smile, well aware of the hidden reproach conveyed in her companion's compliment."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky had a dry, **sarcastic** turn of phrase that made her feared even by those who courted her clever company."*

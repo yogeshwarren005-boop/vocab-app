@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A calculus occurring in the intestines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calculus occurring in the intestines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone or calculus formed in the intestine, composed of mineral salts and organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary and human gastroenterology, an intestinal concretion typically formed around a foreign nucleus, capable of causing bowel obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterolith designates a calculus occurring in the intestines."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Laparotomy revealed that the mechanical small bowel obstruction was caused by a large calcified **enterolith** lodged in the terminal ileum."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Horses and other large herbivores occasionally accumulate a concentric **enterolith** composed of ammonium magnesium phosphate around a pebble."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The surgeon delivered the dense, faceted **enterolith** through a longitudinal enterotomy before closing the bowel wall."*

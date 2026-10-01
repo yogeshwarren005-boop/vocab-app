@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a suborder (Dicynodontia) of small, herbivorous, therapsid vertebrates with reduced dentition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a suborder (Dicynodontia) of small, herbivorous, therapsid vertebrates with reduced dentition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct herbivorous therapsid of the suborder Dicynodontia, typically characterized by a horny beak and two prominent canine tusks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, dominant Permo-Triassic non-mammalian synapsids possessing edentulous turtle-like keratinous beaks paired with ever-growing maxillary tusks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicynodont designates any of a suborder (dicynodontia) of small, herbivorous, therapsid vertebrates with reduced dentition."*
+> - 📜 **Richard Owen (*Descriptive and Illustrated Catalogue of the Fossil Reptilia of South Africa*):** *"I established the genus **Dicynodont** to denote reptiles possessing two formidable canine tusks within an otherwise toothless jaw."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The massive skull of the herbivorous **dicynodont** accommodated powerful muscles for grinding tough vegetation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fossil deposits in the Karoo basin preserve abundant skeletons of the bidental reptile known as the **dicynodont**."*

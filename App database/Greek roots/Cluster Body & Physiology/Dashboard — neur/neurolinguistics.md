@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of linguistics that studies the relation between language and the structure and function of the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of linguistics that studies the relation between language and the structure and function of the nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of linguistics and cognitive neuroscience that studies the neural mechanisms, brain structures, and physiological processes underlying language processing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An interdisciplinary scientific domain investigating the localization, comprehension, syntactic decoding, and neural representation of spoken, written, and signed languages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurolinguistics designates the branch of linguistics that studies the relation between language and the structure and function of the nervous system."*
+> - 📜 **Aleksandr Luria (*Basic Problems of Neurolinguistics*):** *"Modern **neurolinguistics** regards language not as the product of an isolated cerebral center, but as a complex functional system engaging distributed cortical networks."*
+> - 📜 **Roman Jakobson (*Studies on Child Language and Aphasia*):** *"The foundational premise of **neurolinguistics** is that linguistic theory and clinical aphasiology provide indispensable mutual insights."*
+> - 📜 **Eric Lenneberg (*Biological Foundations of Language*):** *"Critical period phenomena in language acquisition provided a decisive developmental framework for the emerging field of **neurolinguistics**."*

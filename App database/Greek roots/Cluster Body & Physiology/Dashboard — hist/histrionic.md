@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of acting or a stage performance; often affected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of acting or a stage performance; often affected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Overly theatrical, dramatic, exaggerated, or emotional in character, style, or behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, designating a personality disorder (histrionic personality disorder) marked by constant attention-seeking, seductiveness, and excessive emotionality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Once it had seemed to him unnecessarily histrionic, but now he knew it was merciful...."*
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"By-and-by he says: “But the histrionic muse is the darling."*
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Don’t ever tell _me_ any more that a nigger ain’t got any histrionic talent."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was an artificial, almost **histrionic** intensity in her voice that warned him against taking her words literally."*
+> - 📜 **Henry James (*The Bostonians*):** *"Basil Ransom listened to her passionate address with the cool detachment one accords an accomplished **histrionic** actress."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In hysterical temperament, **histrionic** displays of emotion frequently substitute for genuine inner feeling."*

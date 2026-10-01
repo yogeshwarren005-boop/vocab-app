@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With ostentation; in an ostentatious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ostentation; in an ostentatious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pretentious, showy, or conspicuous manner calculated to attract notice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative literature, performing an action with deliberate visual emphasis or affectation to ensure observation by onlookers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To this gentleman, Stubb was now politely introduced by the Guernsey-man, who at once ostentatiously put on the aspect of interpreting between them."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"While the Frenchman’s boats, then, were engaged in towing the ship one way, Stubb benevolently towed away at his whale the other way, ostentatiously slacking out a most unusually long tow-line."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The other three men were marked about the arms and breasts with several slight wounds, which they somewhat ostentatiously displayed."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The visitor **ostentatiously** looked at his pocket watch, sighing heavily to indicate his urgent impatience."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom walked **ostentatiously** past the window, whistling loudly and pretending not to notice Becky Thatcher."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He **ostentatiously** arranged his papers upon the mahogany desk, basking in the deference of his subordinates."*

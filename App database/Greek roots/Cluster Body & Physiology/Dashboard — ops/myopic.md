@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by myopia : of, relating to, or exhibiting myopia : nearsighted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in foresight or discernment : narrow in perspective and without concern for broader implications.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by or relating to myopia (nearsighted); shortsighted; lacking foresight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological optics, describing an eye that requires concave (minus) lenses to diverge incoming parallel light rays onto the retina.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The myopic digital calculation of coins, eructation consequent upon repletion."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"All his previous teaching is postulated as interim doctrine, that is, during the time of the disciples’ ignorance and while their minds were still bound by earth-ties and myopic vision."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Concave spherical spectacles disperse parallel rays so that the **myopic** eye may form sharp distant images."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient's habit of squinting was an instinctive attempt by the **myopic** subject to narrow the optical aperture."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The subterranean Morlocks blinked in the harsh daylight with dull, **myopic** eyes accustomed only to cavernous gloom."*

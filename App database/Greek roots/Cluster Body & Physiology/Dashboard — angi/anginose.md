@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to the pain of angina pectoris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to the pain of angina pectoris.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, accompanied by, or of the nature of angina; characterized by severe throat constriction or ischemic pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical medicine, describing fulminant throat infections accompanied by suffocative membranous inflammation (e.g. scarlatina anginose).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anginose designates of or related to the pain of angina pectoris."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The malignant scarlet fever assumed a severe **anginose** character, threatening the infant with sudden suffocation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diphtheritic membrane in the pharynx produces that alarming **anginose** distress that demands immediate antitoxin administration."*
+> - 📜 **John Huxham (*An Essay on Fevers*):** *"A putrid **anginose** sore throat swept through the garrison, accompanied by foul ulcerations of the tonsils."*

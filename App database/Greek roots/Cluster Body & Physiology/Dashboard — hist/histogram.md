@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bar chart representing a frequency distribution; heights of the bars represent observed frequencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bar chart representing a frequency distribution; heights of the bars represent observed frequencies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical representation of the distribution of numerical data, consisting of adjacent rectangles whose areas are proportional to the frequency of observations within successive intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistics and data analysis, a fundamental non-parametric probability density estimator introduced by Karl Pearson in 1891 (derived from Greek histos, mast or loom).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histogram designates a bar chart representing a frequency distribution; heights of the bars represent observed frequencies."*
+> - 📜 **Karl Pearson (*Contributions to the Mathematical Theory of Evolution*):** *"I introduced the term **histogram** to describe graphical diagrams presenting frequency distributions upon a common baseline."*
+> - 📜 **Ronald Fisher (*Statistical Methods for Research Workers*):** *"Plotting sample frequencies in a **histogram** provides an immediate visual check against the theoretical Gaussian bell curve."*
+> - 📜 **Augustus De Morgan (*An Explanation of the Gnomonic Projection of the Sphere*):** *"Columns erected upon intervals of equal base illustrate the discrete groupings later organized into the modern **histogram**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in one or more joints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in one or more joints.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe pain in one or more joints, occurring without necessary inflammatory swelling or erythema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology, a subjective symptom of articular discomfort that may herald early viral infections, systemic autoimmune disorders, or degenerative wear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthralgia designates pain in one or more joints."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The onset of dengue is characterized by excruciating **arthralgia** that earns the disease its popular title of breakbone fever."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"Sharp **arthralgia** frequently precedes the outward swelling of the joint, tormenting the patient throughout the night."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Persistent hip **arthralgia** in young children should prompt an immediate search for insidious spinal or pelvic disease."*

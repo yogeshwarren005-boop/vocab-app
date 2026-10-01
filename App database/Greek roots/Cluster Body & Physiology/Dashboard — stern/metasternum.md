@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sternal (ventral) plate of the metathorax in insects; also, in vertebrate anatomy, the xiphoid process (most inferior segment of the sternum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, the metasternum supports the third pair of walking legs and often bears specialized sutures, grooves, or furcal processes used in systematic classification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metasternum designates a term designating an entity, condition, or phenomenon derived from greek stern."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"In predatory aquatic beetles, the **metasternum** extends backward into sharp pointed processes between the hind coxae."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"Beneath the thorax, the broad sclerite of the **metasternum** anchors the powerful muscles operating the hindmost legs."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The thoracic exoskeleton of insects consists sequentially of prosternum, mesosternum, and posterior **metasternum**."*

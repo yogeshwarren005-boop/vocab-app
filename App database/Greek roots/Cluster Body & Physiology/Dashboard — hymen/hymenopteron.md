@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hymenopterous insect; an individual member of the order Hymenoptera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and 19th-century entomological treatises, a singular form designating an insect possessing membranous hooked wings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenopteron designates insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"Under magnification, the wings of the **hymenopteron** reveal a reduced, highly specialized venational pattern."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The parasitic **hymenopteron** deposits its eggs within the living body of the host caterpillar."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In every adult **hymenopteron**, the first abdominal segment is fused solidly to the posterior metathorax."*

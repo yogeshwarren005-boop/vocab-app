@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imperfectly known parasites of the muscles of vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imperfectly known parasites of the muscles of vertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or former taxonomic order of parasitic apicomplexan protozoans (now within Sarcocystidae) that form spore-filled cysts in vertebrate muscle tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine, sarcosporidia produce cysts commonly termed Miescher's tubules in livestock, causing chronic muscle degeneration or myositis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcosporidia designates imperfectly known parasites of the muscles of vertebrates."*
+> - 📜 **Theobald Smith (*Parasitic Diseases of Domestic Animals*):** *"Cysts of **sarcosporidia** are observed with remarkable frequency in the esophageal and diaphragmatic muscles of sheep."*
+> - 📜 **Veranus Alva Moore (*The Pathology and Differential Diagnosis of Infectious Diseases of Animals*):** *"Heavy invasion by **sarcosporidia** causes lameness, progressive emaciation, and extensive interstitial myositis."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The spore forms of the **sarcosporidia** show characteristic polar crescents when examined under high magnification."*

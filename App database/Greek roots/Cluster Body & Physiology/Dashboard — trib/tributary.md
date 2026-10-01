@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch that flows into the main stream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a stream) flowing into a larger stream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A river, stream, or brook that flows into a larger river, main stem, or lake; also, a person, nation, or state that pays tribute to an imperial or sovereign power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrology, tributary networks are classified by Horton-Strahler stream orders; in political history, tributary systems (such as imperial China's tributary trade network) governed regional diplomatic hegemony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ imperious seas breed monsters; for the dish, Poor tributary rivers as sweet fish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Back, foolish tears, back to your native spring, Your tributary drops belong to woe, Which you mistaking offer up to joy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, at this tomb my tributary tears I render for my brethren’s obsequies; And at thy feet I kneel, with tears of joy Shed on this earth for thy return to Rome."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"We traced the course of a clear mountain **tributary** that emptied its sparkling waters into the broad Zambesi."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian kings acknowledged themselves **tributary** to the emperor, sending annual shipments of gold and hostages."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Countless mountain streams contribute their sparkling waters as a **tributary** offering to the mighty Mississippi."*

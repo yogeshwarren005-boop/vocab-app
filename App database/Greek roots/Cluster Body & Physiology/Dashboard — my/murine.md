@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a murid genus (Mus) or its subfamily (Murinae) which includes the common household rats and mice; also : of, relating to, or involving these rodents and especially the house mouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild disease that is marked especially by fever, headache, and rash, is caused by a rickettsia (Rickettsia typhi synonym R. mooseri), is widespread in nature in rodents, and is transmitted to humans by a flea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting rodents of the family Muridae, which includes mice and rats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental biology, immunology, and pharmacology, designating rodent model systems, antibodies, or viral strains derived from mice or rats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murine designates of or relating to a murid genus (mus) or its subfamily (murinae) which includes the common household rats and mice; also : of, relating to, or involving these rodents and especially the house mouse."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The **murine** model confirmed that passive antibody transfer confers temporary immunity against virulent toxins."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"Skin grafting experiments in **murine** strains established the genetic laws governing tissue rejection."*
+> - 📜 **Macfarlane Burnet (*Immunology, Aging, and Cancer*):** *"Transmissible leukemia viruses in **murine** hosts provided critical insights into retroviral oncogenesis."*

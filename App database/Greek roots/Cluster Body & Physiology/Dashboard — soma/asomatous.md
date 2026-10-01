@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporeal; without a material, physical, or fleshly body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics, theology, and philosophy of mind, used to characterize spiritual, angelic, or abstract entities devoid of somatic extension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asomatous designates adjective*) pertaining to, derived from, or characteristic of body."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"That spirits are **asomatous** and immaterial essences is a truth confirmed by reason and ancient philosophy alike."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The pure intellect conceives of angelic natures as **asomatous** intelligences operating beyond spatial impediments."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The soul in its highest contemplation feels itself an **asomatous** principle independent of the mortal frame."*

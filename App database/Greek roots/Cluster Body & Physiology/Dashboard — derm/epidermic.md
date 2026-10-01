@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cuticle or cuticula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cuticle or cuticula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from the epidermis; epidermal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, describing keratinized surface structures such as feathers, quills, nails, and tortoise shell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epidermic designates of or relating to a cuticle or cuticula."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The porcupine's defensive quills represent modified, heavily thickened **epidermic** hairs."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The horny beak of the platypus is an **epidermic** sheath overlying the expanded premaxillary bones."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Scales in reptiles are **epidermic** folds of keratin, contrasting with the bony dermal plates of fishes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pancreas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the pancreas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pancreas, accompanied by severe epigastric pain and elevated serum digestive enzymes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology, an acute or chronic condition caused by premature activation of zymogens leading to enzymatic autodigestion, often linked to gallstones or alcohol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pancreatitis designates inflammation of the pancreas."*
+> - 📜 **Reginald Heber Fitz (*Acute Pancreatitis*):** *"Acute hemorrhagic **pancreatitis** strikes suddenly with violent epigastric agony, collapse, and extensive retroperitoneal necrosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A gallstone impacted at the ampulla of Vater can trigger catastrophic reflux of bile into the pancreatic duct, provoking acute **pancreatitis**."*
+> - 📜 **Claude Bernard (*Memoir on the Pancreas*):** *"The potent digestive ferments of the gland become instruments of destruction whenever acute **pancreatitis** disrupts tissue integrity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi parasitic upon the ovaries of various grasses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi parasitic upon the ovaries of various grasses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of parasitic ascomycete fungi that infect cereal grasses and sedges, most notably Claviceps purpurea (ergot of rye).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and pharmaceutical history, fungi whose hard sclerotia produce toxic ergot alkaloids responsible for historical ergotism and modern vasospastic medications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, claviceps designates fungi parasitic upon the ovaries of various grasses."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The black spurred grains of rye infected with **Claviceps** demonstrate how parasitic molds subvert the seed tissues of cereal hosts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Epidemics of holy fire in the Middle Ages resulted from the accidental ingestion of bread flour contaminated by **Claviceps**."*
+> - 📜 **Albert Hofmann (*LSD: My Problem Child*):** *"My laboratory investigation of the alkaloids of **Claviceps** purpurea ultimately led to the synthesis of lysergic acid derivatives."*

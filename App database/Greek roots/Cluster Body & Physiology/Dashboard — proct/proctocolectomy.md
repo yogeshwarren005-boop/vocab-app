@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek proct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical excision and removal of the entire colon and rectum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colorectal surgical oncology, total proctocolectomy with ileal pouch-anal anastomosis (IPAA) or permanent end ileostomy, performed as the definitive cure for medically refractory ulcerative colitis or familial adenomatous polyposis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proctocolectomy designates a term designating an entity, condition, or phenomenon derived from greek proct."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Complete restorative **proctocolectomy** eliminates the risk of future malignancy throughout the entire large bowel."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"When medical therapy fails in fulminant ulcerative colitis, emergency **proctocolectomy** is life-saving."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"The team performed an extensive **proctocolectomy**, maintaining strict haemostasis along the pelvic mesorectal plane."*

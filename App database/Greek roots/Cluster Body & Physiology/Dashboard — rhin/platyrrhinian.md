@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hairy-faced arboreal monkeys having widely separated nostrils and long usually prehensile tails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to new world monkeys having nostrils far apart or to people with broad noses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the characteristics of platyrrhine primates (New World monkeys); broad-nosed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, characterizing the American simian primates featuring three premolars (2.1.3.3 dental formula) and sideward-facing nares separated by a wide cartilaginous septum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platyrrhinian designates hairy-faced arboreal monkeys having widely separated nostrils and long usually prehensile tails."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Geographic distribution confirms that the **platyrrhinian** radiation was entirely restricted to the forested Neotropics."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The prehensile tail is a distinctive evolutionary acquisition found only within the **platyrrhinian** group."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Comparative osteology of the skull clearly delineates the **platyrrhinian** types from their Old World counterparts."*

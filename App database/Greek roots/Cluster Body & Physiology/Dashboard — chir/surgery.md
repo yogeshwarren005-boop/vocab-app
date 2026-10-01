@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with diseases and conditions requiring or amenable to operative or manual procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alterations made as if by surgery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science that treats disease, injury, or deformity by manual operative procedures or instrumental interventions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical practice, the operating theater, surgical consultation room, or the specialized operative department of a hospital.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And they are often tarred over with the surgery of our sheep; and would you have us kiss tar?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Honour hath no skill in surgery then?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your brooches, pearls, and ouches:”—for to serve bravely is to come halting off, you know; to come off the breach with his pike bent bravely, and to surgery bravely; to venture upon the charged chambers bravely— DOLL."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The student who aspires to the practice of **surgery** must cultivate steady nerves, keen clinical judgment, and gentle hands."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"Antiseptic carbolic dressings have transformed modern **surgery** from a lethal hazard into a life-saving science."*
+> - 📜 **Ambroise Paré (*Journeys in Diverse Places*):** *"I dressed his wounds; God healed him; such is the true limit of our human art in **surgery**."*

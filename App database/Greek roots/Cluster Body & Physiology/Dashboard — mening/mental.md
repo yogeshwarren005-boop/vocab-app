@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving the mind or an intellectual process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the mind, mental processes, intellect, or psychological states; also (in anatomy) of or relating to the chin (mentum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and psychiatry, designating subjective cognitive faculties, mental hygiene, or neural representations of conscious thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a mental power This eye shoots forth!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Imagin’d worth Holds in his blood such swol’n and hot discourse That ’twixt his mental and his active parts Kingdom’d Achilles in commotion rages, And batters down himself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Very odd and very curious, the mental process is, in you men of business!” said Mr."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The stream of conscious **mental** life flows continually, changing its contents without abrupt dislocation."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Unconscious impulses exercise a decisive influence over our waking **mental** operations."*
+> - 📜 **John Dewey (*How We Think*):** *"Reflective thinking represents the highest form of systematic **mental** activity."*

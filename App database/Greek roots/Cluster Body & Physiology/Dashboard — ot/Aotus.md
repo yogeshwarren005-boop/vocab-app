@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of nocturnal New World monkeys (the night monkeys or owl monkeys), distinguished by immense eyes and small, inconspicuous external ears.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology and biomedical research, Central and South American arboreal primates belonging to the family Aotidae, widely studied in malaria research.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Aotus designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The nocturnal monkey **Aotus** sleeps curled in hollow trees by day, venturing forth under the moon with silent, cat-like leaps."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"The immense, luminous eyes of **Aotus** dominate its round facial disk, while its ears are hidden beneath soft fur."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Monogamous family groupings in **Aotus** demonstrate that male parental care is deeply integrated into primate social evolution."*

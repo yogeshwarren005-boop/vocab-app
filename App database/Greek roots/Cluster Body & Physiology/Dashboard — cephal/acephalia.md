@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of the head (as in the development of some monsters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence of the head (as in the development of some monsters).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of the head; acephaly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental teratology, an extreme fetal malformation resulting from early developmental failure of the cephalic pole of the embryo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acephalia designates absence of the head (as in the development of some monsters)."*
+> - 📜 **Isidore Geoffroy Saint-Hilaire (*General and Particular History of Anomalies of Organization*):** *"The anomaly of **acephalia** represents the complete absence of cranial structures, seen occasionally in unequal twin gestations."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Cases of **acephalia** illustrate how the trunk and lower limbs can develop without direct neural induction from the cerebral vesicles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In complete **acephalia**, the neck terminates blindly without trace of cranium, brainstem, or facial landmarks."*

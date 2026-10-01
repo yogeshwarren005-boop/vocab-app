@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hidrot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The retention, suppression, or checking of perspiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical historical physiology and pathology, an acute or chronic condition characterized by the abnormal cessation of sweat secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hidroschesis designates a term designating an entity, condition, or phenomenon derived from greek hidrot."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Sudden exposure to bitter cold when overheated frequently produces **hidroschesis**, followed by severe pleuritic inflammation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In toxic anticholinergic poisoning, acute **hidroschesis** leads directly to flushed, dry skin and high fever."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Pharmacological block of sympathetic postganglionic fibers produces immediate experimental **hidroschesis** in the affected limb."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical american timber trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical american timber trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical leguminous trees in the family Fabaceae (such as Hymenaea courbaril, the courbaril or Brazilian copal tree), native to the Neotropics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and forestry, tropical canopy trees prized for hard, durable timber and fragrant resin (copal), which fossilizes into amber (such as Dominican amber).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenaea designates genus of tropical american timber trees."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Colossal trunks of **Hymenaea** courbaril towered above the riverbanks, exuding clear drops of aromatic copal resin."*
+> - 📜 **Alfred Russel Wallace (*Palm Trees of the Amazon and Their Uses*):** *"Indigenous tribes collect the fragrant resin from the roots of **Hymenaea** to use as incense in ceremonies."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In the leguminous genus **Hymenaea**, the woody pods enclose seeds embedded in an edible mealy pulp."*

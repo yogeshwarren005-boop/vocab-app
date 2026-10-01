@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ethnography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to ethnography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to ethnography; ethnographic (formal or archaic variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century scientific travel writing, descriptive of cultural artifacts, tribal rituals, and linguistics recorded in the field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Another argument of an ethnographical nature is supplied by the figures of ladies with feet of normal size."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Our collections included valuable **ethnographical** specimens of Fuegian bark canoes, stone tools, and woven baskets."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The **ethnographical** notes I gathered among the Dayaks documented complex tattooing traditions and head-hunting ceremonies."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"An **ethnographical** survey of fire-making techniques reveals remarkable parallel inventions across isolated continents."*

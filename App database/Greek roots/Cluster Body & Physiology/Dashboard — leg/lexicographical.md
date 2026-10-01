@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to lexicography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to lexicography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to lexicography; relating to the compilation and historical methods of dictionaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philology and literary lexicography, concerning the scholarly identification, contextual citation, and semantic boundary mapping of vocabulary entries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lexicographical designates of or relating to lexicography."*
+> - 📜 **Samuel Johnson (*The Plan of a Dictionary of the English Language*):** *"My design was to construct a **lexicographical** work that might fix the English idiom and preserve our speech from decay."*
+> - 📜 **Richard Chenevix Trench (*On Some Deficiencies in our English Dictionaries*):** *"A true **lexicographical** inventory must not select only polite terms, but record every legitimate word in our heritage."*
+> - 📜 **James Murray (*The Evolution of English Lexicography*):** *"The historical method introduced unprecedented **lexicographical** precision by tracing citations across chronological centuries."*

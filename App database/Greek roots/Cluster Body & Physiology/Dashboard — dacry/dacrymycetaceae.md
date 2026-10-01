@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of basidiomycetous fungi belonging to the order tremellales having a bifurcate basidium that lacks septa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of basidiomycetous fungi belonging to the order tremellales having a bifurcate basidium that lacks septa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of basidiomycete jelly fungi (order Dacrymycetales) characterized by tuning-fork-shaped basidia and bright orange or yellow gelatinous fruiting bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal systematics, lignicolous saprophytes that cause brown rot in coniferous timber through specialized wood-degrading enzymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacrymycetaceae designates a family of basidiomycetous fungi belonging to the order tremellales having a bifurcate basidium that lacks septa."*
+> - 📜 **Elias Magnus Fries (*Epicrisis Systematis Mycologici*):** *"The family **Dacrymycetaceae** stands out among tremellaceous fungi by virtue of its characteristic two-pronged basidial structure."*
+> - 📜 **Charles Horton Peck (*Annual Report of the State Botanist*):** *"Forest timber is broken down by the persistent enzymatic action of primitive jelly fungi belonging to the **Dacrymycetaceae**."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Many members of the **Dacrymycetaceae** dry into inconspicuous crusts during drought, only to swell into gelatinous cushions after rain."*

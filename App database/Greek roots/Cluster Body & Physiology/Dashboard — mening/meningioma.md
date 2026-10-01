@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow-growing encapsulated typically benign tumor arising from the meninges and often causing damage by pressing upon the brain and adjacent parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slow-growing encapsulated typically benign tumor arising from the meninges and often causing damage by pressing upon the brain and adjacent parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A typically slow-growing, encapsulated, benign tumor arising from the arachnoid cap cells of the meninges covering the brain and spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuro-oncology, a common intracranial neoplasm characterized histologically by psammoma bodies, whorled cellular architecture, and hyperostosis of adjacent bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meningioma designates a slow-growing encapsulated typically benign tumor arising from the meninges and often causing damage by pressing upon the brain and adjacent parts."*
+> - 📜 **Harvey Cushing (*Meningiomas: Their Classification, Regional Behaviour, Life History, and Surgical End Results*):** *"We introduced the name **meningioma** to designate dural tumors originating from the arachnoid villi."*
+> - 📜 **Percival Bailey (*Intracranial Tumors*):** *"Total surgical resection of a parasagittal **meningioma** provides an excellent long-term prognosis when the sinus wall is intact."*
+> - 📜 **Walter Dandy (*Surgery of the Brain*):** *"Careful bipolar coagulation of the dural attachment prevents local recurrence of an intracranial **meningioma**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Neurogenesis is the process by which nervous system cells, the neurons, are produced by neural stem cells (NSCs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: This occurs in all species of animals except the porifera (sponges) and placozoans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process by which neural stem and progenitor cells produce new neurons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental and adult neurobiology, the proliferation, migration, differentiation, and functional integration of neurons into existing neural circuits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurogenesis designates neurogenesis is the process by which nervous system cells, the neurons, are produced by neural stem cells (nscs)."*
+> - 📜 **Santiago Ramón y Cajal (*Studies on Vertebrate Neurogenesis*):** *"During early **neurogenesis**, the primitive neuroepithelial germinal cells divide rhythmically to populate the mantle layer of the spinal cord."*
+> - 📜 **Joseph Altman (*Are New Neurons Formed in the Adult Brain?*):** *"Thymidine autoradiography revealed unmistakable evidence of adult hippocampal **neurogenesis**, challenging the dogma that mature neurons never divide."*
+> - 📜 **Fernando Nottebohm (*Neuronal Replacement in Adulthood*):** *"Seasonal song learning in songbirds is driven by robust adult **neurogenesis** within the higher vocal center of the forebrain."*

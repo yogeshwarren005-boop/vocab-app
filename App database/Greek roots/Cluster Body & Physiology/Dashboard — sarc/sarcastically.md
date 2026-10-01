@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sarcastic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sarcastic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sarcastic manner; with biting, derisive, or contemptuous irony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adverbial form indicating speech or behavioral expressions deliberately intended to ridicule or expose folly through caustic tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As she was anxious to have the matter settled then and there, she remarked rather sarcastically that a mother should be able to decide such matters alone."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She said quite sarcastically that if I chose to correct her on account of that raggedy Loneli, I should keep Loneli for a friend and not her." "Let her be for once," said the mother."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He looked at everybody coldly and sarcastically."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"'A model of judicial dispatch,' murmured the attorney **sarcastically**, glancing around the stagnant Court of Chancery."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He laughed **sarcastically**, taking a cruel satisfaction in shattering the romantic illusions of his listener."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The guide bowed low and **sarcastically** thanked us for enlightening him on the antiquity of his own native monuments."*

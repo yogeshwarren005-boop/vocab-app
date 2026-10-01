@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or located in the spleen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or located in the spleen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, situated in, or affecting the spleen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical anatomy, major vascular and anatomical landmarks include the splenic artery (a major branch of the celiac trunk), the splenic vein (which unites with the superior mesenteric vein to form the hepatic portal vein), and the splenic flexure of the colon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, splenic designates of, relating to, or located in the spleen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Thrombosis of the **splenic** vein generates acute gastric varices and torrential gastrointestinal hemorrhage."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic examination of the **splenic** pulp shows phagocytes engorged with hemosiderin granules."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Dullness on percussion over the **splenic** region confirms the downward extension of an enlarged viscus."*

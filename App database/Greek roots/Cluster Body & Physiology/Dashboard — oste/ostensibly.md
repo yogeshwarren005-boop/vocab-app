@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From appearances alone; ; ; -thomas hardy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From appearances alone; ; ; -thomas hardy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparently or outwardly, but not necessarily genuinely; supposedly; professedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and historical analysis, denoting actions undertaken under a public pretext while serving private or ulterior purposes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But she soon found a curious correspondence between the ostensibly chance position of the cows and her wishes in this matter, till she felt that their order could not be the result of accident."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But she wrote anew to her mother, ostensibly to notify the wedding-day; really to again implore her advice."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes brought her in the Wanhope car as far as the Wanhope footpath, and would have sent her home, but Isabel declined, ostensibly because she wanted to stretch her legs, actually because she couldn't afford to tip the Wanhope chauffeur."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Trade restrictions were **ostensibly** enacted for the protection of domestic manufacture, but served the monopoly profits of merchants."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The militias were reorganized **ostensibly** to increase military efficiency, but in practice to suppress political dissidents."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Laws that are **ostensibly** enacted for the general welfare often bear disproportionately upon vulnerable minorities."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two thick muscles running from the sternum and clavicle to the mastoid and occipital bone; turns head obliquely to the opposite side; when acting together they flex the neck and extend the head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two thick muscles running from the sternum and clavicle to the mastoid and occipital bone; turns head obliquely to the opposite side; when acting together they flex the neck and extend the head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent, paired superficial muscle of the neck extending obliquely from the manubrium of the sternum and medial clavicle to the mastoid process of the temporal bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Innervated by the accessory nerve (cranial nerve XI) and cervical plexus (C2-C3); unilateral contraction tilts the head toward the ipsilateral shoulder and rotates the chin to the opposite side, while bilateral contraction flexes the neck; serves as a vital anatomical divider between the anterior and posterior triangles of the neck.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sternocleidomastoid designates one of two thick muscles running from the sternum and clavicle to the mastoid and occipital bone; turns head obliquely to the opposite side; when acting together they flex the neck and extend the head."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **sternocleidomastoid** muscle divides the quadrilateral space of the side of the neck into two large triangles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Spasmodic torticollis involves violent, intermittent contractions of the **sternocleidomastoid**, twisting the head uncontrollably."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Reflex rotation of the head following vestibular stimulation engages reciprocal innervation between the paired **sternocleidomastoid** muscles."*

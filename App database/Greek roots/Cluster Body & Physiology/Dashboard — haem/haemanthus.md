@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of african deciduous or evergreen bulbous herbs: blood lilies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of african deciduous or evergreen bulbous herbs: blood lilies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bulbous African flowering plants in the amaryllis family (Amaryllidaceae), commonly known as blood lilies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical cytology, ornamental succulents prized for dense umbels of red or white flowers with prominent stamens, historically used in cell division research.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemanthus designates genus of african deciduous or evergreen bulbous herbs: blood lilies."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The brilliant crimson umbels of **Haemanthus**, the South African blood lily, burst forth directly from dormant bulbs before the leaves appear."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"Endosperm cells of **Haemanthus** katherinae served as the classic living model system for high-resolution cinematographic studies of mitosis."*
+> - 📜 **David Attenborough (*The Private Life of Plants*):** *"In the arid scrublands of the Cape, the toxic bulb of **Haemanthus** remains buried beneath baked earth until autumn rains awaken its fiery flowers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsessive or uncontrollable use of obscene language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obsessive or uncontrollable use of obscene language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The involuntary, compulsive utterance of obscene or taboo words and phrases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a hallmark though uncommon vocal tic characteristic of severe Tourette syndrome, arising from basal ganglia dysfunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprolalia designates obsessive or uncontrollable use of obscene language."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The tragedy of **coprolalia** is that the patient feels an explosive inner urge to shout precisely the words most calculated to shock his companions."*
+> - 📜 **Gilles de la Tourette (*Étude sur une affection nerveuse*):** *"Involuntary vocalizations progressed in the afflicted subject until sudden outbursts of **coprolalia** disrupted all social intercourse."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Severe disinhibition of striatal motor circuits unleashes vocal tics ranging from grunts to complex **coprolalia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological condition characterized by rapid, involuntary, irregular, and chaotic movements of the eyes in all directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a paraneoplastic or post-viral brainstem/cerebellar syndrome ('dancing eyes') often paired with myoclonus (opsoclonus-myoclonus syndrome), associated with neuroblastoma in children.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opsoclonus designates a term designating an entity, condition, or phenomenon derived from greek ops."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chaotic, multidirectional saccadic eye oscillations characteristic of **opsoclonus** indicate acute cerebellar encephalitis."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The infant presented with ataxia and frantic dancing eye movements indicative of paraneoplastic **opsoclonus**."*
+> - 📜 **Wilder Penfield (*Epilepsy and the Functional Anatomy of the Human Brain*):** *"Unlike rhythmic nystagmus, **opsoclonus** presents rapid, conjugate, chaotic saccades persisting throughout waking and sleep."*

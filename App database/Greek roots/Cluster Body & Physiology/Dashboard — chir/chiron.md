@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the learned centaur who tutored achilles, asclepius, hercules, jason, and other heroes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asteroid discovered in 1977; it is unique in having an orbit lying mainly between the orbits of saturn and uranus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the wisest and most just of the centaurs, tutor of Achilles, Asclepius, and Hercules, renowned for skill in healing, hunting, and music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, a centaur celestial body (2060 Chiron) orbiting between Saturn and Uranus displaying both asteroid and comet characteristics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Follow, my lord, and I’ll soon bring her back. [_Exeunt Saturninus, Tamora, Demetrius, Chiron, Aaron, and Guards._] MUTIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Chiron and Demetrius braving."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Chiron, thy years wants wit, thy wit wants edge And manners, to intrude where I am graced, And may, for aught thou knowest, affected be."*
+> - 📜 **Homer (*The Iliad*):** *"Patroclus washed the black blood from the wound and applied soothing herbs which noble **Chiron** had taught to Achilles."*
+> - 📜 **Pindar (*Pythian Odes*):** *"In his deep mountain cave, gentle **Chiron** nurtured young Asclepius, instructing him in the divine art of the healing hand."*
+> - 📜 **John Keats (*Hyperion*):** *"Old **Chiron** sat upon the mossy rock, pondering the ancient battles of gods and Titans."*

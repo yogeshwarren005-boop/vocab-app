@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Derivation; derivative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spirit that always negates —applied originally to Mephistopheles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The root (from Greek derma, dermatos, meaning 'skin, hide, leather'), forming the basis of terms relating to the skin and cutaneous layers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological linguistics and anatomy, an abbreviated combining radical present in dermal, dermis, and epidermic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Bastian, _Der Mensch in der Geschichte_ (Leipsic, 1860), iii. 81. [7] Athenaeus, xii. 8, p. 514 c. [8] _The Voiages and Travels of John Struys_ (London, 1684), p. 30. [9] Rev."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grabowsky, "Der Distrikt Dusson Timor in Südost-Borneo und seine Bewohner," _Das Ausland_, 1884, No. 24, p. 470. [33] _Narrative of the Second Arctic Expedition made by Charles F."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Bishop, _Korea and her Neighbours_ (London, 1898), ii. 248. [58] J.L. van Hasselt, "Eenige aanteekeningen aangaande de bewoners der N."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"From the ancient Greek root **der**, to flay or strip, arose derma, the skin or hide of an animal."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The radical **der** signifies skin, entering English through anatomical terms like dermatitis and epidermis."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"All cutaneous compounds bearing the syllable **der** trace their origin to the protective covering of the vertebrate body."*

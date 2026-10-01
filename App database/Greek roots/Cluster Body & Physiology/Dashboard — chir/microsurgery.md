@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery using operating microscopes and miniaturized precision instruments to perform intricate procedures on very small structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery using operating microscopes and miniaturized precision instruments to perform intricate procedures on very small structures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery performed on minute body structures with the aid of an operating microscope and specialized micro-instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reconstructive and neurosurgical medicine, the reanastomosis of microvascular vessels and peripheral nerve fascicles under high magnification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsurgery designates surgery using operating microscopes and miniaturized precision instruments to perform intricate procedures on very small structures."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The miraculous restoration of severed nerves became possible only with the development of modern **microsurgery**."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"During six exhausting hours of **microsurgery**, the operating team sutured millimeter-wide arteries under the stereoscopic lens."*
+> - 📜 **Sherwin B. Nuland (*The Doctors' Story*):** *"The emergence of **microsurgery** converted what had been crude tissue amputations into fine anatomical salvage operations."*

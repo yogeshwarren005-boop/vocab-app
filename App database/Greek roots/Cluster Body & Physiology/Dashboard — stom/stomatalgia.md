@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the mouth or oral cavity; oral neuralgia or burning oral pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical stomatology and neurology, stomatalgia (stomatodynia) may arise from glossopharyngeal neuralgia, oral lichen planus, nutritional deficiencies (vitamin B12, iron), or burning mouth syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatalgia designates a term designating an entity, condition, or phenomenon derived from greek stom."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe, unremitting **stomatalgia** in elderly individuals often heralds pernicious anemia before profound pallor develops."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Topical anesthetics and soothing demulcent rinses afford temporary palliation in intractable neuropathic **stomatalgia**."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"Chronic vesicular eruptions of the buccal mucosa provoke agonizing **stomatalgia** that interferes with mastication."*

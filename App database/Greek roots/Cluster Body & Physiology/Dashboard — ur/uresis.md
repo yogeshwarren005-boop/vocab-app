@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or excretion of urine; urination or micturition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological descriptions, uresis encompasses the coordinated voluntary and reflex mechanisms that empty the bladder, including detrusor contraction and urethral sphincter relaxation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uresis designates a term designating an entity, condition, or phenomenon derived from greek ur."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"The act of normal **uresis** requires reciprocal relaxation of the external sphincter concurrent with detrusor contraction."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Involuntary **uresis** during the nocturnal hours constitutes one of the most troublesome complaints of young children."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Following catheterization, regular spontaneous **uresis** was re-established without further vesical distension."*

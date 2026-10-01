@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the vertebrae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the vertebrae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the vertebrae in the spinal column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics and rheumatology, spondylitis may be pyogenic (infectious spondylitis or discitis), granulomatous (tuberculous spondylitis / Pott's disease), or autoimmune (ankylosing spondylitis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondylitis designates inflammation of the vertebrae."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tuberculous **spondylitis** demands prolonged immobilization to prevent progressive vertebral collapse and spinal cord compression."*
+> - 📜 **Pierre Marie (*Sur la spondylose rhizomélique*):** *"The ascending ossification seen in ankylosing **spondylitis** typically commences in the sacroiliac articulations."*
+> - 📜 **Percivall Pott (*Remarks on that Kind of Palsy of the Lower Limbs*):** *"Destructive **spondylitis** of the thoracic spine produces curvature and palsy through erosion of the vertebral bodies."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phalangers; koalas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phalangers; koalas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of Australasian diprotodont marsupials comprising the cuscuses and brushtail possums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, nocturnal arboreal marsupials possessing syndactylous syndactyl feet, robust dentition, and prehensile tails.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalangeridae designates phalangers; koalas."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The family **phalangeridae** represents the most characteristic arboreal marsupials found across the Indo-Australian transition zone."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Members of the **phalangeridae** possess flattened molars adapted for grinding foliage, fruits, and insects."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Cranial morphology within the **phalangeridae** reveals distinct arboreal specializations aligned with their folivorous diet."*

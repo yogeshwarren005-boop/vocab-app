@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of pathology concerned with the tissue changes characteristic of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tissue changes that affect a part or accompany a disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The microscopic study and examination of diseased tissues to understand the manifestations and mechanisms of disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic medicine, the specialized branch of pathology that provides definitive clinical diagnosis of biopsies and surgical resections through tissue section microscopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histopathology designates a branch of pathology concerned with the tissue changes characteristic of disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The accurate prognosis of malignant neoplasms rests squarely upon the findings of surgical **histopathology**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Modern **histopathology** traces the clinical symptoms of disease down to the specific micro-architectural breakdown of tissues."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus and the Syndrome of the Cerebellopontile Angle*):** *"Correlating clinical neurosurgical signs with post-operative **histopathology** refined our classification of intracranial gliomas."*

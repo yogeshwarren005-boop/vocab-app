@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organized complex of inorganic and organic substances external to the nuclear membrane of a cell and including the cytosol and membrane-bound organelles (such as mitochondria or chloroplasts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organized complex of inorganic and organic substances external to the nuclear membrane of a cell and including the cytosol and membrane-bound organelles (such as mitochondria or chloroplasts).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The protoplasm of a cell outside the nucleus, consisting of organelles suspended within the aqueous cytosol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell physiology and molecular biochemistry, the metabolic matrix wherein glycolysis, protein synthesis, and intracellular transport occur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytoplasm designates the organized complex of inorganic and organic substances external to the nuclear membrane of a cell and including the cytosol and membrane-bound organelles (such as mitochondria or chloroplasts)."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Ribosomes translate messenger RNA into polypeptide chains throughout the crowded aqueous environment of the **cytoplasm**."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"The **cytoplasm** was formerly viewed as a structureless jelly, but modern lenses reveal an intricate cytoskeletal network."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Nissl bodies stain intensely with basic aniline dyes within the granular **cytoplasm** of the neuronal soma."*

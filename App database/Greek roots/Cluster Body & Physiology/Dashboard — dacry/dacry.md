@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dacry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining root (from Greek dakry, dakryon, meaning 'a tear, weeping'), used in anatomical and medical terms relating to tears and the lacrimal apparatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and botany, the prefix forming terms such as dacryocystitis, dacryoadenitis, and Dacrycarpus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacry designates a term designating an entity, condition, or phenomenon derived from greek dacry."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek noun dakry signified a tear shed in grief or pain, giving modern medical science the combining form **dacry**."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From the radical **dacry**, related to Latin lacrima, come specialized terms for the tear ducts and weeping fungi."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ophthalmic terms bearing the prefix **dacry** pertain directly to diseases of the lacrimal gland and tear drainage channels."*

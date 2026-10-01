@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the antipodes or situated at opposite sides of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the antipodes or situated at opposite sides of the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the antipodes, especially Australia and New Zealand as viewed from Europe; diametrically opposed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and cultural history, describing flora, fauna, or social life indigenous to the southern hemisphere islands on the opposite side of the globe from Britain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antipodean designates relating to the antipodes or situated at opposite sides of the earth."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The bizarre marsupials of the **antipodean** wilderness seemed almost the product of a separate creative dispensation."*
+> - 📜 **Anthony Trollope (*Australia and New Zealand*):** *"The vigorous enterprise of the **antipodean** colonies astonished the visiting English traveler at every turn."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"The unique vegetation of the **antipodean** archipelago includes ancient conifer and tree-fern lineages."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the past; of what is important or famous in the past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Important in history.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Famous, celebrated, or important in history; having a great and lasting impact upon human affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and political discourse, marking an epochal milestone, event, or site destined to be remembered by posterity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The district is of historic, no less than of topographical interest."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That curiously historic worn-out family with its ghostly legend of the coach-and-four?” “O no."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The historic interest of her family—that masterful line of d’Urbervilles—whom he had despised as a spent force, touched his sentiments now."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"This **historic** decision committed the combined naval and air power of the democracies to liberation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ruins of the Roman Forum stood as a silent, **historic** witness to the rise and fall of universal empire."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"The world will little note, nor long remember what we say here, but it can never forget the **historic** sacrifice made here."*

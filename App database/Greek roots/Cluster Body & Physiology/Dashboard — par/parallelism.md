@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being parallel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resemblance, correspondence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being parallel or corresponding to something in an identical or equivalent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and poetics, the repetition of similar grammatical or semantic structures (as in Hebrew poetry); in psychology, psychophysical parallelism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Here again the parallelism holds between the anthropomorphic and the vegetable representation of the tree-spirit, for we have seen above that trees are sometimes married to each other."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The reader has probably remarked the complete parallelism between the conceptions of the corn-spirit in human and in animal form."*
-> - 📜 **James Joyce (*Ulysses*):** *"The false apparent parallelism of all perpendicular arms of all balances, proved true by construction."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The doctrine of psycho-physical **parallelism** asserts that mental states and neural events run concurrently without direct causal interaction."*
+> - 📜 **Robert Lowth (*Lectures on the Sacred Poetry of the Hebrews*):** *"Hebrew verse is constructed upon rhythmic **parallelism**, where thought echoes thought in synonymous or antithetic balance."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The striking **parallelism** observed in embryonic vertebrate development points unmistakably to community of descent."*

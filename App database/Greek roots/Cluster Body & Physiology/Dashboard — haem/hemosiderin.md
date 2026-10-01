@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellowish-brown, iron-containing, granular pigment that is found within cells (such as macrophages), is composed chiefly of aggregates of ferritin, and is typically associated with bleeding and the breakdown of red blood cells (as in hemolytic anemia).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellowish-brown, iron-containing, granular pigment that is found within cells (such as macrophages), is composed chiefly of aggregates of ferritin, and is typically associated with bleeding and the breakdown of red blood cells (as in hemolytic anemia).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An insoluble yellowish-brown iron-storage complex composed of ferritin, ferric oxide, and degraded protein found in cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, granular golden-brown pigment formed by the phagocytic breakdown of red blood cells, readily identified by Perls' Prussian blue stain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemosiderin designates a yellowish-brown, iron-containing, granular pigment that is found within cells (such as macrophages), is composed chiefly of aggregates of ferritin, and is typically associated with bleeding and the breakdown of red blood cells (as in hemolytic anemia)."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic examination of chronically congested lungs revealed alveolar macrophages densely packed with golden granules of **hemosiderin**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The bronze pigmentation of the dermis and liver in bronze diabetes is due to an overwhelming deposition of **hemosiderin**."*
+> - 📜 **Felix Hoppe-Seyler (*Handbuch der Physiologisch- und Pathologisch-Chemischen Analyse*):** *"Chemical degradation confirmed that **hemosiderin** represents an insoluble ferric aggregate derived from catabolized hemoglobin."*

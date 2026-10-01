@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in one or more muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in one or more muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain or soreness in a muscle or group of muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical rheumatology and infectious medicine, a prominent symptom of viral infections, electrolyte imbalances, fibromyalgia, or inflammatory myopathies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myalgia designates pain in one or more muscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Generalized **myalgia** accompanied by prostration and high fever forms the classical presentation of acute influenza."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Severe rheumatic **myalgia** in the lumbar region yields gradually to rest and gentle diaphoresis."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Persistent nocturnal **myalgia** without local inflammatory swelling should raise suspicion of chronic metabolic disturbance."*

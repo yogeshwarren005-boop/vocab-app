@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of myliobatidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of myliobatidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of eagle rays in the family Myliobatidae, commonly known as cownose rays, characterized by paired subrostral lobes, broad wing-like pectoral fins, and crushing dental plates adapted for durophagy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and ichthyology, species of *Rhinoptera* exhibit extensive schooling migrations and play prominent ecological roles as benthic predators of bivalves in coastal and estuarine habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinoptera designates a genus of myliobatidae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The cownose rays belonging to **Rhinoptera** possess a bilobed snout resembling the muzzle of cattle, adapted to shovel bottom fauna."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"In temperate estuaries, large schools of **rhinoptera** advance across shallow flats, searching for shellfish with remarkable coordination."*
+> - 📜 **Samuel Garman (*The Plagiostomia: Sharks, Skates, and Rays*):** *"The genus **Rhinoptera** is distinguished morphologically by the separation of the cephalic fins into two distinct rostral cushions."*

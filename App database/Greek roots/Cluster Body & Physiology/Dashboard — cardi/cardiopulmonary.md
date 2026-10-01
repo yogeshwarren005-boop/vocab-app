@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the heart and lungs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A procedure designed to restore normal breathing after cardiac arrest that includes the clearance of air passages to the lungs, mouth-to-mouth method of artificial respiration, and heart massage by the exertion of pressure on the chest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving both the heart and the lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency medicine and surgery, designating cardiopulmonary resuscitation (CPR) or the cardiopulmonary bypass machine (heart-lung machine).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiopulmonary designates of or relating to the heart and lungs."*
+> - 📜 **John Gibbon (*Application of a Mechanical Heart and Lung Apparatus to Cardiac Surgery*):** *"The successful deployment of **cardiopulmonary** bypass in 1953 opened the interior of the human heart to definitive corrective surgery."*
+> - 📜 **Helen B. Taussig (*Congenital Malformations of the Heart*):** *"The patient exhibited severe **cardiopulmonary** insufficiency, demanding urgent creation of an arterial shunt to augment pulmonary blood flow."*
+> - 📜 **Peter Safar (*Cardiopulmonary Resuscitation*):** *"Combining mouth-to-mouth ventilation with external chest compressions created modern **cardiopulmonary** resuscitation, saving thousands from sudden arrest."*

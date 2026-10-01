@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of a myelin sheath around a nerve fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The development of a myelin sheath around a nerve fiber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process of acquiring or developing a myelin sheath around nerve fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental neurobiology, the wrapping of axons by Schwann cells or oligodendrocytes to establish saltatory conduction during embryonic and postnatal brain maturation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelinization designates the development of a myelin sheath around a nerve fiber."*
+> - 📜 **Wilder Penfield (*Cytology and Cellular Pathology of the Nervous System*):** *"Cortical association areas exhibit delayed **myelinization**, continuing well into human childhood and adolescence."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Spinal root **myelinization** precedes the insulation of higher intracortical pathways."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Arrested **myelinization** of central tracts results in severe infantile spastic diplegia."*

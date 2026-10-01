@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying upon or over the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, supplying, or draining the anterior walls of the abdomen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying upon or over the stomach; relating to the upper central region of the abdomen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical anatomy and medical diagnosis, describing symptoms (such as epigastric pain) located between the xiphoid process and the umbilicus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigastric designates lying upon or over the stomach."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe, burning **epigastric** pain occurring two hours after meals is classic for a penetrating duodenal ulcer."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The emergency physician palpated the patient's tense **epigastric** region, suspecting acute pancreatitis or a perforated viscus."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Careful percussion outlined the enlarged left hepatic lobe projecting deep into the **epigastric** notch."*

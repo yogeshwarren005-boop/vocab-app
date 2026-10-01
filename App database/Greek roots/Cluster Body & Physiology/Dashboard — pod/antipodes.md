@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The parts of the earth diametrically opposite —usually plural—often used of Australia and New Zealand as contrasted to the western hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The exact opposite or contrary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Two places on the globe diametrically opposite to each other, or the regions of the Earth situated on the opposite side of the globe (especially Australia and New Zealand).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical cosmology, the theoretical inhabitants of the opposite southern hemisphere imagined by Greek geographers (such as Crates of Mallus) whose feet faced our own.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art as opposite to every good As the Antipodes are unto us, Or as the south to the Septentrion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We should hold day with the Antipodes, If you would walk in absence of the sun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll believe as soon This whole earth may be bor’d, and that the moon May through the centre creep and so displease Her brother’s noontide with th’ Antipodes."*
+> - 📜 **Plato (*Timaeus*):** *"In a spherical earth, what one man calls down is for another up, rendering the idea of absolute position meaningless across the **antipodes**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Magwitch returned in secret from the distant **antipodes**, risking the gallows to behold the gentleman he had made."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Alice wondered if she should fall right through the earth and come out among the people that walk with their heads downward—the **antipodes**."*

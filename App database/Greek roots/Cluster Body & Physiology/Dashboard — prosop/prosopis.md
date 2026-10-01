@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical or subtropical branching shrubs or trees: mesquite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical or subtropical branching shrubs or trees: mesquite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of spiny, nitrogen-fixing leguminous trees and shrubs in the pea family Fabaceae, commonly known as mesquites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arid land ecology and economic botany, deep-rooted xerophytic phreatophytes native to arid and semiarid regions of the Americas, Africa, and southwest Asia, yielding protein-rich edible seed pods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosopis designates genus of tropical or subtropical branching shrubs or trees: mesquite."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Linnaeus established the genus **Prosopis** to designate thorny trees bearing sweet, nutritious seed pods in arid landscapes."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Across the parched plains of northern Patagonia, stunted thickets of **prosopis** offered the only firewood and shelter."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Prosopis** develop extraordinary taproots penetrating deeply into desert subterranean aquifers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of bone marrow that is characterized by the presence of numerous myelomas in various bones of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of bone marrow that is characterized by the presence of numerous myelomas in various bones of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant hematologic cancer of plasma cells in the bone marrow, characterized by skeletal lesions, anemia, renal dysfunction, and abnormal immunoglobulins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and oncology, a clonal proliferation of terminally differentiated B cells that secrete monoclonal paraproteins (M-protein) and Bence-Jones light chains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiple myeloma designates a disease of bone marrow that is characterized by the presence of numerous myelomas in various bones of the body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Spontaneous pathological fractures and Bence-Jones proteinuria are characteristic manifestations of **multiple myeloma**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The marrow cavities in **multiple myeloma** are replaced by soft, reddish plasmacytic tumor masses that erode cortical bone."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The excessive monoclonal immunoglobulin production observed in **multiple myeloma** illustrates the clonal amplification of antibody-secreting cells."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to sarcosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to sarcosomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated within, or derived from sarcosomes (the specialized mitochondria of striated muscle fibers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In muscle biochemistry, sarcosomal membranes contain enzymes of the respiratory chain and citric acid cycle, generating ATP necessary for sustained contractile activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcosomal designates of or relating to sarcosomes."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"Aerobic respiration within the muscle fiber depends intimately upon the integrity of the **sarcosomal** enzyme systems."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"Intense mitochondrial staining highlights dense **sarcosomal** granules aligned closely along the isotropic bands."*
+> - 📜 **William Bowman (*On the Minute Structure and Movements of Voluntary Muscle*):** *"The interstitial granules, now recognized as having a **sarcosomal** origin, provide the fuel for rapid muscular twitching."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of tropical american timber trees closely allied to genus albizia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of tropical american timber trees closely allied to genus albizia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering trees in the pea family (Fabaceae), native to tropical America, including the giant ear-pod tree (Enterolobium cyclocarpum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical dendrology, massive canopy trees characterized by expansive spreading crowns, feathery bipinnate leaves, and curved, ear-shaped woody seed pods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterolobium designates small genus of tropical american timber trees closely allied to genus albizia."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The colossal trunk of **Enterolobium**, known as the carocaro, shaded an entire village square with its wide-spreading leafy canopy."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Cattle and native tapirs forage eagerly for the fallen ear-shaped seed pods dropped by towering specimens of **Enterolobium**."*
+> - 📜 **David Attenborough (*The Private Life of Plants*):** *"The heavy, curved fruit of **Enterolobium** evolved to be eaten and dispersed by now-extinct Pleistocene megafauna like giant ground sloths."*

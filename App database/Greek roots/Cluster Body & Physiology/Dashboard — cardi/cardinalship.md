@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The office of cardinal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office of cardinal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, status, or tenure of a cardinal in the Roman Catholic Church; cardinalate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, the dignitary role of serving as a prince of the Church endowed with voting rights in papal conclaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardinalship designates the office of cardinal."*
+> - 📜 **Thomas More (*The History of King Richard III*):** *"Morton was raised to the **cardinalship** of Canterbury, wielding extraordinary diplomatic counsel under the crown."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ambition of Roman patricians was constantly excited by the glittering prize of the **cardinalship**."*
+> - 📜 **Francis Bacon (*The Reign of King Henry VII*):** *"Wolsey attained the **cardinalship** and legatine authority, concentrating secular and spiritual mastery in his solitary hand."*

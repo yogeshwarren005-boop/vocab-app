@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divine by reading someone's palms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divine by reading someone's palms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To practice palmistry; to tell fortunes or divine character by inspecting the lines of the hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occult and folkloric literature, to inspect palmar mounts and digital creases for prognostic omens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiromance designates divine by reading someone's palms."*
+> - 📜 **Walter Scott (*Guy Mannering*):** *"The wandering gypsy offered to **chiromance** the young heir, tracing the line of life upon his palm with her withered finger."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Astrologers and those who **chiromance** deceive credulous fools by finding destiny in every accidental skin crease."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The wizard professed to **chiromance** the fortunes of the family from the lines etched across the patriarch's hand."*

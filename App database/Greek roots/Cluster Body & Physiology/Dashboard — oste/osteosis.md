@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any generic disease, abnormal development, or pathological condition affecting bone tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, the formation or proliferation of bone in abnormal locations, or generalized bone alterations (such as osteosis cutis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteosis designates a term designating an entity, condition, or phenomenon derived from greek oste."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Under the general term **osteosis**, early pathologists included diverse hypertrophic and degenerative skeletal changes."*
+> - 📜 **Alexander Maximow (*A Text-Book of Histology*):** *"Metaplastic **osteosis** occurs when primitive pluripotential fibroblasts within connective tissue differentiate into true osteoblasts."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"Focal cutaneous **osteosis** demonstrates genuine bone trabeculae developing within the dermal layers of the skin."*

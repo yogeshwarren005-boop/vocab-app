@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not neurotic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not neurotic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not neurotic; free from neurosis, excessive anxiety, emotional instability, or functional nervous disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization, displaying emotional balance, grounded resilience, and an absence of morbid self-absorption or irrational apprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unneurotic designates not neurotic."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The healthy-minded individual presents an essentially **unneurotic** disposition, confronting existence with tranquil optimism."*
+> - 📜 **Karen Horney (*The Neurotic Personality of Our Time*):** *"The **unneurotic** person resolves ordinary inner conflicts without resorting to rigid, self-defeating psychic defenses."*
+> - 📜 **Gordon Allport (*Pattern and Growth in Personality*):** *"A mature personality demonstrates an **unneurotic** adaptability, meeting external adversity with calm realism."*

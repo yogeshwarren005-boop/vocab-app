@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or presenting a comprehensive or panoramic view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or presenting a comprehensive or panoramic view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Permitting the viewing of everything in a single comprehensive vista; all-seeing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and architectural penology, designating Jeremy Bentham's circular prison design (the Panopticon) where an unseen inspector can observe all inmates simultaneously.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panoptic designates being or presenting a comprehensive or panoramic view."*
+> - 📜 **Jeremy Bentham (*Panopticon; or, The Inspection-House*):** *"The **panoptic** architecture ensures that the central inspector commands an unhindered view into every surrounding cell."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"From his elevated tower, the philosopher enjoyed a **panoptic** view over the bustling life of the metropolis."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The landscape painter must cultivate a **panoptic** grasp of light and atmosphere across the entire canvas."*

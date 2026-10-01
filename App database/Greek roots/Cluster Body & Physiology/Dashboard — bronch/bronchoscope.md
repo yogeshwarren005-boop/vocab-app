@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender tubular instrument used to examine the bronchial tubes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slender tubular instrument used to examine the bronchial tubes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rigid or flexible tubular optical instrument passed through the mouth or nose into the trachea and bronchi for visual examination or therapeutic procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thoracic surgery and interventional pulmonology, an endoscopic device equipped with video optics, suction channels, and instruments for biopsy and foreign-body removal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchoscope designates a slender tubular instrument used to examine the bronchial tubes."*
+> - 📜 **Gustav Killian (*The Direct Examination of the Respiratory Tract*):** *"In 1897, I introduced the straight **bronchoscope** to remove an aspirated pork bone from the right main bronchus of an awake patient."*
+> - 📜 **Chevalier Jackson (*Bronchoscopy and Esophagoscopy*):** *"The illuminated **bronchoscope** converted foreign body extraction from a dangerous blind gamble into an exact visual science."*
+> - 📜 **Harvey Cushing (*Surgery of the Respiratory Tract*):** *"Diagnostic inspection through the flexible **bronchoscope** permits precise biopsy of suspected endobronchial neoplasms under local anesthesia."*

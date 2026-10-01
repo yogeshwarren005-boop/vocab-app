@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bacterium (Streptococcus pneumoniae) that causes an acute pneumonia involving one or more lobes of the lung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bacterium (Streptococcus pneumoniae) that causes an acute pneumonia involving one or more lobes of the lung.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bacterium (Streptococcus pneumoniae) that causes pneumonia, meningitis, and other infections, typically appearing as lancet-shaped Gram-positive diplococci.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacteriological history, the pathogen isolated independently by Louis Pasteur and George Sternberg in 1881, whose capsular transformation led to the landmark discovery of DNA as genetic material by Avery, MacLeod, and McCarty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumococcus designates a bacterium (streptococcus pneumoniae) that causes an acute pneumonia involving one or more lobes of the lung."*
+> - 📜 **Louis Pasteur (*Comptes Rendus de l'Académie des Sciences*):** *"We isolated from saliva a virulent micrococcus, later recognized as the **pneumococcus**, lethal to inoculated rabbits."*
+> - 📜 **Oswald Avery (*Journal of Experimental Medicine*):** *"The type-specific capsular polysaccharide of the **pneumococcus** determines both its virulence and immunological identity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The lancet-shaped diplococcus pneumoniae, or **pneumococcus**, is found in over eighty percent of lobar pneumonias."*

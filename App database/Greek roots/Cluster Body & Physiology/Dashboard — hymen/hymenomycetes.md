@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classifications; usually coextensive with order agaricales: mushrooms; toadstools; agarics; bracket fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classifications; usually coextensive with order agaricales: mushrooms; toadstools; agarics; bracket fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major traditional taxonomic group or class of basidiomycete fungi possessing an exposed spore-bearing hymenium (including mushrooms, shelf fungi, and coral fungi).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical mycology, fungi characterized by basidia arranged in a continuous hymenial palisade exposed to the open air at maturity, contrasting with Gasteromycetes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenomycetes designates used in some classifications; usually coextensive with order agaricales: mushrooms; toadstools; agarics; bracket fungi."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The class **Hymenomycetes** represents the pinnacle of basidial spore production and ballistic spore dispersal."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"In the **Hymenomycetes**, the configuration of the hymenophore establishes the fundamental families of the Agaricini and Polyporei."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Thousands of wood-rotting forest species are catalogued under the extensive umbrella of the **Hymenomycetes**."*

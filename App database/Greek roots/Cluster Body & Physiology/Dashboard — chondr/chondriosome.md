@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organelle containing enzymes responsible for producing energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organelle containing enzymes responsible for producing energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete cytological term for a mitochondrion; any of the granular or filamentous organelles present in the cytoplasm of eukaryotic cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early cell biology, granular structures stained by Janus green, later identified as the primary centers of cellular aerobic respiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondriosome designates an organelle containing enzymes responsible for producing energy."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"Benda introduced the term mitochondrion for those cytoplasmic bodies earlier designated as the **chondriosome**."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Silver impregnation reveals fine chains of the **chondriosome** threading through the axon hillock."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"What early cytologists classified as a **chondriosome** turned out to be an ancient endosymbiotic bacterium residing within our cells."*

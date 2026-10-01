@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first three gospels which describe events in christ's life from a similar point of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first three gospels which describe events in christ's life from a similar point of view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of study, methodology, or collective texts providing an overarching, synchronized view of phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric science and New Testament scholarship, the discipline of large-scale weather pattern analysis or the collective designation for the Gospels of Matthew, Mark, and Luke.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synoptics designates the first three gospels which describe events in christ's life from a similar point of view."*
+> - 📜 **Vilhelm Bjerknes (*Dynamic Meteorology and Hydrography*):** *"Modern atmospheric **synoptics** coordinates instantaneous barometric readings to uncover propagating cyclonic fronts."*
+> - 📜 **Albert Schweitzer (*The Quest of the Historical Jesus*):** *"A critical investigation into the **synoptics** requires untangling the oral traditions preserved in the earliest gospel manuscripts."*
+> - 📜 **Napier Shaw (*Manual of Meteorology*):** *"The growth of telegraphy in the nineteenth century transformed terrestrial **synoptics** into an empirical forecasting science."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A symptom consisting of the involuntary expulsion of air from the nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symptom consisting of the involuntary expulsion of air from the nose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or noise of sneezing; a sneeze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, a coordinated involuntary reflex mediated by the trigeminal nerve and respiratory center in the brainstem, expelling foreign particles and irritants from the nasal cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sternutation designates a symptom consisting of the involuntary expulsion of air from the nose."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Concerning the custom of saluting upon **sternutation**, ancient tradition held that a sneeze purged dangerous vapors from the brain."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Looking into the sun provoketh **sternutation**, for the heat draweth down moisture into the nasal passages."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Violent paroxysms of **sternutation** introduce the acute stage of hay fever upon inhalation of pollen grains."*

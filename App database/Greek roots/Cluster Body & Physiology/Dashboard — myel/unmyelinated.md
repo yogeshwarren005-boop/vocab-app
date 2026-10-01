@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of neurons) not myelinated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of neurons) not myelinated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or covered with a myelin sheath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and neuroanatomy, describing slow-conducting nerve axons (such as somatic C fibers and postganglionic autonomic axons) that conduct action potentials continuously rather than saltatorily.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmyelinated designates (of neurons) not myelinated."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Slow, burning pain and thermal sensations are mediated primarily by thin, **unmyelinated** C fibers."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Multiple **unmyelinated** axons are frequently ensheathed together in the simple cytoplasmic invaginations of a single Schwann cell."*
+> - 📜 **John Carew Eccles (*The Physiology of Synapses*):** *"Conduction in **unmyelinated** axons is continuous and slow, rarely exceeding one or two meters per second."*

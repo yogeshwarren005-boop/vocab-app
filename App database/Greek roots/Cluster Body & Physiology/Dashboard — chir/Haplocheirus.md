@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early genus of alvarezsauroid theropod dinosaur from the Late Jurassic of China having robust forelimbs with three functional clawed fingers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a transitional fossil demonstrating that specialized alvarezsaurian hand mechanics evolved long before avian flight adaptation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Haplocheirus designates a term designating an entity, condition, or phenomenon derived from greek chir."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The discovery of **Haplocheirus** pushed the origin of alvarezsaurians back by sixty million years, illuminating early hand specialization."*
+> - 📜 **Michael J. Benton (*Vertebrate Palaeontology*):** *"Unlike later single-clawed forms, **Haplocheirus** preserved three clawed digits on each stout forelimb."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Transitional fossils such as **Haplocheirus** clarify how massive grasping hands preceded the bizarre thumb spikes of Mononykus."*

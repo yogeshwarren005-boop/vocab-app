@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pharmac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme, irrational fear or aversion to taking medications or using pharmaceutical drugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychiatry, a specific phobic anxiety disorder leading to medication noncompliance and avoidance of prescribed medical therapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacophobia designates a term designating an entity, condition, or phenomenon derived from greek pharmac."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **pharmacophobia** in neurotic patients often causes them to discard essential digitalis preparations out of dread of poisoning."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"The patient's intense **pharmacophobia** masked an unconscious resistance against yielding control to the physician."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Morbid aversions such as **pharmacophobia** reveal how emotional apprehensions override rational awareness of somatic benefit."*

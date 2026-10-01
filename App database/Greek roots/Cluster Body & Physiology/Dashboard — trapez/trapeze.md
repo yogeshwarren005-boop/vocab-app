@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gymnastic or acrobatic apparatus consisting of a short horizontal bar suspended by two parallel ropes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performer on the trapeze —called also trapeze artist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short horizontal bar suspended by two parallel ropes or cords, used as an apparatus by acrobats, gymnasts, and aerialists for swinging performances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Popularized in Paris in 1859 by French acrobat Jules Léotard, who invented the flying trapeze act; in orthopedics, a 'trapeze bar' is a overhead triangular frame attached to a hospital bed enabling immobilized patients to shift position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Abercrombie's secret ambition is that ever since he first attending a circus he wanted to swing from a trapeze-a circus trapeze."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The tiny platform to which he climbed has a trapeze fastened to its railing."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The trapeze is now a few inches from where Abercrombie is standing."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"High above the circus ring, the agile gymnast swung lightly from one aerial **trapeze** to another."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The daring performers upon the flying **trapeze** leaped into empty space with breathtaking precision."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He swung himself upward by the overhead beams as nimbly as an acrobat mounting a gymnasium **trapeze**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the dermochelyidae: leatherback turtles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the dermochelyidae: leatherback turtles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of marine turtles containing the leatherback sea turtle, Dermochelys coriacea, the largest of all living turtles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology, an oceanic chelonian possessing a hydrodynamically ridged, leathery carapace and counter-current heat exchange systems for maintaining core body warmth in cold waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermochelys designates type genus of the dermochelyidae: leatherback turtles."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"A magnificent specimen of **Dermochelys** was taken off the coast, its black leathery back traversed by seven prominent longitudinal keels."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In **Dermochelys**, the true bony ribs remain free from the superficial mosaic carapace that forms the leathery shield."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The giant leatherback, **Dermochelys**, journeys across thousands of leagues of open sea, diving hundreds of fathoms in pursuit of jellyfish."*

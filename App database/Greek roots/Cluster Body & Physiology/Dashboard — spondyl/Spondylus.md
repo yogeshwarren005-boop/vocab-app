@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spondyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine bivalve mollusks in the family Spondylidae, commonly known as spiny oysters or thorny oysters, characterized by cemented shells covered in spines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology and anthropology, *Spondylus* shells were highly prized prestige items, ritual offerings, and regional currency in Neolithic Europe and pre-Columbian Andean civilizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Spondylus designates a term designating an entity, condition, or phenomenon derived from greek spondyl."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"Fossil beds along the Chilean coast contain magnificent specimens of **Spondylus**, their spiny valves remarkably preserved."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Ancient Peruvian tombs yielded sacred ornaments carved from the vermilion valves of **Spondylus** princeps."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The unequal valves of **Spondylus** are anchored securely to submarine rocks by the adhesion of the right shell."*

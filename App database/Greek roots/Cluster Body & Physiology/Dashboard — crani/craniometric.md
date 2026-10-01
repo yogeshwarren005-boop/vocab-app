@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to craniometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to craniometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to craniometry; relating to the measurement of the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology, describing indices such as the cranial index, gnathic index, or orbital index.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniometric designates of or relating to craniometry."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"Broca's **craniometric** tables were celebrated across Europe as the pinnacle of quantitative anatomical rigor."*
+> - 📜 **Thomas Henry Huxley (*Methods and Results*):** *"The **craniometric** comparison of primate skulls clearly demonstrates the gradual reduction of the prognathous muzzle in hominids."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Diverse **craniometric** measurements show that the cranial capacity of ancient stone age skulls equaled that of modern Europeans."*

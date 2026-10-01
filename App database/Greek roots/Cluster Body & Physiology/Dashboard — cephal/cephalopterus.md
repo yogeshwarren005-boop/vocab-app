@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cotingidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of cotingidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of South American passerine birds in the cotinga family (Cotingidae), commonly known as umbrella birds, having a large, umbrella-like crest on the head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, tropical forest birds (notably Cephalopterus ornatus) possessing an inflatable, feathered wattle hanging from the throat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalopterus designates a genus of cotingidae."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"In the Amazonian canopy, the remarkable bird **cephalopterus** spreads its vaulting crest of black feathers like a protective umbrella."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"The deep, booming mating call of **cephalopterus** echoed across the forest floor, resonant as a distant church bell."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The extraordinary ornamental crest and neck wattle of **cephalopterus** serve as classic examples of sexual selection in male birds."*

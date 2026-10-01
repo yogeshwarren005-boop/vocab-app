@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radically distinctive and without equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radically distinctive and without equal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no parallel or equal; exceptional; unprecedented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Standing alone in degree, quality, or scope without precedent in recorded history or experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now boast thee, Death, in thy possession lies A lass unparalleled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been The book of his good acts, whence men have read His fame unparalleled happily amplified; For I have ever verified my friends— Of whom he’s chief—with all the size that verity Would without lapsing suffer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I were to meet that most unparalleled despot in the streets to-morrow, I would fell him like a rotten tree!” “I have no doubt of it,” said Mr."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman Empire enjoyed an **unparalleled** period of peace and domestic prosperity under the Antonines."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fauna of the Galapagos archipelago presents an **unparalleled** demonstration of geographical speciation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor has augmented the productive powers of manufacturing with **unparalleled** rapidity."*

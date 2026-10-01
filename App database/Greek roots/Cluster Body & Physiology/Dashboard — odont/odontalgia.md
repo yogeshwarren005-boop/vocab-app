@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek odont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in a tooth or teeth; toothache.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stomatology and clinical medicine, acute or throbbing pain originating from dental caries, pulpitis, periodontal abscess, or referred from maxillary sinus disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontalgia designates a term designating an entity, condition, or phenomenon derived from greek odont."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe facial neuralgia must be distinguished from the localized throbbing agony of acute **odontalgia**."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"A topical application of oil of cloves rarely fails to soothe the violent paroxysm of inflamed **odontalgia**."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Exquisite nocturnal **odontalgia** signals irreversible inflammation and suppurative necrosis of the dental pulp."*

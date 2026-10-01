@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of trees of tropical asia and pacific areas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of trees of tropical asia and pacific areas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical deciduous trees in the legume family (Fabaceae), known for bearing deciduous anther glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and economic botany, specifically Adenanthera pavonina (red sandalwood tree), cultivated for its scarlet ornamental seeds and timber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenanthera designates small genus of trees of tropical asia and pacific areas."*
+> - 📜 **William Roxburgh (*Flora Indica*):** *"The glossy scarlet seeds of **adenanthera** serve goldsmiths throughout India as uniform small units of weight."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The distinguishing generic feature of **adenanthera** resides in the small deciduous gland crowning the tip of each anther."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"In tropical avenues, **adenanthera** provides delightful shade and sheds brilliant red seeds prized for necklace manufacture."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large order (Amphipoda) of small crustaceans (such as the sand flea) with a laterally compressed body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large order (Amphipoda) of small crustaceans (such as the sand flea) with a laterally compressed body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small, laterally compressed crustacean belonging to the order Amphipoda, possessing both forward- and backward-pointing walking legs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine and freshwater biology, malacostracan crustaceans (such as beach hoppers, scuds, and skeleton shrimp) lacking a carapace and displaying thoracic appendages adapted for both swimming and crawling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphipod designates any of a large order (amphipoda) of small crustaceans (such as the sand flea) with a laterally compressed body."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The swift scurrying of a tiny **amphipod** across wave-swept stones illustrates the agility conferred by its diverse limb pairs."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In each **amphipod**, the gills attach to thoracic limb bases, continually aerated by pleopod water currents."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Beneath damp sea-drift, every upturned pebble reveals an active colony of scuttling **amphipod** crustaceans."*

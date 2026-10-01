@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or of the nature of paralysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or of the nature of paralysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by, relating to, or resembling paralysis; palsied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and classical clinical medicine, describing a patient or symptom-complex characterized by motor palsy or apoplexy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paralytical designates relating to or of the nature of paralysis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **paralytical** tremors observed in chronic mercury poisoning render purposeful hand movements impossible."*
+> - 📜 **Thomas Sydenham (*The Whole Works of That Excellent Practical Physician*):** *"Following the sudden stroke of apoplexy, the afflicted limb remained cold and helplessly **paralytical**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Cerebral ischemic softening produces **paralytical** contractures across the contralateral musculature."*

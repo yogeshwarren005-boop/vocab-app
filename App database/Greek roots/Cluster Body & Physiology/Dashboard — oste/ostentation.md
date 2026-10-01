@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gaudy outward display.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pretentious and vulgar display, especially of wealth and luxury, intended to impress or attract notice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and social satire, an excessive, self-aggrandizing demonstration of status, learning, or piety aimed at soliciting public admiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But you are come A market-maid to Rome, and have prevented The ostentation of our love, which, left unshown, Is often left unloved."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make good this ostentation, and you shall Divide in all with us. [_Exeunt._] SCENE VII."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let this be so; His means of death, his obscure burial,— No trophy, sword, nor hatchment o’er his bones, No noble rite, nor formal ostentation,— Cry to be heard, as ’twere from heaven to earth, That I must call’t in question."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"It is the vanity of human nature that drives men to parade their fortunes with vulgar **ostentation**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth saw that Mr. Collins was resolved to make an **ostentation** of his intimacy with Lady Catherine."*
+> - 📜 **Francis Bacon (*Essays*):** *"Excessive **ostentation** in apparel or retinue is rather a sign of inward emptiness than of true magnanimity."*

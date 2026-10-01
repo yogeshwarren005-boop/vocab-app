@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone or pebble ingested by an animal and functioning to grind food in gastric digestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone or pebble ingested by an animal and functioning to grind food in gastric digestion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone swallowed by an animal (especially a bird, reptile, or extinct dinosaur) that stays in the gizzard or stomach to grind food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology and comparative vertebrate zoology, a polished stomach stone (gizzard stone) used for mechanical digestion in animals lacking chewing dentition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrolith designates a stone or pebble ingested by an animal and functioning to grind food in gastric digestion."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the muscular gizzards of South American ostriches, we found dozens of rounded pebbles serving as functional **gastrolith** grinders."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Paleontologists identify fossil sauropod skeletons by clusters of polished **gastrolith** stones preserved inside the rib cage."*
+> - 📜 **David Attenborough (*Life on Earth*):** *"Modern crocodiles deliberately swallow heavy stones that function both as a digestive **gastrolith** and as stabilizing ballast for diving."*

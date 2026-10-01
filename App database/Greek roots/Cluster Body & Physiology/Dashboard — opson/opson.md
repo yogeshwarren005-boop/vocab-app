@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek opson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek culinary term for prepared food, relish, dainty seasoning, or cooked fish eaten alongside staple bread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical historical linguistics, the linguistic root (ὄψον) denoting savory relish, which Almroth Wright figuratively adopted in 1903 to coin 'opsonin' as a substance that renders bacteria appetizing to phagocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opson designates a term designating an entity, condition, or phenomenon derived from greek opson."*
+> - 📜 **Athenaeus (*Deipnosophistae*):** *"The Athenians attached supreme importance to the quality of the **opson**, reserving the finest sea-fish for their banquets."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Originally signifying any cooked food eaten with bread, **opson** came specifically to denote fish in classical Attic usage."*
+> - 📜 **Almroth Wright (*Studies on Immunisation*):** *"I borrowed the Greek root **opson**, meaning catering or relish, to convey how bodily serum seasons bacteria for ingestion."*

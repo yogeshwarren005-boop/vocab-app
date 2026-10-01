@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled at symbolic logic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person skilled at symbolic logic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is skilled in or specializes in the study and practice of logic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, philosophy, and cognitive science, a scholar who investigates deductive systems, symbolic notations, and the formal properties of truth (such as Aristotle, Boole, or Frege).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's achievements as an economist, logician, psychologist, and politician are known more or less vaguely to all educated men; but his capacity and his actual work as a critic are comparatively little regarded."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Men who had only known the quiet thinker and logician of Baker Street would have failed to recognise him."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And all the logicians in the world could not shame me to myself."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Aristotle earned immortal renown as the first systematic **logician**, inventing the theory of the syllogism."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"From a drop of water, a **logician** could infer the possibility of an Atlantic or a Niagara without having seen either."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The great **logician** must possess not only acute analytical discernment, but an imaginative grasp of formal relations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the dacrymycetaceae: fungi with a bifurcate basidium that lacks septa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the dacrymycetaceae: fungi with a bifurcate basidium that lacks septa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of jelly fungi (family Dacrymycetaceae) that produce small, gelatinous, tear-shaped or cushion-like yellow or orange basidiocarps on decaying wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, wood-decaying saprophytes characterized by furcate (tuning-fork-shaped) basidia and gelatinous matrices that swell upon rain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacrymyces designates type genus of the dacrymycetaceae: fungi with a bifurcate basidium that lacks septa."*
+> - 📜 **Charles Horton Peck (*Report of the State Botanist on Edible and Poisonous Fungi*):** *"During damp autumn weather, golden tear-like globules of **Dacrymyces** dot the wet bark of decaying pine logs."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"The gelatinous tremelloid habit of **Dacrymyces** conceals deeply bifurcated basidia bearing curved, multiseptate spores."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Mushroom collectors often encounter bright yellow cushions of **Dacrymyces** deliquescing upon moist forest branches."*

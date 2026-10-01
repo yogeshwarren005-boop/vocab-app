@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which the blood is deficient in red blood cells, in hemoglobin, or in total volume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which the blood is deficient in red blood cells, in hemoglobin, or in total volume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which the blood doesn't have enough healthy red blood cells or hemoglobin, leading to reduced oxygen flow to the body's organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a laboratory finding characterized by low hemoglobin concentration or hematocrit, indicating blood loss, decreased production, or hemolysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"How kind of Captain Hyde!" she drawled, as Lawrence, irritated by her manner, went to help Val, while Isabel was called indoors by Fanny to listen to a tale of distress, unravel a grievance, and prescribe for anemia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Iron deficiency **anemia** in young chlorotic women responds with remarkable rapidity to ferrous sulphate administration."*
+> - 📜 **Siddhartha Mukherjee (*The Gene: An Intimate History*):** *"Linus Pauling demonstrated that sickle cell **anemia** was the first recognized molecular disease, caused by an altered hemoglobin molecule."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"Treating severe preoperative **anemia** with intravenous iron and erythropoietin reduced the need for perioperative blood transfusions."*

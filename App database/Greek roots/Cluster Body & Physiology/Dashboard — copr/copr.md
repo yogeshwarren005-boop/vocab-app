@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dung : feces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dung : feces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root (kopros, meaning 'dung, excrement, feces'), forming the basis of scientific and medical terms relating to scatology and fecal matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontological and entomological etymology, the combining radical signifying fossilized waste (coprolite) or dung-feeding behavior (coprophagy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copr designates dung : feces."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek noun kopros signified animal dung or ordure; from its root **copr** modern naturalists constructed coprolite and coprophilous."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"In scientific coinage, the element **copr** denotes fecal matter or waste products."*
+> - 📜 **Thomas Henry Huxley (*Principles of Paleontology*):** *"Fossilized droppings termed coprolites preserve the radical **copr**, linking geology with the ancient diets of extinct reptiles."*

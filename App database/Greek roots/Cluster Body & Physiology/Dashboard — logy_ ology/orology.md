@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of mountains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of mountains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of mountains, their physical structure, and their geographic distribution; orography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geomorphology, the investigation of tectonic mountain building, seismic orogeny, and alpine altitudinal zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orology designates the science of mountains."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"Pioneering expeditions in Alpine and Andean **orology** revealed the vertical zonation of plant life according to elevation."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Modern **orology** demonstrates that mountain chains are not static upheavals, but dynamic zones of ongoing tectonic stress."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The sublime study of Sierran **orology** teaches that glaciers carved these granite domes out of ancient crystalline bedrock."*

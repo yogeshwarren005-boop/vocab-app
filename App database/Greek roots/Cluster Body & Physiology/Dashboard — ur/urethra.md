@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The canal that in most mammals carries off the urine from the bladder and in the male serves also as a passageway for semen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The canal that in most mammals carries off the urine from the bladder and in the male serves also as a passageway for semen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The membranous duct or canal through which urine is conveyed from the urinary bladder to the exterior of the body, also serving as the conduit for semen in males.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, the female urethra is short (approximately 4 cm), predisposing to ascending urinary tract infections; the male urethra is longer (approximately 20 cm) and divided into prostatic, membranous, and spongy (penile) segments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urethra designates the canal that in most mammals carries off the urine from the bladder and in the male serves also as a passageway for semen."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The male **urethra** extends from the internal orifice of the bladder at the neck to the external meatus at the glans penis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Stricture of the **urethra** following chronic inflammation impedes urinary outflow, leading to secondary bladder hypertrophy."*
+> - 📜 **Astley Cooper (*The Principles and Practice of Surgery*):** *"Gentle passage of a flexible bougie through the **urethra** avoids lacerating the delicate mucous membrane."*

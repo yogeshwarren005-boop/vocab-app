@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the plesiosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the plesiosaurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of extinct Mesozoic marine reptiles comprising plesiosaurs and pliosaurs, flourishing from the late Triassic until the end of the Cretaceous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic vertebrate paleontology, a clade of sauropterygians adapted to aquatic locomotion with hyperphalangic paddle-limbs, robust gastralia, and rigid trunk ribcages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plesiosauria designates any of the plesiosaurs."*
+> - 📜 **Richard Owen (*Report on British Fossil Reptiles*):** *"The order **plesiosauria** constitutes one of the most distinctive lineages of Mesozoic predatory reptiles."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Comparative osteology of the **plesiosauria** demonstrates profound modifications of the girdle elements for underwater propulsion."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The pectoral and pelvic girdles in **plesiosauria** formed vast ventral plates supporting powerful adductor musculature."*

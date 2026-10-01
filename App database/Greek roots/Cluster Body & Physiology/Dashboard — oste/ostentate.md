@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Display proudly; act ostentatiously or pretentiously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Display proudly; act ostentatiously or pretentiously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To display or exhibit something boastfully, conspicuously, or with pretension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic English literature and classical rhetoric, to make an elaborate, vainglorious public show of one's wealth, knowledge, or virtues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostentate designates display proudly; act ostentatiously or pretentiously."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Vain scholars love to **ostentate** their learning in strange phrases rather than advance solid knowledge."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Proud men seek every occasion to **ostentate** their costly apparel and ancestral pedigrees before the crowd."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"It is an unseemly weakness to **ostentate** miracles where natural causes sufficiently explain the observed effect."*

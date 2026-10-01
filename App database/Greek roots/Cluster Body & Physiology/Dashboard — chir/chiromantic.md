@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to palmistry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to palmistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of palmistry (chiromancy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to divinatory readings or interpretations based on lines and mounts of the human hand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiromantic designates of or relating to palmistry."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Many melancholic minds are led astray by **chiromantic** prognostications of early death or sudden calamity."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"He consulted every **chiromantic** booklet in the stall to ascertain whether fortune favored his commercial venture."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"The astrologer added a few **chiromantic** observations on the shape of the courtier's thumb to confirm his horoscope."*

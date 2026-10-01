@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Musk turtles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Musk turtles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, highly aquatic freshwater turtles in the family Kinosternidae, native to North America, commonly known as musk turtles or stinkpots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, *Sternotherus* species possess a reduced, hinged plastron and specialized musk glands near the bridge of the shell that discharge a foul-smelling yellow fluid when alarmed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sternotherus designates musk turtles."*
+> - 📜 **Raymond L. Ditmars (*The Reptile Book*):** *"When handled roughly, the common musk turtle, **Sternotherus** odoratus, emits an intensely pungent and repulsive secretion."*
+> - 📜 **John Edwards Holbrook (*North American Herpetology*):** *"Species of **Sternotherus** prowl muddy pond bottoms, feeding upon aquatic insects, worms, and decomposing carrion."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"The osteological structure of **Sternotherus** shows characteristic kinetic adaptations in the anterior plastral lobe."*

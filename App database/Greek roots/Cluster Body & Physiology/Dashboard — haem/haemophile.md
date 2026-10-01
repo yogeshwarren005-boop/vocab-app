@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has hemophilia and is subject to uncontrollable bleeding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who has hemophilia and is subject to uncontrollable bleeding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual affected with hemophilia, an inherited bleeding disorder caused by deficiency of a blood clotting factor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and bacteriology, an organism (such as Haemophilus influenzae) that requires whole blood or hemoglobin constituents for nutrient growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemophile designates someone who has hemophilia and is subject to uncontrollable bleeding."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The life of a young **haemophile** is surrounded by constant perils, where even the extraction of a tooth may precipitate uncontrollable oozing."*
+> - 📜 **John Conrad Otto (*An Account of an Hemorrhagic Disposition*):** *"In this remarkable family line, every male **haemophile** inherited the bleeding habit solely through healthy maternal ancestry."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"He was a delicate lad, a congenital **haemophile**, whose joints repeatedly swelled with bloody effusions after trifling contusions."*

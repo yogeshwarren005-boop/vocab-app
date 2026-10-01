@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A copious or heavy discharge of blood from the blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapid and uncontrollable loss or outflow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An escape of blood from a ruptured blood vessel, especially when profuse; heavy bleeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology and trauma, acute or chronic extravasation of blood from the vascular system, classified as arterial, venous, or capillary, leading to hypovolemic shock if uncontrolled.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In 1882 she had many hemorrhages, and gradually grew worse, so that she could not use her left arm or shoulder without producing hemorrhage."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"But, in her absence, a hemorrhage took place, the nurse endeavored to staunch the blood, but at last, becoming frightened, sent for a Surgeon."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The surgeon tells me I shall not recover, that the next hemorrhage will probably be the last."*
+> - 📜 **William Stewart Halsted (*The Operative Story of Goitre and Other Surgical Essays*):** *"Meticulous haemostasis is the very soul of surgery; every avoidable **hemorrhage** weakens the patient's vital resistance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intracerebral **hemorrhage** commonly occurs in elderly hypertensive individuals following the rupture of a Charcot-Bouchard microaneurysm."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Prompt application of firm pressure will arrest alarming venous **hemorrhage** before surgical aid arrives."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pharmacology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to pharmacology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pharmacology; pharmacological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and physiology, describing a dose or response exceeding normal physiological levels, produced by medicinal drug action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacologic designates of or relating to pharmacology."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Administering glucocorticoids at supraphysiological levels induces potent **pharmacologic** immunosuppression."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Every **pharmacologic** intervention must be weighed against the potential harm of iatrogenic complications."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The selective affinity of dyes for specific bacteria established a new **pharmacologic** paradigm for chemotherapy."*

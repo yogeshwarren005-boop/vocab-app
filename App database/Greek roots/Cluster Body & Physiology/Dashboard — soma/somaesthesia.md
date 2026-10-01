@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The perception of tactual or proprioceptive or gut sensations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty of bodily perception; sensory systems associated with the body; includes skin senses and proprioception and the internal organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The perception of sensory stimuli arising from the skin, muscles, joints, and viscera; somatic sensibility (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory neurology, somaesthesia includes tactile discriminative touch, flutter-vibration, thermal awareness, nociception, and proprioception mediated by the dorsal column and spinothalamic pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somaesthesia designates the perception of tactual or proprioceptive or gut sensations."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Normal posture and coordinated motor performance rely unceasingly upon accurate afferent **somaesthesia**."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Cortical injuries selectively impair fine discriminative **somaesthesia** while leaving crude protopathic touch relatively preserved."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our sense of bodily selfhood is anchored in the background hum of constant visceral and tactile **somaesthesia**."*

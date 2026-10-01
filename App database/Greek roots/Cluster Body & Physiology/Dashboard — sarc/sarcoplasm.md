@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cytoplasm of a striated muscle fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cytoplasm of a striated muscle fiber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cytoplasm of a striated muscle fiber, surrounding the myofibrils and containing organelles, glycogen, and myoglobin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In muscle biology, sarcoplasm is rich in potassium, magnesium, phosphate, glycogen granules, and enzymes involved in glycolysis and oxidative metabolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoplasm designates the cytoplasm of a striated muscle fiber."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"Between parallel bundles of myofibrils lies the granular **sarcoplasm**, harboring numerous mitochondria and glycogen depots."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"Slow red muscle fibers owe their endurance in part to an abundance of **sarcoplasm** charged with oxygen-binding myoglobin."*
+> - 📜 **William Bowman (*On the Minute Structure and Movements of Voluntary Muscle*):** *"The semi-fluid **sarcoplasm** bathes every contractile element within the enclosing sarcolemmic boundary."*

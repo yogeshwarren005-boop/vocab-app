@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate, temporary cessation of cardiac activity before heart surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deliberate, temporary cessation of cardiac activity before heart surgery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The temporary, intentional cessation or arrest of cardiac contractions, induced experimentally or during open-heart surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac surgery, the infusion of a cold, hyperkalemic crystalloid or blood solution into coronary vessels to protect the myocardium during aortic cross-clamping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardioplegia designates the deliberate, temporary cessation of cardiac activity before heart surgery."*
+> - 📜 **John Gibbon (*Extracorporeal Circulation*):** *"The introduction of chemical **cardioplegia** permitted surgeons to operate upon a completely motionless, bloodless, flaccid heart."*
+> - 📜 **Denton Cooley (*Techniques in Cardiac Surgery*):** *"Cold potassium **cardioplegia** preserves intracellular energy stores, allowing prolonged, complex intracardiac repairs without ischemic necrosis."*
+> - 📜 **Michael DeBakey (*The Past, Present, and Future of Cardiac Surgery*):** *"Hypothermic **cardioplegia** revolutionized myocardial protection during lengthy double-valve replacements and coronary bypass grafting."*

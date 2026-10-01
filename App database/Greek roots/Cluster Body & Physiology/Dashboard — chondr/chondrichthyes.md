@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cartilaginous fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cartilaginous fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic class of jawed marine and freshwater fishes with cartilaginous skeletons, comprising sharks, rays, skates, and chimaeras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, gnathostomes lacking lungs or swim bladders, possessing exposed gill slits (or an operculum in chimaeras) and placoid denticles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondrichthyes designates cartilaginous fishes."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The class **Chondrichthyes** represents an ancient and noble branch of vertebrates whose fossil teeth persist across all geological strata."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The skull in **Chondrichthyes** forms an unsegmented cartilaginous box, devoid of cranial sutures."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The persistence of the cartilaginous state in **Chondrichthyes** was once mistaken for degenerate primitiveness rather than adaptive perfection."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek copr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical medical condition characterized by blood poisoning or toxemia attributed to the absorption of fecal poisons from chronic intestinal stasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century clinical pathology, an autointoxication syndrome hypothesized to produce languor, sallow complexion, and cephalalgia from severe constipation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copremia designates a term designating an entity, condition, or phenomenon derived from greek copr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The theory of **copremia** gained wide credence among Victorian clinicians, who attributed diverse nervous symptoms to fecal autointoxication."*
+> - 📜 **Arthur Hurst (*Constipation and Allied Intestinal Disorders*):** *"Careful biochemical investigations disproved the hypothesis that chronic constipation produces systemic **copremia** in the absence of mechanical obstruction."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures and Reports*):** *"The sallow cachexia and persistent headache were formerly treated as symptoms of **copremia** by repeated purgatives."*

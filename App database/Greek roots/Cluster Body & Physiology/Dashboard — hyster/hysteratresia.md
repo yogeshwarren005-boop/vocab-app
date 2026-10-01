@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hyster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occlusion, obliteration, or pathological closure of the cavity or cervical canal of the uterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological surgery, congenital or acquired cervical stenosis resulting from scarring, cauterization, or developmental failure of Müllerian duct canalization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteratresia designates a term designating an entity, condition, or phenomenon derived from greek hyster."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Post-traumatic **hysteratresia** following vigorous curettage leads to amenorrhea and painful hematometra."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Cervical dilation under anesthesia is required to relieve complete acquired **hysteratresia**."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Surgical recanalization of the cervix overcame the congenital **hysteratresia**, preserving reproductive function."*

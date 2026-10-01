@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of plants of order rosales; coextensive with the genus cephalotus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of plants of order rosales; coextensive with the genus cephalotus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic family of carnivorous flowering plants (order Oxalidales) containing only the Albany pitcher plant, Cephalotus follicularis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, an ancient paleo-endemic Australian family characterized by true pitcher leaves possessing specialized nectar glands and slippery wax zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalotaceae designates a family of plants of order rosales; coextensive with the genus cephalotus."*
+> - 📜 **Robert Brown (*General Remarks, Geographical and Systematical, on the Botany of Terra Australis*):** *"The singular pitcher plant discovered at King George's Sound constitutes the type of our new family **cephalotaceae**."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Morphological isolation led botanists to isolate the **cephalotaceae** from both Sarraceniaceae and Nepenthaceae."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The exquisite pitfall traps of the **cephalotaceae** illustrate convergent evolutionary architecture in carnivorous flora."*

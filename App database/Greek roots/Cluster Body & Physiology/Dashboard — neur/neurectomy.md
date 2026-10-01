@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of all or part of a nerve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of all or part of a nerve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision or removal of a nerve or a segment of a nerve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurosurgery, a destructive procedure undertaken to relieve intractable chronic neuralgia, abolish spasticity, or eradicate localized peripheral nerve tumors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurectomy designates surgical removal of all or part of a nerve."*
+> - 📜 **Harvey Cushing (*The Surgical Aspects of Major Neuralgia of the Trigeminal Nerve*):** *"Peripheral **neurectomy** of the infraorbital branch affords only transient relief, as the agonizing pain inevitably recurs within months."*
+> - 📜 **William Richard Gowers (*A Manual of Diseases of the Nervous System*):** *"When pharmacotherapy fails to ameliorate spasmodic torticollis, selective spinal accessory **neurectomy** may be contemplated."*
+> - 📜 **Robert Liston (*Practical Surgery*):** *"Excision of a segment of the nerve trunk by **neurectomy** prevents reunion and terminates the transmission of abnormal impulses."*

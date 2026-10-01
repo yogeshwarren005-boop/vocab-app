@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sarc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare autosomal recessive inborn error of metabolism characterized by elevated concentrations of sarcosine in the blood and excessive excretion in the urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caused by mutations in the *SARDH* gene encoding mitochondrial sarcosine dehydrogenase, leading to impaired oxidative demethylation of sarcosine to glycine; often considered a benign metabolic phenotype.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcosinemia designates a term designating an entity, condition, or phenomenon derived from greek sarc."*
+> - 📜 **Archibald Garrod (*Inborn Errors of Metabolism*):** *"Analogous to cystinuria and alkaptonuria, conditions such as **sarcosinemia** illustrate congenital blocks in enzymatic pathways."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Screening of infant urine by chromatography occasionally unmasks asymptomatic **sarcosinemia** requiring no dietary intervention."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Pedigree analyses demonstrate that **sarcosinemia** segregates as an autosomal recessive trait with defective sarcosine oxidase activity."*

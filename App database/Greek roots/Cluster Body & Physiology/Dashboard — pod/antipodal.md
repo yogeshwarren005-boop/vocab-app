@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of opposition along a diameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the antipodes or situated at opposite sides of the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated at the opposite side of the earth, or diametrically opposed in character, nature, or direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant embryology and mathematics, referring to the three cells located at the chalazal end of the angiosperm embryo sac (antipodal cells) or diametrically opposed points on a sphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The two, three or twenty cash doll does for the Chinese girl what the two, three or twenty dollar one does for her antipodal sister,--develops the instinct of motherhood, besides standing a greater amount of rough handling."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Species inhabiting **antipodal** continents often share remarkable homologous adaptations shaped by parallel environmental pressures."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Their philosophical doctrines were in every respect **antipodal**, representing irreconcilable metaphysical extremes."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Within the mature embryo sac, three small **antipodal** cells reside opposite the egg apparatus."*

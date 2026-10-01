@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hidrot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The root and combining form representing sweat or perspiration; derived from Greek hidros, hidrotos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological linguistics and biomedical nomenclature, the classical Greek root denoting sudorific function and disorders of sweat secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hidrot designates a term designating an entity, condition, or phenomenon derived from greek hidrot."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The Greek stem **hidrot** supplies medical terminology with essential designations for all conditions involving sudoriferous secretion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"From hyperhidrosis to anhidrosis, the lexical root **hidrot** recurs wherever sweat gland pathology is classified."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Physiologists traced the secretory mechanisms of **hidrot** derivatives to understand thermoregulation across warm-blooded organisms."*

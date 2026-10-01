@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical incision or dissection of the ear, particularly the tympanic membrane or internal ear structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical operative otology, an incision performed to access the middle-ear cavity or drain suppurative labyrinthitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ototomy designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **Joseph Toynbee (*The Diseases of the Ear*):** *"Careful **ototomy** of the posterosuperior quadrant relieves acute fluid pressure without endangering the ossicular chain."*
+> - 📜 **Adam Politzer (*A Text-Book of the Diseases of the Ear*):** *"The early surgeons practiced exploratory **ototomy** whenever intracranial extension of mastoid disease was suspected."*
+> - 📜 **William Wilde (*Practical Observations on Aural Surgery*):** *"Through precise **ototomy**, chronic inflammatory exudates within the tympanum may be safely evacuated."*

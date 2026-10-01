@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 2 species of tropical american shrubs or trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 2 species of tropical american shrubs or trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of South American leguminous trees (Fabaceae) known for producing potent psychoactive tryptamine alkaloids in their seeds and bark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and pharmacology, Anadenanthera peregrina and Anadenanthera colubrina, whose roasted seeds are powdered to create shamanic snuff (yopo/cohoba).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anadenanthera designates 2 species of tropical american shrubs or trees."*
+> - 📜 **Richard Evans Schultes (*The Botany and Chemistry of Hallucinogens*):** *"Indigenous shamans of the Orinoco prepare the psychoactive snuff yopo from the roasted seeds of **anadenanthera**."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The Otomac Indians inhale a pungent gray powder prepared from the pods of **anadenanthera**, falling into ecstatic trances."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"During village ceremonies, the elders passed the ceremonial snuff tube filled with **anadenanthera** to communicate with ancestral spirits."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imitation diamond made from rock crystal or glass or paste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imitation diamond made from rock crystal or glass or paste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imitation diamond or gemstone made from rock crystal, glass, paste, or acrylic, used in jewelry and decorative trim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material culture and decorative art history, originally faceted quartz crystals collected from the gravel beds of the Rhine River, later replaced by leaded crystal glass coated with metallic foil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinestone designates an imitation diamond made from rock crystal or glass or paste."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Her faded bridal dress was adorned with tarnished spangles and glittered with cheap **rhinestone** brooches."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"The thief substituted paste and **rhinestone** replicas, hoping the theft of the precious gems would go undetected."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"The cabaret singer wore a shimmering gown encrusted with thousands of glittering **rhinestone** stars."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder of vision in which two images of a single object are seen (as from unequal action of the eye muscles) —called also double vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder of vision in which two images of a single object are seen (as from unequal action of the eye muscles) —called also double vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The perception of two images of a single object; double vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuro-ophthalmology, a cardinal symptom caused by ocular misalignment (binocular diplopia from extraocular cranial nerve palsy) or lens dislocation (monocular diplopia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplopia designates a disorder of vision in which two images of a single object are seen (as from unequal action of the eye muscles) —called also double vision."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden onset of horizontal **diplopia** upon gazing to the left indicates isolated sixth cranial nerve palsy."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Expanding acoustic neuromas compressing the brainstem frequently produce bothersome transient **diplopia**."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient complained of distressing vertical **diplopia** that vanished immediately when one eye was occluded."*

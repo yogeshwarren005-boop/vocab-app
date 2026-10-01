@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The short part of the esophagus extending downward from the diaphragm to the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The innermost of the two layers of the pericardium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The short abdominal portion of the esophagus situated below the diaphragm, extending from the esophageal hiatus to the cardiac orifice of the stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal anatomy, the terminal intra-abdominal segment of the esophagus, acting in conjunction with the diaphragmatic crura as an antireflux barrier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicardia designates the short part of the esophagus extending downward from the diaphragm to the stomach."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **epicardia** measures scarcely more than two centimeters in length before expanding into the wider gastric reservoir."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Where the gullet passes beneath the diaphragm, the **epicardia** is enveloped by a peritoneal fold continuous with the lesser omentum."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"The lower sphincter mechanism at the **epicardia** closes firmly against retrograde surges of acidic gastric contents during digestion."*

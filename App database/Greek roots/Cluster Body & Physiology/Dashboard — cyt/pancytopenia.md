@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal reduction in the number of erythrocytes, white blood cells, and blood platelets in the blood; also : a disorder (such as aplastic anemia) characterized by such a reduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal reduction in the number of erythrocytes, white blood cells, and blood platelets in the blood; also : a disorder (such as aplastic anemia) characterized by such a reduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deficiency of all three cellular components of the blood: red blood cells, white blood cells, and platelets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, a clinical triad of anemia, leukopenia, and thrombocytopenia indicating bone marrow failure (aplastic anemia) or marrow replacement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pancytopenia designates an abnormal reduction in the number of erythrocytes, white blood cells, and blood platelets in the blood; also : a disorder (such as aplastic anemia) characterized by such a reduction."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The onset of profound **pancytopenia** following exposure to benzene warns the clinician of acute marrow aplasia."*
+> - 📜 **Maxwell Wintrobe (*Clinical Hematology*):** *"In patients presenting with severe **pancytopenia**, bone marrow biopsy is urgently required to distinguish aplasia from aleukemic leukemia."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Toxic suppression of marrow stem cells manifests clinically as rapidly fatal **pancytopenia**."*

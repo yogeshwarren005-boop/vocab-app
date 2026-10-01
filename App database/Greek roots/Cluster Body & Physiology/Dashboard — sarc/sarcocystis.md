@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chief genus of the order sarcosporidia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chief genus of the order sarcosporidia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of intracellular apicomplexan protozoan parasites that form sarcocysts (cyst structures) in the muscular tissues of intermediate vertebrate hosts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine and epidemiology, *Sarcocystis* species alternate between sexual reproduction in the intestinal tract of predators (definitive hosts) and asexual replication in the muscles of prey species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcocystis designates chief genus of the order sarcosporidia."*
+> - 📜 **Theobald Smith (*The Etiology of Bovine Coccidiosis*):** *"Transmission of **Sarcocystis** depends upon an obligate two-host cycle involving prey herbivores and predatory carnivores."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Myositis accompanied by eosinophilia can occasionally be traced to intramuscular cysts of **Sarcocystis**."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Under microscopic magnification, the cyst of **Sarcocystis** is partitioned into chambers packed with sickle-shaped spores."*

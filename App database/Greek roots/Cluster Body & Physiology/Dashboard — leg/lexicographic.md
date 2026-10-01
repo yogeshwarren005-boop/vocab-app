@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to lexicography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to lexicography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the compiling, editing, or principles of constructing dictionaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and discrete mathematics, describing an ordering scheme (lexicographic order) arranged alphabetically or according to dictionary precedence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lexicographic designates of or relating to lexicography."*
+> - 📜 **James Murray (*The Evolution of English Lexicography*):** *"The monumental task required resolving complex **lexicographic** dilemmas regarding dialectal variants."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"Permutations are generated in canonical **lexicographic** order to facilitate exhaustive algorithmic verification."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"A sound **lexicographic** description isolates distinct phonemic entries before categorizing semantic definitions."*

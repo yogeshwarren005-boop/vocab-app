@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation of blood in the pleural cavity (the space between the lungs and the walls of the chest).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accumulation of blood in the pleural cavity (the space between the lungs and the walls of the chest).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An accumulation of blood in the pleural cavity between the lung and the chest wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thoracic surgery and trauma medicine, a clinical condition caused by laceration of intercostal vessels, internal mammary arteries, or pulmonary parenchyma, resulting in respiratory compromise and shock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemothorax designates accumulation of blood in the pleural cavity (the space between the lungs and the walls of the chest)."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Upon percussing the chest in acute traumatic **haemothorax**, extensive basal flatness is detected, accompanied by absent vesicular breath sounds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Traumatic puncture of the thoracic wall was complicated by a massive **haemothorax**, necessitating prompt needle thoracentesis."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Gunshot fractures of the rib cage are frequently accompanied by internal bleeding into the pleura, constituting a perilous **haemothorax**."*

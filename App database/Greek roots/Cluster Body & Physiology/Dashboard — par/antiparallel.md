@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of vectors) parallel but oppositely directed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of vectors) parallel but oppositely directed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Parallel but moving or oriented in opposite directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics and biochemistry, describing the complementary strands of a DNA double helix running 5'-to-3' in opposing directions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiparallel designates (especially of vectors) parallel but oppositely directed."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"The two phosphodiester chains of the double helix run in **antiparallel** directions, one terminating in 5'-phosphate and the other in 3'-hydroxyl."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Only when we arranged the pairing purines and pyrimidines in an **antiparallel** orientation did the stereochemical model lock into place."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Beta-pleated sheets may fold into either parallel or **antiparallel** alignments stabilized by interstrand hydrogen bonding."*

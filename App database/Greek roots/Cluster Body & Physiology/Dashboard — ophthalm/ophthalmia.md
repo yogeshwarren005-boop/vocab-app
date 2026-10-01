@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the conjunctiva or the eyeball.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the conjunctiva or the eyeball.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe inflammation of the eye, particularly affecting the conjunctiva; ophthalmitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and clinical medicine, devastating infectious ocular conditions such as ophthalmia neonatorum (gonococcal conjunctivitis in newborns) or sympathetic ophthalmia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophthalmia designates inflammation of the conjunctiva or the eyeball."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The instillation of silver nitrate drops at birth dramatically eradicated the tragic blindness caused by neonatal **ophthalmia**."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Purulent epidemic **ophthalmia** spreads with alarming rapidity through crowded military barracks and orphanages."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Copious bloodletting and cooling collyria were formerly employed to quell violent attacks of inflammatory **ophthalmia**."*

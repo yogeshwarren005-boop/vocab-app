@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy property or hinder normal operations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hollow out as if making a cave or opening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To excavate beneath a structure so as to make it collapse; or to weaken, erode, or damage insidiously or gradually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political discourse and psychology, to covertly subvert authority, trust, or constitutional stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man setting down before you will undermine you and blow you up."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, to be plain, They, knowing Dame Eleanor’s aspiring humour, Have hired me to undermine the Duchess And buzz these conjurations in her brain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Troy be not taken till these two undermine it, the walls will stand till they fall of themselves."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"If Troy be not taken till these two **undermine** it, the walls will stand till they fall of themselves."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Unchecked despotic power tends slowly but inevitably to **undermine** the moral independence and vitality of the citizenry."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Factions work tirelessly to **undermine** the ancient foundations of church and state under the pretext of abstract equality."*

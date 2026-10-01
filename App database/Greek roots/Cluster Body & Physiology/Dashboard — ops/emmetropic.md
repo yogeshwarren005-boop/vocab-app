@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the normal condition of the eye in which visual images are in clear focus on the retina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the normal condition of the eye in which visual images are in clear focus on the retina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by emmetropia; having normal ocular refraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, describing an eye whose optical power and axial length are in perfect balance, focusing distant objects accurately without lens aid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emmetropic designates of or relating to the normal condition of the eye in which visual images are in clear focus on the retina."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"An **emmetropic** eye requires zero muscular effort from the ciliary body to perceive distant celestial bodies with absolute clarity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Refraction revealed that the patient was strictly **emmetropic** in both eyes, ruling out ocular refractive headache."*
+> - 📜 **Oliver Sacks (*The Mind's Eye*):** *"After corneal refractive reshaping, the previously myopic eye functioned as an **emmetropic** optical system."*

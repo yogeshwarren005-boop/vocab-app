@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phleg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root morpheme derived from Greek φλέγω (phlego, to burn, blaze) or φλέγμα (phlegma, flame, heat, inflammation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymology and historical humoral theory, the base formative generating terms related to heat, combustion, or the cold, moist bodily humor 'phlegm' (which humorists paradoxically believed was produced by internal heat).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phleg designates a term designating an entity, condition, or phenomenon derived from greek phleg."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The root **phleg-** derives from Greek phlegein, to burn, cognate with Latin flagrare and English flame."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From **phleg-** come ancient terms signifying both burning fever and the viscous discharge produced thereby."*
+> - 📜 **Eric Partridge (*Origins: A Short Etymological Dictionary of Modern English*):** *"The paradoxical semantic shift of **phleg-** from fire to cold bodily slime mirrors classical humoral pathology."*

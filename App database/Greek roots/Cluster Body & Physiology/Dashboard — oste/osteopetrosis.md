@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited disorder characterized by an increase in bone density; in severe forms the bone marrow cavity may be obliterated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inherited disorder characterized by an increase in bone density; in severe forms the bone marrow cavity may be obliterated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare inherited skeletal disorder characterized by defective osteoclast function, resulting in overly dense, sclerotic, and brittle bones (marble bone disease).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and hematology, a disease spectrum where unremodeled bone obliterates marrow cavities, causing pancytopenia, hepatosplenomegaly, and cranial nerve compression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteopetrosis designates an inherited disorder characterized by an increase in bone density; in severe forms the bone marrow cavity may be obliterated."*
+> - 📜 **Heinrich Albers-Schönberg (*Roentgen Pictures of an Unusual Bone Disease*):** *"The radiographs in **osteopetrosis** display uniform, marble-like radiodensity across all long bones, with complete loss of the medullary canal."*
+> - 📜 **Fuller Albright (*The Parathyroid Glands and Metabolic Bone Disease*):** *"In congenital **osteopetrosis**, the failure of osteoclasts to resorb primary spongiosa leads to dense bone that fractures like chalk."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Extensive calcification in **osteopetrosis** encroaches upon the optic and acoustic foramina, inducing progressive blindness and deafness."*

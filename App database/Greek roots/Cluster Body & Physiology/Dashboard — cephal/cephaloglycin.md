@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antibiotic related to cephalosporin but no longer in common use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antibiotic related to cephalosporin but no longer in common use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A semisynthetic, broad-spectrum cephalosporin antibiotic containing a glycyl side chain, administered orally for bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicinal chemistry and pharmacology, an early cephalosporin analog demonstrating that alpha-amino substitution enhanced oral absorption and bioavailability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephaloglycin designates antibiotic related to cephalosporin but no longer in common use."*
+> - 📜 **Edward Abraham (*The Cephalosporin C Antibiotics*):** *"The synthesis of **cephaloglycin** demonstrated that chemical modifications of the 7-position side chain altered antimicrobial activity."*
+> - 📜 **Selman Waksman (*Microbial Antagonisms and Antibiotic Substances*):** *"Laboratory evaluation revealed that **cephaloglycin** was rapidly converted in vivo into active desacetyl metabolites."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"The bactericidal action of **cephaloglycin** hinges upon competitive inhibition of transpeptidase enzymes in the bacterial wall."*

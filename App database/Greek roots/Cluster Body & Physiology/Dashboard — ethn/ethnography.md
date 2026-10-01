@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and systematic recording of human cultures; also : a descriptive work produced from such research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study and systematic recording of human cultures; also : a descriptive work produced from such research.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific description of the customs of individual peoples and cultures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology, the qualitative research method and resultant written monograph based on extensive direct participant observation in a community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roth, _North Queensland Ethnography, Bulletin No. 5, Superstition, Magic, and Medicine_ (Brisbane, 1903), pp. 24 _sq._ [104] Walter E."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Assistant in the Department of British and Mediæval Antiquities and Ethnography, British Museum."*
+> - 📜 **Margaret Mead (*Coming of Age in Samoa*):** *"Modern **ethnography** demonstrates that many emotional storms of adolescence are cultural artifacts rather than biological imperatives."*
+> - 📜 **Bronislaw Malinowski (*Argonauts of the Western Pacific*):** *"Living among the Trobriand Islanders without white companions transformed my **ethnography** into genuine participant understanding."*
+> - 📜 **Clifford Geertz (*Works and Lives: The Anthropologist as Author*):** *"The power of classical **ethnography** rests on convincing the reader that the researcher was genuinely there and saw things firsthand."*

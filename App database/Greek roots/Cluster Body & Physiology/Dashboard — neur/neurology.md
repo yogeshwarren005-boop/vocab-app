@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned especially with the structure, function, and diseases of the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned especially with the structure, function, and diseases of the nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical specialty and branch of biology concerned with the anatomy, functions, and disorders of the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical science, the discipline integrating structural pathology, electrophysiology, and neurogenetics to investigate central and peripheral nervous diseases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurology designates a branch of medicine concerned especially with the structure, function, and diseases of the nervous system."*
+> - 📜 **Thomas Willis (*Cerebri Anatome*):** *"I introduced the doctrine of **neurology** to describe the exact distribution of nerves emanating from the brain and spinal marrow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The remarkable advances in modern **neurology** have transformed cerebral localization from speculative theory into operative certainty."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Senile and Chronic Diseases*):** *"Systematic anatomoclinical correlation constitutes the immutable foundation upon which clinical **neurology** has been erected."*

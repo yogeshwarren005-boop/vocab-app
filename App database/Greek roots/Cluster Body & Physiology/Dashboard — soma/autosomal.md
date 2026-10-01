@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an autosome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an autosome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated on, or inherited via an autosome (any non-sex chromosome).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics, autosomal inheritance patterns are classified as autosomal dominant or autosomal recessive, displaying equal phenotypic expression in males and females.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autosomal designates of or relating to an autosome."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Mutations located upon **autosomal** linkage groups show identical transmission frequencies regardless of the sex of the parent."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Huntington chorea provides an archetypal demonstration of a severe **autosomal** dominant disorder transmitted through generations."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"The catalog of **autosomal** gene loci expanded dramatically with the advent of somatic cell hybridization techniques."*

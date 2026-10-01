@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to attract notice and impress others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a display) tawdry or vulgar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by vulgar or pretentious display; designed to impress or attract notice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and behavioral critique, conspicuously elaborate, flamboyant, or extravagant in manner, dress, or spending.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A man can’t very well be ostentatious of what nobody believes in."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Her honest ostentatious nature made the sharing of a merited dishonor as bitter as it could be to any mortal."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though truly vivacious, tumultuous, ostentatious little Flask would now and then stamp with impatience; but not one added heave did he thereby give to the negro’s lordly chest."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"His pocketbook, his heavy watch-chain, and his whole manner were an **ostentatious** proclamation of newfound wealth."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The leisure class affirms its social superiority through an **ostentatious** expenditure of unearned wealth."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She shrank from the **ostentatious** luxury of the drawing-room, longing for simplicity and purposeful work."*

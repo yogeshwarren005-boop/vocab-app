@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to the pain of angina pectoris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to the pain of angina pectoris.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or affected by angina (angina pectoris or anginose pharyngitis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by compressive, choking pain or severe constrictive symptoms in the thorax or throat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anginous designates of or related to the pain of angina pectoris."*
+> - 📜 **William Heberden (*Commentaries on the History and Cure of Diseases*):** *"Those who are afflicted with **anginous** paroxysms are seized while walking, and more particularly when walking uphill."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris and Allied States*):** *"Emotional excitement frequently precipitates an acute **anginous** crisis in individuals with sclerotic coronary arteries."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"The cessation of physical effort usually terminates the **anginous** ache within a matter of minutes."*

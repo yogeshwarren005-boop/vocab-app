@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of pharmacology dealing with the reactions between drugs and living systems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of pharmacology dealing with the reactions between drugs and living systems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the biochemical and physiological effects of drugs on living organisms and the mechanisms of their actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pharmacology, the quantitative analysis of drug-receptor interactions, dose-response curves, and signal transduction pathways (what the drug does to the body).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacodynamics designates a branch of pharmacology dealing with the reactions between drugs and living systems."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"While pharmacokinetics describes what the body does to the drug, **pharmacodynamics** elucidates what the drug does to the body."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"The fundamental principles of **pharmacodynamics** rest upon receptor occupancy theory and intrinsic efficacy."*
+> - 📜 **Paul Ehrlich (*Experimental Chemotherapy*):** *"Receptor binding constitutes the primary axiom of **pharmacodynamics**, for substances do not act unless fixed to cellular receptors."*

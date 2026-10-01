@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Symptoms that mimic those of meningitis but without inflammation of the meninges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symptoms that mimic those of meningitis but without inflammation of the meninges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clinical syndrome presenting symptoms of meningitis (such as neck stiffness, headache, and photophobia) without actual inflammation of the meninges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pediatrics and infectious disease, reflexive nuchal rigidity triggered by severe systemic febrile illness, pneumonia, or pyelonephritis with normal cerebrospinal fluid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meningism designates symptoms that mimic those of meningitis but without inflammation of the meninges."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute lobar pneumonia in young children frequently induces marked **meningism**, easily mistaken for true bacterial meningitis."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"In febrile **meningism**, lumbar puncture yields clear, normocellular spinal fluid under normal pressure."*
+> - 📜 **Henry Koplik (*The Diseases of Infancy and Childhood*):** *"The differentiation between true meningeal infection and benign **meningism** hinges upon prompt spinal tap analysis."*

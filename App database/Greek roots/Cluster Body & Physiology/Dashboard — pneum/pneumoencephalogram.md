@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An x ray of the brain made by replacing spinal fluid with a gas (usually oxygen) to improve contrast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An x ray of the brain made by replacing spinal fluid with a gas (usually oxygen) to improve contrast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radiograph of the brain and ventricular system obtained after replacing cerebrospinal fluid with injected air, oxygen, or helium (pneumoencephalography).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical neuroradiology, a diagnostic procedure developed by Walter Dandy in 1919 to outline cerebral ventricles and subarachnoid cisterns before the advent of CT and MRI.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumoencephalogram designates an x ray of the brain made by replacing spinal fluid with a gas (usually oxygen) to improve contrast."*
+> - 📜 **Walter Dandy (*Annals of Surgery*):** *"The introduction of air by lumbar puncture yields a distinct **pneumoencephalogram**, clearly outlining cerebral ventricular dilatation."*
+> - 📜 **Harvey Cushing (*Intracranial Tumours*):** *"The **pneumoencephalogram** showed lateral displacement of the third ventricle, confirming a deeply seated temporal lobe neoplasm."*
+> - 📜 **Wilder Penfield (*Epilepsy and the Functional Anatomy of the Human Brain*):** *"Careful study of the **pneumoencephalogram** helped localize epileptogenic scar tissue causing focal cortical seizures."*

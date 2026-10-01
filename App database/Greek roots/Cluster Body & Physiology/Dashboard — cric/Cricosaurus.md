@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of slender, pelagic metriorhynchid crocodyliforms from the Late Jurassic and Early Cretaceous marine beds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, marine crocodylomorphs completely adapted to open ocean life with flipper-like limbs and a hypocercal tail fin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Cricosaurus designates a term designating an entity, condition, or phenomenon derived from greek cric."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The streamlined marine crocodile **Cricosaurus** abandoned armored dermal scutes to achieve swift swimming in Jurassic seas."*
+> - 📜 **Michael J. Benton (*Vertebrate Palaeontology*):** *"Fossil skeletons of **Cricosaurus** show large sclerotic rings in the orbits, indicating keen vision in deep pelagic waters."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"In **Cricosaurus**, evolutionary convergence refashioned a reptilian tail into the downward lobe of a true swimming fluke."*

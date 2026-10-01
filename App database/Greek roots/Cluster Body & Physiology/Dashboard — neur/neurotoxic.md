@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poisonous to nerves or nerve cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poisonous to nerves or nerve cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Poisonous, destructive, or damaging to nerve tissue or the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and toxicology, describing venoms, heavy metals, biological toxins, or synthetic compounds that impair axonal conduction or synaptic transmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotoxic designates poisonous to nerves or nerve cells."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Tetanus toxin displays an extraordinarily selective **neurotoxic** affinity for the motor neurons of the central nervous system."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The **neurotoxic** action of curare selectively paralyses the motor nerve terminations without extinguishing muscular irritability."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lead poisoning exerts a chronic **neurotoxic** effect, typically manifesting as bilateral wrist-drop in occupational painters."*

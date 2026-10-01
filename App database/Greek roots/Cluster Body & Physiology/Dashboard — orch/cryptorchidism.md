@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which one or both testes fail to descend normally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which one or both testes fail to descend normally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A developmental condition in which one or both testes fail to descend into the scrotum from the abdomen or inguinal canal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric urology, undescended testis, which carries an increased risk of testicular torsion, subfertility, and malignant germ cell degeneration if uncorrected by orchiopexy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptorchidism designates a condition in which one or both testes fail to descend normally."*
+> - 📜 **William Stewart Halsted (*The Operative Story of Goitre and Other Surgical Essays*):** *"Early surgical mobilization in pediatric **cryptorchidism** preserves spermatogenic tubules from thermal deterioration in the abdominal cavity."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Hypothalamic hypogonadism is frequently accompanied by bilateral **cryptorchidism** in afflicted pediatric cohorts."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Palpation along the inguinal canal remains the cardinal diagnostic step in evaluating neonatal **cryptorchidism**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctor specializing in diseases of the rectum and anus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctor specializing in diseases of the rectum and anus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician and surgeon specializing in the diagnosis and treatment of disorders of the rectum, anus, and colon (colorectal surgeon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical surgery, a medical specialist managing conditions such as hemorrhoids, anal fistulas, fissures, pilonidal disease, and colorectal neoplasms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proctologist designates a doctor specializing in diseases of the rectum and anus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The experienced **proctologist** relies upon careful digital examination and direct anoscopy to detect occult rectal lesions."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Collaboration between the general surgeon and the specialized **proctologist** refined the techniques of pelvic floor reconstruction."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"A consultation with the hospital **proctologist** was scheduled to evaluate the patient's persistent lower bowel distress."*

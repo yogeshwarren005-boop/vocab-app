@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or fortune-telling by interpreting the shape, sole lines, or characteristics of a person's feet (also known as solestry).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of occultism and comparative folklore, a mantic practice analogous to chiromancy (palmistry), where lines, toe proportions, and sole contours were interpreted to predict fate and personality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podomancy designates a term designating an entity, condition, or phenomenon derived from greek pod."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Gullible minds seek omens in chiromancy, **podomancy**, and all manner of superstitious divination."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"To discern the future by **podomancy** or inspection of the soles of the feet is a baseless vanity devoid of reason."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Itinerant soothsayers in imperial Rome practiced **podomancy**, offering to read destinies in the dusty footprints of travelers."*

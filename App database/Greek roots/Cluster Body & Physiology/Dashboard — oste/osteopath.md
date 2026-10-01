@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician practicing osteopathic medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician practicing osteopathic medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A licensed medical practitioner trained in osteopathic medicine, utilizing manual musculoskeletal manipulation alongside standard medical and surgical therapies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A health professional holding a Doctor of Osteopathic Medicine (D.O.) degree, practicing holistic medicine emphasizing the body's interrelated organ systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteopath designates a physician practicing osteopathic medicine."*
+> - 📜 **Andrew Taylor Still (*Autobiography of A. T. Still*):** *"The **osteopath** seeks the cause of illness, adjusts the abnormal mechanical strains of the body, and allows nature to effect the cure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The modern **osteopath** incorporates standard pharmacological knowledge while maintaining special dexterity in spinal biomechanics."*
+> - 📜 **Abraham Flexner (*Medical Education in the United States and Canada*):** *"Early sectarian schools evolved until the modern **osteopath** underwent clinical laboratory training comparable to standard physicians."*

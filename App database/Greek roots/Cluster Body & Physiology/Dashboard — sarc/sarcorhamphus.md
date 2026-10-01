@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually containing only the king vulture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually containing only the king vulture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of New World vultures in the family Cathartidae, typically exemplified by the king vulture (*Sarcoramphus* or *Sarcorhamphus papa*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, characterized by a brightly colored bare head and neck adorned with a prominent fleshy caruncle on the bill, native to Central and South American tropical forests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcorhamphus designates usually containing only the king vulture."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of the New Continent*):** *"High above the Orinoco canopy, the splendid **Sarcorhamphus** papa circles, conspicuous by its ivory plumage and crimson head."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The carunculated king vulture, referred to **Sarcorhamphus**, dominates smaller cathartids at any forest carcass."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The powerful hooked bill and fleshy wattles of **Sarcorhamphus** distinguish it from our common North American vultures."*

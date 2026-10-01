@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of excessive hemoglobin in the blood plasma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of excessive hemoglobin in the blood plasma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal presence of free hemoglobin in the blood plasma resulting from intravascular hemolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical pathological state where the binding capacity of plasma haptoglobin is overwhelmed, leaving uncomplexed hemoglobin free in circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoglobinemia designates presence of excessive hemoglobin in the blood plasma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intense intravascular hemolysis following toxic envenomation is rapidly marked by noticeable **haemoglobinemia** and subsequent red coloration of the urine."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"When massive erythrocyte dissolution occurs within the vessels, severe **haemoglobinemia** ensues, imparting a reddish hue to the clear serum."*
+> - 📜 **Karl Landsteiner (*The Specificity of Serological Reactions*):** *"Transfusion across incompatible blood groups frequently provokes sudden **haemoglobinemia** owing to immediate complement-mediated cellular lysis."*

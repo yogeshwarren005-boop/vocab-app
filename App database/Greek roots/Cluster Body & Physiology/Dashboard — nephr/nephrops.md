@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of nephropsidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of nephropsidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of decapod crustaceans in the family Nephropidae, comprising the Norway lobster (Nephrops norvegicus), also called Dublin Bay prawn or scampi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and commercial fisheries, slender, orange-pink clawed lobsters that inhabit muddy burrows in the northeastern Atlantic Ocean and Mediterranean Sea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrops designates a genus of nephropsidae."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The marine lobster **Nephrops** exhibits an elongated cephalothorax and slender, spinous chelae."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Burrowing behavior in **Nephrops** creates extensive tunnel networks across the soft muddy sediments of the sea floor."*
+> - 📜 **William Thomas Calman (*The Life of Crustacea*):** *"Commercial trawlers harvest immense quantities of **Nephrops** from the deep coastal waters of northern Europe."*

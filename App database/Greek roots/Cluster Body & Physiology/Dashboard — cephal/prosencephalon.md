@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: forebrain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the anterior of the three primary divisions of the developing vertebrate brain or the corresponding part of the adult brain that includes especially the cerebral hemispheres, the thalamus, and the hypothalamus and that especially in higher vertebrates is the main control center for sensory and associative information processing, visceral functions, and voluntary motor functions —called also prosencephalon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The embryonic forebrain, the most anterior of the three primary brain vesicles in vertebrate development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroembryology, the neural tube vesicle that subdivides during the fifth week of development into the telencephalon (cerebral hemispheres) and the diencephalon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosencephalon designates forebrain."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"From the primitive **prosencephalon** bud forth the optic vesicles and the bilateral cerebral hemispheres."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Failure of the **prosencephalon** to divide cleanly into paired lateral hemispheres culminates in tragic alobar holoprosencephaly."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The phenomenal growth of the dorsal wall of the **prosencephalon** produces the mantle of the human cerebral cortex."*

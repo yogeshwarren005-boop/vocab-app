@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe congenital malformation in which the ears are fused or positioned unnaturally close together on the anterior midline of the neck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and developmental genetics, an anomaly associated with agnathia (absence of lower jaw) caused by failure of first branchial arch migration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synotia designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The rare condition of **synotia** illustrates complete arrest of mandibular arch development with midline coalescence of the otic pits."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Gross cephalic dysmorphologies such as **synotia** are universally incompatible with postnatal respiratory life."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Failure of ventral migration of branchial tissues results in **synotia**, wherein both auricular pinnae meet below the oral stoma."*

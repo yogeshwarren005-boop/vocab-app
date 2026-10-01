@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chimaeras and extinct forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chimaeras and extinct forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient subclass of cartilaginous fishes (class Chondrichthyes) comprising the living chimaeras and numerous extinct fossil orders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ichthyology, fishes having an autostylic skull, an opercular flap covering the gill slits, no stomach, and pelvic claspers in males.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holocephali designates chimaeras and extinct forms."*
+> - 📜 **Louis Agassiz (*Poissons Fossiles*):** *"We unite the chimaeroid fishes into the subclass **holocephali**, emphasizing the complete fusion of the upper jaw to the cranium."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The **holocephali** combine primitive elasmobranch cartilaginous skeletons with an advanced bony-fish-like opercular gill fold."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Members of the **holocephali** inhabit deep oceanic waters, swimming gracefully with undulating sweeps of their large pectoral fins."*

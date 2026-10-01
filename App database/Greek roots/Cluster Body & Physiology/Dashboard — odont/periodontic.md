@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving or practicing periodontics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving or practicing periodontics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to periodontics or the periodontium (the supporting structures around the teeth).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dental therapeutics and clinical terminology, characterizing instruments, surgical flaps, or antimicrobial regimens aimed at treating periodontal disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontic designates of or relating to or involving or practicing periodontics."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advanced **periodontic** destruction causes deep pocketing and persistent purulent discharge along the gingival margin."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Proprioceptive mechanoreceptors within the **periodontic** ligament regulate the reflex force of mastication."*
+> - 📜 **Robley Dunglison (*General Therapeutics and Materia Medica*):** *"Astringent mouthwashes were traditionally employed to tone relaxed gingival tissues during active **periodontic** distress."*

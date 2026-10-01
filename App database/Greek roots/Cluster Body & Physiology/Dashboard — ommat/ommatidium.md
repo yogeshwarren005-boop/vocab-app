@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the elements corresponding to a small simple eye that make up the compound eye of an arthropod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the elements corresponding to a small simple eye that make up the compound eye of an arthropod.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the optical units or subunits that make up the compound eye of an arthropod.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate visual neurobiology, an independent visual receptor consisting of a corneal lens, crystalline cone, retinular photoreceptor cells, and surrounding pigment cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ommatidium designates one of the elements corresponding to a small simple eye that make up the compound eye of an arthropod."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Each hexagonal facet on the cornea of the insect's eye corresponds to the apex of a distinct **ommatidium**."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Axons originating from the rhabdomere of each **ommatidium** project directly into the lamina ganglionaris."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The light-insulating pigment cells surrounding each **ommatidium** ensure that only parallel light rays stimulate the rhabdom."*

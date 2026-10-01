@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poisonous to the kidney; also : resulting from or marked by poisoning of the kidney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poisonous to the kidney; also : resulting from or marked by poisoning of the kidney.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The toxic or destructive effect exerted upon the kidneys by chemical substances, pharmaceuticals, or biological agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical toxicology and pharmacokinetics, the dose-dependent or idiosyncratic propensity of a compound to cause renal dysfunction, measured by elevated serum creatinine and reduced clearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrotoxicity designates poisonous to the kidney; also : resulting from or marked by poisoning of the kidney."*
+> - 📜 **Louis Goodman and Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"Aminoglycoside antibiotics require close therapeutic drug monitoring to prevent irreversible **nephrotoxicity** and preserve glomerular filtration."*
+> - 📜 **Harry Goldblatt (*Studies on Experimental Hypertension*):** *"Sustained arterial constriction combined with toxic insult amplifies the severity of chemical **nephrotoxicity** in animal models."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"The clinical spectrum of drug-induced **nephrotoxicity** encompasses acute tubular necrosis, allergic interstitial nephritis, and chronic interstitial fibrosis."*

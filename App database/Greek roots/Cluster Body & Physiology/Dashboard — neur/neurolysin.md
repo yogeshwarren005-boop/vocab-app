@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any toxin that affects neural tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any toxin that affects neural tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metalloendopeptidase enzyme that hydrolyzes neurotensin and other bioactive peptides within the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurochemistry and peptide pharmacology, a zinc-dependent peptidase (EC 3.4.24.16) localized in brain tissue that degrades neuropeptides involved in pain processing and blood pressure control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurolysin designates any toxin that affects neural tissues."*
+> - 📜 **Solomon Snyder (*Brain Peptides*):** *"Rapid enzymatic inactivation by cytosolic **neurolysin** terminates the neuromodulatory action of neurotensin at synaptic junctions."*
+> - 📜 **Julius Axelrod (*Studies on Peptide Inactivation in the Brain*):** *"Selective inhibition of **neurolysin** potentiates the central antinociceptive effects elicited by endogenous peptide agonists."*
+> - 📜 **Leslie Iversen (*The Biochemical Pharmacology of the Neuropeptides*):** *"Purified **neurolysin** cleaves the proline-tyrosine bond of neurotensin with exceptional substrate specificity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek my.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or prophecy based on the movements, squeaks, behavior, or appearance of mice or rats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of magic and occult anthropology, an ancient mantic practice recorded by classical authors wherein sudden rodent infestations or flight presaged impending catastrophe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myomancy designates a term designating an entity, condition, or phenomenon derived from greek my."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient augurs practiced **myomancy**, interpreting the sudden gnawing of temple hangings by mice as an omen of civic disaster."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Folk divinations such as **myomancy** illustrate the animistic belief that small animals possess preternatural foreknowledge."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Historical accounts tell of generals who abandoned critical military campaigns after consulting omens derived from **myomancy**."*

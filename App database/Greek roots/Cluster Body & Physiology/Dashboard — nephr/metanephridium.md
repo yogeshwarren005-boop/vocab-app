@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nephr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tubular excretory organ found in many invertebrates (such as annelids and mollusks), having an internal ciliated opening (nephrostome) into the coelom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative invertebrate physiology, a paired segmental organ that draws in coelomic fluid and selectively reabsorbs nutrients while expelling nitrogenous wastes via a nephridiopore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metanephridium designates a term designating an entity, condition, or phenomenon derived from greek nephr."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The annelid **metanephridium** opens directly into the coelomic cavity via a wide, ciliated funnel."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Selective resorption of essential salts occurs along the glandular convolutions of the **metanephridium**."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The developmental emergence of the **metanephridium** marks an advance over the simpler protonephridial flame-cell system."*

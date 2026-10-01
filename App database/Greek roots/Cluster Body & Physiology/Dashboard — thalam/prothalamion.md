@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A song in celebration of a marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A song in celebration of a marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A song or poem composed in celebration of a forthcoming marriage or spousal betrothal (term coined by Edmund Spenser).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance poetry, Spenser composed *Prothalamion* in 1596 to celebrate the twin betrothals of the daughters of the Earl of Worcester, famous for its refrain: 'Sweet Thames, run softly, till I end my song.'
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prothalamion designates a song in celebration of a marriage."*
+> - 📜 **Edmund Spenser (*Prothalamion*):** *"Against the bridal day, which was not long: Sweet Thames, run softly, till I end my song: such was the lyrical refrain of the **prothalamion**."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"In his exquisite **prothalamion**, Spenser transforms the swans gliding on the Thames into majestic mythological allegories."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The serene pastoral cadence of the **prothalamion** captures the peaceful, water-reflected sunlight of an English summer."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of drug, medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of drug, medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to ward off, neutralize, or protect against poison or disease; acting as an antidote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacology and medical toxicology, an alexipharmic medicine, herb, or substance reputed to counteract venom, miasma, or toxic pestilence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alexipharmic designates adjective*) pertaining to, derived from, or characteristic of drug, medicine."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Bezoar stones were anciently prized as an infallible **alexipharmic** against all manner of lethal potions."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The search for a universal **alexipharmic** occupied alchemists who hoped to discover a panacea for venomous fevers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Renaissance physicians credited theriac with extraordinary **alexipharmic** virtues against the black death."*

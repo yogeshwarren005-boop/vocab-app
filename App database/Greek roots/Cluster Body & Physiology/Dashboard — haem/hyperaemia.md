@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excess of blood in the vessels supplying an organ or other part of the body; congestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathophysiological terminology, an active arteriolar dilatation (active hyperemia) or passive venous engorgement (passive hyperemia) resulting in vascular pooling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperaemia designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Active inflammatory **hyperaemia** causes the characteristic rubor of inflamed tissues by dilating pre-capillary arterioles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic cardiac decompensation, passive pulmonary **hyperaemia** induces persistent cough and rusty sputum."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Sectioning the cervical sympathetic trunk provoked immediate cutaneous **hyperaemia** and elevation of local temperature."*

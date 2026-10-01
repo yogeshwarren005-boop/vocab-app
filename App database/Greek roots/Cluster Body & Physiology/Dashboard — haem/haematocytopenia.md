@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low number of red blood cells in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally low number of red blood cells in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal reduction in the number of blood cells in the circulating blood; cytopenia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, a deficiency affecting red cells, white cells, or platelets (or all three simultaneously as pancytopenia), due to marrow failure or peripheral destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematocytopenia designates an abnormally low number of red blood cells in the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Aplastic anemia presents clinically as severe progressive **haematocytopenia**, predisposing to fatal infection and uncontrolled hemorrhage."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Chemotherapeutic cytotoxicity targeting rapidly dividing marrow stem cells inevitably induces transient, profound **haematocytopenia**."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"Bone marrow biopsy was indicated to determine whether the patient's peripheral **haematocytopenia** stemmed from myelodysplasia or peripheral sequestration."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several plants of the genus hepatica having three-lobed leaves and white or pinkish flowers in early spring; of moist and mossy subalpine woodland areas of north temperate regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common liverwort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small perennial herbs (liverleaf) in the buttercup family Ranunculaceae, native to woodland regions of the Northern Hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and medical history, the plant *Hepatica nobilis*, historically regarded under the doctrine of signatures as a liver remedy due to its three-lobed, liver-shaped leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"A line descending from the vital, beneath the congress of it and the hepatica, to the tuberculum of Saturn, shows an envious man, who rejoices at another’s calamity, the sight of others concurring."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"II.--OF THE HEPATICA, OR NATURAL MEAN."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If to the hepatica, it argues honest behavior, and prolongs life."*
+> - 📜 **Henry David Thoreau (*The Writings of Henry David Thoreau: Journal*):** *"Beneath the dead brown leaves on the southern bank, the delicate blue blossom of the **hepatica** was the earliest messenger of spring."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The three-lobed, coriaceous leaves of **hepatica** persist through the winter, providing a classic example of early woodland vernal bloom."*
+> - 📜 **William Turner (*A New Herball*):** *"The herb termed **hepatica** hath leaves resembling the lobes of the liver, wherefore ancient leeches prescribed it for diverse visceral obstructions."*

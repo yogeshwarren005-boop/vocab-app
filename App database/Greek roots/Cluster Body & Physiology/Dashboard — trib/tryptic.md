@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by trypsin or its action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or produced by trypsin or its action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, produced by, or resembling trypsin or its enzymatic digestive action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protein chemistry and proteomics, tryptic digestion refers to the enzymatic fragmentation of proteins into predictable peptide fragments at lysine and arginine residues for mass spectrometric sequencing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tryptic designates of, relating to, or produced by trypsin or its action."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"The products of rapid **tryptic** digestion include peptones, short polypeptides, and free crystalline leucine and tyrosine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute pancreatitis results from the premature intrapancreatic activation of **tryptic** enzymes causing autodigestion of tissue."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Proteins subjected to prolonged **tryptic** cleavage are broken down into absorbable amino acid components."*

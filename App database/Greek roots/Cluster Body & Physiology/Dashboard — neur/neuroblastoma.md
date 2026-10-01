@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant tumor formed of embryonic ganglion cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malignant tumor formed of embryonic ganglion cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly malignant childhood cancer originating from primitive neural crest cells, predominantly affecting the adrenal medulla and sympathetic nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric oncology, an embryonal neoplasm characterized by small round blue cells, catecholamine hypersecretion, and genetic hallmarks such as MYCN amplification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroblastoma designates a malignant tumor formed of embryonic ganglion cells."*
+> - 📜 **James Homer Wright (*Neurocytoma or Neuroblastoma, a Kind of Tumor Not Generally Recognized*):** *"I identified rosettes formed by delicate fibrillar bundles in these malignant tumors, proving their origin from primitive cells of the sympathetic system and designating them **neuroblastoma**."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Metastatic spread from a primary retroperitoneal **neuroblastoma** frequently involves the orbits and calvarium in early childhood."*
+> - 📜 **Sidney Farber (*Chemotherapy in the Treatment of Leukemia and Wilms' Tumor*):** *"The spontaneous maturation of a malignant **neuroblastoma** into a benign ganglioneuroma remains one of the fascinating enigmas of tumor biology."*

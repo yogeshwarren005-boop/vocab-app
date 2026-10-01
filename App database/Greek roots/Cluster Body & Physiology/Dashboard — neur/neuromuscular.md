@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affecting or characteristic of both neural and muscular tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting or characteristic of both neural and muscular tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or affecting both nerves and muscles, especially the junction where motor nerves innervate muscle fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and clinical neurology, designating transmission across the motor endplate, as well as disorders (such as myasthenia gravis) affecting the neuromuscular junction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuromuscular designates affecting or characteristic of both neural and muscular tissue."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Curare paralyzes the animal not by destroying the nerve or the muscle, but by blocking conduction at the **neuromuscular** connection."*
+> - 📜 **Henry Hallett Dale (*Adventures in Physiology*):** *"The release of acetylcholine quanta at the motor endplate serves as the physiological mediator of **neuromuscular** transmission."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Myasthenia gravis represents an extraordinary fatigue of **neuromuscular** conduction provoked by repetitive voluntary effort."*

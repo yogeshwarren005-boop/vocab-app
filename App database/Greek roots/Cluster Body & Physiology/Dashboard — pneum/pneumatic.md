@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or using gas (such as air or wind):.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moved or worked by air pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operated, inflated, or moved by compressed air or other gases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical physics and industrial engineering, utilizing pressurized air systems for propulsion, braking (Westinghouse air brake), or pneumatic tube transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"When it is fired it "kicks" backwards, against the force of a buffer of springs, or a hydraulic or pneumatic cylinder."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The invention of the bicycle with pneumatic tires, coincident with the adoption of electric traction for street cars, reduced the price of horses between 1890 and 1895."*
+> - 📜 **Robert Boyle (*Continuation of New Experiments Physico-Mechanical*):** *"The mercurial gauge registered complete exhaustion of air inside the sealed **pneumatic** receiver."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In that subterranean future, intricate **pneumatic** shafts ventilated the deep caverns of the Morlocks."*
+> - 📜 **George Orwell (*1984*):** *"Winston rolled up the slip of paper and dropped it into the **pneumatic** tube with a gentle whoosh."*

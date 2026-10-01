@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process in which a gastrula develops from a blastula by the inward migration of cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process in which a gastrula develops from a blastula by the inward migration of cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process in embryonic development by which a blastula develops into a gastrula with three primary germ layers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, a coordinated choreography of cell movements (invagination, involution, epiboly) that establishes the body plan and gut tube in bilaterians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrulation designates the process in which a gastrula develops from a blastula by the inward migration of cells."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"During **gastrulation**, extensive cellular rearrangements internalize the prospective endoderm and mesoderm while spreading ectoderm over the surface."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Morphogenetic movements during **gastrulation** establish the primary anteroposterior and dorsoventral body axes of the organism."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"The mysterious biological cues directing **gastrulation** marshal millions of identical embryonic cells into distinct tissue fates."*

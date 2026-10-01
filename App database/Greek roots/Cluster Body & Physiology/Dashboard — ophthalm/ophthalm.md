@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ophthalm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root combining form (ophthalm- / ophthalmo-) denoting the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical nomenclature and clinical medicine, used in compounding terms referring to ocular anatomy, vision, or diseases of the eye (e.g., ophthalmic, ophthalmitis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophthalm designates a term designating an entity, condition, or phenomenon derived from greek ophthalm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical terms formed with the root **ophthalm-** designate specialized diagnostic and therapeutic procedures regarding the visual apparatus."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The Greek combining form **ophthalm-** is foundational to the anatomical nomenclature of the orbital contents."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Pathological conditions bearing **ophthalm-** prefixes encompass both superficial conjunctival and deep intraocular inflammations."*

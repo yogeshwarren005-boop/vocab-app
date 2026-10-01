@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the pleuronectidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the pleuronectidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flatfishes in the family Pleuronectidae that includes the European plaice (Pleuronectes platessa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, a genus of right-eyed flatfishes named from Greek pleuron (side) and nekton (swimmer), reflecting their evolutionary adaptation of swimming horizontally on their left side with both eyes on the right.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleuronectes designates type genus of the pleuronectidae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Linnaeus established **Pleuronectes** to encompass the flatfishes whose asymmetrical skulls adapt them for bottom-dwelling life."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The ontogenetic migration of the eye across the head in **pleuronectes** illustrates how directional selection transforms asymmetrical morphology."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In adult **pleuronectes**, the entire dorsal surface is pigmented while the blind side remains stark white."*

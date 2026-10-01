@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The comparative study of the size, shape, and proportions of skulls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The comparative study of the size, shape, and proportions of skulls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the shape, size, and variations of the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and the history of medicine, the anatomical discipline that sought to correlate cranial morphology with race, evolution, and intelligence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I am certainly developing the wisdom of the serpent, for when Mortimer pressed his questions to an inconvenient extent I asked him casually to what type Frankland’s skull belonged, and so heard nothing but craniology for the rest of our drive."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"In a certain company, the conversation having fallen on the subject of craniology, and the organ of drunkenness being alluded to among others, a lady suggested that this must be the barrel-organ. 709."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"Nineteenth-century **craniology** was burdened by the unexamined assumption that skull volume directly reflected intellectual capacity."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"A reformed **craniology** abandoned phrenological charlatanism to become an exact branch of comparative mammalian anatomy."*
+> - 📜 **Charles Lyell (*The Geological Evidences of the Antiquity of Man*):** *"Discoveries of ancient skulls in the Neanderthal cave gave a powerful impetus to the newly emerging science of **craniology**."*

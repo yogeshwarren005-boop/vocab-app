@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hereditary, sex-linked blood defect occurring almost exclusively in males that is marked by delayed clotting of the blood with prolonged or excessive internal or external bleeding after injury or surgery and in severe cases spontaneous bleeding into joints and muscles and that is caused by a deficiency of clotting factors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The common form of hemophilia that is caused by a deficiency of factor VIII.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited genetic disorder characterized by impaired blood clotting, predisposing individuals to severe, uncontrolled bleeding from minor trauma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An X-linked recessive coagulopathy resulting from deficient activity of coagulation Factor VIII (Hemophilia A) or Factor IX (Hemophilia B).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemophilia designates a hereditary, sex-linked blood defect occurring almost exclusively in males that is marked by delayed clotting of the blood with prolonged or excessive internal or external bleeding after injury or surgery and in severe cases spontaneous bleeding into joints and muscles and that is caused by a deficiency of clotting factors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The hereditary bleeding disorder known as **hemophilia** exhibits a strictly sex-linked pattern, affecting males while transmitted through healthy females."*
+> - 📜 **John Conrad Otto (*An Account of an Hemorrhagic Disposition*):** *"In this remarkable family line, the fatal hemorrhagic tendency termed **hemophilia** has persisted across four generations with relentless fidelity."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The transmission of **hemophilia** through daughters who never bleed to grandsons who bleed profusely illustrates the laws of latent inheritance."*

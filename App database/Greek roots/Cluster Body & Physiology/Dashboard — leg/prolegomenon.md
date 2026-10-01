@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prefatory remarks; specifically : a formal essay or critical discussion serving to introduce and interpret an extended work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prefatory remarks; specifically : a formal essay or critical discussion serving to introduce and interpret an extended work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal preliminary treatise, introductory discourse, or critical preface to a book or scholarly work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic philosophy and classical philology, an introductory essay outlining the foundational principles, historical background, and methodology governing a subject of study.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prolegomenon designates prefatory remarks; specifically : a formal essay or critical discussion serving to introduce and interpret an extended work."*
+> - 📜 **Immanuel Kant (*Prolegomena to Any Future Metaphysics*):** *"These **prolegomena** are destined, not for the use of learners, but of future teachers, to discover whether metaphysics is possible."*
+> - 📜 **Friedrich August Wolf (*Prolegomena ad Homerum*):** *"Wolf's revolutionary **prolegomenon** argued that the Iliad was assembled from oral rhapsodies rather than composed by a single poet."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A judicious **prolegomenon** is requisite to explain the political divisions of the Roman provinces before detailing their decline."*

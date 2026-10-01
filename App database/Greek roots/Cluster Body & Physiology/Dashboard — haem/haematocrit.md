@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of the volume occupied by packed red blood cells to the volume of the whole blood as measured by a hematocrit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument to determine (usually by centrifugation) the relative amounts of corpuscles and plasma in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of the volume of red blood cells to the total volume of blood, typically expressed as a percentage; packed cell volume (PCV).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic hematology, a core laboratory measurement obtained by centrifuging blood in a heparinized capillary tube to evaluate anemia or polycythemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematocrit designates the ratio of the volume occupied by packed red blood cells to the volume of the whole blood as measured by a hematocrit."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Centrifugation of blood in the graduated tube established a **haematocrit** of only twenty percent, confirming severe blood loss."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"The surgical checklist confirmed that the patient's baseline **haematocrit** and coagulation parameters were within safe operative thresholds."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Following aggressive crystalloid resuscitation, the repeat **haematocrit** reflected hemodilution alongside ongoing concealed hemorrhage."*

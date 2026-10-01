@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: womb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: womb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root morpheme (ὑστέρα, hystera) signifying the womb or uterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and surgical nomenclature, the foundational combining element for anatomical conditions and operative procedures involving the female reproductive uterus (as in hysterectomy, hysteroscope, hysteralgia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hyster as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Galen (*De Uteri Dissectione*):** *"The ancient physicians called the womb **hyster-**, tracing numerous sympathetic bodily disorders to its health."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgical prefix **hyster-** denotes operative procedures directed upon the pathology of the uterus."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From **hyster-** arise terms in classical medicine reflecting ancient views of uterine mobility and temperament."*

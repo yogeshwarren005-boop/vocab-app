@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pleur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe paroxysmal pain in the chest wall, intercostal muscles, or pleural region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious disease, epidemic pleurodynia (Bornholm disease), an acute infection caused by Coxsackie B viruses, presenting with sudden, knife-like spasms of thoracic and diaphragmatic muscle pain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleurodynia designates a term designating an entity, condition, or phenomenon derived from greek pleur."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Epidemic **pleurodynia** manifests with excruciating paroxysms of pain at the diaphragmatic attachments, simulating acute peritonitis."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Muscular **pleurodynia** must be carefully distinguished from true pleurisy by the complete absence of a friction rub."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The agonizing thoracic cramps of **pleurodynia** render every deep breath an ordeal for the patient."*

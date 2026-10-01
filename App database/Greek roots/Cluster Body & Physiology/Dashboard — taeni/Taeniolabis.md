@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek taeni.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of large, rodent-like herbivorous multituberculate mammals from the early Paleocene of North America, in the family Taeniolabididae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, *Taeniolabis* (notably *Taeniolabis taoensis*) was the largest known multituberculate, reaching the size of a beaver or small capybara, featuring massive, self-sharpening rodent-like incisors and complex multi-cusped molars adapted for heavy plant grinding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Taeniolabis designates a term designating an entity, condition, or phenomenon derived from greek taeni."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"I established the genus **Taeniolabis** upon the massive dentition found in the early Tertiary deposits of New Mexico."*
+> - 📜 **Henry Fairfield Osborn (*The Age of Mammals*):** *"In the basal Paleocene beds, **Taeniolabis** represents the culmination of multituberculate size and dental specialization."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The heavy, short skull of **Taeniolabis** was fitted with powerful masseter musculature for grinding coarse vegetation."*

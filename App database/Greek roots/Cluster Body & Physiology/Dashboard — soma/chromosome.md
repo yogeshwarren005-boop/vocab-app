@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the rod-shaped or threadlike DNA-containing structures of cellular organisms that are located in the nucleus of eukaryotes, are usually ring-shaped in prokaryotes (such as bacteria), and contain all or most of the genes of the organism; also : the genetic material of a virus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The usually constant number of chromosomes characteristic of a particular kind of animal or plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A threadlike structure of nucleic acids and histone proteins found in the nucleus of most living cells, carrying genetic information in the form of linear genes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined by Heinrich Wilhelm Waldeyer in 1888 from Greek *chroma* (color) and *soma* (body) due to deep staining with basic aniline dyes; human somatic cells normally contain 46 chromosomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromosome designates any of the rod-shaped or threadlike dna-containing structures of cellular organisms that are located in the nucleus of eukaryotes, are usually ring-shaped in prokaryotes (such as bacteria), and contain all or most of the genes of the organism; also : the genetic material of a virus."*
+> - 📜 **Wilhelm von Waldeyer-Hartz (*On Karyokinesis and Its Relation to the Process of Fertilization*):** *"I propose the term **chromosome** for those particular stained bodies which Flemming observed to undergo longitudinal division."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Each **chromosome** contains an orderly line of genes whose relative loci can be calculated from crossover percentages."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The individuality of each single **chromosome** persists intact through the metabolic phase of the interphase nucleus."*

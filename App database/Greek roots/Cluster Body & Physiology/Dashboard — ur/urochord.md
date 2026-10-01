@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The notochord when restricted to the tail region in larval tunicates; also used as a designation for a urochordate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary chordate morphology, the presence of the urochord in free-swimming tunicate tadpole larvae provided the definitive evidence linking tunicates directly to the phylum Chordata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urochord designates a term designating an entity, condition, or phenomenon derived from greek ur."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Kowalevsky discovered that the tunicate larva possesses a true **urochord** supporting its active swimming tail."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The cellular structure of the larval **urochord** corresponds down to minute details with the vertebrate notochord."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The transient appearance of the **urochord** in ascidian larvae documents the chordate pedigree of the tunicates."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a trance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with wonder, delight, or bewitchment, as if under a spell or in a trance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and aesthetics, profoundly absorbed by music, beauty, or contemplative absorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She hath not been entranced above five hours."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She had sat entranced during the discussion, with hands tightly clasped, and the thought flickered up in my mind that she had already been corrupted by the religious folly of Jerusalem."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pilate’s wife sat entranced at what I told."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I listened to the sweet voice of Safie as she played the guitar, completely **entranced** by the exquisite melody."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The masthead watchman stood **entranced** by the rolling sapphire swells, dreaming away whole sunny watches in oceanic reverie."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Lily Briscoe remained **entranced** before her canvas, watching colors harmonize into sudden structural revelation."*

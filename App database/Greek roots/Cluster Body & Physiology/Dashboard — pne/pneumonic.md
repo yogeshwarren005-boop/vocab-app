@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the lungs : pulmonic, pulmonary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or affected with pneumonia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or affected by pneumonia or the lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious epidemiology and pathology, denoting the pulmonary form of disease, notably pneumonic plague (Yersinia pestis) transmitted by respiratory droplets with rapid lethality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumonic designates of, relating to, or affecting the lungs : pulmonic, pulmonary."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lobar consolidation during acute **pneumonic** fever progresses from red to grey hepatization."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"The deadlier **pneumonic** form of the pestilence spread swiftly from breath to breath without buboes."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic sections of the **pneumonic** lung revealed alveoli packed with dense fibrin meshes and erythrocytes."*

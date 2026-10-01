@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Finger spelling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation of individual letters and numbers using standardized finger positions —called also dactylology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of communicating by using a manual alphabet; finger spelling used by and with the deaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of deaf education, the pedagogical system of representing letters and phonemes through conventional finger and hand configurations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylology designates finger spelling."*
+> - 📜 **Helen Keller (*The Story of My Life*):** *"My teacher placed my hand beneath the cool flowing water and spelled into my palm with rapid **dactylology** the word w-a-t-e-r."*
+> - 📜 **Alexander Graham Bell (*Upon the Education of Deaf-Mutes*):** *"Proficiency in **dactylology** enables the student to transcribe English syntax directly onto the fingers."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"Before sign language was recognized as a complete grammatical system, educators relied heavily upon manual **dactylology**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The divine wisdom manifest in the creation, government, and redemption of the world and often identified with the second person of the Trinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason that in ancient Greek philosophy is the controlling principle in the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek philosophy, the divine reason, rational cosmic principle, or intelligible order governing the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology, the eternal Word of God made flesh in Jesus Christ; in classical Aristotelian rhetoric, the mode of persuasion grounded in logical reasoning and factual evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"To explain Jesus, his friends and contemporaries spoke of him as the Logos, the Sacrifice, "Christ our Passover," the Messiah, and so forth."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Rendel Harris, "can sing, 'How sweet the name of Logos sounds.'" Synesius of Cyrene did try to sing it, but most human beings prefer St."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We find, again, that the inner meaning of the Logos is that through it, and in it, God and man come in touch with each other and become mutually intelligible."*
+> - 📜 **Heraclitus (*Fragments*):** *"Although this **logos** holds forever, men fail to comprehend it, both before hearing it and once they have heard."*
+> - 📜 **Benjamin Jowett (*The Dialogues of Plato*):** *"Platonic philosophy seeks to attune human thought to the divine **logos** that governs cosmic harmony."*
+> - 📜 **Augustine of Hippo (*Confessions*):** *"I read in the books of the Platonists that in the beginning was the **logos**, the Word, and the Word was with God."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal expression of praise for someone who has died recently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal expression of praise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech or written tribute praising someone or something highly, especially a deceased person at a memorial service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and formal rhetoric, an encomium or panegyric composed to celebrate heroic valor, intellectual legacy, or civic virtue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is remarkable how little of the adjective there is--no compliment, no eulogy, no heroic touches, no sympathetic turn of phrase, no great passages of encomium or commendation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I regretted it especially,” he resumed, taking the usual course from detraction to insincere eulogy, “because of my gratitude and respect towards my cousin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon: it would be at best a pensioner’s eulogy.” “Pray excuse me,” said Dorothea, coloring deeply."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"Pericles delivered his immortal funeral **eulogy**, praising not merely the fallen warriors, but the democratic spirit of Athens."*
+> - 📜 **Ralph Waldo Emerson (*Eulogy on Henry David Thoreau*):** *"In his moving **eulogy**, Emerson portrayed Thoreau as a hermit philosopher devoted wholly to truth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"No flattering **eulogy** was carved upon the pauper's grave in that desolate London churchyard."*

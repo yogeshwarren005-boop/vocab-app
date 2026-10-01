@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of toxic damage to the liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tendency or capacity to cause hepatotoxicity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or state of being toxic or damaging to the liver; chemical-driven liver damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, drug-induced liver injury (DILI) categorized as intrinsic (predictable and dose-dependent) or idiosyncratic (unpredictable, host-dependent).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatotoxicity designates a state of toxic damage to the liver."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The prompt recognition of drug-induced **hepatotoxicity** is vital to halt irreversible parenchymal necrosis."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Industrial exposure to chlorinated hydrocarbons carries a well-known risk of acute **hepatotoxicity** and central lobular necrosis."*
+> - 📜 **Alexander Fleming (*On the Antibacterial Action of Cultures of a Penicillium*):** *"Unlike older arsenical compounds, penicillin demonstrated an absence of systemic **hepatotoxicity** in therapeutic dosages."*

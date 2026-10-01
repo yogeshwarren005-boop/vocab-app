@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cytoplasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cytoplasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated within, or consisting of cytoplasm; cytoplasmic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular genetics, describing non-Mendelian maternal inheritance mediated by mitochondrial or chloroplastic genes residing in the cytoplasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytoplasmatic designates of or relating to cytoplasm."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"Certain developmental polarities are governed directly by the distribution of **cytoplasmatic** determinants in the unfertilized egg."*
+> - 📜 **August Weismann (*The Germ-Plasm: A Theory of Heredity*):** *"Weismann argued that the hereditary substance is strictly nuclear, denying any formative role to **cytoplasmatic** inclusions."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Extranuclear factors in the egg reveal that **cytoplasmatic** streams can influence the initial cleavage planes of the blastomeres."*

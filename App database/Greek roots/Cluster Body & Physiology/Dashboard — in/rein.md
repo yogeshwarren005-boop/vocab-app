@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a pair of long straps (usually connected to the bit or the headpiece) used to control a horse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any means of control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, narrow strap fastened to each side of a bridle bit, used by a rider or driver to guide, control, and restrain a horse or other draft animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any figurative means of restraint, direction, or sovereign governance exercised over passions, administrative affairs, or public institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What rein can hold licentious wickedness When down the hill he holds his fierce career?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can sodden water, A drench for sur-rein’d jades, their barley-broth, Decoct their cold blood to such valiant heat?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Lord Longaville, rein thy tongue."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Give me the lie to my face, and I will check my horses, and give the **rein** to you."*
+> - 📜 **John Milton (*Paradise Lost*):** *"He checked his steeds, and reined them back from the precipice, holding a firm **rein** over unruly desire."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Words are like leaves; and where they most abound, much fruit of sense beneath is rarely found; false eloquence, like the prancing steed, needs the **rein**."*

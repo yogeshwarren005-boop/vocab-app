@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek omo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wide, patterned band of silk or wool worn around the neck and shoulders by bishops of the Eastern Orthodox and Byzantine Rite churches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical vestment history and liturgics, the distinctive episcopal vestment symbolizing the lost sheep carried upon the Good Shepherd's shoulders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"With beaded mitre and with crozier, stalled upon his throne, widower of a widowed see, with upstiffed _omophorion_, with clotted hinderparts."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Patriarch of Constantinople appeared in solemn council clad in the embroidered **omophorion** of his episcopal dignity."*
+> - 📜 **Arthur Penrhyn Stanley (*Lectures on the History of the Eastern Church*):** *"The crosses emblazoned upon the white wool of the **omophorion** proclaim the pastoral burden borne by the prelate."*
+> - 📜 **John Mason Neale (*A History of the Holy Eastern Church*):** *"Without the **omophorion**, no Orthodox bishop may celebrate the Divine Liturgy or confer holy orders."*

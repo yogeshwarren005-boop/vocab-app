@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enormous cosmopolitan family of perennial terrestrial or epiphytic plants with fleshy tubers or rootstocks and unusual flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enormous cosmopolitan family of perennial terrestrial or epiphytic plants with fleshy tubers or rootstocks and unusual flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and widespread family of monocotyledonous flowering plants, commonly known as the orchid family, noted for their bilateral floral symmetry and complex pollinia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, one of the two largest families of angiosperms, comprising over 28,000 species characterized by zygomorphic blossoms, rostellum, fused column (gynostegium), and minute dust seeds dependent on mycorrhizal fungi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchidaceae designates enormous cosmopolitan family of perennial terrestrial or epiphytic plants with fleshy tubers or rootstocks and unusual flowers."*
+> - 📜 **Charles Darwin (*Fertilisation of Orchids*):** *"No family in the plant kingdom exhibits such extraordinary floral modifications for cross-pollination as the **orchidaceae**."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The family **orchidaceae** is remarkable for the cohesion of its stamens and style into a single central column."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Tropical rainforest canopies in Assam support an astonishing variety of epiphytic species belonging to the **orchidaceae**."*

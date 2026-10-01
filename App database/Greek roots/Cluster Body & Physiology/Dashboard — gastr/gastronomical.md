@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to gastronomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to gastronomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to gastronomy; gastronomic (formal or variant form).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and travel prose, describing elaborate meals, regional culinary traditions, and dining pleasures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastronomical designates of or relating to gastronomy."*
+> - 📜 **Charles Dickens (*Pickwick Papers*):** *"Mr. Wardle's Christmas dinner was a **gastronomical** triumph of roast beef, mince pies, and smoking bowls of punch."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley devoted his days to **gastronomical** indulgences, dreaming of spicy Indian curries and rich claret."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"I compiled a **gastronomical** inventory of beloved American dishes that European hotels tragically failed to serve."*

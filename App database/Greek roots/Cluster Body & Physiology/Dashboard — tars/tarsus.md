@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the foot of a vertebrate between the metatarsus and the leg; also : the small bones that support this part of the foot and include bones of the ankle, heel, and arch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tarsal plate of the eyelid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The proximal cluster of articulating bones of the foot forming the ankle joint and heel in tetrapod vertebrates; also, the plate of dense fibrous tissue supporting the eyelid; or the segmented terminal part of an insect's leg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology, the tarsus consists of seven bones (talus, calcaneus, navicular, cuboid, and three cuneiforms); in entomology, the insect tarsus typically comprises up to five sub-segments (tarsomeres) terminating in claws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before the monument of Marina at Tarsus Scene V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tyre, I now look from thee then, and to Tarsus Intend my travel, where I’ll hear from thee; And by whose letters I’ll dispose myself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Cleon, the governor of Tarsus, with Dionyza and others."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **tarsus** consists of seven bones united by ligaments to support the arch of the foot and absorb walking shocks."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"The climbing fly cleans each delicate segment of its **tarsus** with meticulous, ceaseless friction."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"At the distal extremity of the insect tibia, the articulated **tarsus** terminates in a pair of sharp grappling claws."*

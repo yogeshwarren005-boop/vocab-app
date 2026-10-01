@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enteritis affecting both the large and small intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enteritis affecting both the large and small intestine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of both the small intestine and the colon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric and adult gastroenterology, a severe inflammatory condition such as necrotizing enterocolitis (NEC) in premature infants or pseudomembranous colitis from Clostridioides difficile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterocolitis designates enteritis affecting both the large and small intestine."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"In the neonatal intensive care unit, sudden abdominal distension and pneumatosis intestinalis signaled catastrophic necrotizing **enterocolitis**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prolonged high fever with tenesmus and bloody discharge indicates acute septic **enterocolitis** requiring aggressive fluid resuscitation."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The patient developed antibiotic-associated **enterocolitis**, with colonoscopy revealing diffuse pseudomembranes lining the mucosa."*

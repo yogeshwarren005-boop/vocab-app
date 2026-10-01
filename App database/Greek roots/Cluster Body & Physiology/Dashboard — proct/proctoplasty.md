@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reconstructive surgery of the anus or rectum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reconstructive surgery of the anus or rectum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastic or reconstructive surgery of the rectum or anus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric and colorectal surgery, operative reconstruction of the anorectal canal performed for congenital anorectal malformations (such as imperforate anus) or traumatic sphincter disruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proctoplasty designates reconstructive surgery of the anus or rectum."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Careful muscle-sparing **proctoplasty** restored complete fecal continence following severe obstetric laceration."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Neonatal **proctoplasty** is undertaken within forty-eight hours of birth to correct congenital imperforate anus."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Complex pelvic wound revisions frequently necessitate a secondary **proctoplasty** to re-establish the anal verge."*

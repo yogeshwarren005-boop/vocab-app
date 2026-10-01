@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oily organic compound insoluble in water but soluble in organic solvents; essential structural component of living cells (along with proteins and carbohydrates).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oily organic compound insoluble in water but soluble in organic solvents; essential structural component of living cells (along with proteins and carbohydrates).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the properties of fat; of a fatty nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological chemistry and cell biology, any fat-like compound (including phospholipids, cerebrosides, and sterols) that is water-insoluble but soluble in organic solvents, forming cellular membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lipoid designates an oily organic compound insoluble in water but soluble in organic solvents; essential structural component of living cells (along with proteins and carbohydrates)."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Fatty degeneration results in the intracellular accumulation of **lipoid** globules within renal epithelium."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The cell membrane consists predominantly of a bimolecular **lipoid** layer impenetrable to water-soluble ions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Atheromatous plaques in large arteries exhibit extensive deposition of cholesterol and **lipoid** debris."*

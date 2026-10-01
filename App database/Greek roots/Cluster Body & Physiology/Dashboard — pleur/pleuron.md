@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pleur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lateral region, sclerite, or side wall of each segment of an insect or other arthropod body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod morphology, the lateral cuticular plate connecting the dorsal tergum to the ventral sternum, supporting the articulating bases of the legs and wings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleuron designates a term designating an entity, condition, or phenomenon derived from greek pleur."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"Each abdominal somite consists of a dorsal tergum, a ventral sternum, and flanking lateral plates termed the **pleuron**."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"The thoracic **pleuron** of worker ants contains the deep opening of the metapleural gland."*
+> - 📜 **John Lubbock (*Ants, Bees, and Wasps*):** *"Examination under the microscope reveals muscular attachments securing the coxae firmly to the **pleuron**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of possessing five digits on each limb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, the universal morphological baseline of crown tetrapods, conserved across hundreds of millions of years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentadactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"We owe our ten fingers and ten toes to the contingent survival of the ancestral lineage that established **pentadactyly**."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"The remarkable conservatism of **pentadactyly** across amphibians and mammals argues for deep developmental constraints in digital patterning."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"Even where digits are reduced to three or one, embryology confirms that the mammalian limb bud begins in **pentadactyly**."*

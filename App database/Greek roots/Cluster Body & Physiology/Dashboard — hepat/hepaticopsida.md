@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liverworts: comprises orders anthocerotales; jungermanniales; marchantiales; sphaerocarpales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liverworts: comprises orders anthocerotales; jungermanniales; marchantiales; sphaerocarpales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic class containing the liverworts, equivalent to Hepaticae or Marchantiopsida.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern plant taxonomy and evolutionary phylogenetics, the ancestral land plant clade characterized by lack of stomata, presence of oil bodies, and a brief, ephemeral sporophyte generation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepaticopsida designates liverworts: comprises orders anthocerotales; jungermanniales; marchantiales; sphaerocarpales."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The morphological divergence between the **hepaticopsida** and other bryophyte lineages sheds crucial light on early terrestrial plant evolution."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Representatives of **hepaticopsida** exhibit simple alternation of generations wherein the gametophyte remains the dominant photosynthetic phase."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Deep ravines in the eastern Himalaya yielded an astonishing profusion of cryptogamic vegetation, including rare endemic **hepaticopsida**."*

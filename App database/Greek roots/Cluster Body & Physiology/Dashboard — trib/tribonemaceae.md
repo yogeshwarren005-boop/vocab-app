@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Simple filamentous freshwater yellow-green algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simple filamentous freshwater yellow-green algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of yellow-green algae (Xanthophyceae) in the order Tribonematales, typified by unbranched filamentous forms with bipartite H-shaped cell walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algal taxonomy, members of Tribonemaceae lack true starch (storing oil and chrysolaminarin) and possess discoid, parietal yellow-green plastids with an absence of fucoxanthin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribonemaceae designates simple filamentous freshwater yellow-green algae."*
+> - 📜 **William Henry Harvey (*Phycologia Britannica*):** *"Systematic phycologists separate the **Tribonemaceae** from green confervae by their unique lipid storage and cell wall architecture."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"The bipartite wall construction characteristic of the **Tribonemaceae** reflects a specialized mode of intercalary cell growth."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Filamentous yellow-green algae belonging to the **Tribonemaceae** proliferate profusely in vernal freshwater wetlands."*

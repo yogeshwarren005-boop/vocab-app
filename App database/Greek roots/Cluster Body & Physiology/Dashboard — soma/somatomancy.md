@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or character diagnosis based on the physical forms, proportions, features, or involuntary twitches of the human body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and occult traditions, somatomancy encompasses practices like physiognomy, metoposcopy, and phrenology that purported to reveal destiny or moral character from somatic markers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatomancy designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The vain pretensions of **somatomancy** seek to decipher future contingencies from trivial moles and bodily marks."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Archaic priests practiced **somatomancy**, inspecting bodily blemishes to select candidates for sacrificial purifications."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Like astrology, **somatomancy** illustrates that primitive habit of reading cosmic significances into accidental physical forms."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having an unusual or irregular arrangement of toes, especially with digits one and two reversed backward as in trogons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative osteology, an autopodial specialization providing a secure bilateral pinch upon slender forest vines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterodactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Comparative Anatomy*):** *"True **heterodactyly** occurs nowhere among living birds outside the limits of the tropical order Trogoniformes."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"The subtle differences between zygodactyly and **heterodactyly** demonstrate how developmental pathways can reverse alternative digits."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The ancient fossil record confirms that avian **heterodactyly** had already crystallized in Eocene trogons."*

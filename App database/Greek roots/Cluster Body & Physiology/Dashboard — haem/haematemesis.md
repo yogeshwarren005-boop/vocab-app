@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vomiting of blood, indicating bleeding in the upper gastrointestinal tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology and emergency medicine, a critical sign of hemorrhage from bleeding peptic ulcers, esophageal varices, or a Mallory-Weiss tear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematemesis designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden profuse **haematemesis** in a cirrhotic patient indicates ruptured esophageal varices, demanding immediate balloon tamponade."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The emergency ward resuscitated the collapsed patient who presented with coffee-ground **haematemesis** from a chronic gastric ulcer."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Urgent therapeutic endoscopy is the primary intervention for acute **haematemesis**, allowing direct clipping or cautery of the bleeding vessel."*

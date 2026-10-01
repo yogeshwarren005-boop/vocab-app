@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the biological study of the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to neurobiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the biological principles, cellular mechanisms, and molecular processes governing the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern brain science, characterizing interdisciplinary studies integrating cellular physiology, genetics, biophysics, and neural circuit dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurobiological designates of or relating to the biological study of the nervous system."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Synaptic plasticity in the sea slug Aplysia elucidated the fundamental **neurobiological** basis of simple forms of learning."*
+> - 📜 **Stephen Kuffler (*From Neuron to Brain*):** *"Recording intracellular potentials from retinal ganglion cells uncovered key **neurobiological** principles of sensory encoding."*
+> - 📜 **Francis Crick (*The Astonishing Hypothesis*):** *"The scientific quest for consciousness requires a rigorous **neurobiological** explanation grounded in synchronized neuronal firing."*

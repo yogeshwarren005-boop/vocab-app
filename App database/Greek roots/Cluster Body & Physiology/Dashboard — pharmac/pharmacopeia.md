@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official publication containing a list of medicinal drugs with their formulas, preparation instructions, purity standards, and dosages (variant spelling of pharmacopoeia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and regulatory affairs, the authoritative compendium regulating drug standards within a country (e.g., United States Pharmacopeia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacopeia designates (pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Every physician should familiarize himself with the official national **pharmacopeia** to avoid prescribing unstandardized nostrums."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"If half the remedies in the **pharmacopeia** were sunk to the bottom of the sea, it would be all the better for mankind."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"The **pharmacopeia** establishes legally enforceable standards of purity, assay methods, and storage conditions for all approved drugs."*

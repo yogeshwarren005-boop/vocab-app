@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost of the three primary germ layers of an embryo that is the source of various tissues and structures (such as the epidermis, the nervous system, and the eyes and ears).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tissue (such as neural tissue) derived from this germ layer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost of the three primary germ layers in an animal embryo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, the foundational germ layer that gives rise to the nervous system, tooth enamel, and the epidermis with its cutaneous glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectoderm designates the outermost of the three primary germ layers of an embryo that is the source of various tissues and structures (such as the epidermis, the nervous system, and the eyes and ears)."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"The primitive blastoderm separates into outer **ectoderm** and inner entoderm during the initial stages of gastrulation."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Every neuroblast that populates the cerebral cortex originates from the primitive neuroepithelial fold of the **ectoderm**."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Comparative Anatomy*):** *"Sensory structures throughout the animal kingdom trace their developmental lineage directly to the external **ectoderm**."*

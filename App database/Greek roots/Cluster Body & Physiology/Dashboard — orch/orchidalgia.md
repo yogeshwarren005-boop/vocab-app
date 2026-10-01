@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the testes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the testes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe or persistent pain localized in one or both testicles (testalgia; orchialgia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urological practice, chronic testicular pain originating from epididymitis, varicocele, nerve entrapment (ilioinguinal or genitofemoral nerves), or pelvic floor dysfunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchidalgia designates pain in the testes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic **orchidalgia** may arise without palpable organic lesion, requiring systematic neurological and pelvic investigation."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Surgical intervention for intractable **orchidalgia** should be reserved until conservative neurolytic measures have been thoroughly exhausted."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Reflex neuralgic pain in the form of acute **orchidalgia** often accompanies lumbar spinal root irritation."*

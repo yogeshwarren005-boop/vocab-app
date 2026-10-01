@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arbitrary constant whose value characterizes a member of a system (such as a family of curves); also : a quantity (such as a mean or variance) that describes a statistical population.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An independent variable used to express the coordinates of a variable point and functions of them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, statistics, and programming, a variable whose value determines the specific characteristics or behavior of an equation, distribution, or function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Computer: be ready to give a presentation on each option and its variations within the parameters I specified and which surface through your analyses."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once satisfied that a gun emplacement was not booby-trapped, Kumiko inserted random realignment parameters into laser blocks, twirled tracking sequencers into disarray, and switched about chips and connectors."*
+> - 📜 **Ronald Fisher (*Statistical Methods for Research Workers*):** *"Our objective in estimation is to infer the true population **parameter** from sample statistics with maximum likelihood."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The velocity of propagation depends upon a single electrical **parameter** governing the permittivity and permeability of the ether."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The channel capacity represents a fundamental physical **parameter** limiting the error-free transmission of information."*

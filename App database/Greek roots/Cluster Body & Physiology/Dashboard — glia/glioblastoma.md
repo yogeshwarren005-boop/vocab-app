@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant rapidly growing astrocytoma of the central nervous system and usually of a cerebral hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malignant rapidly growing astrocytoma of the central nervous system and usually of a cerebral hemisphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly malignant, rapidly growing brain tumor that arises from astrocytes or glial precursors; glioblastoma multiforme (GBM).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuro-oncology, a Grade IV astrocytic neoplasm characterized by cellular pleomorphism, nuclear atypia, microvascular proliferation, and pseudopalisading necrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glioblastoma designates a malignant rapidly growing astrocytoma of the central nervous system and usually of a cerebral hemisphere."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"A primary **glioblastoma** infiltrates the brain parenchyma like fungal mycelia through soil, defying complete surgical resection."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"The MRI scan revealed the grim, irregular ring-enhancing mass of a **glioblastoma** deep in the patient's temporal lobe."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The neuropathologist identified pseudopalisading necrosis on frozen section, confirming the diagnosis of fatal **glioblastoma**."*

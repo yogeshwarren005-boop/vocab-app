@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving movements of the eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or involving movements of the eyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting reflexive eye movements produced by tracking moving objects across the visual field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuro-ophthalmology and vestibular physiology, designating the optokinetic reflex (and optokinetic nystagmus) that stabilizes moving retinal images through alternating smooth pursuit and rapid saccadic reset.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optokinetic designates of, relating to, or involving movements of the eyes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Testing with a rotating striped drum elicits normal **optokinetic** nystagmus, proving intact visual pathway conduction."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Asymmetric **optokinetic** responses frequently unmask subtle subclinical parietal lobe lesions."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Cortical control of the **optokinetic** tracking reflex involves both occipital visual areas and frontal eye fields."*

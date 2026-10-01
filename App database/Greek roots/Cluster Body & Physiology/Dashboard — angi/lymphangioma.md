@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek angi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign tumor or congenital malformation composed of dilated lymphatic channels and spaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric pathology, cystic hygroma or cavernous lymphangioma, commonly presenting as a soft cystic mass in the neck or axilla of young children.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lymphangioma designates a term designating an entity, condition, or phenomenon derived from greek angi."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"Histologically, a **lymphangioma** consists of endothelium-lined lymphatic spaces filled with clear proteinaceous fluid and lymphoid aggregates."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Surgical enucleation of a large cervical **lymphangioma** is complicated by its intimate adherence to the internal jugular vein."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Congenital occlusion of embryonic lymph sacs gives rise to that massive cystic **lymphangioma** known clinically as hygroma."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The vascular, thick layer of the skin lying below the epidermis and above the superficial fascia that contains fibroblasts, macrophages, mast cells, B cells, and sensory nerve endings and has an extracellular matrix composed of proteoglycans and glycoproteins embedded with collagen and elastin fibers —called also corium, cutis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Layer of skin or tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dense inner layer of skin beneath the epidermis, comprising vascular connective tissue, nerve endings, sweat glands, and hair follicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cuticular physiology and biomechanics, the thick fibrous layer rich in type I and III collagen providing tensile strength and turgor to the integument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermis designates the vascular, thick layer of the skin lying below the epidermis and above the superficial fascia that contains fibroblasts, macrophages, mast cells, b cells, and sensory nerve endings and has an extracellular matrix composed of proteoglycans and glycoproteins embedded with collagen and elastin fibers —called also corium, cutis."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The deep vascular layer, or **dermis**, nourishes the overlying avascular epidermis and provides the physical bed for sensory corpuscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe thermal injury that penetrates through the full thickness of the **dermis** necessitates surgical debridement and grafting."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The boundary between the epithelial epidermis and the connective tissue **dermis** is marked by an undulant basement membrane."*

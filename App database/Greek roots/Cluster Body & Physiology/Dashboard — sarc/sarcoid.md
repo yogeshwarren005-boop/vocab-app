@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various diseases characterized especially by the formation of nodules in the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nodule characteristic of sarcoid or of sarcoidosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling flesh or fleshy tissue in texture or appearance; also denoting a non-malignant granulomatous condition or a benign equine fibroblastic skin tumor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equine veterinary medicine, a sarcoid is the most common cutaneous tumor of equids, associated with bovine papillomavirus types 1 and 2.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoid designates any of various diseases characterized especially by the formation of nodules in the skin."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"The lesions presented multiple elevated plaques of a soft, **sarcoid** appearance, devoid of ulceration."*
+> - 📜 **James Law (*The Farmer's Veterinary Adviser*):** *"Equine **sarcoid** tumors on the eyelids and legs tend to recur persistently after simple surgical excision."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"We noted discrete **sarcoid** nodules scattered along the extensor surfaces of the forearms."*

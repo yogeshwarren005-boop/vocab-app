@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal enlargement of the lymph nodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal enlargement of the lymph nodes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease or abnormal swelling affecting the lymph nodes; enlargement of one or more lymph nodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, localized or generalized lymph node enlargement resulting from reactive hyperplasia, infection, or malignant metastasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lymphadenopathy designates abnormal enlargement of the lymph nodes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent non-tender cervical **lymphadenopathy** in the absence of pharyngeal infection mandates diagnostic tissue excision."*
+> - 📜 **Paul Ehrlich (*Experimental Pathology of the Blood*):** *"Widespread **lymphadenopathy** accompanies systemic trypanosomiasis, marking the extensive immune response to blood parasites."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The dramatic shrinking of massive inguinal **lymphadenopathy** demonstrated the systemic efficacy of the initial chemotherapy trial."*

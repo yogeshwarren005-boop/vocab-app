@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the spleen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very irritable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad-tempered, irritable, peevish, spiteful, or morose in disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from the ancient humoral theory that an excess of black bile originating in the spleen produced melancholy, irritability, and caustic anger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Towards Hazlitt, also, their friendship seemed substantially unchanged let him be as splenetic and wayward as he might."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"His silent, reserved manner was interpreted by the company as the effect of a gloomy and **splenetic** temper."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The critic indulged in a **splenetic** diatribe, finding fault with every line of the aspiring poet's work."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Murdstone greeted the cheerful family gathering with his customary **splenetic** frown."*

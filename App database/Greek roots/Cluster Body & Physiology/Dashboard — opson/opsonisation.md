@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Process whereby opsonins make an invading microorganism more susceptible to phagocytosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process whereby opsonins make an invading microorganism more susceptible to phagocytosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process by which antigens or pathogenic bacteria are coated with immune proteins to enhance their engulfment by phagocytic cells (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular immunology, the mechanism whereby deposition of complement fragments and immunoglobulins on microbial surfaces promotes adherence to leukocyte surface receptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opsonisation designates process whereby opsonins make an invading microorganism more susceptible to phagocytosis."*
+> - 📜 **Almroth Wright (*Technique of the Teat and Capillary Glass Tube*):** *"Effective phagocytosis in vitro cannot proceed without previous **opsonisation** of the bacterial suspension by active serum."*
+> - 📜 **Macfarlane Burnet (*Natural History of Infectious Disease*):** *"Through **opsonisation**, circulating antibodies flag invasive microbes so that patrolling leucocytes may rapidly ingest them."*
+> - 📜 **Peter Medawar (*The Art of the Soluble*):** *"The efficiency of cellular immunity relies upon antibody-mediated **opsonisation** to neutralize virulence factors."*

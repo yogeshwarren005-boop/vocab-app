@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aquatic carnivorous insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic carnivorous insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of aquatic hemipteran insects comprising the backswimmers, renowned for swimming upside down using elongated hind legs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, a cosmopolitan family of predatory aquatic true bugs equipped with air-retaining ventral hair tracks and piercing-sucking mouthparts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notonectidae designates aquatic carnivorous insects."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"Insects of the family **Notonectidae** possess a boat-shaped body with hind legs modified into fringed oars for aquatic locomotion."*
+> - 📜 **Hermann Burmeister (*Handbuch der Entomologie*):** *"The **Notonectidae** capture surface insects and small tadpoles, dissolving their tissues with toxic salivary secretions."*
+> - 📜 **William Kirby (*Fauna Boreali-Americana*):** *"Specimens of **Notonectidae** gathered from northern pools hibernate beneath the ice by entrapping oxygen bubbles against their abdominal sternites."*

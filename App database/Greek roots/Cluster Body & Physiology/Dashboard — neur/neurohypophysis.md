@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior lobe of the pituitary body; primarily glandular in nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The posterior lobe of the pituitary body; primarily glandular in nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior lobe of the pituitary gland, consisting of nervous tissue and neurosecretory axonal endings derived from the diencephalon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroendocrinology, the neurohemal organ comprising the pars nervosa and infundibulum, which stores and releases oxytocin and antidiuretic hormone synthesized in the hypothalamus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurohypophysis designates the posterior lobe of the pituitary body; primarily glandular in nature."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Extracts from the **neurohypophysis** exert a profound pressor effect upon the vascular tree and control renal water excretion."*
+> - 📜 **Geoffrey Harris (*Neural Control of the Pituitary Gland*):** *"Axons originating in the supraoptic and paraventricular nuclei descend through the pituitary stalk to terminate within the **neurohypophysis**."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"Homeostatic regulation of blood osmolality depends directly upon the release of antidiuretic hormone from the vascularized **neurohypophysis**."*

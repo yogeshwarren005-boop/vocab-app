@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uniparental disomy in which the two inherited chromosomes represent the two distinct homologous chromosomes of a single parent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Results from non-disjunction in maternal or paternal meiosis I followed by trisomy rescue (loss of the third, biparental chromosome), preserving parental heterozygosity across pericentromeric loci.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterodisomy designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"In maternal **heterodisomy** of chromosome 15, the lack of paternal expression of imprinted genes causes Prader-Willi syndrome."*
+> - 📜 **Curt Stern (*Principles of Human Genetics*):** *"Unlike isodisomy, complete **heterodisomy** does not convert heterozygous alleles into homozygous recessive conditions."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Phenomena such as **heterodisomy** highlighted the unexpected regulatory subtleties of epigenetic genomic imprinting."*

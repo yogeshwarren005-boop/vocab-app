@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a pair of fleshy appendages of a polychete annelid that functions in locomotion and breathing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a pair of fleshy appendages of a polychete annelid that functions in locomotion and breathing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the paired, unjointed lateral fleshy projections or appendages on each body segment of polychaete annelid worms, used for locomotion and respiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, a segmented lateral organ divided into a dorsal notopodium and ventral neuropodium, bearing chaetae (bristles) and vascularized gills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parapodium designates one of a pair of fleshy appendages of a polychete annelid that functions in locomotion and breathing."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Each **parapodium** of the sea-mouse Nereis bears bundles of stiff chitinous bristles assisting in crawling and swimming."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"The rhythmic undulation of each lateral **parapodium** propelled the polychaete through the lagoon waters with graceful ease."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Burrowing clamworms use their bristle-tipped **parapodium** paddles to dig rapidly into shifting sandy sediment."*

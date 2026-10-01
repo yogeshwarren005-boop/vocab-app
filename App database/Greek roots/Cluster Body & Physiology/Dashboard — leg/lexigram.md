@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek leg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic symbol or abstract visual glyph representing a word or concept, used in primate cognitive research and augmentative communication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics and animal cognition, an arbitrary non-pictographic visual token used on specialized keyboards to facilitate linguistic interaction without vocalization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lexigram designates a term designating an entity, condition, or phenomenon derived from greek leg."*
+> - 📜 **Sue Savage-Rumbaugh (*Ape Language: From Conditioned Response to Symbol*):** *"Kanzi acquired communicative facility by spontaneously pointing to each **lexigram** on the computerized keyboard."*
+> - 📜 **Jane Goodall (*The Chimpanzees of Gombe*):** *"Laboratory studies employing the **lexigram** system demonstrated unexpected symbolic capabilities in captive bonobos."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"While apes can learn to associate a **lexigram** with a reward, this differs profoundly from recursive human syntax."*

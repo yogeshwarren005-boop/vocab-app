@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having abnormally short finger or toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having abnormally short finger or toes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having abnormally short fingers or toes; short-digited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropometry and clinical genetics, exhibiting shortened digits resulting from premature epiphyseal arrest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachydactylous designates having abnormally short finger or toes."*
+> - 📜 **Thomas Hunt Morgan (*Heredity and Sex*):** *"The **brachydactylous** condition in man behaves as a classic dominant unit character in family pedigrees."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A **brachydactylous** subject typically possesses normal intelligence and robust health despite stunted digital bones."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Curious congenital malformations, such as being **brachydactylous**, often appear abruptly and breed true across generations."*

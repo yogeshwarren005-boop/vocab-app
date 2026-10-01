@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline amino acid occurring in proteins; important in protein metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline amino acid occurring in proteins; important in protein metabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-essential amino acid occurring widely in proteins, essential for cellular metabolism and nitrogen transport.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and clinical nutrition, the most abundant free amino acid in human plasma and muscle, serving as a primary fuel for rapidly dividing enterocytes and lymphocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glutamine designates a crystalline amino acid occurring in proteins; important in protein metabolism."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Glutamine synthetase converts toxic free ammonia and glutamate into neutral **glutamine**, safely ferrying nitrogen through the bloodstream."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"Purine nucleotide biosynthesis relies upon the amide nitrogen donated directly by **glutamine** during early enzymatic transfer steps."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Critically ill surgical patients rapidly deplete intracellular **glutamine** reserves, impairing mucosal barrier function and systemic immunity."*

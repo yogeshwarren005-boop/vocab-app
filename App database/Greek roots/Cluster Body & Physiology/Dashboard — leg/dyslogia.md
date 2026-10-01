@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek leg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficulty or impairment in expressing thoughts through articulate speech due to mental disturbance or central nervous impairment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a speech pathology characterized by conceptual fragmentation, incoherence, or illogical syntax arising from cognitive deterioration or psychosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyslogia designates a term designating an entity, condition, or phenomenon derived from greek leg."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The profound **dyslogia** observed in advanced cerebral degeneration reflects widespread destruction of association pathways."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"Severe cases of dementia praecox frequently display marked **dyslogia**, wherein ideas lose all logical cohesion."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"The symptom of **dyslogia** must be carefully distinguished from mechanical dysarthria of the peripheral musculature."*

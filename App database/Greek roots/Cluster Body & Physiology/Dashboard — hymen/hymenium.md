@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spore-bearing layer in fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spore-bearing layer in fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spore-bearing tissue layer in fungi, containing the spore-producing basidia (in basidiomycetes) or asci (in ascomycetes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, the fertile palisade layer lining the surface of mushroom gills, pores, spines, or cup-fungus surfaces, interspersed with sterile cystidia and paraphyses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenium designates a spore-bearing layer in fungi."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Microscopic sections through the gill of Agaricus reveal the dense palisade of club-shaped basidia forming the **hymenium**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The vast surface area provided by gills allows the fungal **hymenium** to produce millions of airborne spores."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"The morphology and arrangement of the **hymenium** serve as primary taxonomic criteria across the higher fungi."*

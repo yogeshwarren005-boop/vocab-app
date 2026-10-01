@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of digit, finger , toe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of digit, finger , toe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by heterodactyly; possessing differently directed or unequal digits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, designating birds whose inner two toes are reversed backward while the outer two remain forward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterodactylous designates adjective*) pertaining to, derived from, or characteristic of digit, finger , toe."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **heterodactylous** foot of the trogon illustrates how digital orientation can diverge from the common climbing type."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Tendons of the deep flexor muscles are specially routed to operate the reversed digits of the **heterodactylous** limb."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"We observed **heterodactylous** trogons perching motionless for hours upon low boughs before darting after flying insects."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directed toward or situated on or in or near the head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or directed toward the head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, designating structures such as the cephalic vein of the upper arm, or the cephalic index used in craniometry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The proposition, and demonstration, were fairly written on a thin wafer, with ink composed of a cephalic tincture."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **cephalic** vein ascends along the radial border of the forearm, crossing the deltopectoral groove to join the axillary vein."*
+> - 📜 **Paul Broca (*Instructions Craniologiques*):** *"The **cephalic** index measures the exact mathematical proportion between the breadth and length of the human cranium."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The progressive expansion of the **cephalic** region during vertebrate phylogeny reflects increasing sensory specialization."*

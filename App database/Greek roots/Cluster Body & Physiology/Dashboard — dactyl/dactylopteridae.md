@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flying gurnards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flying gurnards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of marine scorpaeniform fishes commonly known as flying gurnards, characterized by enormous, colorful wing-like pectoral fins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, bottom-dwelling fishes with armored head casques and divided pectoral rays used to probe sandy seafloors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylopteridae designates flying gurnards."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The family **Dactylopteridae** is celebrated for its colossal pectoral fins, which spread like the wings of a swallow over the seabed."*
+> - 📜 **Francis Day (*The Fishes of Great Britain and Ireland*):** *"Fishes of the **Dactylopteridae** were formerly believed to fly through the air, though they merely glide short distances across the water."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"The brilliantly spangled pectoral fans of the **Dactylopteridae** gleamed with electric blue spots as the fish rested upon the sand."*

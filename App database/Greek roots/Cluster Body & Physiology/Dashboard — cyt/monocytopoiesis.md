@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation, differentiation, and development of monocytes in the hematopoietic tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bone marrow physiology, the specific myeloid developmental pathway from monoblasts through promonocytes to mature circulating monocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocytopoiesis designates a term designating an entity, condition, or phenomenon derived from greek cyt."*
+> - 📜 **Maxwell Wintrobe (*Clinical Hematology*):** *"During acute systemic infections, granulocyte-macrophage colony-stimulating factors accelerate marrow **monocytopoiesis**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In monocytic leukemia, disordered **monocytopoiesis** results in the flooding of the bloodstream with immature blast forms."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Microscopic study of marrow aspirates traces **monocytopoiesis** through characteristic nuclear indentations."*

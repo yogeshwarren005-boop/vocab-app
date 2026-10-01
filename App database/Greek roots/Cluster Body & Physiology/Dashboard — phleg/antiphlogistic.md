@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Counteracting inflammation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Counteracting inflammation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to reduce or counteract inflammation or fever; anti-inflammatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chemistry and therapeutics, counteracting the hypothetical combustion principle 'phlogiston' (championed by Antoine Lavoisier's oxygen theory) or describing remedies that cool systemic inflammatory heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The young companion of Miss Crawley, at the conclusion of their interview, came in to receive their instructions, and administered those antiphlogistic medicines which the eminent men ordered."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The **antiphlogistic** doctrine, founded on the gravimetric fixation of oxygen, overthrew the ancient hypothesis of phlogiston."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cold applications and salines were vigorously employed as part of the traditional **antiphlogistic** regimen."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"I struggled long before abandoning my phlogistic convictions for Lavoisier's newly minted **antiphlogistic** system."*

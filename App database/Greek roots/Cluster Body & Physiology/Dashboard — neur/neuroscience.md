@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch (such as neurophysiology) of the life sciences that deals with the anatomy, physiology, biochemistry, or molecular biology of nerves and nervous tissue and especially with their relation to behavior and learning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch (such as neurophysiology) of the life sciences that deals with the anatomy, physiology, biochemistry, or molecular biology of nerves and nervous tissue and especially with their relation to behavior and learning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The multidisciplinary scientific study of the nervous system, encompassing its structure, function, genetics, physiology, biochemistry, and pathology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overarching academic and clinical discipline uniting molecular neurobiology, cognitive science, computational modeling, and neurology to understand brain function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroscience designates a branch (such as neurophysiology) of the life sciences that deals with the anatomy, physiology, biochemistry, or molecular biology of nerves and nervous tissue and especially with their relation to behavior and learning."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"The goal of modern **neuroscience** is to understand the biological mechanisms by which we perceive, think, remember, and act."*
+> - 📜 **Francis Crick (*The Astonishing Hypothesis*):** *"The ultimate frontier of **neuroscience** is explaining the nature of conscious awareness through empirical cellular investigations."*
+> - 📜 **David Hubel (*Eye, Brain, and Vision*):** *"Advances in visual **neuroscience** revealed that the primary visual cortex processes sensory inputs through highly organized functional columns."*

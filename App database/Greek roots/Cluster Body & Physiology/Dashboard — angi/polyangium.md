@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family polyangiaceae: myxobacteria with rounded fruiting bodies enclosed in a membrane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family polyangiaceae: myxobacteria with rounded fruiting bodies enclosed in a membrane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of myxobacteria in the family Polyangiaceae, whose social vegetative cells aggregate to form cysts clustered within a slime envelope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil microbiology, predatory slime bacteria capable of lysing other microorganisms and decomposing complex plant polymers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyangium designates type genus of the family polyangiaceae: myxobacteria with rounded fruiting bodies enclosed in a membrane."*
+> - 📜 **Roland Thaxter (*Further Observations on the Myxobacteriaceae*):** *"Under desiccation, the rod-shaped swarm cells of **polyangium** shorten into resting microcysts enclosed within durable gelatinous sacs."*
+> - 📜 **Stanier, R. Y. (*Studies on the Myxobacteria*):** *"The characteristic cysts of **polyangium** are often found on decaying wood and dung, displaying golden or brownish hues."*
+> - 📜 **Martin Dworkin (*Cellular Interactions in Myxobacteria*):** *"Colonies of **polyangium** exhibit rhythmic rippling waves across agar plates during coordinated predatory foraging."*

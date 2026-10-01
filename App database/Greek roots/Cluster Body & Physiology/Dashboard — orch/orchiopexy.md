@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek orch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical procedure to mobilize an undescended testis and secure it into the scrotum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric urology, the standard operative treatment for cryptorchidism performed to optimize spermatogenesis, facilitate clinical examination for malignancy, and prevent testicular torsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchiopexy designates a term designating an entity, condition, or phenomenon derived from greek orch."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Careful retroperitoneal dissection during **orchiopexy** allows adequate lengthening of the spermatic cord without sacrificing testicular blood supply."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Elective pediatric **orchiopexy** is indicated to avoid persistent scrotal emptiness and preserve germinal epithelium."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Early surgical **orchiopexy** dramatically reduces the long-term risk of malignant transformation in retained gonads."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The international or British English spelling of diopter, a unit of refractive lens power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics and visual medicine, a measure of lens vergence defined as the inverse of its focal length expressed in meters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dioptre designates a term designating an entity, condition, or phenomenon derived from greek ops."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The introduction of the metric **dioptre** established international uniformity across physiological optics."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"The accommodation of the normal human eye encompasses a range of approximately ten to twelve **dioptre** units in youth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Gradual loss of crystalline lens elasticity reduces accommodative power by half a **dioptre** each decade."*

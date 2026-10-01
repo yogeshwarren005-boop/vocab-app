@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To come or go into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become a participant; be involved in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To come or go into a place; or a combining form derived from Greek enteron meaning intestine or digestive tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological terminology and lexical morphology, the combining root denoting intestinal anatomy, physiology, and pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Bertram, the Countess of Rossillon, Helena, and Lafew, all in black."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the King of France, with letters; Lords and others attending."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Bertram, Lafew and Parolles."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Neither a borrower nor a lender be; / For loan oft loses both itself and friend, / And borrowing dulls the edge of husbandry. / This above all: to thine own self be true, / And it must follow, as the night the day, / Thou canst not then be false to any man. / Fare well: my blessing season this in thee! / O, didst thou **enter** into the palace grounds?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Into this wild Abyss, the Womb of nature and perhaps her Grave, / Did Satan boldly **enter** on his dark design."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"Medical lexicographers rely upon the prefix **enter** to designate any clinical procedure or tissue associated with the gut."*

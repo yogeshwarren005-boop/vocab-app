@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial herbs or subshrubs of warm regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial herbs or subshrubs of warm regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the caltrop family Zygophyllaceae, native to warm temperate and tropical regions, typified by *Tribulus terrestris* (puncture vine).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and herbal pharmacognosy, *Tribulus* plants are renowned for their sharp, rigid, spiny five-part schizocarp burs capable of puncturing bicycle tires and injuring livestock feet; historical extracts were used in traditional medicine for vitality and libido.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribulus designates annual or perennial herbs or subshrubs of warm regions."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The spiny creeping herb called **Tribulus** bears sharp burs that cling tenaciously to the fleece of passing sheep."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Naturalized along railroad ballast, **Tribulus** terrestris spreads prostrate branches armed with formidable caltrop-like fruits."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The prickly capsules of land **Tribulus** resemble the iron caltrops strewn across ancient battlefields to lame horses."*

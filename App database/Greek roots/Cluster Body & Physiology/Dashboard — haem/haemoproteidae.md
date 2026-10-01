@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bird parasites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bird parasites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of parasitic protozoans in the order Haemosporida, related to Plasmodium and found as blood parasites in birds and other vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic protozoology, a family of apicomplexan parasites whose life cycles alternate between vertebrate hosts (where gametocytes develop within erythrocytes) and dipteran insect vectors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoproteidae designates bird parasites."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"Protozoa of the family **haemoproteidae** display life histories closely parallel to those of human plasmodia, transmitted by biting flies."*
+> - 📜 **Ronald Ross (*Memoirs*):** *"The pigmented parasites belonging to **haemoproteidae** enabled me to trace the transformation of flagellated bodies inside mosquito stomachs."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Within the order Haemosporidia, the **haemoproteidae** are distinguished by the absence of erythrocytic schizogony in peripheral blood."*

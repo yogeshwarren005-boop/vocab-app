@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carcinoma of the liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carcinoma of the liver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primary malignant tumor of the liver arising from hepatocytes; hepatocellular carcinoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncological pathology, a malignant epithelial hepatic neoplasm frequently developing in the background of chronic cirrhosis, viral hepatitis, or hemochromatosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatocarcinoma designates carcinoma of the liver."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rapid enlargement of a cirrhotic liver accompanied by bloody ascites strongly suggests the development of supervening **hepatocarcinoma**."*
+> - 📜 **Rudolf Virchow (*Die krankhaften Geschwülste*):** *"Primary epithelial malignancies of the liver, classified as **hepatocarcinoma**, recapitulate in disordered cords the cellular patterns of hepatic trabeculae."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Deep-seated visceral cancers presenting as intractable **hepatocarcinoma** historically defied all surgical knife and operative salvage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phalang.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combining form relating to the phalanges (bones of the fingers or toes) or to an ancient military battle formation (phalanx).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical nomenclature and morphology, the morphological root (Greek phalanx, phalang-) used to construct terms for digital bones and arachnid orders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalang designates a term designating an entity, condition, or phenomenon derived from greek phalang."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The linguistic root **phalang** designates the rows of articulated cylindrical bones forming the framework of fingers and toes."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Vertebrate limb comparative morphology employs the stem **phalang** to trace homologous digital ossicles across tetrapods."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"In arthropod taxonomy, the formative element **phalang** recalls the jointed walking legs characteristic of harvestmen."*

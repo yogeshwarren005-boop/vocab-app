@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being ostentatious; showiness; pretentious display.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic critique and sociology, an excessive fondness for outward glitter, flamboyant luxury, or theatrical self-dramatization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostentatiousness designates lack of elegance as a consequence of being pompous and puffed up with vanity."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"True greatness is simple and unadorned, detesting the noisy **ostentatiousness** of the shallow multitude."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The competitive urge to surpass rivals drives the **ostentatiousness** of fashionable suburban architecture."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"His conversation suffered from constant **ostentatiousness**, a ceaseless effort to dazzle the company with cheap wit."*

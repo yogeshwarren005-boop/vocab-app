@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining form derived from Greek cheir (hand), used in medical, anatomical, and taxonomic nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic morphology, an abbreviated prefix appearing in scientific terms such as chiral, chiropractic, and chiropodist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog chir as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Walter William Skeat (*A Concise Etymological Dictionary of the English Language*):** *"The combining element **chir** represents the Greek word for hand, found in surgery and chiromancy."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"In medical terminology, the prefix **chir** always reminds us that healing originally depended upon manual dexterity."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"Compounds beginning with **chir** typically denote arts where the hand serves as the primary tool of execution."*

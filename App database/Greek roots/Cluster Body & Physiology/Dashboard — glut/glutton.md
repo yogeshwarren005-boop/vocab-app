@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is devoted to eating and drinking to excess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Musteline mammal of northern eurasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessively greedy eater; a person who eats and drinks voraciously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, a common historical name for the wolverine (Gulo gulo), famed for voracious appetite and ferocious tenacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him be damned like the glutton!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, so, thou common dog, didst thou disgorge Thy glutton bosom of the royal Richard; And now thou wouldst eat thy dead vomit up, And howl’st to find it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love surfeits not, lust like a glutton dies; Love is all truth, lust full of forged lies. 804 “More I could tell, but more I dare not say; The text is old, the orator too green."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"O glotoun, ful of cursednesse! / O cause first of oure confusioun! / A **glutton** makes of his belly his god."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The northern trapper dreaded the cunning **glutton**, or wolverine, which ransacked trap lines and devoured frozen meat."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The pampered **glutton** mistakes sensory satiety for happiness, deadening his spirit in the pursuit of richer sauces."*

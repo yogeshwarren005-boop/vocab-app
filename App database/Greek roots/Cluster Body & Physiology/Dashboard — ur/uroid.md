@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to tail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to tail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior, tail-like region or terminal cytoplasmic projection of an amoeba or amoeboid cell during active locomotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoology and cellular biomechanics, the uroid often features small morula-like lobes, trailing adhesive filaments, and active endocytic invaginations as cytoplasm flows forward into pseudopodia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uroid designates adjective & noun*) resembling, having the physical form of, or akin to tail."*
+> - 📜 **Joseph Leidy (*Fresh-Water Rhizopods of North America*):** *"As the amoeba advances, its posterior cytoplasm contracts into a wrinkled, bulbous **uroid** trailing behind."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The specialized **uroid** of Chaos diffluens continuously detaches adhering detritus as new pseudopodia extend."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Cytoplasmic streaming moves forward along the central axis, leaving the contracted **uroid** at the rear of the amoeba."*

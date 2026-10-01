@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of one of both testes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence of one of both testes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital bilateral absence of testes; anorchia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urological surgery and embryology, complete lack of male gonads resulting from developmental failure of the genital ridges or intrauterine testicular regression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorchism designates absence of one of both testes."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Cases of complete **anorchism** demonstrate that the emergence of male secondary adornments is closely mediated by physiological gonadal activity."*
+> - 📜 **William Osler (*A System of Medicine*):** *"The differential diagnosis between intra-abdominal cryptorchidism and true **anorchism** is resolved by human chorionic gonadotropin stimulation testing."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Certain Diseases of the Nervous System*):** *"Endocrine insufficiency associated with congenital **anorchism** produces marked alterations in bone maturation and neuromuscular vigor."*

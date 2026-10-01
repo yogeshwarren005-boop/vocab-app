@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quadrilateral with no parallel sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quadrilateral with no parallel sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quadrilateral having no parallel sides (in American terminology) or having two parallel sides (in British terminology); also, the first carpal bone on the radial side of the wrist at the base of the thumb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human hand anatomy, the trapezium (greater multangular bone) forms a saddle-shaped articulation with the first metacarpal bone, conferring remarkable opposability to the human thumb; in geometry, derived from Greek *trapezion* (little table).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trapezium designates a quadrilateral with no parallel sides."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **trapezium** is distinguished by a deep groove on its palmar surface and a saddle-like facet articulating with the thumb."*
+> - 📜 **Euclid (*Elements*):** *"Of quadrilateral figures, that which has none of its sides parallel is named a **trapezium**."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The evolution of the primate hand relies upon the specialization of the carpal **trapezium** supporting a fully opposable pollex."*

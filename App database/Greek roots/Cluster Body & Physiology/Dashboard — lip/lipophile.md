@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of fat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of fat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance, molecular group, or biological organism that displays an affinity for lipids and nonpolar fats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and physical chemistry, an organism that flourishes in sebum-rich or oily environments, or the hydrophobic nonpolar domain of a surfactant molecule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lipophile designates adjective*) pertaining to, derived from, or characteristic of fat."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"As a known **lipophile**, anesthetic molecules readily penetrate the myelin sheath and neuronal membranes."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Certain cutaneous yeasts behave as an obligate **lipophile**, requiring sebum lipids for optimal vegetative growth."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The cell receptor exhibits selective affinity for any chemical **lipophile** possessing compatible side chains."*

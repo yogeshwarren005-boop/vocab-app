@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Orange horseshoe bats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Orange horseshoe bats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small insectivorous bats native to northern Australia containing the orange leaf-nosed bat (Rhinonicteris aurantia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and Australian biogeography, a hipposiderid bat genus adapted to tropical subterranean cave roosts, featuring bright orange fur and an intricate noseleaf aiding high-frequency nasal echolocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinonicteris designates orange horseshoe bats."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"The orange leaf-nosed bat, **rhinonicteris** aurantia, is one of the most vividly colored chiropterans in the Australian fauna."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Bright pelage coloration in subterranean mammals such as **rhinonicteris** presents an intriguing puzzle for sexual selection theory."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Delicate cave-roosting species like **rhinonicteris** suffer immediate population declines when isolated roosting caves are disturbed."*

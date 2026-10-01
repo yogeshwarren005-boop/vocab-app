@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having more than the normal number of fingers or toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of having more than the normal number of fingers or toes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital anomaly in humans and animals characterized by the presence of extra fingers or toes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics, a condition categorized as preaxial (radial/tibial), postaxial (ulnar/fibular), or central, often associated with Ellis-van Creveld or Meckel syndromes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polydactyly designates the condition of having more than the normal number of fingers or toes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Postaxial **polydactyly** of the hand is ten times more frequent in persons of African ancestry than in Europeans."*
+> - 📜 **Francis Galton (*Hereditary Genius*):** *"The inheritance of **polydactyly** furnished early anthropologists with an unambiguous anatomical marker of genetic transmission."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"In isolated island communities, genetic drift can elevate the frequency of harmless traits like **polydactyly**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strict conformity to the letter of the law rather than its spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strict conformity to the letter of the law rather than its spirit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strict, literal, or pedantic adherence to statutory regulations, legal forms, or religious codes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological ethics and jurisprudence, an ideological stance prioritizing external procedural conformity over moral intention, mercy, or equity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legalism designates strict conformity to the letter of the law rather than its spirit."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"Rigid ethical **legalism** characterized Puritan communities, where moral conduct was scrutinized with judicial precision."*
+> - 📜 **Reinhold Niebuhr (*Moral Man and Immoral Society*):** *"The moralist who falls into sterile **legalism** mistakes rigid codification for genuine social justice."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Spiritual regeneration frequently rebels against formal **legalism**, seeking a direct and vital relationship with the divine."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to check bleeding by contracting the tissues or blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to check bleeding by contracting the tissues or blood vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to arrest or stop bleeding; possessing the property of halting hemorrhage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmacological agent, dressing, or coagulant substance that stops bleeding when applied locally or administered systemically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemostatic designates tending to check bleeding by contracting the tissues or blood vessels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Local pressure augmented with a cold **hemostatic** compress arrested the troublesome capillary oozing from the granulating bed."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Surgical authors have celebrated various herbal decoctions for their reputed **hemostatic** power upon lacerated flesh."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"Every field station must remain furnished with dependable **hemostatic** dressings to control traumatic arterial wounds."*

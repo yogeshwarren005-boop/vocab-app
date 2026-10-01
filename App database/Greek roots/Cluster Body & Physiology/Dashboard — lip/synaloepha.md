@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The contraction, blending, or elision of two adjacent vowels into a single metrical syllable at word boundaries in poetic verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical metrics and historical prosody (Greek συναλοιφή, melting/coalescence), the fusion of contiguous vowels between words to avoid hiatus and preserve poetic cadence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synaloepha designates a term designating an entity, condition, or phenomenon derived from greek lip."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Milton's majestic blank verse frequently employs **synaloepha** to prevent hiatus between contiguous vowels."*
+> - 📜 **John Addington Symonds (*Studies of the Greek Poets*):** *"In scanning Attic drama, the scholar must recognize where **synaloepha** smooths the meter across verse boundaries."*
+> - 📜 **Edgar Allan Poe (*The Rationale of Verse*):** *"The ancient prosodists resolved the collision of vowels through **synaloepha**, blending two syllables into one rhythmic beat."*

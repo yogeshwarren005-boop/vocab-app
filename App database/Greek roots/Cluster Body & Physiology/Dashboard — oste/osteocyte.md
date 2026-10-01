@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mature bone cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mature bone cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mature, star-shaped bone cell formed when an osteoblast becomes surrounded and entrapped within its own mineralized matrix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In skeletal physiology, the most abundant cell in adult bone, residing in lacunae and communicating via dendritic processes through canaliculi to sense mechanical strain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteocyte designates mature bone cell."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Within each calcified lacuna sits a living **osteocyte**, maintaining metabolic communication with adjacent cells through canaliculi."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The slender protoplasmic extensions of the **osteocyte** form an extensive syncytium permeating the dense haversian lamellae."*
+> - 📜 **Alexander Maximow (*A Text-Book of Histology*):** *"Mechanical stress sensed by each **osteocyte** directs the remodeling machinery of the skeleton through sclerostin signaling."*

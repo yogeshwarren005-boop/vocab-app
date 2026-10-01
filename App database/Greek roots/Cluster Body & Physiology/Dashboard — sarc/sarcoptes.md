@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family sarcoptidae: itch mites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family sarcoptidae: itch mites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of parasitic arachnid burrowing mites in the family Sarcoptidae, notably *Sarcoptes scabiei*, the causative agent of scabies in humans and sarcoptic mange in animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary and human dermatology, fertilized female *Sarcoptes* mites burrow through the stratum corneum of the epidermis, depositing eggs and triggering intense pruritic hypersensitivity reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoptes designates type genus of the family sarcoptidae: itch mites."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic demonstration of the female **Sarcoptes** scabiei in epidermal scrapings establishes the diagnosis beyond dispute."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"The nocturnal pruritus caused by **Sarcoptes** responds promptly to sulphur inunctions and hot alkaline baths."*
+> - 📜 **James Law (*The Farmer's Veterinary Adviser*):** *"Sarcoptic mange, caused by **Sarcoptes** canis, rapidly denudes the skin and induces crusting dermatitis across the pack."*

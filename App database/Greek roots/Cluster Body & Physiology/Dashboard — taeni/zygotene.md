@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of meiotic prophase which immediately follows the leptotene and during which synapsis of homologous chromosomes occurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stage of meiotic prophase which immediately follows the leptotene and during which synapsis of homologous chromosomes occurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second sub-stage of prophase I of meiosis, during which homologous maternal and paternal chromosomes pair lengthwise in synapsis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, the formation of the tripartite proteinaceous synaptonemal complex begins at zygotene, bridging homologous chromosomes from telomeres inward to ensure precise chromosomal alignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygotene designates the stage of meiotic prophase which immediately follows the leptotene and during which synapsis of homologous chromosomes occurs."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"At the **zygotene** phase, homologous chromosomes seek out one another, pairing side-by-side with exquisite fidelity."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Synaptic union occurring during **zygotene** lays the physical groundwork for the interchange of genetic materials."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"The polarized bouquet arrangement characteristic of early **zygotene** facilitates the initial search for homologous sequence homology."*

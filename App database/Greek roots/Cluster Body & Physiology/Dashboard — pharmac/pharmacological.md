@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pharmacology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to pharmacology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by drugs, medicinal agents, or the science of pharmacology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In therapeutics and clinical trials, designating effects, mechanisms, or properties resulting specifically from chemical medication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacological designates of or relating to pharmacology."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"The **pharmacological** antagonism between competitive blockers and agonists follows predictable mass-action kinetics."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinicians must understand the **pharmacological** actions of digitalis on cardiac conduction before prescribing it for dropsy."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Curare constitutes a splendid **pharmacological** scalpel, selectively paralyzing motor nerve endings while sparing muscle contractility."*

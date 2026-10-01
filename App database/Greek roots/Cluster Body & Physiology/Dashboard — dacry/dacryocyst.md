@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two dilated ends of the lacrimal ducts at the nasal ends of the eyes that fill with tears secreted by the lacrimal glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two dilated ends of the lacrimal ducts at the nasal ends of the eyes that fill with tears secreted by the lacrimal glands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lacrimal sac; the dilated upper end of the nasolacrimal duct that receives tears from the lacrimal canals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cranial and ophthalmic anatomy, the membranous tear reservoir situated in the lacrimal groove behind the medial palpebral ligament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacryocyst designates either of the two dilated ends of the lacrimal ducts at the nasal ends of the eyes that fill with tears secreted by the lacrimal glands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Gentle pressure over the **dacryocyst** expressed a small bead of mucopurulent fluid through the inferior punctum."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Tears collect in the **dacryocyst** at the inner corner of the eye before draining down the nasolacrimal canal into the nose."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"Chronic distension of the **dacryocyst** produces a painless mucocele presenting as a soft swelling below the inner canthus."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to neurons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to neurons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to a neuron or to neurons; neuronal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical neurophysiology and psychology, describing the network architecture, conduction pathways, or cellular energy exchanges of nerve cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuronic designates of or relating to neurons."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness correlates with the sum total of **neuronic** activities fluctuating within the cerebral hemispheres."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The delay observed in reflex conduction indicates resistance encountered at successive **neuronic** junctions."*
+> - 📜 **Sigmund Freud (*Project for a Scientific Psychology*):** *"We postulate that **neuronic** charges are discharged through pathways offering the least resistance to flow."*

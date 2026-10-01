@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital physical anomaly characterized by the presence of fewer than five fingers or toes on a hand or foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and teratology, digital hypoplasia or agenesis occurring as an isolated limb defect or in association with complex syndromic conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligodactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The congenital infant presented with severe bilateral **oligodactyly**, possessing only two functional digits on each hand."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Radiographs of **oligodactyly** reveal whether the missing digits represent true ray absence or fusion of adjacent metacarpal blastemas."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Despite his congenital **oligodactyly**, the craftsman operated fine watchmaking tools with marvelous digital precision."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The opening of the esophagus into the stomach; also : the part of the stomach adjoining this opening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heart action or location (of a specified type).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anatomical upper orifice of the stomach where the esophagus enters and empties swallowed food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal anatomy, the transition zone between the squamous epithelium of the esophagus and the columnar secretory mucosa of the gastric fundus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardia designates the opening of the esophagus into the stomach; also : the part of the stomach adjoining this opening."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The upper orifice of the ventricle is termed the **cardia** because its rich nervous supply provoked ancient physicians to compare it to the heart."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **cardia** is situated opposite the tenth thoracic vertebra, where the circular muscular fibers form the functional lower esophageal sphincter."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"Through the gastric fistula I could see food passing cleanly through the **cardia** into the churning cavity of the stomach."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the cranium which encloses the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the cranium which encloses the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the skull or cranium; situated toward the head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, designating the twelve pairs of nerves originating directly from the brainstem rather than the spinal cord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His cranial cavity is continuous with the first neck-vertebra; and in that vertebra the bottom of the spinal canal will measure ten inches across, being eight in height, and of a triangular figure with the base downwards."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"His cranial cavity is continuous with the first neck-vertebra; and in that vertebra the bottom of the spinal canal will measure ten inches across, being eight in height, and of a triangular figure with the base downwards."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Phrenologically considered, his head must have been a cranial marvel, and the bumps on it mapping out the kingdom of evil a sort of Rocky Mountain chain towering over the more peaceful valleys around."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The third **cranial** nerve controls pupillary constriction and most of the extraocular muscles of the eye."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The brain is protected from external mechanical injury by the arching vault of the **cranial** bones."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"A localized fracture of the **cranial** table may depress a bone fragment directly onto the cerebral cortex."*

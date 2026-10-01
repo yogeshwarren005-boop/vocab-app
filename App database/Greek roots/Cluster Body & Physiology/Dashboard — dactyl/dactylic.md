@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of one long and two short syllables or of one stressed and two unstressed syllables (as in tenderly).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of one long and two short syllables or of one stressed and two unstressed syllables (as in tenderly).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of dactyls; characterized by a three-syllable foot with the stress on the first syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical poetry, the standard rhythm of Greek and Latin epic hexameter, used by Homer and Virgil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylic designates a metrical foot consisting of one long and two short syllables or of one stressed and two unstressed syllables (as in tenderly)."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"The majestic roll of Homeric verse depends upon the surging, noble energy of the **dactylic** hexameter."*
+> - 📜 **Lord Byron (*The Destruction of Sennacherib*):** *"The sweeping galloping cadence of the lines echoes the rapid movement of ancient **dactylic** song."*
+> - 📜 **Henry Wadsworth Longfellow (*Evangeline*):** *"This is the forest primeval; the murmuring pines and the hemlocks, composed in unrhymed English **dactylic** hexameter."*

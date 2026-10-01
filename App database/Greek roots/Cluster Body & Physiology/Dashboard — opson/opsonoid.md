@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to cook, prepare for eating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to cook, prepare for eating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An opsonin that has lost its phagocytosis-promoting capability through heat, aging, or chemical alteration while retaining its antigen-binding capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In serology, a modified or deactivated serum antibody analogous to a toxoid, capable of combining with target antigens without inducing active cellular ingestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opsonoid designates adjective & noun*) resembling, having the physical form of, or akin to cook, prepare for eating."*
+> - 📜 **Almroth Wright (*Studies on Immunisation*):** *"Subjecting heated serum to bacterial emulsions revealed the presence of an **opsonoid** that binds receptors without stimulating phagocytosis."*
+> - 📜 **Paul Ehrlich (*Collected Studies on Immunity*):** *"Just as toxins degrade into toxoids, active serum bacteriotropins may transform into an inert **opsonoid** state."*
+> - 📜 **William Bulloch (*The History of Bacteriology*):** *"Early serological debates focused on whether an **opsonoid** could block active opsonins by preemptively occupying bacterial binding sites."*

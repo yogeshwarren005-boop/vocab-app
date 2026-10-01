@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of pachyderms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of pachyderms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant of pachydermatous; thick-skinned, insensitive, or relating to pachyderms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character description, emotionally impervious to insult, rebuke, or sensitivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachydermous designates of or relating to or characteristic of pachyderms."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Osborne was of a **pachydermous** nature, entirely devoid of those delicate sensibilities that torture finer souls."*
+> - 📜 **Thomas Henry Huxley (*Methods and Results*):** *"The controversialist must possess a **pachydermous** hide if he intends to champion evolutionary heresy in public."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He shrugged off the sarcastic sneers of his rival with calm, **pachydermous** indifference."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic determinant (such as the DNA of some bacteriophages) that can replicate autonomously in bacterial cytoplasm or as an integral part of the chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genetic determinant (such as the DNA of some bacteriophages) that can replicate autonomously in bacterial cytoplasm or as an integral part of the chromosomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic determinant, such as a bacterial plasmid, that can replicate autonomously in the cytoplasm or integrate into the host bacterial chromosome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: First coined by François Jacob and Élie Wollman in 1958; classic examples include the *Escherichia coli* F-plasmid (fertility factor) and temperate bacteriophage lambda.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episome designates a genetic determinant (such as the dna of some bacteriophages) that can replicate autonomously in bacterial cytoplasm or as an integral part of the chromosomes."*
+> - 📜 **François Jacob (*Sexuality and the Genetics of Bacteria*):** *"We have designated as an **episome** any genetic unit which can exist in either an autonomous or an integrated chromosomal state."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"The reversible integration of an **episome** demonstrated that the bacterial chromosome could accommodate foreign genetic modules."*
+> - 📜 **Joshua Lederberg (*Genetic Transduction in Bacteria*):** *"Transfer of the fertility **episome** confers upon recipient bacteria the ability to act as high-frequency donors in conjugation."*

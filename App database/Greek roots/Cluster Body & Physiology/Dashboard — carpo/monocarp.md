@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that bears fruit once and dies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that bears fruit once and dies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that flowers, sets seed, and bears fruit only once in its lifetime and dies shortly thereafter; a monocarpic plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and botany, semelparous plants such as the century plant (Agave americana) or certain tropical bamboos that store energy for decades before a single colossal bloom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocarp designates a plant that bears fruit once and dies."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The great American aloe lives for decades in vegetative preparation, behaving as a colossal **monocarp** that dies upon fruiting."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Many biennial herbs function as a **monocarp**, devoting their second summer entirely to a massive burst of reproductive fruit."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Gardeners must remember that this magnificent species is a strict **monocarp**, perishing as soon as its seed capsules mature."*

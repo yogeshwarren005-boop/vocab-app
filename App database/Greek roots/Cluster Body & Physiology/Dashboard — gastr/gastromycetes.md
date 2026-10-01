@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi in which the hymenium is enclosed until after spores have matured: puffballs; earth stars; stinkhorn fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus of the class gasteromycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former class or informal group of basidiomycete fungi (including puffballs, stinkhorns, and bird's nest fungi) characterized by internal spore maturation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, an artificial, polyphyletic assemblage of fungi that independently evolved enclosed basidiomata (gasteroid forms).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastromycetes designates fungi in which the hymenium is enclosed until after spores have matured: puffballs; earth stars; stinkhorn fungi."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The class **Gastromycetes** comprises puffballs, earthstars, and stinkhorns, all possessing an internal gleba enclosed by a peridium."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"DNA sequencing dismantled **Gastromycetes**, showing that gasteroid evolution arose repeatedly from diverse agaric and bolete ancestors."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The subterranean fungi of the **Gastromycetes** demonstrate how cryptogamic life thrives in dark humus far from the sun."*

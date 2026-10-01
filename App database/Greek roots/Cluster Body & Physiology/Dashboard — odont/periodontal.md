@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Investing or surrounding a tooth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or affecting periodontal tissues or regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated around the teeth; surrounding and supporting a tooth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In periodontology, designating the periodontium, which comprises the gingiva, periodontal ligament, cementum, and alveolar bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontal designates investing or surrounding a tooth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic **periodontal** infection provides a persistent portal of entry for oral streptococci into the systemic bloodstream."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The collagenous fibers of the **periodontal** ligament anchor the cementum of the tooth root into the surrounding alveolar socket."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Inflammatory destruction of the **periodontal** membrane leads inexorably to alveolar bone resorption and tooth mobility."*

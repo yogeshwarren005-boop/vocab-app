@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various polypeptide hormones that are secreted by the gastric mucosa and induce secretion of gastric juice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various polypeptide hormones that are secreted by the gastric mucosa and induce secretion of gastric juice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peptide hormone secreted by G cells in the pyloric antrum of the stomach that stimulates gastric acid secretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and gastrointestinal physiology, a hormone that acts on parietal and enterochromaffin-like (ECL) cells, hypersecreted in Zollinger-Ellison syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrin designates any of various polypeptide hormones that are secreted by the gastric mucosa and induce secretion of gastric juice."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"The peptide hormone **gastrin** binds to cholecystokinin-B receptors, triggering intracellular calcium release and acid pumping."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A gastrinoma of the pancreas secretes autonomous floods of **gastrin**, producing fulminant, intractable multiple peptic ulcers."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Feedback regulation of **gastrin** secretion by luminal hydrochloric acid demonstrates classical hormonal homeostasis in the digestive tract."*

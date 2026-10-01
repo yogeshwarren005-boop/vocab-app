@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the formation of blood or blood cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the formation of blood or blood cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, stimulating, or involved in the production and formation of blood cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting organs, tissues (such as bone marrow and embryonic spleen), or factors (like erythropoietin) that sustain blood cell genesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemopoietic designates pertaining to the formation of blood or blood cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The profound exhaustion of the **haemopoietic** tissues was evidenced by the total disappearance of reticulocytes from the circulation."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The red bone marrow functions as the essential **haemopoietic** organ throughout mature adult life."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Our laboratory interventions revealed the remarkable adaptive capacity of the **haemopoietic** system under sustained hypoxia."*

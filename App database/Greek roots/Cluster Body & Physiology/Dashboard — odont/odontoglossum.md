@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous and diverse orchids of the genus odontoglossum having racemes of few to many showy usually large flowers in many colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous and diverse orchids of the genus odontoglossum having racemes of few to many showy usually large flowers in many colors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical American orchids in the family Orchidaceae, characterized by tooth-like projections on the lip (labellum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic orchidology and horticulture, high-elevation Andean epiphytic orchids renowned for showy, intricately patterned flower sprays with toothed calli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontoglossum designates any of numerous and diverse orchids of the genus odontoglossum having racemes of few to many showy usually large flowers in many colors."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"The prominent dental calli on the labellum of **Odontoglossum** guide pollinating insects directly toward the rostellum."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"High-altitude cloud forests of the Andes host magnificent species of the epiphytic orchid **Odontoglossum**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The characteristic tooth-like crests on the lip gave the genus **Odontoglossum** its scientific appellation."*

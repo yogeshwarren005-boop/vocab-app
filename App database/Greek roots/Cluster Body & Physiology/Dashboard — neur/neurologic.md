@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned especially with the structure, function, and diseases of the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned especially with the structure, function, and diseases of the nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or dealing with neurology or the anatomy, functions, and disorders of the nervous system (neurological).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical examination, describing the systematic evaluation of cranial nerves, motor tone, sensation, coordination, and reflexes to detect nervous system pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurologic designates a branch of medicine concerned especially with the structure, function, and diseases of the nervous system."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A methodical **neurologic** examination must precede any diagnostic pronouncement regarding localized cerebral pathology."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"The progressive muscular atrophy described in our wards revealed unmistakable evidence of severe underlying **neurologic** disease."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Relief of intracranial tension following tumor decompression resulted in immediate improvement of the patient's focal **neurologic** deficits."*

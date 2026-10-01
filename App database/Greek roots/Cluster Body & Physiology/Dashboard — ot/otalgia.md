@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the ear; earache.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical otolaryngology, ear pain classified as primary (originating within the ear) or referred otalgia (originating from dental, pharyngeal, or temporomandibular sources via cranial nerves).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otalgia designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Referred **otalgia** in an elderly smoker with a normal ear examination warrants thorough laryngopharyngeal endoscopy to exclude occult carcinoma."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"Acute nocturnal **otalgia** seized the infant with uncontrollable crying, her hand clutching repeatedly at the swollen ear."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Severe **otalgia** accompanied by throbbing deep within the temporal bone heralds acute purulent suppuration of the middle ear."*

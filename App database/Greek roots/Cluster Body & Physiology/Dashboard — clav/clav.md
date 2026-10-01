@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek clav.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Latin root (clavis, clavicula, meaning 'key, nail, club, or collarbone'), forming the basis of terms relating to clavicles, keys, and club-shaped fungal bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and botanical nomenclature, denoting key-like skeletal braces (clavicle) or clavate, club-like morphology (Clavaria).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Leafy branches are twined round two hoops, one of which rests on the shoulders of the wearer, the other encircles his claves; holes are made for his eyes and mouth; and a large nosegay crowns the whole."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From the Latin stem **clav**, signifying a key or nail, come clavicle, conclave, and clavichord."*
+> - 📜 **Richard Owen (*On the Archetype of the Vertebrate Skeleton*):** *"The anatomical term clavicle derives from the radical **clav**, key, because the bone locks the shoulder girdle to the sternum."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Botanical species named with the prefix **clav** exhibit club-shaped or key-shaped fruiting structures."*

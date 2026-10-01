@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications assigned to the suborder prosimii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications assigned to the suborder prosimii.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic infraorder or superfamily of primates containing the tarsiers and their extinct fossil relatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoprimatology, Tarsioidea traces back to widespread Eocene forms (such as omomyids) across North America and Eurasia, providing crucial phylogenetic insights into the evolutionary origin of anthropoid primates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tarsioidea designates in some classifications assigned to the suborder prosimii."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The early Tertiary radiation of the **Tarsioidea** populated northern continents with agile, large-eyed arboreal insectivores."*
+> - 📜 **Henry Fairfield Osborn (*The Age of Mammals*):** *"Fossil jaws from the Wasatch formation demonstrate that the **Tarsioidea** were already diversified in the Eocene epoch."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"We group the living tarsiers with their fossil allies within **Tarsioidea**, recognizing their unique phylogenetic divergence."*

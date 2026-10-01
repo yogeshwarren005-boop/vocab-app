@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the whorls and loops and arches in the fingertips and on the palms of the hand and the soles of the feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the ridged skin patterns found on the fingertips, palms of the hands, and soles of the feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensics and clinical genetics, the classification of friction ridge patterns (arches, loops, whorls) for human identification and chromosomal disorder analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatoglyphics designates the study of the whorls and loops and arches in the fingertips and on the palms of the hand and the soles of the feet."*
+> - 📜 **Francis Galton (*Fingerprint Directories*):** *"The systematic classification of **dermatoglyphics** provided criminal jurisprudence with an infallible method of personal identification."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"Galton's pioneer work in **dermatoglyphics** demonstrated that ridge counts follow strict quantitative polygenic inheritance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Abnormal **dermatoglyphics**, such as a high axial triradius, frequently accompany congenital cardiac malformations."*

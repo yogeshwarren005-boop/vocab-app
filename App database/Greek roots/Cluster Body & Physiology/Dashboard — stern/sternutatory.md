@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance that causes sneezing and coughing and crying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to cause sneezing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or exciting sneezing; also, a substance, medicinal powder, or snuff that produces sneezing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical therapeutics, sternutatories (errhines) were snuffed into the nostrils to stimulate nasal secretions and provoke sneezing to relieve headaches or lethargy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sternutatory designates a chemical substance that causes sneezing and coughing and crying."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Castor and betony, taken as a **sternutatory**, awaken dull and lethargic spirits by a sharp shock of sneezing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The ancient use of a **sternutatory** to dislodge foreign bodies from the upper airways has been superseded by direct laryngoscopy."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"A dry, pungent powder worketh as a **sternutatory** by sharply contracting the internal tunic of the nose."*

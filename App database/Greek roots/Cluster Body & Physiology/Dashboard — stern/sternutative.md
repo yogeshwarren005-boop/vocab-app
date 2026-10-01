@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing sneezing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing sneezing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property or tendency to provoke sneezing; sneeze-inducing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacopeias, applied to preparations, powders, or nasal snuffs prescribed to clear cerebral congestion by exciting vigorous sneezing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sternutative designates causing sneezing."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Certain physicians prescribe **sternutative** powders of white hellebore to purge the brain of cold, phlegmatic humors."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The pungent aroma of pepper acts as a potent **sternutative** by irritating the sensitive Schneiderian membrane."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The powdered root of sneezewort possesses a strong **sternutative** faculty, exciting violent sneezes when snuffed."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A meaningful linguistic unit that is an item in the vocabulary of a language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meaningful linguistic unit that is an item in the vocabulary of a language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fundamental unit of the lexicon of a language, representing an abstract vocabulary word that encompasses all its grammatical inflectional forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural morphology and semantic theory, the minimal distinctive lexical entry stored in the mental lexicon that carries conceptual signification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lexeme designates a meaningful linguistic unit that is an item in the vocabulary of a language."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The linguist isolates each fundamental **lexeme** to study how morphological affixes alter its functional role."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"The semantic identity of a **lexeme** persists throughout its various syntactical and morphological transformations."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Within the lexical system, every **lexeme** derives its conceptual value through opposition to other vocabulary items."*

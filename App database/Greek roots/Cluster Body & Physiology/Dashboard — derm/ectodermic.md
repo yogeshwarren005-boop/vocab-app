@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the ectoderm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the ectoderm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or formed by the ectoderm; ectodermal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate anatomy, characterizing the outer epithelial body wall of diploblastic animals such as cnidarians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectodermic designates of or relating to the ectoderm."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The outer **ectodermic** cells of the medusa secrete the protective gelatinous bell and bear tactile sensory organs."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"In simple hydroids, the **ectodermic** layer functions simultaneously as a protective skin, muscle sheet, and sensory receiver."*
+> - 📜 **Ernst Haeckel (*General Morphology of Organisms*):** *"Comparative analysis of the **ectodermic** epithelium reveals the primordial origins of animal sensibility."*

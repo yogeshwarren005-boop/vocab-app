@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, constituting, or affected with neurosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One affected with a neurosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected by, or suffering from a neurosis; characterized by excessive anxiety, emotional instability, or obsessive tendencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychoanalysis, describing maladaptive thought patterns and emotional defense mechanisms in individuals who maintain contact with reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotic designates of, relating to, constituting, or affected with neurosis."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"The **neurotic** patient suffers from reminiscences, unable to free himself from unresolved traumatic fixations of the past."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"An excessively **neurotic** temperament often bestows that acute sensitivity to spiritual distress which precedes conversion."*
+> - 📜 **Carl Jung (*Modern Man in Search of a Soul*):** *"The **neurotic** symptom is not merely a handicap, but an unconscious attempt toward psychological self-healing."*

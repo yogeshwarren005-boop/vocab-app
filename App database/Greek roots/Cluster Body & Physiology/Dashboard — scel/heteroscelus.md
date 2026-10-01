@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tattlers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tattlers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus (now usually treated as a subgenus of *Tringa*) of medium-sized migratory shorebirds in the sandpiper family Scolopacidae, commonly known as tattlers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, *Heteroscelus* (such as the wandering tattler *Tringa incana* and grey-tailed tattler *Tringa brevipes*) are characterized by unpatterned gray plumage, sturdy yellow legs, and rock-foraging habits along coastal shores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog heteroscelus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The genus **Heteroscelus** is distinguished among scolopacids by its uniquely reticulated tarsal scutellation and rocky foraging preference."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"Along wave-swept reefs, **Heteroscelus** brevipes runs actively over boulders, probing crevices for small crabs and mollusks."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"The wandering tattler, referred by early systematists to **Heteroscelus**, nests near alpine gravel streams of the far north."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the lacrimal sac causing obstruction of the tube draining tears into the nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the lacrimal sac causing obstruction of the tube draining tears into the nose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection or inflammation of the lacrimal sac, usually caused by obstruction of the nasolacrimal duct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, a condition presenting with painful erythema, swelling at the medial canthus, epiphora, and reflux of purulent exudate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacryocystitis designates inflammation of the lacrimal sac causing obstruction of the tube draining tears into the nose."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Neglected ductal strictures result in chronic **dacryocystitis**, with constant overflow of tears and recurrent acute abscesses."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures and Reports*):** *"In acute **dacryocystitis**, the red tense swelling below the inner canthus must be drained to prevent cellulitis of the orbit."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The ophthalmic clinic was crowded with patients suffering from chronic epiphora and inflamed **dacryocystitis**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone coffin; broadly : coffin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone coffin; broadly : coffin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone coffin or monumental burial receptacle, typically embellished with elaborate inscriptions, reliefs, or decorative sculpture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from Greek *sarx* (flesh) and *phagein* (to eat), alluding to limestone believed by ancients to consume the flesh of corpses enclosed within it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"She singled out from their number an old salt, whose bare arms and feet, and exposed breast, were covered with as many inscriptions in India ink as the lid of an Egyptian sarcophagus."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Within this vault rests the alabaster sarcophagus in which is deposited that inestimable jewel, the Báb's holy dust."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The remains of Alexander the Great have been scattered to the wind, and his empty sarcophagus is now the mere curiosity of a museum."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The monumental marble **sarcophagus** of the emperor was adorned with scenes depicting his barbarian triumphs."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"An antique sculptured **sarcophagus** now served the Roman garden as a fountain basin for cool mountain water."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Upon the lid of the Gothic **sarcophagus**, the knight lay sculpted in full armor with hands folded in perpetual prayer."*

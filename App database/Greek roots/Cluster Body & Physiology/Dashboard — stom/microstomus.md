@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of pleuronectidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of pleuronectidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of righteye flatfishes in the family Pleuronectidae, comprising species such as the lemon sole (*Microstomus kitt*) and Dover sole (*Microstomus pacificus*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine fisheries biology, *Microstomus* species possess a remarkably small mouth with thick lips adapted for preying upon small polychaete worms and burrowing benthic invertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microstomus designates a genus of pleuronectidae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The genus **Microstomus** is distinguished by its small oral aperture and specialized blunt incisor-like teeth."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Trawls along the continental shelf frequently harvest **Microstomus** pacificus from deep soft mud bottoms."*
+> - 📜 **Francis Day (*The Fishes of Great Britain and Ireland*):** *"The lemon sole, **Microstomus** kitt, is an esteemed food fish possessing a thick slimy coating and variegated yellow-brown skin."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek leg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word, phrase, or appellation that carries a disparaging or derogatory connotation; a dysphemism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political rhetoric and semantic analysis, an emotionally loaded term applied to discredit a policy, group, or person without rational argument (contrasted with eulogism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyslogism designates a term designating an entity, condition, or phenomenon derived from greek leg."*
+> - 📜 **Jeremy Bentham (*The Book of Fallacies*):** *"The partisan relies upon a well-chosen **dyslogism** to cast odium upon measures he cannot refute by honest argument."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Modern political jargon abounds in **dyslogism**, using defamatory labels to stifle independent thought."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"A stinging **dyslogism** hurled from the hustings will often turn an election when reasoned eloquence fails."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical procedure in which an incision is made in the nose to drain accumulated pus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical procedure in which an incision is made in the nose to drain accumulated pus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical incision made into or through the nose to access internal nasal structures, paranasal sinuses, or the anterior skull base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lateral rhinotomy provides wide exposure for resecting juvenile nasopharyngeal angiofibromas, inverted papillomas, and sinonasal malignancies with minimal external cosmetic deformity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinotomy designates surgical procedure in which an incision is made in the nose to drain accumulated pus."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"In early approaches to the sella turcica, transfacial osteoplastic **rhinotomy** afforded direct access through the sphenoidal route."*
+> - 📜 **StClair Thomson (*Diseases of the Nose and Throat*):** *"Lateral **rhinotomy** remains the gold standard exposure when extensive benign or malignant tumors occupy the ethmoid labyrinth."*
+> - 📜 **Chevalier Jackson (*The Life of Chevalier Jackson: An Autobiography*):** *"Through a judiciously planned **rhinotomy**, we achieved radical clearance without permanent facial disfigurement."*

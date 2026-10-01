@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to vision or the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to vision or the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the eye or the sense of sight; visual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, designating the optic nerve (cranial nerve II), optic chiasm, optic tract, or optic radiation transmitting visual signals to the occipital cortex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"There lands the Fiend, a spot like which perhaps Astronomer in the Sun’s lucent Orbe Through his glaz’d Optic Tube yet never saw."*
-> - 📜 **John Milton (*Paradise Lost*):** *"The broad circumference Hung on his shoulders like the moon, whose orb Through optic glass the Tuscan artist views At evening, from the top of Fesole, Or in Valdarno, to descry new lands, Rivers, or mountains, in her spotty globe."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"At the other end of the scale is the optic artist, the painter and sculptor."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **optic** nerve pierces the sclera and choroid at the posterior pole of the eyeball to form the optic disc."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Secondary **optic** atrophy inevitably follows unaddressed chronic intracranial papilledema."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Retinal ganglion cell axons converge into the **optic** nerve, coursing toward the lateral geniculate body."*

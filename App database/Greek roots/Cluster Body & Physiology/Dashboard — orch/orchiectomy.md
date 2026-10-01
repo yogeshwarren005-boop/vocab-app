@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of one or both testes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of one or both testes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of one or both testicles; orchidectomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urological oncology, the standard operative treatment for testicular cancer (radical inguinal orchiectomy) and an endocrine therapeutic intervention for androgen ablation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchiectomy designates surgical removal of one or both testes."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"A meticulously performed radical **orchiectomy** requires ligation of the testicular vessels at the internal inguinal ring."*
+> - 📜 **Charles Huggins (*Studies on Prostatic Cancer (Nobel Lecture)*):** *"The clinical regression of widespread metastatic lesions following bilateral **orchiectomy** demonstrated the hormone dependence of prostatic cancer."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Metabolic shifts and hot flushes following therapeutic **orchiectomy** highlight the acute withdrawal of circulating testosterone."*

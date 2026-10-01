@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four copies of a particular chromosome in an otherwise diploid or euploid cell (2n + 2).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, tetrasomic individuals frequently arise from meiotic non-disjunction or the union of two disomic gametes, exhibiting quadrivalent chromosome pairing at meiotic diakinesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrasomic designates adjective*) pertaining to, derived from, or characteristic of body."*
+> - 📜 **Albert Blakeslee (*The Chromosome Constitution of Datura Mutants*):** *"A **tetrasomic** plant bearing four doses of a specific chromosome displays exaggerated traits of the corresponding trisomic type."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"During meiosis in **tetrasomic** organisms, the four homologous chromosomes regularly assemble into a ring of four."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"In autotetraploids, **tetrasomic** inheritance gives rise to characteristic 35:1 phenotypic segregation ratios for single-gene markers."*

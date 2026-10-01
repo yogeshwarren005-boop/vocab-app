@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide entertainment for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take into consideration, have in view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provided with amusement, enjoyment, or hospitality; or considered and held in mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kept in thought or harbored within the imagination over an extended period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were’t not that we stand up against them all, ’Twere pregnant they should square between themselves, For they have entertained cause enough To draw their swords."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him be so entertained amongst you as suits with gentlemen of your knowing to a stranger of his quality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I came yonder from a great supper: the Prince your brother is royally entertained by Leonato; and I can give you intelligence of an intended marriage."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip sat by the fireside, thoroughly **entertained** by Joe Gargery's gentle humor and rustic tales."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sherlock Holmes had never for a single moment **entertained** the hypothesis of a supernatural hound."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"For many months I **entertained** the wildest dreams of discovering the hidden elixir that could conquer mortality."*

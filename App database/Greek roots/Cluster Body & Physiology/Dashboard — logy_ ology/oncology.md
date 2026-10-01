@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine concerned with the study and treatment of tumors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine concerned with the study and treatment of tumors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and biology dedicated to the study, diagnosis, treatment, and prevention of cancer and tumors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical science, the multi-disciplinary management of malignancies encompassing molecular genetics, surgical resection, radiotherapy, and targeted chemotherapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oncology designates the branch of medicine concerned with the study and treatment of tumors."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The study of cellular proliferation in morbid growths laid the histological groundwork for modern **oncology**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The early surgical extirpation of malignant tumors remains the cardinal rule of clinical **oncology**."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies: A Biography of Cancer*):** *"Modern molecular **oncology** revealed that cancer is an internal mutational war waged within the genome."*

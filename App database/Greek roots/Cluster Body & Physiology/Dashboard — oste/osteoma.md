@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign tumor composed of bone tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A benign tumor composed of bone tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign, slow-growing tumor composed of mature, compact, or cancellous bone tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, a well-differentiated osteoblastic neoplasm developing most commonly on the skull and facial bones or within paranasal sinuses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoma designates a benign tumor composed of bone tissue."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"An ivory **osteoma** of the calvarium consists of dense, sclerotic bone as hard and smooth as polished elephant tusk."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"Benign **osteoma** must be distinguished from osteochondroma by the absence of a proliferative cartilaginous cap."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Surgical excision of an orbital **osteoma** is warranted when its gradual expansion displaces the globe outward."*

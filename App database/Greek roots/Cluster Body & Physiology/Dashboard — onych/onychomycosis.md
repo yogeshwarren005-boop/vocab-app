@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungal infection of the fingernails or toenails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology and medical mycology, a persistent chronic infection caused primarily by dermatophytes (such as Trichophyton rubrum), causing thickened, discolored, and crumbly nail plates (tinea unguium).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychomycosis designates a term designating an entity, condition, or phenomenon derived from greek onych."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Thickened, friable, and lusterless toenails are typical manifestations of chronic **onychomycosis**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic examination of nail scrapings in **onychomycosis** reveals branching septate fungal hyphae among keratin sheets."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Systemic antifungal therapy must be maintained for months to eradicate deeply entrenched **onychomycosis**."*

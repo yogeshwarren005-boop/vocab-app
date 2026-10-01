@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring blood pressure and especially arterial blood pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring blood pressure and especially arterial blood pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical diagnostic instrument for measuring arterial blood pressure, typically consisting of an inflatable pneumatic cuff, a measuring gauge (mercury column or aneroid dial), and an inflation bulb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduced in its modern circular-cuff form by Italian physician Scipione Riva-Rocci in 1896 and popularized in surgical and clinical practice by Harvey Cushing in the early twentieth century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphygmomanometer designates an instrument for measuring blood pressure and especially arterial blood pressure."*
+> - 📜 **Harvey Cushing (*On Routine Determinations of Arterial Tension in Operating Room and Clinic*):** *"Routine intraoperative use of the **sphygmomanometer** provides the surgeon with instant warning of impending surgical shock."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician should regularly verify arterial pressure with the **sphygmomanometer** to detect latent hypertensive vascular disease."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"When the pneumatic armlet of the **sphygmomanometer** is deflated, the reappearance of radial pulsations marks the systolic pressure."*

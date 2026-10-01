@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument with lighting and magnifying systems used for visual examination of the tympanic membrane and the canal connecting it to the exterior of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument with lighting and magnifying systems used for visual examination of the tympanic membrane and the canal connecting it to the exterior of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical medical instrument equipped with a light source, magnifying lens, and speculum, used for examining the external auditory canal and tympanic membrane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, a handheld instrument (often with a pneumatic bulb attachment) used to inspect the ear canal and assess tympanic membrane mobility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otoscope designates an instrument with lighting and magnifying systems used for visual examination of the tympanic membrane and the canal connecting it to the exterior of the body."*
+> - 📜 **Joseph Toynbee (*The Diseases of the Ear*):** *"By introducing the speculum of the **otoscope** under reflected light, the pearly translucence of the normal tympanic membrane is revealed."*
+> - 📜 **Adam Politzer (*A Text-Book of the Diseases of the Ear*):** *"The illuminated electric **otoscope** converted ear examination from a cumbersome laboratory procedure into a swift routine bedside test."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"No pediatric examination for unexplained fever is complete until the physician has inspected both drumheads with the **otoscope**."*

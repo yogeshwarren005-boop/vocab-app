@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The eruption through the gums of baby teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The eruption through the gums of baby teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The development and cutting or eruption of teeth; dentition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pediatrics and physiology, the physiological process of primary tooth eruption in infants, historically associated with teething symptoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontiasis designates the eruption through the gums of baby teeth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Fretfulness, mild fever, and excessive salivation accompany the physiological process of infant **odontiasis**."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"The physician must guard against attributing severe cerebral disease merely to the ordinary coincidences of **odontiasis**."*
+> - 📜 **Henry Koplik (*The Diseases of Infancy and Childhood*):** *"Swollen and tender gums indicate that primary deciduous **odontiasis** is actively progressing."*

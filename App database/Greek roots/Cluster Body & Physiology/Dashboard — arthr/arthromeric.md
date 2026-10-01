@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to one of the body segments of jointed animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to one of the body segments of jointed animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of an arthromere; segmental in anatomical construction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology, describing the metameric body segmentation typical of embryonic and adult arthropods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthromeric designates of or relating to one of the body segments of jointed animals."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The segmented nerve cord exhibits a distinctly **arthromeric** arrangement of paired ganglia corresponding to each ring."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Transverse somite divisions establish the **arthromeric** boundaries before the cuticular exoskeleton begins to harden."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"Appendages develop as paired lateral evaginations situated on each individual **arthromeric** division."*

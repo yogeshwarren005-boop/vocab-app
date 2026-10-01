@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek brachi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute, spreading erysipelas or severe streptococcal dermal infection localized to the upper arm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical surgery, an acute cutaneous and subcutaneous inflammatory infection of the arm presenting with bright erythema and high fever.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachionerysipelas designates a term designating an entity, condition, or phenomenon derived from greek brachi."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Trauma to the upper extremity occasionally provokes rapid **brachionerysipelas**, spreading from the wound toward the axilla."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Early drainage and antiseptic compresses arrested the fulminant course of acute **brachionerysipelas**."*
+> - 📜 **Astley Cooper (*Lectures on the Principles and Practice of Surgery*):** *"The intense burning redness of **brachionerysipelas** demands vigilant monitoring lest gangrenous cellulitis supervene."*

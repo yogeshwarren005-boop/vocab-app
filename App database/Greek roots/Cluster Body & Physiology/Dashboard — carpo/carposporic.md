@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a carpospore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling a carpospore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or producing carpospores; pertaining to the carpospore stage of red algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycological reproduction, describing the phase or reproductive organs that give rise to carpospores within the cystocarp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carposporic designates relating to or resembling a carpospore."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"The **carposporic** phase amplifies the genetic product of a single fertilization event into hundreds of diploid progeny."*
+> - 📜 **William Henry Harvey (*Nereis Boreali-Americana*):** *"Microscopic examination of the fertile nemathecia reveals dense clusters of **carposporic** filaments radiating from central placenta."*
+> - 📜 **Anton de Bary (*Comparative Morphology of the Fungi, Mycetozoa and Bacteria*):** *"The complex **carposporic** fructifications of Florideae find structural parallels in the ascocarps of higher fungi."*

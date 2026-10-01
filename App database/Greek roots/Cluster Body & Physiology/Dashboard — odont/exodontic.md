@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving exodontics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving exodontics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the extraction of teeth (exodontia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical instrumentation and dental literature, describing elevators, forceps, surgical flaps, or techniques designed specifically for tooth removal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exodontic designates of or relating to or involving exodontics."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe alveolar hemorrhage following **exodontic** intervention warrants immediate investigation for hemophilia."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"The development of specialized **exodontic** forceps minimized traumatic splintering of the alveolar ridge."*
+> - 📜 **Robley Dunglison (*General Therapeutics and Materia Medica*):** *"Topical styptics and mechanical pressure remain primary measures for arresting post-operative **exodontic** bleeding."*

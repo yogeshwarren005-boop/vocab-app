@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eider ducks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eider ducks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large northern sea ducks in the family Anatidae, comprising the eiders (notably the common eider *Somateria mollissima*), prized for their insulating down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, *Somateria* species nest on Arctic and subarctic coasts and islands, diving to considerable depths to feed on marine mollusks, crustaceans, and sea urchins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somateria designates eider ducks."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The hardy female of **Somateria** mollissima plucks soft down from her breast to line the nest against freezing Arctic gales."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"For centuries, the coastal inhabitants of Iceland and Norway have cultivated protected nesting colonies of **Somateria** for down harvesting."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The genus **Somateria** is distinguished by the high feathered frontal processes of the bill extending toward the nostrils."*

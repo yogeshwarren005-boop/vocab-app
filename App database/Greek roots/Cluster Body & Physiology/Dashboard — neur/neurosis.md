@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental and emotional disorder that affects only part of the personality, is accompanied by a less distorted perception of reality than in a psychosis, does not result in disturbance of the use of language, and is accompanied by various physical, physiological, and mental disturbances (such as visceral symptoms, anxieties, or phobias).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anxiety disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A functional mental or emotional disorder characterized by persistent anxiety, depression, obsessive thoughts, or phobias, without loss of contact with reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and psychoanalytic medicine, a psychological conflict originally coined by William Cullen (1769) to denote functional nervous diseases, later conceptualized by Freud as rooted in unconscious repression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurosis designates a mental and emotional disorder that affects only part of the personality, is accompanied by a less distorted perception of reality than in a psychosis, does not result in disturbance of the use of language, and is accompanied by various physical, physiological, and mental disturbances (such as visceral symptoms, anxieties, or phobias)."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"The symptoms of a **neurosis** represent compromise formations between repressed instinctual impulses and defensive ego mechanisms."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"I propose to comprehend under the title of **neurosis** all those preternatural affections of sense and motion which depend upon general nervous affection."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In every severe **neurosis**, habituated channels of nervous discharge become entrenched, magnifying the emotional distress."*

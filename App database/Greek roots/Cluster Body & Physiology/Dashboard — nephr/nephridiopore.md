@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nephr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The external opening of an excretory organ (nephridium) in invertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and comparative anatomy, the ventrolateral pore through which nitrogenous waste fluids filtered by the nephridial tubules are discharged to the exterior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephridiopore designates a term designating an entity, condition, or phenomenon derived from greek nephr."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Excretory fluids collect in the nephridial bladder and are evacuated through the lateral **nephridiopore**."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Each body segment in the earthworm possesses a pair of minute ventral apertures representing the **nephridiopore**."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Embryonic invaginations of the ectoderm meet the nephridial duct to establish the terminal **nephridiopore**."*

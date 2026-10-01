@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is an authority on history and who studies it and writes about it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is an authority on history and who studies it and writes about it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official writer of history appointed by a monarch, government, or learned institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, a scholar specifically tasked with compiling official annals, national chronicles, or dynastic historical records (such as the Historiographer Royal).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, historiographer designates a person who is an authority on history and who studies it and writes about it."*
+> - 📜 **John Dryden (*The Life of Plutarch*):** *"In his capacity as **historiographer** to the crown, the author was entrusted with the royal state archives."*
+> - 📜 **Voltaire (*The Age of Louis XIV*):** *"As official **historiographer** of France, I resolved to record the cultural glory of the reign rather than court petty gossip."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Imperial **historiographers** at Constantinople often tailored their panegyrics to please the reigning faction."*

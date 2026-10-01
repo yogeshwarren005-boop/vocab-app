@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek orch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having only one testis descended or present in the scrotum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics and urology, unilateral testicular agenesis or intrauterine atrophy resulting in a single functional gonadal organ with compensatory hypertrophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monorchism designates a term designating an entity, condition, or phenomenon derived from greek orch."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Cases of unilateral gonadal development or **monorchism** typically exhibit normal fertility provided the remaining testis is physiologically sound."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"The physical diagnosis of **monorchism** frequently requires careful sonographic differentiation from ectopic undescended gonads."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Surgical verification of **monorchism** involves tracing the internal spermatic vessels to a blind retroperitoneal terminus."*

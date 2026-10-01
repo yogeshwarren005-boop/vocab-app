@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The pharmacological determination of appropriate doses of drugs and medicines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pharmacological determination of appropriate doses of drugs and medicines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of pharmacology and medicine concerned with the determination of appropriate doses of medicines or drugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical therapeutics and veterinary science, the quantitative calculation of therapeutic drug regimens tailored to patient body surface area, age, or metabolic rate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, posology designates the pharmacological determination of appropriate doses of drugs and medicines."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful attention to **posology** prevents the toxic accumulation of digitalis in susceptible cardiac patients."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica and Therapeutics*):** *"The laws of **posology** require adjustment according to the age, sex, temperament, and idiosyncrasy of the subject."*
+> - 📜 **Robley Dunglison (*General Therapeutics and Materia Medica*):** *"In determining the rules of **posology**, the physician must weigh both the therapeutic power of the agent and the tolerance of the organism."*

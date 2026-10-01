@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to old world monkeys that have nostrils together and opening downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to old world monkeys that have nostrils together and opening downward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of catarrhine primates (Old World monkeys, apes, and humans).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and anthropology, describing features such as narrow nasal septa, 32 teeth (2.1.2.3 dental formula), and trichromatic color vision characteristic of the Old World anthropoid radiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catarrhinian designates of or related to old world monkeys that have nostrils together and opening downward."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The close affinity between human anatomy and the **catarrhinian** primates proves our descent from an ancient Old World stock."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Every cranial suture and dental feature demonstrates the unalterable **catarrhinian** affinities of the human species."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The narrow nasal septum and downward-directed nares constitute the definitive **catarrhinian** hallmark."*

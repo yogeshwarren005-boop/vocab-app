@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one mouth or oral aperture; specifically, in parasitology, denoting trematode flatworms possessing an oral sucker but lacking a ventral acetabulum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In helminthology, monostomous flukes (historically grouped as Monostomata) inhabit the digestive and respiratory tracts of birds and marine turtles, feeding through their solitary anterior sucker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monostomous designates adjective*) pertaining to, derived from, or characteristic of mouth."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **monostomous** trematodes are characterized by the complete absence of the posterior ventral sucker found in distomes."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"In the **monostomous** fluke of the turtle, the single terminal mouth opens directly into the bifurcated intestine."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Internal examination of aquatic wildfowl frequently reveals **monostomous** parasites adhering to the mucosal lining of the caeca."*

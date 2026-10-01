@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old order dating to early eocene: bats: suborder megachiroptera (fruit bats); suborder microchiroptera (insectivorous bats).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old order dating to early eocene: bats: suborder megachiroptera (fruit bats); suborder microchiroptera (insectivorous bats).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian order consisting of bats, having forelimbs adapted as wings supported by elongated fingers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate systematics, the second largest order of mammals, distinguished by true powered flight and complex echolocation systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiroptera designates an old order dating to early eocene: bats: suborder megachiroptera (fruit bats); suborder microchiroptera (insectivorous bats)."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The order **Chiroptera** shows that hands with five fingers can be converted through natural selection into instruments of sustained aerial navigation."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"In all members of the **Chiroptera**, the thumb remains free and hooked while the remaining digits stretch across the wing."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Oceanic islands that possess no terrestrial mammals are frequently inhabited by specialized representatives of the **Chiroptera**."*

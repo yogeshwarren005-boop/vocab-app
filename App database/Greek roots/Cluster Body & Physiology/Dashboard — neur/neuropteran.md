@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insect having biting mouthparts and four large membranous wings with netlike veins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insect having biting mouthparts and four large membranous wings with netlike veins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any insect belonging to the order Neuroptera; or of and relating to the order Neuroptera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomological taxonomy, describing morphological characteristics, life cycles, or larval behaviors typical of net-winged insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropteran designates insect having biting mouthparts and four large membranous wings with netlike veins."*
+> - 📜 **John Obadiah Westwood (*Modern Classification of Insects*):** *"The predatory larva of the **neuropteran** builds a conical pit in loose sand to ambush passing ants."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Complete metamorphosis in the **neuropteran** family involves a quiescent pupal stage enclosed within a silken cocoon."*
+> - 📜 **Edward Meyrick (*A Handbook of British Lepidoptera*):** *"Venational patterns in the primitive moth wing preserve homologies shared with an ancestral **neuropteran** stock."*

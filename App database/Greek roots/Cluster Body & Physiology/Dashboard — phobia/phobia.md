@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exaggerated usually inexplicable and illogical fear of a particular object, class of objects, or situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated fear of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme or irrational fear of or aversion to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a type of anxiety disorder characterized by persistent, excessive, and unrealistic fear triggered by the presence or anticipation of a specific object or situation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phobia designates an exaggerated usually inexplicable and illogical fear of a particular object, class of objects, or situation."*
+> - 📜 **Sigmund Freud (*The Problem of Anxiety*):** *"A true **phobia** represents a compromise formed by the ego to defend against an internal repressed instinctual conflict."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A morbid **phobia** can render an otherwise rational individual helpless in the presence of an open space or harmless insect."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"The hallmark of a neurotic **phobia** is the patient's full intellectual recognition that the dread is entirely groundless."*

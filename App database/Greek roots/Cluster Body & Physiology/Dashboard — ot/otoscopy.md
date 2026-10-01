@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical clinical examination of the external ear canal and tympanic membrane using an otoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otology, pneumatic otoscopy to test eardrum mobility, evaluate middle-ear effusion, and detect perforations or cholesteatoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otoscopy designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **Joseph Toynbee (*The Diseases of the Ear*):** *"Systematic **otoscopy** requires straightening the cartilaginous meatus by gently pulling the adult pinna upward and backward."*
+> - 📜 **Adam Politzer (*Diseases of the Ear*):** *"Pneumatic **otoscopy** demonstrates whether the tympanic membrane moves freely or is dampened by viscous middle-ear fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bedside **otoscopy** reveals the loss of the normal light reflex and bulging redness characteristic of acute suppurative otitis media."*

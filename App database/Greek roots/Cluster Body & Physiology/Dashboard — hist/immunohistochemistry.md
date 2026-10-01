@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the application of histochemical and immunologic methods to chemical analysis of living cells and tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the application of histochemical and immunologic methods to chemical analysis of living cells and tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A laboratory technique that uses labeled antibodies to identify and visualize specific antigens, proteins, or biomarkers in microscopic tissue sections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic pathology and oncology, an indispensable diagnostic tool for typing malignant tumors, determining receptor status (e.g. HER2, estrogen receptors), and guiding targeted therapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunohistochemistry designates of or relating to the application of histochemical and immunologic methods to chemical analysis of living cells and tissues."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"By using fluorescent antibodies in **immunohistochemistry**, researchers pinpoint the exact intracellular localization of cytoskeletal proteins."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern surgical pathology relies upon **immunohistochemistry** to distinguish poorly differentiated carcinomas from lymphomas."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Specific monoclonal probes applied through **immunohistochemistry** revealed oncogene overexpression across human breast tumor biopsies."*

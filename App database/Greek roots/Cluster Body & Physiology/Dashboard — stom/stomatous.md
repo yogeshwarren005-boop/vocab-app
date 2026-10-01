@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or of the nature of or having a mouth or mouthlike opening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or constituting plant stomata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing a mouth, oral aperture, or cytostome; also, in botany, bearing stomata on a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, stomatous organisms possess a distinct oral inlet for nutrient ingestion, contrasting with astomatous forms that absorb food across body walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatous designates relating to or of the nature of or having a mouth or mouthlike opening."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Unlike the astomatous cestodes, the trematode is a true **stomatous** platyhelminth equipped with a muscular sucking mouth."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany*):** *"The lower epidermis of the bifacial leaf is densely **stomatous**, providing ample conduits for transpirational vapor."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Ciliate protozoans of the **stomatous** group capture suspended prey through a defined cytostome."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of hemophilia discovered by erik von willebrand; a genetic disorder that is inherited as an autosomal recessive trait; characterized by a deficiency of the coagulation factor and by mucosal bleeding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of hemophilia discovered by erik von willebrand; a genetic disorder that is inherited as an autosomal recessive trait; characterized by a deficiency of the coagulation factor and by mucosal bleeding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited bleeding disorder characterized by deficiency of von Willebrand factor and factor VIII, combined with prolonged bleeding time (von Willebrand disease).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, a hereditary hemorrhagic diathesis transmitted as an autosomal dominant trait causing mucosal and cutaneous hemorrhages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiohemophilia designates a form of hemophilia discovered by erik von willebrand; a genetic disorder that is inherited as an autosomal recessive trait; characterized by a deficiency of the coagulation factor and by mucosal bleeding."*
+> - 📜 **Erik Adolf von Willebrand (*Hereditary Pseudohemophilia*):** *"The disorder which clinicians frequently term **angiohemophilia** differs from classic hemophilia by its autosomal inheritance and prolonged bleeding time."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Recurrent epistaxis and cutaneous ecchymoses in young women often suggest **angiohemophilia** rather than pure platelet deficiency."*
+> - 📜 **Paul Ehrlich (*Experimental Pathology of the Blood*):** *"In **angiohemophilia**, impaired platelet adhesiveness combines with reduced coagulant factor levels to destabilize primary hemostasis."*

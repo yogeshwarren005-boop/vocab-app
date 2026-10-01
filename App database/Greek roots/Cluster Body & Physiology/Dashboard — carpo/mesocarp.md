@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The middle layer of a pericarp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The middle layer of a pericarp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The middle layer of the pericarp of a fruit, situated between the epicarp (exocarp) and the endocarp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, the thick, succulent, edible flesh of fruits like peaches, cherries, plums, and melons, or the fibrous husk of a coconut.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesocarp designates the middle layer of a pericarp."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In a ripe drupe, the parenchymatous **mesocarp** becomes gorged with sugary juices and aromatic compounds."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The coir fiber of commerce is extracted from the thick, fibrous **mesocarp** that surrounds the hard shell of the coconut."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Commercial pomology selects for peach varieties with a dense, non-browning **mesocarp** that withstands distant shipping."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of anthropology that deals with the division of humankind into races and with their origins and distribution and distinctive characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of anthropology that deals with the division of humankind into races and with their origins and distribution and distinctive characteristics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the characteristics of various peoples and the differences and relationships between them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic anthropology, the comparative and theoretical branch that analyzes ethnographic data to formulate cross-cultural generalizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hobley, _Ethnology of A-Kamba and other East African Tribes_ (Cambridge, 1910), p. 65. [68] Rev."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kroeber, "The Religion of the Indians of California," _University of California Publications in American Archaeology and Ethnology_, vol. iv."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Swanton, _Contributions to the Ethnology of the Haida_ (Leyden and New York, 1905), pp. 48-50 (_The Jesup North Pacific Expedition, Memoir of the American Museum of Natural History_, New York)."*
+> - 📜 **Claude Lévi-Strauss (*Structural Anthropology*):** *"If ethnography is the field observation of a culture, **ethnology** is the comparative science that synthesizes these observations into general laws."*
+> - 📜 **Franz Boas (*The Mind of Primitive Man*):** *"Modern **ethnology** establishes that human achievements depend on historical circumstance rather than innate racial genius."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The science of **ethnology** organizes the arts, beliefs, and morals of mankind into orderly developmental series."*

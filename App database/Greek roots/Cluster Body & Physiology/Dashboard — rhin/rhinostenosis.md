@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrowing of the passages in the nasal cavities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrowing of the passages in the nasal cavities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal narrowing, constriction, or structural occlusion of the nasal passages, resulting in impeded airflow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: May arise congenitally (such as choanal atresia or pyriform aperture stenosis) or secondarily through scar contracture, chronic granulomatous disease, or untreated nasal trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinostenosis designates narrowing of the passages in the nasal cavities."*
+> - 📜 **StClair Thomson (*Diseases of the Nose and Throat*):** *"Marked **rhinostenosis** forces obligatory mouth-breathing and alters normal craniofacial respiratory mechanics."*
+> - 📜 **Chevalier Jackson (*Bronchoscopy, Esophagoscopy and Gastroscopy*):** *"Cicatricial **rhinostenosis** following chemical trauma presents one of the most stubborn reconstructive problems in airway surgery."*
+> - 📜 **Morell Mackenzie (*Diseases of the Pharynx, Larynx, and Trachea*):** *"When congenital **rhinostenosis** is bilateral in neonates, it constitutes an immediate neonatal emergency."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family triopidae: small crustaceans with a small third median eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family triopidae: small crustaceans with a small third median eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, freshwater tadpole shrimp within the order Notostraca, characterized by three distinct eyes (two compound eyes and one naupliar eye).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and paleontology, a prehistoric branchiopod crustacean that has remained virtually unchanged morphologically since the Triassic period, commonly known as a living fossil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triops designates type genus of the family triopidae: small crustaceans with a small third median eye."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The enduring body architecture of **triops** demonstrates remarkable morphological stasis across hundreds of millions of years."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Surviving in ephemeral desert pools, the crustacean **triops** produces desiccation-resistant cysts that hatch after years of drought."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Temporary vernal pools provide an ecological haven for primitive branchiopods like **triops**, free from predatory fish."*

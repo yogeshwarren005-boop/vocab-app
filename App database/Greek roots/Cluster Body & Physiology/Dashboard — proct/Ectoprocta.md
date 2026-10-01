@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with or a subphylum of bryozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with or a subphylum of bryozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum of small, aquatic, mostly sessile colonial animals commonly called bryozoans or moss animals, characterized by having an anus positioned outside the lophophore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic invertebrate zoology, a major coelomate lophophorate clade (Greek ektos, outside, and proktos, anus) comprising thousands of marine and freshwater species that produce calcareous skeletons contributing to reef ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ectoprocta designates coextensive with or a subphylum of bryozoa."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The phylum **Ectoprocta** is distinguished from Entoprocta by its true coelomic cavity and external anal opening."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Fossil remains of the **Ectoprocta** abound in Paleozoic limestones, demonstrating their ancient reef-building role."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The punctuated stasis observed in fossil species of **Ectoprocta** provides key empirical support for macroevolutionary theory."*

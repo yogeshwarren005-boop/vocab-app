@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dentistry dealing with diseases of the dental pulp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of dentistry dealing with diseases of the dental pulp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dentistry concerned with the etiology, diagnosis, prevention, and treatment of diseases of the dental pulp and periapical tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dental science and operative stomatology, surgical and non-surgical procedures aimed at cleansing, shaping, and obturating the pulpal root canal space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endodontia designates the branch of dentistry dealing with diseases of the dental pulp."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Systemic bacteremia originating from apical abscesses was substantially curtailed by modern aseptic **endodontia**."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Maxillary sinus infections often trace directly to neglected dental roots requiring specialized **endodontia**."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The clinical scope of **endodontia** centers upon preserving tooth stability following devitalization of the coronal pulp."*

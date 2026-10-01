@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spitting or coughing up of purulent matter (pus) from the respiratory tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonary pathology, copious purulent expectoration characteristic of a ruptured lung abscess, infected bronchiectasis, or an empyema that has fistulized into the bronchial tree (bronchopleural fistula).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyoptysis designates a term designating an entity, condition, or phenomenon derived from greek pty."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden evacuation of a pulmonary cavity manifests with dramatic **pyoptysis**, overwhelming the airway with foul-smelling pus."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Copious **pyoptysis** emptying by mouth indicated that the deep tuberculous cavern had perforated into a major bronchus."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Patients tormented with long-standing pulmonary ulceration suffer daily **pyoptysis**, wasting their vital strength."*

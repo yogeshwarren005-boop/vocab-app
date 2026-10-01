@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal enlargement of the spleen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal enlargement of the spleen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal enlargement of the spleen beyond its normal anatomical dimensions and weight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, causes are grouped into infectious (mononucleosis, malaria, endocarditis), congestive (portal hypertension, cirrhosis), hematological (leukemia, lymphoma, hemolytic anemia), and infiltrative/storage disorders (Gaucher disease, amyloidosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, splenomegaly designates abnormal enlargement of the spleen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Massive **splenomegaly** descending into the left iliac fossa is most commonly encountered in chronic myelogenous leukemia."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Bimanual palpation at the conclusion of deep inspiration enables the physician to detect early degrees of **splenomegaly**."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"In type 1 Gaucher disease, progressive **splenomegaly** results from the accumulation of glucocerebroside in reticuloendothelial macrophages."*

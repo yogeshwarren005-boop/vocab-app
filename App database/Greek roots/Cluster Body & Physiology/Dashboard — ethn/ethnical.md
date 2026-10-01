@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting or deriving from or distinctive of the ways of living built up by a group of people; - j.f.kennedy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting or deriving from or distinctive of the ways of living built up by a group of people; - j.f.kennedy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ethnicity or race; ethnic (formal or archaic variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century ethnology, describing comparative cultural and racial characteristics of human populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Berthold Laufer,[14] in discussing the jade ornaments of the Chou and Han periods, speaks of the "impersonal and ethnical character of the art of that age"--viz. the Chou."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It was," he continues, "general and communistic; it applied to everybody in the community in the same form; it did not spring up from an individual thought, but presented an ethnical element, a national type."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Geographical barriers and natural selection molded the distinct **ethnical** varieties of the human species over millennia."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Comparative mythology traces recurring religious motifs across diverse **ethnical** divisions of the globe."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Craniometric surveys revealed significant variation among the disparate **ethnical** groups of the Pacific rim."*

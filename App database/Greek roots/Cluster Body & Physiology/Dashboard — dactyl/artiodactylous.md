@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of even.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of even.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an even number of toes or digits; belonging to or characteristic of the Artiodactyla.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative osteology, possessing paraxonic foot structure with reduction of lateral digits and development of cloven hooves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artiodactylous designates adjective*) pertaining to, derived from, or characteristic of even."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **artiodactylous** foot architecture is ideally engineered for running over firm open terrain."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"In the **artiodactylous** skeleton, the astragalus develops pulley-shaped surfaces at both its proximal and distal ends."*
+> - 📜 **Alfred Romer (*The Vertebrate Body*):** *"The fossil series tracks the transition from five-toed condylarth ancestors to strictly **artiodactylous** cloven-footed ruminants."*

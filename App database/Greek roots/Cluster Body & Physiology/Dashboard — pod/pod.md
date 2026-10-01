@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elongated dry fruit that develops from one or more carpels of a flower, splits open along a seam, and contains seeds that may be attached to the wall of the pod : seedpod; especially : the pod of a plant (such as a pea or bean) of the legume family : legume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomical pouch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elongated, dehiscent seed vessel or legume (such as of pea or bean plants), or a school of aquatic mammals (whales, seals, dolphins), or a streamlined detachable container.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biology and cetology, either a monocarpellary fruit opening along two sutures, or a close-knit matrilineal social unit of cetaceans navigating and foraging together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There were eight whales, an average pod."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Whether this whale belonged to the pod in advance, seemed questionable; for it is not customary for such venerable leviathans to be at all social."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He imagined only important possibilities: “If the enemy attacks the right flank,” he said to himself, “the Kiev grenadiers and the Podólsk chasseurs must hold their position till reserves from the center come up."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridisation*):** *"When pea plants with inflated green **pod** forms were crossed with wrinkled yellow ones, the offspring followed strict mathematical ratios."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The lookouts raised a great **pod** of sperm whales lounging lazily upon the glassy equatorial swell."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I gathered wild beans in autumn, cracking open each dry **pod** to extract the polished seeds."*

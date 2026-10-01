@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek proct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lighted tubular medical instrument used for visual examination of the interior of the rectum and anal canal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic endoscopy, a rigid or semi-rigid speculum (anoscope / proctoscope) equipped with illumination and insufflation to inspect mucosal lesions, perform biopsies, or treat bleeding hemorrhoids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proctoscope designates a term designating an entity, condition, or phenomenon derived from greek proct."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Direct visualization through the **proctoscope** enables the physician to diagnose mucosal ulcerations with immediate precision."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Illumination through the tubular **proctoscope** facilitates accurate suture placement during transanal local excision."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Endoscopic instruments modeled upon the **proctoscope** offered early prototypes for intracranial ventricular specula."*

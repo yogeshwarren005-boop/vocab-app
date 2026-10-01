@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a vessel (usually of gold or silver) in which the consecrated host is exposed for adoration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a vessel (usually of gold or silver) in which the consecrated host is exposed for adoration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vessel or sacred receptacle used in the Roman Catholic Church to display the consecrated Eucharistic host for veneration; a monstrance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical art history and liturgical studies, an ornate, radiant metalwork shrine (derived from Latin ostendere, to show) designed with a glass-enclosed lunette surrounded by solar rays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostensorium designates (roman catholic church) a vessel (usually of gold or silver) in which the consecrated host is exposed for adoration."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"The priest elevated the glittering **ostensorium** amid clouds of incense, blessing the kneeling congregation."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"In the solemn liturgical mystery, the golden **ostensorium** shone like a sun amidst the shadowed sanctuary."*
+> - 📜 **Desiderius Erasmus (*Praise of Folly*):** *"The multitude gazes in awe upon the gem-encrusted **ostensorium**, revering outward splendor above spiritual repentance."*

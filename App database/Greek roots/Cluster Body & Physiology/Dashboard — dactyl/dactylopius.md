@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the dactylopiidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the dactylopiidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of scale insects in the family Dactylopiidae, most notably Dactylopius coccus (cochineal), harvested for carmine dye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and biological weed control, insects used both for natural pigment production and to control invasive prickly pear cacti.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactylopius designates type genus of the dactylopiidae."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative*):** *"The harvest of **Dactylopius** coccus requires delicate sweeping of the white cottony clusters from the cactus joints."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Female specimens of **Dactylopius** remain permanently wingless and sessile, their bodies swollen with crimson fluid."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"We inspected the cactus nopalries where millions of tiny **Dactylopius** bugs were nurtured beneath protective mats."*

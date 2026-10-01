@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex fold of tissue in the embryo of a craniate vertebrate consisting of an outer layer of mesoderm together with the ectoderm that sheathes it and giving rise to the amnion and chorion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex fold of tissue in the embryo of a craniate vertebrate consisting of an outer layer of mesoderm together with the ectoderm that sheathes it and giving rise to the amnion and chorion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The embryonic tissue layer formed by the association of somatic ectoderm with the underlying parietal somatic mesoderm, giving rise to the body wall and amnion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, somatopleure contrasts with splanchnopleure (endoderm plus visceral mesoderm); the space between somatopleure and splanchnopleure forms the intraembryonic coelom (body cavity).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatopleure designates a complex fold of tissue in the embryo of a craniate vertebrate consisting of an outer layer of mesoderm together with the ectoderm that sheathes it and giving rise to the amnion and chorion."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The lateral mesoderm splits into two sheets, the outer of which unites with the ectoderm to form the **somatopleure**."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"From the arching folds of the **somatopleure**, the lateral and ventral muscular walls of the vertebrate body take shape."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The amniotic folds arise directly as upward reflections of the extraembryonic **somatopleure** enclosing the embryo."*

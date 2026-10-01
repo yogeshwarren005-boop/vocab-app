@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited disease of the large intestine marked by the formation especially in the colon and rectum of numerous glandular polyps which typically become malignant if left untreated —called also familial polyposis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inherited disease of the large intestine marked by the formation especially in the colon and rectum of numerous glandular polyps which typically become malignant if left untreated —called also familial polyposis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition characterized by the development of numerous polyps on a mucous membrane, especially in the colon or stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and gastroenterology, hereditary polyposis syndromes (such as familial adenomatous polyposis, FAP, caused by APC gene mutations) marked by hundreds to thousands of adenomas with a near 100% risk of colorectal carcinoma if untreated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyposis designates an inherited disease of the large intestine marked by the formation especially in the colon and rectum of numerous glandular polyps which typically become malignant if left untreated —called also familial polyposis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Familial adenomatous **polyposis** exhibits autosomal dominant inheritance, carpeting the entire large bowel with hundreds of adenomas."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic sections in diffuse intestinal **polyposis** show widespread glandular hyperplasia of the crypt epithelium."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Prophylactic total colectomy is the only definitive measure to prevent fatal adenocarcinoma in hereditary **polyposis**."*

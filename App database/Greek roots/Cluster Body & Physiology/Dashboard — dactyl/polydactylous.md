@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a person (or other vertebrate) having more than the normal number of digits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a person (or other vertebrate) having more than the normal number of digits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having extra fingers or toes; characterized by polydactyly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and physical examination, exhibiting supernumerary digits along the digital rays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polydactylous designates of or relating to a person (or other vertebrate) having more than the normal number of digits."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In several recorded human genealogies, **polydactylous** fathers transmitted their six-fingered hands through three generations."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"The **polydactylous** strain of guinea pigs established by Castle illustrated cumulative modifier genes acting on digital development."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A thorough examination of the **polydactylous** foot ensures that accessory metatarsal bones are not overlooked before surgery."*

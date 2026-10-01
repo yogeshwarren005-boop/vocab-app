@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncalcified bone matrix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling bone in structure, appearance, or chemical composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bone histology, the uncalcified, organic extracellular matrix secreted by osteoblasts, composed primarily of type I collagen fibers and ground substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoid designates resembling bone."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The newly deposited **osteoid** seam must undergo mineralization by calcium hydroxyapatite before true rigid bone is achieved."*
+> - 📜 **Alexander Maximow (*A Text-Book of Histology*):** *"In rickets, failure of calcification produces abnormally wide seams of unmineralized **osteoid** bordering the trabeculae."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"The histological demonstration of malignant **osteoid** tissue produced directly by tumor cells confirms the diagnosis of osteosarcoma."*

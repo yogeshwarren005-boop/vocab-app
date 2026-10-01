@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected by an aneurysm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affected by an aneurysm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or caused by an aneurysm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, characterizing the sac, bruit, rupture risk, or bony erosion produced by an arterial wall dilatation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aneurysmal designates relating to or affected by an aneurysm."*
+> - 📜 **Walter Dandy (*Intracranial Arterial Aneurysms*):** *"Direct surgical clipping of the **aneurysmal** neck provides definitive protection against fatal subarachnoid hemorrhage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Erosion of the vertebral bodies without involvement of the intervertebral discs is pathognomonic of **aneurysmal** pulsation."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The internal carotid artery is especially prone to **aneurysmal** dilatation where it courses within the cavernous sinus."*

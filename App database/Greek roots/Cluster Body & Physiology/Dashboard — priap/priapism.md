@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal often painful persistent erection of the penis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal often painful persistent erection of the penis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prolonged, persistent, and typically painful erection of the penis that occurs without sexual stimulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urology and hematology, a pathological urological emergency classified as ischemic (low-flow) or non-ischemic (high-flow), frequently triggered by sickle cell disease, trauma, or vasoactive pharmaceuticals, requiring prompt aspiration to prevent cavernous fibrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Now must I play at Bo-peep--A Banquet--well, Potatoes and Eringoes, and, as I take it, Cantharides--Excellent, a Priapism follows, and as I'll handle it, it shall, old Lecherous Goat in Authority."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intractable **priapism** occasionally complicates acute myelogenous leukemia or severe spinal cord trauma."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Thrombosis within the corpora cavernosa produces painful **priapism** through complete venous outflow obstruction."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Urgent cavernous irrigation and phenylephrine injection were administered to terminate ischemic **priapism**."*

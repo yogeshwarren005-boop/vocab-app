@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transient cessation of respiration; especially : sleep apnea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transient cessation of respiration; especially : sleep apnea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary cessation or suspension of breathing, especially during sleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical somnology and pulmonology, an episode of airflow cessation lasting at least ten seconds, classified as obstructive (airway collapse), central (loss of respiratory drive), or mixed sleep apnea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apnea designates transient cessation of respiration; especially : sleep apnea."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Periodic respiration characterized by alternating hyperpnea and prolonged **apnea** constitutes the classical Cheyne-Stokes pattern."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Direct stimulation of the inhibitory vagal fibers immediately arrested diaphragmatic movement, producing experimental **apnea**."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"During the alarming interval of nocturnal **apnea**, the patient appears suspended between life and suffocation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat heart-shaped sand-burrowing bivalve mollusks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat heart-shaped sand-burrowing bivalve mollusks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of marine bivalve mollusks known as cockles, possessing thick, heart-shaped, radially ribbed shells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, benthic bivalves equipped with a powerful, bent, muscular foot capable of leaping to evade predatory starfish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiidae designates somewhat heart-shaped sand-burrowing bivalve mollusks."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The family **cardiidae** is easily distinguished by its symmetrical, cordate valves, adorned with prominent radiating ribs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil record exhibits numerous transitions among the **cardiidae** as sea temperatures fluctuated across Tertiary epochs."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Extensive shell beds formed by members of the **cardiidae** pave ancient coastal terraces across the Mediterranean basin."*

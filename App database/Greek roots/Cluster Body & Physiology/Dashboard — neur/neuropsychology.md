@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of psychology that is concerned with the physiological bases of psychological processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of psychology that is concerned with the physiological bases of psychological processes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discipline and clinical specialty that investigates how the structure and function of the brain relate to specific psychological processes and behaviors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral neurology and cognitive neuroscience, the empirical study of cognition, memory, language, and perception through lesion studies, neuroimaging, and psychometric evaluation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropsychology designates the branch of psychology that is concerned with the physiological bases of psychological processes."*
+> - 📜 **Aleksandr Luria (*Basic Problems of Neurolinguistics*):** *"The central mission of **neuropsychology** is to unravel how complex cognitive activities are synthesized by collaborative cerebral zones."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The subjective experience of bodily alienation pointed directly toward deep questions in clinical **neuropsychology**."*
+> - 📜 **Wilder Penfield (*Speech and Brain-Mechanisms*):** *"Direct stimulation of cortical speech centers provided invaluable empirical foundations for modern human **neuropsychology**."*

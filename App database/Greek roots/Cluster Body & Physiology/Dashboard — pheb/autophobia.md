@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pheb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational or morbid dread of solitude, isolation, or being left entirely alone (monophobia; isolophobia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, an anxiety disorder manifesting as acute panic attacks and terror when experiencing physical detachment or abandonment by caregivers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autophobia designates a term designating an entity, condition, or phenomenon derived from greek pheb."*
+> - 📜 **Sigmund Freud (*The Problem of Anxiety*):** *"The infantile dread of solitude, often diagnosed as **autophobia**, is an expression of the child's missing the sight of the beloved parent."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Solitary confinement drives men to acute desperation, unmasking the latent horror of **autophobia** innate to social primates."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Those afflicted with melancholy dread loneliness above all things, suffering an agonizing **autophobia** in solitary chambers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of trypetidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of trypetidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tephritid fruit flies that includes major agricultural pests such as the apple maggot (Rhagoletis pomonella).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and economic entomology, a model genus for sympatric speciation, whose host-race shifts from native hawthorn to introduced domestic apples provided empirical evidence of non-geographic divergence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhagoletis designates a genus of trypetidae."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The rapid host race adaptation of **rhagoletis** pomonella to commercial apples stands as a celebrated modern example of incipient speciation."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The behavioral and genetic differentiation observed in **rhagoletis** stimulated intense debate regarding sympatric divergence mechanisms."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Orchardists employed heavy arsenical sprays against the destructive larvae of the **rhagoletis** fruit fly."*

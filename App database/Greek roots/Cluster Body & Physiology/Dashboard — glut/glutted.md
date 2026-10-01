@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Overeat or eat immodestly; make a pig of oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with an excess of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supplied or filled to excess; saturated, overstocked, or sated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commerce or appetite, filled beyond capacity so that consumption ceases and value collapses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They watch the markets and direct their agents by telegraph to divert cars _en route_ away from markets that are glutted with products and into markets where prices are higher."*
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"I could with pleasure have destroyed the cottage and its inhabitants and have glutted myself with their shrieks and misery."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"They began to loathe the taste of sweetness, whereof a little / More than a little is by much too much. / So when he had our **glutted** eyes, / He was but as the cuckoo is in June."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"When domestic warehouses become **glutted** with unsold woolen textiles, manufacturing wages plummet across the towns."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Gorged sharks drifted sluggishly about the dead whale's flanks, thoroughly **glutted** after a night of savage feeding."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare malignant mixed tumor of the kidney composed of glandular, muscular, and connective-tissue elements (Wilms' tumor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric pathology, nephroblastoma exhibiting embryonic renal epithelium alongside striated and smooth muscle sarcoma components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenomyosarcoma designates malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"The presence of embryonic striated muscle fibers within the renal mass confirms the diagnosis of **adenomyosarcoma**."*
+> - 📜 **Max Wilms (*Mixed Tumors of the Kidney*):** *"This congenital **adenomyosarcoma** originates from pluripotential mesodermal remnants displaced during early embryonic organogenesis."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Radical transperitoneal nephrectomy remains the sole surgical hope when an infant presents with a massive **adenomyosarcoma**."*

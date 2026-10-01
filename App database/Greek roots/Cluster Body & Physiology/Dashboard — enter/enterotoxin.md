@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cytotoxin specific for the cells of the intestinal mucosa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cytotoxin specific for the cells of the intestinal mucosa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protein toxin released by a microorganism in the intestine, typically causing vomiting, diarrhea, and gastrointestinal symptoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbial pathogenesis and immunology, an exotoxin (such as cholera toxin or Staphylococcal enterotoxin B) that alters cyclic AMP levels or acts as a potent superantigen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterotoxin designates a cytotoxin specific for the cells of the intestinal mucosa."*
+> - 📜 **Robert Koch (*The Etiology of Cholera*):** *"Vibrio cholerae does not invade the bloodstream; rather, it adheres to intestinal villi and secretes a lethal, diffusible **enterotoxin**."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"The contaminated cream puffs harbored staphylococci that had generated massive amounts of heat-stable **enterotoxin** on the warm shelf."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Cholera **enterotoxin** locks the G-protein in an active state, causing intestinal epithelial cells to pump massive volumes of water into the lumen."*

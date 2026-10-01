@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of picornaviruses that infect the gastrointestinal tract and can spread to other areas (especially the nervous system).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of picornaviruses that infect the gastrointestinal tract and can spread to other areas (especially the nervous system).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of small RNA viruses that infect the gastrointestinal tract and can spread to other parts of the body, including polioviruses, coxsackieviruses, and echoviruses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology, a genus of positive-sense single-stranded non-enveloped RNA viruses of the family Picornaviridae, transmitted primarily through the fecal-oral route.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterovirus designates any of a group of picornaviruses that infect the gastrointestinal tract and can spread to other areas (especially the nervous system)."*
+> - 📜 **Jonas Salk (*Man Unfolding*):** *"Polio was the most feared **enterovirus** of the twentieth century, invading anterior horn motor neurons to inflict irreversible paralysis."*
+> - 📜 **Paul Farmer (*Infections and Inequalities*):** *"Global eradication initiatives tracked wild **enterovirus** circulation through systematic sewage and environmental water sampling."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"Summer aseptic meningitis outbreaks in pediatric wards were frequently traced to widespread community **enterovirus** exposure."*

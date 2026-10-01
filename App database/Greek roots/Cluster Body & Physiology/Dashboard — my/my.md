@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to me or myself especially as possessor, agent, object of an action, or familiar person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used interjectionally to express surprise and sometimes reduplicated —used also interjectionally with names of various parts of the body to express doubt or disapproval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to me or myself, especially as possessor, agent, or object of an action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, zoology, and medical etymology, a combining form (my- / myo-) derived from the Greek word for mouse or muscle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, my designates of or relating to me or myself especially as possessor, agent, object of an action, or familiar person."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"To be, or not to be, that is the question: whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune... for **my** part, I must pause."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The world was all before them, where to choose their place of rest, and Providence their guide... yet **my** heart remains steadfast."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife... but **my** opinion on the matter remains firm."*

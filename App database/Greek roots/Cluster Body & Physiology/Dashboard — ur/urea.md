@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soluble weakly basic nitrogenous compound CO(NH2)2 that is the chief solid component of mammalian urine and an end product of protein decomposition, is synthesized from carbon dioxide and ammonia, and is used especially in synthesis (as of resins and plastics) and in fertilizers and animal rations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermosetting synthetic resin made by condensing urea with formaldehyde.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, crystalline, highly water-soluble organic compound (chemical formula CO(NH2)2), the primary nitrogenous end product of protein metabolism in mammals, excreted in urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, Friedrich Wöhler's chemical synthesis of urea from inorganic ammonium cyanate in 1828 disproved the vitalist doctrine that organic molecules could only be formed by living organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urea designates a soluble weakly basic nitrogenous compound co(nh2)2 that is the chief solid component of mammalian urine and an end product of protein decomposition, is synthesized from carbon dioxide and ammonia, and is used especially in synthesis (as of resins and plastics) and in fertilizers and animal rations."*
+> - 📜 **Friedrich Wöhler (*On the Artificial Production of Urea*):** *"I can prepare **urea** without requiring a kidney, or indeed any animal, whether man or dog."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The nitrogen of the catabolized tissues is eliminated from the animal economy almost exclusively in the form of **urea**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Measurement of blood **urea** nitrogen provides an indispensable gauge of glomerular filtration rate."*

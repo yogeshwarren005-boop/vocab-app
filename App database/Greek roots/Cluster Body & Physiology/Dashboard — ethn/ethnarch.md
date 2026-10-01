@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ethn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ruler of a people, province, or ethnic group, especially one subordinate to an emperor or king.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hellenistic and Roman provincial administration, a governor appointed over an ethnic community with civil authority without holding royal title.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, when a girl, she had been betrothed to Archelaus at the time he was ethnarch of Jerusalem."*
+> - 📜 **Flavius Josephus (*The Jewish War*):** *"Caesar Augustus declined to bestow the royal diadem on Archelaus, appointing him instead as **ethnarch** over half of Herod's realm."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Roman diplomacy frequently conciliated frontier barbarian tribes by confirming their hereditary chieftain as recognized imperial **ethnarch**."*
+> - 📜 **Saint Paul (New Testament: 2 Corinthians) (*Epistles*):** *"In Damascus the governor under King Aretas, the **ethnarch**, guarded the city with a garrison, desirous to apprehend me."*

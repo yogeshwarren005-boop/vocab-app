@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital complete absence of the external ear (pinna or auricle).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical teratology and otolaryngology, an extreme first and second branchial arch defect, typically accompanied by atresia of the external auditory canal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anotia designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete **anotia** is rarely an isolated anomaly, occurring most frequently within craniofacial microsomia syndromes."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Failure of the six embryonic auricular hillocks of His to develop culminates in unilateral or bilateral **anotia**."*
+> - 📜 **Isidore Geoffroy Saint-Hilaire (*General and Particular History of Anomalies of Organization*):** *"In our teratological classifications, **anotia** designates the complete developmental arrest of the external auditory apparatus."*

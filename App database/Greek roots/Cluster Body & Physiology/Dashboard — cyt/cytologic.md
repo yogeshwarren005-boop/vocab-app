@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of cytology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of cytology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to cytology; relating to the study of the structure, pathology, and function of cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic medicine, describing microscopic smear examinations, such as Pap smears or fine-needle aspiration biopsies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytologic designates of or relating to the science of cytology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful **cytologic** examination of the cerebrospinal fluid reveals pleocytosis indicative of tuberculous meningitis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The foundational **cytologic** discovery of the nineteenth century was that all pathological alterations originate in individual cells."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Specific basic and acidic dyes allowed the first systematic **cytologic** differentiation of human leukemic cells."*

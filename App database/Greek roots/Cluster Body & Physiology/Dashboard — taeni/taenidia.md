@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek taeni.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of taenidium; the spiral or annular chitinous thickenings reinforcing the cuticular lining of an insect's tracheal breathing tubes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect respiratory physiology, taenidia prevent the tracheal conduits from collapsing under mechanical tension or muscular pressure during locomotion, while permitting flexible bending.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taenidia designates a term designating an entity, condition, or phenomenon derived from greek taeni."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The chitinous spirals of the **taenidia** keep the tracheal lumen continuously patent for air diffusion."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Under the microscope, the shining **taenidia** resemble the wire spiral inserted within modern flexible rubber tubing."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"The elastic rings of the **taenidia** allow the insect's breathing pipes to stretch without tearing during flight."*

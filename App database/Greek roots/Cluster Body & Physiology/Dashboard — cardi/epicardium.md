@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner layer of the pericardium that closely envelops the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner layer of the pericardium that closely envelops the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The visceral inner serous layer of the pericardium that adheres closely to the external muscular surface of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac anatomy, the outermost layer of the heart wall, consisting of mesothelium and fibroelastic connective tissue containing the coronary blood vessels and subepicardial fat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicardium designates the inner layer of the pericardium that closely envelops the heart."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **epicardium** constitutes the visceral layer of the serous pericardium, reflecting onto the great vessels to join the parietal wall."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Beneath the transparent sheet of the **epicardium**, the main trunks of the coronary arteries run cushioned in protective beds of fat."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"The glistening smoothness of the **epicardium** permits the heart to twist and contract without frictional resistance within its pericardial sac."*

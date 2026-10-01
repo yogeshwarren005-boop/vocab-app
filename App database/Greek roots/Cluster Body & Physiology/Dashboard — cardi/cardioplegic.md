@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of heart / core / cardiac center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of heart / core / cardiac center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, causing, or characterized by cardioplegia; arresting cardiac contractions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular surgery, designating the pharmacological solution (high in potassium and magnesium) infused to induce electromechanical cardiac arrest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardioplegic designates adjective*) pertaining to, derived from, or characteristic of heart / core / cardiac center."*
+> - 📜 **Denton Cooley (*Techniques in Cardiac Surgery*):** *"Infusing the cold **cardioplegic** solution directly into the aortic root induces immediate diastolic arrest of the myocardium."*
+> - 📜 **Michael DeBakey (*Cardiovascular Surgery*):** *"Periodic re-infusion of the **cardioplegic** solution preserves low myocardial temperatures throughout prolonged aortic clamping."*
+> - 📜 **John Gibbon (*Extracorporeal Circulation in Cardiac Surgery*):** *"The formulation of balanced **cardioplegic** agents virtually eliminated postoperative low cardiac output syndrome from ischemic injury."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: migraine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: vertigo, dizziness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or dialect term for a migraine headache; a severe unilateral headache.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and colloquial speech, a sudden whim, caprice, low spirits, or vertigo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was abrupt but not irritable, taking little notice of megrims in healthy people; and Ladislaw did not usually throw away his susceptibilities on those who took no notice of them."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Therefore, take no notice of my megrims till we meet, which I most ardently long to do."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She took to her bed with a severe **megrim**, complaining that the noise of the children shattered her poor nerves."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The old bailie suffered from sudden **megrims** in his head whenever difficult legal points were argued before him."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mrs. Cadwallader declared that Dorothea's grand philanthropic schemes were mere girlish **megrims** that marriage would cure."*

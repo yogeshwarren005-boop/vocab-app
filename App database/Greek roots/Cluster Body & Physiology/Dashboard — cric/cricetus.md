@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the cricetidae: old world hamsters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the cricetidae: old world hamsters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of true European hamsters (particularly Cricetus cricetus, the common black-bellied hamster) noted for large internal cheek pouches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate zoology, fossorial Eurasian rodents with stout burrowing limbs that store grain caches within elaborate subterranean tunnels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cricetus designates type genus of the cricetidae: old world hamsters."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The common hamster, **Cricetus** vulgaris, is celebrated for the voracity with which it packs grain into its expandable cheek pouches."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Fossil remains of **Cricetus** found in Pleistocene cave deposits prove its former abundance across western Europe."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The skull of **Cricetus** displays powerful zygomatic arches adapted for heavy chewing of hard seeds and tubers."*

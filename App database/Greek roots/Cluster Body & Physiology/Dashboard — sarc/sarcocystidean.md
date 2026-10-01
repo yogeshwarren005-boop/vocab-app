@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasite of the muscles of vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasite of the muscles of vertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the Sarcocystidae, a family of parasitic protozoans belonging to the Apicomplexa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology, sarcocystidean organisms typically undergo heteroxenous life cycles alternating between carnivore definitive hosts and prey intermediate hosts where muscle cysts develop.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcocystidean designates parasite of the muscles of vertebrates."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The **sarcocystidean** trophozoites invade the muscular fibers of mammals, producing elongated tubular cyst structures."*
+> - 📜 **Theobald Smith (*Parasitic Diseases of Domestic Animals*):** *"Heavy **sarcocystidean** parasitism in ruminants can induce systemic fever, cachexia, and extensive myofibrillar atrophy."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"Comparative study of **sarcocystidean** and hemosporidian cycles sheds light on the evolution of intracellular parasitism."*

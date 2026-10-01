@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of an eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of an eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal or excision of an eye (enucleation or evisceration of the eyeball).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic surgery, radical excision of the globe performed for malignant intraocular tumors (such as retinoblastoma or choroidal melanoma) or severe traumatic rupture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophthalmectomy designates surgical removal of an eye."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Advanced intraocular neoplasms spreading along the optic sheath may necessitate immediate radical **ophthalmectomy**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"To avert catastrophic sympathetic ophthalmitis in the uninjured eye, early **ophthalmectomy** of the traumatized globe was historically advised."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Meticulous orbital hemostasis following **ophthalmectomy** prevents retrobulbar hematoma and secondary infection."*

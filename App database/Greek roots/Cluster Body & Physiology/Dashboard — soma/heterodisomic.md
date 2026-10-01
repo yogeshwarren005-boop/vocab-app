@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characterized by heterodisomy (the inheritance of both distinct homologous chromosomes from a single parent).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical cytogenetics, a heterodisomic chromosome pair retains parental heterozygosity and reflects a meiosis I non-disjunction error in the contributing parent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterodisomic designates adjective*) pertaining to, derived from, or characteristic of body."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Microsatellite typing revealed that the patient was **heterodisomic** for maternal chromosome 15, confirming Prader-Willi syndrome."*
+> - 📜 **Curt Stern (*Principles of Human Genetics*):** *"A **heterodisomic** chromosomal state preserves the non-identical parental homologs despite uniparental origin."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Molecular polymorphic markers allow clinicians to distinguish between isodisomic and **heterodisomic** uniparental inheritance."*

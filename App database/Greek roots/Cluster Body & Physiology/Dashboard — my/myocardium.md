@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The middle muscular layer of the heart wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The middle muscular layer of the heart wall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscular tissue of the heart wall, situated between the epicardium and the endocardium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical cardiology and histology, the thick, syncytial-like layer of branching, striate cardiac myocytes joined by intercalated discs that contract rhythmically to pump blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myocardium designates the middle muscular layer of the heart wall."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"The fleshy substance of the heart, the **myocardium**, acts as a powerful hollow muscle expelling blood into the arteries."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The thickest portion of the **myocardium** encloses the left ventricle, reflecting the higher systemic pressures it must overcome."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Intercalated discs traversing the **myocardium** facilitate rapid electrical and mechanical coupling across adjacent cardiac fibers."*

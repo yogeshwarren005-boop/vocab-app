@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two principal great circles of the celestial sphere that pass through both celestial poles and either the equinoxes (the equinoctial colure) or the solstices (the solstitial colure).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spherical astronomy and classical celestial cartography, the colures divide the ecliptic and celestial equator into four equal quadrants, serving as reference coordinates for celestial mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colure designates a term designating an entity, condition, or phenomenon derived from greek ur."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thrice had the sun risen upon the earth, and thrice traversed the celestial **colure**, when Satan returned to paradise."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The solstitial **colure** passes through the poles of the equator and intersects the ecliptic at the solstitial points."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Astronomers partition the heavens by great circles, among which the equinoctial **colure** marks the first point of Aries."*

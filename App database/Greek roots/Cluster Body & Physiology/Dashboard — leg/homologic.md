@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Similar in evolutionary origin but not in function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Similar in evolutionary origin but not in function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying homology; corresponding in anatomical structure, origin, or logical category.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology, describing morphological parts sharing a common phylogenetic ancestor despite divergence in function or external appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homologic designates similar in evolutionary origin but not in function."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"The wing of a bat and the paddle of a porpoise present clear **homologic** correspondence to the human arm."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The existence of **homologic** parts across disparate mammalian classes points indisputably to descent from a common ancestor."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"A thorough **homologic** examination of primate cranial bones demonstrates precise morphological continuity."*

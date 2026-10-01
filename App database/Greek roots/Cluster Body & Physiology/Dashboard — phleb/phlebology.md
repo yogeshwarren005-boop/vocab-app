@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the veins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned with the veins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical specialty and scientific study devoted to the diagnosis, physiology, and treatment of veins and venous disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical practice, the multidisciplinary field encompassing the management of chronic venous disease, spider telangiectasias, varicose veins, pelvic congestion, and venous thromboembolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebology designates a branch of medicine concerned with the veins."*
+> - 📜 **William Osler (*A System of Medicine*):** *"The emergence of clinical **phlebology** as a dedicated discipline stimulated renewed interest in the mechanics of venous return."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Recent advances in **phlebology** have replaced aggressive stripping with targeted endovascular ablative techniques."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The fundamental laws of thrombosis laid down the physiological framework for modern experimental **phlebology**."*

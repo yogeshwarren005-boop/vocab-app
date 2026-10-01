@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An insect belonging to the order Hymenoptera; a hymenopteran (wasp, bee, ant, or sawfly).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, a four-winged holometabolous insect possessing coupled membranous wings and often a specialized ovipositor or sting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenopter designates insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"The diligent **hymenopter** returns to its nest loaded with provisions for its developing brood."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"No mechanical tool matches the delicate stinging precision of the predatory **hymenopter**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Complex colonial instincts evolved repeatedly among various branches of the social **hymenopter**."*

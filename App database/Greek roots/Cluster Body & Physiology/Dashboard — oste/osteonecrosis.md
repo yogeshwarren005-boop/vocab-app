@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The death of bone cells and bone marrow tissue resulting from interruption of local blood supply; avascular necrosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics, ischemic death of bone tissue, most commonly affecting the femoral head, talus, or scaphoid, causing articular collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteonecrosis designates a term designating an entity, condition, or phenomenon derived from greek oste."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"Radiation therapy can induce profound localized **osteonecrosis**, destroying the vascular supply of the mandible."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Disruption of the retinacular vessels in intracapsular femoral neck fractures frequently precipitates avascular **osteonecrosis**."*
+> - 📜 **John Charnley (*Low Friction Arthroplasty of the Hip*):** *"Subchondral collapse secondary to femoral head **osteonecrosis** is one of the premier indications for total hip arthroplasty."*

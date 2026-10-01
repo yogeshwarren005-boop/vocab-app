@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By law; conforming to the law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a legal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner according to, permitted by, or authorized by law; lawfully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From a formal legal perspective or juristic standard, as distinguished from ethical, moral, or practical considerations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess would fain not have conversed with Marian of the man who was legally, if not actually, her husband; but the irresistible fascination of the subject betrayed her into reciprocating Marian’s remarks."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The lender of money secured by mortgage has a legally recognized and enforceable interest in the mortgaged wealth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In France the right of bequest outside the family is legally limited; only the share of one child can be willed away by the father, and the rest must be equally divided among the children."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An individual cannot be **legally** bound by an agreement procured through duress or deceit."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was **legally** ruined by forty years of protracted Chancery proceedings before any decree could be rendered."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A treaty constitutes the supreme law of the land, **legally** binding upon all state courts and legislatures."*

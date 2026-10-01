@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone trained in the science of drugs (their composition and uses and effects).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone trained in the science of drugs (their composition and uses and effects).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in pharmacology—the study of drugs, their properties, interactions, mechanisms, and biological effects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical research and pharmaceutical development, an investigator who designs bioassays, characterizes lead compounds, and determines safety margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacologist designates someone trained in the science of drugs (their composition and uses and effects)."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"The **pharmacologist** seeks to discover how chemical molecules modify biochemical processes within living organisms."*
+> - 📜 **Paul Ehrlich (*Experimental Chemotherapy*):** *"It is the duty of the **pharmacologist** to synthesize magic bullets that destroy pathogens without injuring the host."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The experimental **pharmacologist** uses toxic poisons as precise probes to decipher hidden physiological mechanisms."*

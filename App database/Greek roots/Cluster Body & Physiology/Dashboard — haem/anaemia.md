@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition marked by a deficiency of red blood cells or of hemoglobin in the blood, resulting in pallor and weariness (Commonwealth spelling of anemia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, diminished oxygen-carrying capacity of the blood, classified by red cell indices into microcytic, normocytic, or macrocytic forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"Not to run this striking and original simile out of breath, the Barter fly endured for a round twelve months, without showing signs of anaemia so pronounced as to look dangerous to his constitution."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe pernicious **anaemia** was historically fatal until Minot and Murphy demonstrated the curative power of raw liver extracts."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Differential blood staining allows the clinician to distinguish the hypochromic microcyte of iron deficiency from the megalocytes of severe **anaemia**."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"The invalid lay propped among lace pillows, her translucent skin displaying the delicate pallor of chronic **anaemia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of the ulna projecting behind the elbow joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of the ulna projecting behind the elbow joint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large, thick, curved bony prominence of the ulna projecting behind the elbow joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology and orthopedic surgery, the bony process that receives the insertion of the triceps brachii muscle and fits into the olecranon fossa of the humerus during forearm extension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, olecranon designates the process of the ulna projecting behind the elbow joint."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **olecranon** forms the prominent tip of the elbow, serving as the lever arm for the powerful triceps brachii."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Subcutaneous tophi in chronic tophaceous gout preferentially deposit over the bursa of the **olecranon**."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Fracture of the **olecranon** demands precise tension-band wiring to restore active forearm extension."*

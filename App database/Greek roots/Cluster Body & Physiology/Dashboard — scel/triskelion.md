@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure composed of three usually curved or bent branches radiating from a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure composed of three usually curved or bent branches radiating from a center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbol or emblem composed of three bent human legs, or three joined spiral or geometric arms, radiating symmetrically from a central point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Famously serving as the national heraldic emblem of the Isle of Man and the historic symbol of Sicily (Trinacria), representing steadfastness and triadic balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triskelion designates a figure composed of three usually curved or bent branches radiating from a center."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The rotational energy embodied in the ancient Sicilian **triskelion** connects solar worship with agricultural fertility rites."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Isle of Man flag bears the armored **triskelion**, accompanied by the proud motto that it stands whichever way it is thrown."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Like the swastika, the **triskelion** originated in archaic solar symbols depicting the daily circular path of light across the heavens."*

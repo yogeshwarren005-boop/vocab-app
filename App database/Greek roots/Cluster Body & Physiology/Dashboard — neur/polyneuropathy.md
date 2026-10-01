@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek neur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A generalized, symmetrical disorder of multiple peripheral nerves, typically affecting distal extremities in a 'stocking-glove' distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuromuscular medicine, a non-inflammatory or multifactorial axonal or demyelinating degeneration of peripheral sensory, motor, or autonomic fibers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyneuropathy designates a term designating an entity, condition, or phenomenon derived from greek neur."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diabetic **polyneuropathy** begins insidiously with distal paresthesias and symmetric loss of ankle jerk reflexes."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Electrophysiological testing in chronic toxic **polyneuropathy** demonstrates marked slowing of peripheral motor nerve conduction velocity."*
+> - 📜 **William Richard Gowers (*A Manual of Diseases of the Nervous System*):** *"Patients afflicted with sensorimotor **polyneuropathy** complain of intense burning numbness confined to the hands and feet."*

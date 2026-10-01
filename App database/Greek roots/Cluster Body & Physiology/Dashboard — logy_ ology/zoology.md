@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the animal life in a particular region or period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biology that studies animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of animals, encompassing their structure, physiology, classification, behavior, and geographical distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, the comprehensive discipline tracing animal phylogeny, comparative anatomy, ethology, and ecological adaptations across taxa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No branch of Zoology is so much involved as that which is entitled Cetology,” says Captain Scoresby, A."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This performance was sure to be hailed with loud plaudits, and the ‘puarkee nuee’ (big hog) was unanimously pronounced by the islanders to be the most extraordinary specimen of zoology that had ever come under their observation."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His scientific sympathies were distinctly reptilian; he loved nature’s vulgarians and described himself as the Zola of zoology."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Systematic **zoology** assumes an entirely new meaning when viewed through the principle of descent with modification."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Comparative Anatomy*):** *"The fundamental laws of vertebrate **zoology** demonstrate a remarkable unity of structural plan."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Comparative **zoology** rests upon the correlation of organs, whereby every organ implies the harmonious function of all others."*

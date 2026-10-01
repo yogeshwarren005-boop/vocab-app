@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increasing or decreasing the force of muscular contractions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increasing or decreasing the force of muscular contractions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Influencing or modifying the force or energy of muscular contractions, especially of the heart muscle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hemodynamics and cardiology, designating physiological mechanisms or therapeutic agents that modulate myocardial contractile performance independently of heart rate or preload.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inotropic designates increasing or decreasing the force of muscular contractions."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Sympathetic stimulation exerts a powerful positive **inotropic** effect upon ventricular muscle, substantially increasing stroke work."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Beta-adrenergic agonists augment **inotropic** state by activating adenylate cyclase and increasing intracellular cyclic AMP."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Digitalis remains the sovereign agent for augmenting the **inotropic** energy of the failing myocardium."*

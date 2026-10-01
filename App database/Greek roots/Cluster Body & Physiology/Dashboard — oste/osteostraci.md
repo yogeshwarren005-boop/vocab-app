@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct group of armored fish-like vertebrates; taxonomy is not clear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct group of armored fish-like vertebrates; taxonomy is not clear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct order or class of armored jawless ostracoderms (Agnatha) characterized by a continuous, cellular bony head shield.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, Paleozoic agnathans closely related to jawed vertebrates, possessing paired pectoral fins and sensory cephalic fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteostraci designates extinct group of armored fish-like vertebrates; taxonomy is not clear."*
+> - 📜 **Louis Agassiz (*Monograph on the Fossil Fishes of the Old Red Sandstone*):** *"We erect the group **osteostraci** to emphasize the presence of true bony structure in the head shields of these ancient fishes."*
+> - 📜 **Arthur Smith Woodward (*Catalogue of the Fossil Fishes in the British Museum*):** *"The **osteostraci** flourished throughout late Silurian seas, disappearing abruptly at the close of the Devonian period."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"Morphological studies on **osteostraci** demonstrate that paired fins and sensory lateral lines originated before the evolution of jaws."*

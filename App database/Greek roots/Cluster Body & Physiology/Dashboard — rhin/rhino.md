@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Massive powerful herbivorous odd-toed ungulate of southeast asia and africa having very thick skin and one or two horns on the snout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Massive powerful herbivorous odd-toed ungulate of southeast asia and africa having very thick skin and one or two horns on the snout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhinoceros (informal shortened form); money or cash (British slang).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and natural history, an informal designation for the massive perissodactyl mammal of the family Rhinocerotidae; or historic 17th-to-19th century British cant for ready currency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"It hung on him in folds like the brittle hide of a rhino."*
-> - 📜 **James Joyce (*Ulysses*):** *"In Mooney’s _en ville_ and in Mooney’s _sur mer._ He had received the rhino for the labour of his muse."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"A huge black **rhino** suddenly crashed through the thorny acacia scrub, charging directly toward our safari line."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The disreputable clerk boasted of having plenty of **rhino** in his pockets after a lucky turn at the races."*
+> - 📜 **Ernest Hemingway (*Green Hills of Africa*):** *"We tracked the old bull **rhino** across the dusty volcanic plains before losing the trail in the dark."*

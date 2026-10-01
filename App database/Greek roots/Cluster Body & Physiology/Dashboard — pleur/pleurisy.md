@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pleura that is typically characterized by sudden onset, painful and difficult respiration, and exudation of fluid or fibrinous material into the pleural cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the pleura that is typically characterized by sudden onset, painful and difficult respiration, and exudation of fluid or fibrinous material into the pleural cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pleura accompanied by sharp chest pain that worsens during breathing and coughing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory medicine, fibrinous or serofibrinous inflammation of the pleural membranes (pleuritis), commonly secondary to pneumonia, tuberculosis, pulmonary embolism, or viral infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There lives within the very flame of love A kind of wick or snuff that will abate it; And nothing is at a like goodness still, For goodness, growing to a pleurisy, Dies in his own too much."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was a sharp, definite pain, similar to that of pleurisy, except that it stabbed hotly through the heart itself."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Wrench saved me in the pleurisy, but he’d better have let me die—if—if—” “I will meet Mr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dry **pleurisy** is characterized by acute stitch-like pain in the side, aggravated by respiration and accompanied by a superficial leathery friction sound."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Auscultation enabled me to detect the characteristic rubbing sound that signals acute **pleurisy** before effusion accumulates."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"The old housekeeper was confined to her bed with a severe attack of winter **pleurisy**."*

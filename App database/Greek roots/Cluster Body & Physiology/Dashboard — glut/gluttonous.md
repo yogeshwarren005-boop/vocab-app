@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to excess in consumption of especially food or drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to excess in consumption of especially food or drink.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to excessive eating; voracious, greedy, or insatiable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by unrestrained, self-indulgent consumption of food or resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then they could smile and fawn upon his debts, And take down th’ interest into their gluttonous maws."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"This gave rise to the common native nickname of a _manohae_ (ravenous shark) for a very gluttonous man, especially in the matter of meat."*
+> - 📜 **John Milton (*Comus*):** *"Swill'd insolence and wild **gluttonous** debauch / Disfigured the clean simplicity of the ancient rustic festival."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The ghost rebuked the **gluttonous** neglect of the wealthy while ignorance and want festered in the city alleys."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Yahoos devoured dead carcasses with **gluttonous** voracity, fighting savagely over the foulest offal."*

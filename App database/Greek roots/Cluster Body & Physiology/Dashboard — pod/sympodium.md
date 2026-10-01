@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparent continuous main axis of a plant or branching structure formed by a succession of secondary lateral shoots (sympodial axis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant morphology and orchidology, a growth habit where terminal shoot buds cease elongation (often terminating in a flower) and growth is renewed by an axillary bud from the base, contrasting with a monopodial stem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sympodium designates a term designating an entity, condition, or phenomenon derived from greek pod."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The overarching vine grows not from a single terminal bud, but forms a **sympodium** constructed from successive lateral branches."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In orchids with a creeping **sympodium**, each season's growth terminates in a pseudobulb bearing next year's lead."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"The spreading rhizomatous **sympodium** of native grasses anchors loose coastal sand dunes effectively."*

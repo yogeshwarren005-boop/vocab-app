@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the sensory systems that mediate sensations of pressure and tickle and warmth and cold and vibration and limb position and limb movement and pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the sensory systems that mediate sensations of pressure and tickle and warmth and cold and vibration and limb position and limb movement and pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any sensory modality of the somatic nervous system, including touch, pressure, pain, temperature, and proprioception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience, the somatosenses provide vital spatial and tactile information enabling manual dexterity, postural stability, and haptic object recognition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatosense designates any of the sensory systems that mediate sensations of pressure and tickle and warmth and cold and vibration and limb position and limb movement and pain."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Every coordinated voluntary movement requires immediate sensory feedback from at least one primary **somatosense**."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Clinical mapping reveals that each distinct **somatosense** possesses its own threshold and recovery trajectory after nerve injury."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The delicate discrimination of textures depends upon the rich collaboration of more than one cutaneous **somatosense**."*

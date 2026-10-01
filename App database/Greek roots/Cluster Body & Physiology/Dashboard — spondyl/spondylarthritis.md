@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arthritis that affects one or more of the intervertebral joints in the spine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arthritis that affects one or more of the intervertebral joints in the spine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arthritis or inflammatory disease affecting the intervertebral joints and associated ligamentous attachments of the spine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology, spondylarthritis (spondyloarthritis) encompasses a family of seronegative diseases including ankylosing spondylitis, psoriatic arthritis, reactive arthritis, and enteropathic arthritis, often linked to HLA-B27.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondylarthritis designates arthritis that affects one or more of the intervertebral joints in the spine."*
+> - 📜 **Pierre Marie (*Sur la spondylose rhizomélique*):** *"Chronic ankylosing **spondylarthritis** gradually obliterates spinal mobility, welding the vertebrae into a continuous osseous column."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The early stiffness of rheumatoid **spondylarthritis** is marked by nocturnal lumbar ache that improves with morning movement."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Progressive limitation of thoracic expansion provides an early clinical clue to active underlying **spondylarthritis**."*

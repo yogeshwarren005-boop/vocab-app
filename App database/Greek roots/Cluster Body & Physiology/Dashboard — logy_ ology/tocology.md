@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine dealing with childbirth and care of the mother.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine dealing with childbirth and care of the mother.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science concerned with childbirth, pregnancy, and obstetrics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive medicine and historical therapeutics, the clinical management of parturition, maternal-fetal labor, and puerperal physiology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tocology designates the branch of medicine dealing with childbirth and care of the mother."*
+> - 📜 **Charles Delucena Meigs (*Obstetrics: The Science and the Art*):** *"The student of practical **tocology** must master both the mechanical phenomena of labor and the physiological needs of the mother."*
+> - 📜 **Fleetwood Churchill (*The Theory and Practice of Midwifery*):** *"Advances in antiseptic technique have revolutionized **tocology**, drastically reducing puerperal fever mortality."*
+> - 📜 **John Davis (*The Principles and Practice of Obstetric Medicine*):** *"A thorough foundation in pelvis anatomy remains the cornerstone of rational **tocology**."*

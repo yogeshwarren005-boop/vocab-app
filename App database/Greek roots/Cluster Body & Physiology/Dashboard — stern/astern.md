@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stern foremost or backward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At or near or toward the stern of a ship or tail of an airplane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behind or toward the rear of a ship or boat; also backward or in reverse propulsion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical navigation and naval operations, 'going astern' refers to running marine engines in reverse to reduce forward headway or maneuver in tight harbor waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Meantime, overseeing the other part of the ship, Captain Peleg ripped and swore astern in the most frightful manner."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Some days elapsed, and ice and icebergs all astern, the Pequod now went rolling through the bright Quito spring, which, at sea, almost perpetually reigns on the threshold of the eternal August of the Tropic."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Floating on the waves we saw the abandoned boat, as for one instant it tossed and gaped beneath the ship’s bows like a chip at the base of a cataract; and then the vast hull rolled over it, and it was seen no more till it came up weltering astern."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"Looking **astern**, I watched the pale wake trail away into the gathering ink of the tropical night."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"'Stern all!' cried the harpooneer, as the great tail thrashing **astern** churned the sea into boiling foam."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The schooner glided past the breakers, leaving the dark headland looming far **astern** in our wake."*

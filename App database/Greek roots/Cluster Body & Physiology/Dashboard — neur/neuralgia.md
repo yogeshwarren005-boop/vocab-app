@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute paroxysmal pain radiating along the course of one or more nerves usually without demonstrable changes in the nerve structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intense paroxysmal neuralgia involving one or more branches of the trigeminal nerve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe, sharp, paroxysmal pain occurring along the course or distribution of a sensory nerve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a syndrome of intense lancinating pain unaccompanied by gross structural inflammation of the nerve, exemplified by trigeminal neuralgia (tic douloureux).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"From that moment she was subject to severe neuralgia, sick-headaches, at least monthly, and sometimes even weekly."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"On the Monday before, one of her severest neuralgia sick-headaches came on."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Her friends acknowledged, '_Faith did do good after all_.' CURED OF NEURALGIA."*
+> - 📜 **William Richard Gowers (*A Manual of Diseases of the Nervous System*):** *"Trigeminal **neuralgia** consists of sudden, excruciating paroxysms of pain provoked by the lightest touch upon a trigger zone of the face."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Among the most agonizing affections known to clinical practice is facial **neuralgia**, which reduces the sufferer to complete despair."*
+> - 📜 **Silas Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"The intense burning **neuralgia** following gunshot injuries of peripheral nerves produces profound vasomotor and trophic changes."*

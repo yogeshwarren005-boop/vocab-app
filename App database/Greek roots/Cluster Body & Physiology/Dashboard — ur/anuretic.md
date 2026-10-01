@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an inability to urinate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an inability to urinate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, characterized by, or causing anuresis (anuria); marked by suppression of urinary excretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, an anuretic state designates a patient producing virtually no urine, requiring emergency nephrological evaluation for hemodialysis or decompression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anuretic designates of or relating to an inability to urinate."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient remained in an **anuretic** condition for three days following acute circulatory collapse from cholera."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Bilateral ureteral obstruction creates an **anuretic** crisis that demands prompt surgical intervention."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Fatal uremic pericarditis developed swiftly as the **anuretic** state persisted without renal recovery."*

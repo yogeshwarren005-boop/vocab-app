@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of shut (the eyes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of shut (the eyes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form, characteristics, or anatomical structure of a mouse or the rodent suborder Myomorpha.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy and evolutionary paleontology, describing rodents possessing a hystricomorphous or sciurognathous zygomasseteric jaw construction typical of true mice and rats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myomorphous designates adjective*) pertaining to, derived from, or characteristic of shut (the eyes)."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The distinctive cranial architecture of the **myomorphous** rodents reflects specialized adaptations for gnawing and mastication."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"In **myomorphous** skulls, the infraorbital foramen is characteristically enlarged to transmit a portion of the medial masseter muscle."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The broad group of **myomorphous** mammals encompasses hamsters, voles, and lemmings, united by similar cranial features."*

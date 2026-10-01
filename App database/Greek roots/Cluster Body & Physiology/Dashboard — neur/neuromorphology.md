@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek neur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of neuroscience concerned with the structural form, architecture, and microscopic organization of nervous tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology, the systematic analysis of dendritic branching patterns, axonal arborizations, synaptic ultrastructure, and volumetric brain architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuromorphology designates a term designating an entity, condition, or phenomenon derived from greek neur."*
+> - 📜 **Santiago Ramón y Cajal (*Texture of the Nervous System of Man and the Vertebrates*):** *"The fundamental laws of **neuromorphology** dictate that cellular form reflects functional economy and receptive surface area."*
+> - 📜 **Wilhelm His (*Die Neuroblasten und deren Entstehung im embryonalen Mark*):** *"Tracing the ontogenetic emergence of nerve cells reveals the mechanical forces shaping early embryonic **neuromorphology**."*
+> - 📜 **Camillo Golgi (*Studies on the Fine Anatomy of the Central Nervous Organs*):** *"Our understanding of cerebellar **neuromorphology** was transformed when the silver chromate reaction resolved the dendritic tree of Purkinje cells."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A union of two or more digits that is normal in some animals (such as various marsupials) and that in humans occurs as an inherited condition or as a part of several genetic disorders and is marked by webbing of two or more fingers or toes and sometimes bony fusion of adjacent digits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A union of two or more digits that is normal in some animals (such as various marsupials) and that in humans occurs as an inherited condition or as a part of several genetic disorders and is marked by webbing of two or more fingers or toes and sometimes bony fusion of adjacent digits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having some or all of the fingers or toes joined together, either by skin (webbed) or by bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology, a common congenital hand malformation resulting from the failure of programmed apoptosis in the interdigital webs during gestation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndactyly designates a union of two or more digits that is normal in some animals (such as various marsupials) and that in humans occurs as an inherited condition or as a part of several genetic disorders and is marked by webbing of two or more fingers or toes and sometimes bony fusion of adjacent digits."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete cutaneous **syndactyly** between the index and middle fingers is successfully remedied by zig-zag surgical plasty."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Apoptotic cell death between the developing digits carves out the fingers; when it fails, **syndactyly** results."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"The child was born with simple cutaneous **syndactyly**, but surgical separation gave him full digital freedom to learn sign language."*

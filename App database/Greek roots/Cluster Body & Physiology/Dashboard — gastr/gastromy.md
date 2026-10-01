@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision into the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision into the stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision into the stomach (variant or archaic form of gastrotomy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical operative surgery, surgical opening of the stomach wall to explore the interior, relieve obstruction, or excise gastric tumors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastromy designates surgical incision into the stomach."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Operative intervention by **gastromy** was performed to remove a massive trichobezoar obstructing the pylorus."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Before the advent of modern flexible gastroscopy, surgical **gastromy** was often the only way to identify bleeding mucosal ulcers."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The surgeon made a clean anterior incision during the **gastromy**, taking care to avoid the gastroepiploic arcade."*

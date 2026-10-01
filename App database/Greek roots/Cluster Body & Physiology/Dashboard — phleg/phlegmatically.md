@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a phlegmatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a phlegmatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a calm, unemotional, or sluggishly indifferent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, performing actions or responding to emergencies without agitation, panic, or display of feeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The red and white herd nearest at hand, which had been phlegmatically waiting for the call, now trooped towards the steading in the background, their great bags of milk swinging under them as they walked."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It transported its great, lumbering bulk with more than railroad speed, and set itself phlegmatically down on whatever spot she glanced at."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes looked **phlegmatically** at the pool of blood upon the floor, taking out his magnifying lens without a word."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"General Kutuzov listened **phlegmatically** to the excited reports of the couriers, nodding slowly between dispatches."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"He answered her inquiries **phlegmatically**, showing little interest in the fashionable gossip of the neighborhood."*

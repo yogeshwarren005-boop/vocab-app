@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek neur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The delicate sheath of loose connective tissue enclosing each individual nerve fiber or axon within a peripheral nerve fascicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurohistology, the intrafascicular stroma consisting of fine collagen fibrils, fibroblasts, and extracellular fluid surrounding the Schwann cell-axon complex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoneurium designates a term designating an entity, condition, or phenomenon derived from greek neur."*
+> - 📜 **Santiago Ramón y Cajal (*Degeneration and Regeneration of the Nervous System*):** *"During Wallerian degeneration, proliferating Schwann cells align within the surviving tubes of **endoneurium** to guide regenerating axons."*
+> - 📜 **Louis-Antoine Ranvier (*Leçons sur l'histologie du système nerveux*):** *"Silver impregnation reveals fine reticular fibrils within the **endoneurium** closely investing the myelin sheath of each nerve fiber."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Conduction velocity along a peripheral fiber depends not merely upon axon diameter but upon its metabolic milieu within the **endoneurium**."*

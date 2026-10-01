@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having hemophilia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having hemophilia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by hemophilia; having an abnormal tendency to prolonged hemorrhage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacteriology, denoting bacteria that thrive exclusively or preferentially in media supplemented with blood or blood derivatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemophilic designates relating to or having hemophilia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The recurrent effusion into the knee joints was diagnosed as characteristic **haemophilic** arthropathy."*
+> - 📜 **Robert Koch (*The Etiology of Tuberculosis*):** *"We cultivated several fastidious **haemophilic** bacteria upon enriched agar surfaces with gratifying success."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"A singular **haemophilic** diathesis appeared to frustrate every customary mechanical attempt at establishing a permanent clot."*

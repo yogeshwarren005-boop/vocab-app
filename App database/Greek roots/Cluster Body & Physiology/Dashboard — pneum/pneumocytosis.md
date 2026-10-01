@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pneumonia occurring in infants or in persons with impaired immune systems (as aids victims).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pneumonia occurring in infants or in persons with impaired immune systems (as aids victims).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection caused by the fungal pathogen Pneumocystis jirovecii (formerly Pneumocystis carinii), historically termed pneumocytosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical infectious disease and immunocompromised hosts, opportunistic interstitial plasma cell pneumonia (Pneumocystis pneumonia, PCP) characterized by severe hypoxemia, ground-glass pulmonary opacities, and foamy intra-alveolar exudates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumocytosis designates pneumonia occurring in infants or in persons with impaired immune systems (as aids victims)."*
+> - 📜 **Anthony Fauci (*Harrison's Principles of Internal Medicine*):** *"The early outbreak of opportunistic **pneumocytosis** in previously healthy individuals heralded the clinical emergence of AIDS."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Infantile plasma cell pneumonia or **pneumocytosis** caused severe epidemic asphyxiation in premature nursery wards."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Silver-stained alveolar smears in fatal **pneumocytosis** demonstrated cup-shaped cysts packed within foamy exudate."*

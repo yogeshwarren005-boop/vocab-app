@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of cestoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of cestoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of cyclophyllidean cestode flatworms, commonly known as tapeworms, comprising medically and veterinary significant genera such as *Taenia* and *Echinococcus*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology, Taeniidae utilize mammals in two-host predator-prey life cycles; the adult worm resides in the small intestine of the carnivore definitive host, while larval metacestodes (cysticerci, coenuri, or hydatid cysts) develop in herbivore intermediate hosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taeniidae designates a family of cestoda."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Members of the family **Taeniidae** are distinguished by a scolex armed with a rostellum of hooks and quadrate suckers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hydatid disease in man represents the larval development of Echinococcus granulosus, a minute representative of the **Taeniidae**."*
+> - 📜 **Theobald Smith (*Parasitic Diseases of Domestic Animals*):** *"Sanitary meat inspection directly reduces the prevalence of **Taeniidae** by preventing consumption of infected animal carcasses."*

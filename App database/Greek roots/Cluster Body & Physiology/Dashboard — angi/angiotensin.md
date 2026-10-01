@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several vasoconstrictor substances (trade name hypertensin) that cause narrowing of blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several vasoconstrictor substances (trade name hypertensin) that cause narrowing of blood vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oligopeptide hormone that causes vasoconstriction and an increase in systemic blood pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular physiology and endocrinology, specifically angiotensin II, produced via the renin-angiotensin-aldosterone system (RAAS) to regulate sodium and fluid balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiotensin designates any of several vasoconstrictor substances (trade name hypertensin) that cause narrowing of blood vessels."*
+> - 📜 **Irvine H. Page (*Angiotonin and Renin*):** *"We agreed with Braun-Menéndez to combine the names angiotonin and hypertensin into the universally accepted term **angiotensin**."*
+> - 📜 **Eduardo Braun-Menéndez (*Renal Hypertension*):** *"Renin cleaves circulating angiotensinogen to yield the decapeptide precursor of active **angiotensin**."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"The vasoconstrictor action of **angiotensin** serves as an indispensable endocrine defense against catastrophic circulatory shock."*

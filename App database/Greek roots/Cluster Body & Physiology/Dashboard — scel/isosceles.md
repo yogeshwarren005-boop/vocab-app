@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two equal sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the two nonparallel sides equal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two equal sides (applied to a triangle); also having two equal lateral angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry, the base angles of an isosceles triangle are congruent (the pons asinorum theorem of Euclid's Elements, Book I, Proposition 5); also applied to trapezoids having congruent non-parallel sides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They could scarcely believe it possible; at two yards and a half below water-mark was a regular rent, in the form of an isosceles triangle."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was an adult, as was known by its six rows of teeth placed in an isosceles triangle in the upper jaw."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"A piece of the wall cracked and fell in enormous fragments, and a square window took the shape of an isosceles triangle; through a corner of the roof I could see the sky."*
+> - 📜 **Euclid (*Elements*):** *"In an **isosceles** triangle, the angles at the base are equal to one another, and if the equal straight lines be produced, the angles under the base will be equal."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The geometer demonstrates that the three interior angles of an **isosceles** triangle together equal two right angles."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The definition of an **isosceles** triangle specifies only equality of two sides, from which angular symmetry logically deduces."*

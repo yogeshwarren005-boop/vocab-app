@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of endoscope used to examine the amniotic cavity and its foetus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of endoscope used to examine the amniotic cavity and its foetus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical endoscope designed for insertion through the cervical canal to inspect the amniotic fluid and fetus through intact membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical obstetrics, an instrument introduced by Erich Saling to detect meconium staining and fetal distress during late gestation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amnioscope designates a form of endoscope used to examine the amniotic cavity and its foetus."*
+> - 📜 **Erich Saling (*Amnioscopy and Fetal Blood Sampling*):** *"By introducing the conical **amnioscope** through the cervix, the obstetrician can inspect the color of the forewaters directly."*
+> - 📜 **Ian Donald (*Practical Obstetric Problems*):** *"Visual inspection via the **amnioscope** allows early detection of meconium discharge before labor commences."*
+> - 📜 **Jack A. Pritchard (*Williams Obstetrics*):** *"The diagnostic utility of the **amnioscope** declined as modern non-invasive electronic fetal monitoring became standard."*

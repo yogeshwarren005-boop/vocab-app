@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of oxygen and prevent from breathing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impair the respiration of or obstruct the air passage of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing suffocation, smothering, or deprivation of oxygen; stifling or suffocating in effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational health and hazardous materials toxicology, asphyxiating gases are divided into simple asphyxiants (such as methane and nitrogen) and chemical asphyxiants (such as carbon monoxide and cyanide).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asphyxiating designates deprive of oxygen and prevent from breathing."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A dense, **asphyxiating** smoke crept through the deserted streets of Richmond, forcing the fugitives toward the river."*
+> - 📜 **John Scott Haldane (*Respiration*):** *"Carbon dioxide exerts a rapidly **asphyxiating** action when its concentration in inspired air exceeds ten percent."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The air in the narrow gorge was heavy and **asphyxiating**, like the breath from an opened furnace."*

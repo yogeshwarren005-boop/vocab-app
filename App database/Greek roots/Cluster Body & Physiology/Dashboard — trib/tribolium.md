@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flour beetles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flour beetles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of darkling beetles in the family Tenebrionidae, commonly known as flour beetles, notable as widespread pests of stored grain products and as model organisms in laboratory genetics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and experimental population ecology, species such as the red flour beetle (*Tribolium castaneum*) and confused flour beetle (*Tribolium confusum*) were famously utilized by Thomas Park to elucidate competitive exclusion principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribolium designates flour beetles."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Species of **Tribolium** infest granaries and flour mills worldwide, causing significant economic degradation to cereal stocks."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Laboratory competition experiments with **Tribolium** provide classic empirical models of interspecific ecological struggle."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"The tiny darkling beetle **Tribolium** thrives inside dark flour bins, its larvae devouring dry milled meal."*

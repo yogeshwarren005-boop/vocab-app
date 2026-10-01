@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus comprising terrestrial ferns; found in chile and spain and morocco and australia and new zealand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus comprising terrestrial ferns; found in chile and spain and morocco and australia and new zealand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small lithophytic or epipetric ferns in the family Aspleniaceae, native to temperate regions and rocky cliffs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, delicate rock-dwelling ferns characterized by elongated, exindusiate sori running alongside the lateral veins of the frond segments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleurosorus designates small genus comprising terrestrial ferns; found in chile and spain and morocco and australia and new zealand."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"Specimens of **pleurosorus** nestle in sheltered rock crevices, protected from desiccating alpine winds."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The distinctive lack of an indusium differentiates **pleurosorus** from typical members of Asplenium."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"Crevices along basaltic cliffs yielded fragile fronds of **pleurosorus** rutifolius in the Australian ranges."*

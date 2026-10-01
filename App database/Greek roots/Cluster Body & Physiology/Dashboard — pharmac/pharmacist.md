@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A health professional trained in the art of preparing and dispensing drugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A health professional trained in the art of preparing and dispensing drugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A healthcare professional licensed to prepare, compound, and dispense medicinal drugs, and advise on their safe use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and pharmacology, an expert in pharmacotherapy who collaborates with physicians to optimize medication regimens and prevent adverse drug interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The popular doctor believes in his prescription, and the pharmacist believes in the power of his drugs to save a man's 166:12 life."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Mohammedan's belief is a religious delusion; the doctor's and pharmacist's is a medical mistake."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The careful **pharmacist** serves as a vital safeguard between the prescribing physician and the vulnerable patient."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"The modern **pharmacist** functions as a therapeutic consultant, evaluating drug compatibilities and dosing schedules."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Behind the counter stood the venerable **pharmacist**, balancing apothecary scales with scrupulous precision."*

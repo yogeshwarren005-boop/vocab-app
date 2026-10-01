@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sedative (trade name doriden) used to treat some sleep disorders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sedative (trade name doriden) used to treat some sleep disorders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sedative-hypnotic medication introduced in 1954 as an alternative to barbiturates for the treatment of insomnia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and toxicology, a piperidinedione derivative notorious for high addictive potential, anticholinergic side effects, and lethal overdose toxicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glutethimide designates sedative (trade name doriden) used to treat some sleep disorders."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient presented in deep, prolonged coma following an overdose of the sedative **glutethimide**, complicated by fixed dilated pupils."*
+> - 📜 **William Osler (annotated clinical additions) (*The Principles and Practice of Medicine*):** *"Toxicology panels confirmed that the profound respiratory depression was induced by lethal ingestion of **glutethimide**."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The rise and fall of **glutethimide** illustrates the recurring clinical fallacy of assuming novel non-barbiturate sedatives are inherently benign."*

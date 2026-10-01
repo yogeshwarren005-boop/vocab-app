@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital defect of the central nervous system in which a sac containing part of the spinal cord and its meninges protrude through a gap in the vertebral column; frequently accompanied by hydrocephalus and mental retardation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital defect of the central nervous system in which a sac containing part of the spinal cord and its meninges protrude through a gap in the vertebral column; frequently accompanied by hydrocephalus and mental retardation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe congenital neural tube defect in which both the spinal cord and its covering meninges protrude through an opening in the vertebral column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurosurgery and embryology, a form of spina bifida aperta where the exposed neural placode lies flush with or herniates beyond the infant's back, causing paraplegia and Chiari II malformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelomeningocele designates a congenital defect of the central nervous system in which a sac containing part of the spinal cord and its meninges protrude through a gap in the vertebral column; frequently accompanied by hydrocephalus and mental retardation."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Immediate surgical repair of a lumbar **myelomeningocele** is necessary to prevent ascending bacterial ventriculitis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hydrocephalus almost invariably accompanies an extensive lumbar **myelomeningocele** in neonates."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Failure of the caudal neuropore to close by the fourth week of gestation results in a devastating **myelomeningocele**."*

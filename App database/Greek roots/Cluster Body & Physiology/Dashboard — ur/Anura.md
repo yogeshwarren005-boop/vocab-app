@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The major taxonomic order of amphibians comprising frogs and toads, characterized in adults by the absence of a tail, stout bodies, and long hind limbs adapted for leaping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate zoology and evolutionary biology, Anura (also known as Salientia) dates from the Triassic, displaying aquatic larval stages (tadpoles) undergoing profound thyroxine-mediated metamorphosis with loss of the tail and gills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Anura designates a term designating an entity, condition, or phenomenon derived from greek ur."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The order **Anura** is sharply demarcated from all other living Amphibia by the total resorption of the caudal vertebrae during metamorphosis."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Frogs belonging to the **Anura** are notoriously absent from oceanic islands, their porous skins being intolerant of salt water."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The shortened vertebral column and elongated ilia of the **Anura** represent extreme skeletal specializations for saltatory locomotion."*

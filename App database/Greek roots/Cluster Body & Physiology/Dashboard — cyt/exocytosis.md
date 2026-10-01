@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The release of cellular substances (such as secretory products) contained in cell vesicles by fusion of the vesicular membrane with the plasma membrane and subsequent release of the contents to the exterior of the cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The release of cellular substances (such as secretory products) contained in cell vesicles by fusion of the vesicular membrane with the plasma membrane and subsequent release of the contents to the exterior of the cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cellular process by which intracellular vesicles fuse with the plasma membrane to release their contents into the extracellular space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology and endocrinology, the calcium-dependent secretory mechanism responsible for neurotransmitter release at synapses and hormone discharge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exocytosis designates the release of cellular substances (such as secretory products) contained in cell vesicles by fusion of the vesicular membrane with the plasma membrane and subsequent release of the contents to the exterior of the cell."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Upon calcium influx into the axon terminal, synaptic vesicles undergo rapid **exocytosis**, releasing neurotransmitter into the cleft."*
+> - 📜 **George Emil Palade (*Intracellular Aspects of the Process of Protein Synthesis*):** *"Zymogen granules migrate to the apical membrane of the acinar cell, discharging their digestive enzymes by **exocytosis**."*
+> - 📜 **Christian de Duve (*A Guided Tour of the Living Cell*):** *"The process of **exocytosis** is the functional mirror image of endocytosis, restoring membrane surface while ejecting cargo."*

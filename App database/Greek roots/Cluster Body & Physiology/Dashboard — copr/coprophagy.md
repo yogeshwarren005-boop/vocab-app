@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on dung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on dung.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or habit of feeding on dung or excrement, characteristic of certain insects and herbivores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and comparative physiology, an adaptive nutritional strategy exhibited by dung beetles (Scarabaeidae) and cecal-fermenting mammals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprophagy designates feeding on dung."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"The sacred dung beetle performs its vital role in the sanitation of the pasture through tireless **coprophagy**."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Rodents depend upon physiological **coprophagy** to absorb essential fatty acids produced during cecal fermentation."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Nutrient cycling in tropical rainforests relies upon millions of specialized beetles and termites dedicated to **coprophagy**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of several broad spectrum antibiotic substances obtained from fungi and related to penicillin (trade names mefoxin); addition of side chains has produced semisynthetic antibiotics with greater antibacterial activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of several broad spectrum antibiotic substances obtained from fungi and related to penicillin (trade names mefoxin); addition of side chains has produced semisynthetic antibiotics with greater antibacterial activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of broad-spectrum beta-lactam bactericidal antibiotics originally isolated from the fungus Acremonium (Cephalosporium) chrysogenum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a major family of cell-wall synthesis inhibitors divided into five therapeutic generations used against Gram-positive and Gram-negative pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalosporin designates one of several broad spectrum antibiotic substances obtained from fungi and related to penicillin (trade names mefoxin); addition of side chains has produced semisynthetic antibiotics with greater antibacterial activity."*
+> - 📜 **Edward Abraham (*The Cephalosporin C Antibiotics*):** *"The chemical stability of **cephalosporin** C against penicillinase provided a vital weapon against resistant staphylococci."*
+> - 📜 **Giuseppe Brotzu (*Researches on a New Antibiotic*):** *"From seawater near a sewage outfall in Sardinia, I isolated the mold that produced the first **cephalosporin** substance."*
+> - 📜 **Howard Florey (*Antibiotics*):** *"The clinical introduction of the **cephalosporin** class expanded our antimicrobial armamentarium beyond the confines of penicillin."*

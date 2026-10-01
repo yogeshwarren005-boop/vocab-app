@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of nematoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of nematoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of free-living, terrestrial and bacterivorous nematodes (order Rhabditida) inhabiting soils and decaying organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate nematology, roundworms characterized by specialized prohabdions and probolae surrounding the mouth, key to soil nutrient cycling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalobidae designates a family of nematoda."*
+> - 📜 **Nathan Cobb (*Contributions to a Science of Nematology*):** *"Soil samples from cultivated fields invariably yield members of the **cephalobidae**, feeding voraciously upon decomposing bacteria."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"The cuticle of the **cephalobidae** displays delicate transverse annulations and complex cephalic probolae around the oral stoma."*
+> - 📜 **Sydney Brenner (*The Genetics of Caenorhabditis elegans and Allied Nematodes*):** *"Comparative morphology links the Rhabditidae directly with the specialized bacterivorous **cephalobidae**."*

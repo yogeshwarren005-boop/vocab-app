@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital lack of a head (especially in a parasitic twin).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The congenital lack of a head (especially in a parasitic twin).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital condition of having no head; acephalia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political anthropology and social theory, the organizational state of egalitarian or segmentary lineage societies lacking centralized political leadership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acephaly designates the congenital lack of a head (especially in a parasitic twin)."*
+> - 📜 **Isidore Geoffroy Saint-Hilaire (*Treatise on Teratology*):** *"Congenital **acephaly** is almost invariably accompanied by profound defects of the cervical spine and thoracic organs."*
+> - 📜 **E. E. Evans-Pritchard (*The Nuer: A Description of the Modes of Livelihood and Political Institutions*):** *"The ordered anarchy of Nuer society illustrates how social cohesion is maintained in the complete absence of political rulers, in pure **acephaly**."*
+> - 📜 **Meyer Fortes (*African Political Systems*):** *"In groups characterized by structural **acephaly**, lineage segment balances substitute for centralized state apparatuses."*

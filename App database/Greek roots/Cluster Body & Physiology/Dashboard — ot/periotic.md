@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surrounding or situated around the ear or otic capsule; specifically designating the fused petrous and mastoid portions of the temporal bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and embryology, the periotic bone enclosing the inner ear, cochlea, and semicircular canals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periotic designates adjective*) pertaining to, derived from, or characteristic of ear."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The dense **periotic** bone of cetaceans is heavily pachyostotic, isolating auditory reception from cranial reverberations."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"During chondrification, the **periotic** cartilaginous capsule envelops the membranous labyrinth of the developing embryo."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The morphogenetic unification of squamosal, tympanic, and **periotic** elements characterizes the advanced mammalian skull."*

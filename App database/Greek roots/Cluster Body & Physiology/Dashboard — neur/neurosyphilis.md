@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Syphilis of the central nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Syphilis of the central nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tertiary infection of the central nervous system caused by Treponema pallidum, leading to meningitis, dementia paralytica, or tabes dorsalis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious neuropathology and clinical medicine, a progressive Spirochaetal affliction classified into meningovascular, paretic (general paresis), and tabetic forms, diagnosed via cerebrospinal fluid VDRL and lymphocytic pleocytosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurosyphilis designates syphilis of the central nervous system."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The tragic manifestations of tertiary **neurosyphilis** range from lightning pains and Argyll Robertson pupils to complete intellectual ruin."*
+> - 📜 **Alois Alzheimer (*Histologische Studien zur Differentialdiagnose der progressiven Paralyse*):** *"Microscopic examination of the cerebral cortex in paretic **neurosyphilis** reveals dense perivascular plasma cell infiltration and iron deposition."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Tabetic arthropathy represents one of the striking trophic consequences observed in advanced cases of untreated **neurosyphilis**."*

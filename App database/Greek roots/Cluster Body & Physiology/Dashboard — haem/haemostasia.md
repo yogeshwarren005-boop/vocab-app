@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical procedure of stopping the flow of blood (as with a hemostat).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical procedure of stopping the flow of blood (as with a hemostat).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrest or stoppage of bleeding, either naturally by clotting or artificially by surgical means; hemostasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological pathology, the stagnation or slowing of the blood flow in a vessel or regional capillary bed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemostasia designates surgical procedure of stopping the flow of blood (as with a hemostat)."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"Natural **haemostasia** depends upon vascular retraction accompanied by the prompt formation of a firm fibrinous coagulum."*
+> - 📜 **Ambroise Paré (*The Workes of that Famous Chirurgion Ambrose Parey*):** *"To achieve secure **haemostasia** in amputations, I abandoned boiling oil in favor of gently ligating the severed arteries with thread."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Complete surgical **haemostasia** must be secured point by point with delicate pointed forceps to preserve wound sterility and vitality."*

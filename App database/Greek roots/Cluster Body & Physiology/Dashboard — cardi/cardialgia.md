@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cardi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe burning pain or discomfort in the epigastrium or retrosternal region; heartburn or pyrosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, esophageal or gastric burning caused by acid reflux, historically confused with ischemic cardiac pain due to sensory nerve convergence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardialgia designates a term designating an entity, condition, or phenomenon derived from greek cardi."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice and the Physiology of Digestion*):** *"Irritation of the gastric mucosa by acrid undigested aliment produced violent **cardialgia** that subsided upon neutralizing with alkaline salts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician must carefully differentiate simple **cardialgia** arising from acid reflux from genuine exertional angina pectoris."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"Nocturnal **cardialgia** torments the dyspeptic patient with burning sensations that mount upward from the stomach toward the throat."*

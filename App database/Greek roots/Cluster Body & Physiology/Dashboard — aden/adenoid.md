@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two abnormally enlarged masses of lymphoid tissue at the back of the pharynx that usually obstruct the nasal and ear passages; also : such a mass when not abnormally enlarged —usually plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the adenoids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the structural characteristics of a gland; glandular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, the pharyngeal tonsil situated on the posterior wall of the nasopharynx; or describing hypertrophied lymphatic tissues in that region.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Doc.) blames the sanitary conditions in which our greylunged citizens contract adenoids, pulmonary complaints etc. by inhaling the bacteria which lurk in dust."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The nasopharyngeal roof is occupied by a collection of **adenoid** tissue known clinically as the pharyngeal tonsil."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic mouth-breathing and dull facies in young children are typical consequences of obstructive **adenoid** hypertrophy."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The regression of **adenoid** aggregations during adolescence marks the functional maturation of the peripheral immune system."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lysis of erythrocytes with the release of hemoglobin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lysis of erythrocytes with the release of hemoglobin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The destruction, breakdown, or dissolution of red blood cells with release of hemoglobin into the surrounding medium; hemolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, intravascular or extravascular erythrocyte breakdown resulting from toxins, immune antibodies, mechanical heart valves, or hereditary enzyme defects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematolysis designates lysis of erythrocytes with the release of hemoglobin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe transfusion reactions trigger acute intravascular **haematolysis**, heralded by rigors, lumbar pain, and hemoglobinuria."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Complement-mediated **haematolysis** requires the coordinated interaction of sensitized amboceptors with thermolabile serum factors."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Elevated indirect bilirubin and undetectable serum haptoglobin provided unequivocal evidence of brisk ongoing **haematolysis**."*

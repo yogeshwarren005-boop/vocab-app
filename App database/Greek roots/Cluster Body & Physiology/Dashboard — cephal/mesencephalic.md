@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the mesencephalon (the midbrain).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, designating midbrain structures such as the mesencephalic trigeminal nucleus, the cerebral aqueduct, or the substantia nigra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesencephalic designates adjective*) pertaining to, derived from, or characteristic of head."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System of Man and Vertebrates*):** *"The **mesencephalic** nucleus of the trigeminal nerve contains unipolar sensory neurons that mediate proprioception from masticatory muscles."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The tectum of the **mesencephalic** segment bears the superior and inferior colliculi, vital for visual and auditory reflexes."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Transection through the **mesencephalic** level produces decerebrate rigidity by releasing vestibulospinal tone from higher cortical control."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek orch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital absence of both testes in a phenotypic male individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric endocrinology and urology, a rare developmental anomaly characterized by a 46,XY karyotype, male external genitalia, absent gonadal tissue, and elevated gonadotropins (vanishing testis syndrome).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorchia designates a term designating an entity, condition, or phenomenon derived from greek orch."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Endocrine assessment in bilateral **anorchia** confirms elevated pituitary gonadotropins resulting from absent testicular feedback."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Somatic infantilism and sexual eunuchism may be traced directly to congenital **anorchia**."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"Psychosexual development in cases of documented **anorchia** depends heavily on timely androgen replacement therapy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sex chromosome (such as the X or Y chromosome) that differs from ordinary autosomes in form, size, behavior, or genetic role in sex determination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, allosomes undergo specialized heteropyknosis and distinct meiotic pairing behaviors compared to homologous autosomes, often carrying sex-linked traits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allosome designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The dimorphic pair of chromosomes determining sex was designated an **allosome** to distinguish it from the standard autosomes."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Sex-linked inheritance in Drosophila proved conclusively that the mutant white-eye gene resides directly upon the X **allosome**."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Structural divergence between the X and Y **allosome** progressively limits crossing over to pseudoautosomal segments."*

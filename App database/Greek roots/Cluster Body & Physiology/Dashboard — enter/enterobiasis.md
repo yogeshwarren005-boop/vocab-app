@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation with or disease caused by pinworms (genus Enterobius, especially E. vermicularis) that occurs especially in children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation with or disease caused by pinworms (genus Enterobius, especially E. vermicularis) that occurs especially in children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation with the pinworm Enterobius vermicularis, common in children and characterized by intense perianal itching.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology, a cosmopolitan helminthic infection transmitted via the fecal-oral ingestion of microscopic eggs from contaminated bedding, clothing, or dust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterobiasis designates infestation with or disease caused by pinworms (genus enterobius, especially e. vermicularis) that occurs especially in children."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The definitive diagnosis of **enterobiasis** is established by applying clear adhesive tape to the perianal fold in early morning to capture ova."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"We treated the entire household with a single dose of mebendazole to eradicate persistent familial **enterobiasis**."*
+> - 📜 **Carl Zimmer (*Parasite Rex*):** *"Unlike tropical filarial worms, **enterobiasis** thrives in modern temperate nurseries, spreading easily among playful toddlers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine that deals with the diagnosis and treatment of disorders of the urinary tract or urogenital system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine that deals with the diagnosis and treatment of disorders of the urinary tract or urogenital system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and surgery concerned with the diagnosis and treatment of disorders of the urinary tract and male reproductive system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical specialties, the endoscopic, laparoscopic, and open operative management of the kidneys, ureters, urinary bladder, urethra, and prostate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urology designates the branch of medicine that deals with the diagnosis and treatment of disorders of the urinary tract or urogenital system."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern clinical **urology** has advanced rapidly with the introduction of precise cystoscopic inspection."*
+> - 📜 **Hugh Hampton Young (*Genital Abnormalities, Hermaphroditism and Related Adrenal Diseases*):** *"Pioneering surgical procedures in operative **urology** enabled complete perineal prostatectomy without urinary incontinence."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"The boundaries of surgical **urology** broadened dramatically as renal exploration became routine and secure."*

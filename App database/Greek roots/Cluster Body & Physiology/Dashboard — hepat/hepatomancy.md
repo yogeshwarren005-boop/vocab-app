@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hepat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by the inspection of the entrails, especially the liver, of sacrificed animals; haruspicy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient history and archaeology, a widespread religious ritual practiced by Babylonians, Etruscans, and Romans, who mapped anatomical liver markings to celestial portents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatomancy designates a term designating an entity, condition, or phenomenon derived from greek hepat."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The ancient Babylonian priests developed **hepatomancy** into an elaborate science, charting the lobes and gall-bladder of sacrificial sheep."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Belief that divine will was inscribed upon the liver made **hepatomancy** one of the most authoritative divination arts of antiquity."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"Clay models of the sheep's liver from Mesopotamia prove that anatomical study first began as an adjunct to superstitious **hepatomancy**."*

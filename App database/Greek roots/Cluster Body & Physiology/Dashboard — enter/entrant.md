@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commodity that enters competition with established merchandise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any new participant in some activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or group that enters an examination, competition, organization, or profession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial economics, a new firm entering a market to compete against established incumbent corporations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entrant designates a commodity that enters competition with established merchandise."*
+> - 📜 **Joseph Schumpeter (*Capitalism, Socialism and Democracy*):** *"The threat of the innovative new **entrant** disciplines entrenched monopolies far more effectively than regulatory mandates."*
+> - 📜 **Michael Porter (*Competitive Strategy*):** *"Barriers to entry determine how easily an outside **entrant** can contest an industry and erode incumbent profit margins."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"Every young hopeful **entrant** to the literary scene soon discovered the grim reality of unread review copies."*

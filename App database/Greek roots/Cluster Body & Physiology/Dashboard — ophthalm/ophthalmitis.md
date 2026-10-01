@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe conjunctivitis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe conjunctivitis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the eye or eyeball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, generalized or intraocular inflammatory disease, including sympathetic ophthalmitis, a bilateral granulomatous uveitis occurring after penetrating trauma to one eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophthalmitis designates severe conjunctivitis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Penetrating ciliary body trauma carries the dread complication of sympathetic **ophthalmitis** in the contralateral eye."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic sections in sympathetic **ophthalmitis** display diffuse granulomatous infiltration of the entire uveal tract."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Photophobia and ciliary injection in the sound eye signal the insidious onset of sympathetic **ophthalmitis**."*

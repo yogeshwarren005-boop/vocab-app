@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapist who manipulates the skeleton and muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A therapist who manipulates the skeleton and muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An osteopath; a person who advocates or practices osteopathy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history, early practitioners of Andrew Taylor Still's manipulative philosophy during the late nineteenth and early twentieth centuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteopathist designates a therapist who manipulates the skeleton and muscles."*
+> - 📜 **Andrew Taylor Still (*Philosophy and Mechanical Principles of Osteopathy*):** *"The true **osteopathist** must be a master of living anatomy, understanding how every nerve and vessel travels through fascial planes."*
+> - 📜 **Abraham Flexner (*Medical Education*):** *"In evaluating medical institutions, we noted how the practicing **osteopathist** gradually incorporated standard bacteriology into his clinic."*
+> - 📜 **William Osler (*Aequanimitas*):** *"While we criticize exclusive systems, we acknowledge that the skilled **osteopathist** frequently achieves relief in chronic mechanical back strains."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of meiotic prophase that immediately follows the zygotene and that is characterized by paired chromosomes thickened and visibly divided into chromatids and by the occurrence of crossing-over.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stage of meiotic prophase that immediately follows the zygotene and that is characterized by paired chromosomes thickened and visibly divided into chromatids and by the occurrence of crossing-over.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The third sub-stage of prophase I of meiosis, during which homologous chromosomes achieve full synapsis as thick bivalents (tetrads) and genetic crossing over takes place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, the synaptonemal complex is completely assembled during pachytene, aligning non-sister chromatids with high precision to mediate homologous recombination and DNA repair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachytene designates the stage of meiotic prophase that immediately follows the zygotene and that is characterized by paired chromosomes thickened and visibly divided into chromatids and by the occurrence of crossing-over."*
+> - 📜 **Barbara McClintock (*A Cytological and Genetical Study of Triploid Maize*):** *"The paired chromosomes at **pachytene** show exquisite chromomeric banding that allows precise physical gene mapping in maize."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Recombination of linked alleles occurs physically during the intimate pairing of the **pachytene** bivalents."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"Breakage and reciprocal reunion of non-sister chromatids are completed before the **pachytene** nucleus advances to diplotene."*

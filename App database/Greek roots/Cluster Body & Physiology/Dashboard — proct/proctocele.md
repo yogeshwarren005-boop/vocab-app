@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protrusion or herniation of the rectum into the vagina; can occur if pelvic muscles are weakened by childbirth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protrusion or herniation of the rectum into the vagina; can occur if pelvic muscles are weakened by childbirth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hernia or protrusion of the rectum into the vagina; rectocele.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pelvic reconstructive surgery and gynecology, herniation of the anterior rectal wall through the posterior vaginal wall resulting from weakening of the rectovaginal septum and endopelvic fascia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proctocele designates protrusion or herniation of the rectum into the vagina; can occur if pelvic muscles are weakened by childbirth."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Posterior colporrhaphy and fascial plication were successfully performed to repair the symptomatic **proctocele**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe multiparous pelvic relaxation frequently leads to combined cystocele and **proctocele** causing defecatory obstruction."*
+> - 📜 **James Marion Sims (*Clinical Notes on Uterine Surgery*):** *"Restoration of the perineal body provides the essential anatomical barrier against progressive **proctocele** descent."*

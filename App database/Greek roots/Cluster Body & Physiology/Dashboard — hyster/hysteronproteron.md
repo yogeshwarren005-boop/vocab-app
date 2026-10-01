@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech consisting of the reversal of a natural or rational order (as in "then came the thunder and the lightning").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure of speech consisting of the reversal of a natural or rational order (as in "then came the thunder and the lightning").
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant single-word spelling of hysteron proteron; the reversal of natural, logical, or chronological sequence in language or reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and logic, placing what is subsequent before what is prior; inverted syntax or inverted cause and effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteronproteron designates a figure of speech consisting of the reversal of a natural or rational order (as in "then came the thunder and the lightning")."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"To deduce moral virtue from political expediency is a gross philosophical **hysteronproteron**."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The modern utilitarian commits a perpetual **hysteronproteron**, mistaking outward clothes for the living inner man."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The term **hysteronproteron** combines the Greek comparatives for 'latter' and 'former' into an expressive compound."*

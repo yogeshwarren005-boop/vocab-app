@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cardi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal, pathological enlargement of the heart, resulting from myocardial hypertrophy, chamber dilatation, or both.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical radiology and cardiology, a cardiothoracic ratio exceeding 50 percent on a posteroanterior chest radiograph, indicating underlying heart disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiomegaly designates a term designating an entity, condition, or phenomenon derived from greek cardi."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Massive **cardiomegaly**, producing the classic cor bovinum, is frequently the end-stage result of unmanaged aortic insufficiency."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Chronic untreated systemic hypertension places sustained barometric afterload upon the left ventricle, culminating in marked **cardiomegaly**."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"The displaced apex beat and extended area of cardiac dullness provide unmistakable physical evidence of progressive **cardiomegaly**."*

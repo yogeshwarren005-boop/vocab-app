@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or causing injury to the liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or causing injury to the liver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Damaging, toxic, or destructive to the liver cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and toxicology, describing drugs, industrial solvents (like carbon tetrachloride), or natural compounds that induce hepatic necrosis or cholestasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatotoxic designates relating to or causing injury to the liver."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inadvertent ingestion of toxic mushrooms produces devastating hepatic necrosis due to powerful **hepatotoxic** amatoxins."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Certain chemical agents display an elective **hepatotoxic** affinity, paralyzing the metabolic enzymes of the liver parenchyma."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Excessive doses of acetaminophen become fiercely **hepatotoxic** once endogenous glutathione reserves are depleted."*

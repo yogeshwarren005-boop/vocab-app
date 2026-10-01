@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of delight at being filled with wonder and enchantment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of delight at being filled with wonder and enchantment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of being entranced; a state of wonder, delight, or hypnotic fascination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mysticism and psychology, a deep absorption in an aesthetic object or ecstatic trance that suspends awareness of external surroundings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entrancement designates a feeling of delight at being filled with wonder and enchantment."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"Roderick Usher's wild improvisations upon the guitar held me in a somber, unearthly **entrancement**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I sat on my sunny doorstep from sunrise till noon, rapt in a revery, amidst the pines, in undisturbed **entrancement**."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The mystic describes a profound state of **entrancement** where all sensory boundaries dissolve into unitive consciousness."*

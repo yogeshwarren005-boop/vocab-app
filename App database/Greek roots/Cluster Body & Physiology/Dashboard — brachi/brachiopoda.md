@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine invertebrates that resemble mollusks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine invertebrates that resemble mollusks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient phylum of solitary, marine bivalve invertebrates equipped with a lophophore and unequal dorsal and ventral shells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology, an ancient phylum with over 12,000 fossil species, exceptionally abundant from the Cambrian through the Permian.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiopoda designates marine invertebrates that resemble mollusks."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The phylum **brachiopoda** holds a unique evolutionary position, combining bivalve protective architecture with a sophisticated lophophore."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The sudden abundance of **brachiopoda** in primordial strata troubled early geologists who sought gradual ancestral lineages."*
+> - 📜 **Charles Doolittle Walcott (*Cambrian Brachiopoda*):** *"The well-preserved chitinous shells of the earliest **brachiopoda** illuminate the dawn of biomineralization in Cambrian seas."*

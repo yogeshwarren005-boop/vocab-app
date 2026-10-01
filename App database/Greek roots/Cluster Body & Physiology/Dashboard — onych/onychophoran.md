@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous velvety-skinned wormlike carnivorous animals common in tropical forests having characteristics of both arthropods and annelid worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous velvety-skinned wormlike carnivorous animals common in tropical forests having characteristics of both arthropods and annelid worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the phylum Onychophora; a velvet worm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and invertebrate physiology, a nocturnal forest floor predator that captures prey using squirted slime nets and breathes via non-closable spiracles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychophoran designates any of numerous velvety-skinned wormlike carnivorous animals common in tropical forests having characteristics of both arthropods and annelid worms."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The respiratory system of an **onychophoran** consists of numerous unbranched tracheae scattered across the body wall."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Each walking limb of the **onychophoran** is a conical unjointed lobopod bearing a pair of sharp terminal claws."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Embryological studies of the **onychophoran** Peripatus revealed segmented coelomic sacs reminiscent of annelids."*

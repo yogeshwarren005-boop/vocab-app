@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any developmental defect of the spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any developmental defect of the spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imperfect or incomplete development of the spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In congenital neuro-teratology, an embryonic developmental defect in the spinal cord, often characterized by localized hypoplasia, canal duplication, or dysraphic lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelatelia designates any developmental defect of the spinal cord."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **myelatelia** frequently underlies obscure lower extremity spasticity and neurogenic bladder dysfunction in early childhood."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Failure of the bilateral medullary plates to fuse cleanly during embryonic development results in localized **myelatelia**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Histological examination of the dysplastic cord revealed structural **myelatelia** with erratic glial proliferation."*

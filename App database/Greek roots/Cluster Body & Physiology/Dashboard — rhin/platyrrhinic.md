@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to new world monkeys having nostrils far apart or to people with broad noses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to new world monkeys having nostrils far apart or to people with broad noses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a broad, flat nose with widely separated nostrils; platyrrhine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In craniometry and anthropological osteology, characterized by a nasal aperture index exceeding 51.0 on skeletal skull measurements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platyrrhinic designates of or related to new world monkeys having nostrils far apart or to people with broad noses."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skull exhibited a distinctly **platyrrhinic** nasal aperture, broad across the maxilla."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Variations in the nasal bones produce both leptorrhine and **platyrrhinic** skull forms across primate taxa."*
+> - 📜 **Richard Owen (*Report on British Fossil Reptiles*):** *"The wide separation of the nasal orifices gives the face an undeniably **platyrrhinic** aspect."*

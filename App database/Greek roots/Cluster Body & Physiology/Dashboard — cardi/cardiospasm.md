@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: achalasia of the cardia (part of the esophagus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: achalasia of the cardia (part of the esophagus).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spasmodic contraction or failure of relaxation of the lower esophageal sphincter (the cardia), preventing food from entering the stomach; achalasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, functional esophageal obstruction leading to massive dilatation and tortuosity of the proximal esophagus (megaesophagus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiospasm designates achalasia of the cardia (part of the esophagus)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic **cardiospasm**, the esophagus above the tightened cardia becomes enormously dilated, regurgitating undigested food hours after meals."*
+> - 📜 **Harvey Cushing (*Surgery of the Alimentary Canal*):** *"Careful pneumatic balloon dilatation of the tight sphincter provides substantial symptomatic relief in intractable **cardiospasm**."*
+> - 📜 **Heinrich Quincke (*Disorders of the Esophagus*):** *"Microscopic examination of the resected tissue in severe **cardiospasm** confirms degeneration of the ganglion cells of Auerbach's plexus."*

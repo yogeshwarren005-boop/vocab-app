@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or near the sternum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or near the sternum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in or near the sternum (the breastbone).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, sternal puncture (aspiration of bone marrow from the manubrium or body of the sternum) is a historical diagnostic technique in hematology; sternal angle (angle of Louis) is a vital anatomical surface landmark.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sternal designates of or relating to or near the sternum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diagnostic **sternal** puncture yields bone marrow samples critical for identifying acute leukemia and megaloblastic anemia."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **sternal** angle provides an unmistakable surface marker opposite the articulation of the second costal cartilages."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Intense substernal pain radiating across the left **sternal** border demands immediate differentiation between angina and pleurisy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally small size of the body or a body part; dwarfism or localized hypoplasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dysmorphology and craniofacial surgery, hemifacial microsomia is a congenital condition characterized by unilateral underdevelopment of the ear, mandible, and facial musculature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsomia designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pituitary hypoplasia in early childhood results in proportionate **microsomia**, preserving normal infantile symmetry."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"Congenital hemifacial **microsomia** presents asymmetry originating from early disruption of the first and second branchial arches."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Cessation of skeletal growth in youthful craniopharyngioma leads to marked infantile **microsomia**."*

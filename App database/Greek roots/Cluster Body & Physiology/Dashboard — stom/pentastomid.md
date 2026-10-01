@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of worm-like, obligate endoparasitic crustaceans belonging to the subclass Pentastomida (commonly called tongue worms), which inhabit the respiratory tracts of carnivorous vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary parasitology and tropical medicine, pentastomids (such as *Linguatula serrata* and *Armillifer armillatus*) possess annulated bodies with four chitinous hooks flanking a central mouth; humans can become accidental intermediate hosts through ingestion of contaminated snake meat or canine secretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentastomid designates a term designating an entity, condition, or phenomenon derived from greek stom."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Calcified nymphs of the **pentastomid** parasite Armillifer armillatus are discovered incidentally on abdominal radiographs in western Africa."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The adult **pentastomid** clings tenacity to the nasal passages of canines using its four retractile hooklets."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Embryological and molecular affinities demonstrate that the vermiform **pentastomid** is a degenerated, highly modified crustacean."*

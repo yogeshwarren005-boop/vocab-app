@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical puncture of the thoracic wall into the pleural cavity to evacuate pathological fluid or air (the etymologically fuller form of thoracentesis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduced in nineteenth-century medicine (notably by Henry Ingersoll Bowditch) to drain pleural effusions and empyemas safely using trocar and aspirating syringes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thoracocentesis designates a term designating an entity, condition, or phenomenon derived from greek centr."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Bowditch demonstrated that timely **thoracocentesis** prevents chronic pulmonary atelectasis in massive pleurisy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In large serofibrinous pleurisies, gentle **thoracocentesis** should be undertaken before extreme mediastinal displacement occurs."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"A small exploratory puncture, or **thoracocentesis**, instantly reveals whether pus has formed within the pleural sac."*

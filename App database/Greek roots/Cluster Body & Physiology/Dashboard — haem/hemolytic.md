@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving or causing hemolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving or causing hemolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, causing, or marked by the breakdown and destruction of red blood cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing pathological conditions (such as hemolytic anemia, hemolytic disease of the newborn, or hemolytic uremic syndrome) characterized by shortened erythrocyte lifespan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemolytic designates relating to or involving or causing hemolysis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Familial **hemolytic** jaundice is distinguished by spherocytic erythrocytes, unconjugated hyperbilirubinemia, and marked splenomegaly."*
+> - 📜 **Alexander Fleming (*On the Antibacterial Action of Cultures of a Penicillium*):** *"Certain pathogenic cocci produced clear transparent zones of **hemolytic** destruction upon blood agar plates."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The **hemolytic** capacity of fresh immune serum was neutralized completely by brief heating to fifty-six degrees Centigrade."*

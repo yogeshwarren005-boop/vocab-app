@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The union of parts or branches (as of streams, blood vessels, or leaf veins) so as to intercommunicate or interconnect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A product of anastomosis : network.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cross-connection or communicative channel between two blood vessels, nerves, lymphatic channels, or other tubular or branching structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular surgery and gastroenterology, an anastomosis is a surgical connection established between two hollow viscera or transected vessels (e.g., end-to-end vascular or bowel anastomosis) to restore structural continuity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastomosis designates the union of parts or branches (as of streams, blood vessels, or leaf veins) so as to intercommunicate or interconnect."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In portal vein cirrhosis, opening of the portocaval **anastomosis** around the lower esophagus produces hazardous esophageal varices."*
+> - 📜 **Alexis Carrel (*The Surgery of Blood Vessels*):** *"End-to-end vascular **anastomosis** performed with fine silk sutures and triangulation technique prevents post-operative luminal thrombosis."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The circle of Willis represents an extraordinary intracranial arterial **anastomosis** safeguarding cerebral blood supply."*

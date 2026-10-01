@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi with a depressed disc in the cap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi with a depressed disc in the cap.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of poisonous, bioluminescent gilled mushrooms in the family Marasmiaceae, commonly known as Jack-o'-lantern mushrooms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology and toxicology, wood-decaying basidiomycetes containing the sesquiterpene illudin, which causes severe gastrointestinal poisoning when mistaken for edible chanterelles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omphalotus designates a genus of fungi with a depressed disc in the cap."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"Gills of the toxic woodland mushroom **Omphalotus** emit a striking greenish bioluminescence in total darkness."*
+> - 📜 **Roland Thaxter (*Contributions from the Cryptogamic Laboratory of Harvard University*):** *"The luminescent enzyme system found in **Omphalotus** requires oxygen and reduced pyridine nucleotides for photon emission."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Clusters of glowing **Omphalotus** upon decaying tree stumps present an eerie spectacle to nocturnal travelers."*

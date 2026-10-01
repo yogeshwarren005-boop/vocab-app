@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spondyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bony defect or stress fracture in the pars interarticularis of the vertebral arch, usually affecting the fourth or fifth lumbar vertebra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports medicine and spine orthopedics, spondylolysis is commonly triggered by repetitive hyperextension stress in adolescent athletes; if bilateral, it may progress to isthmic spondylolisthesis (the 'Scotty dog with a collar' sign on oblique radiographs).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondylolysis designates a term designating an entity, condition, or phenomenon derived from greek spondyl."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bilateral **spondylolysis** of the fifth lumbar vertebra creates the structural vulnerability that permits forward vertebral slippage."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Persistent lower back pain in young gymnasts should prompt careful radiologic evaluation for occult **spondylolysis**."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Surgical repair of the ununited pars fracture in symptomatic **spondylolysis** restores mechanical continuity to the neural arch."*

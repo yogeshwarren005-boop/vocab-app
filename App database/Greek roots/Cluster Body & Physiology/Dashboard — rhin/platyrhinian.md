@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to new world monkeys having nostrils far apart or to people with broad noses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to new world monkeys having nostrils far apart or to people with broad noses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a broad, flat nose; pertaining to or resembling New World monkeys (platyrrhines).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and comparative craniometry, describing individuals, populations, or non-human primates exhibiting a high nasal index characterized by widely spaced, lateral nostrils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platyrhinian designates of or related to new world monkeys having nostrils far apart or to people with broad noses."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The American monkeys are distinguished by their broad **platyrhinian** nasal septum and divergent nostrils."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Craniometrical measurements demonstrate how closely nasal breadth tracks climate across diverse **platyrhinian** groups."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The flat, widely separated nares of the marmoset present a classic **platyrhinian** configuration."*

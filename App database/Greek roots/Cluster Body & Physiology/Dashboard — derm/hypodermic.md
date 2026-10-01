@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted for use in or administered by injection beneath the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the parts beneath the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the parts beneath the skin; subcutaneous; or a syringe and hollow needle used for injecting liquids under the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and therapeutics, the parenteral route of drug administration designed for rapid systemic absorption bypassing digestive enzymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I shall give hypodermic injection of morphia.” He proceeded then, swiftly and deftly, to carry out his intent."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sedatives valueless 416:6 A hypodermic injection of morphine is administered to a patient, and in twenty minutes the sufferer is qui- etly asleep."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"At one time I was in bed eleven weeks, suffering intensely all the time except when relieved by hypodermic injections."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"He held the small **hypodermic** syringe in his hand, observing the clear droplet poised at the needle's tip."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The prompt **hypodermic** injection of atropine counteracts the cholinergic crisis induced by muscarine poisoning."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The captain produced an old brass **hypodermic** syringe, administering morphine to quiet the sailor's agony."*

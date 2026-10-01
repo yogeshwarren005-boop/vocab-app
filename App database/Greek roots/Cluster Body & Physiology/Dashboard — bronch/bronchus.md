@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two primary divisions of the trachea that lead respectively into the right and the left lung; broadly : bronchial tube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two primary divisions of the trachea that lead respectively into the right and the left lung; broadly : bronchial tube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two primary divisions of the trachea that lead into the right and left lungs, or any of their major secondary cartilaginous branches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory anatomy, a major conducting airway supported by cartilaginous plates, smooth muscle, and pseudostratified ciliated columnar epithelium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchus designates either of the two primary divisions of the trachea that lead respectively into the right and the left lung; broadly : bronchial tube."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The right **bronchus** departs from the trachea at a steeper downward angle, explaining why foreign objects so frequently lodge within it."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Each primary **bronchus** enters the hilum of its corresponding lung, accompanied by branches of the pulmonary artery and vein."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Severe dilatation of a **bronchus**, or bronchiectasis, creates permanent cavities that pool purulent secretions."*

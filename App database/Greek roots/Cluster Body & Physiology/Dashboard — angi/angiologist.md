@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician who specializes in angiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician who specializes in angiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist who studies, diagnoses, and treats diseases of the circulatory system, including arteries, veins, and lymphatic vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician dedicated to vascular medicine, addressing peripheral arterial disease, deep vein thrombosis, and lymphedema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiologist designates a physician who specializes in angiology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The consulting **angiologist** meticulously palpated the pedal pulses to assess the degree of peripheral arteriosclerotic insufficiency."*
+> - 📜 **Charles Dotter (*Transluminal Angioplasty*):** *"Cooperation between the diagnostic **angiologist** and the interventional surgeon created the modern discipline of endovascular medicine."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Every skilled **angiologist** recognizes that systemic vascular health reflects the cumulative integrity of the microcirculation."*

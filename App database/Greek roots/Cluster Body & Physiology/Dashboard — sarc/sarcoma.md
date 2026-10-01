@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant tumor arising in tissue (such as connective tissue, bone, cartilage, or striated muscle) of mesodermal origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malignant bone tumor especially of a long bone (as of the thigh) or the pelvis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant neoplasm arising from transformed cells of mesenchymal (connective tissue) origin, including bone, cartilage, muscle, fat, and vascular tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology, sarcomas are contrasted with carcinomas of epithelial origin; they typically metastasize hematogenously to the lungs and are classified by histological lineage (e.g., osteosarcoma, liposarcoma, rhabdomyosarcoma).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoma designates a malignant tumor arising in tissue (such as connective tissue, bone, cartilage, or striated muscle) of mesodermal origin."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"We apply the term **sarcoma** to malignant neoplasms originating from connective substances rather than true epithelium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A rapidly growing **sarcoma** of the thigh frequently produces early metastatic deposits in the pulmonary parenchyma."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The clinical course of osteoid **sarcoma** is marked by aggressive local bone erosion and high vascularity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of one of both testes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence of one of both testes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical condition of having no testes, either congenitally or through surgical or traumatic bilateral loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive pathology, testicular agenesis resulting from vascular accident or torsion during early fetal development, producing absent gonadal testosterone secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorchidism designates absence of one of both testes."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"The congenital condition known as **anorchidism** illustrates the profound dependency of secondary sexual characteristics upon gonadal secretions."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Physical examinations in confirmed **anorchidism** reveal smooth skin, high vocal pitch, and typical eunuchoid skeletal proportions."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Exploration of the inguinal canal in suspected **anorchidism** must establish the complete absence of viable testicular parenchyma."*

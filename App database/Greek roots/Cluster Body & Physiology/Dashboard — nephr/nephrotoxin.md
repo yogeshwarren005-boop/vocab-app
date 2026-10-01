@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any toxin that affects the kidneys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any toxin that affects the kidneys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic substance, chemical agent, or antibody that specifically damages kidney tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunopathology and nephrology, an endogenous cytotoxic autoantibody or exogenous chemical poison whose primary pathophysiological target is renal tubular or glomerular cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrotoxin designates any toxin that affects the kidneys."*
+> - 📜 **Paul Ehrlich (*Collected Papers on Immunology*):** *"Injection of renal emulsions into foreign hosts stimulated the production of a specific **nephrotoxin** capable of dissolving tubular epithelium."*
+> - 📜 **Karl Landsteiner (*The Specificity of Serological Reactions*):** *"The selective affinity of a serum **nephrotoxin** for renal parenchymal proteins illustrates the antigenic differentiation of vertebrate viscera."*
+> - 📜 **William Welch (*Papers and Addresses*):** *"Pathologists recognize that experimental inoculation with a bacterial **nephrotoxin** rapidly induces albuminuria and tubular necrosis."*

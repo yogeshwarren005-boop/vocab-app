@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: greasewood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: greasewood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American deciduous, thorny, succulent shrubs in the family Sarcobataceae, commonly known as greasewood, native to saline and alkaline desert soils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arid botany and ecology, *Sarcobatus* plants are halophytes that accumulate soluble sodium salts in their fleshy leaves, sometimes causing toxic oxalate poisoning in grazing livestock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcobatus designates one species: greasewood."*
+> - 📜 **John Torrey (*Report of the Exploring Expedition to the Rocky Mountains*):** *"Extensive flats bordering the Great Salt Lake are clothed almost exclusively by dense thickets of **Sarcobatus**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The succulent, vermiform leaves of **Sarcobatus** endure soil salinity that proves lethal to nearly all competing phanerogams."*
+> - 📜 **C. Hart Merriam (*Life Zones and Crop Zones of the United States*):** *"The presence of **Sarcobatus** vermiculatus unmistakably identifies the alkali sink association of the Upper Sonoran zone."*

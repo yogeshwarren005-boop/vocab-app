@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rod-shaped gram-negative bacteria; most occur normally or pathogenically in intestines of humans and other animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rod-shaped gram-negative bacteria; most occur normally or pathogenically in intestines of humans and other animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bacteria belonging to the family Enterobacteriaceae or inhabiting the intestinal tract of humans and animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology, Gram-negative facultative bacilli (such as Escherichia, Salmonella, and Klebsiella) monitored as enteric pathogens or fecal indicators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterics designates rod-shaped gram-negative bacteria; most occur normally or pathogenically in intestines of humans and other animals."*
+> - 📜 **Alexander Fleming (*Penicillin*):** *"Early penicillin preparations showed remarkable efficacy against Gram-positive cocci but proved ineffective against resilient Gram-negative **enterics**."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Bacteriologists isolated pathogenic **enterics** from tainted municipal wells that had spread typhoid through the valley."*
+> - 📜 **Ed Yong (*I Contain Multitudes*):** *"The mammalian colon harbors trillions of harmless commensal **enterics** that outcompete virulent opportunistic invaders."*

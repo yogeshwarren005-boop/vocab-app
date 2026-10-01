@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nephr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition in which the kidney drops down into the pelvis when the patient stands up; floating kidney.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urology and abdominal surgery, hypermobility of the kidney resulting from loss of perirenal adipose support, occasionally precipitating ureteral kinking and hydronephrosis (Dietl's crisis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephroptosis designates a term designating an entity, condition, or phenomenon derived from greek nephr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The diagnosis of symptomatic **nephroptosis** requires palpation of the descended organ during deep inspiration while standing."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"True **nephroptosis** must be distinguished from a congenital ectopic kidney fixed in the pelvis."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Colicky flank pain relieved immediately upon lying down is the classic symptom complex of movable kidney or **nephroptosis**."*

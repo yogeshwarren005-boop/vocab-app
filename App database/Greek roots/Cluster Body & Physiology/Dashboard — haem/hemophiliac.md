@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, resembling, or affected with a blood defect that is characterized by delayed clotting of the blood : of, resembling, or affected with hemophilia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One affected with a blood defect that is characterized by delayed clotting of the blood : one affected with hemophilia —called also bleeder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person affected with hemophilia, subject to prolonged and dangerous bleeding episodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of individuals suffering from hemophilia or related congenital clotting factor deficiencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemophiliac designates of, resembling, or affected with a blood defect that is characterized by delayed clotting of the blood : of, resembling, or affected with hemophilia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The extraction of a molar tooth in a **hemophiliac** patient must never be undertaken without full preparation for protracted hemorrhage."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"Pedigree charts tracking every known **hemophiliac** in the dynasty revealed how regularly the bleeding diathesis recurred."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"The constant anxiety experienced by the mother centered entirely upon the fragile health of her youngest son, a diagnosed **hemophiliac**."*

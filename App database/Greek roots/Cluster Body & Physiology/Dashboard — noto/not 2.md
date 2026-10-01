@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek noto.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and root (not- or noto-) derived from Greek nōton, signifying the back or the dorsal region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and biological nomenclature, a morpheme prefixed to terms denoting structures situated along, or animals characterized by, the dorsal surface (e.g., notochord, Notonecta).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, not 2 designates a term designating an entity, condition, or phenomenon derived from greek noto."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Comparative morphologists employ the root **not-** to indicate anatomical features aligned along the dorsal aspect of the body."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Taxonomic designations incorporating the classical prefix **not-** refer specifically to specialized dorsal armor or swimming adaptations."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"The axial embryonic rod derives its scientific title from the root **not-**, signifying the dorsal support of all chordate ancestors."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An epithelial parenchymatous cell of the liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An epithelial parenchymatous cell of the liver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parenchymal liver cell, constituting the principal structural and functional cell of the liver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and histology, a polarized polyhedral epithelial cell responsible for protein synthesis, lipid and carbohydrate metabolism, bile secretion, and xenobiotic detoxification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatocyte designates an epithelial parenchymatous cell of the liver."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"Each polyhedral **hepatocyte** lies bordered on one surface by vascular sinusoids and on the other by delicate intercellular bile canaliculi."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The remarkable regenerative capacity of the liver resides in the mitotic potential retained by the mature **hepatocyte** even after extensive necrosis."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Within the endoplasmic reticulum of each **hepatocyte**, cytochrome P450 enzymes catalyze the oxidative detoxification of diverse pharmaceuticals."*

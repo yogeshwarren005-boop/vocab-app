@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arthr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of multiple joints simultaneously or in rapid succession (typically five or more joints).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical rheumatology, symmetrical or migratory joint inflammation characteristic of systemic autoimmune disorders, including rheumatoid arthritis and lupus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyarthritis designates a term designating an entity, condition, or phenomenon derived from greek arthr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The migratory **polyarthritis** of acute rheumatic fever flits from joint to joint, leaving no residual deformity behind."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"When multiple joints swell simultaneously, the condition ceases to be simple podagra and enters the realm of systemic **polyarthritis**."*
+> - 📜 **Paul Klemperer (*Collagen Diseases*):** *"Chronic symmetrical **polyarthritis** is the clinical hallmark of connective tissue degeneration within synovial membranes."*

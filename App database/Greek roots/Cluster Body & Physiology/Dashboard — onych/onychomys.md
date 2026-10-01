@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grasshopper mice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grasshopper mice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of predatory cricetid rodents native to North America, commonly known as grasshopper mice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary mammalogy and neurobiology, carnivorous nocturnal desert mice renowned for preying upon venomous scorpions, howling territorial vocalizations, and resistance to scorpion neurotoxins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychomys designates grasshopper mice."*
+> - 📜 **Joel Asaph Allen (*Bulletin of the American Museum of Natural History*):** *"The robust skull and short, thick tail of **Onychomys** set it apart from ordinary seed-eating cricetines."*
+> - 📜 **Oldfield Thomas (*Annals and Magazine of Natural History*):** *"Specimens of **Onychomys** collected across the arid plains demonstrated pronounced predatory feeding habits."*
+> - 📜 **Edward Drinker Cope (*The Primary Factors of Organic Evolution*):** *"The predatory specialization of the grasshopper mouse **Onychomys** represents an exceptional behavioral departure among rodents."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Correct and valid reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Correct and valid reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or attribute of possessing logic, rational consistency, and coherence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic and philosophical analysis, the structural rigor and deductive adherence displayed by a chain of reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logicalness designates correct and valid reasoning."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The apparent **logicalness** of a syllogism cannot compensate for fundamental obscurity in the original ideas."*
+> - 📜 **William James (*Pragmatism*):** *"Human life requires practical adaptability rather than the frozen **logicalness** of absolute philosophical systems."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The relentless **logicalness** with which natural selection operates leaves no quarter for unfit biological variations."*

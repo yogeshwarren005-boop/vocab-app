@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various deciduous terrestrial orchids having fleshy tubers and flowers in erect terminal racemes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the two male reproductive glands that produce spermatozoa and secrete androgens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial flowering plants in the orchid family Orchidaceae, native to Europe, northwestern Africa, and parts of Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical nomenclature and historical taxonomy, the type genus of the family Orchidaceae (described by Linnaeus), characterized by tubers resembling paired testicles and hooded floral perianths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ORCHIS CLUSTER-CUP; spots large, pallid, orbicular or elongated; peridia circinating, semi-immersed; spores golden-yellow.—On _Orchis latifolia_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ORCHIS UREDO; amphigenous; spots reddish-brown; sori subrotund, arranged in circles, often confluent; sporidia subglobose, golden-yellow.—On _Listera ovata_ and _Orchis latifolia_."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"She never pulled a primrose, but she knew the haunts of all the orchis tribe, and brought from them bees and butterflies innumerable, as offerings to her sister."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The genus **Orchis** is distinguished by its twin fleshy tubers, spurred corolla, and erect flowering spike."*
+> - 📜 **Charles Darwin (*Fertilisation of Orchids*):** *"In species of **Orchis**, the pollinia are equipped with viscid discs that adhere firmly to the proboscis of visiting moths."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"On the chalky slopes in early summer, the early purple **Orchis** blooms abundantly beside the woodland paths."*

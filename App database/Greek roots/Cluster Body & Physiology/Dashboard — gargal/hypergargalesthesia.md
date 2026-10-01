@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gargal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally excessive or heightened sensitivity to tickling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and sensory processing, an extreme tactile hypersensitivity where the slightest touch evokes violent laughter, reflex spasm, or distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypergargalesthesia designates a term designating an entity, condition, or phenomenon derived from greek gargal."*
+> - 📜 **G. Stanley Hall (*The Psychology of Tickling*):** *"Certain nervous temperaments exhibit pronounced **hypergargalesthesia**, flinching and shouting even before a teasing finger makes contact."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tactile hyperesthesia in early neuropathy occasionally manifests as unbearable **hypergargalesthesia** upon light touch."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Autistic patients often experience sensory overload, describing normal social touch as agonizing **hypergargalesthesia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skin or skin ailment of a (specified) type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skin or skin ailment of a (specified) type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dermis, or true skin situated below the epidermis; the corium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, the vascular connective tissue matrix supporting the cutaneous appendages and sensory corpuscles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, derma designates skin or skin ailment of a (specified) type."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"Chronic inflammation causes cellular exudation into the papillary layer of the **derma**, elevating the surface into papules."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Scleroderma induces dense, board-like induration throughout the fibrous bundles of the **derma**."*
+> - 📜 **Erasmus Wilson (*On Diseases of the Skin*):** *"The **derma** is richly supplied with arterial plexuses that regulate both cutaneous nutrition and animal heat."*

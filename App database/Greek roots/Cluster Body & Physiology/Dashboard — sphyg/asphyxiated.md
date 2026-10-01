@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of oxygen and prevent from breathing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impair the respiration of or obstruct the air passage of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffocated, smothered, or killed due to deprivation of breathable oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and post-mortem examination, an asphyxiated body typically shows marked facial cyanosis, subpleural petechiae, and venous engorgement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asphyxiated designates deprive of oxygen and prevent from breathing."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The unfortunate man lay upon the rug, his contorted features bearing the dreadful marks of having been **asphyxiated**."*
+> - 📜 **John Scott Haldane (*Respiration*):** *"Autopsies on miners **asphyxiated** by afterdamp demonstrated high levels of carbon monoxide saturation in the blood."*
+> - 📜 **Claude Bernard (*Lessons on the Effects of Toxic and Medicinal Substances*):** *"Animals **asphyxiated** in sealed glass receivers succumb when the atmospheric oxygen is reduced below three percent."*

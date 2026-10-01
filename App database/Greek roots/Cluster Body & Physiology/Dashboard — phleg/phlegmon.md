@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phleg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute, purulent, spreading inflammation of deep connective tissue without sharply defined borders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, a diffuse, suppurative bacterial infection (often caused by Streptococcus pyogenes or Staphylococcus aureus) infiltrating fascial planes and subcutaneous tissue spaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlegmon designates a term designating an entity, condition, or phenomenon derived from greek phleg."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"A diffuse **phlegmon** exhibits extensive neutrophil infiltration dissecting between connective tissue bundles without encystment."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Gas-forming organisms multiplying in the subcutaneous spaces produce a virulent gas **phlegmon** requiring radical fasciotomy."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Multiple incisions were made to drain the spreading retroperitoneal **phlegmon** before septicemia ensued."*

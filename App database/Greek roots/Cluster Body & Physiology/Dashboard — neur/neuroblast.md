@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek neur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An embryonic, undifferentiated cell of neuroectodermal origin that develops into a mature neuron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental neurobiology, a migratory progenitor cell derived from the germinal epithelium of the neural tube that extends neurites and undergoes terminal differentiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroblast designates a term designating an entity, condition, or phenomenon derived from greek neur."*
+> - 📜 **Wilhelm His (*Die Neuroblasten und deren Entstehung im embryonalen Mark*):** *"I observed that each **neuroblast** is an independent cellular unit originating from the deep germinal layer of the neural tube."*
+> - 📜 **Santiago Ramón y Cajal (*Studies on Vertebrate Neurogenesis*):** *"The pyriform **neuroblast** extends a pioneering axonal cone that steers actively through the embryonic intercellular spaces."*
+> - 📜 **Ross Granville Harrison (*Observations on the Living Developing Nerve Fiber*):** *"Culturing isolated **neuroblast** cells in clotted lymph proved that the nerve fiber grows as a protoplasmic outgrowth of the cell body."*

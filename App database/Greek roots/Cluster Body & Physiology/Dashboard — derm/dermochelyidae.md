@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea turtles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea turtles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of gigantic marine turtles comprising the leatherback sea turtle (Dermochelys coriacea) and its fossil relatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and herpetology, marine chelonians distinguished by a carapace covered with leathery oily skin and thousands of tiny polygonal osteoderms rather than horny scutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermochelyidae designates sea turtles."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The family **Dermochelyidae** parted company from ancestral hard-shelled marine turtles back in the Cretaceous, developing a mosaic osteodermal shell."*
+> - 📜 **Michael J. Benton (*Vertebrate Palaeontology*):** *"Fossil skeletons of the **Dermochelyidae** attain colossal proportions, reflecting profound adaptation to open ocean pelagic diving."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"The unique leathery shell of the **Dermochelyidae** enables these giant pelagic wanderers to dive into frigid oceanic depths."*

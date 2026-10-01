@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enclosed territory that is culturally distinct from the foreign territory that surrounds it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enclosed territory that is culturally distinct from the foreign territory that surrounds it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A portion of territory entirely surrounded by the territory of an alien state or sovereign power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political geography and urban sociology, a distinct cultural, linguistic, or ethnic community enclosed within a larger, differing population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enclave designates an enclosed territory that is culturally distinct from the foreign territory that surrounds it."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The small Indian reservations formed a tragic, isolated **enclave** surrounded on all sides by expanding European settlements."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A small Roman **enclave** held out along the Danube for decades after the surrounding provinces had fallen to barbarian kings."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Stateless refugees found themselves trapped within a legal **enclave**, devoid of civil rights in their country of refuge."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various minute cellular structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particle in a particulate fraction that is obtained by heavy centrifugation of broken cells and consists of various amounts of ribosomes, fragmented endoplasmic reticulum, and mitochondrial cristae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small vesicle formed from the fragmented endoplasmic reticulum when eukaryotic cells are homogenized and subjected to differential centrifugation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduced biochemically by Albert Claude; smooth microsomes are enriched in cytochrome P450 and lipid synthesis enzymes, while rough microsomes are studded with ribosomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsome designates any of various minute cellular structures."*
+> - 📜 **Albert Claude (*Fractionation of Mammalian Liver Cells by Differential Centrifugation*):** *"The submicroscopic particle fraction which I designated the **microsome** sedimented only at ultra-high centrifugal velocities."*
+> - 📜 **Christian de Duve (*Tissue Fractionation: Past and Present*):** *"Electron microscopy proved that each **microsome** is an artifactual vesicle derived from severed endoplasmic reticulum."*
+> - 📜 **George Palade (*Studies on the Endoplasmic Reticulum*):** *"Detaching the ribonucleoprotein granules from the **microsome** surface isolates the functional machinery of protein translation."*

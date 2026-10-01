@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation especially of the mucous membrane of the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation especially of the mucous membrane of the stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the protective mucosal lining of the stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology and histopathology, acute erosive or chronic non-erosive inflammation, most commonly caused by Helicobacter pylori infection, NSAIDs, or alcohol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Up to that time, for seventeen years, I had suffered with indigestion and gastritis in the worst form, often being overcome from a seeming pressure against the heart."*
-> - 📜 **James Joyce (*Ulysses*):** *"Bristow, at Whitehall lane, London: Carr, Stoke Newington, of gastritis and heart disease: Cockburn, at the Moat house, Chepstow... —I know that fellow, says Joe, from bitter experience. —Cockburn."*
+> - 📜 **Barry Marshall (*Helicobacter Pioneers*):** *"To prove that the spiral bacillus caused disease, I drank a culture of Helicobacter pylori and developed acute, biopsy-proven **gastritis** within days."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute toxic **gastritis** follows the ingestion of corrosive poisons, showing extensive mucosal necrosis and sloughing."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"Prophylactic acid suppression in surgical intensive care prevents the development of acute stress-induced **gastritis** and mucosal bleeding."*

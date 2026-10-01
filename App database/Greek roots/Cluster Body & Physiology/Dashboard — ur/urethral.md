@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the urethra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the urethra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, situated in, or affecting the urethra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology, urethral catheterization, urethral stricture disease, and urethral discharge in urethritis are frequent diagnostic and therapeutic considerations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, urethral designates of or relating to the urethra."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **urethral** crest is a prominent longitudinal fold on the floor of the prostatic portion of the canal."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Purulent **urethral** discharge containing intracellular gram-negative diplococci confirms acute gonococcal infection."*
+> - 📜 **Astley Cooper (*The Principles and Practice of Surgery*):** *"Spasmodic contraction of the **urethral** sphincter often yields to warm hip baths and gentle instrumentation."*

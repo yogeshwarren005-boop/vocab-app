@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involved in hematology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involved in hematology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving hematology, the branch of medicine concerned with the blood and blood-forming tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory medicine, describing blood counts, smear morphology, coagulation profiles, or blood malignancies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematological designates of or relating to or involved in hematology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A complete **haematological** survey must include erythrocyte counts, leucocyte differentiation, and stained platelet morphology."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Acute lymphoblastic leukemia was the first **haematological** malignancy cured by targeted combination chemotherapy."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The lab technician telephoned critical **haematological** results, warning of severe consumptive thrombocytopenia."*

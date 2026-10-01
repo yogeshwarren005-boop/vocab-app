@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical instrument for detecting sounds produced in the body that are conveyed to the ears of the listener through rubber tubing connected with a piece placed upon the area to be examined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical instrument for detecting sounds produced in the body that are conveyed to the ears of the listener through rubber tubing connected with a piece placed upon the area to be examined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acoustic medical instrument used by healthcare professionals for auscultation (listening to the internal sounds of the human or animal body, particularly heart, lung, and intestinal sounds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invented in 1816 by French physician René Laennec, who initially employed a rolled wooden cylinder; later developed into the modern binaural stethoscope with bell and diaphragm by Arthur Leared and George Cammann.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He not only used his stethoscope (which had not become a matter of course in practice at that time), but sat quietly by his patient and watched him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I believe that you are suffering from what is called fatty degeneration of the heart, a disease which was first divined and explored by Laennec, the man who gave us the stethoscope, not so very many years ago."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Lucy’s heart beat a trifle more audibly to the stethoscope, and her lungs had a perceptible movement."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"I rolled a quire of paper into a tight cylinder and applied one end to the precordial region; such was the origin of the **stethoscope**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"With the binaural **stethoscope**, the presystolic murmur of mitral stenosis becomes unmistakable to the trained clinical ear."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The young physician proudly carries his **stethoscope**, deciphering the subtle melodies and discords of respiration."*

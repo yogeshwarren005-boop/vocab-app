@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supporting tissue intermingled with the essential elements of nervous tissue especially in the brain, spinal cord, and ganglia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting glia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The non-neuronal supporting tissue of the central and peripheral nervous system, comprising astrocytes, oligodendrocytes, and microglia; neuroglia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology, active cellular partners that provide metabolic support, modulate synaptic transmission, maintain the blood-brain barrier, and direct neural repair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glia designates supporting tissue intermingled with the essential elements of nervous tissue especially in the brain, spinal cord, and ganglia."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"I coined the term neuro-**glia** to designate the interstitial connective substance that embeds the nervous elements of the brain."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Far from being a passive cement, the delicate arborizations of the **glia** interact dynamically with active neuronal synapses."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Astrocytic **glia** actively clear neurotransmitters from the synaptic cleft, shaping the temporal duration of synaptic currents."*

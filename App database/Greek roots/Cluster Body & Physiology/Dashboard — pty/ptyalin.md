@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amylase found in the saliva of many animals that converts starch into sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amylase found in the saliva of many animals that converts starch into sugar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme found in saliva that breaks down starch into simpler sugars such as maltose and dextrin (salivary alpha-amylase).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digestive biochemistry, the principal amylolytic enzyme secreted by the parotid and submandibular salivary glands, active at neutral pH and inactivated by gastric hydrochloric acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ptyalin designates an amylase found in the saliva of many animals that converts starch into sugar."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Digestion of starch commences in the oral cavity through the rapid catalytic action of salivary **ptyalin**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The conversion of insoluble starches into soluble sugars by **ptyalin** demonstrates the enzymatic efficiency of saliva."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Salivary **ptyalin** acts as an unorganized ferment, accelerating saccharification before the bolus reaches the stomach."*

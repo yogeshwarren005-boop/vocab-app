@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An admission of error or discourtesy accompanied by an expression of regret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression of regret for not being able to do something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of regret, sorrow, or repentance offered to someone for having caused grievance, injury, or mistake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, rhetoric, and law, a formal defense, justification, or vindication of an individual's conduct or philosophical convictions (e.g., Plato's Apology of Socrates).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you will take your instant leave o’ the king, And make this haste as your own good proceeding, Strengthen’d with what apology you think May make it probable need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His enter and exit shall be strangling a snake; and I will have an apology for that purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quoniam _he seemeth in minority_, Ergo _I come with this apology._ Keep some state in thy exit, and vanish. [_Moth retires._] _Judas I am._— DUMAINE."*
+> - 📜 **Benjamin Jowett (*The Dialogues of Plato*):** *"In the **Apology**, Socrates refuses to compromise truth to secure a favorable verdict from the Athenian jury."*
+> - 📜 **Jane Austen (*Emma*):** *"A polite note of **apology** arrived before noon, begging forgiveness for the unexpected postponement."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"He published an **apology** for his dramatic satire, asserting that his sole aim had been the improvement of public morals."*

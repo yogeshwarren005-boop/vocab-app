@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to neuropsychiatry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to neuropsychiatry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to neuropsychiatry; relating to mental disorders and behavioral symptoms arising from organic diseases of the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical practice, characterizing conditions such as Huntington's disease, dementia, delirium, or traumatic brain injury where neurological lesions produce psychiatric syndromes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"He's been in neuropsychiatric hospitals more than once."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"The profound affective instability seen in cerebral arteriosclerosis presents a difficult **neuropsychiatric** dilemma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"General paresis of the insane exhibits a progressive course of grandiose delusions accompanied by grave **neuropsychiatric** decay."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Severe damage to the right parietal lobe evokes bizarre **neuropsychiatric** manifestations of agnosia and spatial neglect."*

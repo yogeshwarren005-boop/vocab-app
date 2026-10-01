@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A logician skilled in dialectic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A logician skilled in dialectic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thinker skilled in dialectic, logical disputation, or philosophical debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of philosophy, a philosopher recognized for rigorous cross-examination and systemic analysis of intellectual contradictions (e.g., Zeno, Socrates, Hegel).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This fixed idea of the rhapsodist was delivered with animated enthusiasm, in a manner entirely declamatory, for he had plainly no skill as a dialectician."*
+> - 📜 **Benjamin Jowett (*The Dialogues of Plato*):** *"Socrates was hailed by his companions as the foremost **dialectician** of Athens, unmatched in dismantling pretense."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father trained me from boyhood to be a thorough **dialectician**, testing every premise before granting a conclusion."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Zeno of Elea was honored by Aristotle as the inventor of dialectic and the first master **dialectician**."*

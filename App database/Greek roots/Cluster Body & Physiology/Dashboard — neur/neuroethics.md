@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of ethical implications of treatments for neurological diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of ethical implications of treatments for neurological diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interdisciplinary field of study that examines the ethical, legal, and social implications of neuroscience and neurotechnology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bioethics and cognitive science, the systematic evaluation of moral questions surrounding brain enhancement, neural privacy, neuroimaging in law, and brain-machine interfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroethics designates the study of ethical implications of treatments for neurological diseases."*
+> - 📜 **William Safire (*Visions for a New Field of Neuroethics*):** *"I define **neuroethics** as the examination of what is right and wrong about our treatment of, or our enhancement of, the human brain."*
+> - 📜 **Martha Farah (*Neuroethics: The Practical and the Philosophical*):** *"Advances in functional brain imaging raise urgent questions for **neuroethics** concerning mental privacy and personal responsibility."*
+> - 📜 **Patricia Churchland (*Brain-Wise: Studies in Neurophilosophy*):** *"Philosophical inquiries into free will and moral responsibility must align with the emerging empirical findings of **neuroethics**."*

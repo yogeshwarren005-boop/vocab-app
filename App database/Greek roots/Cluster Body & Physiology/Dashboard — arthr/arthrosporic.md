@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to arthrospores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to arthrospores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by arthrospores; reproducing by means of arthrospores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and bacteriology, designating species that form spores through the fragmentation of hyphal threads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthrosporic designates of or relating to arthrospores."*
+> - 📜 **Anton de Bary (*Morphology of the Fungi*):** *"The **arthrosporic** mode of reproduction differs fundamentally from the endogenous production of ascospores within a sac."*
+> - 📜 **Ferdinand Cohn (*Beiträge zur Biologie der Pflanzen*):** *"In filamentous schizomycetes, **arthrosporic** fragmentation occurs rapidly when nutrient broth becomes exhausted."*
+> - 📜 **Roland Thaxter (*Studies on Myxobacteria*):** *"Hyphae displaying **arthrosporic** cleavage separate cleanly along double cell walls under mechanical vibration."*

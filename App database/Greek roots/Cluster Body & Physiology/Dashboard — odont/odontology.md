@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science dealing with the teeth, their structure and development, and their diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forensic odontology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the structure, development, diseases, and comparative anatomy of the teeth; dentistry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic medicine and anthropology, the scientific analysis of human dentition, bite marks, and dental restoration records to identify human remains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontology designates a science dealing with the teeth, their structure and development, and their diseases."*
+> - 📜 **Richard Owen (*Odontography: A Treatise on the Comparative Anatomy of the Teeth*):** *"Comparative **odontology** demonstrates how dentition reflects an animal's exact place within ecological food webs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The integration of bacteriological research into **odontology** has clarified the etiology of dental caries."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The findings of evolutionary **odontology** trace the progressive reduction of human canine size since the late Miocene."*

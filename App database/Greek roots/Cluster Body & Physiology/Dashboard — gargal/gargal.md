@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of tickle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of tickle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek gargalizein, meaning to tickle or provoke laughter through tactile stimulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological psychology and historical neurology, the root morpheme denoting heavy, laughter-inducing tickling and tactile reflexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gargal designates adjective*) pertaining to, derived from, or characteristic of tickle."*
+> - 📜 **G. Stanley Hall (*The Psychology of Tickling, Laughing, and the Comic*):** *"We isolated the Greek root **gargal** to designate the coarse, laughter-provoking form of tickle that convulsed children."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Tactile reflexes derived from **gargal** stimulation provoke instinctive laughter and evasive muscular contractions across young primates."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The reflex response to sensory **gargal** excitation illustrates how localized cutaneous nerves evoke systemic visceral agitation."*

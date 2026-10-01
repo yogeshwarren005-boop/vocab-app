@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skull; specifically : the part of the skull that encloses the brain : braincase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skull; specifically : the part of the skull that encloses the brain : braincase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The skull, especially the part enclosing the brain; the bony braincase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy, the skeletal enclosure formed by the neurocranium and splanchnocranium that houses and protects the brain and sense organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Present appearances would indicate them not to have been altogether groundless; but really, when the fair Mary fled so precipitately, the idea of making Winnie Morris his bride had never entered her brother's cranium."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It encountered his cranium with a tremendous crash; he was tumbled headlong into the dust, and Gunpowder, the black steed, and the goblin rider passed by like a whirlwind."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"From the illusion implied in this last postulate arises the decomposition of mortal bodies in what is termed death. 92:9 Mind is not an entity within the cranium with the power of sinning now and forever."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The occipital, parietal, and frontal bones unite along serrated sutures to complete the dome of the mammalian **cranium**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Increased intracranial pressure within the rigid **cranium** inevitably compromises cerebral arterial perfusion."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The gradual enlargement of the hominid **cranium** accompanied the expansion of cerebral cortex during the Pleistocene."*

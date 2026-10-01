@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cephal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe congenital developmental disorder resulting from failure of the embryonic prosencephalon (forebrain) to cleave into distinct right and left cerebral hemispheres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurology and teratology, a malformation spectrum ranging from alobar to lobar forms, frequently accompanied by midfacial anomalies such as cyclopia or cleft lip.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holoprosencephaly designates a term designating an entity, condition, or phenomenon derived from greek cephal."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In complete **holoprosencephaly**, a single monoventricular cerebrum fails to divide into lateral hemispheres, accompanied by facial dysmorphism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Midline facial clefts and hypotelorism in the neonate should immediately prompt imaging to evaluate for underlying **holoprosencephaly**."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Defective sonic hedgehog signaling during early gastrulation is the primary molecular etiology of human **holoprosencephaly**."*

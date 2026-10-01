@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of arm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of arm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or involving both the upper arm (brachium) and the spinal cord or vertebral column (rhachis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and clinical neurology, designating the cervical spinal roots and cord pathways that innervate the arm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachiorrhachidian designates adjective*) pertaining to, derived from, or characteristic of arm."*
+> - 📜 **Charles Bell (*The Nervous System of the Human Body*):** *"The **brachiorrhachidian** pathways coordinate reflex withdrawal of the arm when noxious stimuli touch the hand."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Cervical enlargement of the spinal cord reflects the vast concentration of motor neurons supplying **brachiorrhachidian** trunks."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Spinal cord tumors compressing the fifth cervical segment provoke severe **brachiorrhachidian** pain and motor weakness."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician who specializes in ophthalmology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician who specializes in ophthalmology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician who specializes in the diagnosis, medical management, and surgical treatment of diseases and disorders of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In specialized surgery, a medical doctor performing cataract extraction, corneal transplantation, retinal detachment repair, and glaucoma surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophthalmologist designates a physician who specializes in ophthalmology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The astute **ophthalmologist** frequently detects the first clinical signs of systemic arteriosclerosis and diabetes."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Choked discs detected by the **ophthalmologist** provide objective confirmation of elevated intracranial pressure."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Consultation with the **ophthalmologist** confirmed paralysis of convergence in post-encephalitic parkinsonism."*

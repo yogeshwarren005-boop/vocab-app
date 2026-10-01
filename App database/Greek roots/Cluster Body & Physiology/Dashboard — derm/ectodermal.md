@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the ectoderm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the ectoderm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from the ectoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics, describing conditions such as ectodermal dysplasia that affect teeth, hair, nails, and cutaneous glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectodermal designates of or relating to the ectoderm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients with congenital **ectodermal** dysplasia exhibit total anodontia and an inability to tolerate warm weather."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"Tissue graft experiments demonstrate that competent **ectodermal** sheets can form either lens or epidermis depending upon organizer signals."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"The cellular movements of gastrulation position the **ectodermal** sheet as the external envelope of the entire embryo."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek odont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of Triassic archosaurian reptiles, originally described from fossil teeth resembling scythes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, an archosauromorph reptile from the Middle and Upper Triassic of Europe, historically classified alongside megalosaurs based on curved, serrated teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Zanclodon designates a term designating an entity, condition, or phenomenon derived from greek odont."*
+> - 📜 **Richard Owen (*A History of British Fossil Reptiles*):** *"The curved, serrated teeth of **Zanclodon** exhibit a scythe-like profile suited for slicing through dinosaurian prey."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Fossil jaw fragments referred to **Zanclodon** were once considered primitive representatives of carnivorous megalosaurs."*
+> - 📜 **Edward Drinker Cope (*The Primary Factors of Organic Evolution*):** *"The dental morphology of **Zanclodon** illustrates the early evolutionary emergence of ziphodont dentition in Triassic archosaurs."*

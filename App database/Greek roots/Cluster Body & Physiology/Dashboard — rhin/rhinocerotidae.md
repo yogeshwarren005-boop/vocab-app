@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rhinoceroses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rhinoceroses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of large, thick-skinned odd-toed ungulates (perissodactyls) comprising the living and extinct rhinoceroses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian paleontology and evolutionary biology, a clade of heavy-bodied herbivorous mammals characterized by one or two keratinous nasal horns, tridactyl feet, and high-crowned lophodont molars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinocerotidae designates rhinoceroses."*
+> - 📜 **Richard Owen (*Palaeontology*):** *"Fossil remains of the woolly rhinoceros prove the extensive prehistoric range of the **rhinocerotidae** across Pleistocene Europe."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The geographical distribution of the living **rhinocerotidae** in Africa and Asia represents the fragmented remnants of a once dominant fauna."*
+> - 📜 **Georges Cuvier (*Recherches sur les ossemens fossiles*):** *"Skeletal comparisons place the **rhinocerotidae** near the tapirs and extinct palaeotheres."*

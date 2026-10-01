@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek splen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the spleen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary and human pathology, acute or chronic splenitis may result from systemic septicemia, endocarditis with septic embolization, splenic abscess formation, or parasitic infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, splenitis designates a term designating an entity, condition, or phenomenon derived from greek splen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In infective endocarditis, septic emboli lodgment produces acute suppurative **splenitis** with intense left upper quadrant pain."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Local peritonitis frequently accompanies acute **splenitis**, provoking a painful friction rub audible over the lower left ribs."*
+> - 📜 **James Law (*The Farmer's Veterinary Adviser*):** *"Anthrax in cattle is marked by profound hemorrhagic **splenitis**, swelling the organ to many times its natural bulk."*

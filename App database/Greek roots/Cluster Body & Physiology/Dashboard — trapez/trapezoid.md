@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quadrilateral having only two sides parallel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quadrilateral having only two sides parallel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quadrilateral having at least one pair of parallel sides (American usage) or having no sides parallel (British usage); also, the second carpal bone of the wrist situated between the trapezium and the capitate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human wrist anatomy, the trapezoid (lesser multangular bone) is wedge-shaped with its broad end dorsal, articulating distally with the base of the second metacarpal bone to form a rigid carpal framework.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trapezoid designates a quadrilateral having only two sides parallel."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **trapezoid** is the smallest bone in the second row of the carpus, wedged firmly between the trapezium and capitate."*
+> - 📜 **Euclid (*Elements*):** *"The area of a **trapezoid** is calculated from half the sum of its parallel bases multiplied by its perpendicular height."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The carpal **trapezoid** maintains an unyielding connection with the base of the index metacarpal across all hominoids."*

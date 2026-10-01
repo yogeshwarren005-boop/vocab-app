@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having no arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of having no arms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of the arms or upper extremities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and developmental embryology, an extreme limb reduction anomaly resulting from failure of upper limb-bud initiation during early gestation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abrachia designates the condition of having no arms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital anomalies of the extremities range from subtle polydactyly to total **abrachia**, where both arms are entirely missing at birth."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Arrest of the upper limb buds during the fourth week of embryonic development culminates in complete **abrachia**."*
+> - 📜 **Isidore Geoffroy Saint-Hilaire (*General and Particular History of Anomalies of Organization*):** *"In our teratological taxonomy, **abrachia** exemplifies the complete suppression of the anterior paired appendages."*

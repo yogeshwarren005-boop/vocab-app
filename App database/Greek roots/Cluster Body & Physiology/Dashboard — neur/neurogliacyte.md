@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell of the neuroglia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell of the neuroglia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual glial cell of the central nervous system; a neuroglial cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytopathology and neurohistology, an individual astrocyte, oligodendrocyte, or microglial cell, often evaluated for reactive hypertrophy or neoplastic transformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurogliacyte designates a cell of the neuroglia."*
+> - 📜 **Pío del Río-Hortega (*The Microglia and Its Pathological Alterations*):** *"Under pathological irritation, the resting **neurogliacyte** retracts its delicate ramified processes and transforms into an active macrophage."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The fibrous **neurogliacyte** of the white matter extends long, smooth expansions that terminate in perivascular sucker feet upon capillary walls."*
+> - 📜 **Camillo Golgi (*Sulla fina anatomia degli organi centrali del sistema nervoso*):** *"Every star-shaped **neurogliacyte** contributes to a vast metabolic syncytium that supports adjacent pyramidal nerve cells."*

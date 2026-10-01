@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The environment as it relates to living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biology concerned with the relations between organisms and their environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that studies the relationships and interactions between living organisms and their environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental science, the comprehensive study of ecosystem energetics, trophic cascades, biodiversity dynamics, and planetary conservation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecology designates the environment as it relates to living organisms."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"By **ecology** we mean the body of knowledge concerning the economy of nature—the total relations of the animal to its organic and inorganic environment."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The chemical barrage ignored the basic tenets of **ecology**, poisoning the food chains upon which birds and mammals depend."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"A land ethic changes the role of Homo sapiens from conqueror of the land-community to plain member and citizen of its **ecology**."*

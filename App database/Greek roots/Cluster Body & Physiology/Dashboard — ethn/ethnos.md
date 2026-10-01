@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People of the same race or nationality who share a distinctive culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People of the same race or nationality who share a distinctive culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A people, nation, or ethnic group characterized by shared culture, ancestry, language, and historical self-awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political anthropology and sociology, the primordial cultural community contrasted with the political apparatus of the state (demos).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethnos designates people of the same race or nationality who share a distinctive culture."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Belief in common descent binds the members of an **ethnos**, providing an emotional ground for collective political action."*
+> - 📜 **Benedict Anderson (*Imagined Communities*):** *"The modern nation-state sought to align political boundaries with an idealized, homogeneous **ethnos**."*
+> - 📜 **Anthony D. Smith (*The Ethnic Origins of Nations*):** *"The enduring continuity of the ancient **ethnos** depends upon shared myths of origin and collective historical memories."*

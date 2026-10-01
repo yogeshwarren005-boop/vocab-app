@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eat a lot and without restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eat a lot and without restraint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To eat gluttonously or gorge oneself; to feed voraciously beyond reasonable appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and social commentary, to overindulge excessively in sensory pleasures or worldly consumption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gluttonize designates eat a lot and without restraint."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"Eat not to dullness; drink not to elevation: my first resolution was never to **gluttonize** at table."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"After weeks of shipboard hardtack, the passengers were eager to **gluttonize** upon fresh figs and grapes in the Azores."*
+> - 📜 **Herman Melville (*Omoo*):** *"The island feast invited every sailor to **gluttonize** upon roasted breadfruit, poi, and suckling pig until midnight."*

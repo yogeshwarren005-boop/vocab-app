@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spondyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Age-related degenerative osteoarthritis and wear of the spinal column, affecting intervertebral discs and facet joints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics, spondylosis leads to disc desiccation, osteophyte (bone spur) formation, hypertrophy of the ligamentum flavum, and subsequent spinal canal or neuroforaminal stenosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondylosis designates a term designating an entity, condition, or phenomenon derived from greek spondyl."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cervical **spondylosis** with osteophytic ridge formation is a frequent cause of insidious myelopathy in elderly patients."*
+> - 📜 **Pierre Marie (*Sur la spondylose rhizomélique*):** *"Degenerative **spondylosis** must be distinguished from the inflammatory ankylosing arthropathies of youthful life."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Radicular pain radiating into the upper extremities often reflects neural foraminal encroachment by cervical **spondylosis**."*

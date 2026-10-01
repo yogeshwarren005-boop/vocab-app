@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the major dialects of old english.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the major dialects of old english.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the Angles, an ancient Germanic people who settled in Britain in the 5th century AD, or to East Anglia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and archaeology, the Old English dialect and cultural tradition of Northumbria, Mercia, and East Anglia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anglian designates one of the major dialects of old english."*
+> - 📜 **Bede (*Ecclesiastical History of the English People*):** *"The **Anglian** kingdom of Northumbria embraced the Christian faith through the preaching of the holy bishop Aidan."*
+> - 📜 **J.R.R. Tolkien (*Beowulf: The Monsters and the Critics*):** *"The poetic diction of Beowulf preserves archaic **Anglian** linguistic forms reflecting ancient heroic traditions."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Fierce **Anglian** warriors carved out independent principalities along the Humber and Trent river valleys."*

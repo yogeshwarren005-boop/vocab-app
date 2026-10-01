@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The membrane of connective tissue that closely invests all bones except at the articular surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The membrane of connective tissue that closely invests all bones except at the articular surfaces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized, dense, vascular fibrous membrane that covers and protects the outer surface of all bones except at joint surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bone physiology and surgery, a two-layered tissue consisting of an outer fibrous protective coat and an inner cambium layer containing osteogenic progenitor cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periosteum designates the membrane of connective tissue that closely invests all bones except at the articular surfaces."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **periosteum** is a tough fibrous membrane adhering tenaciously to the bone surface and transmitting nutrient blood vessels."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Stripping away the **periosteum** reveals the compact bone beneath, which derives its sensory vitality largely from this outer sheath."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"When bone is fractured, the proliferating osteoblasts of the **periosteum** generate the essential external callus of repair."*

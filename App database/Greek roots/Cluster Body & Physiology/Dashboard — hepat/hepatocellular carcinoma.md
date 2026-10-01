@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hepat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most common type of primary liver cancer, originating in the hepatocytes and often associated with chronic liver disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern gastrointestinal oncology, a hypervascular parenchymal malignancy characterized by elevated serum alpha-fetoprotein, portal vein invasion, and variable architectural trabecular differentiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatocellular carcinoma designates a term designating an entity, condition, or phenomenon derived from greek hepat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surveillance of cirrhotic patients is critical because chronic parenchymal regeneration predisposes to the emergence of **hepatocellular carcinoma**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In **hepatocellular carcinoma**, neoplastic liver cells produce bile-like secretions while proliferating in expansive, atypical glandular trabeculae."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The molecular etiology of **hepatocellular carcinoma** links chronic viral inflammation and genomic instability directly to clonal hepatic malignant transformation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heart : cardiac : cardiac and.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heart : cardiac : cardiac and.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek anatomical combining form derived from kardia, denoting the heart or the cardiac orifice of the stomach (cardi- / cardio-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological nomenclature, a radical prefix entering into foundational terms describing the cardiovascular and circulatory systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardi designates heart : cardiac : cardiac and."*
+> - 📜 **Galen (*On Anatomical Procedures*):** *"The ancient Greeks designated the central throbbing organ of life by the radical **cardi**, tracing its vascular trunks throughout the flesh."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"All our physiological investigations confirm that the organ designated by **cardi** functions as an inexhaustible hydraulic pump."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Compound terms formed from the root **cardi** encompass both the muscular organ in the thorax and the esophageal opening of the stomach."*

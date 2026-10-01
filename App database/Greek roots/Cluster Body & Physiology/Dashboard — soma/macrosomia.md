@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally large size or overgrowth of the body, particularly fetal macrosomia (defined as neonatal birth weight exceeding 4,000 to 4,500 grams).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and maternal-fetal medicine, macrosomia is strongly associated with maternal diabetes mellitus, gestational hyperglycemia, maternal obesity, and excessive gestational weight gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrosomia designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **J. Whitridge Williams (*Williams Obstetrics*):** *"Marked fetal **macrosomia** significantly increases the hazard of shoulder dystocia during cephalic delivery."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Infants of diabetic mothers frequently exhibit pronounced **macrosomia**, plethoric facies, and hypertrophied viscera."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Constitutional **macrosomia** should be distinguished from generalized dropsical swelling or endocrinopathic gigantism."*

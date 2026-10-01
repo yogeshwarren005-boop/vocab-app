@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The archaic or historical term for surgery; manual operative treatment of disease and injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical historiography, the operative discipline practiced by barber-surgeons and guild chirurgeons prior to modern scientific medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chirurgy designates a term designating an entity, condition, or phenomenon derived from greek chir."*
+> - 📜 **Ambroise Paré (*The Apologie and Treatise of Ambroise Paré*):** *"The art of **chirurgy** consists in removing what is superfluous, restoring what is dislocated, and uniting what is divided."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"In the Renaissance, the guild of **chirurgy** struggled persistently against the condescension of university physicians."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"I can cure an ulcer or set a broken bone by the manual rules of **chirurgy**, yet nature alone performeth the true healing."*

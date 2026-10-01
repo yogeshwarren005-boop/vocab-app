@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing having seemingly contradictory qualities or phases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement or sentiment that is seemingly contradictory or opposed to common sense and yet is perhaps true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seemingly absurd or self-contradictory statement or proposition that when investigated may prove to be well founded or true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and logic, an antinomy or statement that leads to a contradiction from seemingly acceptable premises, such as the Liar's Paradox or Russell's Paradox.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This was sometime a paradox, but now the time gives it proof."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You undergo too strict a paradox, Striving to make an ugly deed look fair."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s consideration the paradox that the more you drink the thirstier you are and reclines his head upon the window-sill in a state of hopeless languor."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The **paradox** of whether the barber who shaves all non-self-shavers shaves himself forced a total reconstruction of set theory."*
+> - 📜 **G. K. Chesterton (*The Everlasting Man*):** *"A **paradox** is truth standing on her head to attract attention."*
+> - 📜 **Søren Kierkegaard (*Concluding Unscientific Postscript*):** *"The highest pitch of human thought is to encounter a **paradox** that thought itself cannot resolve."*

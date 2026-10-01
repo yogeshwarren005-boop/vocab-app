@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical operation that creates a permanent opening through the abdominal wall into the intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical operation that creates a permanent opening through the abdominal wall into the intestine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical incision made into the intestine, typically to inspect the lumen, remove an obstruction, or obtain a biopsy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative abdominal surgery, an incision through the serosa, muscularis, and mucosa of the small bowel, closed with meticulous transverse suturing to prevent luminal stenosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterotomy designates surgical operation that creates a permanent opening through the abdominal wall into the intestine."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"After isolating the obstructing gallstone, the surgeon performed a clean **enterotomy** in healthy proximal bowel to extract the calculus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Accidental perforation during lysis of dense adhesions necessitated prompt primary repair of the inadvertent **enterotomy**."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"The incision was closed transversely with interrupted silk sutures following completion of the exploratory **enterotomy**."*

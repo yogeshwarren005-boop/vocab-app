@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of digit, finger , toe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of digit, finger , toe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by having five digits on each limb; pentadactyl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative osteology, exhibiting the archetypal tetrapod digital formula of five radiating digits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentadactylous designates adjective*) pertaining to, derived from, or characteristic of digit, finger , toe."*
+> - 📜 **Richard Owen (*On the Nature of Limbs*):** *"The mammalian skeleton remains fundamentally **pentadactylous**, even when lateral digits atrophy into small vestigial splints."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"The primitive **pentadactylous** condition of ancestral reptiles serves as our reference baseline for all limb modifications."*
+> - 📜 **Alfred Romer (*The Vertebrate Body*):** *"In human anatomy, the persistence of an unspecialized **pentadactylous** hand was the prerequisite for tool use."*

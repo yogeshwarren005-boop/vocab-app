@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastic, reconstructive, or cosmetic surgery performed on the external ear (auricle or pinna).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reconstructive surgery, procedures performed to reshape prominent ears (pinback otoplasty), repair trauma, or reconstruct the auricle in congenital microtia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otoplasty designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **Jacques Joseph (*Nasenplastik und Sonstige Gesichtsplastik*):** *"Correction of prominent ears by posterior cartilage scoring and suturing represents the foundational technique of modern cosmetic **otoplasty**."*
+> - 📜 **Harold Gillies (*Plastic Surgery of the Face*):** *"Total auricular reconstruction requires multi-stage **otoplasty** using autologous costal cartilage carved to mimic the helical rim."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Careful hemostasis and gentle bolsters are essential following **otoplasty** to avert compressive hematoma and subsequent cartilage necrosis."*

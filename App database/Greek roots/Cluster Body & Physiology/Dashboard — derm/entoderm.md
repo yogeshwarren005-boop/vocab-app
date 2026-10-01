@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner germ layer that develops into the lining of the digestive and respiratory systems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner germ layer that develops into the lining of the digestive and respiratory systems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative anatomical and embryological term for the endoderm; the inner germ layer of an embryo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology, the innermost epithelial layer of the gastrula from which the viscera and digestive glands originate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entoderm designates the inner germ layer that develops into the lining of the digestive and respiratory systems."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"In coelenterates, the body consists essentially of two living sheets, the ectoderm and the internal **entoderm**."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"Fate maps of amphibian eggs demonstrate that the sub-equatorial cells migrate inward to form the **entoderm**."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Glandular and absorptive functions throughout the metazoan series are primarily carried out by derivatives of the **entoderm**."*

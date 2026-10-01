@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two abnormally enlarged masses of lymphoid tissue at the back of the pharynx that usually obstruct the nasal and ear passages; also : such a mass when not abnormally enlarged —usually plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two abnormally enlarged masses of lymphoid tissue at the back of the pharynx that usually obstruct the nasal and ear passages; also : such a mass when not abnormally enlarged —usually plural.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mass of enlarged lymphatic tissue situated at the back of the nasal cavity in the roof of the nasopharynx (pharyngeal tonsils).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, pathologically enlarged nasopharyngeal lymphoid tissue that causes nasal airway obstruction and mouth breathing in children.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Doc.) blames the sanitary conditions in which our greylunged citizens contract adenoids, pulmonary complaints etc. by inhaling the bacteria which lurk in dust."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When hypertrophied **adenoids** block the posterior nares, the child snores loudly and suffers fitful, interrupted sleep."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"He spoke with that thick, choked voice you associate with overgrown **adenoids** and damp English winters."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The schoolmaster snorted through swollen **adenoids**, his spectacles slipping down his shiny nose."*

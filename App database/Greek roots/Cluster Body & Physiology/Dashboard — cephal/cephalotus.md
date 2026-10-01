@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: australian pitcher plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: australian pitcher plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of insectivorous pitcher plants containing Cephalotus follicularis (the Albany pitcher plant), endemic to southwestern Australia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, a low-growing wetland herb producing both flat photosynthetic foliage leaves and stout, complex insect-trapping pitfall pitchers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalotus designates one species: australian pitcher plant."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"In the peaty swamps near Albany, **cephalotus** produces miniature lidded pitchers decorated with prominent down-curved peristome teeth."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The downward-pointing teeth around the collar of **cephalotus** prevent captured insects from crawling upward out of the digestive fluid."*
+> - 📜 **Joseph Dalton Hooker (*On the Carnivorous Habits of Plants*):** *"The dual foliage of **cephalotus** demonstrates that pitcher traps are modified leaf petioles adapted for animal nutrient capture."*

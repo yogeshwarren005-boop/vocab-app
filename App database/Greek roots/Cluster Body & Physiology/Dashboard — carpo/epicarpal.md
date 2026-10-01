@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the epicarp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the epicarp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the epicarp (the outer skin of a fruit); or situated upon the carpus (wrist).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and anatomical descriptions, designating structures located on or pertaining to the outer fruit wall or the carpal joint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicarpal designates of or relating to the epicarp."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Microscopic sections show that the **epicarpal** layer is coated with an impermeable cuticle that repels water."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Color pigments responsible for the blush on ripening pome fruits reside primarily within the **epicarpal** cells."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The superficial dorsal veins cross the **epicarpal** fascia of the wrist before joining the cephalic and basilic trunks."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal and excision of diseased or prolapsed hemorrhoids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colorectal surgery, an operative resection of third- or fourth-degree hemorrhoidal cushions performed using open (Milligan-Morgan) or closed (Ferguson) anatomical techniques.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemorrhoidectomy designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"When strangulated piles resist all soothing emollients, a prompt **hemorrhoidectomy** rescues the patient from threatened sloughing and gangrene."*
+> - 📜 **Joseph Lister (*Collected Papers*):** *"By performing **hemorrhoidectomy** under carbolic irrigation, the customary septic suppuration of the perineal tissues was entirely averted."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Delicate submucosal dissection during **hemorrhoidectomy** avoids subsequent cicatricial narrowing of the anal canal."*

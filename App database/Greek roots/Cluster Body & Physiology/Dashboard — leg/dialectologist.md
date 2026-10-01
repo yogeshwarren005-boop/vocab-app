@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in dialectology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in dialectology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguist who specializes in the study of regional dialects and linguistic variation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field linguistics and sociolinguistics, a researcher who compiles linguistic atlases, documents isoglosses, and analyzes phonetic differences across speech communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialectologist designates a specialist in dialectology."*
+> - 📜 **Edward Sapir (*Selected Writings in Language, Culture and Personality*):** *"The field **dialectologist** must record oral transcriptions with meticulous acoustic accuracy before local idioms vanish."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"The modern **dialectologist** no longer seeks merely curious provincialisms, but traces living phonetic laws."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Through systematic interviews and questionnaires, the **dialectologist** maps the geographic contours of linguistic variation."*

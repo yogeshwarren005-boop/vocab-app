@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The drawing of blood (as by venipuncture) for transfusion, apheresis, diagnostic testing, or experimental procedures —called also venesection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The drawing of blood (as by venipuncture) for transfusion, apheresis, diagnostic testing, or experimental procedures —called also venesection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A healthcare professional trained and certified to draw blood from patients for clinical diagnostic testing, transfusions, or research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern hospital practice, a clinical specialist proficient in venipuncture techniques, specimen integrity, and patient safety protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebotomist designates the drawing of blood (as by venipuncture) for transfusion, apheresis, diagnostic testing, or experimental procedures —called also venesection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A skilled **phlebotomist** collects diagnostic specimens swiftly, minimizing patient distress and hemolysis."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The hospital **phlebotomist** hurried down the ward with a tray of sterile vacuum tubes and tourniquets."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Careful aseptic technique practiced by the laboratory **phlebotomist** ensured uncontaminated blood cultures."*

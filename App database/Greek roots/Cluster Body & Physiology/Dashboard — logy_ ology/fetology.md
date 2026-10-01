@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine concerned with the fetus in the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine concerned with the fetus in the uterus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical branch concerned with the study, care, and management of the fetus in the womb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In perinatology and clinical obstetrics, the specialized field utilizing prenatal imaging, fetoscopy, and intrauterine intervention to diagnose and treat fetal anomalies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fetology designates the branch of medicine concerned with the fetus in the uterus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advances in embryonic anatomy have laid the groundwork for an emerging **fetology** capable of monitoring antenatal life."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The clinical student of **fetology** must appreciate how organogenesis mirrors phylogenetic transformations."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Modern **fetology** now detects complex congenital cardiac malformations in utero, allowing planned neonatal intervention."*

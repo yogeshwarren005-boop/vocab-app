@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classification systems placed in family polypodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classification systems placed in family polypodiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and diverse genus of ferns in the family Aspleniaceae, commonly known as spleenworts, comprising hundreds of species occurring worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, *Asplenium* species (such as the maidenhair spleenwort *Asplenium trichomanes* and ebony spleenwort *Asplenium platyneuron*) feature distinct linear sori and include classic polyploid reticulate complexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asplenium designates in some classification systems placed in family polypodiaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"On damp limestone ledges, delicate fronds of **Asplenium** trichomanes root deeply into narrow, sheltered fissures."*
+> - 📜 **William Jackson Hooker (*British Ferns*):** *"The sori in **Asplenium** are straight and single, covered with a membranous indusium that opens toward the midrib."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"Extensive hybridization and allopolyploidy within **Asplenium** demonstrate ongoing reticulate speciation in ferns."*

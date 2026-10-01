@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, concerned with, or involving both mind and body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, involving, or concerned with bodily symptoms caused by mental or emotional disturbance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or caused by the interaction of the mind (psyche) and the body (soma).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and internal medicine, psychosomatic disorders are physical diseases whose development, severity, or course is significantly influenced by emotional, cognitive, or behavioral stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychosomatic designates of, relating to, concerned with, or involving both mind and body."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"Hysterical conversion provides the classic demonstration of a **psychosomatic** transition from mental trauma to somatic symptom."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician must never forget the profound **psychosomatic** impact of emotional anxiety upon gastric secretion and arterial tension."*
+> - 📜 **Carl Jung (*Modern Man in Search of a Soul*):** *"A strictly organic view of disease ignores the intricate **psychosomatic** unity that binds bodily illness to psychic disharmony."*

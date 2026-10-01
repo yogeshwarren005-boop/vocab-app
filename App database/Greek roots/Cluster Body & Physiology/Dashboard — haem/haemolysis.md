@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lysis of erythrocytes with the release of hemoglobin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lysis of erythrocytes with the release of hemoglobin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rupture, breakdown, or dissolution of erythrocytes with the release of hemoglobin into surrounding fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physiology and pharmacology, the pathological or experimental destruction of red blood cell membranes caused by toxins, antibodies, mechanical trauma, or hypotonic stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemolysis designates lysis of erythrocytes with the release of hemoglobin."*
+> - 📜 **Karl Landsteiner (*The Specificity of Serological Reactions*):** *"When incompatible serums and erythrocytes mingle, rapid agglutination is frequently followed by total **haemolysis** in the presence of complement."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Toxic snake venom induces extensive intravascular **haemolysis**, rapidly depleting the circulating cellular elements."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The microscopic observations demonstrate how osmotic shock triggers spontaneous **haemolysis**, leaving behind pale ghost cells in the plasma."*

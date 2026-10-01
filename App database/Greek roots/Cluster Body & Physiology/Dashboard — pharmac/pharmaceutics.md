@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pharmac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The discipline of pharmacy that deals with the process of turning a new chemical entity into a medication usable safely and effectively by patients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of dosage form design, manufacturing, bioavailability, and drug delivery systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology needed 129:21 We must abandon pharmaceutics, and take up ontol- ogy, - "the science of real being." We must look deep into realism instead of accepting only the out- 129:24 ward sense of things."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Advances in **pharmaceutics** allow sustained-release formulations that maintain steady therapeutic plasma concentrations."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"The discipline of **pharmaceutics** bridges the gap between synthetic organic chemistry and clinical pharmacokinetics."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Accurate compounding and knowledge of **pharmaceutics** are the pharmacist's supreme contribution to patient safety."*

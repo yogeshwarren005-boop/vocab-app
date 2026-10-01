@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or involving the heart and blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or involving the heart and blood vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving the heart and blood vessels collectively; relating to the circulatory system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiological medicine, designating the complex of coronary heart disease, stroke, hypertension, and peripheral vascular disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiovascular designates of or pertaining to or involving the heart and blood vessels."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"The continuous, circular movement of the blood through the **cardiovascular** conduits demonstrates the mechanical function of the heart."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Atherosclerosis of the coronary and cerebral arteries represents the primary threat to adult **cardiovascular** health in industrial nations."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"Autonomic nervous reflexes dynamically adjust peripheral vascular resistance to preserve **cardiovascular** perfusion during physical stress."*

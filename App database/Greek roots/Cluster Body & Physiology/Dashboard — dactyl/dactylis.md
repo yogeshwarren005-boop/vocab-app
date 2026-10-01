@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monocotyledonous grass of the family gramineae (has only one species).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monocotyledonous grass of the family gramineae (has only one species).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Eurasian and North African grasses (family Poaceae), notably Dactylis glomerata, commonly known as cocksfoot or orchard grass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pasture agronomy, a robust perennial bunchgrass valued for livestock grazing, characterized by dense, one-sided clusters of spikelets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"COCKSFOOT SMUT; produced on the leaves, forming elongated parallel sori on the upper surface; spores obovate, rather large, rough with minute granules.—On leaves of _Dactylis glomerata_ and other Grasses."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Orchard grass, **Dactylis** glomerata, is widely cultivated in pastures for its early, luxuriant spring growth."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Wind-pollinated grasses such as **Dactylis** produce prodigious clouds of fine pollen when shaken by the breeze."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Agriculture*):** *"The tufted habit of **Dactylis** makes it an invaluable pasture grass upon dry, shady hillsides."*

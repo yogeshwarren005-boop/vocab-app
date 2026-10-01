@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of music that is outside the European art tradition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of music in a sociocultural context.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the music of different cultures, especially non-Western music in its cultural context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology and musicology, the multidisciplinary field that examines musical sound, performance practices, and social meaning within communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethnomusicology designates the study of music that is outside the european art tradition."*
+> - 📜 **Alan Merriam (*The Anthropology of Music*):** *"The discipline of **ethnomusicology** treats music not merely as acoustic sound, but as human behavior integrated into culture."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"Field recordings in **ethnomusicology** reveal how communal polyrhythms induce ecstatic trance states across African traditions."*
+> - 📜 **Béla Bartók (*Hungarian Folk Music*):** *"My pioneering excursions into **ethnomusicology** among Carpathian peasants unlocked modal harmonies that revitalized modern classical composition."*

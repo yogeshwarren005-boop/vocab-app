@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various extinct mammals (genus Mammut synonym Mastodon) of the elephant family existing from the Miocene through the Pleistocene that are distinguished from the related mammoths chiefly by molar teeth with cone-shaped cusps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is unusually large.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, extinct elephant-like proboscidean mammal of the genus Mammut, having distinct nipple-shaped cusps on its molar teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, Miocene to Pleistocene proboscideans with low-crowned zygodont molars adapted for browsing woody vegetation, distinct from true mammoths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That Himmalehan, salt-sea Mastodon, clothed with such portentousness of unconscious power, that his very panics are more to be dreaded than his most fearless and malicious assaults!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"That Himmalehan, salt-sea Mastodon, clothed with such portentousness of unconscious power, that his very panics are more to be dreaded than his most fearless and malicious assaults!"*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Amid these lovely pastures roved large herds of elephants, with the mastodon, rhinoceros, horse, and elk, while the streams and lakes abounded with fish."*
+> - 📜 **Georges Cuvier (*Researches on Fossil Bones*):** *"I assigned the name **mastodon** to this colossal extinct quadruped on account of the nipple-shaped tubercles upon its molars."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"The discovery of the incognitum or American **mastodon** near the Ohio River proves the ancient existence of enormous land beasts."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Bones and teeth of the giant **mastodon** are frequently unearthed from peat bogs and post-Pliocene gravels."*

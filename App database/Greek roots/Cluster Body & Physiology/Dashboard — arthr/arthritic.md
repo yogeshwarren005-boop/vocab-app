@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected with arthritis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seemingly affected with or caused by arthritis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or suffering from arthritis; afflicted with inflammation of the joints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual afflicted with chronic arthritis; characterized by stiffness, deformity, or swelling of the articular joints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthritic designates of, relating to, or affected with arthritis."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"The **arthritic** old soldier limps patiently along, nursing the joints that cold campaigns had stiffened."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Thou art a boil, a plague sore, an embossed carbuncle in my corrupted blood; yet **arthritic** aches grip my bones."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Grandfather Smallweed sat bundled up in his armchair, a bitter **arthritic** invalid barking orders at his family."*

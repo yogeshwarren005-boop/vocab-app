@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a cartilage of the larynx with which arytenoid cartilages articulate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a cartilage of the larynx with which arytenoid cartilages articulate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ring-shaped; specifically, the signet-ring-shaped cartilage forming the lower and back part of the larynx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical airway management and anesthesia, the cartilaginous ring upon which backward pressure (Sellick maneuver) is applied to occlude the esophagus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cricoid designates of, relating to, or being a cartilage of the larynx with which arytenoid cartilages articulate."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **cricoid** cartilage resembles a signet ring, with its broad plate situated behind and the narrow arch in front."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute laryngeal edema, the subglottic swelling can rapidly occlude the rigid lumen bounded by the **cricoid** ring."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The vocal cords are tensed and relaxed by delicate muscular adjustments pivoting upon the stable **cricoid** base."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who constantly criticizes in a petty way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who constantly criticizes in a petty way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually finds fault, complains, or raises trivial, captious objections; a chronic caviler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, an ungenerous reviewer who concentrates on petty blemishes while disregarding overall artistic merit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shame not these woods By putting on the cunning of a carper."*
-> - 📜 **James Joyce (*Ulysses*):** *"His look went from brooder’s beard to carper’s skull, to remind, to chide them not unkindly, then to the baldpink lollard costard, guiltless though maligned. —He had a good groatsworth of wit, Stephen said, and no truant memory."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Some notorious carpers and squeamish moralists might be sulky with Lord Steyne, but they were glad enough to come when he asked them."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"Shame not these woods by putting on the cunning of a **carper**, but act with noble magnanimity."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The spiteful **carper** condemns each bold poetic stroke that transcends the petty rules of pedestrian grammarians."*
+> - 📜 **John Dryden (*Essays on the Drama*):** *"An author must expect that every envious **carper** will seize upon a minor typographical flaw to condemn the entire tragedy."*

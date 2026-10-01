@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of lesbianism that simulates heterosexual intercourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of lesbianism that simulates heterosexual intercourse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A homosexual sexual practice between women involving mutual rubbing of the bodies, particularly the vulvas, against one another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sexology, social history, and anthropology, tribadism denotes a traditional form of lesbian physical intimacy, etymologically derived from Greek *tribein* (to rub).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribadism designates a form of lesbianism that simulates heterosexual intercourse."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Medical and anthropological treatises historically categorized mutual friction, or **tribadism**, among common homosexual practices."*
+> - 📜 **Richard Burton (*The Book of the Thousand Nights and a Night*):** *"Classical satire frequently mocked **tribadism** as an exotic indulgence of patrician Roman matrons."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"In discussing female inversion, early sexologists placed undue emphasis upon the physical manifestations of **tribadism**."*

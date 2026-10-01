@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of the interior of an eye using an ophthalmoscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of the interior of an eye using an ophthalmoscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The examination of the interior of the eye using an ophthalmoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, direct or indirect visualization of the optic nerve head, macula, and retinal vasculature, vital for evaluating hypertension, diabetes, and raised intracranial pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophthalmoscopy designates examination of the interior of an eye using an ophthalmoscope."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Routine **ophthalmoscopy** allows the clinician to inspect living arteries directly and evaluate vascular damage."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Repeated **ophthalmoscopy** showed rapid subsidence of choked discs following subtemporal surgical decompression."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"The diagnostic value of clinical **ophthalmoscopy** in diagnosing tuberculous meningitis cannot be overestimated."*

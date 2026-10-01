@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: meninges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: meninges and.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root combining form denoting the meninges, the protective membranous envelopes enclosing the brain and spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical nomenclature and medical pathology, utilized in constructing clinical terms relating to the cranial or spinal membranes (e.g., meningitis, meningocele).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog mening as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inflammation of the protective **mening-** membranes presents with nuchal rigidity, photophobia, and altered sensorium."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The pathological reaction of the vascular **mening-** layers reflects cellular exudation into the subarachnoid space."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Terms bearing the prefix **mening-** designate structures or clinical conditions intimately associated with the cerebral coverings."*

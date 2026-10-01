@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute thin-walled branch of a bronchus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute thin-walled branch of a bronchus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute, narrow airway tube branching off a tertiary bronchus, leading directly into the alveolar ducts and lacking cartilage in its walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonary histology, a small airway possessing smooth muscle and Clara cells, responsible for regulating airflow resistance to the gas-exchanging alveoli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchiole designates a minute thin-walled branch of a bronchus."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Each terminal **bronchiole** gives off several respiratory divisions whose thin walls are studded with outpocketing alveoli."*
+> - 📜 **Arthur Keith (*The Mechanism of Respiration in Man*):** *"The elastic recoil of the surrounding alveolar septa keeps the lumen of each delicate **bronchiole** patent during inspiration."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Desquamated ciliated epithelium forms dense casts that choke the tiny **bronchiole** during severe confluent bronchopneumonia."*

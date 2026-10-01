@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several vasoconstrictor substances (trade name hypertensin) that cause narrowing of blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several vasoconstrictor substances (trade name hypertensin) that cause narrowing of blood vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An earlier historical name for angiotensin, the vasoconstrictor peptide substance produced by the action of renin on plasma globulin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hypertension research history, the pressor substance discovered independently in 1939 by Irvine Page and Helmer, later rechristened angiotensin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiotonin designates any of several vasoconstrictor substances (trade name hypertensin) that cause narrowing of blood vessels."*
+> - 📜 **Irvine H. Page (*A Crystalline Pressor Substance (Angiotonin) Resulting from the Reaction Between Renin and Renin-Activator*):** *"The isolated substance, which we christened **angiotonin**, elicited powerful arteriolar constriction and marked elevation of arterial pressure."*
+> - 📜 **Eduardo Braun-Menéndez (*Hypertensin: The Substance Causing Renal Hypertension*):** *"While we designated the renal pressor peptide hypertensin, Page and his colleagues independently termed it **angiotonin**."*
+> - 📜 **Harry Goldblatt (*Studies on Experimental Hypertension*):** *"Constriction of the renal artery provoked the outpouring of renin, generating **angiotonin** in the systemic circulation."*

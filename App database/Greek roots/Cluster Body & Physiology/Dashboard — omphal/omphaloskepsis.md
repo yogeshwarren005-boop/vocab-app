@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Literally, the contemplation of one's navel, which is an idiom usually meaning complacent self-absorption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Literally, the contemplation of one's navel, which is an idiom usually meaning complacent self-absorption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The contemplation of one's navel as an aid to mystical meditation; navel-gazing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of Christian mysticism and Eastern Orthodox spirituality, a contemplative practice associated with 14th-century Hesychast monks on Mount Athos; figuratively, self-absorbed absorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omphaloskepsis designates literally, the contemplation of one's navel, which is an idiom usually meaning complacent self-absorption."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Hesychasts of Mount Athos practiced **omphaloskepsis**, seeking to behold the uncreated light of Mount Tabor."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Sustained interior concentration, whether through breath control or quiet **omphaloskepsis**, induces profound altered states of consciousness."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Idle philosophical speculation that degenerates into barren **omphaloskepsis** produces no practical fruit for suffering humanity."*

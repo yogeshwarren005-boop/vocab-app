@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek orch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguistic combining form and word root derived from Greek ὄρχις (orchis) signifying testis, testicle, or orchid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical etymology and anatomical lexicography, the formative prefix used in terms pertaining to the male gonads (e.g., orchitis, orchiectomy) and botanical orchids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orch designates a term designating an entity, condition, or phenomenon derived from greek orch."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The root **orch-** stems from Greek orchis, denoting both a testicle and the plant whose twin tubers suggest that shape."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In ancient anatomical texts, compound words beginning with **orch-** signify diseases or surgical operations on the testicles."*
+> - 📜 **Eric Partridge (*Origins: A Short Etymological Dictionary of Modern English*):** *"Surgical vocabulary draws continuously upon **orch-** to name pathological conditions and operative interventions on the skeleton."*

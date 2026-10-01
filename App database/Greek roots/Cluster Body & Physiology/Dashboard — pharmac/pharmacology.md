@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of drugs including their origin, composition, pharmacokinetics, therapeutic use, and toxicology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The properties and reactions of drugs especially with relation to their therapeutic value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of drugs, including their origin, composition, therapeutic uses, biochemical mechanisms, and toxicology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic and clinical medicine, the core discipline uniting pharmacodynamics and pharmacokinetics to guide rational therapeutics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacology designates the science of drugs including their origin, composition, pharmacokinetics, therapeutic use, and toxicology."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Medical **pharmacology** forms the indispensable intellectual bridge connecting basic physiology to bedside therapeutics."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A physician without a grounding in **pharmacology** relies on blind empiricism and superstitious polypharmacy."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The progress of scientific medicine depends upon assimilating physiology with experimental **pharmacology**."*

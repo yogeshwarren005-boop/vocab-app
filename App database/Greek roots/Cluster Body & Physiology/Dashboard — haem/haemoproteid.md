@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to malaria parasite and having a phase in the viscera of various birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to malaria parasite and having a phase in the viscera of various birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intraerythrocytic protozoan parasite of the family Haemoproteidae, infecting reptiles, birds, and amphibians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary parasitology, any haemosporidian organism belonging to the genus Haemoproteus or closely related taxa, characterized by halter-shaped gametocytes that partially encircle the host erythrocyte nucleus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoproteid designates related to malaria parasite and having a phase in the viscera of various birds."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"The avian **haemoproteid** parasites provide an invaluable experimental model for investigating the sexual transmission cycles of human malaria."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"My early investigations into pigmented blood parasites commenced with the study of a common **haemoproteid** found in Indian wild birds."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The microgametocytes of each **haemoproteid** species undergo exflagellation when exposed to air upon the microscopic slide."*

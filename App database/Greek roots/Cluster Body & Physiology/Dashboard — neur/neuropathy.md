@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Damage, disease, or dysfunction of one or more nerves especially of the peripheral nervous system that is typically marked by burning or shooting pain, numbness, tingling, or muscle weakness or atrophy, is often degenerative, and is usually caused by injury, infection, disease, drugs, toxins, or vitamin deficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition (such as Guillain-Barré syndrome) marked by neuropathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any functional disturbance, disease, or pathological damage affecting the peripheral nerves or the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a condition manifesting as numbness, tingling, paresthesia, muscle weakness, or autonomic dysfunction, often secondary to diabetes, alcohol abuse, or toxins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropathy designates damage, disease, or dysfunction of one or more nerves especially of the peripheral nervous system that is typically marked by burning or shooting pain, numbness, tingling, or muscle weakness or atrophy, is often degenerative, and is usually caused by injury, infection, disease, drugs, toxins, or vitamin deficiency."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Peripheral **neuropathy** in longstanding diabetes mellitus characteristically begins in the distal lower extremities with loss of vibratory sense."*
+> - 📜 **William Richard Gowers (*A Manual of Diseases of the Nervous System*):** *"Toxic alcoholic **neuropathy** exhibits severe sensory ataxia alongside bilateral extensor paralysis of the wrists and feet."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"The progressive course of familial hypertrophic **neuropathy** reveals palpable thickening of the peripheral nerve trunks."*

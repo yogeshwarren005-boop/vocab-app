@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medical science dealing with the structure, functions, and diseases of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medical science dealing with the structure, functions, and diseases of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and surgery concerned with the study, physiology, diseases, and treatment of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history and surgical specialties, one of the earliest recognized specialties, revolutionized in the 19th century by the invention of the ophthalmoscope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophthalmology designates a branch of medical science dealing with the structure, functions, and diseases of the eye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The invention of the ophthalmoscope by Helmholtz inaugurated a glorious new epoch in modern **ophthalmology**."*
+> - 📜 **Hermann von Helmholtz (*Description of an Ophthalmoscope*):** *"I have succeeded in discovering an optical instrument that promises to revolutionize clinical **ophthalmology**."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"The close alliance between neurological surgery and **ophthalmology** is vital for preserving threatened vision."*

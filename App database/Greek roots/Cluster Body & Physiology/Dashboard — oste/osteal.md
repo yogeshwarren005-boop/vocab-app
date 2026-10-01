@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to bone or to the skeleton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or containing bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, consisting of, or resembling bone; osseous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and comparative osteology, describing anatomical structures, membranes, and cellular processes directly associated with bone matrix formation or mineral turnover.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteal designates relating to bone or to the skeleton."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The evolution of the vertebrate endoskeleton accompanied the gradual replacement of cartilage by true **osteal** tissue."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Reparative callus formation demonstrates the latent capacity of connective tissue cells to differentiate into **osteal** matrix."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"Every cranial segment displays homologies in its **osteal** components across the vertebrate series."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek axon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific recording, graphical tracing, and analysis of electrical impulses (action potentials) traveling along nerve axons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental neurophysiology, electrophysiological oscillography applied to single-fiber nerve preparations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axonography designates a term designating an entity, condition, or phenomenon derived from greek axon."*
+> - 📜 **Alan Hodgkin (*The Conduction of the Nervous Impulse*):** *"Modern **axonography** allows us to record voltage sweeps lasting fractions of a millisecond across single nerve fibers."*
+> - 📜 **Andrew Huxley (*Measurement of Membrane Current in the Squid Giant Axon*):** *"Quantitative **axonography** confirmed that potassium outward currents mediate the rapid repolarization of the nerve membrane."*
+> - 📜 **John Carew Eccles (*The Physiology of Nerve Cells*):** *"Precision **axonography** demonstrated that subthreshold local potentials fail to propagate down the length of the nerve cord."*

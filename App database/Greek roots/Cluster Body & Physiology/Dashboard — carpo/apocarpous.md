@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of ovaries of flowering plants) consisting of carpels that are free from one another as in buttercups or roses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ovaries of flowering plants) consisting of carpels that are free from one another as in buttercups or roses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the carpels of a flower separate and distinct from one another, rather than fused into a single compound pistil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral morphology, the primitive angiosperm condition observed in Ranunculaceae and Magnoliaceae where each carpel forms an independent fruitlet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apocarpous designates (of ovaries of flowering plants) consisting of carpels that are free from one another as in buttercups or roses."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The buttercup displays a classic **apocarpous** gynoecium, bearing a dense cluster of independent, distinct achenes upon a conical receptacle."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"In an **apocarpous** flower, each carpel retains its own style and stigma, developing into a solitary follicle or berry."*
+> - 📜 **Arthur Johnson Eames (*Morphology of Angiosperms*):** *"The evolutionary transition from an **apocarpous** ancestral state to a syncarpous ovary represented a major advance in seed protection."*

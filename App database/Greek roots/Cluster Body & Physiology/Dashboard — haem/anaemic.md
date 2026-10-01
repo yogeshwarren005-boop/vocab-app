@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to anemia or suffering from anemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking vigor or energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from or relating to anaemia; pale, weak, or lacking in vitality (Commonwealth spelling of anemic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and cultural criticism, describing prose, policies, or ideas that lack vigor, boldness, or colorful substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She likewise informed us, quite incidentally and "by the way," that Mrs Ross had disliked my hat and Mrs Bruce had asked if Charmion were anaemic--such a colourless skin!--and Mrs Someone Else thought it so "queer" that we should live together!"*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red-Headed League*):** *"The clerk was a small, **anaemic** youth with weak watery eyes who spent his lunch hours developing photographic plates."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"He gazed out upon the **anaemic** suburbs of London, where millions lived in respectable, spiritless poverty."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A soft hemic systolic murmur heard at the cardiac base is common in severely **anaemic** patients."*

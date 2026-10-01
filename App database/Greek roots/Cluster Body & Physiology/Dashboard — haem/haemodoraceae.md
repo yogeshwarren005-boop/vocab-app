@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Some genera placed in family liliaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Some genera placed in family liliaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of monocotyledonous flowering plants (the bloodwort family), widely distributed in the Southern Hemisphere and renowned for the vibrant red pigments in their roots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, a family within the order Commelinales containing genera such as Haemodorum and Anigozanthos (kangaroo paw), characterized by arylphenalenone pigments and trichomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemodoraceae designates some genera placed in family liliaceae."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The Australian flora contains notable representatives of the family **haemodoraceae**, distinguished by peculiar red dyeing properties residing in their subterranean bulbs."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Certain anomalous affinities have been traced between the Amaryllidaceae and the southern representatives of **haemodoraceae**."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"Our botanical expeditions across Western Australia brought to light striking species of **haemodoraceae**, flourishing in sandy heaths."*

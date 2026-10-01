@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical procedure for tying hemorrhoids and excising them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical procedure for tying hemorrhoids and excising them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision and removal of hemorrhoids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colorectal surgery, an operative procedure (such as the Milligan-Morgan open or Ferguson closed technique) performed for advanced, prolapsed, or thrombosed anorectal vascular cushions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemorrhoidectomy designates surgical procedure for tying hemorrhoids and excising them."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"When conservative lotions fail and strangulation threatens gangrene, complete **haemorrhoidectomy** becomes the surgeon's safest recourse."*
+> - 📜 **Joseph Lister (*Collected Papers*):** *"Following antiseptic **haemorrhoidectomy**, the incidence of postoperative pelvic suppuration and pain was dramatically reduced."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Meticulous haemostasis during **haemorrhoidectomy** ensures rapid healing of the delicate anal mucosa without cicatricial stricture."*

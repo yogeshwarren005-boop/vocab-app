@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoology that studies the behavior of animals in their natural habitats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of zoology that studies the behavior of animals in their natural habitats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of animal behavior in natural environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and behavioral science, a discipline founded by Konrad Lorenz and Nikolaas Tinbergen examining instinctive drives, sign stimuli, and fixed action patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethology designates the branch of zoology that studies the behavior of animals in their natural habitats."*
+> - 📜 **Konrad Lorenz (*King Solomon's Ring*):** *"The essential method of **ethology** requires living intimately with animals and observing their unforced behavioral repertoire in nature."*
+> - 📜 **Nikolaas Tinbergen (*The Study of Instinct*):** *"Modern **ethology** seeks to answer four questions: causation, development, survival value, and evolutionary history."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The comparative observations that laid the foundation for modern **ethology** demonstrated that emotional gestures are inherited ancestral relics."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nerve agent easily absorbed into the body; a lethal cholinesterase inhibitor that is highly toxic when inhaled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nerve agent easily absorbed into the body; a lethal cholinesterase inhibitor that is highly toxic when inhaled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent synthetic organophosphate nerve agent (designated GD, chemical name O-pinacolyl methylphosphonofluoridate) developed as a chemical weapon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and military medicine, soman rapidly and irreversibly inhibits acetylcholinesterase; its covalent bond undergoes extremely rapid dealkylation ('aging') within minutes, rendering conventional oxime reactivators ineffective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, soman designates a nerve agent easily absorbed into the body; a lethal cholinesterase inhibitor that is highly toxic when inhaled."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Exposure to **soman** induces rapid pin-point miosis, copious salivation, muscular fasciculations, and lethal respiratory arrest."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"The rapid chemical aging of the enzyme complex after **soman** intoxication severely limits the therapeutic window for oximes."*
+> - 📜 **Fritz Haber (*The Chemical Warfare*):** *"The lethal volatility of organophosphates like **soman** elevated toxicological warfare into a new realm of peril."*

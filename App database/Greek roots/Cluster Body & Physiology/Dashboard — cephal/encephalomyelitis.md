@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the brain and spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the brain and spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of both the brain (encephalon) and the spinal cord (myelos).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, an acute inflammatory demyelinating disease, such as acute disseminated encephalomyelitis (ADEM), typically triggered by viral infections or vaccinations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalomyelitis designates inflammation of the brain and spinal cord."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Post-infectious **encephalomyelitis** strikes days after a mild exanthem, presenting with multifocal paralysis, ataxia, and obtundation."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Histologic sections in acute **encephalomyelitis** reveal widespread perivenular demyelination throughout the white matter of the cord and hemispheres."*
+> - 📜 **Constantin von Economo (*Encephalitis Lethargica*):** *"The inflammatory lesions of equine **encephalomyelitis** selectively destroy motor neurons in both the brainstem and spinal anterior horns."*

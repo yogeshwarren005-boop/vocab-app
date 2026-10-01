@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide entertainment for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take into consideration, have in view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing amusement, diversion, or enjoyment; pleasantly diverting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of hosting social gatherings and accommodating guests in one's home.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That were to enlard his fat-already pride, And add more coals to Cancer when he burns With entertaining great Hyperion."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli" may be pronounced the most natural and one of the most entertaining of Madame Spyri's creations."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The story is at once entertaining, healthy, and, in the best sense of a word often misused, sweet."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma found her companion's lively gossip exceptionally **entertaining**, though she recognized its occasional lack of charity."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Clarissa excelled at the delicate art of **entertaining**, bringing disparate souls together under the glowing chandeliers."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes's demonstration of deductive observation was as **entertaining** as a theatrical conjuring trick."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place parallel to one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place parallel to one another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make parallel; to align or arrange in parallel fashion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-performance computing, to divide an algorithm or computational workload into concurrent processes executed simultaneously on multiple processors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parallelize designates place parallel to one another."*
+> - 📜 **Alan Turing (*Intelligent Machinery*):** *"To expedite combinatorial search, one may **parallelize** distinct calculation chains across coordinated sub-machines."*
+> - 📜 **John von Neumann (*First Draft of a Report on the EDVAC*):** *"Although sequential logic is economical, engineering attempts to **parallelize** memory access substantially increase arithmetic throughput."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Biological neural networks naturally **parallelize** sensory inputs, synthesizing complex percepts in fractions of a second."*

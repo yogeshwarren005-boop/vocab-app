@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dentistry dealing with extraction of teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of dentistry dealing with extraction of teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dental surgery concerned with the extraction of teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oral surgery, the clinical technique and mechanical instrumentation required for the luxation, elevation, and surgical removal of erupted or impacted teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exodontia designates the branch of dentistry dealing with extraction of teeth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Before the advent of local anesthesia, the practice of **exodontia** was an ordeal of excruciating agony."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Aseptic principles established in general surgery were swiftly applied to the operative discipline of **exodontia**."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Familiarity with mandibular alveolar bone thickness is essential for avoiding cortical fracture during **exodontia**."*

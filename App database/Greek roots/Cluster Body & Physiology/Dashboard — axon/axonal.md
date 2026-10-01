@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling an axon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling an axon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in an axon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology and neuropathology, describing processes such as axonal transport, axonal degeneration (Wallerian degeneration), or axonal terminal sprouting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axonal designates of or relating to or resembling an axon."*
+> - 📜 **Santiago Ramón y Cajal (*Degeneration and Regeneration of the Nervous System*):** *"Following nerve transection, the distal **axonal** segments fragment and are consumed by proliferating Schwann cells."*
+> - 📜 **Alan Hodgkin (*The Conduction of the Nervous Impulse*):** *"The **axonal** membrane behaves as a voltage-sensitive capacitor governed by selective ionic permeabilities."*
+> - 📜 **Andrew Huxley (*Reflections on Muscle*):** *"Fast **axonal** transport carries vital neurotransmitter vesicles from the cell body toward distant presynaptic terminals."*

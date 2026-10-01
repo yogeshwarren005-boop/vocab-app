@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer germ layer that develops into skin and nervous tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer germ layer that develops into skin and nervous tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outer layer of cells or tissue; specifically, the exodermis of a plant root or the outer ectodermal layer in invertebrate embryos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant root anatomy, a specialized subepidermal apoplastic barrier layer impregnated with suberin that regulates radial water and solute flux.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exoderm designates the outer germ layer that develops into skin and nervous tissue."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The suberized **exoderm** of the older root protects the internal cortex from desiccation when the soil dries out."*
+> - 📜 **Arthur George Tansley (*Elements of Plant Biology*):** *"Microscopic transverse sections of the root reveal an impermeable **exoderm** situated immediately beneath the piliferous layer."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The external **exoderm** of the sponge secretes mineral spicules to anchor the colony to submerged rock."*

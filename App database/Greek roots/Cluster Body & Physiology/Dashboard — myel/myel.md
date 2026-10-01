@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bone marrow : spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bone marrow : spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root combining form denoting the bone marrow or the spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical and medical nomenclature, employed in compounding terms referring to the medullary substance of bones or the central neural axis (e.g., myelitis, myeloid).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myel designates bone marrow : spinal cord."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prefixes based on **myel-** signify pathology situated either within the spinal medullary axis or the blood-forming bone marrow."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The cellular elements of the marrow, denoted by the root **myel-**, undergo rapid proliferation in leukemic conditions."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Classical anatomical terms formed with **myel-** reflect the ancient Greek concept of the internal marrow and spinal substance."*

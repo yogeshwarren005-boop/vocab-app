@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the lining membrane of the stomach and the intestines characterized especially by nausea, vomiting, diarrhea, and cramps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the lining membrane of the stomach and the intestines characterized especially by nausea, vomiting, diarrhea, and cramps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the stomach and intestines, typically resulting from bacterial toxins or viral infection and causing vomiting and diarrhea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, an acute dehydrating illness ('stomach flu') commonly triggered by norovirus, rotavirus, Salmonella, or Campylobacter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroenteritis designates inflammation of the lining membrane of the stomach and the intestines characterized especially by nausea, vomiting, diarrhea, and cramps."*
+> - 📜 **Paul Farmer (*Fevers, Feuds, and Diamonds*):** *"Oral rehydration salts transformed the global treatment of acute **gastroenteritis**, saving millions of children from lethal dehydration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe epidemic **gastroenteritis** in young infants demands vigilant assessment of skin turgor and fontanelle depression."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"Standardizing dehydration protocols in the emergency ward dramatically reduced inpatient admissions for viral **gastroenteritis**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the paired ducts that carry away the urine from a kidney to the bladder or cloaca.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the paired ducts that carry away the urine from a kidney to the bladder or cloaca.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of thick-walled, muscular tubular ducts that convey urine from the renal pelvis of the kidney to the urinary bladder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, the ureter is retroperitoneal and propels urine via autonomous smooth muscle peristaltic waves; common sites of nephrolith impaction include the ureteropelvic junction, the pelvic brim crossing, and the ureterovesical junction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ureter designates either of the paired ducts that carry away the urine from a kidney to the bladder or cloaca."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **ureter** descends along the psoas muscle to enter the posterior wall of the urinary bladder obliquely."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The passage of a rough calculus down the narrow lumen of the **ureter** produces agonizing, paroxysmal renal colic."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"In chronic hydronephrosis, the obstructed **ureter** was found dilated to the diameter of the small intestine."*

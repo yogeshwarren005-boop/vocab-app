@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: gastric and.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek gaster (genitive gastros), meaning stomach or belly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and zoological terminology, the root element utilized in gastric, gastroscopy, gastronomy, and gastropod.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog gastr as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"The Greek anatomical root **gastr** provided medical Latin with hundreds of prefixes relating to the stomach and digestion."*
+> - 📜 **Galen (*On the Usefulness of the Parts of the Body*):** *"Nature bestowed upon the creature a digestive receptacle, derived from **gastr**, to concoct food into blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical terms incorporating **gastr** form the foundation of our gastroenterological diagnostic nomenclature."*

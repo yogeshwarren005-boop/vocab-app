@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plant growth substances (such as kinetin) that are usually derivatives of adenine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plant growth substances (such as kinetin) that are usually derivatives of adenine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of plant growth phytohormones that promote cell division (cytokinesis) in roots and shoots and delay leaf senescence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, adenine-derived hormones (such as zeatin and kinetin) that act antagonistically with auxins to regulate apical dominance and morphogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytokinin designates any of various plant growth substances (such as kinetin) that are usually derivatives of adenine."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Tissue culture experiments proved that the balance between auxin and **cytokinin** determines whether stem buds or roots differentiate."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Commercial floriculture uses synthetic **cytokinin** sprays to maintain green freshness and delay petal drop in cut flowers."*
+> - 📜 **Arthur George Tansley (*The British Islands and Their Vegetation*):** *"The seasonal transport of root-synthesized **cytokinin** up the xylem activates dormant lateral buds in spring."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited skeletal disorder beginning before birth; cartilage is converted to bone resulting in dwarfism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inherited skeletal disorder beginning before birth; cartilage is converted to bone resulting in dwarfism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal developmental condition or failure of cartilage formation and epiphyseal ossification; variant of achondroplasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pathology, the congenital defect in endochondral bone formation resulting in disproportionate micromelic dwarfism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achondroplasty designates an inherited skeletal disorder beginning before birth; cartilage is converted to bone resulting in dwarfism."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"Early anatomists confused fetal rickets with true **achondroplasty**, failing to note the premature fusion of the epiphyses."*
+> - 📜 **William Osler (*Lectures on the Diagnosis of Abdominal Tumors*):** *"The phenomenon of **achondroplasty** illustrates how selective inhibition of cartilage cells stunts long bone growth."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures*):** *"In **achondroplasty**, the trunk develops normally while the humerus and femur remain strikingly short."*

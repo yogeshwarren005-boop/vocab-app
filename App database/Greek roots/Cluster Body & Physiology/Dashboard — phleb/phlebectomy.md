@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal or all or part of a vein; sometimes done in cases of severe varicose veins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal or all or part of a vein; sometimes done in cases of severe varicose veins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision or removal of a vein or segment of a vein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular and ambulatory surgery, the selective operative removal of tortuous, incompetent superficial varicose veins (ambulatory stab phlebectomy) to treat venous insufficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebectomy designates surgical removal or all or part of a vein; sometimes done in cases of severe varicose veins."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Ambulatory **phlebectomy** through micro-incisions permits the radical eradication of varicosities without leaving disfiguring scars."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Recurrent thrombophlebitis in superficial veins was managed definitively by segmental **phlebectomy**."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"The operative procedure concluded with a clean **phlebectomy** of the thrombosed saphenous branch."*

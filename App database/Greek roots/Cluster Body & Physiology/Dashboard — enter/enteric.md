@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the enteron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or inside the intestines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring in the intestines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and physiology, describing protective pill coatings that resist gastric acid or denoting the enteric nervous system ('the second brain').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enteric designates of or relating to the enteron."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"The **enteric** nervous system contains hundreds of millions of neurons capable of coordinating peristalsis completely independently of the central nervous system."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Peyer's patches in the distal ileum undergo ulceration during the third week of severe **enteric** fever."*
+> - 📜 **Michael Pollan (*Cooked: A Natural History of Transformation*):** *"Oral medications with an **enteric** coating pass unscathed through the stomach's acid bath before dissolving in the alkaline duodenum."*

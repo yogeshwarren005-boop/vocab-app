@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, involving, or being adverse effects on organs or nerves involved in hearing or balance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing, involving, or being adverse effects on organs or nerves involved in hearing or balance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being toxic to the ear, specifically producing functional impairment or cellular damage to the cochlea or vestibular apparatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and audiology, medication-induced sensorineural hearing loss, tinnitus, or vertigo caused by agents such as aminoglycosides or cisplatin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ototoxicity designates producing, involving, or being adverse effects on organs or nerves involved in hearing or balance."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Irreversible cochlear hair-cell apoptosis remains the defining hazard of aminoglycoside **ototoxicity** during systemic therapy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"High doses of quinine provoke transient **ototoxicity**, heralding its toxic accumulation with bilateral ringing and deafness."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"Routine audiometric monitoring minimizes permanent sensory deficits arising from platinum chemotherapy **ototoxicity**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek angi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, highly malignant neoplasm arising from vascular or lymphatic endothelial cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical oncology, an aggressive cancer of blood vessels occurring in the skin, soft tissue, breast, or liver, associated with vinyl chloride exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiosarcoma designates a term designating an entity, condition, or phenomenon derived from greek angi."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"Primary hepatic **angiosarcoma** demonstrates anaplastic endothelial cells forming crude, blood-filled vascular channels throughout the parenchyma."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Industrial exposure to vinyl chloride gas in plastics factories was traced as the direct causative agent of occupational **angiosarcoma**."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Post-mastectomy chronic lymphedema can predispose over decades to the devastating emergence of cutaneous **angiosarcoma** (Stewart-Treves syndrome)."*

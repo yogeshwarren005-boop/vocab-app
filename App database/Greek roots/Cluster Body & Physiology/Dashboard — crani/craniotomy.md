@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical opening of the skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical opening of the skull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical operation in which a bone flap is temporarily removed from the skull to access the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurosurgery, the foundational operative opening allowing excision of intracranial tumors, hematomas, or clipping of cerebral aneurysms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniotomy designates surgical opening of the skull."*
+> - 📜 **Harvey Cushing (*Intracranial Tumors*):** *"The success of an osteoplastic **craniotomy** depends upon preserving the vascular supply of the overlying scalp flap."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Immediate **craniotomy** is mandatory in compound depressed skull fractures to evacuate intracranial clots and elevate bone fragments."*
+> - 📜 **Sherwin B. Nuland (*Doctors: The Biography of Medicine*):** *"With the introduction of antiseptic technique and electric trephines, **craniotomy** was transformed into a deliberate, safe surgical intervention."*

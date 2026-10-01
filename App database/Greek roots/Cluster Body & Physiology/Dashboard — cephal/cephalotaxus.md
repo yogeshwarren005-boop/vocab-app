@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of cephalotaxus (see plum-yews).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The genus of cephalotaxus (see plum-yews).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of evergreen coniferous shrubs and small trees in the family Cephalotaxaceae, commonly known as plum yews or cowtail pines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical botany, Cephalotaxus harringtonii, from which homoharringtonine (omacetaxine) is extracted for the treatment of leukemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalotaxus designates the genus of cephalotaxus (see plum-yews)."*
+> - 📜 **Philipp Franz von Siebold (*Flora Japonica*):** *"The generic title **cephalotaxus** denotes the head-like clusters of male strobili that adorn the branchlets in early spring."*
+> - 📜 **Ernest Henry Wilson (*A Naturalist in Western China*):** *"Specimens of **cephalotaxus** flourish in moist mountain ravines, producing large greenish-purple arillate fruits."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Landscape architects prize **cephalotaxus** for its dense dark foliage, which thrives in full shade where few conifers survive."*

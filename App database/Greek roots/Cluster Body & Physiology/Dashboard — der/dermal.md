@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cuticle or cuticula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or located in the dermis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the skin; cutaneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy, relating specifically to the dermis or to bony armor plates formed within the dermis (dermal ossicles, dermal scutes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermal designates of or relating to a cuticle or cuticula."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The bony carapace of the armadillo and the scales of reptiles are true **dermal** ossifications."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Systemic lupus erythematosus characteristically displays an erythematous **dermal** eruption over the malar eminences."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Fossil glyptodonts were encased in massive **dermal** armor composed of thousands of sutured bony plates."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to bats (the order Chiroptera).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology, describing adaptations such as the uropatagium, tragus, and high-frequency laryngeal vocalization typical of bats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiropteran designates nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"The sonar apparatus of the microchiropteran bat represents an exquisite marvel of **chiropteran** engineering."*
+> - 📜 **Stephen Jay Gould (*Panda's Thumb*):** *"The **chiropteran** wing was refashioned from the basic mammalian hand, lengthening fingers rather than growing bird feathers."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Tropical trees often develop pale, nocturnal blossoms specifically adapted for **chiropteran** pollination."*

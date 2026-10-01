@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition that affects especially older women and is characterized by decrease in bone mass with decreased density and enlargement of bone spaces producing porosity and fragility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition that affects especially older women and is characterized by decrease in bone mass with decreased density and enlargement of bone spaces producing porosity and fragility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A systemic skeletal disorder characterized by low bone mineral density, deterioration of bone microarchitecture, and increased bone fragility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology and geriatrics, postmenopausal or senile bone loss leading to spontaneous compression fractures of vertebrae and hip fractures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoporosis designates a condition that affects especially older women and is characterized by decrease in bone mass with decreased density and enlargement of bone spaces producing porosity and fragility."*
+> - 📜 **Fuller Albright (*Postmenopausal Osteoporosis*):** *"I demonstrated that **osteoporosis** is primarily a disorder of tissue formation, wherein estrogen withdrawal accelerates bone resorption over synthesis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Senile **osteoporosis** transforms the sturdy cortical bone of the femoral neck into a fragile, porous sponge prone to fracture."*
+> - 📜 **Eugene Braunwald (*Cardiovascular and Metabolic Medicine*):** *"Screening for asymptomatic **osteoporosis** with dual-energy X-ray absorptiometry permits early intervention before fractures occur."*

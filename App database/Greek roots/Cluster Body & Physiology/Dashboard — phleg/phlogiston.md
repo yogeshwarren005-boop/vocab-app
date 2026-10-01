@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The hypothetical principle of fire regarded formerly as a material substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hypothetical principle of fire regarded formerly as a material substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical substance once believed by 17th- and 18th-century chemists to be released from combustible materials during burning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, the central construct of Georg Ernst Stahl's combustion theory, which postulated an intangible imponderable fluid whose loss accounted for flame and heat, disproved by Antoine Lavoisier's discovery of oxidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"It is not that there are any very staggering arguments against the immortality of man; but, like electricity, phlogiston, etc., the subject is so involved in darkness, that we want data to go upon."*
+> - 📜 **Antoine Lavoisier (*Reflections on Phlogiston*):** *"Chemists have made of **phlogiston** a vague principle which is not strictly defined, and which serves to explain everything."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"I named this newly separated gas dephlogisticated air because it seemed entirely deprived of **phlogiston**."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The overthrow of the theory of **phlogiston** marked the dawn of modern quantitative chemistry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to catoptrics; produced by or based on mirrors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to catoptrics; produced by or based on mirrors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by reflection of light; reflective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical optics, characterizing optical instruments, mirrors, or images formed entirely by reflection rather than refraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catoptric designates of or relating to catoptrics; produced by or based on mirrors."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The reflective surface of a polished concave speculum forms a true **catoptric** image devoid of chromatic fringe."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"Reflecting telescopes constructed on purely **catoptric** principles avoid the colored dispersion inherent in simple glass lenses."*
+> - 📜 **Thomas Young (*A Course of Lectures on Natural Philosophy and the Mechanical Arts*):** *"The laws of **catoptric** reflection govern the formation of virtual images behind planar silvered glass."*

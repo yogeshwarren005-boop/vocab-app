@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek alg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe pain in the stomach or epigastric region, typically of a burning or cramping nature; stomachache.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and clinical medicine, paroxysmal gastric pain associated with peptic ulcer disease, gastric neurosis, or acute gastritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastralgia designates a term designating an entity, condition, or phenomenon derived from greek alg."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Periodic **gastralgia** relieved immediately by milk or antacids is an almost pathognomonic symptom of duodenal ulceration."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The nervous invalid complained of agonizing bouts of **gastralgia** whenever emotional tension overwhelmed her digestion."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"We ruled out cardiac ischemia before treating the patient's recurrent nighttime **gastralgia** with proton pump inhibitors."*

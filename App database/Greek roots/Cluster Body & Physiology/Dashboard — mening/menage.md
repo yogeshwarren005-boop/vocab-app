@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social unit living together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social unit living together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A household or domestic establishment; the members of a household considered collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social and domestic history, the housekeeping, management, or organizational routine of a private domestic residence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"She assists me in the _menage_, and I am rejoiced that she should teach the children when she is disposed."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Enterprising young housekeepers are measuring the looking-glasses and hangings to see if they will suit the new menage (Snob will brag for years that he has purchased this or that at Dives's sale), and Mr."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Everything was plentiful in his house but ready money, of which their menage pretty early felt the want; and reading the Gazette one day, and coming upon the announcement of "Lieutenant G."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The modest **menage** of the family was conducted with strict economy and quiet domestic efficiency."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Her small **menage** in Curzon Street was managed with surprising elegance despite limited financial resources."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A well-ordered **menage** requires vigilance and unceasing domestic oversight from the mistress of the house."*

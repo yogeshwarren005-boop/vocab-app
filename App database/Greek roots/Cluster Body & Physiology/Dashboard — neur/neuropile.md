@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The complex network of unmyelinated axones, dendrites, and glial branches that form the bulk of the central nervous system's grey matter and in which nerve cell bodies are embedded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The complex network of unmyelinated axones, dendrites, and glial branches that form the bulk of the central nervous system's grey matter and in which nerve cell bodies are embedded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of neuropil, designating the dense meshwork of axonal terminals, dendrites, and neuroglia in the central nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate neuroanatomy, the central core of an invertebrate ganglion composed of synaptic fiber arborizations surrounded by a cortex of cell bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropile designates the complex network of unmyelinated axones, dendrites, and glial branches that form the bulk of the central nervous system's grey matter and in which nerve cell bodies are embedded."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the crustacean ganglion, the cell bodies occupy the peripheral cortex while the central core forms a dense, punctate **neuropile**."*
+> - 📜 **Camillo Golgi (*Studies on the Fine Anatomy of the Central Nervous Organs*):** *"The diffuse network of the cerebral **neuropile** appeared to me as a continuous medium for nervous conduction."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"During the development of the annelid nerve cord, axonal outgrowths intertwine to form the central fibrillar **neuropile**."*

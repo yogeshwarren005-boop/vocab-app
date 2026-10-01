@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Order of plants with irregular flowers having minute seeds: orchidaceae; burmanniaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of plants with irregular flowers having minute seeds: orchidaceae; burmanniaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of monocotyledonous flowering plants in historical taxonomic systems (such as the Cronquist system) centered on the orchid family Orchidaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical phylogenetic classification, an order typically comprising Orchidaceae and related mycoheterotrophic families (such as Burmanniaceae), now largely subsumed under Asparagales in APG classifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchidales designates order of plants with irregular flowers having minute seeds: orchidaceae; burmanniaceae."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"The order **orchidales** is characterized by strongly zygomorphic flowers, epigynous perianth, and extreme reduction of seed endosperm."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"Within the monocotyledonous series, the **orchidales** represent the pinnacle of floral specialization and insect-pollinator coadaptation."*
+> - 📜 **Armen Takhtajan (*Diversity and Classification of Flowering Plants*):** *"The evolutionary transition toward advanced epiphytism within the **orchidales** accompanied the specialization of velamen radicum."*

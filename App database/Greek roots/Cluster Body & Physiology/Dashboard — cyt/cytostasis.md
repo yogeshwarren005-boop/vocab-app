@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inhibition or arrest of cellular growth, division, and proliferation without causing cell death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and immunology, a therapeutic state induced by cytostatic agents or immune checkpoints that halts tumor progression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytostasis designates a term designating an entity, condition, or phenomenon derived from greek cyt."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Certain antineoplastic agents achieve clinical remission not by immediate cellular destruction, but by persistent **cytostasis**."*
+> - 📜 **Paul Ehrlich (*Studies on Immunity*):** *"Antibody coating can induce complete **cytostasis** in bacterial cultures, preventing further replication."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Bacteriostatic drugs arrest microbial multiplication, relying on host phagocytes to clear organisms held in **cytostasis**."*

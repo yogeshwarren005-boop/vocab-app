@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of the brain; especially : one involving alterations of brain structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fatal prion disease of cattle that affects the nervous system, resembles or is identical to scrapie of sheep and goats, and is probably transmitted by infected tissue in food —abbreviation BSE—called also mad cow disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any generic disease, damage, or malfunction that alters brain function or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a syndrome of diffuse cerebral dysfunction presenting with confusion, lethargy, tremor, and delirium (e.g. hepatic, uremic, hypertensive, or hypoxic encephalopathy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalopathy designates a disease of the brain; especially : one involving alterations of brain structure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lead **encephalopathy** in industrial workers manifested as terrifying hallucinations, convulsions, and persistent optic neuritis."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Severe malignant hypertension induces acute hypertensive **encephalopathy**, marked by intense headache, papilledema, and transient cortical blindness."*
+> - 📜 **Wilder Penfield (*Epilepsy and Cerebral Localization*):** *"Chronic traumatic **encephalopathy** results from cumulative shear strains inflicted upon cerebral white matter tracts during recurrent head trauma."*

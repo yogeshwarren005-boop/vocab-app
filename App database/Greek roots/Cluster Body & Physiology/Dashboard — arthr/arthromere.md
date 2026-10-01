@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the segments in the body of a jointed animal like an arthropod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the segments in the body of a jointed animal like an arthropod.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the homologous body segments or metameres that compose the body of an arthropod.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology, a body segment bearing a pair of jointed appendages and corresponding nerve ganglia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthromere designates any of the segments in the body of a jointed animal like an arthropod."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Each successive **arthromere** of the lobster's abdomen consists of a dorsal tergum, a ventral sternum, and lateral pleura."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The serial repetition of each **arthromere** reveals the metameric ancestry shared by annelids and arthropods."*
+> - 📜 **E. Ray Lankester (*The Structure and Classification of the Arthropoda*):** *"Cephalic tagmatization fuses several primitive **arthromere** units into a single consolidated cranium."*

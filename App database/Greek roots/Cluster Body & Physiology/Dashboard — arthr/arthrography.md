@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roentgenographic examination of a joint after injection of radiopaque contrast medium; produces an arthrogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roentgenographic examination of a joint after injection of radiopaque contrast medium; produces an arthrogram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The radiographic examination of a joint capsule and its internal structures following injection of radiopaque contrast medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic radiology, contrast fluoroscopy or computed tomography used to assess articular cartilage erosion and internal joint derangements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthrography designates roentgenographic examination of a joint after injection of radiopaque contrast medium; produces an arthrogram."*
+> - 📜 **Charles Dotter (*Arthrography of the Knee*):** *"Before the advent of magnetic resonance imaging, **arthrography** was the definitive diagnostic method for inspecting the knee joint."*
+> - 📜 **John Charnley (*Arthroplasty of the Hip*):** *"Postoperative **arthrography** detects subtle prosthetic loosening by showing contrast leaking along the cement-bone interface."*
+> - 📜 **Robert Jones (*Injuries to Joints*):** *"Techniques of diagnostic **arthrography** opened a new era in evaluating chronic athletic trauma of the shoulder."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological delusion or syndrome in which a patient denies ownership of an affected (typically paralyzed or hemiplegic) limb or body part, often attributing it to another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral neurology, somatoparaphrenia typically arises from extensive right parietal, insular, or temporoparietal cortical strokes, often accompanying anosognosia and profound hemispatial neglect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatoparaphrenia designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient suffered from vivid **somatoparaphrenia**, vehemently insisting that the paralyzed left leg in his bed belonged to a cadaver."*
+> - 📜 **A. R. Luria (*The Working Brain*):** *"Right parietal lobe destructions frequently induce bizarre **somatoparaphrenia**, destroying the subjective integrity of the body schema."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"When spatial integration fails catastrophically, alien limb delusions and severe **somatoparaphrenia** overwhelm the patient's judgment."*

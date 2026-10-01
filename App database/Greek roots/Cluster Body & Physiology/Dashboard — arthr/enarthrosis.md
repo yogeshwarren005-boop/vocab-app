@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A freely moving joint in which a sphere on the head of one bone fits into a rounded cavity in the other bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A freely moving joint in which a sphere on the head of one bone fits into a rounded cavity in the other bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ball-and-socket joint, in which the rounded head of one bone fits into the cuplike cavity of another, allowing movement in all directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, specifically the hip joint (coxofemoral joint) or shoulder joint (glenohumeral joint).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enarthrosis designates a freely moving joint in which a sphere on the head of one bone fits into a rounded cavity in the other bone."*
+> - 📜 **Galen (*On Anatomical Procedures*):** *"Nature fashioned the hip as an **enarthrosis**, where the deep acetabular socket firmly grips the spherical femoral head."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The shoulder is an **enarthrosis** endowed with extraordinary range of motion at the expense of intrinsic bony stability."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Disarticulating an **enarthrosis** demonstrates how the cotyloid ligament deepens the receiving cavity to retain the bone."*

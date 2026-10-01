@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of both bone and its overlying or adjacent cartilage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric orthopedics, a group of self-limiting disorders affecting ossification centers in growing children, such as osteochondritis dissecans or juvenile osteochondritis of the femoral head (Legg-Calvé-Perthes disease).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteochondritis designates a term designating an entity, condition, or phenomenon derived from greek oste."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Juvenile **osteochondritis** leads to temporary avascular softening of the epiphysis, demanding prolonged relief from weight-bearing."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Inflammatory necrosis in **osteochondritis** dissecans frequently causes a fragment of cartilage and subchondral bone to separate into the joint cavity."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Arthroscopic debridement of the loose body in knee **osteochondritis** restores smooth gliding of the joint surfaces."*

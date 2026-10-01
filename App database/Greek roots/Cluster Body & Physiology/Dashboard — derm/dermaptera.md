@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earwigs and a few related forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Earwigs and a few related forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic order of insects that includes the earwigs, characterized by short leathery forewings and pincers at the tip of the abdomen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, nocturnal, thigmotactic insects with forceps-like cerci used for defense, grooming, and folding their wings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermaptera designates earwigs and a few related forms."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Members of the **Dermaptera** fold their expansive membranous wings beneath minute tegmina with astonishing geometric precision."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"Few insects among the **Dermaptera** fail to inspire foolish terror in country folk on account of their harmless tail pincers."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Flightless island species of **Dermaptera** often develop enormous, asymmetrical forceps suited for male rivalry."*

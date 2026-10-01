@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of the intestinal tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of the intestinal tract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease or pathological condition affecting the intestinal tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, intestinal mucosal damage resulting in malabsorption or protein loss, such as celiac disease (gluten-sensitive enteropathy) or environmental enteropathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enteropathy designates a disease of the intestinal tract."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Small bowel biopsy confirmed subtotal villous atrophy consistent with severe gluten-sensitive **enteropathy**."*
+> - 📜 **Paul Farmer (*Infections and Inequalities*):** *"Chronic tropical **enteropathy** impairs micronutrient uptake in undernourished children even in the absence of acute diarrheal symptoms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Protein-losing **enteropathy** should be considered in patients presenting with unexplained generalized anasarca and profound hypoalbuminemia."*

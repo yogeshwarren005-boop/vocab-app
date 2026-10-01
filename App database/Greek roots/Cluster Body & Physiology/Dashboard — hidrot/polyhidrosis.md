@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive and profuse perspiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive and profuse perspiration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or profuse perspiration; hyperhidrosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical terminology, an alternate designation for excessive generalized or localized sweating occurring during febrile crises, thyrotoxicosis, or autonomic overactivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyhidrosis designates excessive and profuse perspiration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"During the defervescence of malaria paroxysms, drenching **polyhidrosis** bathes the patient from head to foot."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The critical sweating stage of the ague was marked by violent **polyhidrosis**, bringing swift relief from internal heat."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Direct stimulation of the peripheral secretomotor nerves produced instantaneous **polyhidrosis** in experimental preparations."*

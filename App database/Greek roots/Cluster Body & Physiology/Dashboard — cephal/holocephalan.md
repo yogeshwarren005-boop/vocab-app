@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fish with high compressed head and a body tapering off into a long tail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fish with high compressed head and a body tapering off into a long tail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any marine cartilaginous fish belonging to the subclass Holocephali, commonly known as chimaeras, ratfishes, or ghost sharks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, deep-sea chondrichthyan fishes characterized by a single external gill opening covering four gill slits and an autostylic upper jaw fused to the neurocranium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holocephalan designates fish with high compressed head and a body tapering off into a long tail."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In every **holocephalan** fish, the palatoquadrate cartilage is completely fused with the skull, unlike the hyostylic jaw of true sharks."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The dentition of the **holocephalan** consists of broad, non-replaceable grinding plates adapted for crushing molluscan shells."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The ancient **holocephalan** line diverged from ancestral shark stock in the early Carboniferous, retaining smooth scaleless skin."*

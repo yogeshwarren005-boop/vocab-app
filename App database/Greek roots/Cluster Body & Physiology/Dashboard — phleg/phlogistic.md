@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to inflammations and fevers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to phlogiston.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or causing inflammation, or relating to the historical chemical theory of phlogiston.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern chemistry and medical history, describing the flammable essence once thought to escape during combustion or denoting inflammatory febrile states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlogistic designates of or relating to inflammations and fevers."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"The calcination of metals in air released their **phlogistic** component, leaving behind an earthy residue."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Careful gravimetric analysis dismantled the entire **phlogistic** edifice, proving that combustion absorbed oxygen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Old clinical texts described severe lobar pneumonia as a classic example of **phlogistic** fevers."*

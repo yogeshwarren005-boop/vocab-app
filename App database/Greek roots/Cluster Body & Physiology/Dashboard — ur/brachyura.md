@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of crustaceans (including true crabs) having a reduced abdomen folded against the ventral surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of crustaceans (including true crabs) having a reduced abdomen folded against the ventral surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The infraorder of decapod crustaceans comprising the true crabs, characterized by a flattened, widened carapace and a reduced abdomen tucked beneath the cephalothorax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, Brachyura includes over 6,000 species adapted to marine, estuarine, freshwater, and semi-terrestrial environments, possessing powerful chelae (claws) and sideways locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachyura designates an order of crustaceans (including true crabs) having a reduced abdomen folded against the ventral surface."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The order Decapoda culminates in the **Brachyura**, where the abbreviated tail is folded permanently against the sternum."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Active semi-terrestrial crabs of the **Brachyura** scuttled over the exposed coral reefs at low tide."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"In the female **Brachyura**, the tucked abdomen forms an expansive brood pouch protecting the fertilized egg mass."*

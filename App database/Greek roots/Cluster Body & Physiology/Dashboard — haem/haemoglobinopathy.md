@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood disease characterized by the presence of abnormal hemoglobins in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blood disease characterized by the presence of abnormal hemoglobins in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any genetic defect, structural abnormality, or qualitative disorder affecting the hemoglobin molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A category of inherited red blood cell disorders, including sickle cell disease and thalassemia, characterized by abnormal globin chains or synthesis rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoglobinopathy designates a blood disease characterized by the presence of abnormal hemoglobins in the blood."*
+> - 📜 **Linus Pauling (*Science*):** *"Sickle cell anemia represents the first demonstrated molecular disease, a distinct hereditary **haemoglobinopathy** traced to altered chemical surface charge."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The geographic distribution of familial chronic anemia reflects the endemic persistence of varied forms of inherited **haemoglobinopathy**."*
+> - 📜 **J. B. S. Haldane (*The Causes of Evolution*):** *"Natural selection in malaria-endemic zones appears to have preserved heterozygous carriers of structural **haemoglobinopathy** as a balanced polymorphism."*

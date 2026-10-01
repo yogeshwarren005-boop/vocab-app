@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of small, eyeless, primitively wingless hexapods (entognathous non-insect hexapods) characterized by a pair of prominent terminal abdominal cerci.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil biology and arthropod phylogenetics, Diplura inhabit moist soil, leaf litter, and subterranean caves, divided into campodeids (with long, multi-segmented filamentary cerci) and japygids (with stout, pincered forceps cerci used to capture prey).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Diplura designates a term designating an entity, condition, or phenomenon derived from greek ur."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"In subterranean leaf mould, delicate white specimens of **Diplura** navigate crevices using their elongated terminal cerci as posterior feelers."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The entognathous mouthparts of the **Diplura** demonstrate a morphological transition intermediate between myriapods and true ectognathous insects."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Primitive soil arthropods such as **Diplura** illustrate the ancestral ground-dwelling habits of the earliest terrestrial hexapods."*

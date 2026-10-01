@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is an authority on history and who studies it and writes about it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is an authority on history and who studies it and writes about it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert, scholar, or writer who researches, analyzes, interprets, and chronicles past events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual culture, a critical scholar who evaluates primary sources, historical context, and documentary evidence to reconstruct human society over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The next most famous instance happened at Rheims six years earlier, and the historian in that case is Le Cat, one of the most renowned surgeons produced by France."*
-> - 📜 **Jane Austen (*Persuasion*):** *"So says my historian, at least."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Oh—nothing, nothing; except chasten yourself with the thought of ‘how are the mighty fallen.’ It is a fact of some interest to the local historian and genealogist, nothing more."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The diligence of the **historian** must examine every reliable monument and manuscript to separate truth from fable."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"A perfect **historian** must possess not only laborious research, but a powerful imagination to revive the living drama of the past."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Universal history, what man has accomplished in this world, is at bottom the history of the Great Men who have worked here, observes the **historian**."*

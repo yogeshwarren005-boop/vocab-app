@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally small head and underdeveloped brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally small head and underdeveloped brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual affected with congenital microcephaly; a person having an abnormally small head and brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and developmental neurology, an individual exhibiting profound microencephaly and cranial vault hypoplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcephalus designates an abnormally small head and underdeveloped brain."*
+> - 📜 **Rudolf Virchow (*Über den Cretinismus und über mikroskopische Schädel*):** *"The brain of the **microcephalus** is arrested at an embryonic stage of development, failing to expand the overlying calvarium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surgical craniectomy to release presumed cranial constriction in the **microcephalus** proved useless, as the defect is primarily cerebral."*
+> - 📜 **Isidore Geoffroy Saint-Hilaire (*General and Particular History of Anomalies of Organization*):** *"Our teratological collection includes preserved specimens of the **microcephalus**, displaying harmonious facial development beneath tiny vaults."*

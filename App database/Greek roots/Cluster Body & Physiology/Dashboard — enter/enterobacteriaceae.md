@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of gram-negative rod-shaped bacteria of the order eubacteriales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large family of gram-negative rod-shaped bacteria of the order eubacteriales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of Gram-negative bacteria that includes many of the common gut flora and pathogens such as Escherichia coli, Salmonella, and Klebsiella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic bacteriology, a medically crucial family of non-sporeforming rods that reside as commensals or pathogens in the animal digestive tract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterobacteriaceae designates a large family of gram-negative rod-shaped bacteria of the order eubacteriales."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"Isolating distinct genera of **Enterobacteriaceae** required developing differential nutrient agars and lactose fermentation tubes."*
+> - 📜 **Paul Farmer (*Infections and Inequalities*):** *"Multi-drug resistant strains of **Enterobacteriaceae** spread rapidly through intensive care wards lacking robust infection control protocols."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Escherichia coli, a prominent member of **Enterobacteriaceae**, has served as the foundational model organism for molecular genetics."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sand stargazers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sand stargazers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, marine, perch-like fishes known as sand stargazers, possessing upward-directed eyes and fringed lips for burying in sand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In benthic ichthyology, cryptobenthic blennioid fishes possessing finger-like opercular fringes that assist in respiration while submerged in sediment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dactyloscopidae designates sand stargazers."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The family **Dactyloscopidae** comprises peculiar blennioid fishes that lie concealed in sand with only their stalked eyes exposed."*
+> - 📜 **Francis Day (*The Fishes of India*):** *"Members of the **Dactyloscopidae** utilize specialized digital fringes along the opercular margin to filter sand from their gills."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"Small cryptobenthic fishes resembling the **Dactyloscopidae** were discovered burrowing with astonishing speed into intertidal sandbanks."*

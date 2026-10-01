@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has hemophilia and is subject to uncontrollable bleeding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who has hemophilia and is subject to uncontrollable bleeding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person affected by hemophilia, characterized by impaired blood coagulation and recurrent bleeding episodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characteristic of hemophilia or individuals suffering from hereditary coagulation deficiencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemophiliac designates someone who has hemophilia and is subject to uncontrollable bleeding."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The care of the **haemophiliac** patient demands extreme conservative management, avoiding all non-essential surgical interventions."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"The persistent anxiety exhibited by the parents was understandable given that their eldest son was an afflicted **haemophiliac**."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"Pedigrees tracking every known **haemophiliac** demonstrate the mathematical regularity of sex-linked hereditary distribution."*

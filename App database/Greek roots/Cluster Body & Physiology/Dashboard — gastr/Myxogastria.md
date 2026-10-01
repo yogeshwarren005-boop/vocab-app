@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gastr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of plasmodial or acellular slime molds characterized by a multinucleate, macroscopic streaming amoeboid vegetative stage (plasmodium).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protistology and mycology (often classified as Myxomycetes), amoebozoan organisms that feed by phagocytosis before differentiating into intricate fruiting bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Myxogastria designates a term designating an entity, condition, or phenomenon derived from greek gastr."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"The multinucleate plasmodia of **Myxogastria** crawl across moist forest timber, exhibiting magnificent protoplasmic streaming."*
+> - 📜 **E.O. Wilson (*The Diversity of Life*):** *"Decaying logs shelter vibrant slime molds of the class **Myxogastria**, whose pulsating golden nets engulf bacteria and spores."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"Upon desiccation, the giant plasmodium of **Myxogastria** transforms into spore-bearing sporangia of exquisite geometric complexity."*

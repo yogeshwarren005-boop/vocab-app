@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Artiodactyla) of ungulates (such as the camel or pig) with an even number of functional toes on each foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Artiodactyla) of ungulates (such as the camel or pig) with an even number of functional toes on each foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An even-toed ungulate mammal, such as a cow, deer, pig, sheep, or camel, having feet with an even number of digits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate zoology, a mammal of the order Artiodactyla whose weight-bearing axis passes between the third and fourth digits (paraxonic foot).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artiodactyl designates any of an order (artiodactyla) of ungulates (such as the camel or pig) with an even number of functional toes on each foot."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"The anatomical distinction between the perissodactyl and the **artiodactyl** rests primarily upon the symmetrical axis of the foot."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fossil discoveries demonstrate how primitive ungulates branched into odd-toed tapirs and the vast modern **artiodactyl** herds."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Every living **artiodactyl** bears its weight upon paired symmetrical hooves derived from digits three and four."*

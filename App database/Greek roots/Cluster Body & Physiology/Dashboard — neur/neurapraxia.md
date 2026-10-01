@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek neur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mildest form of traumatic peripheral nerve injury, characterized by a temporary physiological conduction block without anatomical severance of axons or sheaths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the Seddon classification of nerve injuries, a focal myelin disruption or metabolic stun causing transient motor paralysis with little or no sensory or autonomic loss and complete spontaneous recovery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurapraxia designates a term designating an entity, condition, or phenomenon derived from greek neur."*
+> - 📜 **Herbert Seddon (*Three Types of Nerve Injury*):** *"I propose the term **neurapraxia** for those conditions where nerve conduction fails temporarily without axonal fragmentation or Wallerian degeneration."*
+> - 📜 **Sydney Sunderland (*A Classification of Peripheral Nerve Injuries*):** *"In a first-degree injury or **neurapraxia**, continuity of all anatomical components is preserved and function returns within days or weeks."*
+> - 📜 **Harvey Cushing (*Notes on Penetrating Wounds of the Brain*):** *"Transient radial nerve palsy following battlefield contusion often proves to be a self-limiting **neurapraxia**."*

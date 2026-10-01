@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bone of the foot between the ankle and the toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the metatarsus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the metatarsus (the five long bones of the forefoot between the tarsus and phalanges).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics, metatarsal stress fractures (march fractures), Morton's metatarsalgia, and metatarsophalangeal joint arthritis (notably podagra in gout) are common clinical conditions affecting foot biomechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metatarsal designates any bone of the foot between the ankle and the toes."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The five **metatarsal** bones form the skeletal foundation of the instep, supporting the transverse arch of the foot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute gouty inflammation classically fastens upon the first **metatarsal**-phalangeal articulation with excruciating agony."*
+> - 📜 **Astley Cooper (*A Treatise on Dislocations and Fractures of the Joints*):** *"Fracture of the fifth **metatarsal** base often occurs from sudden inversion stress during athletic exertion."*

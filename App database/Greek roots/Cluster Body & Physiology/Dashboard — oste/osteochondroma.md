@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Benign tumor containing both bone and cartilage; usually occurs near the end of a long bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benign tumor containing both bone and cartilage; usually occurs near the end of a long bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most common benign bone tumor, consisting of a cartilage-capped bony projection on the external surface of a bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic oncology, an exostosis originating near the growth plate (physis) of long bones, which ceases growing with skeletal maturity but carries a small risk of malignant transformation into chondrosarcoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteochondroma designates benign tumor containing both bone and cartilage; usually occurs near the end of a long bone."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The histological structure of an **osteochondroma** faithfully mirrors normal endochondral ossification beneath its hyaline cartilage cap."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Excision of a pedunculated **osteochondroma** must include its cartilaginous cap and contiguous periosteum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Symptomatic compression of the peroneal nerve by a proximal fibular **osteochondroma** requires timely surgical relief."*

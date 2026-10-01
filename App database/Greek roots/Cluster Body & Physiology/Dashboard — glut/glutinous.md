@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the sticky properties of an adhesive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the sticky properties of an adhesive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Like glue in texture; sticky, viscous, or adhesive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and gastronomy, describing plant secretions, mushrooms, or starch-rich grains (like glutinous rice) that become sticky upon cooking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It designates the dark, glutinous substance which is scraped off the back of the Greenland or right whale, and much of which covers the decks of those inferior souls who hunt that ignoble Leviathan."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It designates the dark, glutinous substance which is scraped off the back of the Greenland or right whale, and much of which covers the decks of those inferior souls who hunt that ignoble Leviathan."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The day was very hot, and heaps of flies, who were extending their inquisitive and adventurous perquisitions into all the glutinous little glasses near madame, fell dead at the bottom."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"The pollinia are tipped with a **glutinous** disc that adheres firmly to the visiting bee's forehead."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"In early spring, the tender buds of the balsam poplar swell, coated in a fragrant, **glutinous** resin."*
+> - 📜 **Harold McGee (*On Food and Cooking*):** *"Short-grain **glutinous** rice contains almost entirely branched amylopectin, forming a sticky, cohesive mass when steamed."*

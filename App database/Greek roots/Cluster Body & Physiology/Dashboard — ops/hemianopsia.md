@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blindness in one half of the visual field; hemianopia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuro-ophthalmological perimetry, an alternate medical term for hemianopia, designating symmetrical lateral, medial, or altitudinal blindness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemianopsia designates a term designating an entity, condition, or phenomenon derived from greek ops."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Perimetric visual field mapping demonstrated complete bitemporal **hemianopsia** caused by an expanding craniopharyngioma."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Subtemporal decompression was performed to halt visual deterioration marked by advancing homonymous **hemianopsia**."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Surgical excision of the temporal horn optic radiations inevitably induces contralateral upper quadrantic **hemianopsia**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rear part of a ship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states concert violinist (born in russia in 1920).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe, strict, unyielding, or uncompromising in character, manner, or countenance; also, the aftermost or rear part of a boat or ship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime architecture, the stern encloses the rudder and propeller assemblies; in literature and ethics, stern fortitude characterizes austere adherence to duty or moral discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many lambs might the stern wolf betray, If like a lamb he could his looks translate!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the quick fire of youth light not your mind, You are no maiden but a monument; When you are dead, you should be such a one As you are now; for you are cold and stern, And now you should be as your mother was When your sweet self was got."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thought that all things had been savage here And therefore put I on the countenance Of stern commandment."*
+> - 📜 **Joseph Conrad (*The Nigger of the 'Narcissus'*):** *"The captain stood motionless by the **stern** rail, watching the high crests overtake the labouring ship."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrate regarded the trembling prisoner with a **stern**, unpitying countenance that banished all hope of mercy."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To whom with **stern** regard thus answered the Prince of Darkness, fearless of approaching judgment."*

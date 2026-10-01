@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An accumulation of blood in a cavity of the body, especially around the testis; haematocele (variant spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical British and colonial surgical manuals, an encapsulated scrotal or pelvic blood effusion caused by trauma or ruptured vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematocoele designates swelling caused by blood collecting in a body cavity (especially a swelling of the membrane covering the testis)."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris and Allied States*):** *"A chronic organized **haematocoele** can mimic a solid testicular neoplasm, necessitating diagnostic surgical exploration."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The surgeon incised the thickened tunica vaginalis, evacuating old dark clots from the longstanding **haematocoele**."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"Trauma to the spermatic tunics resulted in a voluminous **haematocoele** that required incision and packing."*

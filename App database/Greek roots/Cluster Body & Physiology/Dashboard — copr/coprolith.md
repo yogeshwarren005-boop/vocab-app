@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek copr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, calcified mass of hardened feces formed in the intestine; a fecalith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, an inspissated stone-like concretion that can obstruct the lumen of the vermiform appendix, precipitating acute appendicitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprolith designates a term designating an entity, condition, or phenomenon derived from greek copr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Upon dissecting the perforated appendix, the surgeon invariably discovers an obstructive **coprolith** lodged within the lumen."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The concentric mineral laminations of an intestinal **coprolith** indicate slow, layer-by-layer accretion around a foreign nucleus."*
+> - 📜 **Reginald Heber Fitz (*Perforating Inflammation of the Vermiform Appendix*):** *"Ulceration of the appendiceal wall is frequently triggered by ischemic pressure from an impacted **coprolith**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the blood vessels or blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the blood vessels or blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated on the side of the body where the heart and major blood vessels lie (hemal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy, designating the ventral hemal arch or hemal canal of caudal vertebrae enclosing the caudal artery and vein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemal designates relating to the blood vessels or blood."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The caudal vertebrae of fishes develop ventral processes that unite beneath the centrum to form the protective **haemal** arch."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"In the ideal vertebrate archetype, the neural arch protects the cerebro-spinal axis dorsally, while the **haemal** arch encloses the vascular trunks ventrally."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Serial homologies between vertebrae reveal that the chevron bones of reptiles are homologous with the **haemal** arches of fishes."*

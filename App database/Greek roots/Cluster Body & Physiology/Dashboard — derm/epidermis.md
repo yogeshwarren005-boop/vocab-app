@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer epithelial layer of the external integument of the animal body that is derived from the embryonic epiblast; specifically : the outer nonsensitive and nonvascular layer of the skin of a vertebrate that overlies the dermis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various animal integuments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surface epithelium of the skin, overlying the dermis; or the outermost single layer of cells covering a plant body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatological physiology, a stratified squamous keratinized epithelium providing vital protection against pathogen entry, chemical injury, and dehydration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These cups (called _peridia_) will appear to have burst through the epidermis of the leaf and elevated themselves above its surface, with the lower portion attached to the substratum beneath."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"By the increase of this cushion and the swelling of the fruit, the epidermis which covers them is distended, and ultimately ruptured, so that, when ripened, the spores escape."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These branches perforate the inner walls of the epidermis, and pass into the intercellular spaces of the parenchyma to become mycelium."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic analysis reveals that the cells of the **epidermis** undergo progressive cornification as they approach the free surface."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"No blood vessels penetrate the **epidermis**; its living strata are nourished by transudation from the underlying dermal capillary loops."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"The delicate tactile impressions received upon the fingertip must pass through the semi-transparent veil of the **epidermis**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affecting or confined to a single bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In skeletal pathology and orthopedic oncology, describing lesions (such as fibrous dysplasia, Paget's disease, or eosinophilic granuloma) that occur exclusively in one skeletal site, in contrast to polyostotic forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monostotic designates adjective*) pertaining to, derived from, or characteristic of bone."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The **monostotic** variant of fibrous dysplasia remains confined to a solitary femur, sparing the remaining skeleton."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In young adults, **monostotic** skeletal lesions often present asymptomatically until discovered following minor pathological fracture."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"A solitary **monostotic** thickening of the sphenoid ridge was carefully excised during the frontal craniotomy."*

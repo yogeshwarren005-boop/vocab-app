@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or employing dialectic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or employing dialectic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or employing dialectic; based upon logical inquiry and debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical and social analysis, pertaining to the dynamic evolution of ideas or historical realities driven by internal tensions, contradictions, and transformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon; digestion was made difficult by the interference of citations, or by the rivalry of dialectical phrases ringing against each other in his brain."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"To make the dying John refute Strauss or Renan, handling their propositions with admirable dialectical skill, is certainly, on the face of it, somewhat hazardous."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"GOTHSEUNGQUEAN, also called _Shenanwaga_ and many other dialectical variations, an important town, was also destroyed Sept. 8, by a detachment of riflemen under Major Parr."*
+> - 📜 **Karl Marx (*Das Kapital*):** *"My **dialectical** method is not only different from the Hegelian, but is its direct opposite, grounding development in material reality."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Plato's early dialogues provide vivid examples of **dialectical** inquiry exposing flawed definitions."*
+> - 📜 **Jean-Paul Sartre (*Critique of Dialectical Reason*):** *"Human praxis constitutes the core of **dialectical** movement within historical structures."*

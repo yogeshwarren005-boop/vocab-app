@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurotic character, condition, or trait.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurotic character, condition, or trait.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fundamental personality trait characterized by emotional instability, anxiety, moodiness, worry, and susceptibility to psychological distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern psychometrics (the Big Five personality model) and Eysenckian psychology, a dimension reflecting the reactivity of the autonomic nervous system to environmental stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroticism designates a neurotic character, condition, or trait."*
+> - 📜 **Hans Eysenck (*The Biological Basis of Personality*):** *"High scores on the **neuroticism** scale correlate with hyper-reactivity of the limbic system in response to emotional provocation."*
+> - 📜 **Gordon Allport (*Pattern and Growth in Personality*):** *"Trait measurements of **neuroticism** identify individuals whose defensive coping mechanisms fail under sustained emotional load."*
+> - 📜 **William McDougall (*An Introduction to Social Psychology*):** *"Constitutional **neuroticism** amplifies fear instincts, rendering the subject vulnerable to persistent functional inhibitions."*

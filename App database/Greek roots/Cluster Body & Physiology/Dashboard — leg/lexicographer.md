@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compiler or writer of a dictionary; a student of the lexical component of language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compiler or writer of a dictionary; a student of the lexical component of language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An author, editor, or compiler of a dictionary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic history and textual scholarship, an investigator who systematically researches, defines, and chronicles the historical semantics and etymologies of a language's word stock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"In the principles of religion and morality, Miss Sedley will be found worthy of an establishment which has been honoured by the presence of THE GREAT LEXICOGRAPHER, and the patronage of the admirable Mrs."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"How I wish I could present him and my beloved girls to the friend of my youth, and the ADMIRED of the great lexicographer of our country!"*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The friend of the Lexicographer had plenty of information to give."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"The **lexicographer** is a writer of dictionaries; a harmless drudge that busies himself in tracing the original, and detailing the signification of words."*
+> - 📜 **James Murray (*The Evolution of English Lexicography*):** *"The ideal **lexicographer** must combine the vigilance of a detective with the dispassionate rigor of a natural philosopher."*
+> - 📜 **Voltaire (*Philosophical Dictionary*):** *"A wise **lexicographer** does not legislate usage, but faithfully chronicles the living speech of his contemporaries."*

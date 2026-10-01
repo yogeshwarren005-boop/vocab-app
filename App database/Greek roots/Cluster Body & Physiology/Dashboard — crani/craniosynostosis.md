@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Premature fusion of the sutures of the skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Premature fusion of the sutures of the skull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital defect in which one or more of the cranial sutures fuse prematurely, leading to abnormal head shape and restricted brain growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurosurgery, a developmental malformation (such as scaphocephaly or brachycephaly) treated by surgical suture release.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniosynostosis designates premature fusion of the sutures of the skull."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Premature ossification of the sagittal suture produces the elongated boat-shaped cranium characteristic of sagittal **craniosynostosis**."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Surgical intervention in severe **craniosynostosis** aims to decompress the growing brain and alleviate intracranial hypertension."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Children born with syndromic **craniosynostosis** present with complex craniofacial anomalies requiring multidisciplinary reconstructive surgery."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the hypodermis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the hypodermis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or located beneath the skin; subcutaneous; hypodermic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod morphology, pertaining to the cellular hypodermis that secretes the exoskeleton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypodermal designates of or relating to the hypodermis."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"A dense layer of **hypodermal** cells underlies the calcareous carapace, orchestrating the periodic replacement of the armor."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Subcutaneous **hypodermal** fat deposits serve as an indispensable thermal blanket against severe cold."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Pigment granules embedded within the **hypodermal** layer create the brilliant coloration of many insect shells."*

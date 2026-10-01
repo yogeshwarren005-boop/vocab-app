@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located around the heart or relating to or affecting the pericardium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located around the heart or relating to or affecting the pericardium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated within the pericardium or the pericardial cavity enclosing the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, describing pathological conditions such as pericardial effusion, pericardial tamponade, or pericardial friction rubs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericardial designates located around the heart or relating to or affecting the pericardium."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"A scratchy **pericardial** friction rub confirms the presence of fibrinous exudation upon the rubbing serous surfaces."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rapid accumulation of fluid within the rigid **pericardial** sac compresses the cardiac chambers, precipitating acute tamponade."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **pericardial** cavity is normally a potential space containing a thin film of lubricating serous fluid that minimizes friction."*

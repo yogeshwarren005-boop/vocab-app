@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of possessing one or more chromosomes in numbers exceeding the normal complement (such as trisomy, tetrasomy, or pentasomy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and cytogenetics, cellular polysomy is a hallmark of genomic instability in tumor cells, driving overexpression of oncogenes located on duplicated chromosomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysomy designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Albert Blakeslee (*The Chromosome Constitution of Datura Mutants*):** *"Systematic study of **polysomy** revealed that each specific extra chromosome alters plant architecture in a characteristic manner."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"Meiotic non-disjunction generates gametes that perpetuate various degrees of **polysomy** into subsequent generations."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"The evolutionary tolerance of **polysomy** in angiosperms contrasts sharply with the extreme lethality observed in metazoans."*

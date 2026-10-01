@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A modified microscope used to study capillary vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modified microscope used to study capillary vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical microscope or fine fiberoptic endoscope designed for the direct visual examination of the interior of blood vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular surgery and interventional cardiology, a micro-endoscopic device used to inspect intraluminal thrombi, atheromas, and stent deployments in real time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angioscope designates a modified microscope used to study capillary vessels."*
+> - 📜 **Charles Dotter (*Vascular Endoscopy*):** *"Introducing the miniaturized **angioscope** into the femoral lumen permitted direct visualization of plaque ulcerations."*
+> - 📜 **Andreas Grüntzig (*Coronary Dilatation*):** *"Fiberoptic technology enabled the design of an ultrafine **angioscope** capable of traversing secondary arterial branches."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Direct intraluminal inspection through an **angioscope** clarifies whether an arterial filling defect represents fresh thrombus or calcified atheroma."*

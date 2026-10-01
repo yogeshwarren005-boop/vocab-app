@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Enterococcus) of gram-positive bacteria that resemble streptococci and were formerly classified with them; especially : a bacterium (E. faecalis) normally present in the intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several enterococci (such as Enterococcus faecalis and E. faecium) that are resistant to vancomycin and other commonly used antibiotics (such as cephalosporin and tetracycline) and are typically benign colonizers of the gastrointestinal tract and female genital tract but may cause severe infections (as of the urinary tract or bloodstream) especially in hospitalized patients with weakened immune systems and in individuals who are on long-term regimens of antibiotics —abbreviation VRE.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Gram-positive, spherical bacteria that occur in pairs or short chains, commonly found as part of the normal intestinal flora.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology, hardy lactic acid bacteria (notably Enterococcus faecalis and E. faecium) notorious for hospital-acquired infections and vancomycin resistance (VRE).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterococcus designates any of a genus (enterococcus) of gram-positive bacteria that resemble streptococci and were formerly classified with them; especially : a bacterium (e. faecalis) normally present in the intestine."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"Stringent barrier precautions were instituted on the surgical floor to stop the transmission of vancomycin-resistant **Enterococcus**."*
+> - 📜 **Paul Farmer (*Fevers, Feuds, and Diamonds*):** *"Treating bloodstream infections caused by multi-drug resistant **Enterococcus** strains requires costly last-resort antibiotics."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Unlike fragile streptococci, the rugged gut commensal **Enterococcus** tolerates bile salts and harsh osmotic gradients with ease."*

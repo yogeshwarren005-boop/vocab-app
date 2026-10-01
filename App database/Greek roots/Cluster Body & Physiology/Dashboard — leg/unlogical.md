@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in correct logical relation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in correct logical relation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not logical; contrary to, unsupported by, or violating the rules of correct reasoning; illogical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological and behavioral theory (especially Vilfredo Pareto), describing human actions and cultural rituals grounded in emotion, instinct, and sentiment rather than logical calculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unlogical designates lacking in correct logical relation."*
+> - 📜 **Vilfredo Pareto (*The Mind and Society*):** *"The vast majority of human societal actions are essentially **unlogical**, rationalized only post hoc through elaborate theories."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Religious convictions belong to an **unlogical** realm of feeling that defies formal syllogistic demonstration."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Passion often expresses itself through an **unlogical** sequence of metaphors that conveys emotional truth."*

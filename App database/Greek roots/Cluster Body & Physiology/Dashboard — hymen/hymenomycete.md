@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hymen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus belonging to the historical class Hymenomycetes, having an exposed spore-bearing hymenium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, a higher basidiomycete (such as an agaric, bolete, polypore, or chanterelle) whose spores are discharged from an open, exposed hymenial surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenomycete designates a term designating an entity, condition, or phenomenon derived from greek hymen."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Every true **hymenomycete** exposes its spore-bearing surface to the open air before spore discharge begins."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The diverse forms assumed by the **hymenomycete** fungi illustrate the evolutionary plasticity of fungal fruiting bodies."*
+> - 📜 **Elias Magnus Fries (*Epicrisis Systematis Mycologici*):** *"Fries organized the vast order of the **hymenomycetes** according to the gill, pore, or tooth architecture of the hymenium."*

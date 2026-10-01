@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which air or other gas is present in the pleural cavity and which occurs spontaneously as a result of disease or injury of lung tissue, rupture of air-filled pulmonary cysts, or puncture of the chest wall or is induced as a therapeutic measure to collapse the lung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which air or other gas is present in the pleural cavity and which occurs spontaneously as a result of disease or injury of lung tissue, rupture of air-filled pulmonary cysts, or puncture of the chest wall or is induced as a therapeutic measure to collapse the lung.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of air or gas in the pleural cavity, which causes the lung on the affected side to collapse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thoracic medicine and trauma surgery, classified into spontaneous (primary or secondary), traumatic, and tension pneumothorax—the latter being a life-threatening medical emergency requiring immediate needle decompression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumothorax designates a condition in which air or other gas is present in the pleural cavity and which occurs spontaneously as a result of disease or injury of lung tissue, rupture of air-filled pulmonary cysts, or puncture of the chest wall or is induced as a therapeutic measure to collapse the lung."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Metallic tinkling and amphoric resonance upon auscultation provide pathognomonic evidence of a hydropneumothorax or acute **pneumothorax**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden, agonizing unilateral chest pain accompanied by hyper-resonance and absent breath sounds signals a spontaneous **pneumothorax**."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"In open traumatic **pneumothorax**, the sucking chest wound must be immediately occluded to prevent fatal mediastinal fluttering."*

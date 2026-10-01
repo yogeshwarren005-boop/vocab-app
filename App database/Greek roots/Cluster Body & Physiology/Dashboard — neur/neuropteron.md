@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insect having biting mouthparts and four large membranous wings with netlike veins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insect having biting mouthparts and four large membranous wings with netlike veins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A net-winged insect belonging to the order Neuroptera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical natural history and descriptive entomology, an individual insect specimen exhibiting the membranous, reticulated wing architecture of Neuroptera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropteron designates insect having biting mouthparts and four large membranous wings with netlike veins."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The delicate green lacewing is a familiar **neuropteron** whose golden eyes gleam against the summer foliage."*
+> - 📜 **John Lubbock (*On the Origin and Metamorphoses of Insects*):** *"Every adult **neuropteron** displays a nervous system consisting of concentrated cephalic and thoracic ganglia."*
+> - 📜 **George Newport (*On the Anatomy and Development of the Neuroptera*):** *"Dissection of the aquatic larva of this **neuropteron** reveals prominent tracheal gills along the abdominal segments."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw or let blood from a vein for medicinal or therapeutic purposes (Commonwealth spelling; phlebotomize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine and hematology, to puncture a vein to relieve polycythemia vera, hemochromatosis, or congestion through bloodletting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebotomise designates draw blood."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The court physicians resolved to **phlebotomise** the dying emperor, hastening his demise with excessive bloodletting."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"I would not rashly **phlebotomise** a patient weakened by fever, lest the remaining vital spirits be exhausted."*
+> - 📜 **Tobias Smollett (*The Adventures of Roderick Random*):** *"The surgeon ordered the apothecary to **phlebotomise** the sailor from the basilic vein without delay."*

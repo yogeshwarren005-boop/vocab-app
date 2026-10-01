@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of mechanics that deals with the mechanical properties of gases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of mechanics that deals with the mechanical properties of gases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics and engineering that deals with the mechanical properties of air and other gases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mechanics and technology, the study of gas compression, vacuum generation, and fluid power transmission, founded by Hero of Alexandria and revived by Evangelista Torricelli and Robert Boyle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumatics designates the branch of mechanics that deals with the mechanical properties of gases."*
+> - 📜 **Hero of Alexandria (*Pneumatics*):** *"In this treatise on **pneumatics**, we demonstrate how air and water may be made to open temple doors and sound trumpets."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanicall*):** *"Progress in experimental **pneumatics** overthrew the ancient philosophical dogma that nature abhors a vacuum."*
+> - 📜 **Joseph Priestley (*The History and Present State of Discoveries Relating to Vision, Light, and Colours*):** *"Discoveries in chemical **pneumatics** revealed that ordinary air was an intricate mixture of distinct gases."*

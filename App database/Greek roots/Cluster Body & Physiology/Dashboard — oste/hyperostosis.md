@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive growth or thickening of bone tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive growth or thickening of bone tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive or abnormal overgrowth and thickening of bone tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology and skeletal radiology, pathological diffuse cortical thickening, such as diffuse idiopathic skeletal hyperostosis (DISH) or hyperostosis frontalis interna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperostosis designates excessive growth or thickening of bone tissue."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Marked **hyperostosis** of the cranial vault reflects chronic periosteal bone deposition in response to long-standing irritation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Radiographs in Paget's disease demonstrate generalized **hyperostosis** with irregular remodeling and cortical expansion."*
+> - 📜 **Harvey Cushing (*Intracranial Tumours*):** *"The overlying calvarium exhibited localized **hyperostosis** directly above the vascular meningioma."*

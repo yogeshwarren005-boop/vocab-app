@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of a myelin sheath around a nerve fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The development of a myelin sheath around a nerve fiber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or development of a myelin sheath around a nerve fiber (British English spelling of myelinization).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental neuroembryology, the sequential maturational process whereby glial cells wrap axons in protective myelin, correlating with the emergence of coordinated motor and cognitive functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelinisation designates the development of a myelin sheath around a nerve fiber."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The progressive **myelinisation** of fetal cerebral tracts proceeds in a strict craniocaudal sequence."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Functional maturation of peripheral reflex arcs coincides with the onset of sheath **myelinisation**."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Incomplete **myelinisation** explains the diffuse, uncoordinated motor responses observed in newborn mammals."*

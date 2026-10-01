@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chondr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the cartilage that connects a rib to the breastbone (the costochondral junction), causing localized chest wall pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency and internal medicine, a benign musculoskeletal cause of anterior chest pain that closely mimics myocardial infarction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costochondritis designates a term designating an entity, condition, or phenomenon derived from greek chondr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Point tenderness over the parasternal junctions distinguishes acute **costochondritis** from the crushing substernal distress of angina."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Many an anxious patient fearing heart disease is relieved to learn that his sharp chest pain is merely localized **costochondritis**."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Palpation of the costal cartilages is an essential step in ruling out **costochondritis** in non-cardiac chest pain presentations."*

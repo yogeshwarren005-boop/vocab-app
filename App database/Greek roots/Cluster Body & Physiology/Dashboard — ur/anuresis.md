@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to urinate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to urinate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete suppression or absence of urine excretion by the kidneys; anuria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nephrology and acute clinical care, anuresis is defined as urine output less than 50 to 100 mL per day, representing severe acute kidney injury, complete bilateral ureteral obstruction, or catastrophic renal cortical necrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anuresis designates inability to urinate."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete obstructive **anuresis** from impacted bilateral calculi rapidly induces uremic coma unless relieved by catheterization."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Total suppression of urine, or **anuresis**, was followed within forty-eight hours by profound somnolence and convulsions."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The physician must promptly differentiate true secretory **anuresis** from simple mechanical retention within a distended bladder."*

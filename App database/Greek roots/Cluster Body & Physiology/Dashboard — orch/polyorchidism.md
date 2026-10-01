@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek orch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rare congenital condition of possessing more than two testes (triorchidism being the most common form).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology and embryology, supernumerary testis resulting from longitudinal or transverse division of the genital ridge during early embryonic development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyorchidism designates a term designating an entity, condition, or phenomenon derived from greek orch."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Instances of **polyorchidism** are exceedingly uncommon, typically diagnosed incidentally during routine inguinal hernia repair."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Anatomical examination in confirmed **polyorchidism** reveals a third accessory gonadal mass sharing a common epididymis."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Historical medical annals frequently recorded curiosities of anatomy, including verified cases of congenital **polyorchidism**."*

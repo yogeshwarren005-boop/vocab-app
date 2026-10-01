@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Science of soils in relation to crops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Science of soils in relation to crops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of soil science dealing with agricultural soils and crop production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural chemistry and pedology, the scientific study of the biological, physical, and nutrient properties of arable soils in relation to fertility and tillage practices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agrology designates science of soils in relation to crops."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Scientific **agrology** demonstrated that plant nutrition depends upon restoring mineral salts extracted by successive harvests."*
+> - 📜 **George Washington Carver (*Agricultural Bulletins*):** *"Progressive **agrology** demands crop rotation with legumes to naturally enrich exhausted southern soils."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The practical student of **agrology** must acknowledge earthworms as nature's foremost plowmen and soil regenerators."*

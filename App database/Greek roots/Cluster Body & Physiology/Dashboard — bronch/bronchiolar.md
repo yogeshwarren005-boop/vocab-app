@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving bronchioles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving bronchioles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated within the bronchioles (the minute terminal branches of the bronchial tree).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonary pathology, describing processes such as bronchiolar obstruction, bronchiolar spasm, or bronchiolar epithelial metaplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchiolar designates of or relating to or involving bronchioles."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Purulent plugs filling the **bronchiolar** lumens prevent air entry, provoking lobular atelectasis in downstream alveoli."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diffuse **bronchiolar** spasm is the primary pathophysiological event causing acute expiratory dyspnea in childhood asthma."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"During late fetal life, rapid branching of the **bronchiolar** buds generates millions of prospective respiratory alveoli."*

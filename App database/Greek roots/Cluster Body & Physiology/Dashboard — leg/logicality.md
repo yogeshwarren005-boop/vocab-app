@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Correct and valid reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Correct and valid reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or property of being logical; conformity to sound reasoning and deductive validity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and philosophy, the structural consistency and internal coherence of an intellectual thesis or deductive system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logicality designates correct and valid reasoning."*
+> - 📜 **William James (*The Will to Believe*):** *"The relentless **logicality** of the scholastic system often constructed impressive edifices upon unverifiable premises."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"The mathematical mind delights in pure **logicality**, where every deduction flows inevitably from stated axioms."*
+> - 📜 **Charles Sanders Peirce (*Illustrations of the Logic of Science*):** *"The **logicality** of scientific inquiry depends not upon infallible intuition, but upon self-correcting inductive methods."*

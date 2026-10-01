@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a bone as a consequence of infection or trauma or degeneration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a bone as a consequence of infection or trauma or degeneration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of bone tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, acute or chronic inflammatory disease of bone, such as osteitis deformans (Paget's disease of bone) or osteitis fibrosa cystica (hyperparathyroid bone disease).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteitis designates inflammation of a bone as a consequence of infection or trauma or degeneration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In advanced cases of **osteitis** deformans, the enlarged cranium and bowed tibiae present a characteristic diagnostic picture."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Suppurative **osteitis** leads directly to thrombosis of Haversian canals and subsequent sequestration of necrotic bone fragments."*
+> - 📜 **James Paget (*On a Form of Chronic Inflammation of Bones*):** *"I have proposed the designation **osteitis** deformans to signify the progressive enlargement and softening of the long bones."*

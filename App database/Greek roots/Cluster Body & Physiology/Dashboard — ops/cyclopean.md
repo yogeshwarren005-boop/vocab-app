@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling the cyclops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling the cyclops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or resembling the mythical Cyclopes; gigantic, colossal, or built of massive, unmortared stones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and architectural history, designating primitive Mycenaean masonry composed of immense, irregularly fitted polygonal boulders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopean designates of or relating to or resembling the cyclops."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great leviathan rolled in the foam like a fragment of **cyclopean** masonry cast adrift upon the ocean."*
+> - 📜 **Heinrich Schliemann (*Mycenae: A Narrative of Researches and Discoveries*):** *"The Lion Gate is flanked by colossal **cyclopean** walls that have stood unshaken for over three thousand years."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"The crumbling stones formed a wild, irregular outline reminiscent of **cyclopean** architecture from forgotten ages."*

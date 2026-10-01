@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vasopressin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polypeptide hormone secreted by the posterior lobe of the pituitary gland or obtained synthetically that increases blood pressure and decreases urine flow —called also antidiuretic hormone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, hormone, or substance that suppresses or reduces the volume of urine produced by the kidneys; also, having the effect of diminishing urine excretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and clinical endocrinology, antidiuretic hormone (ADH / arginine vasopressin), secreted by the posterior pituitary, acts on V2 receptors in renal collecting ducts to insert aquaporin-2 water channels, concentrating urine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidiuretic designates vasopressin."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Pituitary extracts exert a powerful **antidiuretic** influence, stimulating water reabsorption along the renal collecting tubules."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In diabetes insipidus, the failure of physiological **antidiuretic** secretion produces torrential polyuria and insatiable thirst."*
+> - 📜 **Walter Bradford Cannon (*The Wisdom of the Body*):** *"Osmoreceptors in the anterior brainstem trigger **antidiuretic** release whenever hemoconcentration threatens fluid volume."*

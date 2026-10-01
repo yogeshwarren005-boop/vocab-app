@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease or malformation of the nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any disease or malformation of the nose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease, disorder, or pathological condition affecting the nose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otorhinolaryngology, an encompassing clinical term for non-inflammatory, allergic, infectious, or neoplastic disorders of the nasal cavity and mucosa (e.g. vasomotor rhinopathy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinopathy designates any disease or malformation of the nose."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic vasomotor **rhinopathy** causes persistent nasal congestion provoked by temperature changes and emotional stress."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Upper airway dysfunction due to chronic **rhinopathy** frequently aggravates nocturnal bronchial asthma."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Histological differentiation of an unusual mucosal **rhinopathy** revealed granulomatous infiltration of the nasal septum."*

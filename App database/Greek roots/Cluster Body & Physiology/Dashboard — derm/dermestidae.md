@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carpet beetles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carpet beetles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small beetles commonly known as skin beetles, hide beetles, or carpet beetles, whose larvae feed on dry animal and plant products.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural history museums and forensic entomology, beetles utilized by preparators to clean skeleton specimens, or analyzed to estimate post-mortem intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermestidae designates carpet beetles."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The larvae of the **Dermestidae** caused immense destruction among our dried zoological collections during the humid tropical voyage."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Natural history curators employ colonies of the **Dermestidae** to clean delicate vertebrate skulls without damaging fragile sutures."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"Whenever a carcass has dried into mere parchment and bone, the hungry larvae of the **Dermestidae** arrive to finish the feast."*

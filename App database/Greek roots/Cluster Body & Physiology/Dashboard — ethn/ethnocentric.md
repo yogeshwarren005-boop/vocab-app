@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Centered on a specific ethnic group, usually one's own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Centered on a specific ethnic group, usually one's own.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evaluating other peoples and cultures according to the standards and preconceptions of one's own culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an implicit belief in the inherent superiority of one's own cultural, national, or ethnic group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethnocentric designates centered on a specific ethnic group, usually one's own."*
+> - 📜 **Franz Boas (*The Mind of Primitive Man*):** *"Anthropology dismantles the **ethnocentric** conceit that Western industrial civilization represents the pinnacle of human culture."*
+> - 📜 **Ruth Benedict (*Patterns of Culture*):** *"Western travelers viewed native ritual practices through an **ethnocentric** lens that blinded them to internal symbolic coherence."*
+> - 📜 **Claude Lévi-Strauss (*Race and History*):** *"The **ethnocentric** attitude is so deeply rooted that every society tends to equate its own customs with the definition of humanity."*

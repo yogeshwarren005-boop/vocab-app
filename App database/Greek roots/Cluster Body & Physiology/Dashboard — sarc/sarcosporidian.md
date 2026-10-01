@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasite of the muscles of vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasite of the muscles of vertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the Sarcosporidia; an organism of this parasitic group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in pathology and parasitology to characterize the cysts, spores, or inflammatory lesions induced by *Sarcocystis* and related muscle protozoa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcosporidian designates parasite of the muscles of vertebrates."*
+> - 📜 **Theobald Smith (*The Etiology of Bovine Coccidiosis*):** *"The rupture of a mature **sarcosporidian** cyst releases toxins that provoke acute local eosinophilic infiltration."*
+> - 📜 **James Law (*The Farmer's Veterinary Adviser*):** *"Slaughterhouse condemnations often follow the detection of generalized **sarcosporidian** lesions in beef carcasses."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Histological sections of striated muscle revealed an incidental **sarcosporidian** cyst embedded between healthy fibers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not breathing or able to breathe except with difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not breathing or able to breathe except with difficulty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by or suffering from difficulty in breathing; short of breath (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency medicine and intensive care, designating patients presenting with subjective air hunger, cyanosis, and accessory respiratory muscle recruitment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyspnoeic designates not breathing or able to breathe except with difficulty."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The acutely **dyspnoeic** patient sat perched on the edge of the bed, gasping for air with flaring alae nasi."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Autopsy of the severely **dyspnoeic** patient revealed massive alveolar infiltration and bilateral pulmonary edema."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"I was summoned urgently to examine a **dyspnoeic** child choking from acute diphtheritic croup."*

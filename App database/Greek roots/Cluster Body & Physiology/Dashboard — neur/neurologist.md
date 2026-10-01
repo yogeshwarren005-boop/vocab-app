@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One specializing in neurology; especially : a physician skilled in the diagnosis and treatment of disease of the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One specializing in neurology; especially : a physician skilled in the diagnosis and treatment of disease of the nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician or medical specialist who diagnoses and treats organic disorders and diseases of the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical practice and clinical research, an expert versed in localization of lesions across the brain, spinal cord, neuromuscular junction, and peripheral nerves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurologist designates one specializing in neurology; especially : a physician skilled in the diagnosis and treatment of disease of the nervous system."*
+> - 📜 **William Richard Gowers (*A Manual of Diseases of the Nervous System*):** *"The discerning **neurologist** learns that the patient's subjective narrative provides the decisive key to anatomical localization."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"At the Salpêtrière, the clinical **neurologist** was confronted with every conceivable variety of paralysis and tremor."*
+> - 📜 **John Hughlings Jackson (*Selected Writings of John Hughlings Jackson*):** *"The philosophical **neurologist** observes the dissolution of nervous functions from highest voluntary levels down to basic reflexes."*

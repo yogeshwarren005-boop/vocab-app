@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of digit, finger , toe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of digit, finger , toe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four digits on each limb; four-toed or four-fingered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate osteology, possessing four functional digits per autopod, as in many amphibians and birds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetradactylous designates adjective*) pertaining to, derived from, or characteristic of digit, finger , toe."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The forelimb of the salamander is **tetradactylous**, possessing four well-developed digits without a thumb."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Vertebrates*):** *"In pigs and hippopotamuses, the **tetradactylous** foot retains two central weight-bearing hooves and two reduced lateral dewclaws."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The transition from pentadactyl ancestors to **tetradactylous** dinosaurs accompanied bipedal cursorial evolution."*

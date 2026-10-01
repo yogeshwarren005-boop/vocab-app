@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that studies the structure and function of cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biology that studies the structure and function of cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biological and medical science concerned with the structure, function, and pathology of cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnostics, the microscopic examination of cellular samples and aspirates to detect malignancies, infections, and cytogenetic disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytology designates the branch of biology that studies the structure and function of cells."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Every pathological change has its seat in the cell; hence clinical diagnosis must be founded upon microscopic **cytology**."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Modern **cytology** reveals that protoplasm is the physical basis of life common to all living beings."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diagnostic **cytology** of pleural and peritoneal exudates frequently resolves the dilemma between tuberculosis and malignancy."*

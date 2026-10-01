@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Decapoda) of crustaceans (such as shrimp, lobsters, and crabs) with five pairs of thoracic appendages one or more of which are modified into pincers, with stalked eyes, and with the head and thorax fused into a cephalothorax and covered by a carapace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the cephalopod mollusks (orders Sepioidea and Teuthoidea) with 10 arms including cuttlefishes, squids, and related forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any crustacean of the order Decapoda having five pairs of thoracic walking legs (including crabs, lobsters, shrimps, and prawns), or a ten-armed cephalopod (such as a squid or cuttlefish).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic marine invertebrate zoology, malacostracan crustaceans characterized by a cephalothorax covered by a carapace and five pairs of uniramous pereiopods, the first pair frequently modified as large chelae (claws).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decapod designates any of an order (decapoda) of crustaceans (such as shrimp, lobsters, and crabs) with five pairs of thoracic appendages one or more of which are modified into pincers, with stalked eyes, and with the head and thorax fused into a cephalothorax and covered by a carapace."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"On the reef flat, an enormous hermit crab—a terrestrial **decapod**—scuttled across the coral sand with surprising speed."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The river crayfish serves as a typical example of a freshwater **decapod**, exhibiting five pairs of thoracic walking limbs."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The mud flats teem with fiddler crabs, each miniature **decapod** waving its oversized claw in rhythmic courtship."*

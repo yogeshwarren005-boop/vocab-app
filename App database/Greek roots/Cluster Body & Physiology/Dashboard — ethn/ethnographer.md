@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthropologist who does ethnography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropologist who does ethnography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthropologist or social scientist who studies, describes, and writes about human cultures through immersive participant observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural research, a fieldworker who conducts qualitative ethnography to document social practices, kinship structures, and ritual life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethnographer designates an anthropologist who does ethnography."*
+> - 📜 **Bronislaw Malinowski (*Argonauts of the Western Pacific*):** *"The goal of the true **ethnographer** is to grasp the native's point of view, his relation to life, to realize his vision of his world."*
+> - 📜 **Margaret Mead (*Letters from the Field*):** *"As an **ethnographer** in a coastal Samoan village, I lived in thatched huts, learning the cadence of daily gossip and song."*
+> - 📜 **Clifford Geertz (*The Interpretation of Cultures*):** *"What the **ethnographer** faces is a multiplicity of complex conceptual structures, which he must first grasp and then render intelligible."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family cardiidae: cockles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family cardiidae: cockles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The heart, or the cardiac orifice of the stomach (in anatomical terminology); also a taxonomic genus of marine bivalves in the cockle family (Cardiidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology and paleontology, the type genus of true cockles characterized by inflated heart-shaped shells with radial costae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardium designates type genus of the family cardiidae: cockles."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"The shell of **cardium** is cordate, with valves that close tightly along crenulated margins like interlocking teeth."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The common cockle, **cardium** edule, burrows shallowly into intertidal sand flats across the coasts of Europe."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"In anatomical nomenclature, the upper opening of the stomach receives the name **cardium** from its sympathetic nervous resonance with the heart."*

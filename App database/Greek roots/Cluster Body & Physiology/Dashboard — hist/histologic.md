@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to histology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to histology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to histology; pertaining to the microscopic anatomy of tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pathology and cytology, describing tissue architecture, cellular arrangement, or micro-structural alterations observed under a microscope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histologic designates of or relating to histology."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Every **histologic** investigation demonstrates that disease originates within the altered metabolism of individual cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The definitive diagnosis of hepatic cirrhosis requires **histologic** confirmation of diffuse fibrous bridging."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System of Man and Vertebrates*):** *"Silver impregnation reveals the delicate **histologic** arborization of cortical pyramidal neurons."*

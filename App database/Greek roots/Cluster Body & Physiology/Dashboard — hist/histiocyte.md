@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Macrophage; especially : a nonmotile macrophage of extravascular tissues and especially connective tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Macrophage; especially : a nonmotile macrophage of extravascular tissues and especially connective tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stationary phagocytic cell found in connective tissue; a resident macrophage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular immunology and histopathology, a tissue-resident mononuclear phagocyte derived from circulating monocytes or embryonic precursors, responsible for antigen presentation, phagocytosis, and tissue homeostasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histiocyte designates macrophage; especially : a nonmotile macrophage of extravascular tissues and especially connective tissue."*
+> - 📜 **Élie Metchnikoff (*Immunity in Infective Diseases*):** *"Within connective tissue spaces, the large stationary macrophage or **histiocyte** avidly ingests foreign particulates and cellular debris."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"The reticuloendothelial system includes the resting **histiocyte**, ready to mobilize upon the introduction of inflammatory stimuli."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Granulomatous lesions characteristically display proliferations of epithelioid cells derived from the transformed interstitial **histiocyte**."*

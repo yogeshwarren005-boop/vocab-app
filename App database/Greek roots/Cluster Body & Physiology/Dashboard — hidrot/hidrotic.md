@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sweat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sweat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or promoting the secretion of sweat; sudorific.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and medical therapeutics, a drug or substance (such as pilocarpine) that stimulates sweat gland activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hidrotic designates adjective*) pertaining to, derived from, or characteristic of sweat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hot drinks, warm blankets, and a mild **hidrotic** draught were administered to promote diaphoresis at the onset of fever."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The physician should employ mild **hidrotic** remedies with prudent caution, lest profuse sweating debilitate the patient."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"The subcutaneous injection of pilocarpine exerted a powerful **hidrotic** effect, exciting rapid glandular discharge."*

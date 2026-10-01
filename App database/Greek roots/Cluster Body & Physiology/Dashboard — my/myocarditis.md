@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the myocardium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the myocardium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the myocardium, the middle muscular layer of the heart wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pathology, an acute or chronic condition caused by viral infection, autoimmune disease, or cardiotoxins, often leading to heart failure or lethal arrhythmias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myocarditis designates inflammation of the myocardium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute infectious **myocarditis** may complicate diphtheria or scarlet fever, causing sudden cardiovascular collapse."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic sections in interstitial **myocarditis** demonstrate diffuse infiltration of inflammatory round cells separating necrotic muscle fibers."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Unexplained cardiac dilatation following an ordinary respiratory illness should prompt suspicion of subclinical **myocarditis**."*

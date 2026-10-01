@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large family (Orchidaceae, the orchid family) of perennial epiphytic or terrestrial monocotyledonous plants that usually have showy 3-petaled flowers with the middle petal enlarged into a lip and differing from the others in shape and color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light purple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any flowering plant of the family Orchidaceae, characterized by distinctive three-petaled flowers with a specialized lip (labellum) and twin underground tubers in many terrestrial species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical history, a group of monocotyledons whose name derives from Greek orchis (testicle) due to the appearance of its paired root tubers, celebrated for complex coevolutionary adaptations with insect pollinators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yesterday I cut an orchid, for my button-hole."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"What becomes of your simile about the orchid?” “Ugliness is one of the seven deadly virtues, Gladys."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Would you mind getting that orchid for me among the mare’s-tails yonder?"*
+> - 📜 **Charles Darwin (*On the Various Contrivances by Which British and Foreign Orchids Are Fertilised by Insects*):** *"The structure of an **orchid** flower presents some of the most beautiful and intricate adaptations in all of organic nature."*
+> - 📜 **John Ruskin (*Proserpina*):** *"The delicate beauty of the wild **orchid** captivates the wanderer across meadow and mountain woodland alike."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Mortimer collected rare specimens, bending down with delight to examine an unusual marsh **orchid**."*

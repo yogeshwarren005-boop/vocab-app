@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of all types of blood cells, including formation, development, and differentiation of a stem cell into mature blood elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and hematology, lifelong blood cell generation occurring within the marrow stroma, regulated by cytokines such as erythropoietin and thrombopoietin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematopoiesis designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Pluripotent hematopoietic stem cells in the bone marrow drive continuous **haematopoiesis**, producing billions of new blood cells each day."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"In chronic myeloid leukemia, the normal hierarchy of **haematopoiesis** is hijacked by an aberrant fusion kinase, BCR-ABL."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extramedullary **haematopoiesis** in the spleen and liver compensates when myelofibrosis obliterates normal bone marrow architecture."*

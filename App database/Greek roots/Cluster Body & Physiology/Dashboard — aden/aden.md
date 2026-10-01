@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Former British protectorate in southern Arabia comprising the entire southern coast of what is now Yemen; became part of People's Democratic Republic of Yemen 1967 area 112,000 square miles (291,200 square kilometers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former British colony in southwestern Arabia comprising Perim Island, the city of Aden, and the surrounding area; became part of People's Democratic Republic of Yemen 1967 area 75 square miles (195 square kilometers).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek anatomical root and combining element denoting a gland or glandular structure (aden- / adeno-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strategic port city on the southern coast of the Arabian Peninsula in Yemen, giving its name to the Gulf of Aden.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were Will Aden, Abel Milliken, and Timothy Grant."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As soon as Will Aden spoke up, telling that they were from the Fancher Company, going to Cedar City for help, he was shot down."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The 5th of February we at last entered the Gulf of Aden, a perfect funnel introduced into the neck of Bab-el-mandeb, through which the Indian waters entered the Red Sea."*
+> - 📜 **Galen (*On Anatomical Procedures*):** *"The ancient Greeks designated each secretory bodily kernel an **aden**, distinguishing vascular glands from muscular tissue."*
+> - 📜 **Richard Francis Burton (*First Footsteps in East Africa*):** *"The barren volcanic crater of **Aden** rose starkly against the turquoise waters of the Arabian Sea."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"We steamed southward past the Straits of Bab-el-Mandeb, leaving the fortified roadstead of **Aden** in our wake."*

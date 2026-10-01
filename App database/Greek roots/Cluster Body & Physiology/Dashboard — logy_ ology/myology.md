@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physiology that studies muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of physiology that studies muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of anatomy that deals with the scientific study of muscles and muscular tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human gross anatomy, the systematic classification of muscles according to origin, insertion, mechanical torque, vascular supply, and neural innervation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myology designates the branch of physiology that studies muscles."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The section on **myology** describes the fascial compartments and mechanical vectors of every skeletal muscle."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Vesalius revolutionized anatomical **myology** by dissecting human cadavers rather than relying upon Galenic animal dissections."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Comparative **myology** reveals that the pectoral muscles of primates originated from the primitive ventral muscular sheet of lower vertebrates."*

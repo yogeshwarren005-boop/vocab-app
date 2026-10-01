@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nephr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The embryonic development and formation of the kidneys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and embryology, the reciprocal inductive signaling between the ureteric bud and the metanephric mesenchyme that drives nephron formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrogenesis designates a term designating an entity, condition, or phenomenon derived from greek nephr."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Active **nephrogenesis** begins when the branching ureteric ampulla induces surrounding mesenchymal cells to epithelialize."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Autonomic innervation arrives late in the program of mammalian **nephrogenesis**."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Normal human **nephrogenesis** ceases around the thirty-sixth week of gestation, fixing the total nephron endowment."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cephal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the head; headache.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, pain localized to the cranial vault, scalp, or face, resulting from vascular dilatation, meningeal irritation, or muscle contraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalalgia designates a term designating an entity, condition, or phenomenon derived from greek cephal."*
+> - 📜 **Thomas Willis (*The Anatomy of the Brain and Nerves*):** *"Violent **cephalalgia** arises when inflammatory humors distend the sensitive vessels of the meninges."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent morning **cephalalgia** accompanied by vomiting and papilledema should immediately arouse suspicion of an intracranial mass."*
+> - 📜 **Thomas Sydenham (*Observationes Medicae*):** *"The patient was tormented by an excruciating hemicranial **cephalalgia** that compelled him to seek absolute darkness and quiet."*

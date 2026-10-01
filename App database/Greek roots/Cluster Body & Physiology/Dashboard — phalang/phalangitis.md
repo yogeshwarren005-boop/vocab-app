@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a finger or toe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a finger or toe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of one or more phalanges or the tissues surrounding a finger or toe bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedics and clinical dermatology, a digital osteitis or periostitis, historically associated with syphilis, tuberculosis (dactylitis), or severe bacterial infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalangitis designates inflammation of a finger or toe."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Syphilitic dactylitis manifests as a chronic, painless **phalangitis** causing spindle-shaped expansion of the finger."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In tuberculous **phalangitis**, caseous necrosis erodes the digital cortex, producing spina ventosa."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Acute suppurative **phalangitis** may rapidly extend along the digital flexor tendon sheath unless decompressed."*

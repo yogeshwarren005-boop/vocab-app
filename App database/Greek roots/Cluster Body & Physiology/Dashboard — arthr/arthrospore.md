@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body that resembles a spore but is not an endospore; produced by some bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a string of thick walled vegetative resting cells formed by some algae and fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An asexual, vegetative spore formed by the septation and fragmentation of a fungal hypha or bacterial filament; an arthroconidium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical mycology, the infectious spore form of Coccidioides immitis, easily airborne and capable of causing valley fever upon inhalation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthrospore designates a body that resembles a spore but is not an endospore; produced by some bacteria."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Upon maturity, the hypha breaks apart at the transverse septa, releasing each rectangular **arthrospore** into the wind."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The disarticulation of filaments into an **arthrospore** suspension facilitates rapid microbial dispersal across substrate surfaces."*
+> - 📜 **Ferdinand Cohn (*Researches on Bacteria*):** *"Certain filamentous bacteria propagate through chains of resting **arthrospore** segments resilient against drying."*

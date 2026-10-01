@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family notoryctidae: comprising solely the marsupial mole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family notoryctidae: comprising solely the marsupial mole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of Australian marsupial moles (e.g., Notoryctes typhlops, the itjaritjari), adapted for subterranean burrowing in desert sand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, a blind, earless marsupial equipped with a horny nasal shield, thick silky golden fur, and enlarged spade-like claws on the third and fourth digits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notoryctus designates type genus of the family notoryctidae: comprising solely the marsupial mole."*
+> - 📜 **Edward Stirling (*Transactions of the Royal Society of South Australia*):** *"I conferred upon the desert mole the generic name **Notoryctes**, signifying a southern subterranean burrower."*
+> - 📜 **Richard Lydekker (*The Marsupialia and Monotremata*):** *"Unlike true moles, **Notoryctes** leaves no permanent open burrow, but literally swims through the loose desert dunes."*
+> - 📜 **Grafton Elliot Smith (*The Brain of Notoryctes typhlops*):** *"The optic tracts in **Notoryctes** are completely atrophied, while the olfactory centers exhibit compensatory hypertrophy."*

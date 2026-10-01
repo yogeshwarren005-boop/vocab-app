@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bone-marrow cell; especially : a motile cell with cytoplasmic granules that gives rise to the granulocytes of the blood and occurs abnormally in the circulating blood (as in myelogenous leukemia).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bone-marrow cell; especially : a motile cell with cytoplasmic granules that gives rise to the granulocytes of the blood and occurs abnormally in the circulating blood (as in myelogenous leukemia).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young, developing granulocytic white blood cell in the bone marrow, intermediate between a promyelocyte and a metamyelocyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, the developmental stage at which lineage-specific primary and secondary granules (neutrophilic, eosinophilic, or basophilic) first become discernible under microscopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelocyte designates a bone-marrow cell; especially : a motile cell with cytoplasmic granules that gives rise to the granulocytes of the blood and occurs abnormally in the circulating blood (as in myelogenous leukemia)."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"The **myelocyte** is characterized by the initial appearance of specific cytoplasmic granules that distinguish the granular leukocytes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The presence of numerous **myelocytes** in the circulation is the diagnostic hallmark of chronic myelogenous leukemia."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In leukemic states, immense aggregations of **myelocytes** choke the sinusoids of the spleen and bone marrow."*

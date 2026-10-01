@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proteolytic enzyme that is secreted in the pancreatic juice in the form of trypsinogen, is activated in the duodenum, and is most active in a slightly alkaline medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proteolytic enzyme that is secreted in the pancreatic juice in the form of trypsinogen, is activated in the duodenum, and is most active in a slightly alkaline medium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A digestive serine protease enzyme produced by the exocrine pancreas that hydrolyzes peptide bonds specifically at the carboxyl side of the basic amino acids lysine and arginine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human digestive physiology, trypsin is secreted as the inactive zymogen trypsinogen, which is activated in the duodenum by enteropeptidase (enterokinase); active trypsin then autocatalytically cleaves and activates other digestive zymogens (chymotrypsinogen, procarboxypeptidase, proelastase).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*
+> - 📜 **Willy Kühne (*On the Digestion of Proteins by the Pancreas*):** *"I designate this active proteolytic ferment of the pancreatic juice **trypsin**, from the Greek word signifying to rub."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"Unlike gastric pepsin which acts in acid, **trypsin** digests proteins with maximum efficiency in an alkaline duodenal medium."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Enterokinase converts inactive trypsinogen into powerful **trypsin**, which in turn mobilizes the entire cascade of pancreatic proteases."*

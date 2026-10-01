@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thalam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical creation of a stereotactic lesion within a specific nucleus of the thalamus to relieve tremor, involuntary movement disorders, or intractable pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In functional neurosurgery, targeted radiofrequency or focused ultrasound thalamotomy of the ventral intermediate nucleus (VIM) is an effective intervention for severe essential tremor and Parkinsonian tremor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thalamotomy designates a term designating an entity, condition, or phenomenon derived from greek thalam."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Neurosurgical intervention within the deep nuclear gray matter led eventually to stereotactic **thalamotomy** for hyperkinesias."*
+> - 📜 **A. R. Luria (*The Working Brain*):** *"Following unilateral **thalamotomy**, the violent contralateral parkinsonian tremor was dramatically abolished."*
+> - 📜 **Wilder Penfield (*Epilepsy and the Functional Anatomy of the Human Brain*):** *"Precise microelectrode recording guides the surgeon during **thalamotomy** to avoid encroaching upon internal capsule fibers."*

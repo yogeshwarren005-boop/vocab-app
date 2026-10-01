@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gargal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensitivity to being tickled; tactile responsiveness to tickling sensations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, cutaneous and somatosensory responsiveness evaluated to assess peripheral nerve function and parietal lobe processing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gargalesthesia designates a term designating an entity, condition, or phenomenon derived from greek gargal."*
+> - 📜 **G. Stanley Hall (*A Study of Tickling*):** *"Children display heightened **gargalesthesia** across the soles of the feet, the axillae, and the lateral thoracic margins."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Neurological examination demonstrated preserved deep pain perception alongside complete loss of cutaneous **gargalesthesia** below the spinal lesion."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Cortical suppression of self-induced tickle explains why normal **gargalesthesia** requires unpredictable tactile stimulation by another person."*

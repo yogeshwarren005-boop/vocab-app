@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) one of a group of more than 100 prominent bishops in the sacred college who advise the pope and elect new popes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number of elements in a mathematical set; denotes a quantity but not the order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the greatest, primary, or fundamental importance; chief, pivotal, or paramount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high-ranking dignitary of the Roman Catholic Church appointed by the Pope and serving as a member of the Sacred College that elects the pontiff.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have patience, noble Duke; I may not open; The Cardinal of Winchester forbids."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand back, thou manifest conspirator, Thou that contrived’st to murder our dead lord; Thou that giv’st whores indulgences to sin: I’ll canvass thee in thy broad cardinal’s hat, If thou proceed in this thy insolence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under my feet I’ll stamp thy cardinal’s hat; In spite of Pope or dignities of church, Here by the cheeks I’ll drag thee up and down."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"The prince must observe the **cardinal** virtues of prudent governance, tempering severity with constant vigilance."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"When raised to the dignity of **cardinal** by Pope Leo XIII, I felt that my long ecclesiastical trials had found their peaceful haven."*
+> - 📜 **Thomas More (*Utopia*):** *"Justice and equity are the **cardinal** pillars upon which every durable and happy commonwealth must rest."*

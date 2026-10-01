@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad flat sheet of dense fibrous collagenous connective tissue that covers, invests, and forms the terminations and attachments of various muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broad flat sheet of dense fibrous collagenous connective tissue that covers, invests, and forms the terminations and attachments of various muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad, flat sheet of dense pearly-white collagenous connective tissue that attaches sheet-like muscles to bones, fascia, or other muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gross anatomy and surgical dissection, a tough fibrous membrane serving as an expanded tendon for broad muscles such as the abdominal wall musculature or the epicranius.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aponeurosis designates a broad flat sheet of dense fibrous collagenous connective tissue that covers, invests, and forms the terminations and attachments of various muscles."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The external oblique muscle terminates in front in a broad, thin **aponeurosis** which covers the entire anterior surface of the abdomen."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The broad tendon expands like a membrane, which the Greeks called an **aponeurosis**, covering the palm and sole to protect the underlying tendons."*
+> - 📜 **William Hunter (*Medical Commentaries*):** *"Tension across the epicranial **aponeurosis** connects the frontal and occipital bellies into a unified functional scalp unit."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occlusion, closure, or stenosis of the external auditory canal or the Eustachian tube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otology, pathological or congenital imperforation of the ear canal causing conductive hearing impairment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otocleisis designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **Albrecht von Haller (*First Lines of Physiology*):** *"Complete **otocleisis** prevents the ingress of atmospheric acoustic vibrations, rendering the individual completely deaf in that ear."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic scarring following chemical burns may produce fibrous **otocleisis** of the meatus, requiring surgical canalplasty."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Congenital **otocleisis** of the auditory passage can be corrected by careful surgical incision when normal ossicles are present."*

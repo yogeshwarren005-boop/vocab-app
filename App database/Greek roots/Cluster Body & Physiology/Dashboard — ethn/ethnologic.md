@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ethnology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to ethnology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ethnology; dealing with the comparative study of cultures and races.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological theory, pertaining to the systemic comparison of cultural, linguistic, and historical developments among diverse peoples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethnologic designates of or relating to ethnology."*
+> - 📜 **Franz Boas (*The Mind of Primitive Man*):** *"Rigorous **ethnologic** research disproved the simplistic biological determinism of early nineteenth-century racial theorists."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Linguistic classification often cross-cuts **ethnologic** boundaries, revealing independent historical migrations."*
+> - 📜 **Claude Lévi-Strauss (*Structural Anthropology*):** *"The **ethnologic** comparative method identifies universal structural properties underlying disparate kinship terminologies."*

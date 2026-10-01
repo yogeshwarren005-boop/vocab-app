@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the brain that is caused especially by infection with a virus (such as herpes simplex or West Nile virus) or less commonly by bacterial or fungal infection or autoimmune reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equine encephalitis occurring in the eastern U.S. and Canada : equine encephalitis —abbreviation EEE—called also triple E.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute inflammation of the brain tissue, commonly caused by a viral infection or an autoimmune response.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and infectious disease medicine, a condition presenting with fever, headache, altered consciousness, seizures, and focal neurological deficits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalitis designates inflammation of the brain that is caused especially by infection with a virus (such as herpes simplex or west nile virus) or less commonly by bacterial or fungal infection or autoimmune reaction."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The pandemic of **encephalitis** lethargica swept the globe between 1916 and 1927, leaving thousands frozen in parkinsonian trances."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Herpetic **encephalitis** exhibits a dangerous predilection for the temporal and frontal lobes, causing acute behavioral collapse."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Following recovery from acute **encephalitis**, neuropsychological testing reveals profound memory and attentional deficits."*

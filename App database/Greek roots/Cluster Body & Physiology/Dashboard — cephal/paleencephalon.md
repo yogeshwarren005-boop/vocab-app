@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cephal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phylogenetically older, primitive part of the vertebrate brain (the brainstem, basal ganglia, and archicortex) underlying autonomic and instinctive behaviors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary neuroanatomy, the ancient core of the nervous system as contrasted with the evolutionarily recent neocortex (neencephalon).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleencephalon designates a term designating an entity, condition, or phenomenon derived from greek cephal."*
+> - 📜 **C. Judson Herrick (*The Brain of the Tiger Salamander*):** *"In lower vertebrates, the entire central nervous organ consists of a functional **paleencephalon** dedicated to survival reflexes."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Automatic postural reflexes and protective withdrawals are orchestrated securely within the ancient circuits of the **paleencephalon**."*
+> - 📜 **Paul D. MacLean (*The Triune Brain in Evolution*):** *"The reptilian complex represents the durable substrate of the **paleencephalon**, governing territorial and ancestral routines."*

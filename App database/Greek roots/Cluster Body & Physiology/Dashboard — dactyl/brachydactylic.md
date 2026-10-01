@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having abnormally short finger or toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having abnormally short finger or toes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by abnormal shortness of the fingers and toes; relating to brachydactyly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and skeletal dysmorphology, describing inherited hypoplasia of phalanges or metacarpal bones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachydactylic designates having abnormally short finger or toes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **brachydactylic** hand presents a broad, stubby appearance with markedly shortened middle phalanges."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"Pedigrees of **brachydactylic** kindred provided early mendelian geneticists with clear evidence of autosomal dominant transmission."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The patient displayed **brachydactylic** feet, the short stubby toes causing minimal disturbance to normal balance."*

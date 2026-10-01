@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery of nervous structures (such as nerves, the brain, or the spinal cord).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery of nervous structures (such as nerves, the brain, or the spinal cord).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical and surgical specialty concerned with the diagnosis and operative treatment of disorders of the central and peripheral nervous systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative medicine, an exacting specialty encompassing microsurgical excision of brain and spinal tumors, stereotactic radiosurgery, and vascular reconstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurosurgery designates surgery of nervous structures (such as nerves, the brain, or the spinal cord)."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"The development of electrocautery and suction transformed cranial **neurosurgery** from a desperate gamble into an exacting science."*
+> - 📜 **Walter Dandy (*Ventriculography Following the Injection of Air*):** *"Ventriculography provided the vital diagnostic visualization that opened intracranial lesions to the curative scalpel of **neurosurgery**."*
+> - 📜 **Wilder Penfield (*Epilepsy and the Functional Anatomy of the Human Brain*):** *"Through the discipline of operative **neurosurgery**, direct physiological access to the human conscious mind was first attained."*

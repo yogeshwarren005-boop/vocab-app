@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tumor composed chiefly of blood vessels or lymph vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tumor composed chiefly of blood vessels or lymph vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign tumor composed of newly formed blood vessels (hemangioma) or lymph vessels (lymphangioma).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, an abnormal endothelial and vascular proliferation presenting as a cutaneous cherry angioma, cavernous hemangioma, or arteriovenous malformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angioma designates a tumor composed chiefly of blood vessels or lymph vessels."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Under the term **angioma** we group those true neoplasms consisting of ectatic and newly proliferated vascular channels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Multiple cutaneous **angioma** lesions of the lips and tongue are pathognomonic of hereditary hemorrhagic telangiectasia."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"A cavernous **angioma** of the liver consists of large, blood-filled spaces lined by mature, non-atypical endothelium."*

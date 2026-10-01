@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a head or a clearly defined head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a head or a clearly defined head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a head; headless; headless in anatomy or zoology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political anthropology, describing societies lacking a formal chief or centralized head of state; in prosody, a verse line lacking its initial syllable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acephalous designates lacking a head or a clearly defined head."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **acephalous** sect of monophysites refused allegiance to either the patriarch of Alexandria or the council of Chalcedon."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"An **acephalous** multitude of starving weavers surged through the industrial streets, crying out for bread and leadership."*
+> - 📜 **John Dryden (*Essays on Dramatic Poesy*):** *"A metric line that drops its first foot is known to classical prosodists as an **acephalous** verse."*

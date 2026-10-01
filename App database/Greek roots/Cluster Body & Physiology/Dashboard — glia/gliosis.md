@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek glia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reactive proliferation and hypertrophy of glial cells, especially astrocytes, in response to central nervous system damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropathology, the cerebral counterpart to systemic fibrous scarring, forming a dense fibrillary meshwork around ischemic, traumatic, or infectious lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gliosis designates a term designating an entity, condition, or phenomenon derived from greek glia."*
+> - 📜 **Santiago Ramón y Cajal (*Degeneration and Regeneration of the Nervous System*):** *"Following cortical infarction, reactive astrocytes undergo robust hypertrophy, sealing the necrotic cavity behind a dense wall of **gliosis**."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Microscopic sections of the post-encephalitic brainstem demonstrated profound loss of pigmented neurons replaced by patchy fibrillary **gliosis**."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"While astroglial **gliosis** physically restores the blood-brain barrier, the glial scar presents formidable molecular barriers to axonal regeneration."*

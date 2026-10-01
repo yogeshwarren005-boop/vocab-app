@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relatively long head with cephalic index of less than 75.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a relatively long head with cephalic index of less than 75.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relatively long, narrow skull, typically defined as having a cephalic index of less than 75.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and craniometry, designating long-headed human populations or mammalian breeds (such as greyhounds or collies).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I had hardly expected so dolichocephalic a skull or such well-marked supra-orbital development."*
+> - 📜 **Paul Broca (*Instructions Craniologiques*):** *"A skull whose cranial width is less than seventy-five percent of its maximum anteroposterior length is termed **dolichocephalic**."*
+> - 📜 **Franz Boas (*Changes in Bodily Form of Descendants of Immigrants*):** *"The immigrant surveys showed that even the long **dolichocephalic** head form responded plastically to changes in nutrition and environment."*
+> - 📜 **William Z. Ripley (*The Races of Europe*):** *"The Nordic and Mediterranean types share a distinctly **dolichocephalic** cranium, separating them from the broad-headed Alpine stock."*

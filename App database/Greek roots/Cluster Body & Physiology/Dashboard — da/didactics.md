@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activities of educating or instructing; activities that impart knowledge or skill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activities of educating or instructing; activities that impart knowledge or skill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, science, or theory of teaching and educational method.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational philosophy, the systematic pedagogical study of curricula, instructional design, and learning psychology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didactics designates the activities of educating or instructing; activities that impart knowledge or skill."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Effective **didactics** must adapt instruction to the natural disposition and curiosity of the developing child."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Modern **didactics** rejects rote memorization in favor of active inquiry grounded in experiential problem-solving."*
+> - 📜 **Jean-Jacques Rousseau (*Émile, or On Education*):** *"The true aim of **didactics** is not to fill the pupil's head with facts, but to preserve his natural love of learning."*

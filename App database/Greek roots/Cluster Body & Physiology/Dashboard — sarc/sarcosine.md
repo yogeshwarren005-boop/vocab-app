@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of flesh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An N-methyl derivative of the amino acid glycine (formula C3H7NO2), occurring as an intermediate in the biological conversion of choline to glycine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and clinical chemistry, sarcosine is produced by glycine N-methyltransferase and degraded by sarcosine dehydrogenase; it has been investigated as a putative biomarker in prostate oncology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcosine designates adjective*) pertaining to, derived from, or characteristic of flesh."*
+> - 📜 **Justus von Liebig (*Researches on the Chemistry of Food*):** *"By boiling creatine with baryta water, I obtained a crystalline nitrogenous base to which I assigned the name **sarcosine**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Metabolic breakdown of creatine in mammalian tissues yields urea and methyl-glycine, or **sarcosine**."*
+> - 📜 **Emil Fischer (*Studies on Amino Acids and Peptides*):** *"The synthesis of **sarcosine** from chloroacetic acid and methylamine confirmed its structural formulation as N-methylglycine."*

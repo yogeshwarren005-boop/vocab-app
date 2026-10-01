@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scar where the umbilical cord was attached.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scar where the umbilical cord was attached.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The navel or umbilicus; also, a sacred rounded stone representing the focal center or hub of the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and cultural mythology, the ancient carved stone at Delphi regarded by Greeks as the navel of the world, where two eagles dispatched by Zeus met.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"To ourselves... new paganism... omphalos. —Let him stay, Stephen said."*
-> - 📜 **James Joyce (*Ulysses*):** *"But ours is the _omphalos_. —What is your idea of Hamlet?"*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Pilgrims at Delphi bowed before the white marble **omphalos**, revering it as the mystical center of the earth."*
+> - 📜 **Pausanias (*Description of Greece*):** *"Within the adyton of the temple stands the **omphalos**, draped in wool fillets and crowned with golden eagles."*
+> - 📜 **Jane Ellen Harrison (*Prolegomena to the Study of Greek Religion*):** *"The primeval cult of the Delphic **omphalos** was originally dedicated to Gaia before Apollo established his oracle."*

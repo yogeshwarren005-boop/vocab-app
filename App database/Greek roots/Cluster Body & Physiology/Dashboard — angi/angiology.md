@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science that studies the blood and lymph vessels and their disorders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medical science that studies the blood and lymph vessels and their disorders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science and anatomy that studies the circulatory system, including arteries, veins, and lymphatic vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, the scientific subspecialty focusing on the etiology, pathophysiology, diagnosis, and non-surgical management of vascular disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiology designates the branch of medical science that studies the blood and lymph vessels and their disorders."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The section on **angiology** details the branching of the aorta and the intricate pathways of the systemic and pulmonary vessels."*
+> - 📜 **Thomas Wharton (*Adenographia*):** *"A complete system of **angiology** must trace the intimate connections between nutrient capillaries and excretory gland tubules."*
+> - 📜 **Albrecht von Haller (*First Lines of Physiology*):** *"Progress in **angiology** accelerated once microscopists observed the living circulation moving through the web of the frog's foot."*

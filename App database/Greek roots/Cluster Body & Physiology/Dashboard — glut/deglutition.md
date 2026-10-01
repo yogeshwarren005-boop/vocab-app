@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of swallowing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of swallowing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of swallowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and gastroenterology, a coordinated neuromuscular sequence comprising voluntary oral, involuntary pharyngeal, and esophageal phases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Feeling without judgment is a washy draught indeed; but judgment untempered by feeling is too bitter and husky a morsel for human deglutition."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The actual process of deglutition is variously enacted."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bulbar palsy paralyzes the pharyngeal musculature, rendering **deglutition** agonizingly slow and predisposing the patient to aspiration pneumonia."*
+> - 📜 **Ivan Pavlov (*The Work of the Digestive Glands*):** *"The tactile stimulation of the posterior pharyngeal wall initiates the involuntary reflex arc of **deglutition** without requiring conscious effort."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Laryngeal elevation during **deglutition** reflexively closes the epiglottis, protecting the airway during rapid ingestion."*

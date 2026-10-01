@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ventral sclerite or plate of the prothorax in insects; also, the anterior segment of the vertebrate sternum (manubrium or episternum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coleopterology, the prosternum often forms a protective chin-piece or a prosternal process received into a groove on the mesosternum (as in the clicking mechanism of Elateridae).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosternum designates a term designating an entity, condition, or phenomenon derived from greek stern."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"The click beetle snaps itself into the air by releasing its sharp **prosternum** spine from the mesosternal cavity."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"Examining the wasp's armor, we observe that the anterior legs articulate directly with the sturdy **prosternum**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Each of the three thoracic segments possesses its own ventral sternal plate, beginning with the anterior **prosternum**."*

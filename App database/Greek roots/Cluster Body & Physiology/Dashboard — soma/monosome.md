@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chromosome lacking a synaptic mate; especially : an unpaired X chromosome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single ribosome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single unpaired chromosome in an otherwise diploid cell; also, in molecular biology, an individual, isolated functional ribosome translating an mRNA molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protein synthesis, monosomes contrast with polysomes (polyribosomes), where multiple ribosomes traverse the same messenger transcript concurrently.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosome designates a chromosome lacking a synaptic mate; especially : an unpaired x chromosome."*
+> - 📜 **Albert Blakeslee (*The Chromosome Constitution of Datura Mutants*):** *"Loss of one partner from a normal bivalent creates a solitary **monosome** that lags behind at meiotic anaphase."*
+> - 📜 **George Palade (*Intracellular Aspects of the Process of Protein Synthesis*):** *"Sucrose gradient sedimentation separates the active polysomal clusters from the unattached **monosome** peak."*
+> - 📜 **Cyril Dean Darlington (*Recent Advances in Cytology*):** *"The univalent **monosome** frequently undergoes misdivision at the centromere to yield telocentric chromosomes."*

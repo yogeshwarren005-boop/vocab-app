@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics that studies the deformation and flow of matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of physics that studies the deformation and flow of matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics and physical chemistry dealing with the deformation and flow of matter, especially non-Newtonian fluids and plastic solids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and biophysics, the quantitative study of viscosity, elasticity, and viscoelastic behavior under applied mechanical shear stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheology designates the branch of physics that studies the deformation and flow of matter."*
+> - 📜 **Eugene C. Bingham (*Fluidity and Plasticity*):** *"We proposed the term **rheology** to define the science of the deformation and flow of matter in all its states."*
+> - 📜 **Markus Reiner (*Deformation, Strain and Flow: An Elementary Introduction to Rheology*):** *"The fundamental axiom of **rheology** asserts that everything flows if given sufficient time and stress."*
+> - 📜 **George W. Scott Blair (*A Survey of General and Applied Rheology*):** *"Industrial applications of **rheology** span from the extrusion of synthetic polymers to the processing of biological fluids."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In human anatomy, the neurocranium, also known as the braincase, brainpan, brain-pan, or brainbox, is the upper and back part of the skull, which forms a protective case around the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the human skull, the neurocranium includes the calvaria or skullcap.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the skull that encloses and protects the brain and brainstem (the cranial cavity), distinct from the facial skeleton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative craniology and embryology, the chondrocranium and membranous skull vault derived from neural crest and paraxial mesoderm surrounding the cerebral vesicles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurocranium designates in human anatomy, the neurocranium, also known as the braincase, brainpan, brain-pan, or brainbox, is the upper and back part of the skull, which forms a protective case around the brain."*
+> - 📜 **Ernst Gaupp (*Die Entwickelung des Kopfskelettes*):** *"In vertebrate ontogeny, the **neurocranium** arises as a cartilaginous capsule sheltering the encephalon before ossification begins."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"The cranial segments forming the **neurocranium** represent modified, expanded vertebrae adapted to encase the imperial organ of mind."*
+> - 📜 **Gavin de Beer (*The Development of the Vertebrate Skull*):** *"The distinction between the protective **neurocranium** and the food-gathering viscerocranium is preserved throughout chordate phylogeny."*

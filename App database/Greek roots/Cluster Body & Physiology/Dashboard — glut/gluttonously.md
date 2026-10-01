@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gluttonous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gluttonous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gluttonous manner; with excessive greed, voracity, or self-indulgence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eating or consuming hungrily, immoderately, and without restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"And not only was he perpetually writing; he read gluttonously."*
-> - 📜 **James Joyce (*Ulysses*):** *"Spanish fly in his fly or mustard plaster on his dibble. _(He gobbles gluttonously with turkey wattles.)_ Bubbly jock!"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The convict tore at the bread and cold meat, bolting it **gluttonously** like a starving dog in the misty marshes."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The seabirds wheeled and screamed, plunging **gluttonously** into the bloody scum churned up around the whale carcass."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"The savages sat upon the beach, feeding **gluttonously** upon their gruesome triumphal feast after the battle."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty of bodily perception; sensory systems associated with the body; includes skin senses and proprioception and the internal organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty of bodily perception; sensory systems associated with the body; includes skin senses and proprioception and the internal organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty, process, or condition of experiencing somatic sensation; bodily sensory consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Encompasses conscious sensory inputs originating in body tissues outside the specialized cranial sensory organs (vision, hearing, smell, and taste).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somaesthesis designates the faculty of bodily perception; sensory systems associated with the body; includes skin senses and proprioception and the internal organs."*
+> - 📜 **Charles Sherrington (*Man on His Nature*):** *"Through **somaesthesis**, the brain maintains an ongoing topographical map of the entire bodily perimeter."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"The integration of tactile and thermal inputs in the optic thalamus lays the foundation for conscious **somaesthesis**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Loss of **somaesthesis** in an anesthetic limb detaches the member from the immediate sphere of voluntary will."*

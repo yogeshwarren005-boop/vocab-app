@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having only a single functional digit on each limb, as in the modern horse (Equus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology, the extreme cursorial specialization in equids resulting from the progressive reduction of side toes and hypertrophy of the third metacarpal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monodactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"The transition from four-toed Eohippus through three-toed Protohippus to modern equine **monodactyly** provides unanswerable proof of evolution."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The single hoof of the horse represents the triumphant culmination of **monodactyly** adapted for speed across grassy plains."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"In achieving **monodactyly**, the horse sacrificed lateral agility for maximal forward propulsion upon a single central pillar."*

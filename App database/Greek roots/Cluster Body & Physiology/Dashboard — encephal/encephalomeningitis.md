@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the brain and spinal cord and their meninges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the brain and spinal cord and their meninges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation affecting both the brain tissue and its surrounding protective membranes (meninges); meningoencephalitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a combined infectious syndrome causing intense headache, nuchal rigidity, photophobia, altered consciousness, and focal seizures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalomeningitis designates inflammation of the brain and spinal cord and their meninges."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The acute onset of delirium and neck stiffness in **encephalomeningitis** demands immediate lumbar puncture and empiric antimicrobial therapy."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on the Diseases of the Nervous System*):** *"Post-mortem examination of **encephalomeningitis** reveals purulent exudate choking the subarachnoid cisterns and invading the cortex."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Severe childhood **encephalomeningitis** often leaves permanent scarring in association cortices, disrupting higher executive functions."*

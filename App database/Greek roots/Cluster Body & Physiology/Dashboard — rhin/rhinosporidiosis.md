@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungal infection of the nose; often acquired while swimming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungal infection of the nose; often acquired while swimming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic granulomatous infection of the mucosal membranes, typically presenting as friable, polypoid, vascular lesions in the nasal cavity, caused by the mesomycetozoean protist *Rhinosporidium seeberi*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endemic in southern Asia and parts of South America, rhinosporidiosis is characterized histopathologically by large thick-walled sporangia filled with mature endospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinosporidiosis designates fungal infection of the nose; often acquired while swimming."*
+> - 📜 **Guillermo Seeber (*Un nuevo esporozoario parásito del hombre*):** *"The polypoid growths of **rhinosporidiosis** consist of vascular granulation tissue teeming with rounded parasitic sporangia."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"In cases of **rhinosporidiosis**, painless, strawberry-like excrescences bleed readily on touch within the anterior nares."*
+> - 📜 **Aldo Castellani (*Manual of Tropical Medicine*):** *"Surgical excision with electrocautery of the base remains the primary modality for eradicating **rhinosporidiosis**."*

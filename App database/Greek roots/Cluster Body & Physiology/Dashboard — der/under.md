@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located below or beneath something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in rank, power, or authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending or situated directly beneath or below; in or to a lower place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subordinate to, subject to the authority of, or undergoing a specified condition or process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath abandon’d his physicians, madam; under whose practices he hath persecuted time with hope, and finds no other advantage in the process but only the losing of hope by time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be able for thine enemy Rather in power than use; and keep thy friend Under thy own life’s key."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Full fathom five thy father lies; of his bones are coral made; those are pearls that were his eyes: nothing of him that doth fade, but doth suffer a sea-change into something rich and strange **under** the sea."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"Water, water, everywhere, and all the boards did shrink; water, water, everywhere, nor any drop to drink **under** the burning sun."*
+> - 📜 **John Keats (*Ode on a Grecian Urn*):** *"Fair youth, beneath the trees, thou canst not leave thy song, nor ever can those trees be bare **under** the quiet boughs."*

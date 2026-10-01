@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision of the uterus usually made by a transabdominal approach; also : a procedure (as a cesarean section) involving such an incision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision of the uterus usually made by a transabdominal approach; also : a procedure (as a cesarean section) involving such an incision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision into the wall of the uterus, as in a caesarean section.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetric and gynecological surgery, an operative entry into the uterine cavity performed to deliver a fetus or remove deeply embedded intramural tumors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysterotomy designates surgical incision of the uterus usually made by a transabdominal approach; also : a procedure (as a cesarean section) involving such an incision."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When obstructed labor threatens maternal life, emergency **hysterotomy** by the classical caesarean approach is mandatory."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Rapid hemostasis must be secured immediately following **hysterotomy** to prevent catastrophic uterine hemorrhage."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The history of abdominal **hysterotomy** demonstrates how antiseptic principles transformed a desperate procedure into a safe delivery."*

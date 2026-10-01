@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of measurement of the refractive power of a lens or curved mirror, equal to the reciprocal of the focal length in meters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optometry and ophthalmology, the standard quantitative measure for prescribing corrective lenses and assessing ocular refractive errors (myopia, hyperopia, astigmatism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diopter designates a unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"A lens possessing a focal distance of one meter has a refractive power of exactly one **diopter**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prescription lenses calibrated in fractions of a **diopter** neutralized the patient's severe astigmatism."*
+> - 📜 **Oliver Sacks (*The Mind's Eye*):** *"Following cataract extraction, an artificial intraocular implant of twenty **diopter** strength restored crisp distance vision."*

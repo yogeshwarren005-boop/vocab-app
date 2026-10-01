@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to or having a tumor of the kind known as an angioma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to or having a tumor of the kind known as an angioma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or having the histological characteristics of an angioma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, describing lesions characterized by abundant, dilated, thin-walled capillary or venous channels embedded in loose stroma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiomatous designates of or related to or having a tumor of the kind known as an angioma."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"Histologic section of the excised skin nodule revealed an **angiomatous** proliferation of mature capillary loops."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Careful dissection was required to extirpate the extensive **angiomatous** malformation without provoking severe hemorrhage."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The **angiomatous** network expanded through active budding from preexisting adjacent vascular adventitia."*

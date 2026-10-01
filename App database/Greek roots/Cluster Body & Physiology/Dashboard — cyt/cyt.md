@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: cytoplasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining root (from Greek kytos, meaning 'hollow vessel, jar, container, or cell'), used across biology and medicine to denote cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology and biochemistry, the foundational prefix occurring in terms such as cytoplasm, cytokine, and cytogenetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog cyt as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek noun kytos denoted a hollow vessel or vault; in modern science the root **cyt** became the universal designation for the cell."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From the scientific stem **cyt**, meaning a cell, we derive cytology, cytoplasm, and erythrocyte."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"Nineteenth-century biologists adopted the radical **cyt** to name those elementary living units discovered by Hooke and Schleiden."*

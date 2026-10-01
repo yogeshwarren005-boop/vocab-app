@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Handbook, manual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Handbook, manual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concise handbook, manual, or compendium of information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and Christian philosophy, a pocket guide to ethical conduct or theological doctrine, famously exemplified by Epictetus and Augustine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enchiridion designates handbook, manual."*
+> - 📜 **Epictetus (*Enchiridion (The Handbook)*):** *"This moral **enchiridion** was written so that the philosopher might hold the principles of tranquil living ever ready in his hand."*
+> - 📜 **Desiderius Erasmus (*Enchiridion Militis Christiani*):** *"In this little **enchiridion**, I provide the Christian soldier with spiritual weapons to combat the temptations of the world."*
+> - 📜 **Thomas Browne (*Christian Morals*):** *"Let these brief precepts serve as an **enchiridion** to direct thy conscience across the stormy sea of life."*

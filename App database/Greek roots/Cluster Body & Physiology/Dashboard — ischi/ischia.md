@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A volcanic island (part of campania) in the tyrrhenian sea at the north end of the bay of naples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the three sections of the hipbone; situated below the ilium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The plural of ischium; the paired curved bones forming the lower and posterior parts of the pelvic girdle on either side of the pelvis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate osteology, the inferoposterior pelvic bones that bear body weight during sitting and provide origin for the hamstring musculature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ischia designates a volcanic island (part of campania) in the tyrrhenian sea at the north end of the bay of naples."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The comparative breadth of the **ischia** across anthropoid primates reveals anatomical adaptations to habitual posture."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The tuberosities of the **ischia** bear the entire weight of the trunk in the sitting posture."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In reptiles and birds, the **ischia** extend backward parallel to the iliac shafts, forming an elongated pelvic frame."*

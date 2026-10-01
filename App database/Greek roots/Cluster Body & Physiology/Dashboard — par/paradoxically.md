@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a paradoxical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a paradoxical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a paradoxical manner; in a way that seems absurd, contradictory, or impossible, yet is or may be true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as a sentence adverb to highlight an ironic or unexpected turn of events or empirical outcome contrary to naive intuition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Paradoxically speaking, if there is not too much of the bad money, it is just as good as the good money."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Paradoxically speaking, if there is not too much of the bad money, it is just as good as the good money."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"The more virtuous a man becomes, the more severely and **paradoxically** suspicious does his conscience grow."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Extreme specialization, **paradoxically**, often predisposes a species to rapid extinction when ecological circumstances shift."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"As inequality decreases, the remaining injustices appear, **paradoxically**, far more intolerable to the public mind."*

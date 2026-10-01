@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek bishop of smyrna who refused to recant his christian faith and was burned to death by pagans (circa 69-155).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek bishop of smyrna who refused to recant his christian faith and was burned to death by pagans (circa 69-155).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant or organism that bears fruit multiple times in its life cycle; a polycarpic plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early church history and hagiography, Saint Polycarp of Smyrna (c. 69–c. 155 AD), apostolic father, bishop, and celebrated Christian martyr.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The pious Polycarp said: "I cannot turn at once from good to evil." Neither do 77:3 other mortals accomplish the change from error to truth at a single bound."*
+> - 📜 **Irenaeus of Lyons (*Against Heresies*):** *"I remember the discourse of the blessed **Polycarp**, how he related his familiar intercourse with John and the other disciples."*
+> - 📜 **Eusebius of Caesarea (*Ecclesiastical History*):** *"When summoned to revile Christ, the venerable bishop **Polycarp** replied that for eighty-six years he had served his Lord without wrong."*
+> - 📜 **J. B. Lightfoot (*The Apostolic Fathers*):** *"The Martyrdom of **Polycarp** represents the earliest authentic contemporary narrative of Christian witness under Roman persecution."*

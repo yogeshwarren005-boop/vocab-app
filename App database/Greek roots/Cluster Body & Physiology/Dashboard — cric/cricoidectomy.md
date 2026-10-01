@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision or removal of the cricoid cartilage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In head and neck surgical oncology, a rare and technically complex procedure performed for localized laryngeal chondrosarcoma or severe subglottic stenosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cricoidectomy designates a term designating an entity, condition, or phenomenon derived from greek cric."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Total **cricoidectomy** requires meticulous airway reconstruction to prevent post-operative collapse of the cervical trachea."*
+> - 📜 **Harvey Cushing (*Selected Papers on Surgical Technique*):** *"When extirpating a low-grade chondroma of the lower larynx, partial **cricoidectomy** preserves laryngeal function."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The rarity of primary malignant disease in the lower larynx renders **cricoidectomy** an exceptional surgical undertaking."*

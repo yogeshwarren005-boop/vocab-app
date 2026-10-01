@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sessile form of cnidarian (such as a coral or sea anemone) typically having a hollow cylindrical body closed and attached at one end and opening at the other by a central mouth surrounded by tentacles armed with nematocysts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A growth projecting from a mucous membrane (as of the colon or vocal cords).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small growth protruding from a mucous membrane (as in the colon, nose, or uterus), or a sessile, solitary or colonial form of a coelenterate (such as a sea anemone or coral animal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and clinical pathology, either a tubular cnidarian body with an upward-facing mouth surrounded by tentacles, or an abnormal mucosal tissue projection (adenomatous, hyperplastic, or inflammatory).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyp designates the sessile form of cnidarian (such as a coral or sea anemone) typically having a hollow cylindrical body closed and attached at one end and opening at the other by a central mouth surrounded by tentacles armed with nematocysts."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Countless millions of tiny coral **polyp** organisms build up vast limestone barriers across tropical seas."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bleeding from a pedunculated rectal **polyp** requires endoscopic snare excision to prevent malignant transformation."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"The polymorphic hydrozoan colony consists of feeding hydranths and specialized reproductive **polyp** individuals."*

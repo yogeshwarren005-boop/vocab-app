@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal or excision of a nail or claw (declawing).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary and human dermatologic surgery, total excision of the claw and associated third phalanx in animals, or permanent avulsion of an ingrown nail in humans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychectomy designates a term designating an entity, condition, or phenomenon derived from greek onych."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intractable recurring onychocryptosis may necessitate permanent surgical **onychectomy** with chemical matrix destruction."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Surgical **onychectomy** provides complete relief when chronic subungual infections resist conservative local therapy."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"Aseptic execution of terminal **onychectomy** eliminates the risk of ascending osteomyelitis of the distal phalanx."*

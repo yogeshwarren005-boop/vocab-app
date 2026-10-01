@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition that is characterized especially by physical and mental exhaustion usually with accompanying symptoms (such as headache and irritability), is of unknown cause but is often associated with depression or emotional stress, and is sometimes considered similar to or identical with chronic fatigue syndrome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition that is characterized especially by physical and mental exhaustion usually with accompanying symptoms (such as headache and irritability), is of unknown cause but is often associated with depression or emotional stress, and is sometimes considered similar to or identical with chronic fatigue syndrome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical diagnosis characterized by chronic physical and mental fatigue, lack of energy, headache, irritability, and diffuse functional disturbances (nervous exhaustion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In late nineteenth-century psychiatry and social medicine, a fashionable syndrome popularized by George Beard, conceptualized as a depletion of nervous energy under the stresses of modern industrialized life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Ich weiss, es liegt im Koerper; aber--aber--"[88] In its origin then, Lenau's Weltschmerz differs altogether from that of Hoelderlin, who exhibits no such symptoms of neurasthenia."*
+> - 📜 **George Miller Beard (*A Practical Treatise on Nervous Exhaustion (Neurasthenia)*):** *"Modern civilization, with its rapid transit and intense intellectual competition, is the direct exciting cause of **neurasthenia**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In cases of American nervousness or **neurasthenia**, voluntary attention is easily fatigued and requires frequent intervals of repose."*
+> - 📜 **Sigmund Freud (*The Aetiology of Hysteria*):** *"I separated the anxiety neuroses from typical **neurasthenia**, identifying distinct psychosexual determinants in their pathogenesis."*

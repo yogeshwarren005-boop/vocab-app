@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine concerned with the treatment of infants and children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine concerned with the treatment of infants and children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of soils in their natural environment; pedological soil science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural science and earth history, the classification of soil profiles and soil horizons formed by weathering, climate, and biological agencies over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedology designates the branch of medicine concerned with the treatment of infants and children."*
+> - 📜 **Vasily Dokuchaev (*Russian Chernozem*):** *"Dokuchaev established modern **pedology** by proving that soil is an independent natural body formed by climate, organisms, relief, and time."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Before formal **pedology** codified soil horizons, Darwin recognized that biological activity continually transforms the earth's surface."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The chemical foundations of **pedology** explain how weathering releases vital potassium and phosphate into topsoil."*

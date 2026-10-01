@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bombardier beetles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bombardier beetles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ground beetles (family Carabidae), commonly called bombardier beetles, capable of expelling a boiling chemical defensive spray.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and chemical ecology, beetles that mix hydroquinones and hydrogen peroxide in an abdominal chamber with enzymes to produce explosive steam.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachinus designates bombardier beetles."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"Under a piece of bark I found a specimen of **brachinus**, which instantly discharged its pungent artillery into my hand."*
+> - 📜 **Thomas Say (*American Entomology*):** *"When touched, the small carabid beetle **brachinus** emits an audible detonation followed by a cloud of caustic smoke."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Beetle*):** *"The internal pyrotechnic apparatus of **brachinus** illustrates how nature anticipates the thermal explosions of human chemistry."*

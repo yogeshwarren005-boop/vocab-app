@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of liver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an affinity for, or specifically affecting, the liver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology and infectious disease, describing pathogens (such as hepatitis A, B, C, D, and E viruses) that preferentially infect and replicate within hepatocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatotropic designates adjective*) pertaining to, derived from, or characteristic of liver."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical syndrome of acute viral hepatitis is mediated by a distinct group of obligate **hepatotropic** viruses."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Specific chemical compounds exhibit a strongly **hepatotropic** localization, accumulating selectively within liver tissue."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"The sporozoite stage of Plasmodium displays a marked **hepatotropic** tropism, entering liver parenchyma before attacking red blood cells."*

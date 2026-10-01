@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek odont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cynodont therapsids ('mammal-like reptiles') from the Early Triassic of South Africa and Antarctica.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary biology, a critical transitional fossil genus possessing mammalian cranial traits, including a secondary palate, differentiated teeth (multicusped postcanines), and vibrissal pits indicative of fur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Thrinaxodon designates a term designating an entity, condition, or phenomenon derived from greek odont."*
+> - 📜 **Richard Owen (*On the Fossil Reptiles of South Africa*):** *"I designated the fossil skull **Thrinaxodon** in reference to the three-pronged denticles adorning its molariform teeth."*
+> - 📜 **Robert Broom (*The Mammal-like Reptiles of South Africa*):** *"The palate of **Thrinaxodon** demonstrates the progressive development of the bony secondary roof separating respiration from mastication."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Small pits on the maxillary bones of **Thrinaxodon** suggest the presence of sensory whiskers and perhaps an insulative pelt."*

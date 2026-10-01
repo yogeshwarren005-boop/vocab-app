@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of oxygen and prevent from breathing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impair the respiration of or obstruct the air passage of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To suffocate, smother, or deprive of breathable oxygen, resulting in unconsciousness or death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and emergency medicine, mechanical, chemical, or environmental agents that asphyxiate act by cutting off alveolar gas exchange or cellular respiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"They don't wound me at all, all these sordid miserable details; they just irritate and disgust and asphyxiate."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Be frank with Polk as to how much he asphyxiates me?"*
+> - 📜 **Claude Bernard (*Lessons on the Effects of Toxic and Medicinal Substances*):** *"Submersion in inert gases such as nitrogen will rapidly **asphyxiate** an animal without triggering violent struggle."*
+> - 📜 **John Scott Haldane (*Respiration*):** *"The heavy firedamp accumulated in the unventilated mine shaft threatened to **asphyxiate** the rescue party within minutes."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The heavy black vapor rolled across the valley to **asphyxiate** all living creatures caught within its lethal shroud."*

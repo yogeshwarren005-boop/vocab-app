@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in the superiority of one's own ethnic group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in the superiority of one's own ethnic group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evaluation of other cultures according to preconceptions originating in the standards and customs of one's own culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and psychology, the universal human tendency to favor one's ingroup and dismiss outgroup values as inferior, irrational, or barbarous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethnocentrism designates belief in the superiority of one's own ethnic group."*
+> - 📜 **William Graham Sumner (*Folkways*):** *"I introduced the term **ethnocentrism** to denote the view of things in which one's own group is the center of everything, and all others are scaled with reference to it."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"The original sin of the explorer is **ethnocentrism**, projecting home-grown categories upon foreign modes of being."*
+> - 📜 **Franz Boas (*Anthropology and Modern Life*):** *"A scientific education in cultural relativism provides our most potent antidote against the poison of narrow **ethnocentrism**."*

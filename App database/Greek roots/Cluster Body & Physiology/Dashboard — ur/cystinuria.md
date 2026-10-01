@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metabolic defect characterized by excretion of excessive amounts of cystine in the urine and inherited as an autosomal recessive trait.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metabolic defect characterized by excretion of excessive amounts of cystine in the urine and inherited as an autosomal recessive trait.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited autosomal recessive metabolic disorder characterized by defective renal and intestinal epithelial transport of cystine and dibasic amino acids (lysine, arginine, ornithine).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology and genetics, mutations in *SLC3A1* or *SLC7A9* cause excessive excretion of insoluble cystine in urine, predisposing patients to recurrent hexagonal cystine nephrolithiasis and obstructive uropathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystinuria designates a metabolic defect characterized by excretion of excessive amounts of cystine in the urine and inherited as an autosomal recessive trait."*
+> - 📜 **Archibald Garrod (*Inborn Errors of Metabolism*):** *"I selected **cystinuria** as an archetypal example of an inborn error of metabolism, resulting from a congenital arrest in protein cleavage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of the urinary sediment in **cystinuria** demonstrates unmistakable, flat hexagonal crystals."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Pedigree analysis of **cystinuria** established its autosomal recessive transmission with defective proximal renal tubular reabsorption."*

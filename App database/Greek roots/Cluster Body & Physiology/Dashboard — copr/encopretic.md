@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of dung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of dung.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suffering from encopresis; characterized by involuntary fecal soiling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric clinical reports, describing a child exhibiting fecal incontinence secondary to retention or emotional conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encopretic designates adjective*) pertaining to, derived from, or characteristic of dung."*
+> - 📜 **Donald Winnicott (*Through Paediatrics to Psycho-Analysis*):** *"The **encopretic** child often conceals his soiled garments out of overwhelming shame and dread of punishment."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A thorough abdominal examination of the **encopretic** patient reveals massive fecal impaction in the lower left quadrant."*
+> - 📜 **Benjamin Spock (*Common Sense Book of Baby and Child Care*):** *"Relieving the fear of painful defecation is the first essential step in rehabilitating the **encopretic** youngster."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hepat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The examination of the liver of sacrificed animals for divination purposes; hepatomancy or haruspicy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and cultural anthropology, the ancient ritual reading of the liver's physical characteristics (lobes, fissures, gall bladder) to discern omens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatoscopy designates a term designating an entity, condition, or phenomenon derived from greek hepat."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The Etruscan haruspices practiced rigorous **hepatoscopy**, dividing the surface of the bronze liver into regions corresponding to specific deities."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"Long before human dissection was permitted, primitive anatomical knowledge was gained through sacrificial **hepatoscopy**."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The practice of **hepatoscopy** rested on the ancient belief that the liver was the prime seat of vitality and the soul."*

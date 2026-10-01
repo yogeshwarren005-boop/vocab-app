@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The free and persistent discharge of thin, watery or mucous secretions from the nasal cavities, colloquially termed a runny nose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, rhinorrhea occurs in allergic rhinitis, upper respiratory viral infections, and trauma where cribriform plate fracture causes cerebrospinal fluid rhinorrhea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinorrhea designates a term designating an entity, condition, or phenomenon derived from greek rhin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Paroxysms of sneezing accompanied by profuse **rhinorrhea** mark the onset of acute coryza in early spring."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Persistent cerebrospinal **rhinorrhea** after basal fracture demands immediate precautions against secondary meningeal infection."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The catarrhal inflammation manifests primarily with conjunctival injection and copious, serous **rhinorrhea**."*

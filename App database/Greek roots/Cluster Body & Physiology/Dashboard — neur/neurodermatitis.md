@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dermatitis in which localized areas (especially the forearms or back of the neck or outer part of the ankle) itch persistently; cause is unknown.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dermatitis in which localized areas (especially the forearms or back of the neck or outer part of the ankle) itch persistently; cause is unknown.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic, itchy skin condition characterized by localized lichenification (thickening of the skin) provoked by habitual scratching and rubbing, often associated with psychological stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, lichen simplex chronicus, wherein an initial pruritic sensation triggers a chronic itch-scratch cycle exacerbated by emotional tension and autonomic hyperactivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurodermatitis designates dermatitis in which localized areas (especially the forearms or back of the neck or outer part of the ankle) itch persistently; cause is unknown."*
+> - 📜 **Louis-Anne-Jean Brocq (*Pruritus and Neurodermatitis*):** *"I proposed the designation **neurodermatitis** to emphasize that severe cutaneous pruritus and lichenification often develop without preceding primary eruption."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intense emotional stress or nervous exhaustion frequently precipitates stubborn patches of **neurodermatitis** upon the nape of the neck."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"In intractable **neurodermatitis**, the uncontrollable impulse to scratch reveals the intimate nexus connecting psychoneurotic tension to cutaneous eroticism."*

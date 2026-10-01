@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mud daubers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mud daubers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of solitary sphecid wasps commonly known as mud daubers or black-and-yellow mud daubers, noted for constructing multi-celled mud nests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, female *Sceliphron* wasps paralyze spiders with venom, provision each mud cell with paralyzed prey, lay a single egg upon them, and seal the cell for larval development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sceliphron designates mud daubers."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"With pellet after pellet of damp clay, the industrious **Sceliphron** builds her earthen galleries against sunny stone walls."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Inside each mud cell built by **Sceliphron** caementarium, one finds dozens of immobilized spiders stored as larval provisions."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"The solitary nesting behavior of **Sceliphron** illustrates maternal investment preceding the evolution of eusociality."*

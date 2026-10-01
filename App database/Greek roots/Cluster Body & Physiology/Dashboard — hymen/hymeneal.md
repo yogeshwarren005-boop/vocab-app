@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wedding hymn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a wedding or marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or appropriate for marriage or a wedding ceremony; nuptial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, a wedding song, hymn, or epithalamium sung in celebration of the bride and bridegroom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"A new and highly respected citizen will lead to the hymeneal altar one of our most popular ladies."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Bent upon these hymeneal projects, and with the applause and consent of Mrs."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"When they were married, Pitt would have liked to take a hymeneal tour with his bride, as became people of their condition."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The birds their quire apply; airs, vernal airs, Breathing the smell of field and grove, attune The **hymeneal** gale."*
+> - 📜 **Percy Bysshe Shelley (*To a Skylark*):** *"Chorus **Hymeneal**, Or triumphal chaunt, Matched with thine would be all But an empty vaunt."*
+> - 📜 **Edmund Spenser (*Epithalamion*):** *"Ring ye the bells, ye yong men of the towne, And leave your wonted labors for this day: This day is holy, let our **hymeneal** sound resound."*

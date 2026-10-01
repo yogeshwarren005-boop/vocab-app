@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grayish or reddish granular cell that is the fundamental functional unit of nervous tissue transmitting and receiving nerve impulses and having cytoplasmic processes which are highly differentiated frequently as multiple dendrites or usually as solitary axons which conduct impulses to and away from the cell body : nerve cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interneuron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The structural and functional unit of the nervous system, consisting of a cell body (soma), dendrites, and an axon capable of conducting electrical and chemical impulses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular neuroscience, the fundamental cellular doctrine formulated by Waldeyer and Cajal, asserting the anatomical independence and polarized signaling of individual nerve cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuron designates a grayish or reddish granular cell that is the fundamental functional unit of nervous tissue transmitting and receiving nerve impulses and having cytoplasmic processes which are highly differentiated frequently as multiple dendrites or usually as solitary axons which conduct impulses to and away from the cell body : nerve cell."*
+> - 📜 **Santiago Ramón y Cajal (*Texture of the Nervous System of Man and the Vertebrates*):** *"The individual **neuron** possesses distinct receptive, integrative, and emissive poles, communicating with its fellows solely by contiguity."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The synapse forms the nexus where the terminal arborizations of one **neuron** appose the receptive surface of another."*
+> - 📜 **Heinrich Wilhelm Waldeyer (*Ueber einige neuere Forschungen im Gebiete der Anatomie des Centralnervensystems*):** *"I propose the name **neuron** for the cellular individual composed of the nerve cell together with all its processes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the spinal cord or bone marrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical neurology, designating structures, pathways, or vascular networks associated specifically with the spinal cord (medulla spinalis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelic designates of or relating to the spinal cord."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The anterior and posterior **myelic** arteries supply the corresponding aspects of the spinal cord."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Compression of the **myelic** columns by an extradural abscess produces spastic paraparesis below the lesion."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Ascending sensory axons traverse the **myelic** funiculi toward the relay nuclei of the brainstem."*

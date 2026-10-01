@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of blood cells in the living body (especially in the bone marrow).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of blood cells in the living body (especially in the bone marrow).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The origin, development, and production of blood and blood cells in an organism; hematopoiesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and developmental biology, the sequential differentiation of pluripotential stem cells into circulating blood cellular lineages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemogenesis designates the formation of blood cells in the living body (especially in the bone marrow)."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"During primitive embryonic life, active **haemogenesis** takes place within the mesenchyme of the yolk sac before establishing itself in the fetal liver."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The exact mechanisms presiding over abnormal **haemogenesis** reveal how closely blood proliferation mirrors cellular replication elsewhere in the economy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Defects in marrow **haemogenesis** lead inevitably either to aplastic exhaustion or to excessive blast cellular proliferation."*

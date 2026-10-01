@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ethn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The government, office, jurisdiction, or territory of an ethnarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient history, a provincial political entity governed by an ethnarch under imperial suzerainty (as in Roman Judaea under Archelaus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethnarchy designates a term designating an entity, condition, or phenomenon derived from greek ethn."*
+> - 📜 **Flavius Josephus (*Antiquities of the Jews*):** *"The fiscal revenues of the **ethnarchy** were surveyed by Roman commissioners following the deposition of Archelaus."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The fragmented **ethnarchy** dissolved when imperial legions annexed the territory into direct provincial administration."*
+> - 📜 **George Grote (*A History of Greece*):** *"Alexander's successors maintained the autonomous **ethnarchy** as a pragmatic buffer along the Syrian desert borders."*

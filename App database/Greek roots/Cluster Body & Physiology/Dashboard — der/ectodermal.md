@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the ectoderm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the ectoderm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from the ectoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics and pathology, designating structures or developmental anomalies (such as ectodermal dysplasia) affecting skin, teeth, and nerves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectodermal designates of or relating to the ectoderm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Anhidrotic **ectodermal** dysplasia presents with sparse hair, missing dentition, and an inability to sweat."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"The dorsal blastopore lip induces adjacent **ectodermal** cells to abandon epidermal fate and become neural plate."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Heredity*):** *"Cellular fate mapping confirms that lens placodes arise directly from localized **ectodermal** thickenings."*

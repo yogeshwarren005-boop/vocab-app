@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pheb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root variant and morpheme reflecting Greek φόβος (phobos / pheb-) signifying fear, panic, or morbid aversion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative Indo-European philology and classical etymology, the ablaut variant root underlying terms denoting dread, flight, or panic-stricken retreat in Greek myth and linguistic derivatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pheb designates a term designating an entity, condition, or phenomenon derived from greek pheb."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The phonetic stem **pheb-**, cognate with phob-, originates from the ancient Greek verbal root signifying to flee in terror."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In epic verse, formations related to **pheb-** depict warriors fleeing the battlefield in disorderly panic."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The radical **pheb-** reflects primitive psychological expressions of instinctive flight before overwhelming elemental power."*

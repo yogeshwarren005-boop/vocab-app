@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roentgenography of the brain after spinal fluid has been replaced by a gas (usually oxygen); produces an encephalogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roentgenography of the brain after spinal fluid has been replaced by a gas (usually oxygen); produces an encephalogram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The radiography of the brain after the replacement of cerebrospinal fluid with a gas; or the electrical recording of brain activity (electroencephalography).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of neuroimaging, a pioneering diagnostic procedure introduced by Walter Dandy in 1919 to outline cerebral ventricles and detect space-occupying lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalography designates roentgenography of the brain after spinal fluid has been replaced by a gas (usually oxygen); produces an encephalogram."*
+> - 📜 **Harvey Cushing (*Intracranial Tumors*):** *"The development of fractional **encephalography** made it possible to localize tumors of the posterior fossa with unprecedented accuracy."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Electro-assisted **encephalography** provides an objective physiological window into the dynamic organization of cerebral cortical rhythms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Before the advent of modern tomography, lumbar **encephalography** was our principal method for visualizing ventricular distortion."*

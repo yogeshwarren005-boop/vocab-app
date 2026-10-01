@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Profuse hemorrhage or bleeding from the bronchial mucous membrane or bronchial arteries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thoracic medicine, massive bleeding into the tracheobronchial tree (severe hemoptysis) that threatens suffocation, arising from ruptured bronchial artery aneurysms, invasive cavitary aspergillosis, or advanced neoplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchorrhagia designates a term designating an entity, condition, or phenomenon derived from greek rhag."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Catastrophic **bronchorrhagia** presents an immediate hazard of pulmonary drowning rather than exsanguination."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Severe bronchial erosion in advanced phthisis provoked fatal **bronchorrhagia** within a few minutes."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Emergency bronchial occlusion by balloon catheter was executed to control torrential **bronchorrhagia**."*

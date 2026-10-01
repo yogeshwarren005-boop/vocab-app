@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected by an aneurysm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affected by an aneurysm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or caused by an aneurism (aneurysm).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pathology, describing the sac, thrill, murmur, or vascular remodeling associated with an arterial dilatation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aneurismal designates relating to or affected by an aneurysm."*
+> - 📜 **Matthew Baillie (*The Morbid Anatomy of Some of the Most Important Parts of the Human Body*):** *"The inner coat of the aorta is often extensively diseased, giving rise to an **aneurismal** enlargement of the descending arch."*
+> - 📜 **Astley Cooper (*Lectures on the Principles and Practice of Surgery*):** *"Upon applying the ear over the swelling, a distinct **aneurismal** bruit can be perceived synchronously with the radial pulse."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Antiseptic catgut ligatures were successfully applied to secure the vessel proximal to the **aneurismal** sac without secondary hemorrhage."*

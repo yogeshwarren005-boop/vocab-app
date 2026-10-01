@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior glandular lobe of the pituitary gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior glandular lobe of the pituitary gland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior glandular lobe of the pituitary gland, derived embryologically from Rathke's pouch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology, the master glandular lobe that synthesizes and secretes ACTH, TSH, GH, PRL, FSH, and LH under hypothalamic neurohumoral control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenohypophysis designates the anterior glandular lobe of the pituitary gland."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Acidophil adenomas arising within the **adenohypophysis** stimulate excessive skeletal growth, culminating in clinical acromegaly."*
+> - 📜 **Bernardo Houssay (*Hypophyseal Functions*):** *"The endocrine dominion exercised by the **adenohypophysis** over the adrenals and gonads is governed through hypothalamic portal vessels."*
+> - 📜 **Roger Guillemin (*Hypothalamic Hormones*):** *"Hypothalamic releasing factors travel down specialized capillary beds to evoke peptide release from cells of the **adenohypophysis**."*

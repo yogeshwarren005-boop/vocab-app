@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually long and single nerve-cell process that usually conducts impulses away from the cell body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually long and single nerve-cell process that usually conducts impulses away from the cell body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The long, slender, cylindrical projection of a nerve cell that conducts electrical impulses (action potentials) away from the cell body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology, the primary functional efferent neurite terminating in synaptic boutons that release neurotransmitters across synaptic clefts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axon designates a usually long and single nerve-cell process that usually conducts impulses away from the cell body."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System of Man and Vertebrates*):** *"The individual **axon** travels immense distances through white matter tracts to deliver its electrical message to distant targets."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The wave of negativity traveling down the motor **axon** evokes muscular contraction across the terminal neuromuscular junction."*
+> - 📜 **Alan Hodgkin (*The Conduction of the Nervous Impulse*):** *"By inserting a capillary electrode into the giant **axon** of the squid, we recorded the inward sodium rush of the action potential."*

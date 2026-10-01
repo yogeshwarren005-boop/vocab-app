@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sarcastic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not sarcastic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from sarcasm; sincere, earnest, gentle, or devoid of biting or mocking irony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in character and literary analysis to describe expression, tone, or temperament that communicates direct goodwill and transparency without cynical undertones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsarcastic designates not sarcastic."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His tone was entirely **unsarcastic**, conveying a gentle simplicity that disarmed her immediate defensiveness."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She spoke with an **unsarcastic** candor that convinced Isabel of her genuine desire to render assistance."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"His praise was quiet, heartfelt, and completely **unsarcastic**, bringing a warm blush to the young author's cheek."*

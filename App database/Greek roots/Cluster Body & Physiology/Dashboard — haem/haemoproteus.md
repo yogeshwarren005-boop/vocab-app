@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family haemoproteidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family haemoproteidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of apicomplexan protozoan parasites infecting birds, reptiles, and amphibians, transmitted by hippoboscid flies or midges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology, the genus of blood sporozoans whose elongated halter-shaped gametocytes occupy avian erythrocytes without displacing the host cell nucleus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoproteus designates type genus of the family haemoproteidae."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"The discovery of exflagellation in **haemoproteus** from birds supplied the key clue for unraveling human malaria transmission."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"In pigeons infected with **haemoproteus**, halter-shaped bodies can be seen encircling the red cell nucleus without causing acute cell lysis."*
+> - 📜 **Alphonse Laveran (*Traité des Fièvres Palustres*):** *"Comparative studies on **haemoproteus** confirmed that diverse vertebrate species harbor specialized hematozoa analogous to human parasites."*

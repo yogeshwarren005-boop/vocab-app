@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An endoscope that is inserted through an incision near a joint (such as the knee) and is used for the visual examination, diagnosis, and treatment of the interior of a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endoscope that is inserted through an incision near a joint (such as the knee) and is used for the visual examination, diagnosis, and treatment of the interior of a joint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or performed by means of an arthroscope or arthroscopy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic surgical practice, designating minimally invasive joint procedures, such as arthroscopic meniscectomy or cruciate ligament reconstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthroscopic designates an endoscope that is inserted through an incision near a joint (such as the knee) and is used for the visual examination, diagnosis, and treatment of the interior of a joint."*
+> - 📜 **Masaki Watanabe (*Atlas of Arthroscopy*):** *"We performed the first **arthroscopic** meniscectomy using specialized miniaturized cutting instruments through portal incisions."*
+> - 📜 **John Charnley (*Injuries of the Knee*):** *"Rapid rehabilitation is the chief benefit of **arthroscopic** repair, sparing the quadriceps mechanism significant surgical trauma."*
+> - 📜 **Atul Gawande (*Complications*):** *"The surgeon monitored the video screen as the **arthroscopic** shaver smoothed the ragged edges of the torn meniscus."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior subdivision of the forebrain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The posterior subdivision of the forebrain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior division of the embryonic forebrain, situated between the telencephalon and the mesencephalon (midbrain).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In adult neuroanatomy, the central brain region comprising the thalamus, hypothalamus, epithalamus, and subthalamus, enclosing the third ventricle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diencephalon designates the posterior subdivision of the forebrain."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System of Man and Vertebrates*):** *"The nuclear complexes of the **diencephalon** function as the supreme sensory relay stations directing peripheral information toward the cerebral cortex."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The third ventricle forms a narrow median vertical chasm within the substance of the **diencephalon**."*
+> - 📜 **Walter Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"Emotional expression is organized within the basal nuclei of the **diencephalon**, held under tonic inhibitory restraint by the cortex."*

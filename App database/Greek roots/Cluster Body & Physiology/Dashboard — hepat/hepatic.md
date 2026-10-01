@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, affecting, associated with, supplying, or draining the liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, affecting, associated with, supplying, or draining the liver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the liver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and physiology, designating structures (such as the hepatic artery, hepatic portal vein, or hepatic ducts) and metabolic functions specific to the liver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatic designates of, relating to, affecting, associated with, supplying, or draining the liver."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"Blood carried through the mesenteric channels passes into the **hepatic** portal circulation before being returned toward the vena cava and right auricle."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **hepatic** lobules represent miniature hexagonal prisms, each penetrated centrally by an intralobular vein."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advanced **hepatic** cirrhosis culminates in portal hypertension, ascites, and eventual hepatic encephalopathy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: glia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: glia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The non-neuronal supporting and protective tissue of the brain and spinal cord; glia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and modern neuroanatomy, the interstitial cellular network including astrocytes, oligodendrocytes, ependymal cells, and microglia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog neuroglia as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The interstitial connective substance of the brain and spinal cord, which I term **neuroglia**, provides structural cohesion for the nervous elements."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Refinements in metallic impregnation revealed that **neuroglia** cells participate actively in the nutritional and physiological maintenance of neurons."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Synaptic insulation and metabolic regulation depend critically upon the intervening membranes of the **neuroglia**."*

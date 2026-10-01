@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with neuropsychology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with neuropsychology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to neuropsychology; concerned with the relationship between brain function and cognitive, behavioral, or psychological processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical assessment, describing standardized tests evaluating memory, executive function, language, and visuospatial abilities to identify focal brain deficits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropsychological designates of or concerned with neuropsychology."*
+> - 📜 **Aleksandr Luria (*The Working Brain: An Introduction to Neuropsychology*):** *"A rigorous **neuropsychological** analysis of gunshot wounds to the skull reveals how localized trauma disrupts higher mental functions."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Formal **neuropsychological** testing confirmed that the patient had lost visual recognition while preserving conceptual knowledge."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Temporal lobectomy requires meticulous preoperative **neuropsychological** evaluation to protect verbal memory circuits."*

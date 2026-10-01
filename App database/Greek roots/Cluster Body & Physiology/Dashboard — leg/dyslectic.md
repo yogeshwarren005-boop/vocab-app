@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has dyslexia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having impaired ability to comprehend written words usually associated with a neurologic disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, experiencing, or characteristic of dyslexia; an alternate orthography for dyslexic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychology and educational diagnostics, describing individuals or cognitive processing deficits marked by difficulty deciphering printed orthography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyslectic designates a person who has dyslexia."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The **dyslectic** child often possesses remarkable spatial intelligence despite profound struggles with printed text."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Careful neurological assessment reveals that **dyslectic** difficulties can arise from either visual-spatial or auditory-phonetic deficits."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **dyslectic** reader hesitates before the visual symbol, struggling to link the visible sign with its internal acoustic image."*

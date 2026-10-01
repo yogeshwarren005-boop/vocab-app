@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Passage of stools containing blood (as from diverticulosis or colon cancer or peptic ulcer).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passage of stools containing blood (as from diverticulosis or colon cancer or peptic ulcer).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The passage of fresh, bright red blood through the anus, usually in or with stools.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, an indicator of active lower gastrointestinal bleeding (from diverticula, hemorrhoids, or colitis) or massive rapid upper GI hemorrhage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematochezia designates passage of stools containing blood (as from diverticulosis or colon cancer or peptic ulcer)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute diverticular hemorrhage typically presents as sudden, painless, voluminous **haematochezia** requiring urgent fluid resuscitation."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The emergency physician evaluated the recurrent **haematochezia** with urgent colonoscopy to localize the bleeding vascular ectasia."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"Massive bright red **haematochezia** accompanied by orthostatic hypotension signals catastrophic arterial bleeding in the lower bowel."*

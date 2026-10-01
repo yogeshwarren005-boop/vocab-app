@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek der.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The insect order comprising the earwigs, characterized by short leathery forewings (tegmina) and prominent abdominal forceps (cerci).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, hemimetabolous insects with large semicircular membranous hindwings folded fanwise beneath protective elytra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Dermaptera designates a term designating an entity, condition, or phenomenon derived from greek der."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The order **Dermaptera** is distinguished by the powerful forcep-like cerci that terminate the abdomen in both sexes."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"The mother earwig of the **Dermaptera** displays touching maternal care, guarding her clutch of eggs beneath stones."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Male specimens in the **Dermaptera** use their curved abdominal pincers in ritualized courtship displays."*

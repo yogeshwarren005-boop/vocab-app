@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to sarcolemma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to sarcolemma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sarcolemma; an archaic or variant spelling of sarcolemmous or sarcolemmal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Employed in nineteenth-century anatomical descriptions to denote the protective tubular envelope surrounding voluntary muscle fasciculi and fibers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcolemnous designates of or relating to sarcolemma."*
+> - 📜 **William Bowman (*On the Minute Structure and Movements of Voluntary Muscle*):** *"Each primitive fasciculus is enveloped in its own continuous **sarcolemnous** tunic of exquisite transparency."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"In arthropod skeletal muscle, the **sarcolemnous** sheath shows distinct attachments to the internal chitinous skeleton."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The elastic resistance of the **sarcolemnous** boundary maintains the cylindrical form of contracting muscle fibers."*

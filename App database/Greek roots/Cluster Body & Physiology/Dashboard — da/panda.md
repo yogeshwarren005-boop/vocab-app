@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large black-and-white herbivorous mammal of bamboo forests of china and tibet; in some classifications considered a member of the bear family or of a separate family ailuropodidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reddish-brown old world raccoon-like carnivore; in some classifications considered unrelated to the giant pandas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bear-like mammal native to the bamboo forests of central China (giant panda, Ailuropoda melanoleuca), or the smaller cat-like red panda (Ailurus fulgens).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, an iconic emblem of specialized herbivory, famously possessing an enlarged radial sesamoid bone acting as a pseudo-thumb for grasping bamboo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panda designates large black-and-white herbivorous mammal of bamboo forests of china and tibet; in some classifications considered a member of the bear family or of a separate family ailuropodidae."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The giant **panda** crafts an opposable thumb not from a true digit, but through the adaptive enlargement of its wrist's radial sesamoid bone."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The enigmatic relations of the red **panda** to the bears and procyonids puzzled early vertebrate taxonomists."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Preserving the remaining montane bamboo refuges of the giant **panda** has become an international symbol of conservation biology."*

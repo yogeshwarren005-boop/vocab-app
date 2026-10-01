@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various nonruminant mammals (such as an elephant, a rhinoceros, or a hippopotamus) of a former group (Pachydermata) that have hooves or nails resembling hooves and usually thick skin; especially : elephant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various nonruminant mammals (such as an elephant, a rhinoceros, or a hippopotamus) of a former group (Pachydermata) that have hooves or nails resembling hooves and usually thick skin; especially : elephant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large, thick-skinned quadruped mammal, especially an elephant, rhinoceros, or hippopotamus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical zoology, an animal belonging to the obsolete taxonomic order Pachydermata established by Cuvier; or an insensitive person.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"So, too, the Titanotherum, a gigantic pachyderm, was associated with a species of hornless rhinoceros."*
-> - 📜 **James Joyce (*Ulysses*):** *"They moan, passing upon the clouds, horned and capricorned, the trumpeted with the tusked, the lionmaned, the giantantlered, snouter and crawler, rodent, ruminant and pachyderm, all their moving moaning multitude, murderers of the sun."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"I gathered under the order of the **pachyderm** those massive hoofed mammals characterized by thick integuments and bulky skeletons."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sperm whale may well be called an aquatic **pachyderm**, his colossal hide defying the sharpest iron harpoon."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The pampas fossil beds yielded the teeth of Toxodon, an extinct giant displaying affinities with both the rodent and the **pachyderm**."*

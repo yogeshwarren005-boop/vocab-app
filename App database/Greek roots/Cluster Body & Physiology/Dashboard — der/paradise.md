@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any place of complete bliss and delight and peace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) the abode of righteous souls after death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ideal, beautiful, or idyllic place or state; heaven or the Garden of Eden in religious traditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and Persian culture, an enclosed royal hunting park or walled garden (pairi-daeza) renowned for fountains and fruit trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no, although The air of paradise did fan the house, And angels offic’d all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not that Adam that kept the paradise, but that Adam that keeps the prison; he that goes in the calf’s skin that was killed for the Prodigal; he that came behind you, sir, like an evil angel, and bid you forsake your liberty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If broken then, it is no fault of mine; If by me broke, what fool is not so wise To lose an oath to win a paradise?_ BEROWNE."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The world was all before them, where to choose their place of rest, and Providence their guide: they, hand in hand, with wandering steps and slow, through Eden took their solitary way from **Paradise**."*
+> - 📜 **Dante Alighieri (*Paradiso*):** *"In that celestial **paradise**, the blessed souls abide in radiant circles of eternal light and love."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Nature is a setting that makes of every quiet woodland walk an earthly **paradise** for the contemplative mind."*

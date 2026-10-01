@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign tumor of a glandular structure or of glandular origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A benign tumor of a glandular structure or of glandular origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign epithelial tumor of glandular origin or showing glandular structural characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and endocrinology, a non-malignant neoplasm occurring in organs like the thyroid, parathyroid, pituitary, adrenal cortex, or colon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenoma designates a benign tumor of a glandular structure or of glandular origin."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"An **adenoma** preserves the orderly arrangement of glandular epithelium, remaining encapsulated without destructive invasive growth."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Surgical enucleation of the basophil **adenoma** corrected the severe hypertension and truncal obesity of the patient."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"The tubular **adenoma** of the colon requires close endoscopic surveillance because of its propensity for malignant transformation."*

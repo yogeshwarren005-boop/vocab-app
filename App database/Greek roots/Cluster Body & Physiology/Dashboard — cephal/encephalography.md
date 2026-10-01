@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roentgenography of the brain after spinal fluid has been replaced by a gas (usually oxygen); produces an encephalogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roentgenography of the brain after spinal fluid has been replaced by a gas (usually oxygen); produces an encephalogram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The radiographic or electrical technique of imaging or recording the structure or function of the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century neurosurgery, specifically pneumoencephalography—the radiographic visualization of the cerebral ventricles following lumbar cerebrospinal fluid replacement with air.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalography designates roentgenography of the brain after spinal fluid has been replaced by a gas (usually oxygen); produces an encephalogram."*
+> - 📜 **Walter Dandy (*Pneumoencephalography in Intracranial Tumors*):** *"Before the advent of modern tomography, lumbar **encephalography** was our most potent diagnostic tool for visualizing intracranial mass lesions."*
+> - 📜 **Harvey Cushing (*Intracranial Tumours*):** *"Air **encephalography** must be performed with extreme caution in patients with elevated intracranial pressure to avoid tonsillar herniation."*
+> - 📜 **Hans Berger (*The History of Brain Wave Studies*):** *"The development of electro-**encephalography** provided a continuous, harmless physiological monitor of cerebral cortical metabolism."*

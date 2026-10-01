@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aggregate of past events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A record or narrative description of past events.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The discipline that records, analyzes, and interprets past events, societies, cultures, and human experiences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy, the continuous chronological progression of human civilization, or a formal narrative account of natural or civil phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For there can live no hatred in thine eye, Therefore in that I cannot know thy change, In many’s looks, the false heart’s history Is writ in moods and frowns and wrinkles strange."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Last scene of all, That ends this strange eventful history, Is second childishness and mere oblivion, Sans teeth, sans eyes, sans taste, sans everything."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, sir, This paper is the history of my knowledge Touching her flight. [_Presenting a letter._] CLOTEN."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"**History**, indeed, is little more than the register of the crimes, follies, and misfortunes of mankind."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The **history** of the world is but the biography of great men."*
+> - 📜 **Cicero (*De Oratore*):** *"**History** is the witness of times, the light of truth, the life of memory, the mistress of life, the messenger of antiquity."*

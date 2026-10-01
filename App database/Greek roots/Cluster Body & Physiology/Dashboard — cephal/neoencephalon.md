@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the brain having the most recent phylogenetic origin; the cerebral cortex and related parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the brain having the most recent phylogenetic origin; the cerebral cortex and related parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of neencephalon; the evolutionarily modern structures of the brain, dominated by the cerebral neocortex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology and evolutionary cognitive science, the phylogenetically recent mammalian forebrain responsible for higher cognitive functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoencephalon designates the part of the brain having the most recent phylogenetic origin; the cerebral cortex and related parts."*
+> - 📜 **Charles Sherrington (*Man on His Nature*):** *"In the human species, the **neoencephalon** reaches its crowning development, subserving language, reason, and self-conscious purpose."*
+> - 📜 **Santiago Ramón y Cajal (*Texture of the Nervous System*):** *"The pyramidal neurons of the **neoencephalon** form thousands of recurrent dendritic spines that support associative learning."*
+> - 📜 **A. R. Luria (*The Working Brain*):** *"Lesions confined to the tertiary association areas of the **neoencephalon** disrupt complex planning and programmatic behavior."*

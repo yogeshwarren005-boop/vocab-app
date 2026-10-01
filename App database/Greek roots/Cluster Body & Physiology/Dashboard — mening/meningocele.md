@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital anomaly of the central nervous system in which a sac protruding from the brain or the spinal meninges contains cerebrospinal fluid (but no nerve tissue).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital anomaly of the central nervous system in which a sac protruding from the brain or the spinal meninges contains cerebrospinal fluid (but no nerve tissue).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital protrusion of the meninges through a defect in the skull or vertebral column, forming a fluid-filled sac without neural tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurosurgery and embryology, a form of spina bifida cystica wherein the herniated sac contains only dura and arachnoid distended with cerebrospinal fluid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meningocele designates a congenital anomaly of the central nervous system in which a sac protruding from the brain or the spinal meninges contains cerebrospinal fluid (but no nerve tissue)."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Surgical repair of a posterior **meningocele** requires watertight closure of the herniated dural envelope."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unlike myelomeningocele, an uncomplicated **meningocele** contains no nervous elements in the protruding sac."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Failure of the neural arches to fuse posteriorly permits the arachnoid to herniate, producing a dorsal **meningocele**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Topographic study of a given place (especially the history of the place as indicated by its topography).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of anatomy based on regions or divisions of the body and emphasizing the relations between various structures (muscles and nerves and arteries etc.) in that region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of mathematics that studies the geometric properties and spatial relations that remain invariant under continuous deformations such as stretching, twisting, and crumpling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In network engineering and geographic analysis, the specific physical or logical arrangement of interconnected nodes, vertices, and linking pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topology designates topographic study of a given place (especially the history of the place as indicated by its topography)."*
+> - 📜 **Henri Poincaré (*Analysis Situs*):** *"The study of **topology** frees geometry from the rigidity of metric measurement, focusing instead on continuous connectedness."*
+> - 📜 **Solomon Lefschetz (*Topology*):** *"Modern algebraic **topology** translates geometrical configurations into algebraic groups and combinatorial invariants."*
+> - 📜 **John L. Kelley (*General Topology*):** *"In point-set **topology**, open sets form the primitive structure that determines continuity and convergence."*

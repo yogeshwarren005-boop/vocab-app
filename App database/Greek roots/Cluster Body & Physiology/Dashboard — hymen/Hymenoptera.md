@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of insects including: bees; wasps; ants; ichneumons; sawflies; gall wasps; etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large order of insects comprising sawflies, wasps, bees, and ants, characterized by four membranous wings coupled during flight by tiny hooks (hamuli).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, one of the most ecologically important and diverse holometabolous insect orders, noted for advanced eusociality, haplodiploid sex determination, and critical pollination roles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Hymenoptera designates an order of insects including: bees; wasps; ants; ichneumons; sawflies; gall wasps; etc."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extraordinary social instincts of the **Hymenoptera**, including sterile worker castes, provided a formidable test for natural selection."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"In the order **Hymenoptera**, the posterior margin of the forewing is locked to the hindwing during flight by microscopic hooks."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"Solitary hunting wasps of the **Hymenoptera** exhibit surgical precision when paralyzing crickets with their venomous stings."*

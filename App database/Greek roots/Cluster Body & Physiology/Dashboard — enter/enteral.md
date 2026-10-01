@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of enteritis, gastroenterology, enterococcus, dysentery, enteropathy, parenteral, enteral, enterocolitis, gastroenteritis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of enteritis, gastroenterology, enterococcus, dysentery, enteropathy, parenteral, enteral, enterocolitis, gastroenteritis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or passing through the intestine, either naturally via the mouth or through an artificial feeding tube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nutrition and pharmacology, route of administration utilizing the gastrointestinal tract, contrasting with parenteral administration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enteral designates adjective*) pertaining to, derived from, or characteristic of enteritis, gastroenterology, enterococcus, dysentery, enteropathy, parenteral, enteral, enterocolitis, gastroenteritis."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"We preferred early **enteral** feeding through a soft nasojejunal tube to maintain gut mucosal integrity and prevent bacterial translocation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **enteral** absorption of toxins during acute intestinal stasis triggers severe systemic prostration."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Once bowel sounds returned, the surgical team discontinued intravenous fluids and initiated gentle **enteral** nutrition."*

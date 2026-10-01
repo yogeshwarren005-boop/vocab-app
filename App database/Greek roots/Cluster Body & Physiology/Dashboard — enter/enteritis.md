@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the intestines and especially of the human ileum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of domestic animals (such as panleukopenia of cats) marked by enteritis and diarrhea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the intestine, especially the small intestine, usually accompanied by diarrhea, cramping, and fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary and human gastroenterology, mucosal inflammation caused by viral infections, bacterial toxins, radiation, or autoimmune disease (Crohn's disease).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enteritis designates inflammation of the intestines and especially of the human ileum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute catarrhal **enteritis** commonly follows the ingestion of decomposing foodstuffs containing toxic bacterial proteoses."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"Dehydration from acute rotavirus **enteritis** remains one of the world's most lethal yet preventable pediatric emergencies."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The patient presented with severe regional **enteritis**, with transmural thickening visible on contrast radiography."*

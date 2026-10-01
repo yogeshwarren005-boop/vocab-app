@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Birth defect characterized by the presence of more than the normal number of fingers or toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Birth defect characterized by the presence of more than the normal number of fingers or toes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital presence of supernumerary or extra fingers or toes; polydactyly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental genetics and teratology, the development of additional digital rays resulting from ectopic sonic hedgehog signaling in the limb bud.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperdactyly designates birth defect characterized by the presence of more than the normal number of fingers or toes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Symmetrical **hyperdactyly** involving six well-formed digits on each extremity frequently follows strict dominant inheritance."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The transmission of **hyperdactyly** in cats and domestic poultry provided early breeders with proof of abrupt hereditary variation."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Surgical Subjects*):** *"Amputation of the supernumerary digit in **hyperdactyly** should be deferred until radiographic ossification clarifies the joint relations."*

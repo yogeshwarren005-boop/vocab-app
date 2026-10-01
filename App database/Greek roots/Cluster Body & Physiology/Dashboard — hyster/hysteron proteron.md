@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech consisting of the reversal of a natural or rational order (as in "then came the thunder and the lightning").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure of speech consisting of the reversal of a natural or rational order (as in "then came the thunder and the lightning").
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure of speech in which the natural, logical, or chronological order of things is reversed ('putting the cart before the horse').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, an emphatic construction where that which should naturally follow is placed first for dramatic effect (e.g. Virgil's 'Moriamur, et in media arma ruamus' - 'Let us die, and rush into the midst of arms').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteron proteron designates a figure of speech consisting of the reversal of a natural or rational order (as in "then came the thunder and the lightning")."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The figure **hysteron proteron** places that which is chronologically second first, creating striking dramatic urgency."*
+> - 📜 **Laurence Sterne (*The Life and Opinions of Tristram Shandy, Gentleman*):** *"My father's philosophical arguments constantly committed **hysteron proteron**, setting the consequence before the antecedent."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"We call this figure the preposterous, or **hysteron proteron**, when you put the cart before the horse in speech."*

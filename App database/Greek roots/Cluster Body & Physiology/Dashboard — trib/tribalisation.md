@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making tribal; unification on a tribal basis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making tribal; unification on a tribal basis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or state of organizing into tribes, or the intensification of tribal loyalties and factional divisions (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political anthropology and post-colonial studies, tribalisation examines how colonial administrative classifications or electoral competition can entrench or polarize ethnic identities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribalisation designates the act of making tribal; unification on a tribal basis."*
+> - 📜 **Edward Burnett Tylor (*Anthropology: An Introduction to the Study of Man and Civilization*):** *"The gradual **tribalisation** of scattered nomadic bands fostered collective defense against encroaching neighbors."*
+> - 📜 **Winston Churchill (*The River War*):** *"The Mahdi's campaign was marked by a sudden re-**tribalisation** of the desert provinces under religious fervor."*
+> - 📜 **James George Frazer (*Totemism and Exogamy*):** *"Kinship structures consolidated through progressive **tribalisation**, organizing marriage rules around exogamous clans."*

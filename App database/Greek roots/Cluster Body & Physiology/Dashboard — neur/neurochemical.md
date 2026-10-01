@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any organic substance that occurs in neural activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any organic substance that occurs in neural activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the chemical substances, neurotransmitters, and molecular reactions occurring within the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychopharmacology, describing endogenous ligands, second messengers, ion channel modulators, and biochemical alterations in neurological disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurochemical designates any organic substance that occurs in neural activity."*
+> - 📜 **Henry Hallett Dale (*Adventures in Physiology*):** *"The identification of acetylcholine as a chemical transmitter at autonomic ganglia marked a profound transformation in **neurochemical** thought."*
+> - 📜 **Otto Loewi (*The Chemical Transmission of Nerve Action*):** *"The release of Vagusstoff into the perfusion fluid proved that cardiac inhibition is mediated by a specific **neurochemical** agent."*
+> - 📜 **Julius Axelrod (*Noradrenaline: Fate and Control of Its Biosynthesis*):** *"Reuptake into presynaptic nerve terminals constitutes the major physiological mechanism terminating **neurochemical** transmission by catecholamines."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Codling moths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Codling moths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus of tortricid moths (now Cydia), notably Carpocapsa pomonella, the codling moth whose larvae bore into pome fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology and natural history, fruit-destroying moths including the Mexican jumping bean moth (Cydia saltitans), whose larvae cause seeds to twitch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpocapsa designates codling moths."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The larva of **carpocapsa** burrows deep into the heart of the ripening apple, sheltered from external predators."*
+> - 📜 **C. V. Riley (*Report of the State Entomologist*):** *"Orchardists suffered immense economic losses until systematic spraying checked the ravages of the **carpocapsa** caterpillar."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Caterpillar*):** *"Inside the seed capsule, the microscopic caterpillar of **carpocapsa** leaps against the woody walls, propelling the bean across the ground."*

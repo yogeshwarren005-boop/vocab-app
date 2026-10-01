@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kidney disease that is usually associated with hypertension; sclerosis of the renal arterioles reduces blood flow that can lead to kidney failure and heart failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kidney disease that is usually associated with hypertension; sclerosis of the renal arterioles reduces blood flow that can lead to kidney failure and heart failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sclerosis or hardening of the renal arterioles and small blood vessels, associated with chronic hypertension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pathology, hyaline or hyperplastic arteriolar narrowing within the kidneys that leads to glomerular ischemia, tubular atrophy, and progressive chronic kidney disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephroangiosclerosis designates kidney disease that is usually associated with hypertension; sclerosis of the renal arterioles reduces blood flow that can lead to kidney failure and heart failure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sustained arterial hypertension leads insidiously to benign **nephroangiosclerosis** and contracted granular kidneys."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopically, **nephroangiosclerosis** demonstrates pronounced hyaline thickening of the afferent arterioles with lumen reduction."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Malignant hypertension accelerates **nephroangiosclerosis**, producing necrotizing arteriolitis and rapid uremic decline."*

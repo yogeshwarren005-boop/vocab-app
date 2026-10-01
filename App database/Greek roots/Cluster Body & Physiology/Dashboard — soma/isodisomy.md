@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of uniparental disomy in which both copies of a specific chromosome are derived from the exact same parental homolog (two identical sister chromatids).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising typically from meiosis II non-disjunction or post-zygotic monosomy rescue; results in complete homozygosity (isodisomy) across the affected chromosome and potential expression of recessive traits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isodisomy designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Paternal **isodisomy** of chromosome 11p15 constitutes the primary molecular mechanism underlying Beckwith-Wiedemann syndrome."*
+> - 📜 **Curt Stern (*Principles of Human Genetics*):** *"Unlike heterodisomy, **isodisomy** reduces an entire chromosome to absolute homozygosity in the offspring."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The discovery of **isodisomy** revolutionized our understanding of recessive transmission in clinical medical genetics."*

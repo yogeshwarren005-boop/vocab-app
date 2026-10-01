@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the ear and its diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with the ear and its diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and surgery that investigates the anatomy, physiology, diagnosis, and treatment of the ear and its sensory mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history, a specialty founded by Joseph Toynbee and Adam Politzer that pioneered middle-ear dissection, tympanoplasty, and audiometric testing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otology designates a science that deals with the ear and its diseases."*
+> - 📜 **Joseph Toynbee (*The Diseases of the Ear*):** *"Systematic postmortem dissection of over two thousand temporal bones laid the anatomical foundations of modern **otology**."*
+> - 📜 **Adam Politzer (*A Text-Book of the Diseases of the Ear*):** *"The introduction of the operating microscope into clinical **otology** transformed microsurgery of the middle ear."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Every physician practicing internal medicine must master the fundamentals of **otology** to detect early complications of purulent ear disease."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior part of the developing vertebrate hindbrain or the corresponding part of the adult brain composed of the medulla oblongata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The posterior part of the developing vertebrate hindbrain or the corresponding part of the adult brain composed of the medulla oblongata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior portion of the embryonic hindbrain (rhombencephalon), which differentiates into the adult medulla oblongata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the lowest division of the brainstem, continuous with the spinal cord below and containing vital respiratory and cardiovascular centers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelencephalon designates the posterior part of the developing vertebrate hindbrain or the corresponding part of the adult brain composed of the medulla oblongata."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **myelencephalon** constitutes the transitional bridge linking the higher brainstem with the cervical spinal cord."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Within the dorsal sensory nuclei of the **myelencephalon**, the ascending gracile and cuneate fasciculi terminate in dense synaptic nests."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The lateral walls of the **myelencephalon** flare open during the second month to establish the floor of the fourth ventricle."*

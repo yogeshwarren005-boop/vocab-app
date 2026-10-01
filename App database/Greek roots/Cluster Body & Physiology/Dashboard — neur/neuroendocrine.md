@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a hormonal substance that influences the activity of nerves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or functioning in neurosecretion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving the functional interactions between the nervous system and the endocrine glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systemic physiology, describing specialized neurosecretory cells that receive neural input and release signaling hormones directly into the bloodstream (such as hypothalamic-pituitary mediators).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroendocrine designates of, relating to, or being a hormonal substance that influences the activity of nerves."*
+> - 📜 **Ernst Scharrer and Berta Scharrer (*Neurosecretion*):** *"The discovery of secretory granules within diencephalic neurons established the reality of a unified **neuroendocrine** control system."*
+> - 📜 **Geoffrey Harris (*Neural Control of the Pituitary Gland*):** *"Hypothalamic portal vessels transport **neuroendocrine** releasing factors that regulate the trophic secretions of the anterior hypophysis."*
+> - 📜 **Walter Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"The sympathetic division and the adrenal medulla operate in tandem as an integrated **neuroendocrine** apparatus for emergency mobilization."*

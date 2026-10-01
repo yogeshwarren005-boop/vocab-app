@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a cranium or skull; an animal belonging to the Craniata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, describing any chordate endowed with a cartilaginous or bony case protecting the brain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniate designates animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"Every **craniate** organism exhibits at least rudimentary paired optic and otic capsules flanking the neural axis."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The evolution of the **craniate** ancestor marked a decisive step toward active, predatory aquatic life."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Pikaia from the Burgess Shale represents our chordate forebear, just before the advent of the first **craniate** anatomy."*

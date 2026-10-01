@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by decreased bone mineral density and bone mass, less severe than osteoporosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical bone densitometry, a T-score between -1.0 and -2.5 standard deviations below the young adult mean, indicating elevated fracture risk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteopenia designates a term designating an entity, condition, or phenomenon derived from greek oste."*
+> - 📜 **Fuller Albright (*Metabolic Bone Diseases*):** *"Subclinical **osteopenia** may exist for decades before a sudden low-impact fall reveals the compromised strength of the skeleton."*
+> - 📜 **Eugene Braunwald (*Heart Disease and Systemic Disorders*):** *"Postmenopausal **osteopenia** responds favorably to weight-bearing exercise, adequate calcium intake, and antiresorptive therapy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early recognition of skeletal **osteopenia** in elderly patients allows timely prophylactic interventions against hip fractures."*

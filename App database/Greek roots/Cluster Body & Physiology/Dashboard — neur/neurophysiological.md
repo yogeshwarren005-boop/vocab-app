@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with neurophysiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with neurophysiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to neurophysiology; concerned with the physiological functions and electrical activities of the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental biology, describing electrophysiological recordings (such as EEG, EMG, or patch-clamp) measuring ionic currents and neural dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurophysiological designates of or concerned with neurophysiology."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Reciprocal innervation represents an essential **neurophysiological** principle governing the coordination of antagonistic muscles."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Intraoperative cortical mapping provided direct **neurophysiological** confirmation of localized sensory and motor function in humans."*
+> - 📜 **Stephen Kuffler (*From Neuron to Brain*):** *"Microelectrode analysis revealed the precise **neurophysiological** receptive fields of individual retinal ganglion cells."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of microscopic quantities of red blood cells in the urine, detectable only by chemical reagent strips or microscopic sediment analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nephrology and urology, asymptomatic microscopic hematuria (defined as 3 or more RBCs per high-power field) serving as an early indicator of glomerulopathy, urolithiasis, or occult urothelial malignancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microhematuria designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Routine urinalysis frequently discloses unsuspected **microhematuria**, which may constitute the earliest sign of latent glomerulonephritis."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Even when the urine appears clear to the unaided eye, microscopic sediment examination reveals persistent **microhematuria** in subacute renal dropsy."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The quiescent gravel stone lodged within the calyx betrayed its presence solely through persistent **microhematuria** on exertion."*

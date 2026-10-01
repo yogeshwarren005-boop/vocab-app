@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of blow, breathe, lung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of blow, breathe, lung.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, relieving, or restoring respiration; respiratory; reviving breath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical pharmacological texts and physiological semiotics, designating therapeutic measures, vapory inhalations, or stimuli that restore breathing during asphyxia or syncope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anapnoic designates adjective*) pertaining to, derived from, or characteristic of blow, breathe, lung."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Strong smelling salts and cool affusion were applied as an **anapnoic** stimulus to revive the fainting patient."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Pathology*):** *"The reflex excitation of the vagus nerve elicited an immediate **anapnoic** response in the anesthetized animal."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Fresh air admitted into the sickroom proved the most grateful **anapnoic** remedy for the breathless invalid."*

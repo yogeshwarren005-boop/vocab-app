@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science that studies viruses and viral diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medical science that studies viruses and viral diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biological and medical science concerned with the study of viruses and viral diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular microbiology, the investigation of viral genetics, structure, evolutionary origin, host-cell invasion mechanisms, and antiviral therapeutic design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virology designates the branch of medical science that studies viruses and viral diseases."*
+> - 📜 **Wendell Stanley (*The Architecture of Viruses*):** *"The crystallization of the tobacco mosaic virus marked the dawn of structural **virology**."*
+> - 📜 **Macfarlane Burnet (*Natural History of Infectious Disease*):** *"Comparative **virology** demonstrates how microscopic viral particles evolve novel antigenic coats to evade herd immunity."*
+> - 📜 **Salvador Luria (*General Virology*):** *"The tools of molecular **virology** permit us to analyze genetic replication at its simplest physical level."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pinworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pinworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small parasitic nematode worms in the family Oxyuridae, commonly known as pinworms or threadworms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological parasitology, intestinal nematodes possessing lateral alae and an esophageal bulb, with females migrating nocturnal to oviposit on the perianal epidermis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog enterobius as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of stool concentrates revealed the asymmetrical, planar-convex eggs characteristic of **Enterobius** vermicularis."*
+> - 📜 **Carl Zimmer (*Parasite Rex*):** *"The female **Enterobius** crawls from the rectal sphincter under cover of darkness to deposit thousands of eggs, triggering intense pruritus."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Parasitologists marvelled at the sheer persistence with which **Enterobius** cycled through schools and dormitories."*

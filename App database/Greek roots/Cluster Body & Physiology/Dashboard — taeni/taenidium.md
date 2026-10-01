@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek taeni.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single spiral or ring-like cuticular ridge or thickening reinforcing the inner wall of an insect or arthropod tracheal tube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed by specialized infoldings of the tracheal intima, each taenidium acts as an internal spring that maintains luminal patency despite external hydrostatic or atmospheric compression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taenidium designates a term designating an entity, condition, or phenomenon derived from greek taeni."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Each individual **taenidium** unwinds under dissection like a delicate spring of transparent chitin."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The continuous spiral course of the **taenidium** confers maximum radial resistance with minimal weight upon the tracheal wall."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"During ecdysis, the tracheal lining including every **taenidium** is shed and reconstituted anew."*

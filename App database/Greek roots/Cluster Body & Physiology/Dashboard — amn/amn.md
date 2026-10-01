@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: airman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: airman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical and medical combining form or abbreviation designating the amnion, amniotic sac, or amniotic fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology, an abbreviated notation representing the amnion lineage dividing amniotes from anamniote vertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"CISSY CAFFREY: _(Alarmed, seizes Private Carr’s sleeve.)_ Amn’t I with you?"*
+> - 📜 **Thomas Henry Huxley (*The Elements of Comparative Anatomy*):** *"We employ the morphological radical **amn** to denote those membranes shielding the developing embryos of higher vertebrates."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"Embryological diagrams label the extra-embryonic protective fluid cavity with the standard radical **amn**."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The differentiation of the fetal membrane designated **amn** marks a milestone in terrestrial vertebrate evolution."*

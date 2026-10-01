@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bat; a flying mammal of the order Chiroptera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological texts, an individual bat characterized by hand-derived flight wings (patagia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiropter designates a term designating an entity, condition, or phenomenon derived from greek chir."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skeleton of each **chiropter** displays extreme elongation of the metacarpals and phalanges to support the wing membrane."*
+> - 📜 **Richard Owen (*On the Archetype of the Skeleton*):** *"The true wing of the **chiropter** is formed not by feathers, but by an expansive fold of vascular integument."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"On warm summer evenings, the common noctule **chiropter** wheeled high in the air above the oak trees."*

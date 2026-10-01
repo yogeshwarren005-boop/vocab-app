@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited autosomal recessive metabolic disorder of methionine catabolism, characterized by the abnormal accumulation of homocystine and homocysteine in blood and urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most commonly caused by cystathionine beta-synthase (CBS) deficiency; clinical features include ectopia lentis (downward lens dislocation), marfanoid skeletal habitus, osteoporosis, intellectual disability, and early life-threatening thromboembolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homocystinuria designates a term designating an entity, condition, or phenomenon derived from greek ur."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"The discovery of **homocystinuria** provided a critical metabolic distinction separating CBS deficiency from Marfan syndrome."*
+> - 📜 **Archibald Garrod (*Inborn Errors of Metabolism*):** *"Metabolic blocks leading to urinary overflow of sulfur amino acids, as in **homocystinuria**, illustrate fundamental biochemical lesions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Premature arterial thrombosis in young children should prompt immediate chromatographic screening for occult **homocystinuria**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause the clumping together (of red blood cells).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause the clumping together (of red blood cells).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause red blood cells to clump together (hemagglutinate).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In serology and virology, the action of specific antibodies, lectins, or viral surface proteins that cross-link erythrocytes into visible aggregates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemagglutinate designates cause the clumping together (of red blood cells)."*
+> - 📜 **Karl Landsteiner (*The Specificity of Serological Reactions*):** *"Normal human sera contain isoagglutinins that specifically **haemagglutinate** foreign red blood corpuscles belonging to incompatible blood groups."*
+> - 📜 **Alexander Fleming (*Penicillin and Its Practical Application*):** *"Influenza virus particles possess surface hemagglutinin spikes that bind sialic acid receptors and **haemagglutinate** chicken red cells."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Plant lectins such as concanavalin A are widely used in biochemical assays to **haemagglutinate** erythrocytes by binding cell-surface glycoproteins."*

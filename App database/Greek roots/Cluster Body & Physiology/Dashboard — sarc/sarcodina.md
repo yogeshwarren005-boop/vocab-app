@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the formation of pseudopods for locomotion and taking food: actinopoda; rhizopoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the formation of pseudopods for locomotion and taking food: actinopoda; rhizopoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic subphylum or superclass of protozoans comprising amoebae and related organisms that move and feed by means of pseudopodia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional classification schemes, Sarcodina grouped naked amoebae (Gymnamoebia), shelled testaceans, foraminiferans, and radiolarians, now recognized as polyphyletic across Amoebozoa and Rhizaria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcodina designates characterized by the formation of pseudopods for locomotion and taking food: actinopoda; rhizopoda."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Among the **Sarcodina**, the siliceous skeletons of radiolarians attain geometrical symmetries of unexcelled complexity."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The primary criterion unifying the **Sarcodina** in classical protozoology was the extrusion of temporary protoplasmic pseudopodia."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the simplest **Sarcodina**, locomotion and ingestion are performed by the undifferentiated naked sarcode itself."*

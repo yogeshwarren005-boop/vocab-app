@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek splen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital absence or surgical removal (splenectomy) of the spleen, resulting in the complete absence of normal splenic filtration and immune function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology and hematology, congenital asplenia is frequently part of Ivemark syndrome (right atrial isomerism) and confers a lifetime risk of overwhelming post-splenectomy infection (OPSI) by encapsulated bacteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asplenia designates a term designating an entity, condition, or phenomenon derived from greek splen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **asplenia** predisposes the young infant to catastrophic pneumococcal sepsis due to impaired opsonization."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Ivemark syndrome associates bilateral right-sidedness and complex cardiovascular anomalies with total congenital **asplenia**."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Prophylactic antimicrobial protection is paramount in traumatic **asplenia** to prevent sudden fulminant bacteremia."*

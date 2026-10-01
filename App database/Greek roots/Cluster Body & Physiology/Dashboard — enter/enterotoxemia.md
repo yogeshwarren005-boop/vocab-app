@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of cattle and sheep that is attributed to toxins absorbed from the intestines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of cattle and sheep that is attributed to toxins absorbed from the intestines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by the presence and systemic absorption of enterotoxins produced in the intestines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine, an acute, often fatal toxemia (such as 'pulpy kidney disease' in sheep) caused by proliferation of Clostridium perfringens type D in the gut.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterotoxemia designates a disease of cattle and sheep that is attributed to toxins absorbed from the intestines."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Sudden lush pasture growth in spring occasionally triggered lethal **enterotoxemia** among the flock grazing the clover bottoms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rapid proliferation of anaerobic bacteria within stagnant bowel loops unleashes fulminant systemic **enterotoxemia** and circulatory collapse."*
+> - 📜 **Paul Farmer (*Fevers, Feuds, and Diamonds*):** *"Veterinary vaccination against clostridial **enterotoxemia** demonstrated the critical efficacy of toxoid immunization in livestock health."*

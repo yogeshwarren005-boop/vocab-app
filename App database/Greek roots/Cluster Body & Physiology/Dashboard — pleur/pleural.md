@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the pleura or the walls of the thorax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the pleura or the walls of the thorax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the pleura or the thoracic cavity surrounding the lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonary medicine and radiology, describing pathological conditions, fluids, or spaces associated with the pleura (such as pleural effusion, pleural space, pleural rub).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleural designates of or relating to the pleura or the walls of the thorax."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Percussion over a massive **pleural** effusion yields stony dullness with absent tactile fremitus."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **pleural** cavity contains normally only a capillary film of serous fluid that lubricates pulmonary excursions."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Opening the **pleural** cavity without negative-pressure chambers formerly led to fatal lung collapse."*

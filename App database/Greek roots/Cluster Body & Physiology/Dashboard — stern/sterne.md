@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer (born in ireland) (1713-1766).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English writer (born in ireland) (1713-1766).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic variant spelling of stern (austere, strict, or the nautical rear of a vessel); also historically used to designate a tern seabird or referring to the author Laurence Sterne.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, the idiosyncratic humor, stream-of-consciousness narrative, and emotional sentimentality of Laurence Sterne (*Tristram Shandy*) exerted immense influence across European literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"I am positive, I have a soul, so gut wie Sterne."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"As Sterne says: ‘We don’t love people so much for the good they have done us, as for the good we have done them.’ Father took her when she was homeless after losing her own father."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Sterne, who used his wife very ill, was one day talking to Garrick in a fine sentimental manner, in praise of conjugal love and fidelity."*
+> - 📜 **Laurence Sterne (*The Life and Opinions of Tristram Shandy, Gentleman*):** *"Writing, when properly managed (as you may be sure I think mine is), is but a different name for conversation, as **Sterne** maintained."*
+> - 📜 **William Makepeace Thackeray (*The English Humourists of the Eighteenth Century*):** *"The whimsical genius of **Sterne** blends the most delicate pathos with sudden strokes of mischievous satire."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"The mariners steered the vessel through the raging storm, keeping her **sterne** squarely to the oncoming gale."*

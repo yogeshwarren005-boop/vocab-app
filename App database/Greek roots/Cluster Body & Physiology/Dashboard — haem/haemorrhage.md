@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Copious discharge of blood from ruptured blood vessels; excessive bleeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical surgery and pathology, an acute or chronic vascular extravasation classified as arterial, venous, or capillary, leading to hypovolemic shock if uncontrolled.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Internal haemorrhage," said Lawrence."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"To arrest profuse **haemorrhage** from an open artery, nature employs the spontaneous coagulation of blood within the torn orifice."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"Many a wounded soldier on the field succumbed not to the original bullet, but to secondary **haemorrhage** fostered by unhygienic conditions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cerebral **haemorrhage** usually strikes suddenly with apoplectic shock, precipitated by the rupture of a miliary aneurysm."*

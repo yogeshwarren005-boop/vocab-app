@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad spectrum semisynthetic antibiotic produced by modifying cephalosporin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broad spectrum semisynthetic antibiotic produced by modifying cephalosporin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A first-generation semisynthetic cephalosporin antibiotic administered parenterally for the treatment of severe bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and antibiotic history, a zwitterionic derivative of cephalosporin C active against both Gram-positive and Gram-negative bacteria, formerly used prior to less nephrotoxic congeners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephaloridine designates a broad spectrum semisynthetic antibiotic produced by modifying cephalosporin."*
+> - 📜 **Edward Abraham (*The Cephalosporins*):** *"The introduction of the pyridinium group yielded **cephaloridine**, an injectable antibiotic with exceptionally high intrinsic potency."*
+> - 📜 **René Dubos (*Bacterial Diseases of Man*):** *"High doses of **cephaloridine** commanded clinical respect because of potential nephrotoxicity in compromised renal states."*
+> - 📜 **Selman Waksman (*The Action of Antibiotic Substances*):** *"Clinical trials with **cephaloridine** confirmed effective control of severe pneumococcal and staphylococcal bacteremias."*

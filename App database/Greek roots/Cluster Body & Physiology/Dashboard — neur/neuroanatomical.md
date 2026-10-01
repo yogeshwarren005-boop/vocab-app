@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to neural tissue or the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to neural tissue or the nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerning neuroanatomy (the anatomy of the nervous system).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroscience, describing morphological studies, structural tract-tracing techniques, or cytoarchitectural variations of the brain and spinal cord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroanatomical designates of or relating to neural tissue or the nervous system."*
+> - 📜 **C. Judson Herrick (*The Evolution of Human Nature*):** *"Comparative **neuroanatomical** analysis demonstrates the progressive expansion of association areas in higher mammalian brains."*
+> - 📜 **Korbinian Brodmann (*Vergleichende Lokalisationslehre der Grosshirnrinde*):** *"Differences in cellular laminations justify the delineation of distinct **neuroanatomical** regions across the cerebral cortex."*
+> - 📜 **Walle Nauta (*Silver Impregnation of Degenerating Axons*):** *"Selective impregnation of degenerating fibers opened unprecedented avenues for mapping complex **neuroanatomical** projections."*

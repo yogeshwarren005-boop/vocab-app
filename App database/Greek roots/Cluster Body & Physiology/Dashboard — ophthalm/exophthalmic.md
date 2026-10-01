@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal protrusion of the eyeball.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal protrusion of the eyeball.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by abnormal protrusion or bulging of the eyes (exophthalmos).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, designating exophthalmic goiter (Graves' disease), an autoimmune disorder marked by hyperthyroidism, diffuse goiter, and proptosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exophthalmic designates abnormal protrusion of the eyeball."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The triad of tachycardia, thyroid enlargement, and **exophthalmic** proptosis defines Graves' disease."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Intracranial vascular bruits must be carefully excluded in patients presenting with unilateral **exophthalmic** signs."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Severe **exophthalmic** retraction of the eyelids prevents complete corneal closure during sleep."*

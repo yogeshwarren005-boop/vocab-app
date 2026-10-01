@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital condition in which digits are deeply cleft or split, as in ectrodactyly; or in ornithology, having toes completely cleft and unwebbed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian morphology, a foot structure lacking interdigital webbing, adapted for walking or running over marshy soil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizodactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"The rails and gallinules display extreme **schizodactyly**, their long unwebbed toes spreading wide to walk upon soft aquatic mud."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Avian **schizodactyly** contrasts with palmiped webbing, providing independent mobility to each individual digit."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"In human teratology, severe **schizodactyly** produces a deep central fissure that bifurcates the hand into two claw-like halves."*

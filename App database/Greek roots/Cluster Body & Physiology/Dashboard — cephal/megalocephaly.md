@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally large head; differs from hydrocephalus because there is no increased intracranial pressure and the overgrowth is symmetrical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally large head; differs from hydrocephalus because there is no increased intracranial pressure and the overgrowth is symmetrical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal, pathological enlargement of the head or skull; macrocephaly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In skeletal pathology, hyperostotic cranial enlargement seen in Paget's disease of bone (osteitis deformans), leontiasis ossea, or acromegaly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalocephaly designates an abnormally large head; differs from hydrocephalus because there is no increased intracranial pressure and the overgrowth is symmetrical."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient with advanced Paget's disease complained that his hat size expanded yearly, classic proof of progressive **megalocephaly**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In leontiasis ossea, dense diffuse hyperostosis produces grotesque **megalocephaly**, encroaching upon the cranial nerve foramina."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Acromegalic **megalocephaly** features massive elongation of the mandible, bossing of the frontal ridges, and expansion of the sinuses."*

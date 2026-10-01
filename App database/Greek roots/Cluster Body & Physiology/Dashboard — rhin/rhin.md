@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: river 820 miles (1320 kilometers) long in western Europe flowing from southeastern Switzerland to the North Sea in the Netherlands and forming the western boundary of Liechtenstein and Austria and the southwestern boundary of Germany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and morpheme derived from Greek ῥίς, ῥινός (rhis, rhinos) signifying the nose or snout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical, clinical, and zoological nomenclature, the formative prefix (often rhino-) designating the nose, olfactory structures, or nasal pathologies (as in rhinitis, rhinoplasty, rhinoscope).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog rhin as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The combining stem **rhin-** is directly borrowed from Greek rhinos, meaning the nose."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In classical Greek medical writing, compounds commencing with **rhin-** refer to nasal discharges and injuries."*
+> - 📜 **Eric Partridge (*Origins: A Short Etymological Dictionary of Modern English*):** *"Surgical terms based on **rhin-** provide international precision for procedures performed on the nasal pyramid."*

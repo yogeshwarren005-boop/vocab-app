@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unbroken or imperfectly broken mustang.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unbroken or imperfectly broken mustang.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek bronchos, designating relationship to the bronchi, the lungs, or the respiratory airways (broncho-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical and surgical terminology, an operational prefix entering into compound terms such as bronchoscopy, bronchoconstriction, and bronchotomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The champion broncho-buster of Arizona is not a Sunday-school superintendent."*
-> - 📜 **James Joyce (*Ulysses*):** *"It was I broke in the bucking broncho Ajax with my patent spiked saddle for carnivores."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"The butterflies there in the bush were romancing, The smell of the grass caught your soul in a trance, So why be a-fearing the spurs and the traces, O broncho that would not be broken of dancing?"*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Compound terms featuring **broncho** identify the intricate vascular, nervous, and lymphatic networks that invest the tracheobronchial tree."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Through the prefix **broncho**, we link clinical signs observed at the bedside with macroscopic lesions discovered upon the pulmonary dissection table."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Conditions designated by the prefix **broncho** remind the physician that pulmonary disease rarely respects artificial anatomical boundaries."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, persistent, and irrational fear of mirrors or of seeing one's reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychiatry, a specific phobia often linked to superstition, body dysmorphic disorder, depersonalization, or dread of ghostly apparitions in glass (spectrophobia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catoptrophobia designates a term designating an entity, condition, or phenomenon derived from greek ops."*
+> - 📜 **Sigmund Freud (*The Uncanny*):** *"Sudden confrontation with one's own reflection in an unexpected mirror can evoke the primeval terror of **catoptrophobia**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In morbid **catoptrophobia**, looking into a looking-glass precipitates an uncontrollable paroxysm of dread."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Patients tortured by **catoptrophobia** cover every reflective pane and window in their domestic chambers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stony meteor lacking chondrules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stony meteor lacking chondrules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stony meteorite that does not contain chondrules and has formed by igneous differentiation within a parent planetary body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteoritics and planetary geology, crustal or mantle extraterrestrial rock resembling terrestrial basalts, such as eucrites and martian shergottites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achondrite designates a stony meteor lacking chondrules."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"The basaltic composition of the **achondrite** indicates that extraterrestrial magma bodies underwent fractional crystallization."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"When an **achondrite** lands on Earth, it delivers a pristine chunk of the crust of another shattered world."*
+> - 📜 **Vladimir Vernadsky (*The Biosphere*):** *"Comparative analysis shows that the **achondrite** mirrors deep terrestrial rocks more closely than primitive chondritic dust."*

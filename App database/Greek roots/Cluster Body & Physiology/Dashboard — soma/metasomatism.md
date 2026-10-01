@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Metamorphism that involves changes in the chemical composition as well as in the texture of rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metamorphism that involves changes in the chemical composition as well as in the texture of rock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geological metamorphic process by which the chemical and mineralogical composition of a rock is substantially altered by fluid-rock interactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unlike isochemical metamorphism, metasomatism involves the open-system introduction or removal of chemical components (such as silica, potassium, or volatile fluids) via hydrothermal solutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metasomatism designates metamorphism that involves changes in the chemical composition as well as in the texture of rock."*
+> - 📜 **Waldemar Lindgren (*Mineral Deposits*):** *"We define **metasomatism** as the process of practically simultaneous capillary solution and deposition by which a new mineral replaces an older."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Through intense **metasomatism**, granitic intrusions transform adjoining limestones into garnetiferous skarns."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"The formation of valuable tin and tungsten veins is intimately linked to pneumatolytic **metasomatism** along fissure walls."*

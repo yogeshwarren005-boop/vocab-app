@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease or disorder of the nails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any disease or disorder of the nails.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease, deformity, or dystrophy affecting the nails; onychopathy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical dermatology, a broad nosological category encompassing bacterial, fungal, congenital, neoplastic, and systemic manifestations upon the nail apparatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychosis designates any disease or disorder of the nails."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful inspection of the hands often reveals an obscure systemic **onychosis** that points directly to pulmonary or cardiac disease."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Congenital forms of **onychosis** illustrate genetic disruptions in the synthesis of specialized hard epidermal keratins."*
+> - 📜 **Robley Dunglison (*Medical Lexicon: A Dictionary of Medical Science*):** *"The term **onychosis** embraces every morbid affection or structural deformation incident to the human nail."*

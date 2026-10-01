@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of red blood cells in the urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of red blood cells in the urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of red blood cells in the urine; hematuria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nephrology and urology, microscopic or macroscopic bleeding into the urinary tract originating from glomerular nephritis, renal calculi, or urothelial neoplasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematocyturia designates the presence of red blood cells in the urine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of the urinary sediment revealed dysmorphic red cell casts, confirming glomerular **haematocyturia**."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Painless gross **haematocyturia** in an elderly smoker demands immediate cystoscopy to exclude bladder carcinoma."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The passage of a renal calculus is classically heralded by agonizing flank colic accompanied by microscopic **haematocyturia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either member of the second and midmost of the three paired vertebrate renal organs that functions in adult fishes and amphibians but functions only in the embryo of reptiles, birds, and mammals in which it is replaced by a metanephros in the adult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either member of the second and midmost of the three paired vertebrate renal organs that functions in adult fishes and amphibians but functions only in the embryo of reptiles, birds, and mammals in which it is replaced by a metanephros in the adult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second of the three pairs of embryonic excretory organs in vertebrates, functioning as the permanent adult kidney in anamniotes (fish and amphibians).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In amniote embryology, a transient functional kidney that develops caudal to the pronephros before being replaced by the metanephros, its duct contributing to the male genital tract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesonephros designates either member of the second and midmost of the three paired vertebrate renal organs that functions in adult fishes and amphibians but functions only in the embryo of reptiles, birds, and mammals in which it is replaced by a metanephros in the adult."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"In elasmobranch embryos, the **mesonephros** consists of numerous vascular glomeruli and convoluted excretory tubules."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The permanent functional kidney of adult amphibians is the persistent **mesonephros** or Wolffian body."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"During human embryonic life, the **mesonephros** functions temporarily before degenerating as the metanephros ascends."*

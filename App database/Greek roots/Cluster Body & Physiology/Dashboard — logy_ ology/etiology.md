@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cause of a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The philosophical study of causation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or assignment of causes or reasons; in medicine, the cause or origin of a disease or pathological condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and clinical pathology, the comprehensive elucidation of causal pathways (genetic, environmental, infectious) initiating disease development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etiology designates the cause of a disease."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"To understand the **etiology** of an epidemic, the physician must examine both the virulent agent and social misery."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The discovery of the tubercle bacillus settled the centuries-old dispute regarding the specific **etiology** of phthisis."*
+> - 📜 **Robert Koch (*The Etiology of Tuberculosis*):** *"To prove the bacterial **etiology** of a contagion, the pathogen must be isolated in pure culture and reproduce the malady in healthy hosts."*

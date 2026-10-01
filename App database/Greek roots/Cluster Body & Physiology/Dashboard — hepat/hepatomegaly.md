@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enlargement of the liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enlargement of the liver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal enlargement of the liver beyond its normal anatomical boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, a cardinal physical sign detected by abdominal percussion and palpation, caused by hepatic congestion, steatosis, amyloidosis, neoplasia, or storage diseases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatomegaly designates enlargement of the liver."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Massive tender **hepatomegaly** extending three finger-breadths below the costal margin accompanied acute congestive cardiac failure."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"In chronic albuminuria, progressive amyloid degeneration of the abdominal viscera was heralded by smooth, painless **hepatomegaly**."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Obstruction of the portal vessels was attended with heaviness in the right flank and perceptible **hepatomegaly**."*

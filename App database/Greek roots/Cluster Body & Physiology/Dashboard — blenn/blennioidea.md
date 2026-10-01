@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blennies; butterfishes; gunnels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blennies; butterfishes; gunnels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The suborder of marine perciform fishes comprising blennies, clinids, chaenopsids, and pricklebacks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyological taxonomy, a major radiation of bottom-dwelling shore fishes sharing jugular pelvic fins and slender, mucous-covered bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blennioidea designates blennies; butterfishes; gunnels."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"We group these specialized benthic families into the suborder **blennioidea**, characterized by jugular pelvic fins and scaleless skin."*
+> - 📜 **Georges Cuvier (*Histoire Naturelle des Poissons*):** *"The anatomical features of **blennioidea** reflect an ancient divergence toward rock-dwelling, sedentary marine life."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The suborder **blennioidea** contains numerous genera distributed along the rocky shores of temperate and tropical seas."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family phalangiidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family phalangiidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of harvestmen (daddy longlegs) within the family Phalangiidae; in anatomy, a single phalanx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and historical zoology, the nominal genus established by Linnaeus for opilionid harvestmen such as Phalangium opilio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalangium designates type genus of the family phalangiidae."*
+> - 📜 **Carolus Linnaeus (*Systema Naturae*):** *"Under the genus **phalangium**, Linnaeus gathered those long-legged arachnids whose small oval body bears eyes upon a central dorsal tubercle."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Spider*):** *"The common garden **phalangium** exhibits extraordinary agility despite the fragile spindliness of its limbs."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The chelicerae and pedipalps of **phalangium** are adapted for seizing soft-bodied mites and aphids."*

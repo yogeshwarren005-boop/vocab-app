@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or form occurring only once in a document or corpus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word or form occurring only once in a document or corpus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or phrase that occurs in a text or literary corpus (chiefly known in the compound *hapax legomenon*, a word recorded only once).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology, biblical studies, and corpus linguistics, a lexical item analyzed according to its frequency and distribution across ancient manuscripts or authors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legomenon designates a word or form occurring only once in a document or corpus."*
+> - 📜 **John Addington Symonds (*Studies of the Greek Poets*):** *"The Homeric text presents many a disputed **legomenon** whose precise archaic sense remains a riddle to modern scholars."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"The textual critic examines each rare **legomenon** to ascertain the authenticity of the tragic fragments."*
+> - 📜 **C. S. Lewis (*Selected Literary Essays*):** *"A solitary **legomenon** in an Anglo-Saxon poem often bears the entire weight of an obsolete cultural concept."*

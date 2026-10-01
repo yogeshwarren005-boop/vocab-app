@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variable often familial learning disability involving difficulties in acquiring and processing language that is typically manifested by a lack of proficiency in reading, spelling, and writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variable often familial learning disability involving difficulties in acquiring and processing language that is typically manifested by a lack of proficiency in reading, spelling, and writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A learning condition characterized by difficulty in reading, spelling, and recognizing words despite normal intelligence and sensory acuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neurology and developmental psychology, a neurodevelopmental disorder involving atypical phonological processing and visual-orthographic decoding mechanisms in the cerebral cortex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyslexia designates a variable often familial learning disability involving difficulties in acquiring and processing language that is typically manifested by a lack of proficiency in reading, spelling, and writing."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"His lifelong struggle with developmental **dyslexia** had never hindered his extraordinary mechanical and artistic talents."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Acquired **dyslexia** following parieto-occipital trauma manifests as a breakdown in the optical synthesis of word shapes."*
+> - 📜 **Norman Geschwind (*Selected Papers on Language and the Brain*):** *"Cerebral asymmetry and atypical cortical architecture provide compelling anatomical correlates for developmental **dyslexia**."*

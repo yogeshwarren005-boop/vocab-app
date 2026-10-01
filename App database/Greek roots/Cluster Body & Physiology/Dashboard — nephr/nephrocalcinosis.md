@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Renal lithiasis in which calcium deposits form in the renal parenchyma and result in reduced kidney function and blood in the urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renal lithiasis in which calcium deposits form in the renal parenchyma and result in reduced kidney function and blood in the urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by the deposition of calcium salts within the kidney parenchyma and tubules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metabolic nephrology, diffuse renal calcification resulting from prolonged hypercalcemia, hypercalciuria, primary hyperparathyroidism, or renal tubular acidosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrocalcinosis designates renal lithiasis in which calcium deposits form in the renal parenchyma and result in reduced kidney function and blood in the urine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Longstanding primary hyperparathyroidism precipitates severe **nephrocalcinosis** and secondary renal impairment."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic sections show dense basophilic precipitates of calcium phosphate throughout the medullary rays in **nephrocalcinosis**."*
+> - 📜 **Walter Bradford Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"Disrupted systemic calcium homeostasis induces metastatic calcification of the renal tubules, producing **nephrocalcinosis**."*

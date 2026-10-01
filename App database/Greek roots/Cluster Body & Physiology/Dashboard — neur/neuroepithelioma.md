@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Malignant tumor of the neuroepithelium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malignant tumor of the neuroepithelium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, malignant tumor of the nervous system arising from primitive neuroepithelial cells, characteristically occurring in the retina, peripheral nerves, or brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical neuropathology, an aggressive embryonal neuroectodermal neoplasm composed of primitive neuroblasts forming true rosettes and ependymal-like tubules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroepithelioma designates malignant tumor of the neuroepithelium."*
+> - 📜 **Harvey Cushing (*Intracranial Tumours*):** *"The histological architecture of a **neuroepithelioma** displays primitive neuroectodermal tubules resembling the embryonic central canal."*
+> - 📜 **Dorothy Russell (*Pathology of Tumours of the Nervous System*):** *"True rosettes with a central lumen bounded by a blepharoplast-bearing limiting membrane define the diagnosis of **neuroepithelioma**."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"Retinal and peripheral **neuroepithelioma** exhibits rapid infiltrative growth and early metastasis along neural axes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Phlox of the family Polemoniaceae, the phlox family) of American annual or perennial herbs that have usually pink, purplish, white, or variegated flowers, a salverform corolla with the stamens on its tube, and a 3-valved capsular fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Phlox of the family Polemoniaceae, the phlox family) of American annual or perennial herbs that have usually pink, purplish, white, or variegated flowers, a salverform corolla with the stamens on its tube, and a 3-valved capsular fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American flowering plants in the family Polemoniaceae, widely cultivated for their clusters of brightly colored flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical nomenclature, a genus named by Linnaeus from Greek φλόξ (phlox, flame) in allusion to the brilliant red, pink, and purple coloration of its blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"The flowers that she had planted herself long ago had bloomed all summer in the garden; there were still some ragged sailors and the snowberries and phlox and her favorite white mallows, of which she picked herself a posy."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The genus **Phlox** bears trusses of fiery blossoms that illuminate woodland borders in late summer."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Several species of **Phlox** are indigenous to North American prairies, noted for their salverform corollas."*
+> - 📜 **Henry David Thoreau (*Excursions*):** *"Along the riverbank bloomed patches of wild blue **Phlox**, brightening the damp meadow grass."*

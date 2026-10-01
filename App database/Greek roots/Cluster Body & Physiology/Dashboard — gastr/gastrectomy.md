@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of all or part of the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of all or part of the stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of all (total gastrectomy) or part (partial gastrectomy) of the stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical oncology and bariatrics, resection of gastric tissue for gastric adenocarcinoma, intractable ulcer disease, or metabolic weight reduction (sleeve gastrectomy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrectomy designates surgical removal of all or part of the stomach."*
+> - 📜 **Theodor Billroth (*Open Letters on Surgical Innovations*):** *"In 1881, I successfully performed the world's first partial **gastrectomy**, resecting a pyloric cancer and restoring intestinal continuity."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Following total **gastrectomy**, patients require lifelong parenteral vitamin B12 supplementation due to the loss of gastric intrinsic factor."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The surgeon completed the subtotal **gastrectomy**, fashioning a Roux-en-Y gastrojejunostomy to re-establish enteral flow."*

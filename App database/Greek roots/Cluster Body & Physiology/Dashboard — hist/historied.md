@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an illustrious past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an illustrious past.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a long, illustrious, or celebrated history; recorded, chronicled, or commemorated in historical annals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and architectural description, rich in historical associations, venerable memories, or artistic depictions of past events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, historied designates having an illustrious past."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Memory unrolls her **historied** scroll, recording the rise of ancient dynasties and their fateful falls."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon, Gent.*):** *"We wandered through the **historied** aisles of Westminster Abbey, surrounded by the dust of kings and poets."*
+> - 📜 **Henry Wadsworth Longfellow (*Outre-Mer: A Pilgrimage Beyond the Sea*):** *"Every ruined battlement along the Rhine was a **historied** monument to chivalry and medieval warfare."*

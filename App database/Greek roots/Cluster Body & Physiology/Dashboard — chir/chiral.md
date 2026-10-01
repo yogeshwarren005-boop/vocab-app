@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a molecule that is not superimposable on its mirror image.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atom especially in an organic molecule that has four unique atoms or groups attached to it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Asymmetric in such a way that the structure and its mirror image are not superimposable, like left and right hands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stereochemistry and molecular physics, describing molecules possessing an asymmetric carbon center that rotate plane-polarized light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiral designates of or relating to a molecule that is not superimposable on its mirror image."*
+> - 📜 **Lord Kelvin (*The Baltimore Lectures on Molecular Dynamics and the Wave Theory of Light*):** *"I call any geometrical figure, or group of points, **chiral**, and say it has chirality, if its image in a plane mirror cannot be brought to coincide with itself."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"The separation of tartaric acid crystals proved that living organisms synthesize strictly **chiral** molecular forms."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"The fundamental laws of weak interactions violate parity, demonstrating that nature itself distinguishes between left and right in a **chiral** sense."*

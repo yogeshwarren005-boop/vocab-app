@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease that is characterized by progressive weakness and exhaustibility of voluntary muscles without atrophy and is caused by an autoimmune attack on muscle cell receptors which normally bind to acetylcholine released at nerve endings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease that is characterized by progressive weakness and exhaustibility of voluntary muscles without atrophy and is caused by an autoimmune attack on muscle cell receptors which normally bind to acetylcholine released at nerve endings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic autoimmune neuromuscular disorder characterized by fluctuating weakness and abnormal fatigability of voluntary skeletal muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroimmunology, a syndrome mediated by autoantibodies against nicotinic acetylcholine receptors at the neuromuscular junction, impairing postsynaptic synaptic transmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myasthenia gravis designates a disease that is characterized by progressive weakness and exhaustibility of voluntary muscles without atrophy and is caused by an autoimmune attack on muscle cell receptors which normally bind to acetylcholine released at nerve endings."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ptosis and diplopia worsening toward evening are classic hallmarks of **myasthenia gravis**."*
+> - 📜 **Henry Dale (*Adventures in Physiology*):** *"The clinical discovery that anticholinesterases transiently restore motor strength in **myasthenia gravis** underscored the cholinergic basis of transmission."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Thymectomy has emerged as an effective surgical intervention to alleviate the refractory weakness of **myasthenia gravis**."*

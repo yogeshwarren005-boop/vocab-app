@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bronch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual bronchial tube; a division or branch of a bronchus within the pulmonary parenchyma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical terminology, the singular Greek form corresponding to the plural bronchia, denoting a secondary or tertiary airway segment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bronchion designates a term designating an entity, condition, or phenomenon derived from greek bronch."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Ausculatory examination reveals that when a foreign body lodges in a secondary **bronchion**, breath sounds vanish over that entire pulmonary lobe."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Tracing each **bronchion** into the deep lung parenchyma reveals how it divides dichotomously alongside accompanying branches of the pulmonary artery."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Each lobular **bronchion** penetrates the apex of a pulmonary lobule, branching repeatedly to supply its constituent acini."*

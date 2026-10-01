@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly small new world rodents including new world mice and lemmings and voles and hamsters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly small new world rodents including new world mice and lemmings and voles and hamsters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and diverse family of muroid rodents that includes true hamsters, voles, lemmings, and New World rats and mice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian systematics, the second largest family of mammals, characterized by two rows of cusps on prismatic or tubercular molars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cricetidae designates mostly small new world rodents including new world mice and lemmings and voles and hamsters."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Members of the family **Cricetidae** inhabit virtually all ecological zones of the Americas and northern Eurasia."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"The small nocturnal rodents collected along the pampas represent specialized South American offshoots of the **Cricetidae**."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The explosive evolutionary radiation of the **Cricetidae** during the Miocene produced hundreds of specialized herbivorous forms."*

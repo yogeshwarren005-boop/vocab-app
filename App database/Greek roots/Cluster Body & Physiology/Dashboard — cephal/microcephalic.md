@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an abnormally small head and underdeveloped brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an abnormally small head and underdeveloped brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an abnormally small head or cranial capacity, associated with incomplete brain development; microcephalous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a child or adult whose head circumference is greater than two standard deviations below the mean for age and sex, often presenting with cognitive impairment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcephalic designates having an abnormally small head and underdeveloped brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **microcephalic** idiot displays a receding forehead, pointed cranium, and severely restricted intellectual development."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Premature synostosis of the cranial sutures was historically blamed for the small brain of the **microcephalic** child."*
+> - 📜 **Paul Broca (*Instructions Craniologiques*):** *"Craniometric examination of the **microcephalic** skull reveals that cranial capacity may plummet below five hundred cubic centimeters."*

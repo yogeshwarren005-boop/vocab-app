@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement into or inward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of entering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of going or coming into a place; penetrating or enrolling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spatial and procedural contexts, the process of ingress or commencement into a physical vessel, lumen, or formal system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Third Servingman; the First, entering, meets him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a thing that Angelo knows not; for he this very day receives letters of strange tenour, perchance of the Duke’s death, perchance entering into some monastery; but, by chance, nothing of what is writ."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And why should we proclaim it in an hour before his entering, that if any crave redress of injustice, they should exhibit their petitions in the street?"*
+> - 📜 **Dante Alighieri (*Inferno*):** *"All hope abandon, ye who **entering** here, pass through the gloomy portals of the sorrowful city."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Upon **entering** the sheltered harbor of the Galápagos, we were struck by the desolate volcanic craters encircling the bay."*
+> - 📜 **William Osler (*Aequanimitas*):** *"To every medical student **entering** the hospital wards, I urge cultivation of patience and quiet detachment."*

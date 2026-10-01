@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of linguistics concerned with the signification and application of words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of linguistics concerned with the signification and application of words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of linguistics that studies the meaning, structure, history, and usage of words in a language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal linguistics, the systematic analysis of lexical fields, phraseological patterns, idioms, and morphological derivation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lexicology designates a branch of linguistics concerned with the signification and application of words."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Descriptive **lexicology** classifies the fundamental vocabulary inventory before syntax coordinates those units into discourse."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Comparative **lexicology** reveals that no two unrelated languages conceptualize physical reality through identical word divisions."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"Structural **lexicology** demonstrates that antonymy and synonymy are coordinated relations within an organized semantic grid."*

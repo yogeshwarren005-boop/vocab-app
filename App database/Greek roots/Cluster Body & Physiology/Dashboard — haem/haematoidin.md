@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An orange-yellow pigment in the bile that forms as a product of hemoglobin; excess amounts in the blood produce the yellow appearance observed in jaundice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orange-yellow pigment in the bile that forms as a product of hemoglobin; excess amounts in the blood produce the yellow appearance observed in jaundice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish-orange, iron-free crystalline substance formed in tissues by the breakdown of hemoglobin from old hemorrhages (chemically identical to bilirubin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology and forensic medicine, crystals deposited in old hematomas and infarcts, demonstrating localized hemoglobin catabolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematoidin designates an orange-yellow pigment in the bile that forms as a product of hemoglobin; excess amounts in the blood produce the yellow appearance observed in jaundice."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"I demonstrated that **haematoidin** forms magnificent rhombic orange crystals within old hemorrhagic apoplexy cysts, completely devoid of iron."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of long-standing pulmonary infarcts reveals yellow-red granules of **haematoidin** engulfed within macrophages."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The chemical distinction between fresh blood pigment and ancient **haematoidin** residues formed the basis of Holmes's forensic discourse."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spondyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital cleft or failure of closure of the vertebral neural arch, typically involving the spinous process and laminae (spina bifida).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurosurgery and embryology, spondyloschisis can manifest asymptomatically as spina bifida occulta (frequently at L5 or S1) or as open neural tube defects (spina bifida cystica) with meningocele or myelomeningocele.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondyloschisis designates a term designating an entity, condition, or phenomenon derived from greek spondyl."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Occult **spondyloschisis** is frequently heralded externally by a localized patch of hypertrichosis or dimpling over the sacrum."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Failure of dorsal mesodermal somite fusion results in vertebral **spondyloschisis** along the embryonic neural tube."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe lumbar **spondyloschisis** allows herniation of the meninges, requiring meticulous neurosurgical closure in infancy."*

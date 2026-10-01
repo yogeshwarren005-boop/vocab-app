@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hidrot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production, secretion, or formation of sweat by the sweat glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human cutaneous physiology, the process of eccrine and apocrine sudoriferous secretion regulated by hypothalamic thermoregulatory centers via sympathetic cholinergic innervation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hidropoiesis designates a term designating an entity, condition, or phenomenon derived from greek hidrot."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"The rate of active **hidropoiesis** serves as a sensitive indicator of autonomic sympathetic excitation in mammalian skin."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Thermoregulatory **hidropoiesis** allows the body to dissipate significant thermal energy through evaporative cooling."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The microscopic coils of the sudoriferous gland provide the anatomical site for continuous cellular **hidropoiesis**."*

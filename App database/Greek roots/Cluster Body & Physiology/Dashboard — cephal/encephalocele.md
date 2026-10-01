@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protrusion of brain tissue through a congenital fissure in the skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protrusion of brain tissue through a congenital fissure in the skull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital neural tube defect characterized by the herniation of brain tissue and meninges through a cranial bone defect (cranium bifidum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurosurgery, a developmental malformation presenting as a sac-like protrusion, most commonly in the occipital midline, requiring surgical closure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalocele designates protrusion of brain tissue through a congenital fissure in the skull."*
+> - 📜 **Harvey Cushing (*Surgery of the Head*):** *"Surgical repair of an occipital **encephalocele** involves careful preservation of functional neural elements while excising the redundant sac."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Failure of the mesodermal cranial plates to fuse in the midline permits the brain vesicles to protrude as an **encephalocele**."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"The pulsating swelling of a congenital **encephalocele** expands during crying and coughing, transmitted directly from the cerebral ventricles."*

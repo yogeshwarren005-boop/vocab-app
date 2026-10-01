@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hemostatic; especially : an instrument for compressing a bleeding vessel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hemostatic; especially : an instrument for compressing a bleeding vessel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical clamp or forceps designed to compress blood vessels to arrest hemorrhage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any chemical agent, pharmaceutical dressing, or mechanical appliance utilized to arrest or prevent bleeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemostat designates hemostatic; especially : an instrument for compressing a bleeding vessel."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"The delicate curved **hemostat** grasps only the bleeding vessel tip, sparing surrounding tissue from unnecessary crushing trauma."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"The application of a sterilized **hemostat** promptly halted the spurting digital branch prior to ligature application."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"With swift precision, the operator snapped a **hemostat** onto the deep vessel, instantly halting the scarlet fountain."*

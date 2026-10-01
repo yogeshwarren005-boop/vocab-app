@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of rib, side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of rib, side.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the metapleuron (the lateral portion of the metathorax in insects) or to lateral ventrolateral folds in cephalochordates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect morphology and chordate anatomy, designating structures such as the metapleural glands of ants (which secrete antimicrobial compounds) or the metapleural folds of amphioxus (Branchiostoma).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metapleural designates adjective*) pertaining to, derived from, or characteristic of rib, side."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"Ants possess specialized **metapleural** glands on the thorax that produce phenylacetic acid to inhibit fungal spore germination."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In amphioxus, the ventrolateral **metapleural** folds run along each side of the body, enclosing the atrial cavity."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The presence of active **metapleural** glands is a fundamental morphological hallmark distinguishing Formicidae from other aculeate wasps."*

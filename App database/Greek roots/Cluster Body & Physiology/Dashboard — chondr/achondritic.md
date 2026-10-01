@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to an achondrite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a granular structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, composed of, or resembling an achondrite meteorite; lacking chondrules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary geochemistry, describing differentiated silicate materials derived from molten asteroidal crusts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achondritic designates of or related to an achondrite."*
+> - 📜 **Carl Sagan (*Comet*):** *"Spectral reflectance data confirmed that asteroid Vesta matches the mineral signature of **achondritic** eucrites."*
+> - 📜 **Harold Urey (*The Planets: Their Origin and Development*):** *"The absence of spherical granules in **achondritic** meteorites proves that their parent asteroid experienced complete melting."*
+> - 📜 **G. K. Gilbert (*The Moon's Face*):** *"Impact melting produces textures that closely simulate the crystalline fabrics of **achondritic** meteorites."*

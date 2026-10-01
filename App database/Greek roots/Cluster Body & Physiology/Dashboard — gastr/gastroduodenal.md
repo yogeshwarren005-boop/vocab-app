@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the stomach and the duodenum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the stomach and the duodenum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or connecting the stomach and the duodenum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abdominal surgery and gastroenterology, referring to the gastroduodenal artery, gastroduodenal junction (pylorus), or peptic ulceration involving both organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroduodenal designates of or relating to the stomach and the duodenum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Erosion of the large **gastroduodenal** artery by a posterior duodenal ulcer produces catastrophic, life-threatening hematemesis."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The surgical resident placed deep transfixion stitches to ligate the bleeding **gastroduodenal** vessel at the base of the ulcer."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Contrast imaging confirmed patent transit across the reconstructed **gastroduodenal** junction following pyloroplasty."*

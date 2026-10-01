@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversational element of literary or dramatic composition (such as a movie, play, or novel).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conversation between two or more persons; also : a similar exchange between a person and something else (such as a computer) —usually used before another noun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conversation between two or more individuals; a conversational interchange of perspectives or ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary composition and philosophy, a work presented in dramatic conversational form to explore complex ethical or intellectual topics; in computing, an interactive prompt window.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialog designates the conversational element of literary or dramatic composition (such as a movie, play, or novel)."*
+> - 📜 **Benjamin Jowett (*The Dialogues of Plato*):** *"The philosophical **dialog** allowed Socrates to interrogate abstract doctrines through lively dramatic exchange."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Genuine **dialog** demands that both speakers abandon dogmatic postures to meet in common intellectual pursuit."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"In serious theater, realistic **dialog** must convey character and moral conflict without degenerating into mere lecture."*

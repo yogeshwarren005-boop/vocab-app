@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the kidneys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned with the kidneys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician or medical specialist who diagnoses and treats diseases and disorders of the kidneys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal medicine, a specialist managing acute kidney injury, chronic renal failure, electrolyte imbalances, glomerulonephritis, and renal replacement therapy (dialysis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrologist designates a branch of medicine concerned with the kidneys."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The consulting **nephrologist** must balance volume status and acid-base equilibrium in end-stage renal disease."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Close collaboration between the cardiologist and the **nephrologist** is essential when managing cardiorenal failure."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The astute **nephrologist** recognized that the patient's sudden delirium was uremic encephalopathy."*

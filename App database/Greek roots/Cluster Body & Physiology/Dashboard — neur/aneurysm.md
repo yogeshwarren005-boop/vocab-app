@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal blood-filled bulge of a blood vessel and especially an artery resulting from weakening (as from disease) of the vessel wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal blood-filled bulge of a blood vessel and especially an artery resulting from weakening (as from disease) of the vessel wall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A localized, abnormal balloon-like distension or dilatation of a blood vessel, typically an artery, caused by a weakening of the vascular wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular surgery and cardiovascular pathology, a structural lesion classified as true (involving all three arterial wall layers) or false (pseudoaneurysm), posing catastrophic risks of rupture, thrombosis, or embolization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aneurysm designates an abnormal blood-filled bulge of a blood vessel and especially an artery resulting from weakening (as from disease) of the vessel wall."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Syphilitic aortitis remains the most frequent underlying etiology in the development of a large saccular aortic **aneurysm**."*
+> - 📜 **Rudolph Matas (*Testing the Efficiency of the Collateral Circulation*):** *"Endoaneurysmorrhaphy permits the obliteration or reconstruction of the **aneurysm** sac while preserving the lumen of the parent trunk."*
+> - 📜 **Harvey Cushing (*Intracranial Tumours*):** *"An unruptured berry **aneurysm** at the circle of Willis may mimic a parasellar neoplasm by compressing the optic chiasm."*

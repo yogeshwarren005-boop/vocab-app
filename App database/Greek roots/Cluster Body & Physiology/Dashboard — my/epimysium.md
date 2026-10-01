@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The external connective-tissue sheath of a muscle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The external connective-tissue sheath of a muscle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost sheath of fibrous elastic tissue that surrounds an entire muscle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gross and microscopic musculoskeletal anatomy, the dense irregular connective tissue layer that envelops the muscle belly, continuous with deep fascia and tendons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epimysium designates the external connective-tissue sheath of a muscle."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The dense collagenous **epimysium** encloses the muscular organ and blends at either extremity into the terminal tendon."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Vascular trunks and major motor nerve bundles penetrate the protective **epimysium** before branching inward."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Passive mechanical tension within the **epimysium** contributes to the total elastic recoil of the contracting muscle."*

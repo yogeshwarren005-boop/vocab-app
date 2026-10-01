@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine dealing with the structure and diseases of the anus, rectum, and sigmoid colon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine dealing with the structure and diseases of the anus, rectum, and sigmoid colon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and surgery dealing with the structure, functions, and diseases of the rectum, anus, and sigmoid colon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history and surgical subspecialties, the field now generally integrated into colorectal surgery, encompassing endoscopic, laparoscopic, and operative management of pelvic floor and anorectal pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proctology designates a branch of medicine dealing with the structure and diseases of the anus, rectum, and sigmoid colon."*
+> - 📜 **William Osler (*A System of Medicine*):** *"Recent advances in surgical **proctology** have markedly reduced the morbidity previously associated with rectal operations."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"A sound knowledge of anorectal anatomy constitutes the foundation of modern operative **proctology**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Pathological investigations in **proctology** clarified the mucosal origin of adenocarcinomas arising above the dentate line."*

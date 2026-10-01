@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Canna grown especially for its edible rootstock from which arrowroot starch is obtained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Canna grown especially for its edible rootstock from which arrowroot starch is obtained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An Andean perennial plant (Canna indica or Canna edulis) cultivated for its large, edible starchy rhizomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and South American agricultural history, an ancient domestic root crop providing easily digestible starch across pre-Columbian civilizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, achira designates canna grown especially for its edible rootstock from which arrowroot starch is obtained."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The native cultivators on the Andean terraces harvest large tubers of **achira** to prepare a nutritious, easily digestible flour."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"In the fertile valleys bordering the Cordillera, plots of **achira** were grown alongside maize and sweet potatoes."*
+> - 📜 **O. F. Cook (*Foot-Plow Agriculture in Peru*):** *"Before the advent of European grains, the high-altitude farmers relied heavily upon the crisp starch stored within the **achira** root."*

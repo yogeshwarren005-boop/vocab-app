@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cardi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic tracing of the electrical potentials produced by the beating heart muscle, recorded from electrodes placed on the surface of the body (ECG).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, a fundamental diagnostic recording displaying P waves, QRS complexes, and T waves used to evaluate arrhythmias, conduction blocks, and myocardial infarction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiogram_ecg designates a term designating an entity, condition, or phenomenon derived from greek cardi."*
+> - 📜 **Willem Einthoven (*The Galvanometric Registration of the Human Electrocardiogram*):** *"The **electrocardiogram (ECG)** registers with mathematical fidelity the tiny electrical currents produced by each cardiac cycle."*
+> - 📜 **Thomas Lewis (*Clinical Disorders of the Heart Beat*):** *"In atrial fibrillation, the normal P waves on the **electrocardiogram (ECG)** are replaced by rapid, chaotic fibrillary waves."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"ST-segment elevation on the Twelve-Lead **electrocardiogram (ECG)** provides unmistakable confirmation of acute coronary occlusion."*

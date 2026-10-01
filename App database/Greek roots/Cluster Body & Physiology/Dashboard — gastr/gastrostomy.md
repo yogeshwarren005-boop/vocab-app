@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stomat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Physics & Chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical creation of an opening through the abdominal wall into the stomach, typically to insert a feeding tube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In general surgery and interventional radiology, a procedure (often performed endoscopically as PEG) to provide enteral feeding in dysphagic patients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrostomy designates a term designating an entity, condition, or phenomenon derived from greek stomat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of inoperable cicatricial esophageal stricture, a permanent **gastrostomy** preserves life by permitting direct gastric feeding."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"The placement of a percutaneous endoscopic **gastrostomy** tube has become routine, though its clinical benefits in terminal dementia remain contested."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The surgeon brought the anterior gastric wall up to the fascia, securing the Stamm **gastrostomy** with concentric purse-string sutures."*

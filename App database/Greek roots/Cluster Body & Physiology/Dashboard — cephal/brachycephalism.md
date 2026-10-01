@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being brachycephalic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being brachycephalic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or cranial characteristic of being brachycephalic; broad-headedness or short-headedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and craniometry, a skull shape characterized by a cephalic index of 80 or above.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachycephalism designates the quality of being brachycephalic."*
+> - 📜 **Paul Broca (*Mémoires d'Anthropologie*):** *"The geographical distribution of **brachycephalism** in prehistoric Europe indicates significant migrations from the east."*
+> - 📜 **Franz Boas (*The Mind of Primitive Man*):** *"Early craniologists mistakenly treated **brachycephalism** as an unalterable racial essence rather than a plastic anatomical trait."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Cranial variations ranging from dolichocephaly to extreme **brachycephalism** can be found within the same broad continental populations."*

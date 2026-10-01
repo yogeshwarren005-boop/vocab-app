@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The thin inner membrane of the amniotic sac that fills with the amniotic fluid and that in placental mammals also contains the umbilical cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A membrane analogous to the amnion and occurring in various invertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost delicate, membranous sac that encloses the developing embryo of a reptile, bird, or mammal in amniotic fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, the extra-embryonic ectodermal and mesodermal membrane providing a protective fluid cushion for terrestrial vertebrate embryos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amnion designates the thin inner membrane of the amniotic sac that fills with the amniotic fluid and that in placental mammals also contains the umbilical cord."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The formation of the **amnion** provides the embryo with an artificial aquatic environment necessary for terrestrial survival."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"The evolution of the protective **amnion** allowed the ancestors of reptiles and mammals to conquer dry land."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Folds of somatopleure arch over the dorsal surface of the germ, fusing to create the closed cavity of the **amnion**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spondyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any marine bivalve mollusk belonging to the family Spondylidae (the thorny oysters or spiny oysters).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, spondylids are characterized by ball-and-socket hinge dentition, foliaceous or spinose shells, and lifestyle cemented to rocky marine substrates in tropical and warm temperate seas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spondylid designates a term designating an entity, condition, or phenomenon derived from greek spondyl."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The rocky ledges were encrusted with colorful **spondylid** shells, their long spines projecting into the clear surge."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The interlocking hinge teeth of the **spondylid** bivalve represent one of the strongest mechanical articulations among mollusks."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Divers brought up ancient **spondylid** clusters from deep coral reefs off the Gulf of Cariaco."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting glia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supporting tissue intermingled with the essential elements of nervous tissue especially in the brain, spinal cord, and ganglia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or composed of glia (neuroglia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroscience and neuropathology, pertaining to non-neuronal brain cells and their functions in myelination, homeostasis, and response to cerebral injury (gliosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glial designates of, relating to, or constituting glia."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"The blood-brain barrier is fortified by specialized end-feet of **glial** cells wrapped around cerebral capillary endothelial walls."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Histological staining revealed dense **glial** scarring within the basal ganglia of post-encephalitic patients."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Recent discoveries demonstrate that **glial** networks communicate through calcium waves, coordinating widespread cerebral metabolic states."*

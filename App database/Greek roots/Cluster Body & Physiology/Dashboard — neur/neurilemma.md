@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin membranous sheath around a nerve fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thin membranous sheath around a nerve fiber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The delicate, thin outermost cytoplasmic sheath of Schwann cells investing the myelin sheath of peripheral nerve fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the cellular sheath essential for peripheral nerve regeneration, forming tubes along which sprouting axons navigate following injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurilemma designates thin membranous sheath around a nerve fiber."*
+> - 📜 **Theodor Schwann (*Microscopical Researches into the Accordance in the Structure and Growth of Animals and Plants*):** *"The structureless outer membrane enclosing the fatty matter of the nerve fiber corresponds to the cellular sheath termed the **neurilemma**."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The nuclei of the **neurilemma** belong to the cells of Schwann, whose protoplasm wraps tightly about the axon cylinder."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Each tubular nerve fiber is bounded externally by a delicate transparent envelope, the sheath of Schwann or **neurilemma**."*

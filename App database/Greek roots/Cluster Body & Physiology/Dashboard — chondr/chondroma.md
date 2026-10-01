@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chondr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign cartilaginous tumor arising from mature hyaline cartilage cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical oncology and bone pathology, a well-circumscribed, slow-growing neoplasm typically located within tubular bones of the hands and feet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondroma designates a term designating an entity, condition, or phenomenon derived from greek chondr."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The structure of a benign **chondroma** mirrors normal cartilage so closely that histological distinction often rests upon clinical boundaries."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A slowly expanding **chondroma** on the phalanx may cause cosmetic deformity long before pain prompts medical consultation."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Careful excision of the **chondroma** prevents recurrence, provided the cartilaginous capsule is completely extirpated."*

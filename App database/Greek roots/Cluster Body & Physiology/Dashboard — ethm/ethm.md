@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ethm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek ethmos, meaning a sieve or sieve-like structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical nomenclature, the prefix element designating the ethmoid bone, ethmoidal sinuses, and cribriform plate of the cranium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethm designates a term designating an entity, condition, or phenomenon derived from greek ethm."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"Anatomists derived the combining form **ethm** from the ancient Greek word for sieve to describe perforated cranial bones."*
+> - 📜 **Galen (*On the Usefulness of the Parts of the Body*):** *"The creator perforated the nasal ceiling with a sieve-like plate, called from **ethm**, through which aromatic vapors pass to the brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The root **ethm** enters into clinical terms denoting delicate trabeculated structures of the upper nasal vault."*

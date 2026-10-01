@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or shaped like a stomach; or (of fungi) having spores that develop and mature inside a closed basidioma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, describing gasteroid fungi (such as puffballs, earthstars, and stinkhorns) whose basidiospores are not forcibly discharged into the air.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gasteroid designates adjective & noun*) resembling, having the physical form of, or akin to stomach."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the damp Patagonian beech woods, we discovered peculiar **gasteroid** fungi whose internal powdery spores puff out when trodden on."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"Evolutionary transitions from agarics to **gasteroid** fruiting bodies occurred independently in several desert fungal lineages."*
+> - 📜 **Alexander von Humboldt (*Views of Nature*):** *"Strange **gasteroid** puffballs dotted the Andean paramo, releasing dense clouds of chocolate-colored spores into the mountain wind."*

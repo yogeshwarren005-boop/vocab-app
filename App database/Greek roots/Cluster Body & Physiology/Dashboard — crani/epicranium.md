@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscle and aponeurosis and skin covering the cranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The muscle and aponeurosis and skin covering the cranium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The structures covering the cranium, especially the scalp and the muscular-aponeurotic layer (galea aponeurotica).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect anatomy, the upper dorsal sclerite or crown of the head between the compound eyes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicranium designates the muscle and aponeurosis and skin covering the cranium."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The antennae of the grasshopper arise from the anterior margin of the heavily chitinized **epicranium**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Subaponeurotic hematomas spread widely beneath the **epicranium**, bounded only by the cranial attachments of the scalp."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"In beetles, the compound eyes are embedded into lateral notches of the protective **epicranium**."*

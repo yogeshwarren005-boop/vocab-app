@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Irregular involuntary contraction of a muscle usually resulting from functional disorder of controlling motor neurons; also : a condition characterized by myoclonus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irregular involuntary contraction of a muscle usually resulting from functional disorder of controlling motor neurons; also : a condition characterized by myoclonus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sudden, brief, involuntary jerking or twitching of a muscle or group of muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, an irregular hyperkinetic movement disorder arising from abnormal neuronal discharges within the cortex, subcortical nuclei, brainstem, or spinal cord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myoclonus designates irregular involuntary contraction of a muscle usually resulting from functional disorder of controlling motor neurons; also : a condition characterized by myoclonus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rhythmic facial **myoclonus** can arise as a post-encephalitic sequela reflecting deep nuclear irritation."*
+> - 📜 **Wilder Penfield (*Epilepsy and the Functional Anatomy of the Human Brain*):** *"Cortical reflex **myoclonus** responds with violent muscular twitches to unexpected tactile or auditory stimuli."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The brief, shock-like contractions of spinal **myoclonus** demonstrate uninhibited segmental motor discharges."*

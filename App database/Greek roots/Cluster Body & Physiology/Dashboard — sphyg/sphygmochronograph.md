@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sphyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized sphygmograph incorporating a high-precision chronometer or time-recording mechanism to record arterial pulse waveforms alongside exact intervals of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In late nineteenth-century cardiovascular physiology, the instrument allowed researchers to measure the transmission velocity of the arterial pulse wave and estimate cardiac pre-ejection periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphygmochronograph designates a term designating an entity, condition, or phenomenon derived from greek sphyg."*
+> - 📜 **Étienne-Jules Marey (*La circulation du sang à l'état physiologique et dans les maladies*):** *"By coupling a tuning fork vibration to the lever of the **sphygmochronograph**, pulse transit times were recorded with millisecond accuracy."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"The calibrated tracing of the **sphygmochronograph** demonstrates that the pulse wave outruns the actual forward velocity of blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Experimental use of the **sphygmochronograph** assisted clinicians in analyzing the delayed pulse characteristic of aortic stenosis."*

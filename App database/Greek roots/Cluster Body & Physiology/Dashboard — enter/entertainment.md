@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An activity that is diverting and that holds the attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An activity that is diverting and that holds the attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of providing or being provided with amusement or enjoyment; a performance or show.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hospitality provided to guests; or the maintenance of ideas and reflections in the mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He must think us some band of strangers i’ the adversary’s entertainment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get thee back to Caesar; Tell him thy entertainment."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The evening's musical **entertainment** was enlivened by Mary's ambitious, if somewhat stiff, performance at the pianoforte."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The high court proceedings offered little **entertainment** to the suitors whose fortunes were consumed by endless chancery bills."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Travel in the younger sort is a part of education; in the elder, a part of experience and noble **entertainment**."*

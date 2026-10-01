@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by nephritis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the kidneys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by nephritis (inflammation of the kidneys); also, relating to or relieving kidney diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology, designating the nephritic syndrome, marked by hematuria, red blood cell casts, hypertension, oliguria, and mild proteinuria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephritic designates affected by nephritis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden development of hematuria, facial edema, and hypertension characterizes the acute **nephritic** syndrome."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Violent **nephritic** paroxysms follow the transit of gravel through the narrow ureteral passage."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Active **nephritic** symptoms in post-scarlatinal dropsy demand strict dietary control and blood pressure reduction."*

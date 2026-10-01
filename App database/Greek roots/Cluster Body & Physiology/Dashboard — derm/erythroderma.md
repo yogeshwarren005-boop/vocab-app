@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek derm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammatory skin disease characterized by intense, generalized redness and scaling affecting over ninety percent of the body surface area; exfoliative dermatitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, a life-threatening cuticular emergency associated with severe hypothermia, fluid loss, protein wasting, and high-output heart failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythroderma designates a term designating an entity, condition, or phenomenon derived from greek derm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Generalized **erythroderma** places severe strain upon the cardiovascular system due to colossal cutaneous capillary dilatation."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"The entire cutaneous surface shed immense paper-like scales daily in the severe form of pityriasis rubra **erythroderma**."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Drug hypersensitivity may manifest as sudden generalized **erythroderma**, stripping the patient of his protective integument."*

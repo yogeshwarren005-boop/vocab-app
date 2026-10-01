@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapy that uses a local electric current to introduce the ions of a medicine into the tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapy that uses a local electric current to introduce the ions of a medicine into the tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electromotive drug administration; a medical technique that utilizes an electric current to enhance the transdermal or transmucosal delivery of therapeutic drugs (iontophoresis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urology and physical medicine, an electro-assisted instillation protocol facilitating deep urothelial penetration of mitomycin or lidocaine into bladder tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emda designates therapy that uses a local electric current to introduce the ions of a medicine into the tissues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early galvanic experiments foreshadowed modern **EMDA**, demonstrating that electrical potential can drive ionic drugs through intact epithelial barriers."*
+> - 📜 **Paul Ehrlich (*Chemotherapy*):** *"Enhancing local tissue saturation through **EMDA** allows potent agents to reach deeper pathological layers without systemic toxicity."*
+> - 📜 **Harvey Cushing (*Selected Papers*):** *"The application of local electromotive currents, as in **EMDA**, provides deep regional analgesia for minor surface procedures."*

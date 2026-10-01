@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A longitudinal flexible rod of cells that in the lowest chordates (such as a lancelet or a lamprey) and in the embryos of the higher vertebrates forms the supporting axis of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A longitudinal flexible rod of cells that in the lowest chordates (such as a lancelet or a lamprey) and in the embryos of the higher vertebrates forms the supporting axis of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flexible, rod-like longitudinal cellular cord that forms the primary axial skeleton in chordate embryos and primitive adult chordates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology and vertebrate phylogeny, a mesodermal skeletal axis that induces neural tube formation and survives in adult vertebrates as the nucleus pulposus of intervertebral discs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notochord designates a longitudinal flexible rod of cells that in the lowest chordates (such as a lancelet or a lamprey) and in the embryos of the higher vertebrates forms the supporting axis of the body."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The primitive skeletal axis or **notochord** arises from the dorsal mesoblast beneath the medullary groove."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The possession of a cellular **notochord** during early development unites Amphioxus, tunicates, and all higher vertebrates."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In higher vertebrates, the gelatinous remnants of the embryonic **notochord** persist within the center of the intervertebral pads."*

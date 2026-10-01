@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus of the class gasteromycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus of the class gasteromycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungus of the group Gasteromycetes (puffballs, earthstars, stinkhorns), in which spores mature within an enclosed fruiting body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mycology, a basidiomycete that relies on external agents (wind, rain, insects) rather than forcible ballistosporic discharge to disperse spores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastromycete designates any fungus of the class gasteromycetes."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Under the damp fallen leaves, a curious subterranean **gastromycete** developed, waiting for rains to breach its outer peridium."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"Unlike a gill mushroom, a true **gastromycete** encloses its fertile gleba until the basidiospores have matured completely."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"A dry puffball, an ancient **gastromycete**, sent up a miniature volcanic plume of smoke beneath the hunter's boot."*

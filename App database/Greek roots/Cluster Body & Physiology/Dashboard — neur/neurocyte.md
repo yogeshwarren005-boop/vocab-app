@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek neur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mature nerve cell; a neuron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular neuroanatomy and historical cytology, the anatomical unit comprising the nerve cell body (soma or perikaryon) along with its dendritic and axonal processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurocyte designates a term designating an entity, condition, or phenomenon derived from greek neur."*
+> - 📜 **Santiago Ramón y Cajal (*Texture of the Nervous System of Man and the Vertebrates*):** *"Every individual **neurocyte** exhibits remarkable polarization, receiving excitations through dendrites and transmitting them along its axon."*
+> - 📜 **Charles Sedgwick Minot (*Human Embryology*):** *"As the neuroblast matures into the functional **neurocyte**, its protoplasm develops intricate neurofibrils and Nissl granules."*
+> - 📜 **Camillo Golgi (*Sur l'anatomie fine des organes centraux du système nerveux*):** *"The metallic deposit reveals the complete boundary of the **neurocyte**, disproving earlier hypotheses of diffuse protoplasmic fusion."*

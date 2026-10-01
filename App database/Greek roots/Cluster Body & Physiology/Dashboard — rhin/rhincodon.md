@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Whale sharks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whale sharks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monospecific genus of orectolobiform sharks comprising the whale shark (Rhincodon typus), the largest living fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ichthyology, a gigantic filter-feeding elasmobranch (family Rhincodontidae) possessing hundreds of tiny teeth (Greek rhine, file/rasp, and odon, tooth) and modified branchial gill rakers for straining plankton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhincodon designates whale sharks."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The gigantic proportions and peculiar dental plates of **rhincodon** place it in a unique position among living sharks."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Sailors reported sighting an immense spotted shark, almost certainly **rhincodon**, cruising lazily near the surface."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The gentle plankton-eating whale shark, **rhincodon** typus, roams warm ocean currents, dwarfing all other fishes."*

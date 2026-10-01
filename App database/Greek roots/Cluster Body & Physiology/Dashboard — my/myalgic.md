@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to myalgia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to myalgia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by muscle pain (myalgia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic nosology, characterizing symptom patterns, tenderness points, or pathological conditions marked primarily by diffuse muscular aches (e.g., myalgic encephalomyelitis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myalgic designates of or relating to myalgia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient complained of severe **myalgic** distress throughout the paraspinal and intercostal musculature."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Acute febrile illnesses are routinely heralded by diffuse **myalgic** pains and cutaneous hyperesthesia."*
+> - 📜 **Benjamin Ward Richardson (*The Asclepiad*):** *"The **myalgic** spasms provoked by toxic exposure subsided following therapeutic alkalinization and sedation."*

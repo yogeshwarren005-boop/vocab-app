@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek omo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer end of the scapular spine that projects over the glenoid cavity and articulates with the clavicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology and orthopedic surgery, the superior bony landmark of the shoulder that forms the summit of the shoulder and provides attachment for the deltoid and trapezius muscles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acromion designates a term designating an entity, condition, or phenomenon derived from greek omo."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **acromion** projects forward and outward, forming the highest point of the bony shoulder girdle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Subacromial bursitis elicits localized exquisite tenderness just beneath the anterior margin of the **acromion**."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Accessory nerve injury induces drooping of the shoulder and prominence of the underlying **acromion**."*

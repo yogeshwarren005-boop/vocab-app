@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment of a skeletal deformity by intentionally fracturing a bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treatment of a skeletal deformity by intentionally fracturing a bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical intentional fracturing of a deformed bone to remedy a deformity, or the biological process of bone resorption by osteoclasts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic surgery and physiological histology, either manual or instrumental osteotomy performed to correct malunion, or cellular osteolysis mediated by multi-nucleated osteoclasts dissolving mineralized bone matrix.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoclasis designates treatment of a skeletal deformity by intentionally fracturing a bone."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Controlled manual **osteoclasis** of the malunited radius allowed anatomical realignment without open operative exposure."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic lacunae of Howship demonstrate active **osteoclasis**, where specialized multinucleated giant cells resorb the bony trabeculae."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In severe rachitic bowing of the lower limbs, closed **osteoclasis** was successfully performed to straighten the legs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the tarsus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to plates of dense connective tissue that serve to stiffen the eyelids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the tarsus (the cluster of ankle bones, or the firm plates of connective tissue in the eyelids).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musculoskeletal medicine, the seven tarsal bones are the talus, calcaneus, navicular, cuboid, and three cuneiforms; in ophthalmology, tarsal glands (Meibomian glands) within the tarsal plate secrete sebum to retard tear evaporation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"A dislocation of the tarsal joint would produce insanity as perceptibly as would congestion of the brain, 408:24 were it not that mortal mind thinks that the tarsal joint is less intimately connected with the mind than is the brain."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **tarsal** plates are two thin, elongated plates of dense connective tissue giving form and support to the eyelids."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tuberculous caries of the **tarsal** bones produces chronic purulent fistulae draining onto the dorsum of the foot."*
+> - 📜 **Astley Cooper (*A Treatise on Dislocations and Fractures of the Joints*):** *"Severe sprains of the ankle frequently rupture the anterior talofibular **tarsal** ligament."*

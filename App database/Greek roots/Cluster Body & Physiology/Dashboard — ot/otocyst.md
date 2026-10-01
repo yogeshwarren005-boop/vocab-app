@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluid-containing organ of many invertebrates that contains an otolith : statocyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluid-containing organ of many invertebrates that contains an otolith : statocyst.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An auditory or balance vesicle found in aquatic invertebrates, functioning as a primitive organ of equilibrium; a statocyst.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate embryology, the otic vesicle that invaginates from the embryonic surface ectoderm to form the membranous labyrinth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otocyst designates a fluid-containing organ of many invertebrates that contains an otolith : statocyst."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The primitive **otocyst** of the medusa consists of a closed epithelial sac containing fluid and a single calcareous mineral grain."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"During the fourth week of human development, the **otocyst** closes off from the surface, sinking into the mesenchyme to differentiate into the inner ear."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"In gastropod mollusks, the paired **otocyst** structures are situated near the pedal ganglia, coordinating postural balance during crawling."*

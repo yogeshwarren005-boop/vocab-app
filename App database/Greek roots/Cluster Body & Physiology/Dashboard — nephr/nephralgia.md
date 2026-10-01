@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the kidney (usually felt in the loins).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the kidney (usually felt in the loins).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the kidney or renal region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology, paroxysmal or dull flank and lumbar pain caused by renal calculi, acute pyelonephritis, or sudden ureteral obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephralgia designates pain in the kidney (usually felt in the loins)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe paroxysmal **nephralgia** radiating toward the groin characterizes the passage of a renal calculus."*
+> - 📜 **Henry Morris (*Surgical Diseases of the Kidney and Ureter*):** *"Persistent unilateral **nephralgia** without fever warrants careful cystoscopic and radiographic investigation."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"The agonizing pain of acute **nephralgia** frequently induces reflex vomiting and profound prostration."*

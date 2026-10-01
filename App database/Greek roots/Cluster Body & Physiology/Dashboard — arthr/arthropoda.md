@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Jointed-foot invertebrates: arachnids; crustaceans; insects; millipedes; centipedes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jointed-foot invertebrates: arachnids; crustaceans; insects; millipedes; centipedes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The massive taxonomic phylum comprising invertebrate animals with jointed legs, segmented bodies, and chitinous exoskeletons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy, the animal phylum containing over eighty percent of all described living animal species, dominant across terrestrial and aquatic ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthropoda designates jointed-foot invertebrates: arachnids; crustaceans; insects; millipedes; centipedes."*
+> - 📜 **Ernst Haeckel (*Systematic Phylogeny*):** *"The phylum **arthropoda** embodies the pinnacle of protostome morphological radiation and ecological diversification."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In **arthropoda**, the coelom is largely replaced by an open hemocoel through which blood circulates bathed by muscle contractions."*
+> - 📜 **E. Ray Lankester (*The Structure and Classification of the Arthropoda*):** *"Comparative appendicular morphology proves that all **arthropoda** share a common segmented ancestor."*

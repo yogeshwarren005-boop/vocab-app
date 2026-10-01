@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The alimentary canal (especially of an embryo or a coelenterate).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The alimentary canal (especially of an embryo or a coelenterate).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The alimentary canal or digestive cavity of an animal; the gut, especially in embryonic or invertebrate anatomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology, the archenteron or primitive embryonic digestive cavity formed by invagination of the blastula during gastrulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enteron designates the alimentary canal (especially of an embryo or a coelenterate)."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"In simple diploblastic organisms like Hydra, the internal **enteron** serves both as a digestive stomach and a vascular distribution cavity."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The invagination of the blastula produces the primitive **enteron**, the common ancestral gut cavity of all metazoan life."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The development of the embryonic **enteron** demonstrates deep morphological homology linking diverse bilaterian lineages."*

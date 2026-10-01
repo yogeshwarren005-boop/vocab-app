@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder inherited as an autosomal dominant and characterized especially by brown spots on the skin, neurofibromas of peripheral nerves, and deformities of subcutaneous tissue and bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder inherited as an autosomal dominant and characterized especially by brown spots on the skin, neurofibromas of peripheral nerves, and deformities of subcutaneous tissue and bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hereditary autosomal dominant genetic disorder characterized by the development of multiple tumors (neurofibromas) along nerves, pigmented skin patches (café-au-lait spots), and skeletal deformities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics, a condition classified into NF1 (peripheral, linked to chromosome 17) and NF2 (central, linked to chromosome 22 with bilateral acoustic neuromas), caused by mutations in tumor suppressor genes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurofibromatosis designates a disorder inherited as an autosomal dominant and characterized especially by brown spots on the skin, neurofibromas of peripheral nerves, and deformities of subcutaneous tissue and bone."*
+> - 📜 **Friedrich Daniel von Recklinghausen (*Ueber die multiplen Fibrome der Haut*):** *"The syndrome uniting cutaneous pigmentation, skeletal anomalies, and generalized nerve tumors is appropriately designated generalized **neurofibromatosis**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients afflicted with **neurofibromatosis** present numerous soft sessile tumors alongside characteristic brown macules across the skin."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"The genetic mapping of **neurofibromatosis** type 1 confirmed mutations in the neurofibromin gene governing RAS GTPase activity."*

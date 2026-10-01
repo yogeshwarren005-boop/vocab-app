@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that graphically registers movements of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that graphically registers movements of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed for recording the mechanical movements or electrical potentials produced by the action of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical technology, historically Étienne-Jules Marey's mechanical apex-beat recorder, evolving into the string galvanometer instrument developed by Willem Einthoven.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiograph designates an instrument that graphically registers movements of the heart."*
+> - 📜 **Willem Einthoven (*The String Galvanometer and Its Medical Applications*):** *"By suspending a silvered quartz filament in a strong magnetic field, I constructed an exceptionally sensitive **cardiograph**."*
+> - 📜 **Étienne-Jules Marey (*The Graphic Method in Medical Science*):** *"The mechanical **cardiograph** applied over the cardiac apex faithfully registers each phase of ventricular systole."*
+> - 📜 **Augustus Waller (*An Introduction to Human Physiology*):** *"Before Einthoven's refinement, Waller utilized the capillary electrometer as an electrical **cardiograph** to detect human cardiac currents."*

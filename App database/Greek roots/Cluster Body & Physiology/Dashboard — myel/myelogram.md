@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radiographic or fluoroscopic image of the spinal canal, cord, and nerve roots obtained after injection of radiopaque contrast medium into the subarachnoid space; also, a differential count of cells in bone marrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroradiology, a diagnostic visualization demonstrating filling defects caused by herniated intervertebral discs, spinal canal stenosis, or extramedullary tumors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelogram designates a term designating an entity, condition, or phenomenon derived from greek myel."*
+> - 📜 **Walter Dandy (*Surgery of the Brain*):** *"The lumbar **myelogram** revealed a complete blockage of contrast media at the third thoracic vertebra."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"An iodized oil **myelogram** confirmed the presence of a compressive extradural neurofibroma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Analysis of the bone marrow **myelogram** provides direct quantitative assessment of erythroid versus myeloid hyperplasia."*

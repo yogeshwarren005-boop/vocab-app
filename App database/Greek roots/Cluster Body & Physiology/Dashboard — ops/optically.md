@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an optical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an optical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an optical manner; with reference to optics, vision, or the transmission of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stereochemistry and crystallography, designating substances that rotate the plane of polarized light (optically active compounds).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But it seemed that, when on the wharf, Queequeg had not at all noticed what I now alluded to; hence I would have thought myself to have been optically deceived in that matter, were it not for Elijah’s otherwise inexplicable question."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But it seemed that, when on the wharf, Queequeg had not at all noticed what I now alluded to; hence I would have thought myself to have been optically deceived in that matter, were it not for Elijah’s otherwise inexplicable question."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Compounds*):** *"Natural tartaric acid rotates the plane of polarization, proving that the crystals are **optically** active."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The medium was so **optically** uniform that rays suffered no internal dispersion or reflection."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"Iceland spar splits an incident ray into two **optically** distinct beams polarized at right angles."*

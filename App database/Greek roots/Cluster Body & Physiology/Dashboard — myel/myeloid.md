@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling bone marrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leukemia characterized by proliferation of myeloid tissue (as of the bone marrow and spleen) and an abnormal increase in the number of granulocytes, myelocytes, and myeloblasts in the circulating blood —called also myelocytic leukemia, myeloid leukemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling, relating to, or derived from bone marrow or the spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and hematology, designating the developmental lineage of blood cells that produces granulocytes, monocytes, erythrocytes, and platelets, as distinguished from the lymphoid lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myeloid designates of, relating to, or resembling bone marrow."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The **myeloid** tumor exhibits cellular elements directly reminiscent of normal marrow tissue."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Divergence between the **myeloid** and lymphoid systems is fundamental to all classification of hematopoietic disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **myeloid** leukemia runs a rapid and fatal course characterized by anemia, purpura, and sepsis."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The perception of tactual or proprioceptive or gut sensations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty of bodily perception; sensory systems associated with the body; includes skin senses and proprioception and the internal organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily sense; awareness of bodily sensations, including touch, temperature, pain, and proprioception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, somatesthesia is mediated by primary somatosensory afferents projecting through the spinal cord and brainstem to the ventral posterolateral (VPL) nucleus of the thalamus and the postcentral gyrus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatesthesia designates the perception of tactual or proprioceptive or gut sensations."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Every deliberate limb movement relies upon continuous re-afferent signals routed through the pathways of **somatesthesia**."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Lesions situated in the parietal cortex dissociate discriminative **somatesthesia** from gross awareness of pain and temperature."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The subjective sense of personal identity is inextricably bound to the unbroken continuity of visceral and muscular **somatesthesia**."*

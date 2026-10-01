@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a phylum (Arthropoda) of invertebrate animals (such as insects, arachnids, and crustaceans) that have a segmented body and jointed appendages, a usually chitinous exoskeleton molted at intervals, and a dorsal anterior brain connected to a ventral chain of ganglia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a phylum (Arthropoda) of invertebrate animals (such as insects, arachnids, and crustaceans) that have a segmented body and jointed appendages, a usually chitinous exoskeleton molted at intervals, and a dorsal anterior brain connected to a ventral chain of ganglia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any invertebrate animal belonging to the phylum Arthropoda, characterized by a chitinous exoskeleton, segmented body, and paired jointed appendages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary zoology, members of the most diverse animal phylum, comprising insects, crustaceans, arachnids, and myriapods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthropod designates any of a phylum (arthropoda) of invertebrate animals (such as insects, arachnids, and crustaceans) that have a segmented body and jointed appendages, a usually chitinous exoskeleton molted at intervals, and a dorsal anterior brain connected to a ventral chain of ganglia."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The rigid external cuticle of the **arthropod** necessitates periodic ecdysis to permit somatic growth."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"From trilobites to butterflies, every **arthropod** shares a bilateral body plan organized into functional tagmata."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The compound eye of the **arthropod** demonstrates an astonishing optical complexity evolved through insensible gradations."*

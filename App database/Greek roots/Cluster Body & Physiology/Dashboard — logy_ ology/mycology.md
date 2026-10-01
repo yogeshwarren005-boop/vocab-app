@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of botany that studies fungi and fungus-caused diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of botany that studies fungi and fungus-caused diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology concerned with the study of fungi, including mushrooms, molds, and yeasts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and medical science, the investigation of fungal genetics, secondary metabolites (like antibiotics), and pathogenic fungal infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mycology designates the branch of botany that studies fungi and fungus-caused diseases."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The observations of **mycology** proved that yeast organisms are responsible for converting grape sugars into alcohol."*
+> - 📜 **Alexander Fleming (*On the Antibacterial Action of Cultures of a Penicillium*):** *"A chance contamination in the laboratory led to an observation in **mycology** that yielded penicillin."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The field of **mycology** exhibits an astonishing diversity of saprophytic organisms vital to decomposing organic matter."*

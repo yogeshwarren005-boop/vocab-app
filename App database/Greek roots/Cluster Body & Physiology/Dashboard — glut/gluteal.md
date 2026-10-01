@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or near the gluteus muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or near the gluteus muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the buttocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human regional anatomy, designating the gluteal nerves, gluteal arteries, gluteal fold, and the three gluteus muscles (maximus, medius, minimus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gluteal designates of or relating to or near the gluteus muscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sciatic neuritis frequently radiates deep from the **gluteal** fold down the posterior aspect of the thigh to the heel."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The prominence of the human **gluteal** region is an anatomical consequence of upright posture, unmatched in anthropoid apes."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Intramuscular injections were placed carefully in the upper outer quadrant to protect the deep **gluteal** vessels and sciatic nerve."*

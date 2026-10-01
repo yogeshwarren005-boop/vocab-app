@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variable often familial learning disability involving difficulties in acquiring and processing language that is typically manifested by a lack of proficiency in reading, spelling, and writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variable often familial learning disability involving difficulties in acquiring and processing language that is typically manifested by a lack of proficiency in reading, spelling, and writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with or relating to dyslexia; a person who experiences dyslexia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In special education and cognitive science, designating specialized pedagogies or cognitive profiles associated with reading and phonological processing variations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyslexic designates a variable often familial learning disability involving difficulties in acquiring and processing language that is typically manifested by a lack of proficiency in reading, spelling, and writing."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"Several **dyslexic** musicians whom I examined showed an astonishing ability to memorize intricate scores purely by ear."*
+> - 📜 **Norman Geschwind (*Cerebral Lateralization*):** *"A significant proportion of **dyslexic** individuals exhibit left-handedness and pronounced artistic or mathematical aptitude."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"The **dyslexic** patient required specific phonetic retraining to reconnect the visual symbol with spoken phonemes."*

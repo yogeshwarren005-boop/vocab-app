@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of macropodidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of macropodidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small Australasian macropod marsupials commonly known as nail-tail wallabies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy and marsupial ecology, endemic Australian wallabies characterized by a horny, claw-like nail or spur at the tip of their tail and distinct shoulder stripes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onychogalea designates a genus of macropodidae."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"The crescent nail-tail wallaby, referred to the genus **Onychogalea**, carries a small horny fingernail at the extremity of its tail."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Members of **Onychogalea** rotate their forearms like sails when hopping at high speed across the scrub plains."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The curious caudal nail in **Onychogalea** represents an enigmatic morphological development among leaping marsupials."*

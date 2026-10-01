@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring skull sizes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring skull sizes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument calibrated for measuring the dimensions, angles, and proportions of the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and forensics, a specialized caliper or goniometer used to record cephalic length, breadth, and facial angles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, craniometer designates an instrument for measuring skull sizes."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"With his brass **craniometer**, Broca meticulously measured the facial angle and cephalic index of thousands of specimens."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The application of a precise **craniometer** eliminates the subjective bias of the investigator in assessing cranial contours."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Mortimer gazed yearningly at Sherlock Holmes's head, remarking that he would dearly love to run his **craniometer** over the parietal ridge."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bearing a date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not bearing a date.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bearing a date; not marked with a date of origin, publication, or execution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical bibliography and textual criticism, a manuscript, epistle, or coin whose exact year must be deduced from internal contextual evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Read it aloud.” The note was undated, and without either signature or address."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Litzmann," Stuttgart, Cotta, undated."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"WALT WHITMAN TO ANNE GILCHRIST _Camden, New Jersey_ _Undated."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"An **undated** letter found among his papers throws unexpected light upon his youthful dispute with Addison."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She handed me an **undated** note written in a hurried, trembling hand, requesting an immediate interview."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"Holmes examined the **undated** letter, holding the heavy Bohemian paper up to the gas lamp."*

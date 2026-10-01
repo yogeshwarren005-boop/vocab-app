@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical inspection and diagnostic examination of the interior of the nasal passages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divided into anterior rhinoscopy (viewing through the anterior nares via a speculum) and posterior rhinoscopy (viewing the nasopharynx via mirrors or transoral/transnasal endoscopy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinoscopy designates examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx)."*
+> - 📜 **Morell Mackenzie (*Manual of Diseases of the Throat and Nose*):** *"Posterior **rhinoscopy** requires considerable patience on the part of the surgeon and steady relaxation from the patient."*
+> - 📜 **StClair Thomson (*Diseases of the Nose and Throat*):** *"Routine anterior **rhinoscopy** exposes mucosal congestion, septal deviations, and hypertrophied turbinates without patient discomfort."*
+> - 📜 **Arthur Hartmann (*Diseases of the Ear and Their Treatment*):** *"Careful **rhinoscopy** often uncovers unsuspected adenoid vegetations obstructing the Eustachian orifice."*

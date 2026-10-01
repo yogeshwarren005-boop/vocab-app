@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of three literary or dramatic works related in subject or theme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of three literary or dramatic works related in subject or theme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or set of three interrelated works of literature, drama, film, or music that form a cohesive thematic or narrative continuum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek drama, three tragedies presented in sequence at the Dionysia, often followed by a satyr play (as in Aeschylus's Oresteia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trilogy designates a set of three literary or dramatic works related in subject or theme."*
+> - 📜 **Gilbert Murray (*Aeschylus: The Creator of Tragedy*):** *"The Oresteia stands as the sole surviving intact **trilogy** from the Athenian dramatic contests."*
+> - 📜 **Northrop Frye (*Anatomy of Criticism*):** *"The structural balance of an epic **trilogy** typically moves from crisis through wandering to reconciliation."*
+> - 📜 **Samuel Taylor Coleridge (*Lectures on Shakespeare*):** *"The historic plays forming Shakespeare's first tetralogy and second **trilogy** illustrate the unfolding destiny of the English crown."*

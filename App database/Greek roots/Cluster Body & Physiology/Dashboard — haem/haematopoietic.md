@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the formation of blood or blood cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the formation of blood or blood cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involved in the formation of blood cellular components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular oncology and medicine, describing hematopoietic stem cells, hematopoietic growth factors, and hematopoietic neoplasms (leukemias and lymphomas).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematopoietic designates pertaining to the formation of blood or blood cells."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"The discovery of the self-renewing **haematopoietic** stem cell by Till and McCulloch laid the conceptual cornerstone of modern regenerative medicine."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"Recombinant human erythropoietin stimulated the patient's **haematopoietic** marrow, correcting severe anemia without transfusions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Total body irradiation obliterates the **haematopoietic** marrow, rendering autologous or allogeneic stem cell rescue essential for survival."*

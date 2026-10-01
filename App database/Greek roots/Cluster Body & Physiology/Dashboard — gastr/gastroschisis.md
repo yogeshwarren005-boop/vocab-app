@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gastr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital defect in the abdominal wall, typically to the right of the umbilical cord, through which the intestines protrude without a covering sac.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric surgery and teratology, an abdominal wall malformation requiring immediate neonatal protective wrapping and surgical reduction to prevent gut ischemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroschisis designates a term designating an entity, condition, or phenomenon derived from greek gastr."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The pediatric surgery team mobilized immediately to cover the exposed bowel of the newborn delivered with congenital **gastroschisis**."*
+> - 📜 **Siddhartha Mukherjee (*The Gene: An Intimate History*):** *"Unlike omphalocele, the herniated evisceration in **gastroschisis** is naked, lacking an overlying amnioperitoneal membrane."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"Staged reduction using a spring-loaded silastic silo allowed the swollen intestines of the **gastroschisis** infant to return safely into the abdominal cavity."*

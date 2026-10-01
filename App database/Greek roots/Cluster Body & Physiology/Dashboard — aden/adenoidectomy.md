@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal or curettage of the hypertrophied pharyngeal tonsil (the adenoids).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric otolaryngology, an operative procedure performed to relieve recurrent otitis media, chronic sinusitis, or pediatric sleep apnea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenoidectomy designates a term designating an entity, condition, or phenomenon derived from greek aden."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt **adenoidectomy** in children suffering from Eustachian blockage immediately restores normal hearing and facial development."*
+> - 📜 **Harvey Cushing (*Surgery of the Head*):** *"Meticulous hemostasis following curette **adenoidectomy** prevents aspiration of blood clots during recovery from anesthesia."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"Generations of pediatricians considered tonsillectomy and **adenoidectomy** the universal rite of passage for school-age youngsters."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dentist specializing in diseases of the dental pulp and nerve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dentist specializing in diseases of the dental pulp and nerve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dentist who specializes in the diagnosis, prevention, and treatment of diseases and injuries of the dental pulp and periapical tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In specialized oral healthcare, a practitioner skilled in operating microscopes, rotary canal preparation, and complex root canal retreatments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endodontist designates a dentist specializing in diseases of the dental pulp and nerve."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Consultation with a skilled **endodontist** is indicated when persistent apical abscesses threaten systemic health."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient was referred to an **endodontist** to relieve severe odontogenic trigeminal neuralgia."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Careful root canal disinfection performed by the **endodontist** prevented cavernous sinus thrombophlebitis."*

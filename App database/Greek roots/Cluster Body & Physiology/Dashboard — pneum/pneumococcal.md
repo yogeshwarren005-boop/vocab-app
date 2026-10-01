@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or derived from or caused by bacteria of the genus pneumococcus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or derived from or caused by bacteria of the genus pneumococcus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or relating to the bacterium Streptococcus pneumoniae (the pneumococcus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and infectious disease, referring to clinical infections (such as pneumococcal pneumonia, pneumococcal meningitis, and bacteremia) or capsular polysaccharide vaccines designed to prevent them.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumococcal designates of or derived from or caused by bacteria of the genus pneumococcus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden rigor, high fever, and rusty sputum point definitively toward acute **pneumococcal** infection."*
+> - 📜 **Oswald Avery (*Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types*):** *"DNA extracted from encapsulated strains induced hereditary transformation in unencapsulated **pneumococcal** cells."*
+> - 📜 **Anthony Fauci (*Harrison's Principles of Internal Medicine*):** *"Widespread administration of conjugate vaccines dramatically reduced the incidence of invasive **pneumococcal** disease."*

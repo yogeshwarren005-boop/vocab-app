@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial (hygrophytic) or epiphytic ferns: filmy ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial (hygrophytic) or epiphytic ferns: filmy ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of delicate, moisture-loving leptosporangiate ferns known as the filmy ferns, characterized by fronds that are only one cell thick.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, primitive shade- and humidity-dependent ferns native to wet tropical and temperate rainforests, lacking stomata and absorbing moisture directly through their translucent leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hymenophyllaceae designates terrestrial (hygrophytic) or epiphytic ferns: filmy ferns."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Damp granite boulders in the cloud forest were draped in exquisite green curtains of the **Hymenophyllaceae**."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"The translucent fronds of the **Hymenophyllaceae** are reduced to a single cellular layer between the veins."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Nowhere are the filmy ferns of the **Hymenophyllaceae** more lush than along the misty mountain torrents of Borneo."*

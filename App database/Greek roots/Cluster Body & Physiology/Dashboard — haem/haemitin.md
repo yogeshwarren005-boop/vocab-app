@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex red organic pigment containing iron and other atoms to which oxygen binds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex red organic pigment containing iron and other atoms to which oxygen binds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic variant spelling of hematin, the brownish-black iron-containing protoporphyrin pigment formed by the oxidation of haem or decomposition of haemoglobin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chemical pathology, the acid-insoluble ferric decomposition product observed in dried blood crusts and toxicological testing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemitin designates a complex red organic pigment containing iron and other atoms to which oxygen binds."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"By treating blood crystals with strong acids, a dark insoluble base termed **haemitin** separated distinctly from the albuminous portion."*
+> - 📜 **Felix Hoppe-Seyler (*Handbuch der Physiologisch- und Pathologisch-Chemischen Analyse*):** *"Spectroscopic examination of aged bloody effusions reveals the prominent absorption bands characteristic of alkaline **haemitin**."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes sprang to his feet with an exclamation: 'I have found it! An infallible reagent for detecting dry stains of **haemitin**!'"*

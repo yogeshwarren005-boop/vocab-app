@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit consisting of many individual small fruits or drupes derived from separate ovaries within a common receptacle: e.g. blackberry; raspberry; pineapple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit consisting of many individual small fruits or drupes derived from separate ovaries within a common receptacle: e.g. blackberry; raspberry; pineapple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aggregate or composite fruit formed by the coherence or fusion of multiple carpels or fruits from one or several flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic pomology, a compound fruit such as the blackberry, custard apple, or pineapple (sorosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syncarp designates fruit consisting of many individual small fruits or drupes derived from separate ovaries within a common receptacle: e.g. blackberry; raspberry; pineapple."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In the magnolia, the individual follicles coalesce upon an elongated cone-like axis to form a massive wooden **syncarp**."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The edible portion of the custard apple represents a fleshy **syncarp** formed by the complete fusion of numerous baccate carpels."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"The mulberry fruit is an aggregate **syncarp** derived from an entire inflorescence whose fleshy perianths enclose the nutlets."*

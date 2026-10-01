@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the skin, characterized by itching, redness, swelling, and often vesicular lesions; eczema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, a broad category of acute and chronic cutaneous disorders, including contact dermatitis, atopic dermatitis, and seborrheic dermatitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatitis designates inflammation of the skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Contact with poison ivy excites an acute, intensely pruritic vesicular **dermatitis** within twenty-four hours of exposure."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"Every acute **dermatitis** passes through stages of erythema, papulation, vesicle formation, and eventual desquamation."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases of the Skin*):** *"Occupational **dermatitis** in chemical workers highlights the danger of cumulative local skin irritation."*

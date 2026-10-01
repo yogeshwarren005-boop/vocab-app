@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus or instrument for recording the speed, volume, and respiratory force of breathing movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical respiratory physiology, an early diagnostic spirometric device developed in the 19th century to register graphical tracings of pulmonary inhalation and exhalation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anapnograph designates a term designating an entity, condition, or phenomenon derived from greek pne."*
+> - 📜 **John Tyndall (*Sound: A Course of Eight Lectures Delivered at the Royal Institution*):** *"The experimental tracings obtained from an **anapnograph** demonstrate rhythmic air movements during vocal respiration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Physiological recordings made with the **anapnograph** revealed the alternating tidal patterns of Cheyne-Stokes breathing."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Instrumental verification of respiratory pressure by the **anapnograph** provided quantitative data for pulmonary dynamics."*

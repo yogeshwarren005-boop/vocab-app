@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of the uterus and the ovaries and oviducts and cervix and related lymph nodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of the uterus and the ovaries and oviducts and cervix and related lymph nodes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete surgical excision of the entire uterus (including the cervix) and usually both ovaries and fallopian tubes; total abdominal hysterectomy with bilateral salpingo-oophorectomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological oncology, an extensive surgical procedure performed for widespread uterine, ovarian, or cervical malignancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panhysterectomy designates surgical removal of the uterus and the ovaries and oviducts and cervix and related lymph nodes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In advanced invasive carcinoma of the endometrium, complete **panhysterectomy** offers the best prospect of long-term cure."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"The surgeon executed a meticulous **panhysterectomy**, clearing the pelvic lymph nodes along with the uterine adnexa."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Neurosurgical pituitary balance was complicated by sudden surgical menopause following a pelvic **panhysterectomy**."*

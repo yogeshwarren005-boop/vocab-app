@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arthr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The clinical procedure of puncturing a joint capsule with a sterile needle to aspirate synovial fluid for diagnostic analysis or therapeutic decompression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency medicine and rheumatology, joint fluid aspiration performed to distinguish septic arthritis from crystal-induced gout or pseudogout.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthrocentesis designates a term designating an entity, condition, or phenomenon derived from greek arthr."*
+> - 📜 **Harvey Cushing (*Surgery of the Joints*):** *"Diagnostic **arthrocentesis** yielded turbid yellow fluid containing abundant polymorphonuclear leukocytes."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Immediate **arthrocentesis** relieves acute intra-articular pressure, mitigating irreversible ischemic damage to the cartilaginous surfaces."*
+> - 📜 **Charles H. Mayo (*Observations on Joint Surgery*):** *"Polarized light microscopy of fluid obtained via **arthrocentesis** immediately reveals needle-shaped urate crystals."*

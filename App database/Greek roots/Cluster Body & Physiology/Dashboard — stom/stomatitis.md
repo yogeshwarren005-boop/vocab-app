@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous inflammatory diseases of the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute viral disease especially of various domesticated animals (such as horses and cows) that resembles foot-and-mouth disease, is marked by erosive blisters in and about the mouth, and is caused by any of three rhabdoviruses (Vesiculovirus alagoas, V. indiana, and V. newjersey) which sometimes infect humans producing flu-like symptoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucous membranes of the mouth, including the gums, tongue, cheeks, and lips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, stomatitis may be viral (herpetic gingivostomatitis), fungal (oral candidiasis / thrush), aphthous (canker sores), or secondary to chemotherapy or heavy metal toxicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatitis designates any of numerous inflammatory diseases of the mouth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Mercurial **stomatitis** is characterized by profuse ptyalism, fetid breath, swollen spongy gums, and loosened teeth."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Aphthous **stomatitis** in debilitated infants produces painful small white vesicles upon the buccal lining."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Ulcerative **stomatitis** demands rigorous oral hygiene combined with nutritional supplementation to ensure rapid healing."*

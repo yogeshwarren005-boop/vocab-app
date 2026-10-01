@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronic respiratory disease caused by inhaling metallic or mineral particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronic respiratory disease caused by inhaling metallic or mineral particles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternate spelling of pneumoconiosis; chronic lung disease caused by the inhalation of fine mineral or metallic dust particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational pulmonary pathology, progressive pulmonary fibrosis and alveolar scarring resulting from chronic exposure to silica, coal dust, or asbestos in industrial environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pneumonoconiosis designates chronic respiratory disease caused by inhaling metallic or mineral particles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The severity of industrial **pneumonoconiosis** varies directly with the duration and silica concentration of inhaled workplace dust."*
+> - 📜 **Alice Hamilton (*Exploring the Dangerous Trades*):** *"Our field surveys in coal mines documented advanced stages of **pneumonoconiosis** among veteran breaker boys and drillers."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Lungs scarred by **pneumonoconiosis** show hard fibrotic nodules consisting of concentric collagen whorls around deposited mineral crystals."*

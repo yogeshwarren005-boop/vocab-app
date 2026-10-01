@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ethn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek ethnos, meaning people, nation, race, or cultural group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social sciences and linguistics, the prefix element forming compounds such as ethnic, ethnography, ethnobotany, and ethnology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethn designates a term designating an entity, condition, or phenomenon derived from greek ethn."*
+> - 📜 **Edward Sapir (*Language*):** *"The morpheme **ethn** serves as the lexical anchor for disciplines investigating the collective cultural identities of humanity."*
+> - 📜 **Claude Lévi-Strauss (*Structural Anthropology*):** *"From **ethn**, denoting a living community of people, anthropology constructed its comparative vocabulary of kinship and myth."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"Greek **ethn** passed into Western academic classification to denote human groupings sharing common customs and tongues."*

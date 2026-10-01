@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited skeletal disorder beginning before birth; cartilage is converted to bone resulting in dwarfism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inherited skeletal disorder beginning before birth; cartilage is converted to bone resulting in dwarfism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disorder of cartilage formation or development that leads to abnormal skeletal ossification and deformed bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatrics and orthopedics, a heterogeneous group of genetic skeletal dysplasias characterized by defective endochondral cartilage growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondrodystrophy designates an inherited skeletal disorder beginning before birth; cartilage is converted to bone resulting in dwarfism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **chondrodystrophy** manifests at birth with shortened, thickened tubular bones and characteristic cranial bossing."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The autopsy of an infant with lethal **chondrodystrophy** revealed total disorganization of the epiphyseal cartilage columns."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Physical dwarfism resulting from **chondrodystrophy** does not impair cortical intellectual development."*

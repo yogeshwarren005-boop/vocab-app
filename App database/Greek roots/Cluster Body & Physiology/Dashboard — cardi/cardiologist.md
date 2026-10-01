@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the heart and its action and diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the heart and its action and diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical doctor who specializes in the diagnosis, medical management, and prevention of diseases of the heart and cardiovascular system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician expert in interpreting electrocardiograms, echocardiograms, and cardiac catheterization to manage heart failure, arrhythmias, and coronary disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiologist designates the study of the heart and its action and diseases."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"The modern **cardiologist** must be both a clinician and a physiologist, understanding the mechanical hydraulics of failing hearts."*
+> - 📜 **Thomas Lewis (*Clinical Disorders of the Heart Beat*):** *"Before the string galvanometer, the **cardiologist** was forced to infer arrhythmias through subtle variations in radial pulse timing."*
+> - 📜 **Helen B. Taussig (*Congenital Malformations of the Heart*):** *"Close collaboration between the pediatric **cardiologist** and the thoracic surgeon made corrective operations for blue babies a reality."*

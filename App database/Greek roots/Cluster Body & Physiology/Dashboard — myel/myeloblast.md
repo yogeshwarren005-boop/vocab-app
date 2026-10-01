@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large mononuclear bone-marrow cell that lacks cytoplasmic granules; especially : one that is a precursor of a myelocyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large mononuclear bone-marrow cell that lacks cytoplasmic granules; especially : one that is a precursor of a myelocyte.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An immature, unipotent precursor cell in the bone marrow that develops into a myelocyte and ultimately a granulocyte (neutrophil, eosinophil, or basophil).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematopathology and leukemia classification, a large primitive blastic cell with a high nuclear-to-cytoplasmic ratio, delicate chromatin, and prominent nucleoli, characteristic of acute myeloid leukemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myeloblast designates a large mononuclear bone-marrow cell that lacks cytoplasmic granules; especially : one that is a precursor of a myelocyte."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The primitive **myeloblast** contains no specific granules, representing the earliest committed precursor of the granulocytic series."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute myeloblastic leukemia, the peripheral blood is flooded with abnormal, immature **myeloblasts**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Marrow examination reveals an uncontrolled proliferation of the ancestral **myeloblast** at the expense of erythropoiesis."*

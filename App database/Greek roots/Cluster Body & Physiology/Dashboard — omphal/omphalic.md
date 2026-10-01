@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of navel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of navel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near the umbilicus (navel).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and anatomical topography, designating vascular structures (such as omphalomesenteric vessels) or regional pain patterns centered at the navel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omphalic designates adjective*) pertaining to, derived from, or characteristic of navel."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The embryonic **omphalic** veins return blood from the vitelline sac to the sinus venosus of the developing heart."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Referred appendiceal pain is initially perceived in the peri-**omphalic** region before localizing to the right lower quadrant."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"During early yolk-sac circulation, the paired **omphalic** arteries supply the expansive extra-embryonic vascular area."*

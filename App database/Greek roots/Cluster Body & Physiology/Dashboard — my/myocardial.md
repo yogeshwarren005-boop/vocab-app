@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the myocardium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the myocardium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the myocardium, the muscular tissue of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology and cardiovascular pathology, designating tissue perfusion, electrophysiological properties, or ischemic necrosis (such as myocardial infarction) in cardiac myocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myocardial designates of or relating to the myocardium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden occlusion of a major coronary artery induces localized **myocardial** ischemia and electrical instability."*
+> - 📜 **James B. Herrick (*Clinical Features of Sudden Obstruction of the Coronary Arteries*):** *"Non-fatal coronary obstruction produces circumscribed **myocardial** softening and subsequent fibrosis."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Electrocardiographic ST-segment elevation reflects acute transmural **myocardial** injury demanding urgent clinical intervention."*

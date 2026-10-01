@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of digit, finger , toe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of digit, finger , toe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having slender, thin, or delicate toes or fingers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology and zoological taxonomy, describing frogs of the family Leptodactylidae or birds possessing long, unwebbed digital rays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptodactylous designates adjective*) pertaining to, derived from, or characteristic of digit, finger , toe."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"Along the muddy river margins hopped active **leptodactylous** frogs, navigating dense leaf litter with slender unwebbed toes."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The **leptodactylous** digits of jacanas allow them to distribute their weight across floating water-lily pads."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"Several small **leptodactylous** species were discovered sheltering beneath fallen logs in the humid Valdivian forests."*

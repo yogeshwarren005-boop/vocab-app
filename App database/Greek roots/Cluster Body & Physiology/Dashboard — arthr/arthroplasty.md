@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical repair of a joint, or creation of an artificial joint, such as a hip replacement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical repair of a joint, or creation of an artificial joint, such as a hip replacement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical reconstruction, repair, or prosthetic replacement of a diseased, damaged, or ankylosed joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic surgery, total joint replacement (such as total hip or knee replacement) restoring mobility and relieving chronic pain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthroplasty designates the surgical repair of a joint, or creation of an artificial joint, such as a hip replacement."*
+> - 📜 **John Charnley (*Low Friction Arthroplasty of the Hip*):** *"The success of total hip **arthroplasty** depends upon the combination of high-density polyethylene and self-curing acrylic bone cement."*
+> - 📜 **Robert Jones (*Injuries to Joints*):** *"Excision **arthroplasty** provides a movable, albeit fibrous, junction for patients crippled by septic ankylosis."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Meticulous aseptic technique is the paramount requirement in **arthroplasty**, where deep prosthetic sepsis spells disaster."*

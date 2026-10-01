@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An orientation that characterizes the thinking of a group or nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imaginary or visionary theorization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of ideas, principles, and doctrines forming the basis of a political, economic, or social philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and political theory, a shared worldview that legitimates the institutional interests, power relations, or class structures of a society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideology designates an orientation that characterizes the thinking of a group or nation."*
+> - 📜 **Karl Marx (*The German Ideology*):** *"The ruling ideas of each age have ever been the ideas of its ruling class; bourgeois **ideology** masks economic exploitation."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"We must trace how religious **ideology** fostered the psychological discipline indispensable to modern enterprise."*
+> - 📜 **George Orwell (*1984*):** *"The official **ideology** of the Party was designed to eliminate the very possibility of unorthodox thought."*

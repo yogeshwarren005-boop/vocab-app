@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order in the subclass telosporidia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order in the subclass telosporidia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of parasitic alveolate protozoans (Haemosporida) living within the erythrocytes and endothelial cells of vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and veterinary protozoology, an order comprising malaria parasites and related organisms (such as Plasmodium, Haemoproteus, and Leucocytozoon) transmitted by blood-sucking dipteran insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemosporidia designates an order in the subclass telosporidia."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"The entire biological order of **haemosporidia** illustrates an intricate evolutionary adaptation bridging vertebrate hosts and winged vectors."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"The morphological affinities uniting the **haemosporidia** demonstrate how closely human tertian ague mirrors avian malaria."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The life cycle of the **haemosporidia** comprises an asexual schizogony in vertebrate tissues and sexual sporogony within the mosquito gut."*

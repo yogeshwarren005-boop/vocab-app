@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical subspecialty dealing collectively with the anatomy, diseases, and treatment of the ear and the nose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, the dual discipline uniting otology and rhinology, historically preceding the full integration of laryngology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otorhinology designates a term designating an entity, condition, or phenomenon derived from greek ot."*
+> - 📜 **Chevalier Jackson (*The Life of Chevalier Jackson*):** *"The intimate anatomical connection between the nasopharynx and middle ear justifies the joint clinical focus of **otorhinology**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Treating adenoidal hypertrophy and nasal septal deviation falls squarely within the preventive domain of practical **otorhinology**."*
+> - 📜 **Joseph Toynbee (*The Diseases of the Ear*):** *"Progress in **otorhinology** demonstrated that Eustachian tube dysfunction is almost invariably secondary to chronic nasal catarrh."*

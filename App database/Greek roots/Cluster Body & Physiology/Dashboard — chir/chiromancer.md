@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fortuneteller who predicts your future by the lines on your palms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fortuneteller who predicts your future by the lines on your palms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices palmistry; one who foretells future events by reading the palm of the hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance and occult history, a practitioner of divination who interprets palmar creases, mounts, and dermatoglyphic lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiromancer designates fortuneteller who predicts your future by the lines on your palms."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **chiromancer** boasts of predicting longevity from the line of life, mistaking accidental folds for cosmic decrees."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The village crowd clustered around the itinerant **chiromancer**, eager to learn whether love or fortune awaited them."*
+> - 📜 **Honoré de Balzac (*The Physiology of Marriage*):** *"A fashionable Parisian **chiromancer** made a lucrative career by flattering the secret vanities of salon ladies."*

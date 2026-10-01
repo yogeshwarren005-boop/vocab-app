@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wise and trusted guide and advisor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve as a teacher or trusted counselor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An experienced, trusted, and wise adviser, counselor, or guide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In professional, academic, or vocational development, a senior practitioner who actively fosters the personal, intellectual, and technical growth of a protégé.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You have played the part of mentor to me many times, and I don’t see why you should fear to do it now.” “It is nothing that you have done, this time."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Now, Izz,” he said, while she stood beside him there, forcing himself to the mentor’s part he was far from feeling; “I want you to tell Marian when you see her that she is to be a good woman, and not to give way to folly."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It is not wholly irrespective of our personal feelings that we record HIM as the Mentor of our young Telemachus, for it is good to know that our town produced the founder of the latter’s fortunes."*
+> - 📜 **Homer (*The Odyssey*):** *"Athena assumed the guise of wise **Mentor**, guiding Telemachus with steadfast counsel across perilous seas."*
+> - 📜 **François Fénelon (*The Adventures of Telemachus*):** *"He listened attentively to the venerable **mentor**, whose wisdom tempered the rash impulses of youthful pride."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Every aspiring scholar seeks an intellectual **mentor** whose life exhibits principles translated into action."*

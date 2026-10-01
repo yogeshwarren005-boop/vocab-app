@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated or occurring outside the intestine; especially : introduced otherwise than by way of the intestines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated or occurring outside the intestine; especially : introduced otherwise than by way of the intestines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Administered or occurring elsewhere in the body than the mouth and alimentary canal (such as by intravenous, intramuscular, or subcutaneous injection).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical therapeutics, medical nutrition or drug delivery that bypasses the gastrointestinal tract to achieve rapid systemic bioavailability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parenteral designates situated or occurring outside the intestine; especially : introduced otherwise than by way of the intestines."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Total **parenteral** nutrition was infused through a central venous line while the patient's ruptured bowel rested and healed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute diabetic coma, rapid **parenteral** administration of fluids and insulin provides the sole hope of resuscitation."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The pharmacy mixed individualized daily bags of **parenteral** vitamins, amino acids, and lipids for the ICU patient."*

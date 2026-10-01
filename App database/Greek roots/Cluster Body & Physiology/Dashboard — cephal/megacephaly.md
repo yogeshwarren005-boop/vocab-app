@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cephal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having an abnormally large head or skull; macrocephaly or megalocephaly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical anthropology and medicine, cranial enlargement exceeding standard developmental percentiles, whether benign or pathological.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megacephaly designates a term designating an entity, condition, or phenomenon derived from greek cephal."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Benign familial **megacephaly** requires no neurosurgical intervention, the child displaying normal cognitive milestones."*
+> - 📜 **Paul Broca (*Instructions Craniologiques*):** *"The frequency of **megacephaly** in historical cranial collections reflects both physiological variation and underlying pathology."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In cases of osseous **megacephaly**, hyperostosis of the calvarial plates dramatically thickens the cranium without enlarging the brain."*

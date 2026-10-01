@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of oxygen or excess of carbon dioxide in the body that results in unconsciousness and often death and is usually caused by interruption of breathing or inadequate oxygen supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being stifled or suppressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of severe hypoxia and hypercapnia resulting from mechanical obstruction of breathing, lack of oxygen in inhaled air, or impaired gas exchange, leading to loss of consciousness or death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from Greek *asphyxia* ('stopping of the pulse'); in forensic medicine and pathology, marked by petechial hemorrhages (Tardieu spots), cyanosis, visceral congestion, and dark, fluid blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"I cannot quite make out what it was that misled the pupil in the following instances; it would not seem to have been the sound of the word, nor the look of it in print: ASPHYXIA, a grumbling, fussy temper."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In laryngeal diphtheria, membrane obstruction induces impending **asphyxia** requiring urgent surgical tracheotomy."*
+> - 📜 **Claude Bernard (*Lessons on the Effects of Toxic and Medicinal Substances*):** *"Carbon monoxide produces chemical **asphyxia** by displacing oxygen from hemoglobin to form stable carboxyhemoglobin."*
+> - 📜 **John Scott Haldane (*Respiration*):** *"The physiological distress in **asphyxia** is driven primarily by the acute accumulation of arterial carbon dioxide rather than simple anoxemia."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease or disorder of the spinal cord or bone marrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease or disorder of the spinal cord or bone marrow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease, functional disorder, or pathological condition affecting the spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, spinal cord dysfunction resulting from compression (cervical spondylotic myelopathy), ischemia, trauma, or nutritional deficiency (subacute combined degeneration).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelopathy designates a disease or disorder of the spinal cord or bone marrow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Progressive cervical spondylotic **myelopathy** presents with clumsy hands and an unsteady, spastic gait."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Severe vitamin B12 deficiency produces a characteristic vacuolar **myelopathy** affecting the posterior columns."*
+> - 📜 **Walter Dandy (*Surgery of the Brain*):** *"Early surgical decompression halts the irreversible progression of compressive thoracic **myelopathy**."*

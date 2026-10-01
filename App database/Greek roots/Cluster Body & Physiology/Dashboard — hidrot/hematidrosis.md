@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hidrot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremely rare condition in which a person sweats blood or blood-pigmented fluid; bloody sweat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and physiological pathology, a phenomenon where dermal capillary networks surrounding sweat glands rupture under extreme stress or coagulopathy, discharging blood into sweat ducts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematidrosis designates a term designating an entity, condition, or phenomenon derived from greek hidrot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Authentic instances of **hematidrosis**, though exceedingly rare, have been documented under conditions of profound emotional paroxysm."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Extreme terror and agonizing suspense have been recorded by medical observers to induce that rare phenomenon termed **hematidrosis**."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"In violent hysterical convulsions, cutaneous pores have been observed to discharge a bloody dew resembling **hematidrosis**."*

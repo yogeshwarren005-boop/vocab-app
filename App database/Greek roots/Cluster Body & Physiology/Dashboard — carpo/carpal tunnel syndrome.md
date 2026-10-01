@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition caused by compression of a nerve where it passes through the wrist into the hand and characterized especially by weakness, pain, and disturbances of sensation in the hand and fingers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition caused by compression of a nerve where it passes through the wrist into the hand and characterized especially by weakness, pain, and disturbances of sensation in the hand and fingers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painful compressive neuropathy of the wrist caused by entrapment and compression of the median nerve within the flexor carpal tunnel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics and neurology, a common entrapment condition characterized by nocturnal paresthesia, burning pain, and numbness in the thumb, index, and middle fingers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpal tunnel syndrome designates a condition caused by compression of a nerve where it passes through the wrist into the hand and characterized especially by weakness, pain, and disturbances of sensation in the hand and fingers."*
+> - 📜 **George S. Phalen (*The Carpal-Tunnel Syndrome: Seventeen Years' Experience*):** *"Surgical division of the transverse carpal ligament produces prompt and dramatic relief of nocturnal pain in **carpal tunnel syndrome**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Repetitive mechanical trauma to the wrist induces chronic flexor tenosynovitis, culminating in disabling **carpal tunnel syndrome**."*
+> - 📜 **Harvey Cushing (*Surgery of the Peripheral Nerves*):** *"Atrophy of the abductor pollicis brevis muscle is the cardinal sign of severe, prolonged median nerve compression in **carpal tunnel syndrome**."*

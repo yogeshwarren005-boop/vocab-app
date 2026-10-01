@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lives in a tribe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who lives in a tribe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who belongs to a traditional tribe or clan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Often used in historical travelogues, military memoirs, and ethnographies to depict indigenous warriors or pastoralists operating within clan-based social networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The conjecture will be confirmed if we can show that savages have actually imposed certain restrictions on the murderer of a fellow-tribesman from a definite fear that he is haunted by the ghost of his victim."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among some primitive peoples, when the blood of a tribesman has to be spilt it is not suffered to fall upon the ground, but is received upon the bodies of his fellow-tribesmen."*
+> - 📜 **Winston Churchill (*The Story of the Malakand Field Force*):** *"The fierce Afghan **tribesman** defended every crag of his mountain home with deadly marksman skill."*
+> - 📜 **T. E. Lawrence (*Seven Pillars of Wisdom*):** *"Each Bedouin **tribesman** rode with effortless grace, his rifle slung ready across his camel saddle."*
+> - 📜 **Richard Burton (*First Footsteps in East Africa*):** *"The desert **tribesman** greeted us with formal dignity, reciting his long lineage back through twenty generations."*

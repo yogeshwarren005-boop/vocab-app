@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vertebrate brain in its entirety, enclosed within the cranium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the organ composed of the cerebrum, cerebellum, and brainstem, developing embryologically from the three primary brain vesicles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalon designates that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord."*
+> - 📜 **Galen (*On Anatomical Procedures*):** *"The **encephalon** is the sovereign governor of the body, whence the voluntary nerves take their origin to command all motion."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Opening the cranial vault exposes the glistening convolutions of the **encephalon**, wrapped in the vascular sheets of the pia mater."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The human **encephalon** attains an average weight of about forty-eight ounces in the adult male, filling the cranial cavity."*

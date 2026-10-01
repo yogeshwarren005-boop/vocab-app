@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an entertaining manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an entertaining manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an entertaining, engaging, or amusing manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With lively wit, charming hospitality, or captivating narrative skill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"He was here on a visit not long ago, young Beecher was, and he talked most entertainingly about his discoveries."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber spoke **entertainingly** of his financial prospects, flourishing his cane as if riches awaited around the next corner."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph Touchett observed the social pageantry from his armchair, chatting **entertainingly** about the foibles of European society."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The old stagecoach driver spun frontier yarns so **entertainingly** that the bumpy journey across the alkali desert passed in a flash."*

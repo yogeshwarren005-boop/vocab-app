@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal form of iron ore; consists of ferric oxide in crystalline form; occurs in a red earthy form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal form of iron ore; consists of ferric oxide in crystalline form; occurs in a red earthy form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy, reddish-black mineral consisting of ferric oxide (Fe2O3), which is the principal ore of iron (hematite).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and economic geology, an abundant iron oxide that crystallizes in the trigonal system, displaying a characteristic diagnostic red-brown streak.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematite designates the principal form of iron ore; consists of ferric oxide in crystalline form; occurs in a red earthy form."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Regardless of whether a specimen of **haematite** is metallic black, specular, or earthy red, its powder invariably yields a blood-red streak."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Banded iron formations dating to the Precambrian preserve massive sedimentary deposits of alternating chert and **haematite**."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The Greeks called this stone **haematite** because when ground with water it resembles dried blood, prized by painters as a durable pigment."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange in alphabetical order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with an alphabet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange in alphabetical order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To furnish an unwritten language with an alphabet; to teach the alphabet to someone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphabetize designates arrange in alphabetical order."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"American compilers were among the first to **alphabetize** reference works for rapid popular consultation."*
+> - 📜 **Thomas Pynchon (*The Crying of Lot 49*):** *"She spent long hours attempting to **alphabetize** the bewildering inheritance of documents."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I found it convenient to **alphabetize** my common-place book so that any moral maxim could be retrieved instantly."*

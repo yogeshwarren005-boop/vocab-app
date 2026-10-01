@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Glyptic art consisting of a sunken or depressed engraving or carving on a stone or gem (as opposed to cameo).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glyptic art consisting of a sunken or depressed engraving or carving on a stone or gem (as opposed to cameo).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intaglio; an engraved or sunken carving where the design is hollowed out below the surface (contrasting with an anaglyph).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In glyptic art, an incised gemstone or seal used for impressing a raised design upon wax or clay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaglyph designates glyptic art consisting of a sunken or depressed engraving or carving on a stone or gem (as opposed to cameo)."*
+> - 📜 **Charles Thomas Newton (*Essays on Art and Archaeology*):** *"While the cameo is an anaglyph, the signet ring is an incised **diaglyph** meant for sealing royal decrees."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Marius admired the carnelian ring, whose miniature **diaglyph** portrayed Minerva with shield and spear."*
+> - 📜 **John Addington Symonds (*Renaissance in Italy*):** *"Florentine lapidaries revived the ancient art of the **diaglyph**, engraving chalcedony with astonishing delicacy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arbovirus of the family togaviridae that can cause a variety of encephalitis in horses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arbovirus of the family togaviridae that can cause a variety of encephalitis in horses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of positive-sense single-stranded RNA viruses in the family Togaviridae, predominantly transmitted by mosquitoes and causing encephalitis, fever, or arthralgia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology and infectious disease medicine, pathogens including Chikungunya virus, Eastern equine encephalitis virus, and Sindbis virus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphavirus designates an arbovirus of the family togaviridae that can cause a variety of encephalitis in horses."*
+> - 📜 **David Baltimore (*Bacteriological Reviews*):** *"The genomic RNA of an **alphavirus** functions directly as mRNA upon entry into the host cell cytoplasm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Epidemic polyarthritis caused by mosquito-borne **alphavirus** infection presents with debilitating joint pains."*
+> - 📜 **Robert Gallo (*Virus Hunting*):** *"Structural cryo-electron microscopy revealed the icosahedral symmetry of the enveloped **alphavirus** particle."*

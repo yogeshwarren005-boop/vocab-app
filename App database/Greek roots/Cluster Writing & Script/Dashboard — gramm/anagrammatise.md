@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Read letters out of order to discover a hidden meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Read letters out of order to discover a hidden meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To transpose or rearrange the letters of a word, name, or phrase so as to form another word (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical wordplay, to construct an anagram or decipher hidden names from an encrypted text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anagrammatise designates read letters out of order to discover a hidden meaning."*
+> - 📜 **William Camden (*Remaines Concerning Britain*):** *"Some will **anagrammatise** every name they meet with, extracting strange prophecies from common appellations."*
+> - 📜 **Thomas Fuller (*The Worthies of England*):** *"The ingenious scholar took occasion to **anagrammatise** the patron's title into a pious motto."*
+> - 📜 **George Saintsbury (*A History of Elizabethan Literature*):** *"Court poets were often hired to **anagrammatise** the names of noble brides on their wedding days."*

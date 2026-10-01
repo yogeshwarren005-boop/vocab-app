@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of line, row.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of line, row.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In bryology (moss anatomy), having a single row or circle of peristome teeth around the capsule mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moss systematics, characterizing haplolepidous mosses whose peristome teeth are formed from a single layer of cell wall thickenings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplostichous designates adjective*) pertaining to, derived from, or characteristic of line, row."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The **haplostichous** peristome consists of sixteen uniseriate teeth that respond hygroscopically to humidity."*
+> - 📜 **Frederick Orpen Bower (*The Origin of a Land Flora*):** *"Bryologists distinguish **haplostichous** capsules from the more complex diplostichous types found in true mosses."*
+> - 📜 **Vernon Irvine Cheadle (*American Journal of Botany*):** *"Comparative examination reveals that the **haplostichous** arrangement represents a specialized reduction of peristome layers."*

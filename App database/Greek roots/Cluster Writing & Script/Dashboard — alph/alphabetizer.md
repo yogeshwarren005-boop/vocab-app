@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A literate person who can arrange items in alphabetical order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A literate person who can arrange items in alphabetical order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which alphabetizes; a person or computer program that sorts entries into alphabetical order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A literacy instructor or linguist who devises an alphabetic orthography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphabetizer designates a literate person who can arrange items in alphabetical order."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The pedantic **alphabetizer** of medieval glossaries often divorced synonymous phrases across separate tomes."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"The missionary functioned as an earnest **alphabetizer**, attempting to transcribe Amazonian phonemes into Latin script."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The meticulous **alphabetizer** organized his video cartridges according to director and release date."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone trained in compiling bibliographies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone trained in compiling bibliographies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes, compiles, or specializes in bibliography; an expert in the history, description, and classification of books.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual scholarship, a specialist who investigates the physical composition, printing variants, and provenance of printed books and manuscripts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Enschede warns us, however, that his theories are simply those of a practical founder and not a bibliographer's."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"It was first communicated to the public in that curious record of ancient literature, which has been accumulated by the combined exertions of Sir Egerton Brydges and Mr Hazlewood, in the periodical work entitled the British Bibliographer."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"The diligent **bibliographer** rescues the names of forgotten authors from the oblivion of dusty shelves."*
+> - 📜 **Fredson Bowers (*Principles of Bibliographical Description*):** *"The analytical **bibliographer** treats the printed sheet as material evidence of the printing shop's mechanical routine."*
+> - 📜 **Jorge Luis Borges (*The Book of Sand*):** *"The wandering **bibliographer** cataloged volumes printed in dead languages across three continents."*

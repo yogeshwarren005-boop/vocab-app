@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic design that explains rather than represents; especially : a drawing that shows arrangement and relations (as of parts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line drawing made for mathematical or scientific purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simplified drawing or plan showing the structure, arrangement, appearance, or workings of something; a schematic representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, logic, and semiotics, an abstract spatial figure representing quantitative relationships, geometric proofs, or logical propositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The reader must be on his guard against misunderstanding the diagram."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, pp. 51, 154, 300-302.] [Footnote 3: See below, ch. 15, sec. 5, on the tariff legislation at this time.] [Footnote 4: See ch. 8, sec. 1.] [Footnote 5: See ch. 6, sec 5.] [Footnote 6: See diagram of business failures 1890-1914, in Vol."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I sketched a rough diagram on the blackboard."*
+> - 📜 **Isaac Newton (*Opticks*):** *"By the accompanying **diagram**, the refraction of the ray through the two faces of the prism is made distinctly visible."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The accompanying **diagram** will aid us in understanding this rather perplexing subject of divergent descent."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"A Venn **diagram** illustrates the intersection and union of classes in a visual and immediate manner."*

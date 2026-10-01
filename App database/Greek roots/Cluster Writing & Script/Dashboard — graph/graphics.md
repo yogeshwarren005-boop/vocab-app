@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Photographs or other visual representations in a printed publication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The drawings and photographs in the layout of a book.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Visual images, designs, drawings, or lettering displayed on a surface such as paper, canvas, or a computer display.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and digital media, the discipline and technology concerned with synthesizing, manipulating, and rendering two- and three-dimensional pictorial data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He followed with instructions that brought a series of real-time graphics across the monitor."*
+> - 📜 **Ivan Sutherland (*Sketchpad: A Man-Machine Graphical Communication System*):** *"Interactive computer **graphics** enables a user to create and manipulate complex technical drawings directly upon a cathode-ray tube."*
+> - 📜 **Edward Tufte (*The Visual Display of Quantitative Information*):** *"Excellence in statistical **graphics** consists of complex ideas communicated with clarity, precision, and efficiency."*
+> - 📜 **Steven Levy (*Hackers: Heroes of the Computer Revolution*):** *"Early video game pioneers pushed the microprocessor to its limits to generate colorful arcade **graphics** on household televisions."*

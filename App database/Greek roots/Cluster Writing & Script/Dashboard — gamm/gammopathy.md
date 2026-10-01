@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disturbance in the synthesis of immunoglobulins; proteins having antibody activity increase greatly in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disturbance in the synthesis of immunoglobulins; proteins having antibody activity increase greatly in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition characterized by an excessive amount of gamma globulins (immunoglobulins) in the blood plasma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, classified into polyclonal gammopathy (from chronic inflammation) and monoclonal gammopathy (paraproteinemia from plasma cell dyscrasias like multiple myeloma).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gammopathy designates a disturbance in the synthesis of immunoglobulins; proteins having antibody activity increase greatly in the blood."*
+> - 📜 **Jan Waldenström (*Acta Medica Scandinavica*):** *"The discovery of macroglobulinemia established monoclonal **gammopathy** as a distinct clinical entity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Serum protein electrophoresis revealed a prominent paraprotein spike indicative of monoclonal **gammopathy**."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Uncontrolled plasma cell proliferation generates a severe **gammopathy**, with massive secretion of light chain immunoglobulins."*

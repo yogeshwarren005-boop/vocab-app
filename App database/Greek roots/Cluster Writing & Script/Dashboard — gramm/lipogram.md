@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gramm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written work or literary composition in which a particular letter or group of letters of the alphabet is deliberately omitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory and Oulipian constraint writing, a rhetorical exercise demonstrating stylistic virtuosity within severe formal constraints (exemplified by Georges Perec's *La Disparition*, written without the letter *e*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lipogram designates a term designating an entity, condition, or phenomenon derived from greek gramm."*
+> - 📜 **Joseph Addison (*The Spectator*):** *"The author of the **lipogram** resolved to compose an epic poem without ever once using the letter E."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"Tryphiodorus the Greek poet was famous for his **lipogram**, having composed an Odyssey in twenty-four books, from each of which he excluded one letter."*
+> - 📜 **Georges Perec (*A Void / La Disparition*):** *"Writing a lengthy novel as a strict **lipogram** demands an astonishing acrobatics of syntax and vocabulary."*

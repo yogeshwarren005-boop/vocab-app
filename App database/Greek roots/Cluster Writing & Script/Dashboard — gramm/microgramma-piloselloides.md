@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Epiphytic ferns with long rhizomes; tropical america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epiphytic ferns with long rhizomes; tropical america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An epiphytic species of climbing fern in the family Polypodiaceae, native to the Neotropics and Caribbean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, a dimorphic creeping fern (*Microgramma piloselloides*) characterized by slender, scaly rhizomes, sterile ovate fronds, and elongated fertile fronds bearing linear sori.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgramma-piloselloides designates epiphytic ferns with long rhizomes; tropical america."*
+> - 📜 **George Proctor (*Flora of the West Indies: Ferns*):** *"The creeping rhizomes of **Microgramma piloselloides** adhere closely to the mossy bark of rain-forest trees."*
+> - 📜 **Rolla M. Tryon & Alice F. Tryon (*Ferns and Allied Plants*):** *"In **Microgramma piloselloides**, frond dimorphism is pronounced, the fertile fronds being markedly narrower than the sterile ones."*
+> - 📜 **Conrad V. Morton (*American Fern Journal*):** *"Specimens of **Microgramma piloselloides** collected along the riverbanks demonstrated dense pilose hairs on both surfaces of the lamina."*

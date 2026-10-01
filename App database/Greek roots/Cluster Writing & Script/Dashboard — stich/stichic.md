@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of line, row.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of line, row.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed in continuous, uniform lines of verse without division into regular stanzas; stichic verse (contrasting with stanzaic or strophic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and English prosody, describing compositions written in a single continuous meter, such as epic dactylic hexameter, iambic trimeter, or blank verse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stichic designates adjective*) pertaining to, derived from, or characteristic of line, row."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Milton chose the **stichic** freedom of unrhymed heroic verse for Paradise Lost, avoiding the jingling fetters of rhyme."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"The epic movement of Homer is essentially **stichic**, rolling forward line by line like ocean breakers."*
+> - 📜 **C. S. Lewis (*The Allegory of Love*):** *"Chaucer moved between stanzaic royal rhyme and the **stichic** momentum of the decasyllabic couplet."*

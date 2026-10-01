@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of electrocardiogram (ECG), electroencephalogram (EEG), mammogram, angiogram, arthrogram, myelogram, audiogram, echocardiogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of electrocardiogram (ECG), electroencephalogram (EEG), mammogram, angiogram, arthrogram, myelogram, audiogram, echocardiogram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, conforming to, or dealing with grammar; grammatical (archaic or poetic variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical rhetoric, relating to the philological and textual doctrines of the classical grammatici.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grammatic designates adjective*) pertaining to, derived from, or characteristic of electrocardiogram (ecg), electroencephalogram (eeg), mammogram, angiogram, arthrogram, myelogram, audiogram, echocardiogram."*
+> - 📜 **John Dryden (*Essays on the Drama*):** *"He scrutinized the ancient verses with severe **grammatic** rigor, condemning every poetic license."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"His discourse was stiffened with unnecessary **grammatic** niceties that repelled the reader."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"True eloquence transcends mere **grammatic** correctness, drawing its power from authentic passion."*

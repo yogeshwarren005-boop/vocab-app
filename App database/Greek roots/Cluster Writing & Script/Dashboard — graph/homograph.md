@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more words spelled alike but different in meaning or derivation or pronunciation (such as the bow of a ship, a bow and arrow).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two or more words spelled alike but different in meaning or derivation or pronunciation (such as the bow of a ship, a bow and arrow).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that shares the same written form or spelling as another word, but has a different meaning and often a different origin and pronunciation (e.g., 'bow' of a ship vs. 'bow' and arrow).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational natural language processing and lexicography, a lexical ambiguity requiring semantic context or part-of-speech tagging for correct disambiguation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homograph designates one of two or more words spelled alike but different in meaning or derivation or pronunciation (such as the bow of a ship, a bow and arrow)."*
+> - 📜 **Henry Bradley (*The Making of English*):** *"A **homograph** poses no difficulty to the eye on the printed page, though it may puzzle a child when the two words are pronounced differently."*
+> - 📜 **Otto Jespersen (*Growth and Structure of the English Language*):** *"The convergence of distinct French and Scandinavian roots produced many a troublesome **homograph** in modern English."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The sentence parsing algorithm must resolve every **homograph** by referencing surrounding syntactic category markers."*

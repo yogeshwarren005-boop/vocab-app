@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having multiple meanings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having multiple meanings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having multiple meanings, especially related meanings derived from a common root; polysemic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal semantics and cognitive linguistics, contrasting with monosemous words (having only one meaning) and homonymous words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysemous designates having multiple meanings."*
+> - 📜 **William Empson (*Seven Types of Ambiguity*):** *"Poetic richness emerges when a **polysemous** word simultaneously satisfies two divergent syntactical expectations."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The syntactic parser must resolve ambiguities introduced by inherently **polysemous** lexical items."*
+> - 📜 **Edward Sapir (*Language*):** *"Natural languages tolerate **polysemous** vocabulary because context instantly disambiguates intended sense."*

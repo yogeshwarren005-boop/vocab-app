@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of carve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of carve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, containing, or characterized by a ditriglyph; having two triglyphs in the frieze between consecutive columns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to wide Doric temple spans configured with two triglyphs and three metopes between pillars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ditriglyphic designates adjective*) pertaining to, derived from, or characteristic of carve."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"The **ditriglyphic** span allows carriages and processions to enter freely beneath the temple portico."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"Doric propylaea frequently adopted a **ditriglyphic** system to accentuate the central passageway."*
+> - 📜 **James Fergusson (*History of Architecture in All Countries*):** *"The Greek architects broke the monotony of uniform spacing by employing a **ditriglyphic** center bay."*

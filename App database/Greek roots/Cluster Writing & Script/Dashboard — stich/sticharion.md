@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stich.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liturgical vestment worn in Eastern Orthodox and Byzantine-rite churches by deacons and servers as an outer vestment, and by priests and bishops as an inner vestment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Byzantine liturgics, a long-sleeved tunic of silk or brocade symbolizing purity and the baptismal robe of salvation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sticharion designates a term designating an entity, condition, or phenomenon derived from greek stich."*
+> - 📜 **Timothy Ware (*The Orthodox Church*):** *"Before beginning the Divine Liturgy, the priest blesses the **sticharion**, kissing the cross embroidered upon its hem."*
+> - 📜 **Steven Runciman (*The Great Church in Captivity*):** *"The deacon walked before the holy gifts wearing an embroidered golden **sticharion** that swept the marble floor."*
+> - 📜 **Alexander Schmemann (*Introduction to Liturgical Theology*):** *"The bright white **sticharion** signifies the radiant vesture of light conferred upon the soul in holy baptism."*

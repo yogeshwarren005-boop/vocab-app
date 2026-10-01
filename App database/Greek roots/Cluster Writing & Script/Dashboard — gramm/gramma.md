@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gramm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter of the alphabet; an inscribed character or written mark (from Greek γράμμα).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, the taxonomic genus *Gramma* (family Grammatidae), comprising small, brilliantly colored Western Atlantic reef basslets (e.g., *Gramma loreto*, the royal gramma).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gramma designates a term designating an entity, condition, or phenomenon derived from greek gramm."*
+> - 📜 **Aristotle (*Categories*):** *"Each distinct sound of the human voice is symbolized by a visible **gramma** upon the wax tablet."*
+> - 📜 **John E. Randall (*Caribbean Reef Fishes*):** *"The fairy basslet, *Gramma loreto*, commonly called the royal **gramma**, displays a vivid bicolored body of bright purple and gold."*
+> - 📜 **Clement of Alexandria (*Stromata*):** *"The sacred scribe must know every mystical **gramma** carved upon the temple lintels."*

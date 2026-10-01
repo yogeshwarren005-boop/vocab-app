@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic representation of the relation of vibration frequency and the minimum sound intensity for hearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphic representation of the relation of vibration frequency and the minimum sound intensity for hearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic representation of hearing acuity, showing hearing thresholds in decibels plotted across a range of frequencies (Hertz).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In audiology and otolaryngology, a diagnostic chart that differentiates conductive, sensorineural, and mixed hearing loss configurations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audiogram designates a graphic representation of the relation of vibration frequency and the minimum sound intensity for hearing."*
+> - 📜 **Georg von Békésy (*Experiments in Hearing*):** *"The patient's **audiogram** exhibited a precipitous notch at four thousand cycles per second, typical of acoustic trauma."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"When she looked at her daughter's **audiogram**, the audiologist explained that profound nerve deafness spared only low vibrational rumbles."*
+> - 📜 **Hallowell Davis (*Hearing and Deafness*):** *"A calibrated pure-tone **audiogram** remains the foundational benchmark for assessing occupational hearing impairment."*

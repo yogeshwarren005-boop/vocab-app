@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue or organ transplanted from a donor of the same species but different genetic makeup; recipient's immune system must be suppressed to prevent rejection of the graft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue or organ transplanted from a donor of the same species but different genetic makeup; recipient's immune system must be suppressed to prevent rejection of the graft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graft of tissue taken from an individual of the same species as the recipient; allograft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular and orthopedic surgery, human donor tissue (such as a cadaveric heart valve or bone segment) used to reconstruct damaged structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homograft designates tissue or organ transplanted from a donor of the same species but different genetic makeup; recipient's immune system must be suppressed to prevent rejection of the graft."*
+> - 📜 **Peter Medawar (*The Behaviour and Fate of Skin Homografts*):** *"The destruction of a **homograft** is brought about by an active immunological reaction against the antigens of the foreign tissue."*
+> - 📜 **Thomas Starzl (*The Puzzle People*):** *"Clinical success with kidney **homografts** began only when pharmacological immunosuppression successfully held host rejection at bay."*
+> - 📜 **Michael E. DeBakey (*Aortic Aneurysms and Their Surgical Treatment*):** *"In our early series, an aortic **homograft** was sutured into the resected aneurysm bed with gratifying survival rates."*

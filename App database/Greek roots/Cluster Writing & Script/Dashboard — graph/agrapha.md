@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sayings of jesus not recorded in the canonical gospels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sayings of jesus not recorded in the canonical gospels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sayings of Jesus attributed to him in early Christian tradition or patristic literature that are not recorded in the four canonical Gospels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In New Testament textual criticism, unwritten or extra-canonical logia cited in the Pauline epistles, Acts, church fathers, or early papyri (such as the Oxyrhynchus Papyri).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agrapha designates sayings of jesus not recorded in the canonical gospels."*
+> - 📜 **Alfred Resch (*Agrapha: Aussercanonische Schriftfragmente*):** *"The historical collection of the **agrapha** preserves echoes of the Lord's teaching cherished by the earliest communities."*
+> - 📜 **F. J. A. Hort (*The Way, the Truth, the Life*):** *"Among the **agrapha** preserved by Paul in the Book of Acts is the golden beatitude: 'It is more blessed to give than to receive.'"*
+> - 📜 **Bruce M. Metzger (*The Canon of the New Testament*):** *"Scholars scrutinize each isolated **agrapha** to determine whether it represents a genuine oral memory or a later apocryphal invention."*

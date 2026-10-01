@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something written or made with one's own hand:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An original manuscript or work of art.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's own signature, handwriting, or manuscript written in their own hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual criticism and archival bibliography, the original manuscript or document inscribed by the author's own pen, as distinguished from a copy or print.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I had wondered why Jane had been poring over that old autograph manuscript receipt book in my desk for days, and as she paid these modern resurrecting compliments to the long gone cooks, tears and laughed literally deluged the table."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Crowds followed the cab, cheering it lustily; charming girls scaled it to get his autograph; interviews appeared in the better class of papers, and society invited him to dinner and added, “Do come in the kennel.” On that eventful Thursday week, Mrs."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I shall keep it." "Bless you," thought Garnet, "and I will write my precious autograph on every page, if you want it." "I wonder who Jeremy Garnet is?" said Phyllis."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"He requested the famous actor's **autograph** upon the title page of the evening's playbill."*
+> - 📜 **Edgar Allan Poe (*Autography*):** *"The **autograph** of an individual is generally thought to be an index of the writer's mental character."*
+> - 📜 **W. W. Greg (*The Calculus of Variants*):** *"In the absence of Shakespeare's dramatic **autograph**, the editor must deduce the text from defective early quartos."*

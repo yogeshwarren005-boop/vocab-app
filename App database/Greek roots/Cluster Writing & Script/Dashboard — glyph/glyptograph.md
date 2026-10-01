@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek glyph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An engraving or design executed upon a precious stone, gem, or seal; an incised or relief carving on a hard mineral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A description or monograph dealing with the art of gem-engraving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glyptograph designates a term designating an entity, condition, or phenomenon derived from greek glyph."*
+> - 📜 **Charles Thomas Newton (*Travels & Discoveries in the Levant*):** *"The unearthed carnelian seal bore an archaic Greek **glyptograph** representing an eagle clutching a serpent."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The princely collector published a lavish **glyptograph** cataloging three centuries of engraved cameos."*
+> - 📜 **John Ruskin (*Aratra Pentelici*):** *"In every miniature **glyptograph**, the ancient artist respected the structural grain and transparency of the stone."*

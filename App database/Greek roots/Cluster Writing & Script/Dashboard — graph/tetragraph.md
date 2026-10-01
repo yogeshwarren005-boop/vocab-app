@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek graph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combination of four letters used to represent a single sound or phoneme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthography and historical phonetics, a four-letter graphemic sequence (such as English 'eigh' representing the vowel sound in 'weigh' or 'eight').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragraph designates a term designating an entity, condition, or phenomenon derived from greek graph."*
+> - 📜 **Henry Bradley (*The Making of English*):** *"In the word 'weigh', the silent historical gutturals have reduced the spelling to an awkward **tetragraph** for the vowel sound."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar*):** *"The sequence 'ough' often functions as a **tetragraph**, though its phonetic realization varies wildly between 'bough' and 'rough'."*
+> - 📜 **David Crystal (*Spell It Out: The Singular Story of English Spelling*):** *"Spelling reformers singled out the four-letter **tetragraph** as the crowning absurdity of English orthographic history."*

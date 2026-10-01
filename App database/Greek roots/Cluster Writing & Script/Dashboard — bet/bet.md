@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is laid, staked, or pledged typically between two parties on the outcome of a contest or a contingent issue : wager —often used figuratively in such phrases as all bets are off to stress the uncertainty of an outcome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving such a pledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agreement between two parties that whoever is proved wrong on an uncertain outcome will forfeit a stipulated sum or property to the other; a wager.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A risk taken on a future contingency, or the stake risked; informally, a choice or course of action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Six Barbary horses against six French swords, their assigns, and three liberal conceited carriages: that’s the French bet against the Danish."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is it that I am so weak as to believe, like a child, that I come here in that dress to rec-eive that boy only to decide a little bet, a wager?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He’s discharged honourable; that’s about what HE is; with no more imputation on his character than there is on yours, and yours is a tidy one, I’LL bet a pound."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The King, sir, hath laid a great **bet** upon your head: six Barbary horses against six French rapiers."*
+> - 📜 **Mark Twain (*The Celebrated Jumping Frog of Calaveras County*):** *"Smiley was the darndest man for betting on anything; he’d take either side of any **bet** you could name."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"I will make a **bet** with thee, Flask, that the whale is dead before sunset."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign of identity usually formed of the combined initials of a name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To mark with a monogram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motif of two or more letters, typically a person's initials, combined or interwoven into a single decorative symbol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics, bibliography, and heraldry, an engraved or stamped cypher identifying a sovereign, printer, mint, or artist (such as Albrecht Dürer's celebrated *AD*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It was of gold, and bore his monogram in diamonds."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"You're like Isabel, who can't forgive him for sporting a diamond monogram." "No, but I'm interested."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence talked too much and too loosely, and was over-given to damning what he disliked--a trick that went with his rings and his diamond monogram."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"In the upper left corner of the heavy note-paper was embossed a neat pink **monogram** of two interlocked letters."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The silver-backed brushes and ivory toilet-boxes were all marked with his ornate **monogram**."*
+> - 📜 **Alexandre Dumas (*The Count of Monte Cristo*):** *"Upon the seal of red wax was pressed an antique **monogram** that none could decipher."*

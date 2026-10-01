@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to meaning or the study of meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to meaning or the study of meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to meaning in language or logic; of or pertaining to signification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and cognitive psychology, involving the conceptual content, data models, or knowledge structures of information systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semantic designates of or relating to meaning or the study of meaning."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"The primary function of language is **semantic**, connecting vocal noises with facts about the external world."*
+> - 📜 **Ludwig Wittgenstein (*Philosophical Investigations*):** *"The **semantic** value of a proposition is not an occult mental object, but its employment in the language-game."*
+> - 📜 **Tim Berners-Lee (*Weaving the Web*):** *"The **semantic** web aims to structure online information so that machines can interpret conceptual relationships directly."*

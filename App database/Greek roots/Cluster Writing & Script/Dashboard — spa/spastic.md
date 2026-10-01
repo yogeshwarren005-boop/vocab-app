@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, marked by, or affected with spasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by hypertonic muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by continuous, involuntary muscle contractions or heightened reflexes (hypertonicity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, describing a form of cerebral palsy or upper motor neuron lesion marked by stiff, clumsy gait and spasticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spastic designates relating to, marked by, or affected with spasm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **spastic** paraplegia, the knee jerks are greatly exaggerated and the gait is characteristic of bilateral corticospinal disease."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Decerebrate rigidity presents a condition of intense **spastic** muscular contraction due to uninhibited vestibulospinal reflexes."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient struggled against a **spastic** stiffness that seized his limbs whenever he attempted voluntary movement."*

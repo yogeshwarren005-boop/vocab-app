@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a word or phrase meaningful only when it occurs in the company of other words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a word or phrase meaningful only when it occurs in the company of other words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In linguistics and philosophical semantics, meaningful only in combination with other words; syncategorematic (contrasting with autosemantic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Brentano's and Husserl's philosophy of language, designating incomplete linguistic expressions that require conceptual completion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synsemantic designates of a word or phrase meaningful only when it occurs in the company of other words."*
+> - 📜 **Edmund Husserl (*Logical Investigations*):** *"Syncategorematic words like 'and' or 'if' are purely **synsemantic**, having no independent objective reference in isolation."*
+> - 📜 **Franz Brentano (*The True and the Evident*):** *"We must distinguish autosemantic terms that stand alone from **synsemantic** particles that merely modify other representations."*
+> - 📜 **John Lyons (*Semantics*):** *"Prepositions function as **synsemantic** markers whose primary purpose is to signal grammatical relations within the sentence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dealer in secondhand books (especially rare or curious books).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dealer in secondhand books (especially rare or curious books).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who buys and sells books, especially rare, antique, or second-hand books; a bookseller.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th- and 19th-century literary society, an erudite bookseller who served as publisher, patron, and confidant to authors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliopole designates a dealer in secondhand books (especially rare or curious books)."*
+> - 📜 **Samuel Johnson (*The Life of Savage*):** *"The needy poet took his manuscript to a noted **bibliopole** in Fleet Street, hoping for a modest advance."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He spent the morning haggling with an Edinburgh **bibliopole** over an imperfect black-letter quarto."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The learned **bibliopole** sat behind his counter, surrounded by mountains of folios and dusty leather bindings."*

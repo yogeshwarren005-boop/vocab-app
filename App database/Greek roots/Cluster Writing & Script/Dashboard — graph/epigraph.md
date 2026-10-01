@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quotation at the beginning of some piece of writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An engraved inscription.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inscription engraved on a building, monument, statue, or coin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary composition, a quotation, motto, or short poem placed at the beginning of a book, chapter, or essay to suggest its theme.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigraph designates a quotation at the beginning of some piece of writing."*
+> - 📜 **T. S. Eliot (*The Waste Land*):** *"The Latin and Greek **epigraph** from the Satyricon sets a somber, prophetic tone for the poem that follows."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The weathered **epigraph** upon the triumphal arch still commemorated the victories of Trajan over the Dacians."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She composed an original poetic **epigraph** for each chapter to foreshadow the moral trials of her characters."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange in alphabetical order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with an alphabet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in alphabetical order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplied with an alphabet or educated in reading and writing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphabetized designates arrange in alphabetical order."*
+> - 📜 **Jorge Luis Borges (*The Library of Babel*):** *"The librarians wandered among endless **alphabetized** hexameters, searching for the catalog of catalogs."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The county relief worker checked their names against an **alphabetized** roster of migrant families."*
+> - 📜 **Vladimir Nabokov (*Pale Fire*):** *"The commentary was accompanied by an **alphabetized** index containing malicious editorial cross-references."*

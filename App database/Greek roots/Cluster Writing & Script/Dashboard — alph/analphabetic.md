@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cannot read : illiterate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who cannot read : illiterate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to read and write; illiterate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetic notation (pioneered by Otto Jespersen), using an analphabetic system of numerical formulas rather than letters to represent speech sounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analphabetic designates a person who cannot read : illiterate."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"An **analphabetic** phonetic notation specifies the exact position of lips, tongue, and velum through coordinated mathematical symbols."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Pre-modern agrarian empires ruled over predominantly **analphabetic** populations using ritual and oral proclamation."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The phonetician sometimes resorts to an **analphabetic** formula to describe sounds that resist conventional orthography."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bibl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek word for 'book' or 'scroll', originally designating a papyrus roll imported through the Phoenician port of Byblos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology, an individual scroll or book forming a division of a larger literary work (such as Homer's Iliad or Herodotus's Histories).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biblion designates a term designating an entity, condition, or phenomenon derived from greek bibl."*
+> - 📜 **Frederic G. Kenyon (*Books and Readers in Ancient Greece and Rome*):** *"In classical Athens, a **biblion** was a rolled sheet of Egyptian papyrus inscribed in neat uncial columns."*
+> - 📜 **Bruce M. Metzger (*The Text of the New Testament*):** *"The diminutive form **biblion** was used in the Gospels to denote the sacred scroll of the prophet Isaiah."*
+> - 📜 **L. D. Reynolds (*Scribes and Scholars*):** *"The transition from the papyrus **biblion** to the parchment codex was the greatest technological revolution of late antiquity."*

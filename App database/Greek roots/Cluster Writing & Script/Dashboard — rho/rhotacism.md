@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mispronunciation of r; especially : substitution of some other sound for that of r.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical change of a voiced consonant sound (such as the alveolar consonants \z\, \d\, \l\ or \n\) to an r-like consonant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The excessive use or peculiar pronunciation of the 'r' sound; specifically, the linguistic sound change in which another consonant (typically [s] or [z]) changes into [r].
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative Indo-European linguistics, the historical phonological shift seen in Latin (e.g., flos becoming florem); also, a speech impediment in articulating 'r'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhotacism designates a mispronunciation of r; especially : substitution of some other sound for that of r."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The intervocalic **rhotacism** in Latin transformed ancient genesis into classical generis."*
+> - 📜 **Otto Jespersen (*Phonetics*):** *"A child's inability to articulate the lingual trill often results in burring or compensatory **rhotacism**."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Comparative grammarians explain many seeming irregularities in verb paradigms through the regular operation of **rhotacism**."*

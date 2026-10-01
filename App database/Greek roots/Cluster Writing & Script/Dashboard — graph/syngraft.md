@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek graph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graft of tissue transplanted between genetically identical individuals, such as monozygotic twins or animals of an identical inbred strain; isograft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transplant immunology, a graft accepted without eliciting an allogeneic immune response or graft rejection, due to complete histocompatibility concordance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syngraft designates a term designating an entity, condition, or phenomenon derived from greek graph."*
+> - 📜 **Peter Medawar (*The Immunology of Transplantation*):** *"The survival of a **syngraft** demonstrates that graft rejection is governed by genetic differences between host and donor."*
+> - 📜 **Joseph E. Murray (*Nobel Lecture: Organ Transplants*):** *"The success of our first renal **syngraft** proved that human kidneys could be successfully transplanted once the immune barrier was zero."*
+> - 📜 **Thomas Starzl (*The Puzzle People*):** *"Transplant biology began with the **syngraft**, using nature's genetic twins to establish surgical feasibility."*

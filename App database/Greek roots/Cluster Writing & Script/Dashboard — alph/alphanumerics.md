@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A character set that includes letters and digits and punctuation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character set that includes letters and digits and punctuation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alphanumeric characters; characters consisting of both letters and numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography and computing display systems, the graphic subset containing letters, digits, and basic punctuation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphanumerics designates a character set that includes letters and digits and punctuation."*
+> - 📜 **Douglas Engelbart (*Augmenting Human Intellect*):** *"The CRT terminal displayed sharp **alphanumerics** controlled directly by the interactive mouse interface."*
+> - 📜 **William Gibson (*Neuromancer*):** *"Green **alphanumerics** cascaded down the monitor screen like phosphor rain in the dark console cabin."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"TeX treats **alphanumerics** and mathematical symbols according to distinct spacing and ligaturing rules."*

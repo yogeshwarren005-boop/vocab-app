@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Setting an order and time for planned events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creating a sequence of instructions to enable the computer to do something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or activity of writing computer programs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scheduling, selection, or curation of items for a television, radio, concert, or festival schedule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Expendable is bad enough; you're programming us into suicide." "Not quite, Brad."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urgent to curtail if necessary expenditure on Public Relations, National Programming and Radio during the next two years."*
+> - 📜 **Alan Kay (*User Interface: A Personal View*):** *"Object-oriented **programming** allows us to view software as a network of cooperating independent biological cells."*
+> - 📜 **Dennis Ritchie (*The Development of the C Language*):** *"The design of C was driven by the practical needs of system **programming** on small machines."*
+> - 📜 **Bjarne Stroustrup (*The C++ Programming Language*):** *"Good **programming** consists in finding clean abstractions that accurately mirror the problem domain."*

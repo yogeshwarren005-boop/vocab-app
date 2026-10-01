@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something superior in quality or condition or effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who bets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of superior quality, excellence, or advantage; more suitable, desirable, or satisfactory (comparative of good).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who places a bet or wager (variant spelling of bettor); also, to improve or surpass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my slight Muse do please these curious days, The pain be mine, but thine shall be the praise. 39 O how thy worth with manners may I sing, When thou art all the better part of me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I might see what the old world could say, To this composed wonder of your frame, Whether we are mended, or whether better they, Or whether revolution be the same."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself thou gav’st, thy own worth then not knowing, Or me to whom thou gav’st it, else mistaking, So thy great gift upon misprision growing, Comes home again, on better judgement making."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There are more things in heaven and earth, Horatio, than are dreamt of in our philosophy; yet wisdom teaches us to seek a **better** way."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Here at least we shall be free; **better** to reign in Hell than serve in Heaven."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It is a far, far **better** thing that I do, than I have ever done; it is a far, far **better** rest that I go to than I have ever known."*

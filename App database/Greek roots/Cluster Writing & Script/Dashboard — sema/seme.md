@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguistic sign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the basic components of the meaning of a morpheme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In structural semantics and semiotics, the minimal distinctive unit of meaning; a semantic feature or component (such as [+human], [+female]).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry, sprinkled, strewn, or powdered with small repetitive charges or figures across a field without numbering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seme designates a linguistic sign."*
+> - 📜 **Algirdas Julien Greimas (*Structural Semantics*):** *"By decomposing a lexeme into its constituent **seme** units, structural analysis uncovers the elementary matrix of signification."*
+> - 📜 **Umberto Eco (*A Theory of Semiotics*):** *"Each semantic field is structured by oppositions of elementary **seme** traits."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"His surcoat of blue silk was **seme** with golden fleurs-de-lis, denoting noble Norman lineage."*

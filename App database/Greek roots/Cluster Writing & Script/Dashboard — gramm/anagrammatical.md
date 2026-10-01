@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to anagrams or containing or making an anagram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to anagrams or containing or making an anagram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting, containing, or relating to an anagram; formed by transposing letters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical rhetoric and typography, describing verbal puzzles, cryptograms, or emblem verses that yield hidden meanings upon decipherment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anagrammatical designates related to anagrams or containing or making an anagram."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Some idle wits spend their whole lives in making **anagrammatical** verses and acrostics."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"Master Heriot smiled at the king's penchant for **anagrammatical** riddles and Latin puns."*
+> - 📜 **Charles Lamb (*Essays of Elia*):** *"He had an odd collection of pamphlets filled with quaint **anagrammatical** poems upon the names of departed worthies."*

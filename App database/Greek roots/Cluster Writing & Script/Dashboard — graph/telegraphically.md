@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a short and concise manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a short and concise manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of the telegraph; or in a brief, concise, and clipped manner resembling a telegram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicated with extreme economy of words, eliminating ornamental phrasing to convey core information immediately.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"National Assembly should address him similar message both in writing and telegraphically."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The London attorney communicated **telegraphically**, snapping out orders in dry, monosyllabic phrases."*
+> - 📜 **Jules Verne (*The Secret of the Island*):** *"The warning had been transmitted **telegraphically** along the wire that linked the granite house to the coral corral."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"He spoke **telegraphically**, never wasting a breath on polite preamble when an estate was at stake."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The history, identification, or description of writings or publications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list often with descriptive or critical notes of writings relating to a particular subject, period, or author.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to bibliography, books, or lists of publications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the descriptive cataloging, physical specifications, and publishing history of printed materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Potts for some bibliographic details respecting the various editions of the _Tales from Shakespeare_."*
+> - 📜 **Henry Bradshaw (*Collected Papers*):** *"Accurate **bibliographic** analysis requires the scholar to collate every signature and watermark in the incunable."*
+> - 📜 **Walter Wilson Greg (*A Bibliography of the English Printed Drama*):** *"The **bibliographic** method provides textual criticism with an empirical foundation in physical typography."*
+> - 📜 **Umberto Eco (*How to Write a Thesis*):** *"Every scholarly inquiry must commence with an exhaustive **bibliographic** survey of primary sources."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: semantics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: semantics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of linguistics concerned with the meaning of words and the historical development of their meanings; an older term for semantics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century philology, the systematic study of semantic change, polysemy, and metaphoric transfer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semasiology designates semantics."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Comparative **semasiology** reveals how spiritual concepts trace their physical roots back to tangible material metaphors."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"The historical linguist relies on **semasiology** to trace the astonishing migrations of words from concrete to abstract senses."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Before the term semantics gained universal acceptance, scholars studied semantic shift under the banner of **semasiology**."*

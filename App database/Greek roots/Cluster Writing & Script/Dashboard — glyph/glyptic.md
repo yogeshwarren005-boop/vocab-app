@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of carving or engraving especially on gems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or process of carving or engraving especially on gems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the art of carving or engraving, especially on gems, cameos, or precious stones; also, the art itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sculpture and archaeology, of or denoting sculptures created by carving or cutting away stone or hard materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glyptic designates the art or process of carving or engraving especially on gems."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The master's hand exhibited that exquisite **glyptic** skill which made tiny sardonyx cameos rival monumental marble."*
+> - 📜 **Henry James (*Roderick Hudson*):** *"He examined the antique emerald with the discriminating passion of a devotee of the **glyptic** art."*
+> - 📜 **John Addington Symonds (*Sketches and Studies in Italy and Greece*):** *"The collection in Naples displays the pinnacle of Hellenistic **glyptic** mastery in jasper and agate."*

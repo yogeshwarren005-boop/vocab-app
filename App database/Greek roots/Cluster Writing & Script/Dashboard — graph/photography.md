@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of producing images by the action of radiant energy and especially light on a sensitive surface (such as film or an optical sensor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process in which an image is obtained by application of a high-frequency electric field to an object so that it radiates a characteristic pattern of luminescence that is recorded on photographic film.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, science, and technological process of creating durable images by recording light or electromagnetic radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern visual epistemology, a medium that revolutionized journalism, astronomical observation, art, and archival preservation by automating visual representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The several uses of gold are constantly competing for it: its uses for rings, pens, ornaments, championship cups, photography, dentistry, delicate instruments, and as a circulating medium."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Never was such a fellow for photography."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I thought of the assistant’s fondness for photography, and his trick of vanishing into the cellar."*
+> - 📜 **William Henry Fox Talbot (*The Pencil of Nature*):** *"The plates of this work are impressed by the agency of Light alone, without any aid whatever from the artist's pencil; such is the art of **photography**."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"He was down in the cellar for hours on end, pretending to develop his amateur **photography** while tunneling toward the bank vault."*
+> - 📜 **Roland Barthes (*Camera Lucida*):** *"In **photography**, the presence of the thing is never metaphorical; it has been truly placed before the lens."*

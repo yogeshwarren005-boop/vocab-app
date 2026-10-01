@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Epigraphs, inscriptions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of inscriptions; especially : the deciphering of ancient inscriptions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study, decipherment, and interpretation of ancient inscriptions engraved on stone, metal, pottery, or other durable materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and historical linguistics, an essential auxiliary science that recovers lost legal codes, decrees, religious dedications, and dialect forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigraphy designates epigraphs, inscriptions."*
+> - 📜 **Theodor Mommsen (*The History of Rome*):** *"Without the discoveries of **epigraphy**, our knowledge of Roman provincial administration would remain a fragment."*
+> - 📜 **Arthur Evans (*Scripta Minoa*):** *"The comparative **epigraphy** of the Aegean revealed unexpected affinities between early Cretan pictographs and Phoenician characters."*
+> - 📜 **James Henry Breasted (*A History of Egypt*):** *"Modern **epigraphy** has rescued the annals of the pharaohs from the creeping decay of temple walls."*

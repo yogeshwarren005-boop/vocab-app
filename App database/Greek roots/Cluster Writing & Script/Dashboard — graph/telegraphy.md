@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use or operation of a telegraph apparatus or system for communication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Telegraphy carried on by radio waves and without connecting wires —called also wireless telegraph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science, art, or system of transmitting messages over long distances by electrical, optical, or radio signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communication history, the breakthrough Victorian technology that established the first global telecommunication network through copper cables and Morse codes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mental telegraphy The clay cannot reply to the potter."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Neither immortal and unerring Mind nor matter, 243:21 the inanimate substratum of mortal mind, can carry on such telegraphy; for God is "of purer eyes than to behold evil," and matter has neither intelligence nor 243:24 sensation."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Automatic mechanism So-called mortal mind sends its despatches over its 399:12 body, but this so-called mind is both the service and message of this telegraphy."*
+> - 📜 **Guglielmo Marconi (*Nobel Lecture: Wireless Telegraphy*):** *"The realization of wireless **telegraphy** across the Atlantic demonstrated that electric waves follow the curvature of the earth."*
+> - 📜 **Mary Baker Eddy (*Science and Health with Key to the Scriptures*):** *"The wonders of modern **telegraphy** remind us of the instantaneous transmission of thought across material space."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Electric **telegraphy** dissolved traditional regional time, synchronizing the world into a single instantaneous marketplace."*

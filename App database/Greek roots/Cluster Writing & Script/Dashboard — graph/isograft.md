@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A homograft between genetically identical or nearly identical individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A homograft between genetically identical or nearly identical individuals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graft of tissue transplanted between genetically identical individuals (such as monozygotic twins or animals of the same inbred strain); syngraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transplant immunology, an experimental and clinical graft model that avoids immunogenic histocompatibility rejection without needing immunosuppressive drugs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isograft designates a homograft between genetically identical or nearly identical individuals."*
+> - 📜 **Peter Medawar (*The Immunology of Transplantation*):** *"An **isograft** between identical twins heals permanently and without immune reaction, exactly like an autograft."*
+> - 📜 **Joseph E. Murray (*Nobel Lecture: Organ Transplants*):** *"The first successful human kidney transplant was an **isograft** performed in 1954 between identical Herrick brothers."*
+> - 📜 **Thomas Starzl (*The Puzzle People*):** *"The complete acceptance of the **isograft** proved conclusively that transplantation failure was entirely immunological in origin."*

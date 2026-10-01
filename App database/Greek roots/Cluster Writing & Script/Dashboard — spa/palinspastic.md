@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of draw, pull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of draw, pull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the reconstruction of geological formations or tectonic plates to their original geographic configurations prior to folding or faulting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology and paleogeography, describing palinspastic maps that restore foreshortened or faulted strata to their pre-orogenic state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palinspastic designates adjective*) pertaining to, derived from, or characteristic of draw, pull."*
+> - 📜 **John Rodgers (*The Tectonics of the Appalachians*):** *"A **palinspastic** restoration of the folded valley reveals that the crust suffered more than fifty percent tectonic shortening."*
+> - 📜 **Philip B. King (*The Evolution of North America*):** *"Constructing a **palinspastic** map allows the geologist to visualize the original sedimentary basin before mountain-building thrusts intervened."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Without **palinspastic** adjustments, paleogeographic reconstructions of ancient fold belts remain severely distorted."*

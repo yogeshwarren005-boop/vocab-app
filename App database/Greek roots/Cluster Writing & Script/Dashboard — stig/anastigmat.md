@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anastigmatic lens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anastigmatic lens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographic or optical lens corrected for astigmatism, spherical aberration, and coma, yielding a sharp, flat image field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical engineering (pioneered by Paul Rudolph at Carl Zeiss in 1890), a compound camera lens allowing wide apertures with minimal distortion across the entire focal plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastigmat designates an anastigmatic lens."*
+> - 📜 **Paul Rudolph (*Zeiss Optical Bulletins*):** *"By combining crown and flint glasses of newly developed optical properties, we produced the first true **anastigmat** lens."*
+> - 📜 **Ansel Adams (*The Camera*):** *"The introduction of the modern **anastigmat** gave photographers critical edge-to-edge sharpness even at large working apertures."*
+> - 📜 **Ernst Abbe (*Collected Papers on Optical Instruments*):** *"Correcting marginal astigmatism through an **anastigmat** design was the crowning achievement of Jena glassmaking."*

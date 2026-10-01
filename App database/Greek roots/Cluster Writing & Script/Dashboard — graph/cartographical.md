@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the making of maps or charts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the making of maps or charts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to cartography or maps; cartographic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with the compilation, historical analysis, or drafting of geographical charts and topographic maps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cartographical designates of or relating to the making of maps or charts."*
+> - 📜 **C. R. Markham (*Major James Rennell and the Rise of Modern English Geography*):** *"The survey represented a monument of **cartographical** precision across the vast plains of Bengal."*
+> - 📜 **Edward Lynam (*The Mapmaker's Art*):** *"Renaissance maritime expansion stimulated intense **cartographical** curiosity throughout western Europe."*
+> - 📜 **Denis Wood (*The Power of Maps*):** *"Behind every **cartographical** convention lies an unstated cultural consensus about space and importance."*

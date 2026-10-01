@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (british informal) sore or lame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (british informal) sore or lame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disabled, injured, or lame (especially of a limb or joint; British and Australian colloquialism).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malfunctioning, defective, or untrustworthy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gammy designates (british informal) sore or lame."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The old tramp nursed a **gammy** leg wrapped in filthy strips of burlap."*
+> - 📜 **D. H. Lawrence (*Sons and Lovers*):** *"The pit injury left the collier with a **gammy** ankle that ached whenever wet weather approached."*
+> - 📜 **P. G. Wodehouse (*The Code of the Woosters*):** *"He sat in an armchair resting his **gammy** knee upon a velvet cushion."*

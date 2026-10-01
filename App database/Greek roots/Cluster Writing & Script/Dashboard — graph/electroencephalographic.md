@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an electroencephalograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an electroencephalograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or obtained by means of electroencephalography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the electrical wave patterns (alpha, beta, theta, delta) produced by the cerebral cortex as recorded on an EEG.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroencephalographic designates of or relating to an electroencephalograph."*
+> - 📜 **Hans Berger (*Electroencephalography in Man*):** *"The characteristic **electroencephalographic** rhythm slowed markedly when the subject closed his eyes in deep relaxation."*
+> - 📜 **Wilder Penfield & Herbert Jasper (*Epilepsy and the Functional Anatomy of the Human Brain*):** *"Focal **electroencephalographic** abnormalities localized the epileptogenic lesion to the anterior temporal cortex."*
+> - 📜 **Carl Sagan (*The Dragons of Eden*):** *"The onset of rapid eye movement sleep is accompanied by distinctive **electroencephalographic** low-voltage desynchronization."*

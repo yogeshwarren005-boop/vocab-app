@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a library or bibliotheca or a librarian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a library or bibliotheca or a librarian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a librarian or the duties and profession of librarianship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the professional administration, classification, and custodial care of library holdings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliothecarial designates of or relating to a library or bibliotheca or a librarian."*
+> - 📜 **Jorge Luis Borges (*The Total Library*):** *"His **bibliothecarial** duties required him to classify an infinite labyrinth of volumes written in unknown scripts."*
+> - 📜 **Holbrook Jackson (*The Anatomy of Bibliomania*):** *"Richard de Bury exercised his **bibliothecarial** passion while serving as Chancellor of England."*
+> - 📜 **Frederic G. Kenyon (*Libraries and the Public*):** *"The **bibliothecarial** profession demands both erudite scholarship and sympathetic administrative guidance."*

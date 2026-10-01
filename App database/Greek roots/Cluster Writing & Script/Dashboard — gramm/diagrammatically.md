@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a diagrammatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a diagrammatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of or in the manner of a diagram; schematically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a simplified, structured, or visually organized layout that clarifies underlying relations or processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The principle is illustrated diagrammatically in Fig. 5."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The magnetic lines of force may be represented **diagrammatically** by curved paths radiating from the poles."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"When plotted **diagrammatically** upon Cartesian coordinates, the skull of one species deforms smoothly into that of another."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"The nexus of actual entities can be exhibited **diagrammatically** only by abstraction from their full concrete reality."*

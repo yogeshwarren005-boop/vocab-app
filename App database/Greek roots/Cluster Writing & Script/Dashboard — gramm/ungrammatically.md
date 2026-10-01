@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ungrammatical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ungrammatical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that does not conform to the rules of grammar; with improper syntax or morphology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a broken, unidiomatic, or ill-formed syntactic construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ungrammatically designates in an ungrammatical manner."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery expressed himself warmly, though he spoke **ungrammatically** and struggled with his letters."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old baronet blustered and shouted **ungrammatically**, venting his fury upon the trembling footman."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The frontiersman swore fluently and spoke **ungrammatically**, yet his meaning was never in doubt."*

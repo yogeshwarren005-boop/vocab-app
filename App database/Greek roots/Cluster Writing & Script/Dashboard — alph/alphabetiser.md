@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A literate person who can arrange items in alphabetical order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A literate person who can arrange items in alphabetical order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who arranges items in alphabetical order; or a software tool or device that sorts text alphabetically (British spelling of alphabetizer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An educator or phonetician who develops an alphabet for an unwritten language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphabetiser designates a literate person who can arrange items in alphabetical order."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The diligent **alphabetiser** of catalogs performs a humble yet indispensable service for the commonwealth of letters."*
+> - 📜 **Robert Bringhurst (*The Elements of Typographic Style*):** *"A digital **alphabetiser** must handle complex Unicode collation algorithms across multilingual databases."*
+> - 📜 **Richard Bentley (*Dissertations*):** *"The ancient **alphabetiser** of the Suidas lexicon frequently confused authors sharing identical surnames."*

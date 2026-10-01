@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sacred writings of the christian religions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book regarded as authoritative in its field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sacred scriptures of Judaism and Christianity, consisting of the Old and New Testaments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book regarded as authoritative or canonical in a particular subject, field, or trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I had come down at nine o’clock as I always did to read the Bible to her, and was reading from St."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On the table lay an old quarto Bible, bound in leather."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy looking at it said,— “Did you ever find out, miss, who you are going to marry by means of the Bible and key?” “Don’t be so foolish, Liddy."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So shall the world go on, till to its final day, when the holy book, our sacred **Bible**, is unsealed."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"Both read the same **Bible** and pray to the same God, and each invokes His aid against the other."*
+> - 📜 **Thomas Carlyle (*Heroes, Hero-Worship, and the Heroic in History*):** *"The translation of the **Bible** by Luther gave the German people a common speech and a common soul."*

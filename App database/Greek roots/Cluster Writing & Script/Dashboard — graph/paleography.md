@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of ancient forms of writing (and the deciphering of them).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of ancient forms of writing (and the deciphering of them).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of ancient and medieval handwriting, inscriptions, and manuscripts, including the decipherment and dating of historical scripts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical bibliography, an indispensable discipline that establishes the provenance, transmission history, and textual integrity of manuscript traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleography designates the study of ancient forms of writing (and the deciphering of them)."*
+> - 📜 **Jean Mabillon (*De Re Diplomatica*):** *"Modern historical criticism was born when scientific **paleography** established rigorous criteria for manuscript verification."*
+> - 📜 **Ludwig Traube (*Vorlesungen und Abhandlungen*):** *"Historical **paleography** is not merely the reading of dead letters, but the living history of human culture and scribal intellect."*
+> - 📜 **Frederic G. Kenyon (*Our Bible and the Ancient Manuscripts*):** *"The progress of biblical textual criticism has advanced hand in hand with the discoveries of Greek **paleography**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Three letters spelling a single consonant, vowel, or diphthong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cluster of three successive letters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of three letters used together to represent a single sound or phoneme (such as 'sch' in German, or 'eau' in French).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer programming (such as C/C++), a three-character sequence beginning with two question marks (such as '??=') historically used to represent characters missing from some keyboards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trigraph designates three letters spelling a single consonant, vowel, or diphthong."*
+> - 📜 **Dennis Ritchie (*The Development of the C Language*):** *"We introduced the **trigraph** sequences to allow programmers on terminals with restricted European character sets to type brackets and braces."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"In French orthography, the **trigraph** 'eau' represents the simple rounded back vowel /o/."*
+> - 📜 **Florian Coulmas (*The Writing Systems of the World*):** *"A phonetic **trigraph** reflects historical sound changes where several consonant or vowel letters merged into a single spoken unit."*

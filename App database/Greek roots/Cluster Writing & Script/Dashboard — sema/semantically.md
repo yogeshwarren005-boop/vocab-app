@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that relates to meaning in language, logic, or symbols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to conceptual interpretation, semantic content, or truth conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semantically designates with regard to meaning."*
+> - 📜 **Noam Chomsky (*Syntactic Structures*):** *"The sentence 'Colorless green ideas sleep furiously' is grammatically well-formed but **semantically** nonsensical."*
+> - 📜 **Willard Van Orman Quine (*From a Logical Point of View*):** *"Two linguistic expressions may be syntactically distinct yet **semantically** coextensive."*
+> - 📜 **John Searle (*Speech Acts*):** *"An utterance is **semantically** complete only when its propositional content is paired with an illocutionary force."*

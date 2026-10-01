@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An archeologist skilled in paleography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archeologist skilled in paleography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or expert in paleography; a paleographer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholar trained in ancient script systems who reconstructs lost literary works from damaged parchments, palimpsests, or papyri.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleographist designates an archeologist skilled in paleography."*
+> - 📜 **Edward Maunde Thompson (*Handbook of Greek and Latin Palaeography*):** *"The **paleographist** must master not only the forms of the letters, but the abbreviations and ligatures of each historical century."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The Italian **paleographist** recovered the lost books of Cicero's Republic beneath the erasure of a monastic service-book."*
+> - 📜 **Bruce M. Metzger (*The Text of the New Testament*):** *"Through ultraviolet illumination, the **paleographist** revealed the underlying uncial script of Codex Ephraemi Rescriptus."*

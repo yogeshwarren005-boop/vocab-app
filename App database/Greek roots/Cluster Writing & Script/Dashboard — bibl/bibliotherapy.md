@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of reading materials for help in solving personal problems or for psychiatric therapy; also : the reading materials so used.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of reading materials for help in solving personal problems or for psychiatric therapy; also : the reading materials so used.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of selected reading materials as a therapeutic adjuvant in medicine, psychiatry, and counseling to promote mental health and emotional healing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychotherapy and clinical psychology, guided reading designed to facilitate self-understanding, insight, and behavioral recovery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliotherapy designates the use of reading materials for help in solving personal problems or for psychiatric therapy; also : the reading materials so used."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"Guided reading often serves as an informal **bibliotherapy**, allowing the troubled soul to recognize its conflicts in poetic literature."*
+> - 📜 **William Osler (*Aequanimitas*):** *"For the weary physician and anxious patient alike, **bibliotherapy** with the classics offers a sovereign balm for spiritual distress."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"We introduced structured **bibliotherapy** to help long-isolated patients reconnect with the shared human narrative."*

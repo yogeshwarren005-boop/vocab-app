@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stich.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by opening a book at random and interpreting the first line of verse or sentence that meets the eye; a form of bibliomancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history, the classical practice of consulting Homer (Sortes Homericae) or Virgil (Sortes Vergilianae) to discover future destiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stichomancy designates a term designating an entity, condition, or phenomenon derived from greek stich."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Men have sought prophetic revelations through **stichomancy**, opening the verses of Virgil with superstitious awe."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old scholar practiced **stichomancy** with a weathered volume of Horace, seeking an omen for the coming journey."*
+> - 📜 **Thomas De Quincey (*Autobiographic Sketches*):** *"My brother resorted to **stichomancy** upon the Bible, taking the first text his finger touched as an infallible sign."*

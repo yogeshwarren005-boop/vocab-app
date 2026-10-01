@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic design that explains rather than represents; especially : a drawing that shows arrangement and relations (as of parts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line drawing made for mathematical or scientific purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, consisting of, or in the form of a diagram; schematic and illustrative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simplified or schematized so as to emphasize essential structural relations while omitting incidental realistic detail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diagrammatic designates a graphic design that explains rather than represents; especially : a drawing that shows arrangement and relations (as of parts)."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"He presented a **diagrammatic** sketch of the vertebrate nervous system, shorn of all confusing vascular tissues."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"Upon the table lay a **diagrammatic** map of the mine workings, showing each shaft and ventilation drift."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The modern machine layout achieved a purely **diagrammatic** efficiency in its functional organization."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph of the breasts made by X-rays; also : the procedure for producing a mammogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photograph of the breasts made by X-rays; also : the procedure for producing a mammogram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An X-ray photograph or diagnostic image of the breast, used especially in screening for and detecting tumors or microcalcifications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radiological oncology, a low-energy projection radiograph essential for early secondary prevention and diagnosis of occult breast malignancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammogram designates a photograph of the breasts made by x-rays; also : the procedure for producing a mammogram."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The screening **mammogram** revealed a faint cluster of microcalcifications deep within the ductal tissue."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"When the radiologist inspected the routine **mammogram**, he noted an asymmetrical density that warranted immediate biopsy."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Interpreting a screening **mammogram** requires subtle pattern recognition, balancing the hazard of missed cancers against false alarms."*

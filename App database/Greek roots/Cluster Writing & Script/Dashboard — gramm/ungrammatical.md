@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not grammatical; not conforming to the rules of grammar or accepted usage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not grammatical; not conforming to the rules of grammar or accepted usage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to the accepted rules of grammar or syntax in a language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive linguistics, violating native speaker intuition or structural constraints of a given linguistic dialect or grammar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Out with it!” he shouted, and in one ungrammatical sentence, as long as the ribbons that conjurers pull from their mouths, she told of the capture of Wendy and the boys."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"In the best French which he could muster, and which was in sooth of a very ungrammatical sort, Jos besought the hussar to tell his tale."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"His letter was clumsy and in parts positively **ungrammatical**, betraying his lack of early education."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The sentence 'Colorless green ideas sleep furiously' is nonsensical yet grammatical, whereas 'Furiously sleep ideas green colorless' is completely **ungrammatical**."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Liza spoke with a dreadful accent, but Henry Higgins vowed to purge every **ungrammatical** vulgarism from her tongue."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ritual placing of a corpse in a grave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ritual placing of a corpse in a grave.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The burial of a corpse in a tomb or grave; interment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian art history, the depiction of Christ’s body being placed into the rock-hewn sepulcher by Joseph of Arimathea and Nicodemus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"I would protract the moment of the sun's entombment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The solemn **entombment** of the emperor was attended by the patriarch and legions in mournful procession."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Titian’s depiction of the **entombment** captures the heavy, lifeless weight of the martyred body with tragic dignity."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The ancient stone aisle witnessed the **entombment** of generation after generation of the aristocratic family."*

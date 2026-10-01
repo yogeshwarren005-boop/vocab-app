@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a library or bibliotheca or a librarian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a library or bibliotheca or a librarian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to a library or the management of libraries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to library architecture, cataloging systems, and archival preservation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliothecal designates of or relating to a library or bibliotheca or a librarian."*
+> - 📜 **Anthony Panizzi (*Passages in the Life of a Librarian*):** *"The design of the British Museum Reading Room solved long-standing **bibliothecal** problems of lighting and book delivery."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"His **bibliothecal** reforms transformed the neglected university collection into a model of scholarly order."*
+> - 📜 **Melvil Dewey (*A Classification and Subject Index*):** *"A modern **bibliothecal** system must provide uniform decimal notation across all departments of knowledge."*

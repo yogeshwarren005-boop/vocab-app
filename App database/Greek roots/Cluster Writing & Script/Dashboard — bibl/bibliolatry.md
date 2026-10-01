@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of the bible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of the bible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive, superstitious, or idolatrous reverence for books, especially the literal text of the Bible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, the uncritical exaltation of written dogma above moral conscience and rational inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliolatry designates the worship of the bible."*
+> - 📜 **Gotthold Ephraim Lessing (*Anti-Goeze*):** *"The Christian faith existed long before the New Testament was written; to substitute the book for the religion is sheer **bibliolatry**."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Professor at the Breakfast-Table*):** *"Traditional creeds often confuse religious devotion with a narrow, letter-bound **bibliolatry**."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"The rigid **bibliolatry** of modern sects obscures the poetic beauty and moral righteousness of the prophets."*

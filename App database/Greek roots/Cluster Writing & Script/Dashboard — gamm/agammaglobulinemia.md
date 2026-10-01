@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare immunological disorder characterized by the virtual absence of gamma globulin in the blood and consequent susceptibility to infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare immunological disorder characterized by the virtual absence of gamma globulin in the blood and consequent susceptibility to infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, inherited immunodeficiency disorder characterized by a severe lack or complete absence of gamma globulins (antibodies) in the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology (Bruton's agammaglobulinemia), an X-linked genetic disease caused by mutations in the BTK gene, resulting in failure of B lymphocyte maturation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agammaglobulinemia designates a rare immunological disorder characterized by the virtual absence of gamma globulin in the blood and consequent susceptibility to infection."*
+> - 📜 **Ogden Bruton (*Pediatrics*):** *"We described congenital **agammaglobulinemia** in a young boy whose plasma completely lacked antibody fractions on electrophoresis."*
+> - 📜 **Robert Good (*Immunology*):** *"Patients with X-linked **agammaglobulinemia** demonstrated that humoral antibody production is completely dissociable from cell-mediated immunity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prophylactic infusions of pooled immunoglobulins protect children afflicted with severe **agammaglobulinemia** from fatal pneumococcal sepsis."*

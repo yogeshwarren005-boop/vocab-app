@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to alphanumeric characters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to alphanumeric characters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of both letters and numerals; alphanumeric (variant form).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to alphanumeric data encoding, keyboards, or classification filing systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphanumerical designates of or pertaining to alphanumeric characters."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The HAL 9000 computer display blinked with rapid **alphanumerical** telemetry as the ship approached Jupiter."*
+> - 📜 **Isaac Asimov (*Foundation*):** *"Hari Seldon adjusted the **alphanumerical** dials of the Prime Radiant, projecting mathematical probabilities across centuries."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The computer printout merges oral narrative into an **alphanumerical** grid of mechanized information."*

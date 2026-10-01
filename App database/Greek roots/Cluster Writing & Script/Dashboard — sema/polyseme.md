@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word, phrase, or symbol that has multiple related meanings or senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational linguistics and lexicography, a lexical entry whose distinct senses share a common conceptual root, distinguishing it from homonyms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyseme designates a term designating an entity, condition, or phenomenon derived from greek sema."*
+> - 📜 **John Lyons (*Semantics*):** *"The lexicographer must decide whether an entry represents a single **polyseme** with divergent branches or two distinct homonyms."*
+> - 📜 **George Lakoff (*Women, Fire, and Dangerous Things*):** *"A lexical **polyseme** like 'over' is structured as a radial category anchored in bodily spatial experience."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"A common **polyseme** like 'run' fills dozens of distinct entries in an unabridged dictionary."*

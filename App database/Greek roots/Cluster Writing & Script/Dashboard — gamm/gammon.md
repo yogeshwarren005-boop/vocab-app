@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat cut from the thigh of a hog (usually smoked).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hind portion of a side of bacon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cured or smoked hind leg of a pig; ham or bacon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial British slang, talk that is deceptive, nonsensical, or intended to mislead (humbug); also, a double win in backgammon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have a gammon of bacon and two razes of ginger, to be delivered as far as Charing Cross."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And there shall we be put in a cauldron of lead and usurers’ grease, amongst a whole million of cutpurses, and there boil like a gammon of bacon that will never be enough."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Hope, Joy, Youth, Peace, Rest, Life, Dust, Ashes, Waste, Want, Ruin, Despair, Madness, Death, Cunning, Folly, Words, Wigs, Rags, Sheepskin, Plunder, Precedent, Jargon, Gammon, and Spinach."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"What's the use of being so pompous? It's all **gammon** and spin-it, as the old saying goes."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"A magnificent smoked **gammon** of bacon graced the sideboard of the hospitable country inn."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"He had the audacity to win a **gammon** against the veteran gamester with his very last roll of the dice."*

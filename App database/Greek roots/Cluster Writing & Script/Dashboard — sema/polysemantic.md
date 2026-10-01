@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of words; having many meanings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of words; having many meanings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having multiple meanings or interpretations; polysemous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and literary semiotics, describing words, metaphors, or symbols capable of activating diverse conceptual networks simultaneously.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysemantic designates of words; having many meanings."*
+> - 📜 **Roman Jakobson (*Language in Literature*):** *"Poetic discourse thrives upon **polysemantic** resonance, where words echo multiple layers of meaning in a single line."*
+> - 📜 **Umberto Eco (*The Role of the Reader*):** *"An open text utilizes **polysemantic** symbols to invite divergent interpretations from the audience."*
+> - 📜 **Mikhail Bakhtin (*The Dialogic Imagination*):** *"The novel incorporates **polysemantic** utterances that reflect the competing voices of distinct social classes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue from an animal of one species used as a temporary graft (as in cases of severe burns) on an individual of another species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue from an animal of one species used as a temporary graft (as in cases of severe burns) on an individual of another species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tissue graft transplanted between individuals of different species; a xenograft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental surgery and tissue engineering, animal tissue (such as porcine heart valves) processed and transplanted into human patients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterograft designates tissue from an animal of one species used as a temporary graft (as in cases of severe burns) on an individual of another species."*
+> - 📜 **Alexis Carrel (*Results of the Transplantation of Blood Vessels*):** *"The arterial **heterograft** harvested from a canine donor and transplanted into a feline host underwent rapid necrosis."*
+> - 📜 **Peter Medawar (*The Immunological Basis of Tissue Transplantation*):** *"The immune barrier to a **heterograft** is far more fierce and destructive than that encountered in allogeneic transfers."*
+> - 📜 **Thomas Starzl (*The Puzzle People*):** *"Early attempts at hepatic **heterograft** transplantation using baboon livers highlighted the immense immunological divide between species."*

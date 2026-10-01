@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small to medium-sized terrestrial ferns especially holly ferns; in some classification systems placed in polypodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small to medium-sized terrestrial ferns especially holly ferns; in some classification systems placed in polypodiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of ferns (family Dryopteridaceae), commonly known as holly ferns or shield ferns, bearing circular sori arranged in regular rows on the undersides of pinnae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, evergreen leptosporangiate ferns characterized by peltate indusia and sharply toothed, leathery fronds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polystichum designates small to medium-sized terrestrial ferns especially holly ferns; in some classification systems placed in polypodiaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The Christmas fern, belonging to the genus **Polystichum**, retains its dark green leathery fronds throughout winter."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Polystichum** are prized in shade gardens for their symmetrical crowns and architectural fronds."*
+> - 📜 **Frederick Orpen Bower (*The Ferns*):** *"The circular indusium attached by a central stalk distinguishes **Polystichum** from adjacent dryopteroid genera."*

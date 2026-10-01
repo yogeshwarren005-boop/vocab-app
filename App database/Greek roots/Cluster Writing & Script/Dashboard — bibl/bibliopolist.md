@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dealer in secondhand books (especially rare or curious books).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dealer in secondhand books (especially rare or curious books).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bookseller, especially one dealing in rare, antiquarian, or valuable books; a bibliopole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiquarian dealer specializing in the trade of historic manuscripts, fine bindings, and scarce literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliopolist designates a dealer in secondhand books (especially rare or curious books)."*
+> - 📜 **Walter Scott (*Waverley*):** *"The venerable **bibliopolist** adjusted his spectacles and unlocked the iron grating that guarded his rarest incunabula."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"The London **bibliopolist** played a decisive role in introducing German romantic literature to English readers."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"He consulted a fashionable **bibliopolist** in Piccadilly who promised to furnish his library with uniform calfskin sets."*

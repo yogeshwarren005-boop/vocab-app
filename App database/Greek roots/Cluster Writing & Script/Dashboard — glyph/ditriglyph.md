@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek glyph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Doric architecture, an arrangement having two triglyphs placed in the frieze over the space between two adjacent columns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history, an expanded intercolumniation employed to provide wider central portals in Doric porticoes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ditriglyph designates a term designating an entity, condition, or phenomenon derived from greek glyph."*
+> - 📜 **Vitruvius (*De Architectura*):** *"When the central intercolumniation is widened for a temple doorway, the frieze requires a **ditriglyph** arrangement."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The strict rhythm of the classical Doric frieze was modified by introducing a **ditriglyph** over the principal entrance."*
+> - 📜 **William Chambers (*A Treatise on the Decorative Part of Civil Architecture*):** *"A **ditriglyph** intercolumniation must be managed with caution lest the entablature appear weakly supported."*

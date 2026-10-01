@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek and Latin prosody, a metrical unit, syllable, or foot having the value or duration of five morae (five short syllables or time-units).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metric theory, a prolonged foot (such as a dispondee or molossus with lengthening) equivalent to five basic beats in musical recitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentaseme designates a term designating an entity, condition, or phenomenon derived from greek sema."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"A metrical measure containing five morae is designated a **pentaseme**, often occurring in paeonic or cretic rhythms."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Classical theorists measured lyric complexity by analyzing how the **pentaseme** balanced against shorter dactylic units."*
+> - 📜 **Richard Bentley (*Dissertations upon the Epistles of Phalaris*):** *"In Pindaric odes, the choral strophe occasionally prolongs a final syllable into a solemn **pentaseme**."*

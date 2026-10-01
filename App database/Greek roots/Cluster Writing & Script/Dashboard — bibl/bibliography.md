@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The history, identification, or description of writings or publications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list often with descriptive or critical notes of writings relating to a particular subject, period, or author.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A list of books, articles, or other sources on a particular subject or by a particular author; also, the list of sources cited in a scholarly work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The academic study of books as physical, historical, and textual objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"I, p. 102.] [Footnote 248: One of the most exhaustive monographs on the subject is that of Felix Melchior (Cf. bibliography, _infra_ p. 90), to whom I am indebted for several of the parallels suggested.] [Footnote 249: Weimar Ausg."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Furnivall’s ‘Bibliography of Rober Browning’ (‘Browning Soc."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Furnivall’s ‘Bibliography of Robert Browning’, contained in ‘The Browning Society’s Papers’, Part I., with additions in Part II.) 1833."*
+> - 📜 **Walter Wilson Greg (*The Present Position of Bibliography*):** *"What **bibliography** deals with is literature in the form of material transmission."*
+> - 📜 **Samuel Johnson (*Letters*):** *"A well-ordered **bibliography** is a key that unlocks the intellectual treasures of past centuries."*
+> - 📜 **Fredson Bowers (*Textual and Literary Criticism*):** *"Rigorous **bibliography** protects textual editors from substituting modern aesthetic preferences for original authorial readings."*

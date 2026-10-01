@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of draw, pull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of draw, pull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving rise to or causing spasms or involuntary muscle contractions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and physiology, describing chemical agents that induce visceral smooth-muscle contraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spasmogenic designates adjective*) pertaining to, derived from, or characteristic of draw, pull."*
+> - 📜 **Henry Dale (*Adventures in Physiology*):** *"Histamine exhibits potent **spasmogenic** action upon bronchial smooth muscle in sensitized guinea pigs."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The release of **spasmogenic** mediators during anaphylaxis precipitates life-threatening airway constriction."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Synthetic antagonists were screened for their ability to block the **spasmogenic** effects of barium chloride on intestinal rings."*

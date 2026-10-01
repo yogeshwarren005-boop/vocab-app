@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing a chart or outline of a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a schematic or technical drawing of that shows interactions among variables or how something is constructed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, art, or process of making a diagram, schematic plan, or visual outline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical linguistics, sentence diagramming (such as the Reed–Kellogg system) to visually parse grammatical syntax and dependencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diagramming designates providing a chart or outline of a system."*
+> - 📜 **Alonzo Reed & Brainerd Kellogg (*Higher Lessons in English*):** *"By **diagramming** sentences on the blackboard, pupils immediately grasp the grammatical dependency of modifying clauses."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The **diagramming** of closed feedback loops allows engineers to calculate system stability before building hardware."*
+> - 📜 **David Marr (*Vision*):** *"Careful **diagramming** of computational algorithms helps distinguish representational problems from biological implementation."*

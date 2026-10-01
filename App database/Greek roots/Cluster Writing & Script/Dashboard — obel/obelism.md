@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek obel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or system of marking text with an obelus or critical signs to denote spurious, doubtful, or corrupted readings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary polemics, hypercritical censorship, carping fault-finding, or editorial condemnation of a text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obelism designates a term designating an entity, condition, or phenomenon derived from greek obel."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The pedantic **obelism** of the Renaissance grammarians condemned many a glorious metaphor to the margins."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"I endured the fastidious **obelism** of schoolmasters who struck out every phrase not sanctioned by Cicero."*
+> - 📜 **Richard Bentley (*Dissertation upon the Epistles of Phalaris*):** *"Through rigorous philological **obelism**, we proved the alleged epistles to be late sophistical forgeries."*

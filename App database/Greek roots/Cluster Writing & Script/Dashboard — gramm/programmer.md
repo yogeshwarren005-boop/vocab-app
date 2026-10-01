@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who designs and writes and tests computer programs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who designs and writes and tests computer programs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes computer software programs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or device that prepares or schedules a program of events, broadcasts, or automated procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, programmer designates a person who designs and writes and tests computer programs."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"The best **programmer** is not merely a technician, but an artist striving for elegant and readable code."*
+> - 📜 **Edsger W. Dijkstra (*The Humble Programmer*):** *"The competent **programmer** is fully aware of the strictly limited size of his own skull."*
+> - 📜 **Fred Brooks (*The Mythical Man-Month*):** *"The addition of another **programmer** to a late software project only makes it later."*

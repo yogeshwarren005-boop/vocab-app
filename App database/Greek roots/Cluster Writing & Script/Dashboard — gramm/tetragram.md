@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gramm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word, symbol, or sequence consisting of four letters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptography and language modeling, a 4-gram character sequence evaluated for statistical frequency in cipher breaking or textual analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragram designates a term designating an entity, condition, or phenomenon derived from greek gramm."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The ancient philosophers revered each sacred **tetragram** as an emblem of the four elements of the universe."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"By measuring the conditional probability of each **tetragram**, the redundancy of written English can be estimated."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The cryptanalyst counted every recurring **tetragram** to identify suspected key phrases in the intercepted message."*

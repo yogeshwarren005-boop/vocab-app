@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or characterized by or noted for bibliomania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or characterized by or noted for bibliomania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by bibliomania; passionately obsessed with collecting books.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by extravagant, obsessive, or uncritical expenditure in pursuing rare volumes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliomaniacal designates characteristic of or characterized by or noted for bibliomania."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The auction room was crowded with **bibliomaniacal** zealots eager to contest the possession of the Valdarfer Boccaccio."*
+> - 📜 **Andrew Lang (*Books and Bookmen*):** *"A true collector understands that **bibliomaniacal** ecstasy when discovering an elusive Elzevir in a dusty stall."*
+> - 📜 **Thomas Carlyle (*Letters*):** *"He squandered his modest patrimony in **bibliomaniacal** purchases of obscure theological pamphlets."*

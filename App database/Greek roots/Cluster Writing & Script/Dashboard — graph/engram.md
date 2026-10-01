@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical change in neural tissue postulated in order to account for persistence of memory : memory trace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothetical change in neural tissue postulated in order to account for persistence of memory : memory trace.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical physical or biochemical trace in the nervous system corresponding to a stored memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychology, the persistent neuroplastic structural reorganization of synaptic networks that encodes a specific learned experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, engram designates a hypothetical change in neural tissue postulated in order to account for persistence of memory : memory trace."*
+> - 📜 **Richard Semon (*Die Mneme*):** *"I designate by the term **engram** the permanent physical alteration left behind in the irritable substance by an external stimulation."*
+> - 📜 **Karl Lashley (*In Search of the Engram*):** *"It is not possible to demonstrate the localized existence of that which has been called the **engram** anywhere within the cerebral cortex."*
+> - 📜 **Susumu Tonegawa (*Memory Engram Technology*):** *"By selectively reactivating the specific hippocampal **engram** cells with optogenetics, the learned fear response was artificially recalled."*

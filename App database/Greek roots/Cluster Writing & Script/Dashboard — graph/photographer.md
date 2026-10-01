@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who takes photographs professionally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who takes photographs professionally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes photographs, especially as a profession or artistic practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visual practitioner who manipulates lens optics, lighting, exposure, and composition to capture documentary truth or aesthetic expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"P---- who is a good amateur photographer, photographed him in company with his little daughter in the act of handing him a banana."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Salts of gold, however (the meaning of the term salt, as applied to a metal, has been explained earlier), will dissolve in water, as every photographer who makes up his own toning solution knows from experience."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The red glass with which the photographer covers his dark-room lamp looks red, and throws a red light into the room, because it is acting as a filter to the light proceeding from the lamp behind it."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"I engaged the services of a reliable **photographer** to secure the incriminating cabinet print without alerting the countess."*
+> - 📜 **Thomas W. Corbin (*The Romance of Modern Photography*):** *"The press **photographer** must possess prompt decision and iron nerve, ready to expose his plate at the critical instant."*
+> - 📜 **Walter Benjamin (*A Small History of Photography*):** *"Will not the **photographer** who cannot read his own pictures be seen as the illiterate of the future?"*

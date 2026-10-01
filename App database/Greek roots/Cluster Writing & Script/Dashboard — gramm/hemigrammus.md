@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tetras.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tetras.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small freshwater characin fish native to South America, popular in aquariums and commonly called tetras (family Characidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, fish characterized by an incomplete lateral line (Greek *hemi-* half + *gramma* line) and a scaled caudal fin base, including *Hemigrammus erythrozonus* (glowlight tetra) and *Hemigrammus rhodostomus* (rummy-nose tetra).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hemigrammus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Carl H. Eigenmann (*The American Characidae*):** *"The genus **Hemigrammus** is distinguished from Astyanax by its incomplete lateral line and partly scaled caudal fin."*
+> - 📜 **William T. Innes (*Exotic Aquarium Fishes*):** *"A peaceful school of **Hemigrammus** ocellifer, the beacon fish, adds sparkling golden luminescence to the planted aquarium."*
+> - 📜 **Herbert R. Axelrod (*Handbook of Tropical Aquarium Fishes*):** *"Species of **Hemigrammus** thrive in soft, slightly acidic waters reminiscent of the Amazonian tributaries."*

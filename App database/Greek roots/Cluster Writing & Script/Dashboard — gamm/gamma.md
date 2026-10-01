@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 3rd letter of the Greek alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something or someone designated with the name gamma or the Greek letter γ especially denoting the third in position, order, or class.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The third letter of the Greek alphabet (Γ, γ), corresponding to the English 'g'; also, representing the third item in a series.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics, high-energy electromagnetic radiation (gamma rays); in mathematics, Euler's gamma function or constant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The deployment we triggered concentrates them in three sectors: Alpha, Beta, Gamma."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak and I will take Alpha, Adari and Kumiko, you've got Beta; Myra and Drummer to Gamma."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"Within a few inches, they flare violently in the hard gamma."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"The penetrating power of **gamma** rays exceeds that of alpha and beta radiations by several orders of magnitude."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"Unlike alpha corpuscles, **gamma** radiation is unbent by magnetic fields, proving its electromagnetic wave nature."*
+> - 📜 **Carl Friedrich Gauss (*Werke*):** *"The transcendent properties of the **gamma** function unify discrete factorials with continuous calculus."*

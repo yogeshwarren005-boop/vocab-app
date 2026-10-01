@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stich.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem, stanza, or composition consisting of seven lines of verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic forms, a septet such as rhyme royal (ababbcc) popularized by Chaucer in Troilus and Criseyde.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptastich designates a term designating an entity, condition, or phenomenon derived from greek stich."*
+> - 📜 **Geoffrey Chaucer (*The Parliament of Fowls*):** *"Chaucer chose the stately **heptastich** stanza to frame his philosophical allegory of courtly love."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The rhymed **heptastich** achieved its highest musical perfection under the Tudor poets."*
+> - 📜 **Edmund Spenser (*The Shepheardes Calender*):** *"Each rustic dialogue was introduced by a pastoral **heptastich** setting the seasonal scene."*

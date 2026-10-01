@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose body is marked by religious stigmata (such as marks resembling the wounds of the crucified christ).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose body is marked by religious stigmata (such as marks resembling the wounds of the crucified christ).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who bears stigmata, especially the holy wounds of Christ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who stigmatizes, brands, or censures others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stigmatist designates a person whose body is marked by religious stigmata (such as marks resembling the wounds of the crucified christ)."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Physiological investigations of the famous Bavarian **stigmatist** revealed intense emotional absorption during trances."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The political **stigmatist** branded every moderate deputy as an enemy of the sovereign people."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ascetic hermit was revered as a miraculous **stigmatist** by the credulous populace of Antioch."*

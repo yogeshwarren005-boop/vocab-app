@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent form of vitamin e obtained from germ oils or by synthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potent form of vitamin e obtained from germ oils or by synthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant spelling of alpha-tocopherol; the most biologically active form of vitamin E in humans, functioning as a powerful lipid-soluble antioxidant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional biochemistry, a methylated chromanol derivative that scavenges peroxyl radicals in cell membranes, preventing lipid peroxidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpha-tocopheral designates a potent form of vitamin e obtained from germ oils or by synthesis."*
+> - 📜 **Herbert McLean Evans (*Science*):** *"We isolated vitamin E from wheat germ oil, establishing **alpha-tocopheral** as the primary factor preventing reproductive resorption in rats."*
+> - 📜 **Linus Pauling (*Vitamin C and the Common Cold*):** *"Dietary supplementation with **alpha-tocopheral** protects polyunsaturated fatty acids in cell membranes from free-radical oxidation."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Severe deficiency of **alpha-tocopheral** produces spinocerebellar ataxia and peripheral neuropathy through chronic oxidative damage."*

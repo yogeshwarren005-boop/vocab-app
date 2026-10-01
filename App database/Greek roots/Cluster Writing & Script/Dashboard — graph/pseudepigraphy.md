@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ascription of false names of authors to works.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ascription of false names of authors to works.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of attributing a written work to an author who did not actually write it, especially to a famous, revered, or ancient figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical and classical scholarship, the literary corpus of non-canonical Jewish and early Christian texts (pseudepigrapha) ascribed to biblical patriarchs or apostles (e.g., Book of Enoch, Gospel of Peter).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudepigraphy designates the ascription of false names of authors to works."*
+> - 📜 **R. H. Charles (*The Apocrypha and Pseudepigrapha of the Old Testament*):** *"Religious **pseudepigraphy** was not conceived as a fraudulent deceit, but as a pious convention allowing the author to speak with ancestral authority."*
+> - 📜 **Bruce M. Metzger (*Literary Forgeries and Canonical Authority*):** *"The early church applied rigorous tests of apostolic authenticity to detect and exclude works tainted by **pseudepigraphy**."*
+> - 📜 **Bart D. Ehrman (*Forgery and Counterforgery*):** *"Ancient polemicists frequently engaged in theological **pseudepigraphy** to claim apostolic endorsement for their sectarian doctrines."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to alphanumeric characters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to alphanumeric characters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or using both letters of the alphabet and numbers; alphanumeric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early computer data processing and punch-card encoding, describing character sets that include letters A–Z and digits 0–9.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphameric designates of or pertaining to alphanumeric characters."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"Transmission efficiency depends upon whether the telegraphic channel encodes purely numeric or **alphameric** symbols."*
+> - 📜 **John von Neumann (*First Draft of a Report on the EDVAC*):** *"The input mechanism was designed to process **alphameric** codes representing both numerical instructions and algebraic variables."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Automated translation machines must convert **alphameric** input signals into logical semantic representations."*

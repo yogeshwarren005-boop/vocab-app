@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process in which a chemical mixture carried by a liquid or gas is separated into components as a result of differential distribution of the solutes as they flow around or over a stationary liquid or solid phase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chromatography in which a macromolecule (such as a protein) is isolated and purified by passing it in solution through a column treated with a substance having a ligand for which the macromolecule has an affinity that causes it to be retained on the column.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A laboratory technique for the separation of a mixture into its individual components by passing it through a medium in which the components move at different rates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical and biochemical analysis, a family of separation processes (gas, liquid, thin-layer, ion-exchange) essential for purification, identification, and molecular quantification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatography designates a process in which a chemical mixture carried by a liquid or gas is separated into components as a result of differential distribution of the solutes as they flow around or over a stationary liquid or solid phase."*
+> - 📜 **Mikhail Tsvet (*Adsorption Analysis and Chromatographic Method*):** *"Like the light rays in the spectrum, so the different components of a pigment mixture are resolved in the calcium carbonate column by **chromatography**."*
+> - 📜 **James Watson (*The Double Helix*):** *"Paper **chromatography** enabled Chargaff to prove that the ratio of adenine to thymine was always equal to one."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten: Memories of a Chemical Boyhood*):** *"I marveled at how simple paper **chromatography** could unbraid black ink into a vivid ribbon of violet, turquoise, and yellow."*

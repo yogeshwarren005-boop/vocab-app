@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek and Latin prosody, a metrical syllable, unit, or foot having the value or duration of three morae (three short syllables or time-units).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metric theory, a prolonged syllable or foot (such as an iamb or trochee) equal to three beats of musical time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triseme designates a term designating an entity, condition, or phenomenon derived from greek sema."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"An iambic foot consists of a short syllable followed by a long, forming a three-mora **triseme**."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The rapid movement of trochaic meter derives from the triple rhythm of the **triseme** measure."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"In lyric passages, the substitution of a dactyl for a **triseme** creates an exquisite suspension of rhythm."*

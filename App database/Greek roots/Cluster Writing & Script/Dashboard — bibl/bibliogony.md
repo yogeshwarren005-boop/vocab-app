@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bibl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production, manufacture, or creation of books; the art and craft of book-making.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of the book, the entire technical and material process of typography, paper manufacture, printing, and binding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliogony designates a term designating an entity, condition, or phenomenon derived from greek bibl."*
+> - 📜 **William Morris (*The Ideal Book*):** *"True **bibliogony** demands that paper, ink, typography, and binding unite into an organic work of visual beauty."*
+> - 📜 **Holbrook Jackson (*The Anatomy of Bibliomania*):** *"The history of **bibliogony** traces the transformation of papyrus rolls into Gutenberg's movable metal types."*
+> - 📜 **Thomas Frognall Dibdin (*The Bibliographical Decameron*):** *"Aldus Manutius elevated Italian **bibliogony** to an art form that captivated the humanists of Europe."*

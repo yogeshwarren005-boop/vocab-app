@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bibl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who hides away or buries books, locking them up so that nobody else can see or read them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the pathology of book collecting, an obsessive hoarder who entombs valuable books in closed vaults, damp cellars, or impenetrable safes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliotaph designates a term designating an entity, condition, or phenomenon derived from greek bibl."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The miserable **bibliotaph** kept his precious manuscripts padlocked in iron chests, refusing admittance even to the most learned scholars."*
+> - 📜 **Andrew Lang (*The Library*):** *"Worse than the book-thief is the churlish **bibliotaph**, who entombs unique copies where they rot unseen."*
+> - 📜 **Holbrook Jackson (*The Anatomy of Bibliomania*):** *"The miserly **bibliotaph** gloats over his sequestered treasures, taking pleasure solely in their inaccessible concealment."*

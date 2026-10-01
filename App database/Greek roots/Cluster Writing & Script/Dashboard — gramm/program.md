@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public notice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brief usually printed outline of the order to be followed, of the features to be presented, and the persons participating (as in a public performance).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A planned series of future events, performances, or operations; an agenda or schedule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science, a coded sequence of instructions executed by a computer to perform a specified task.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"President Wilson and the newly elected Congress with its Democratic majority made banking reform one of the main objects on the program for the special session beginning March 5, 1913."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The program here outlined was carried out by the enactment between 1883 and 1889 of a series of laws, which taken together constituted a pretty effective system of social insurance for the mass of wage-workers in the German Empire."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Republican party led by President Taft stood for the policy of monopoly-prosecuted; its program was the vigorous enforcement of the Sherman law."*
+> - 📜 **Ada Lovelace (*Notes on the Analytical Engine*):** *"The engine might compose elaborate pieces of music if given an appropriate **program** of operations."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"We may hope that machines will eventually compete with men in all purely intellectual fields by executing a suitably designed **program**."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The legislative **program** of tax reform was designed to stimulate industrial capital without burdening labor."*

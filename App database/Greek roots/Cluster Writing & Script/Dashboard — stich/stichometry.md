@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stich.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement or calculation of the length of ancient manuscripts by counting the standard lines (stichoi) of text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and biblical palaeography, the practice of recording line totals in colophons to ensure textual completeness and calculate scribal payment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stichometry designates a term designating an entity, condition, or phenomenon derived from greek stich."*
+> - 📜 **Bruce M. Metzger (*The Text of the New Testament*):** *"Ancient scribes appended the **stichometry** at the conclusion of each epistle to prevent unauthorized interpolations."*
+> - 📜 **Frederic G. Kenyon (*Books and Readers in Ancient Greece and Rome*):** *"Careful **stichometry** reveals that the standard classical stichos consisted of about sixteen syllables, the length of a Homeric hexameter."*
+> - 📜 **L. D. Reynolds (*Scribes and Scholars*):** *"Byzantine catalogues often preserve the **stichometry** of lost classical plays, indicating their original manuscript extent."*

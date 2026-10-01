@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gramm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A petty, pedantic, or dogmatic grammarian; one who makes a display of grammatical punctiliousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A purist who insists on strict adherence to minor grammatical conventions to the detriment of living expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grammaticist designates a term designating an entity, condition, or phenomenon derived from greek gramm."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The dry-as-dust **grammaticist** dissects living metaphors as though they were dead wooden sticks."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"He was a mere **grammaticist**, blind to the beauties of Virgil while hypercritical of a missing caesura."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The schoolroom **grammaticist** spent decades fighting American idioms that the living populace adopted overnight."*

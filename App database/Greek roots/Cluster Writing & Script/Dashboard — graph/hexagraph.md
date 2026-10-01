@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek graph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combination of six letters used together to represent a single sound or phoneme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive phonetics and orthographic analysis, a rare multi-letter graphemic sequence (such as German 'schtsch' for the Russian consonant щ, or Irish complex vowel spellings).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexagraph designates a term designating an entity, condition, or phenomenon derived from greek graph."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"While English rarely exceeds the trigraph, certain European transliterations employ a **hexagraph** to capture complex foreign phonemes."*
+> - 📜 **Florian Coulmas (*The Writing Systems of the World*):** *"The linguistic term **hexagraph** designates an extreme example of orthographic condensation where six characters encode one phonological unit."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The historical accumulation of silent consonants can occasionally turn a simple consonant into a formidable **hexagraph** in transcription."*

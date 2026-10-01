@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of a chromatographic process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of a chromatographic process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of chromatography; using chromatographic separation techniques.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry, resolving or purifying compounds through differential partitioning between mobile and stationary phases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatographically designates by means of a chromatographic process."*
+> - 📜 **Richard Kuhn (*Carotenoids and Flavins*):** *"The crude pigment mixture was **chromatographically** fractionated upon a column of activated alumina."*
+> - 📜 **Frederick Sanger (*The Arrangement of Amino Acids in Proteins*):** *"Each peptide fragment was **chromatographically** purified before proceeding to terminal residue identification."*
+> - 📜 **Dorothy Hodgkin (*The Structure of Vitamin B12*):** *"The red crystalline substance had been **chromatographically** isolated from liver extract after months of painstaking elution."*

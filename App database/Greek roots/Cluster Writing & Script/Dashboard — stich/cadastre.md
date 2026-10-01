@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official register of the quantity, value, and ownership of real estate used in apportioning taxes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official register of the quantity, value, and ownership of real estate used in apportioning taxes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official register of the ownership, boundaries, and value of real property in a country or district, maintained for taxation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil law jurisdictions, the foundational public record of real estate parcels, serving as the basis for land registration and mortgages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadastre designates an official register of the quantity, value, and ownership of real estate used in apportioning taxes."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The French royal administration attempted to compile a national **cadastre**, but provincial assemblies resisted the fiscal scrutiny."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The Domesday Book may be regarded as the great medieval **cadastre** of the conquered realm."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Without an accurate public **cadastre**, disputes over agricultural boundaries and land transfers become interminable."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of carve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of carve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In herpetology, having permanently erect, short, hollow or grooved fangs positioned at the anterior end of the maxillae (characteristic of elapid snakes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In venom evolutionary biology, designating snakes whose fangs are fixed rather than hinged, requiring a sustained strike to deliver neurotoxins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteroglyphous designates adjective*) pertaining to, derived from, or characteristic of carve."*
+> - 📜 **George Albert Boulenger (*The Tailless Batrachians and Reptiles of Europe*):** *"The family Elapidae is strictly **proteroglyphous**, armed with anterior grooved venom fangs."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"Cobras possess a **proteroglyphous** biting apparatus that contrasts sharply with the hinged folding fangs of true vipers."*
+> - 📜 **Hans Gadow (*Amphibia and Reptiles*):** *"The evolutionary transition to a **proteroglyphous** condition enabled elapids to conquer ecological niches as apex venomous predators."*

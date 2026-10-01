@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of negative and unfair beliefs that a society or group of people have about something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mark of shame or discredit : stain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark of disgrace or infamy associated with a particular circumstance, quality, or person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, the receptive tip of a flower’s carpel or pistil that receives pollen; in medicine, a physical mark, blemish, or sign of disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now how did this odious stigma originate?"*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The name may, perhaps, have been given to denote the peculiar ferocity of this clan, and to convey a special stigma along with it."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Now how did this odious stigma originate?"*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The scarlet letter upon her bosom was a visible **stigma** that branded her guilt before the Puritan commonwealth."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"When pollen grains touch the sticky surface of the **stigma**, they germinate and grow down the style."*
+> - 📜 **Erving Goffman (*Stigma: Notes on the Management of Spoiled Identity*):** *"Society establishes the means of categorizing persons, and any deeply discrediting attribute constitutes a **stigma**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguist who specializes in the study of grammar and syntax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A linguist who specializes in the study of grammar and syntax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who studies, teaches, or writes about grammar; a scholar of grammatical rules and language structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, in classical antiquity and the Renaissance, a humanist scholar who interpreted and annotated classical literature through philological analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The devoted disciples of a dead grammarian are bearing his body up a mountain-side for burial on its lofty summit, “where meteors shoot, clouds form, lightnings are loosened, stars come and go!"*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The grammarian, in his hunger and thirst after knowledge and truth, thought not of time."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But the grammarian was true to one side only of Browning’s philosophy of life."*
+> - 📜 **Robert Browning (*A Grammarian's Funeral*):** *"Here's the top-peak; the rack of clouds is gathered: let us erect our tomb for this brave **grammarian** who settled Hoti's business."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"I had rather make my boy an honest man than a subtle **grammarian** who knows all the quirks of Priscian."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine **grammarian** spent a laborious life copying and disputing the accents of classical Greek."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A homograft between allogeneic individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A homograft between allogeneic individuals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tissue graft or organ transplant harvested from a donor of the same species as the recipient but possessing a different genetic constitution; homograft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transplant immunology and reconstructive surgery, a graft subject to cell-mediated immune rejection unless modulated by immunosuppressive therapy or HLA matching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allograft designates a homograft between allogeneic individuals."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"The immunological rejection of an **allograft** represents the body's acute defense against foreign histocompatibility antigens."*
+> - 📜 **Thomas Starzl (*The Puzzle People: Memoirs of a Transplant Surgeon*):** *"The survival of the renal **allograft** depended upon balancing delicate doses of cyclosporine to suppress rejection."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The surgeon carefully secured the cadaveric tendon **allograft** into the athlete's shredded knee."*

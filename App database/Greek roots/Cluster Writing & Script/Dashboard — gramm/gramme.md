@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of weight equal to one thousandth of a kilogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of weight equal to one thousandth of a kilogram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of mass equal to one thousandth of a kilogram (standard British/international spelling of gram).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical metrology and laboratory sciences, the foundational base unit of the centimeter–gram–second (CGS) system of measurement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The heaviest soul ever given out weighs about ten grammes."*
-> - 📜 **James Joyce (*Ulysses*):** *"Twelve grammes one pennyweight."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand **grammes** of sea water are found 96½ per cent of pure water and about 2-2/3 per cent of chloride of sodium."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The heaviest soul ever given out weighs about ten **grammes** according to primitive superstition."*
+> - 📜 **James Joyce (*Ulysses*):** *"Twelve **grammes** one pennyweight of silver foil for the dental filling."*

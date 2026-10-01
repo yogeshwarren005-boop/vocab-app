@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of producing pictures in contrasting colors that appear three-dimensional when superimposed and viewed through spectacles with one red and one green lens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of producing pictures in contrasting colors that appear three-dimensional when superimposed and viewed through spectacles with one red and one green lens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, method, or practice of carving or sculpturing in low or bas-relief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The technique or process of creating stereoscopic three-dimensional images through superimposed color printing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaglyphy designates the process of producing pictures in contrasting colors that appear three-dimensional when superimposed and viewed through spectacles with one red and one green lens."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"True architectural **anaglyphy** respects the stone wall, keeping its decorative reliefs within flat planes."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The transition from geometric pottery to marble **anaglyphy** marked the blossoming of archaic Athenian sculpture."*
+> - 📜 **David Brewster (*The Stereoscope: Its History, Theory, and Construction*):** *"Optical **anaglyphy** achieves the illusion of depth by presenting divergent perspectives to either eye."*

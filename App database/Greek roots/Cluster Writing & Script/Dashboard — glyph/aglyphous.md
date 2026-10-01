@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of carve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of carve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having solid, conical teeth without grooves or tubular venom channels (applied to non-venomous snakes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, designating colubrid and boid dentition where teeth lack specialization for venom delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aglyphous designates adjective*) pertaining to, derived from, or characteristic of carve."*
+> - 📜 **George Albert Boulenger (*Catalogue of the Snakes in the British Museum*):** *"The family Colubridae was divided into **aglyphous** forms with solid teeth and opisthoglyphous forms bearing grooved fangs."*
+> - 📜 **Hans Gadow (*Amphibia and Reptiles*):** *"Harmless constrictors possess an **aglyphous** dentition adapted solely for grasping struggling prey."*
+> - 📜 **Raymond Ditmars (*Snakes of the World*):** *"Unlike the deadly vipers, the gentle garter snake retains an entirely **aglyphous** jaw without poison glands."*

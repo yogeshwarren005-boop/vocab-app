@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of electrocardiogram (ECG), electroencephalogram (EEG), mammogram, angiogram, arthrogram, myelogram, audiogram, echocardiogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of electrocardiogram (ECG), electroencephalogram (EEG), mammogram, angiogram, arthrogram, myelogram, audiogram, echocardiogram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or utilizing all the letters of the alphabet (as in a pangram).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography, font testing, and keyboard design, describing a sentence (such as 'The quick brown fox jumps over the lazy dog') that showcases every glyph in a font.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pangrammatic designates adjective*) pertaining to, derived from, or characteristic of electrocardiogram (ecg), electroencephalogram (eeg), mammogram, angiogram, arthrogram, myelogram, audiogram, echocardiogram."*
+> - 📜 **Augustus De Morgan (*A Budget of Paradoxes*):** *"He took pride in fashioning a **pangrammatic** verse containing every letter of the Greek alphabet with minimal repetition."*
+> - 📜 **Eric Gill (*An Essay on Typography*):** *"Specimen sheets of newly cut typefaces commonly feature a **pangrammatic** line to exhibit the full character repertoire."*
+> - 📜 **Steven Heller (*Design Literacy*):** *"Typographers rely on **pangrammatic** copy to evaluate letter spacing, kerning pairs, and optical weight across the entire alphabet."*

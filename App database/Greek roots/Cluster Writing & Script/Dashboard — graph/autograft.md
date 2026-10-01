@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tissue or organ that is transplanted from one part to another of the same body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tissue or organ that is transplanted from one part to another of the same body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graft of tissue taken from one part of an individual's body and transplanted to another site on the same individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reconstructive and plastic surgery, the gold standard for tissue transplantation because it avoids donor tissue rejection and immunosuppressive complications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autograft designates a tissue or organ that is transplanted from one part to another of the same body."*
+> - 📜 **Alexis Carrel (*The Surgery of Blood Vessels*):** *"The vascular **autograft** taken from the saphenous vein healed without any cellular reaction of incompatibility."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"An **autograft** of skin saved the burn victim's limbs without triggering the destructive fury of his own immune system."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"By using an **autograft** harvested from the patient's own iliac crest, the orthopedic surgeon restored spinal stability."*

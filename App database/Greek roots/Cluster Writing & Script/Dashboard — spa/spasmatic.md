@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of draw, pull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of draw, pull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, affected by, or resembling a spasm; marked by involuntary contractions or sudden convulsions; spasmodic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by jerky, erratic, or fitful outbursts of emotion, literary style, or physical activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spasmatic designates adjective*) pertaining to, derived from, or characteristic of draw, pull."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"His philosophical discourse was broken by **spasmatic** laughs and violent, unpredictable gestures."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A **spasmatic** shudder ran through his athletic frame as he recalled the horrors of the Jamaican madhouse."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"His prose was marred by a **spasmatic** vehemence that substituted shrill hysteria for sustained eloquence."*

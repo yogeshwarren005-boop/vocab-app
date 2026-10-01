@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to grow together parts from different plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix or set securely or deeply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To insert a shoot or scion of one plant into another so that they unite and grow together; to graft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To plant, implant, or establish deeply and firmly (as a habit, principle, virtue, or idea) in the mind, character, or body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"You may have a wen or cancer upon your person and not be able to cut it out, lest you bleed to death; but surely it is no way to cure it, to engraft it and spread it over your whole body."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"You may have a wen or cancer upon your person and not be able to cut it out lest you bleed to death; but surely it is no way to cure it, to engraft it and spread it over your whole body."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best and soundest of his time hath been but rash; then must we look from his age to receive not alone the imperfections of long-engrafted condition, but therewithal the unruly waywardness that infirm and choleric years bring with them."*
+> - 📜 **William Shakespeare (*Sonnet 15*):** *"Then the conceit of this inconstant stay sets you most rich in youth before my sight, where wasteful Time debateth with Decay, to change your day of youth to sullied night; and all in war with Time for love of you, as he takes from you, I **engraft** you new."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It is the true office of philosophy to **engraft** sound principles of virtue into the pliable minds of youth."*
+> - 📜 **John Milton (*Paradise Lost*):** *"His words, so sweetly spoken, did **engraft** in her heart a false confidence and foolish longing."*

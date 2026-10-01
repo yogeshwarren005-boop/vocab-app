@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A floral spike with a fleshy or succulent axis usually enclosed in a spathe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A floral spike with a fleshy or succulent axis usually enclosed in a spathe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spike of minute flowers densely packed along a fleshy, thickened central axis, typically enclosed by a spathe (characteristic of the Araceae family).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology (cephalopod anatomy), a modified, cone-shaped copulatory organ formed from transformed tentacles in male chambered nautiluses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spadix designates a floral spike with a fleshy or succulent axis usually enclosed in a spathe."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In Arum, the club-shaped **spadix** acts as a thermal organ, emitting scent to lure insect pollinators into the spathe."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The familiar jack-in-the-pulpit displays a central fleshy **spadix** sheltered beneath a striped canopy."*
+> - 📜 **Richard Owen (*Memoir on the Pearly Nautilus*):** *"In the male nautilus, four modified tentacles coalesce to form the asymmetrical copulatory **spadix**."*

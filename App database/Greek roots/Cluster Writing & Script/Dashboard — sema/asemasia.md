@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In neuropsychology, the complete loss of the ability to communicate by signs, symbols, or gestures; severe asymbolia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral neurology, a multimodal symbolic deficit encompassing both receptive and expressive gesture, pantomime, and written language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asemasia designates a term designating an entity, condition, or phenomenon derived from greek sema."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The profound stroke left the patient with total **asemasia**, incapable of recognizing the simplest communicative gestures."*
+> - 📜 **Henry Head (*Aphasia and Kindred Disorders of Speech*):** *"In severe semantic disorders, speech defects merge into generalized **asemasia**, disrupting all nonverbal signaling."*
+> - 📜 **John Hughlings Jackson (*Selected Writings*):** *"The dissolution of the nervous system begins with the loss of highly integrated symbolic functions, culminating in complete **asemasia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sign.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In biology, serving as a warning or signal; designating colors, markings, or sounds that convey a message to other animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ecology, relating to warning (aposematic), alluring (episematic), or deceitful (pseudosematic) adaptations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sematic designates adjective*) pertaining to, derived from, or characteristic of sign."*
+> - 📜 **Edward Bagnall Poulton (*The Colours of Animals*):** *"I have grouped all warning and recognizing characters under the general designation of **sematic** appearances."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"The **sematic** coloration of the poisonous tree frog effectively protects it from predatory birds."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Natural selection favors **sematic** signals whenever the cost of combat or mutual injury exceeds the cost of display."*

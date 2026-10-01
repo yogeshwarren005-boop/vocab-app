@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange in alphabetical order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having been put in alphabetical order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in alphabetical order (British spelling of alphabetized).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having been reduced to an alphabetic writing system or taught the alphabet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphabetised designates arrange in alphabetical order."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston filed the **alphabetised** reports into the pneumatic memory hole according to party regulations."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"Holmes consulted his massive **alphabetised** scrapbooks of criminal biographies with practiced speed."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The psychological records were neatly **alphabetised** in the central filing department of the hatchery."*

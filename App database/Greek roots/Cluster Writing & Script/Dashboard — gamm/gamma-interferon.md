@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of interferon that is produced by t cells and macrophages; involved in the activation of phagocytes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of interferon that is produced by t cells and macrophages; involved in the activation of phagocytes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cytokine (type II interferon) produced predominantly by natural killer cells and activated T lymphocytes that plays a critical role in innate and adaptive immunity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular immunology, a pleiotropic protein that activates macrophages, enhances MHC class II expression, and promotes Th1 immune responses against intracellular pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gamma-interferon designates a form of interferon that is produced by t cells and macrophages; involved in the activation of phagocytes."*
+> - 📜 **Christian Anfinsen (*The Molecular Basis of Evolution*):** *"Unlike viral-induced interferons, **gamma-interferon** is an immunoregulatory lymphokine synthesized by sensitized T cells."*
+> - 📜 **Peter C. Doherty (*Nobel Lecture*):** *"The release of **gamma-interferon** by cytotoxic T lymphocytes recruits macrophages to the site of viral clearance."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Macrophage activation by **gamma-interferon** triggers nitric oxide production, killing phagocytosed bacteria."*

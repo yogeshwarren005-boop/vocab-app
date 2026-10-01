@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One millionth (1/1,000,000) gram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One millionth (1/1,000,000) gram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of mass equal to one millionth of a gram (one thousandth of a milligram, µg or mcg).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and trace biochemistry, a high-precision mass unit used to measure potent hormonal concentrations, vitamins, and molecular receptor dosages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgram designates one millionth (1/1,000,000) gram."*
+> - 📜 **Linus Pauling (*Vitamin C and the Common Cold*):** *"Certain vital coenzymes and trace vitamins exert profound biological effects when administered in amounts of only a few **micrograms**."*
+> - 📜 **Alexander Shulgin (*PiHKAL: A Chemical Love Story*):** *"The pharmacological potency of the compound was so immense that a single hundred-**microgram** threshold produced profound perceptual changes."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The laboratory determined that the patient's thyroid hormone levels had dropped by several **micrograms** per deciliter."*

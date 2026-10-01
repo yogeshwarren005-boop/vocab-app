@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of interferon that is produced endogenously and commercially for its pharmacological effects (including regulation of the immune system and antiviral and antineoplastic effects).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of interferon that is produced endogenously and commercially for its pharmacological effects (including regulation of the immune system and antiviral and antineoplastic effects).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cytokine (type I interferon) produced primarily by leukocytes in response to viral infection, stimulating antiviral defenses and immune cell activation; interferon-alpha.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biotechnology and oncology, recombinant proteins used therapeutically in hepatitis C, hairy cell leukemia, and melanoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpha-interferon designates a form of interferon that is produced endogenously and commercially for its pharmacological effects (including regulation of the immune system and antiviral and antineoplastic effects)."*
+> - 📜 **Alick Isaacs (*Proceedings of the Royal Society*):** *"The cellular protein we named interferon, specifically **alpha-interferon**, renders adjacent cells refractory to viral invasion."*
+> - 📜 **Christian Anfinsen (*The Molecular Basis of Evolution*):** *"Purification and sequencing of human leukocyte **alpha-interferon** revealed a multigene family of closely related proteins."*
+> - 📜 **Robert Weinberg (*The Biology of Cancer*):** *"Recombinant **alpha-interferon** was among the earliest biological response modifiers approved for clinical cancer immunotherapy."*

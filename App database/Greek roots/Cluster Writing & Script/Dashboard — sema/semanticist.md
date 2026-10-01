@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in the study of meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in the study of meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar or linguist who specializes in semantics, the scientific study of linguistic meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of language, a theorist investigating truth conditions, reference, and symbolic interpretation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semanticist designates a specialist in the study of meaning."*
+> - 📜 **Alfred Korzybski (*Science and Sanity*):** *"The general **semanticist** reminds us that the map is not the territory, and the word is not the thing."*
+> - 📜 **Willard Van Orman Quine (*Word and Object*):** *"The empirical **semanticist** must reconstruct radical translation from observed behavioral responses alone."*
+> - 📜 **S. I. Hayakawa (*Language in Thought and Action*):** *"A skilled **semanticist** trains the mind to detect verbal traps and emotional propaganda in public discourse."*

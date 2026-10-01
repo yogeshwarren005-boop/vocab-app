@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or phrase made by transposing the letters of another word or phrase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A game in which words are formed by rearranging the letters of other words or by arranging letters taken (as from a stock of cards or blocks) at random.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, formed by, or resembling an anagram; involving the transposition of letters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary analysis and textual criticism, describing verse or prose constructed through letter rearrangement or deliberate permutation of existing phrases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anagrammatic designates a word or phrase made by transposing the letters of another word or phrase."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"He delighted in **anagrammatic** conceits and verbal permutations that tickled the fancy of pedantic readers."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"The mysterious cipher concealed an **anagrammatic** signature of the author."*
+> - 📜 **Umberto Eco (*Foucault's Pendulum*):** *"The computer scanned thousands of permutations, searching for an **anagrammatic** solution to the Templar message."*

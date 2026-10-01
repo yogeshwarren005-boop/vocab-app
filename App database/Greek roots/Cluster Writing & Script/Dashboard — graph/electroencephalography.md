@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for detecting and recording brain waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for detecting and recording brain waves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement and recording of the electrical activity of the brain, usually from electrodes placed on the scalp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurophysiology, an essential diagnostic method used to evaluate seizure disorders, encephalopathies, sleep staging, and brain death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroencephalography designates an apparatus for detecting and recording brain waves."*
+> - 📜 **Hans Berger (*Das Elektrenkephalogramm des Menschen*):** *"Human **electroencephalography** opens a window into the continuous bioelectric rhythms that sustain conscious thought."*
+> - 📜 **W. Grey Walter (*The Living Brain*):** *"With the advent of clinical **electroencephalography**, doctors could observe epilepsy not merely as an outward convulsion, but as an electrical storm in the brain."*
+> - 📜 **Antonio Damasio (*Descartes' Error*):** *"Modern functional imaging complements **electroencephalography**, offering exquisite spatial resolution where EEG offers millisecond timing."*

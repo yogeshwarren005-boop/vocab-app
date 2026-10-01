@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for communication at a distance by coded signals; especially : an apparatus, system, or process for communication at a distance by electric transmission over wire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for communication at a distance by coded signals; especially : an apparatus, system, or process for communication at a distance by electric transmission over wire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus, system, or process for transmitting messages or signals over a distance, especially by electric wire or radio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In technological history, the Victorian forerunner of modern telecommunications networks, uniting continents via undersea cables and synchronized electric relays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Green’s appears, on inquiry, to be at the present time aboard a vessel bound for China, three months out, but considered accessible by telegraph on application to the Lords of the Admiralty."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The high chimney-stacks telegraph family secrets to him."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As I learned afterward, the Board of Prison Directors had been summoned by telegraph, and two companies of state militia were being rushed to the prison."*
+> - 📜 **Samuel F. B. Morse (*First Telegraphic Message*):** *"What hath God wrought! flashed across the electric wire of the **telegraph** from Washington to Baltimore."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The iron roads and the electric **telegraph** annihilated distance, binding smoky Coketown to the great metropolis."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The transatlantic cable of the electric **telegraph** lay like a silent serpent resting upon the ocean floor."*

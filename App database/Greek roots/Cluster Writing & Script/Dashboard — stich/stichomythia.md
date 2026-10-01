@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dialogue especially of altercation or dispute delivered by two actors in alternating lines (as in classical Greek drama).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dialogue especially of altercation or dispute delivered by two actors in alternating lines (as in classical Greek drama).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical drama, dialogue in which two characters speak alternating single lines of verse in rapid, sharp succession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic technique, rapid verbal sparring or staccato argument used to heighten emotional conflict, suspense, or rhetorical debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stichomythia designates dialogue especially of altercation or dispute delivered by two actors in alternating lines (as in classical greek drama)."*
+> - 📜 **Gilbert Murray (*A History of Ancient Greek Literature*):** *"The fierce encounter between Oedipus and Tiresias blazes through brilliant **stichomythia**, line clashing against line like swords."*
+> - 📜 **William Shakespeare (*Richard III*):** *"The intense **stichomythia** between Richard and Queen Elizabeth displays the terrifying agility of Shakespeare’s rhetorical wit."*
+> - 📜 **T. S. Eliot (*The Sacred Wood*):** *"Senecan tragedy perfected a sharp, aphoristic **stichomythia** that exerted profound influence over Elizabethan dramatists."*

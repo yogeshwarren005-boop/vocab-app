@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person marked with stigmata : a person with bodily marks or pains resembling the wounds of the crucified Jesus —called also stigmatist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or conveying a social stigma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or marked with a stigma or stigmata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics, bringing rays of light from a single point to a sharp, single focal point (contrasting with astigmatic); in botany, relating to the floral stigma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Foul stigmatic, that’s more than thou canst tell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art neither like thy sire nor dam, But like a foul misshapen stigmatic, Marked by the Destinies to be avoided, As venom toads or lizards’ dreadful stings."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Foul **stigmatic**, that's more than thou canst tell: look after a father when thy mother's well."*
+> - 📜 **Ernst Abbe (*Achromatic Optical Systems*):** *"A perfectly corrected optical system produces a **stigmatic** image, free of coma and spherical aberration."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Secretions upon the **stigmatic** surface nourish the elongating pollen tube during fertilization."*

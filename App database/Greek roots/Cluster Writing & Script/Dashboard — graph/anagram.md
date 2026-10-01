@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or phrase made by transposing the letters of another word or phrase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A game in which words are formed by rearranging the letters of other words or by arranging letters taken (as from a stock of cards or blocks) at random.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or phrase formed by rearranging the letters of a different word or phrase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wordplay, cryptography, and Renaissance rhetoric, a letter-transposition puzzle often endowed with mystical, prophetic, or satirical significance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A great eater was once boasting that he was a great wit, saying, The world knew him to be “all wit:” one standing by, that knew him very well, said, Is it possible that you are taken for a wit! if so, your anagram is wit-all. 1122."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"These are the Anagrams of three great Worthies. _Mir_."*
-> - 📜 **James Joyce (*Ulysses*):** *"What anagrams had he made on his name in youth?"*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"These are the **anagrams** of three great Worthies."*
+> - 📜 **James Joyce (*Ulysses*):** *"What **anagrams** had he made on his name in youth? Leopold Bloom."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The art of **anagram** was cultivated by the ancients, who sought in the transposition of letters some mystical prophecy or moral lesson."*

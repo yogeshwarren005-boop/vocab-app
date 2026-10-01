@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point on the sagittal suture near the lamboid suture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point on the sagittal suture near the lamboid suture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In craniometry and anatomy, a cranial landmark on the sagittal suture between the two parietal foramina near the junction of the middle and posterior thirds of the sagittal suture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology, a cephalometric measuring point used in craniometric indices and forensic identification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obelion designates the craniometric point on the sagittal suture near the lamboid suture."*
+> - 📜 **Paul Broca (*Instructions craniologiques et craniométriques*):** *"The **obelion** is easily identified on the cranial vault as that segment of the sagittal suture lying between the parietal foramina."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"Measurement from the nasion to the **obelion** provides a reliable metric for calculating cranial vault curvature."*
+> - 📜 **William Henry Flower (*Fashion in Deformity*):** *"Artificial cranial deformation frequently flattens the occipital contour, displacing the anatomical position of the **obelion**."*

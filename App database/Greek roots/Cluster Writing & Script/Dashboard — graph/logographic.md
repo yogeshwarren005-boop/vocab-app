@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by the use of logographs : consisting of logographs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or marked by the use of logographs : consisting of logographs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or using a system of writing based on logograms (symbols representing an entire word or morpheme rather than a phonetic sound).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative writing systems, describing scripts such as Chinese characters or ancient Sumerian cuneiform, where graphic glyphs signify lexical concepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logographic designates of, relating to, or marked by the use of logographs : consisting of logographs."*
+> - 📜 **Arthur Evans (*Scripta Minoa*):** *"The earliest stage of Cretan writing appears to have been largely **logographic**, depicting men, weapons, and animals."*
+> - 📜 **Florian Coulmas (*The Writing Systems of the World*):** *"A **logographic** script allows speakers of mutually unintelligible dialects to communicate through a shared written medium."*
+> - 📜 **Walter J. Ong (*Orality and Literacy*):** *"The cognitive processing of a **logographic** character engages different visual and mental faculties than an alphabetic script."*

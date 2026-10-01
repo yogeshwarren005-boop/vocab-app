@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of carve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of carve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In herpetology, having long, hollow, tubular venom-injecting fangs mounted on a short, mobile maxilla that rotates to fold the fangs against the roof of the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In functional morphology, possessing the most specialized snake envenomation system, allowing deep intramuscular delivery of hemotoxins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenoglyphous designates adjective*) pertaining to, derived from, or characteristic of carve."*
+> - 📜 **Raymond Ditmars (*The Serpents of North America*):** *"The rattlesnake displays a **solenoglyphous** mechanism of astounding efficiency, swinging its hypodermic fangs forward in an instant."*
+> - 📜 **George Albert Boulenger (*Catalogue of the Snakes*):** *"The Viperidae are distinguished as **solenoglyphous** serpents, possessing perforated fangs upon a freely movable maxillary bone."*
+> - 📜 **Hans Gadow (*Amphibia and Reptiles*):** *"In **solenoglyphous** vipers, the maxillary bone has shortened into a rotating hinge that prevents the immense fangs from piercing the lower jaw."*

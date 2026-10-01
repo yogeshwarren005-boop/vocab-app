@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bibl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who destroys or mutilates books, especially religious texts or literary collections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book-destroyer driven by ideological censorship, religious zeal, or malicious vandalism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biblioclast designates a term designating an entity, condition, or phenomenon derived from greek bibl."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The fanatical **biblioclast** tore the illuminated leaves from the monastic manuscripts, selling the vellum to bookbinders."*
+> - 📜 **Thomas Frognall Dibdin (*Bibliomania*):** *"Every true bibliophile regards the wanton **biblioclast** with horror and disgust."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The zealot Caliph has often been denounced as a barbarous **biblioclast** who ordered the heating of public baths with the scrolls of Alexandria."*

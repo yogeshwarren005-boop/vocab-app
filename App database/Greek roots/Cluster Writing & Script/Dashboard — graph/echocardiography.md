@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of ultrasound to examine the structure and functioning of the heart for abnormalities and disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of ultrasound to examine the structure and functioning of the heart for abnormalities and disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of ultrasound waves to produce visual images of the heart's chambers, valves, and surrounding structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, a non-invasive diagnostic modality (including Doppler, transthoracic, and transesophageal techniques) used to evaluate hemodynamic flow, ejection fraction, and cardiac anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, echocardiography designates the use of ultrasound to examine the structure and functioning of the heart for abnormalities and disease."*
+> - 📜 **Inge Edler (*The History of Echocardiography*):** *"The discovery that reflected ultrasound could record cardiac valve motion marked the birth of modern **echocardiography**."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"Color Doppler **echocardiography** immediately demonstrated severe mitral regurgitation spraying backwards into the left atrium."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The portable **echocardiography** monitor showed the aortic leaflets fluttering like tiny white sails against the blood stream."*

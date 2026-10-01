@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of line, row.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of line, row.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in a single vertical row, rank, or line along an axis (applied to leaves, flowers, or anatomical structures).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phyllotaxis and morphology, having all appendages aligned on one side of a stem or rachis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monostichous designates adjective*) pertaining to, derived from, or characteristic of line, row."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The flowers in this spike are unilaterally arranged, forming a strictly **monostichous** series."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Under rare developmental constraints, primordia arise in a **monostichous** sequence along one flank of the apex."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"A single row of appendages demonstrates **monostichous** symmetry governed by directional growth factors."*

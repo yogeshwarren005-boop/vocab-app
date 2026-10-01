@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek grammar, a word that has the circumflex accent on the last syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greek prosody and accentuation, contrasting with properispomenon (circumflex on the penult) and oxytone (acute on the ultima).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perispomenon designates a term designating an entity, condition, or phenomenon derived from greek spa."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"Contracted verbs in -ew regularly form a **perispomenon** in the present indicative active."*
+> - 📜 **William Watson Goodwin (*Greek Grammar*):** *"When an acute on the penult coalesces with an unaccented ultima, the resulting word is accented as a **perispomenon**."*
+> - 📜 **Erasmus (*Dialogus de recta pronuntiatione*):** *"The subtle musical cadence of a Greek **perispomenon** requires the pitch to rise and fall upon the long final vowel."*

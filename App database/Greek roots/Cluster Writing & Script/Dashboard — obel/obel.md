@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek obel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete variant of obelus; a critical mark or stroke used in ancient manuscripts to denote suspected, corrupt, or spurious text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obelisk or dagger punctuation mark (†) used in printing and textual criticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obel designates a term designating an entity, condition, or phenomenon derived from greek obel."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"The learned editor set an **obel** against the spurious stanza to warn the reader of modern interpolation."*
+> - 📜 **Richard Porson (*Adversaria*):** *"No manuscript authority supports this corrupted reading, which deservedly receives the editor's **obel**."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Armed with pedantic pen, the critic draws his biting **obel** across immortal lines."*

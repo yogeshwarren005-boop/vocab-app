@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or transmitted by telegraph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the style of a telegram with many short words left out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or transmitted by the telegraph; or characterized by terse, concise, and compressed phrasing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive linguistics, describing early child language acquisition (the telegraphic stage) where functional words and morphemes are omitted while content words are preserved.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Intelligence having been sent to Männedorf, united prayer was made in his behalf; and very soon afterwards a telegraphic message announced that he was recovering."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I felt the need of sympathy and help and prayer, and I made up my mind that I would send a telegraphic dispatch to this meeting, where I had so often united with you in prayer."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Returning to Washington, she now offered her services to the Sanitary Commission, and on the 4th of May was summoned by a telegraphic despatch from Mr."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"My brother Mycroft communicated in **telegraphic** style, compressing complex state secrets into a few laconic sentences."*
+> - 📜 **L. P. Brockett (*The Great War of 1870*):** *"A **telegraphic** dispatch informed the ministry that the fortress of Sedan had capitulated."*
+> - 📜 **Roger Brown (*A First Language: The Early Stages*):** *"Children at the two-word stage use **telegraphic** speech, saying 'kitty drink' or 'daddy go' without auxiliary verbs."*

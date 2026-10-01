@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stupid mistake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stupid mistake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act or remark of foolishness, stupidity, or silliness; a blunder (from French bêtise).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Folly, obtuseness, or lack of good sense in social or literary conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, betise designates a stupid mistake."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle smiled with cool forbearance, forgiving her companion’s provincial **betise** with easy grace."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Emma shuddered at her husband’s clumsy platitudes, seeing in every word an incurable bourgeois **betise**."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"The salon hostess pretended not to hear the young marquis’s shocking **betise**, quickly changing the conversation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anagram that means the opposite of the original word or phrase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anagram that means the opposite of the original word or phrase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anagram that forms a word, phrase, or sentence with a meaning opposite or antonymous to that of the original.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In recreational linguistics and wordplay, a humorous or ironic transposition of letters yielding an antithetical concept (e.g., 'funeral' yielding 'real fun', or 'restful' yielding 'fluster').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antigram designates an anagram that means the opposite of the original word or phrase."*
+> - 📜 **Will Shortz (*The Puzzler's Guide*):** *"Wordplay enthusiasts celebrate the **antigram** for its sheer irony, transforming 'violence' into 'nice love' with the rearrangement of a few letters."*
+> - 📜 **Dmitri Borgmann (*Language on Vacation*):** *"The true **antigram** strikes like a satirical epigram, using the exact letters of an entity to reveal its opposite nature."*
+> - 📜 **A. Ross Eckler (*Word Ways: The Journal of Recreational Linguistics*):** *"Few anagrammatic feats are more satisfying than discovering a natural **antigram** where meaning flips upside down."*

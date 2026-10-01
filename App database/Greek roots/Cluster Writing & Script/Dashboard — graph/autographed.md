@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with one's signature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing an autograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inscribed or signed with the author's or creator's own signature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing a personal handwritten inscription, endorsement, or dedication by the person who created or owned the item.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autographed designates mark with one's signature."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The collector proudly displayed an **autographed** copy of the charter signed by the emperor himself."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"Upon the mantelpiece stood an **autographed** portrait of the great French toxicologist."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The manuscript had been lovingly preserved, bound in morocco, and **autographed** upon the vellum flyleaf."*

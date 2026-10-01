@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to bibliopoles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to bibliopoles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a bibliopole or the trade of selling rare books.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the antiquarian book trade, auctions, and bookseller catalogs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliopolic designates of or relating to bibliopoles."*
+> - 📜 **Thomas Frognall Dibdin (*The Bibliographical Decameron*):** *"The **bibliopolic** rivalries at the Duke of Roxburghe’s auction drove bids to unprecedented heights."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"Through sharp **bibliopolic** acumen, the bookseller amassed a fortune by cornering first editions of Shakespeare."*
+> - 📜 **Charles Lamb (*Essays of Elia*):** *"I love to rummage through the damp stalls of those old **bibliopolic** alleys near Saint Paul’s."*

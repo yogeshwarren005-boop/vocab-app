@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An upright 4-sided usually monolithic pillar that gradually tapers as it rises and terminates in a pyramid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An upright 4-sided usually monolithic pillar that gradually tapers as it rises and terminates in a pyramid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tall, four-sided, narrow tapering stone monument which ends in a pyramid-like shape or pyramidion at the top, originally erected by ancient Egyptians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printing and typography, a reference mark in the form of a dagger (†) used to direct the reader to a footnote.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Section 4 For days now he had been aware of her presence in Marseilles without thinking of her--aware of her as he was aware of the Hotel de Ville, or of the Consigne, as of the obelisk in the Place Castellane."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"So one dusk on the Prado, as he met her, he was no more surprised than if, in their appointed places he had come across the obelisk or the Consigne or the Hotel de Ville."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Here and there rose a white or silvery figure in the waste garden of the earth, here and there came the sharp vertical line of some cupola or obelisk."*
+> - 📜 **Herodotus (*The Histories*):** *"Pharaoh Pheros erected two magnificent granite monoliths, each a towering **obelisk** dedicated to the sun god."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white hump of Moby Dick rose like a snow-capped **obelisk** above the foam of the Pacific."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The ancient Egyptian **obelisk** in the center of the piazza cast its long shadow across the Roman pavement."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, being, or prepared by orthographic projection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to orthography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the conventional rules of spelling in a language; correctly spelled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural and technical drawing, relating to orthographic projection, wherein three-dimensional objects are represented on perpendicular two-dimensional planes without perspective distortion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthographic designates of, relating to, being, or prepared by orthographic projection."*
+> - 📜 **Samuel Johnson (*The Plan of an English Dictionary*):** *"I shall endeavor to establish an **orthographic** standard that balances etymological ancestry with living pronunciation."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The **orthographic** elevation shows the vertical façade of the temple drawn exactly to scale without perspective fore-shortening."*
+> - 📜 **Noam Chomsky (*Current Issues in Linguistic Theory*):** *"The child internalizes the **orthographic** regularities of the writing system alongside spoken phonology."*

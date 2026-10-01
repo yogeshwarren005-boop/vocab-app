@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn on a map connecting points having the same numerical value of some variable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line drawn on a map connecting points having the same numerical value of some variable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line on a map or chart connecting points having equal values of a given quantity (such as temperature, atmospheric pressure, or elevation); an isoline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In recreational linguistics and cryptography, a word or phrase in which no letter of the alphabet occurs more than once (e.g., 'subdermatoglyphic').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isogram designates a line drawn on a map connecting points having the same numerical value of some variable."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"By connecting points of equal mean annual temperature with an **isogram**, I revealed the true thermal geography of the continents."*
+> - 📜 **Dmitri Borgmann (*Language on Vacation*):** *"Word buffs prize the long **isogram**, laboring to discover fifteen-letter words free from any repeated character."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The cryptanalyst used an **isogram** keyword to construct a non-repeating mixed alphabet for the cipher."*

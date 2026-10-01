@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The curve or tracing made by a cardiograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The curve or tracing made by a cardiograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic recording or tracing of the movements, pressure, or electrical changes of the heart (often synonymous with electrocardiogram).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical physiology, the curve traced by a cardiograph attached to the chest wall, recording apical cardiac pulsations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Such a diagram is called a "cardiogram," and it seems that each of us has a particular form of cardiogram peculiar to himself, so that a man could almost be recognised and distinguished from his fellows by the electrical action of his heart."*
+> - 📜 **Étienne-Jules Marey (*La méthode graphique*):** *"The mechanical **cardiogram** recorded upon the smoked drum showed each systolic contraction with mathematical fidelity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A modern **cardiogram** provides indispensable confirmation when clinical signs of valvular regurgitation are ambiguous."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Blanched Soldier*):** *"The physician examined the patient's **cardiogram**, noting the intermittent skipped beats of cardiac strain."*

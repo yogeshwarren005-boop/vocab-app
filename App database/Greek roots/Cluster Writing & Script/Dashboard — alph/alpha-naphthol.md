@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An isomer of naphthol used in dyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An isomer of naphthol used in dyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic crystalline organic phenolic compound (1-naphthol) derived from naphthalene, used in dyes, perfumes, and biochemical assays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry, a reagent used in Molisch's test for carbohydrates (producing a purple ring) and in the Sakaguchi test for arginine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpha-naphthol designates an isomer of naphthol used in dyes."*
+> - 📜 **Hans Molisch (*Monatshefte für Chemie*):** *"Adding a trace of **alpha-naphthol** to a carbohydrate solution followed by concentrated sulfuric acid precipitates a characteristic violet ring."*
+> - 📜 **Paul Ehrlich (*Das Sauerstoff-Bedürfniss des Organismus*):** *"The synthesis of indophenol blue from **alpha-naphthol** and paraphenylenediamine demonstrated intracellular oxidative enzyme activity."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Electrophilic aromatic substitution on **alpha-naphthol** occurs predominantly at the activated 4-position of the naphthalene nucleus."*

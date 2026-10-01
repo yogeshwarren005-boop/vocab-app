@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stich.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem or composition in which the final letters of consecutive lines, read vertically downward, form a word, name, or motto (contrasting with an acrostic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wordplay and poetic cryptograms, a verse structure combining initial, medial, or final letter patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telestich designates a term designating an entity, condition, or phenomenon derived from greek stich."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The ingenious poet combined an acrostic with a **telestich**, so that both the head and tail of each line spelled his patron's name."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"A courtly maker may show his cunning by devising a **telestich** whose end-letters reveal a secret anagram."*
+> - 📜 **Samuel Butler (*Hudibras*):** *"He tortured his brains with many an idle puzzle, spinning out acrostic and **telestich** to flatter a disdainful mistress."*

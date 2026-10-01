@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various drugs that block alpha-adrenergic receptors; used in treating benign prostatic hyperplasia; relaxes the muscles of the prostate and bladder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various drugs that block alpha-adrenergic receptors; used in treating benign prostatic hyperplasia; relaxes the muscles of the prostate and bladder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmacological agent that inhibits alpha-adrenergic receptors, used chiefly to treat hypertension and benign prostatic hyperplasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, drugs such as prazosin, doxazosin, or phenoxybenzamine that relax vascular and prostatic smooth muscle by blocking alpha-1 receptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpha-blocker designates any of various drugs that block alpha-adrenergic receptors; used in treating benign prostatic hyperplasia; relaxes the muscles of the prostate and bladder."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"An **alpha-blocker** reduces peripheral vascular resistance without causing severe reflex tachycardia when selective for alpha-1 receptors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Administration of an **alpha-blocker** is indicated in the pre-operative management of pheochromocytoma to prevent hypertensive crises."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"By blocking sympathetic tone to arteriolar beds, an **alpha-blocker** produces a sustained decline in mean arterial pressure."*

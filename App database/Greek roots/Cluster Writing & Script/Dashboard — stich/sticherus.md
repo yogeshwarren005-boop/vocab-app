@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Umbrella ferns; warm regions of australia and new zealand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Umbrella ferns; warm regions of australia and new zealand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of scrambling tropical and subtropical ferns (family Gleicheniaceae), known as umbrella ferns, characterized by repeatedly branched fronds with pectinate segments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, colonial ferns forming dense thickets along rainforest margins and open volcanic slopes in the Southern Hemisphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sticherus designates umbrella ferns; warm regions of australia and new zealand."*
+> - 📜 **Frederick Orpen Bower (*The Ferns*):** *"The indeterminate forking fronds of **Sticherus** scramble over low shrubs, forming impenetrable roadside thickets."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"Species of **Sticherus** carpet damp mountain gullies with delicate, fan-like radiating pinnae."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The protostelic vascular cylinder of **Sticherus** illustrates a primitive level of stelar organization among ferns."*

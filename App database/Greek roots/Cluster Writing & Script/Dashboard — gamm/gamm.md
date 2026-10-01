@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gamm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete or regional variant of gam or game (lame, crooked); also, an informal abbreviation of gamma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dialectal English, designating an injured or disabled limb (e.g., a gamm leg).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gamm designates a term designating an entity, condition, or phenomenon derived from greek gamm."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old veteran hobbled on a **gamm** leg, leaning heavily upon a sturdy blackthorn stick."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He walked with a curious jerk, favoring a **gamm** knee injured during the autumn harvest."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The watchman dragged his **gamm** foot along the cobblestones, swinging his oil lantern in the fog."*

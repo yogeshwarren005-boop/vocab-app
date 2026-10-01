@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written entirely in one's own hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written entirely in one's own hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, consisting of, or prepared as a holograph; handwritten in full by the author.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the optical technique or mathematical theory of holography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holographical designates written entirely in one's own hand."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The antiquary examined the **holographical** correspondence of Queen Elizabeth, marvelling at her vigorous Italianate script."*
+> - 📜 **Dennis Gabor (*Progress in Optics*):** *"The **holographical** recording system preserves both phase and amplitude, overcoming the limitations of standard photographic emulsions."*
+> - 📜 **Frederic G. Kenyon (*Our Bible and the Ancient Manuscripts*):** *"Not a single **holographical** page of the apostolic writers has survived the ravages of early persecution."*

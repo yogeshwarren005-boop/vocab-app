@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Half a poetic line of verse usually divided by a caesura.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Half a poetic line of verse usually divided by a caesura.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A half of a line of verse, especially one divided by a caesura or left metrically incomplete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical prosody and Old English alliterative verse, an isolated half-line constituting a distinct rhythmic unit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemistich designates half a poetic line of verse usually divided by a caesura."*
+> - 📜 **John Dryden (*Preface to the Fables*):** *"Virgil’s unfinished **hemistich** leaves the sentence suspended with profound emotional pathos."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"The pedantic critic wasted years debating whether the solitary **hemistich** was intentional or mutilated."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Milton’s grand blank verse occasionally breaks into an abrupt **hemistich** that startles the reader’s ear."*

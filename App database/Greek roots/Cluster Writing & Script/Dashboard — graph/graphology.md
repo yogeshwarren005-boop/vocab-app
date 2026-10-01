@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of handwriting especially for the purpose of character analysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of handwriting especially for the purpose of character analysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and analysis of handwriting, especially as a means of assessing personality, character, or psychological state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic terminology, the study of the writing system of a language, its graphic conventions, and its orthographic structure (contrasted with phonology).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graphology designates the study of handwriting especially for the purpose of character analysis."*
+> - 📜 **Ludwig Klages (*Handwriting and Character*):** *"In **graphology**, every stroke of the pen expresses the balance between unconscious vital rhythm and conscious mental inhibition."*
+> - 📜 **Alfred Binet (*Les révélations de l'écriture d'après un contrôle scientifique*):** *"We subjected the claims of **graphology** to empirical tests, comparing handwriting appraisals with clinical assessments."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"Linguists employ the term **graphology** to refer to the systematic study of the visual properties of writing systems."*

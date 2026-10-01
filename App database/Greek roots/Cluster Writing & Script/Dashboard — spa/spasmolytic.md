@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or having the power to relieve spasms or convulsions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending or having the power to relieve spasms or convulsions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to relieve or suppress spasms; an agent or medication that arrests spasms or relieves cramps; antispasmodic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, designating medications that relax involuntary smooth muscles of the digestive, biliary, or urinary tracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spasmolytic designates tending or having the power to relieve spasms or convulsions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The prompt administration of a **spasmolytic** agent relieves the excruciating pain of ureteral colic."*
+> - 📜 **Claude Bernard (*Experimental Medicine*):** *"Papaverine acts directly as a musculotropic **spasmolytic**, suppressing spontaneous vascular contractions."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"Unlike atropine, modern musculotropic **spasmolytic** compounds reduce intestinal tone without causing severe dry mouth or blurred vision."*

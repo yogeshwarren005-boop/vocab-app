@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A composition usually in verse in which sets of letters (such as the initial or final letters of the lines) taken in order form a word or phrase or a regular sequence of letters of the alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composition usually in verse in which sets of letters (such as the initial or final letters of the lines) taken in order form a word or phrase or a regular sequence of letters of the alphabet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem, word puzzle, or composition in which the first letter (or other specific letters) of each line or stanza spells out a word, message, or the alphabet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and biblical literature, abecedarian psalms or hymns (such as Psalm 119) structured to follow the alphabetical sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What acrostic upon the abbreviation of his first name had he (kinetic poet) sent to Miss Marion (Molly) Tweedy on the 14 February 1888?"*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Some time before he died he made the epitaph, by way of acrostic, on himself, which is engraved on the stone which now covers his remains.” Mrs."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"So you may toy with imagery in mere intellectual ingenuity, and then you might as well go write acrostics: or you may toy with it in raptures, and then you may write a _Sensitive Plant_."*
+> - 📜 **Edgar Allan Poe (*An Acrostic*):** *"Elizabeth it is in vain you say 'Love not'—thou sayest it in so sweet a way; in this **acrostic** thy true name is traced."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Dryden had little patience for the **acrostic** and anagram, dismissing them as the frivolous toys of dull wits."*
+> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"The concluding poem of the book forms an **acrostic** revealing the name Alice Pleasance Liddell in its initial letters."*

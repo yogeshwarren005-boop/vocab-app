@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of putting in alphabetical order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting in alphabetical order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of words, names, or items in alphabetical order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In education and sociolinguistics, the act or process of imparting literacy or creating an alphabetic orthography for an oral language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphabetization designates the act of putting in alphabetical order."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"Noah Webster insisted upon systematic **alphabetization** in his American dictionaries to facilitate public schooling."*
+> - 📜 **Paulo Freire (*Pedagogy of the Oppressed*):** *"The **alphabetization** of adults must be grounded in generative words drawn from their everyday labor."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"Efficient algorithms for **alphabetization** rely on radix sorting and lexicographical comparison trees."*

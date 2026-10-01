@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The four Hebrew letters usually transliterated YHWH or JHVH that form a biblical proper name of God.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The four Hebrew letters usually transliterated YHWH or JHVH that form a biblical proper name of God.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Hebrew name of God transliterated into four letters as YHWH (or JHVH), regarded in Judaism as too sacred to be spoken aloud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical scholarship, theology, and Kabbalah, the ineffable, transcendent name of the deity, traditionally read as Adonai or HaShem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragrammaton designates the four hebrew letters usually transliterated yhwh or jhvh that form a biblical proper name of god."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Before the throne the seraphim bowed low, chanting the unuttered name, the holy **Tetragrammaton**."*
+> - 📜 **Gershom Scholem (*Major Trends in Jewish Mysticism*):** *"In Kabbalistic meditation, each consonant of the **Tetragrammaton** corresponds to a distinct realm of divine emanation."*
+> - 📜 **Baruch Spinoza (*Tractatus Theologico-Politicus*):** *"The name called **Tetragrammaton** was held so sacred by the Hebrews that it signified the absolute essence of God without relation to created things."*

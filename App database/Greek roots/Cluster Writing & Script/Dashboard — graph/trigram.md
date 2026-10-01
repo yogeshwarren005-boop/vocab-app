@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: trigraph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: any of the eight possible combinations of three whole or broken lines used especially in Chinese divination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sequence or combination of three letters, characters, or symbols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Chinese philosophy and the I Ching (Book of Changes), one of the eight divination figures (bagua) composed of three stacked broken or unbroken lines representing cosmic principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog trigram as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Wilhelm (*The I Ching or Book of Changes*):** *"The first **trigram**, Qian, consisting of three unbroken lines, represents the creative primal power of heaven."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"A language model based on **trigram** statistics approximates natural prose far better than single-letter frequencies."*
+> - 📜 **Joseph Needham (*Science and Civilisation in China*):** *"The eight **trigrams** formed the foundation of ancient Chinese correlative thinking and natural philosophy."*

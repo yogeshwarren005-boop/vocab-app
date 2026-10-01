@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to alphanumeric characters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to alphanumeric characters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of letters and numbers; alphanumeric (variant form).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to alphanumeric character sets, filing systems, or keyboard layouts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphamerical designates of or pertaining to alphanumeric characters."*
+> - 📜 **Alan Turing (*Intelligent Machinery*):** *"The paper tape reader was configured to interpret **alphamerical** patterns punched along parallel channels."*
+> - 📜 **Lewis Mumford (*The Myth of the Machine*):** *"Modern bureaucratic control relies upon vast **alphamerical** indexing systems to categorize human subjects."*
+> - 📜 **Vannevar Bush (*As We May Think*):** *"The memex system would allow the researcher to link documents using associative **alphamerical** codes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to grammar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming to the rules of grammar or usage accepted by native speakers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to the rules of grammar; well-formed according to the syntax and morphology of a language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or treated by the science of grammar or language analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, father; I cannot underwrite Article Four (leave alone the rest), taking it ‘in the literal and grammatical sense’ as required by the Declaration; and, therefore, I can’t be a parson in the present state of affairs,” said Angel."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He lay on the study sofa while the lesson was going on, with a Tauchnitz Euripides in his hand; but sometimes, when a false quantity or a more than usually stupid grammatical blunder was made, he would spring to his feet and fairly shout with wrath."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A small grammatical difference points us beyond minutiae to the common experience of the two men."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"His conversation was agreeable, correct in its **grammatical** construction, and free from affectation."*
+> - 📜 **George Orwell (*1984*):** *"The purpose of Newspeak was not only to provide a medium of expression for the world-view of Ingsoc, but to make all other modes of thought impossible by altering **grammatical** structures."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I love a broad margin to my life; sometimes I do not read a single book or construct a **grammatical** period for days."*

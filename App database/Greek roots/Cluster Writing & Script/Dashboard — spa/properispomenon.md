@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek grammar, a word that has the circumflex accent on the penultimate (second to last) syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greek phonology, requiring that the penult be long by nature and the ultima be short.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, properispomenon designates a term designating an entity, condition, or phenomenon derived from greek spa."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"A word having a long penult and a short ultima receives the circumflex on the penult and is called a **properispomenon**."*
+> - 📜 **William Watson Goodwin (*Greek Grammar*):** *"If the final vowel is lengthened by inflection, a **properispomenon** must shift its accent to an acute."*
+> - 📜 **Friedrich August Wolf (*Prolegomena ad Homerum*):** *"The Byzantine scholiasts scrupulously marked every **properispomenon** according to Alexandrian prosodic rules."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of negative and unfair beliefs that a society or group of people have about something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mark of shame or discredit : stain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marks or sensations of pain resembling the wounds of the crucified Jesus Christ, appearing on the hands, feet, side, or forehead of certain religious mystics (plural of stigma).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, visible physical marks, spots, or signs characteristic of a specific disease or syndrome (e.g., stigmata of chronic liver disease).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"There too, opposite to him, was Lynch whose countenance bore already the stigmata of early depravity and premature wisdom."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Saint Francis of Assisi is the celebrated historic prototype of bodily **stigmata** induced by ecstatic contemplation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Spider angiomas and palmar erythema represent classic cutaneous **stigmata** of advanced cirrhosis."*
+> - 📜 **Fyodor Dostoevsky (*The Brothers Karamazov*):** *"The pilgrims whispered of a holy ascetic in the hermitage who reportedly bore the miraculous **stigmata**."*

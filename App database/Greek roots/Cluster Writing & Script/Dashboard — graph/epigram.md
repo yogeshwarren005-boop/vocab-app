@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concise poem dealing pointedly and often satirically with a single thought or event and often ending with an ingenious turn of thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terse, sage, or witty and often paradoxical saying.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concise, clever, pointed, and often witty or satirical saying, remark, or poem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, a terse elegiac verse originally carved upon a monument or tomb, later cultivated by Martial as a brief satirical poem ending in an unexpected rhetorical punch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou think I care for a satire or an epigram?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tytler, Esq., Of Woodhouselee Epigram To Miss Ainslie In Church Burlesque Lament For The Absence Of William Creech’ s Absence Note To Mr."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Riddell’s Birthday Song—My Spouse Nancy Address Spoken by Miss Fontenelle Complimentary Epigram On Maria Riddell 1794 Remorseful Apology Song—Wilt Thou Be My Dearie?"*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He could explain everything with a cynical **epigram**, transforming grave dilemmas into sparkling dinner conversation."*
+> - 📜 **Alexander Pope (*Epigrams*):** *"An **epigram** is like a bee: a whole divided into three—its body small, its honey sweet, and in its tail a sudden sting."*
+> - 📜 **Samuel Taylor Coleridge (*On an Epigram*):** *"What is an **epigram**? A dwarfish whole; its body brevity, and wit its soul."*

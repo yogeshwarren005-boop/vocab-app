@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having agraphia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having agraphia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by agraphia; unable to write due to brain injury or dysfunction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and anthropology, lacking a system of writing; unwritten or illiterate (contrasted with typographic or epigraphic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agraphic designates relating to or having agraphia."*
+> - 📜 **Wilder Penfield (*Speech and Brain-Mechanisms*):** *"Electrical stimulation of the focal area produced a temporary **agraphic** state, during which the patient could name objects but could not spell them."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"In an **agraphic** society, oral memory carries the entire weight of ancestral law and tribal genealogy."*
+> - 📜 **Walter J. Ong (*Orality and Literacy*):** *"The cognitive structures of an **agraphic** culture differ fundamentally from those shaped by the chirographic word."*

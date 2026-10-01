@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a diagrammatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to graphic aspects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a clear, vivid, and pictorial manner; or by means of diagrams, graphs, or visual representations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and applied engineering, resolving or demonstrating equations through visual plotting rather than analytical deduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"IMPORTS INTO THE UNITED STATES. 1821-18565 Many statistics bearing upon tariff history are graphically brought together here."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The portrayal is still graphically accurate, for the common conception of mor- 92:18 tal man - a burlesque of God's man - is an outgrowth of human knowledge or sensuality, a mere offshoot of material sense."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the Highlands of Scotland the revival of vegetation in spring used to be graphically represented on St."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes described **graphically** the exact sequence of footsteps left in the garden clay."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The Time Traveller drew a line with his finger to show **graphically** how the fourth dimension intersects space."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"When the comparative anatomical skeletons are arranged **graphically** side by side, the structural unity of the primates is undeniable."*

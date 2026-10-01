@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bibl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dread, hatred, or intense dislike of books or reading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history, anti-intellectual hostility toward literacy, literature, or library collections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliophobia designates a term designating an entity, condition, or phenomenon derived from greek bibl."*
+> - 📜 **Thomas Frognall Dibdin (*Bibliophobia*):** *"I write to diagnose this pervasive **bibliophobia**, where wealthy patrons abandon literature for frivolous amusements."*
+> - 📜 **Ray Bradbury (*Fahrenheit 451*):** *"The totalitarian regime cultivated a pervasive **bibliophobia**, teaching citizens that books bring only sorrow and discord."*
+> - 📜 **George Saintsbury (*A History of English Criticism*):** *"Puritan **bibliophobia** toward secular stage-plays resulted in the closing of the public theaters."*

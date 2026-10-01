@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed in two vertical rows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed in two vertical rows.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in two opposite vertical rows or ranks on opposite sides of an axis or stem (applied to leaves, flowers, or spikelets).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical anatomy, a two-ranked phyllotaxis with a divergence angle of 180 degrees, typical of grasses and irises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distichous designates disposed in two vertical rows."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In two-rowed barley, the fertile spikelets are strictly **distichous**, forming a flat, symmetrical ear."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The leaves of the iris display a classic **distichous** arrangement, folding edge-to-edge along the flattened shoot."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Alternate leaves with a half-turn divergence yield a **distichous** pattern common across monocotyledonous families."*

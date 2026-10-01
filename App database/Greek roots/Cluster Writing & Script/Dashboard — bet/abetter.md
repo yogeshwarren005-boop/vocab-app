@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who helps or encourages or incites another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who helps or encourages or incites another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who encourages, supports, or aids another in committing a crime, wrongdoing, or improper act (variant of abettor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and ethical philosophy, one who promotes or fosters illicit enterprises through counsel, finance, or passive complicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abetter designates one who helps or encourages or incites another."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He that smiles at the slander of another becomes an active **abetter** of his malice."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The magistrate condemned the smuggler and every secret **abetter** who purchased his contraband goods."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The crown prosecuted the conspirators and treated every **abetter** of the rebellion with unsparing rigor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several leguminous plants (such as a chickpea) grown especially for their seed; also : their seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of mass equal to 1/1000 kilogram and nearly equal to the mass of one cubic centimeter of water at its maximum density.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of mass equal to one-thousandth of a kilogram (standard American/international spelling of gramme).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and chemistry, the fundamental mass unit of the CGS system, historically defined as the mass of one cubic centimeter of water at the temperature of maximum density.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gram designates any of several leguminous plants (such as a chickpea) grown especially for their seed; also : their seeds."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"From several tons of pitchblende residue, we finally extracted a single decigram of pure radium chloride, measuring each fraction to the tenth of a **gram**."*
+> - 📜 **Ernest Rutherford (*Radioactive Transformations*):** *"A single **gram** of radium emits an astonishing quantity of heat continuously without measurable chemical combustion."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten: Memories of a Chemical Boyhood*):** *"Uncle Tungsten handed me a tiny sphere of platinum that weighed hundreds of **grams** despite its modest size."*

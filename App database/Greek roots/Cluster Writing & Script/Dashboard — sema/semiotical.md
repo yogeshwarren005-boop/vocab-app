@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to semiotics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to semiotics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to semiotics; semiotic (variant form).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the theoretical analysis of sign systems and symbolic representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiotical designates of or relating to semiotics."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"A thorough **semiotical** inquiry must investigate the triadic relation of the sign, its object, and its interpretant."*
+> - 📜 **Ernst Cassirer (*The Philosophy of Symbolic Forms*):** *"Human culture is fundamentally a **semiotical** universe constructed of language, myth, and art."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"The **semiotical** perspective unites phonology, literary criticism, and visual art into a coherent science of signs."*

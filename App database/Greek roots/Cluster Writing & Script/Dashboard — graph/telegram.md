@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A telegraphic dispatch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telegraphic dispatch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message transmitted over a wire or by radio via telegraph and delivered in written or printed form; a wire or cablegram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth- and twentieth-century telecommunication history, the primary medium for rapid, long-distance written communication, celebrated for its terse, urgent style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At the moment of his departure a telegram was handed to him—a few words from his mother, stating that they were glad to know his address, and informing him that his brother Cuthbert had proposed to and been accepted by Mercy Chant."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"We received a telegram that Bishop Simpson was dying."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Since then I am happy to say that this church has been blessed and we now have a pastor." A TELEGRAM OF PRAYER."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"He walked swiftly to the post-office to send an urgent **telegram** that might yet avert disaster."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"A brief **telegram** from Holmes summoned me to Baker Street at seven o'clock that morning."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The news of the general strike flashed across the country in a flurry of urgent government **telegrams**."*

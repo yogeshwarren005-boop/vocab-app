@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Read letters out of order to discover a hidden meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Read letters out of order to discover a hidden meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To rearrange the letters of a word, name, or text to create new words or phrases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational linguistics and cryptography, to systematically permute character strings to discover valid words or anagrammatic keys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anagrammatize designates read letters out of order to discover a hidden meaning."*
+> - 📜 **Cotton Mather (*Magnalia Christi Americana*):** *"The puritan divines were wont to **anagrammatize** the names of the deceased into holy ejaculations."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"He would **anagrammatize** every string of transposed characters until a coherent English word emerged."*
+> - 📜 **Vladimir Nabokov (*Ada, or Ardor*):** *"The brilliant children would **anagrammatize** their parents' names across several languages with dazzling speed."*

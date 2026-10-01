@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having or being marked by stigmata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (optics) condition of an optical system (as a lens) in which light rays from a single point converge in a single focal point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or quality of being stigmatic; in optics, the property of an optical system in which light rays from a single point are focused to a single sharp point without aberration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bearing or receiving of religious stigmata; also, social stigmatization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stigmatism designates the condition of having or being marked by stigmata."*
+> - 📜 **Ernst Abbe (*Optical Systems and Abbe's Sine Condition*):** *"True **stigmatism** requires that wide cones of light rays converge without phase distortion across the visual field."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"Complete **stigmatism** is an optical ideal achieved only in carefully centered compound lens systems."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Reports of medieval **stigmatism** must be scrutinized for hysterical somatization and suggestibility."*

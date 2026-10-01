@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stich.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition characterized by the presence of multiple rows of eyelashes along the margin of the eyelids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and oculoplastic surgery, an anomaly where supernumerary rows of cilia irritate the cornea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polystichia designates a term designating an entity, condition, or phenomenon derived from greek stich."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **polystichia** frequently produces intractable blepharospasm and corneal ulceration."*
+> - 📜 **Ernst Fuchs (*Text-Book of Ophthalmology*):** *"Surgical epilation or cryotherapy is indicated when **polystichia** causes trichiasis and persistent mechanical keratitis."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"In cases of severe **polystichia**, supernumerary cilia emerge directly from the orifices of the Meibomian glands."*

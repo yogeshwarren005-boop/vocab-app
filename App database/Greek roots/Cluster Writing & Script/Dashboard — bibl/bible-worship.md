@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of the bible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of the bible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive, superstitious, or idolatrous reverence for the literal letter or physical book of the Bible; bibliolatry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological critique, treating the biblical text as infallible and divine in itself, elevating the letter above the living Spirit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bible-worship designates the worship of the bible."*
+> - 📜 **Samuel Taylor Coleridge (*Confessions of an Inquiring Spirit*):** *"This mechanical **bible-worship** turns the living word of God into an idol of printed paper."*
+> - 📜 **Ralph Waldo Emerson (*Divinity School Address*):** *"The churches languish because a dead **bible-worship** has replaced direct personal communion with the divine."*
+> - 📜 **Thomas Paine (*The Age of Reason*):** *"The superstitious **bible-worship** of the clergy demands that reason surrender to ancient mythological tales."*

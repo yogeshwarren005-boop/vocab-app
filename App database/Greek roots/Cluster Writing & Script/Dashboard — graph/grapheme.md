@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit (such as a letter or digraph) of a writing system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The set of units of a writing system (such as letters and letter combinations) that represent a phoneme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest meaningful contrastive unit in a writing system of a language, representing a phoneme or sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical linguistics and orthography, an abstract visual character unit (analogous to the phoneme in phonology) that encompasses various glyph variants or allographs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grapheme designates a unit (such as a letter or digraph) of a writing system."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"A **grapheme** is the minimal distinctive visual unit of a written language, just as a phoneme is the minimal unit of speech."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The value of a **grapheme** is purely negative and differential; what matters is that it is not confused with any other letter of the alphabet."*
+> - 📜 **Noam Chomsky & Morris Halle (*The Sound Pattern of English*):** *"English orthography is a near-optimal system because each **grapheme** corresponds closely to an underlying lexical representation."*

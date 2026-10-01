@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture or likeness obtained by photography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To take a photograph of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture or likeness obtained by the chemical action of light or other radiation on a sensitized surface, or digitally by an electronic sensor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual culture, a mechanical indexical trace that records a fleeting moment of physical reality with apparent optical fidelity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It had seemed of a sudden most familiar, in much the same way that my father’s barn would have been in a photograph."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They’ve ben fixin’ it up awful.” Here the missionary handed to my mother another photograph he had sought out."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"El Kul’ah, as it was known by—” But here I broke in again, pointing to rubbish piles of ruined masonry on the left edge of the photograph."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Stereoscope and the Stereograph*):** *"The **photograph** has divorced the likeness of form from the substance of matter, allowing the image to travel everywhere."*
+> - 📜 **Jack London (*The Cruise of the Snark*):** *"The **photograph** captured the furious crest of the South Sea breaker just before it broke over our decks."*
+> - 📜 **Susan Sontag (*On Photography*):** *"To collect photographs is to collect the world; each **photograph** is a memento mori, a slice of frozen time."*

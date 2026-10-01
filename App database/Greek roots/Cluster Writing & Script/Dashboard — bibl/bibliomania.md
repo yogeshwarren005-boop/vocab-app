@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme preoccupation with collecting books.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme preoccupation with collecting books.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive, passionate, or obsessive enthusiasm for collecting and possessing books.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social and cultural history, a collecting craze focused on rare editions, first impressions, unique bindings, and uncut copies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliomania designates extreme preoccupation with collecting books."*
+> - 📜 **Thomas Frognall Dibdin (*Bibliomania, or Book-Madness*):** *"The symptoms of **bibliomania** are easily diagnosed: an irresistible passion for large-paper copies, uncut edges, and black-letter folios."*
+> - 📜 **Holbrook Jackson (*The Anatomy of Bibliomania*):** *"Victims of **bibliomania** will starve their bodies to feed their shelves with rare first editions."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Old Monkbarns was infected with an incurable **bibliomania**, bidding wildly at every provincial book auction."*

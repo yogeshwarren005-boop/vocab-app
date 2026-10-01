@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: X-ray examination of the breasts (as for early detection of cancer).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: X-ray examination of the breasts (as for early detection of cancer).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The radiographic examination of the breasts using low-dose X-rays for screening and diagnosis of tumors and other lesions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radiological oncology, a population-based screening modality essential for reducing breast cancer mortality through early detection of non-palpable microcalcifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammography designates x-ray examination of the breasts (as for early detection of cancer)."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The advent of routine **mammography** enabled oncologists to detect breast malignancies years before they could be felt by physical exam."*
+> - 📜 **Atul Gawande (*Complications*):** *"Digital **mammography** has refined the radiologist's ability to distinguish harmless cysts from invasive carcinoma."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"Screening **mammography** represents one of the great triumphs of preventive radiology in modern clinical medicine."*

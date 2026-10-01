@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek glyph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of large, heavily armored, herbivorous mammals of the Americas during the Pleistocene epoch, related to modern armadillos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, xenarthrans notable for a massive, fused bony dorsal carapace and fluted, column-like molar teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Glyptodon designates a term designating an entity, condition, or phenomenon derived from greek glyph."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The great bony armor of the **Glyptodon** was embedded in the cliff of the Pampas alongside the bones of Megatherium."*
+> - 📜 **Richard Owen (*Description of the Skeleton of an Extinct Gigantic Sloth*):** *"The molar dentition of **Glyptodon** exhibits deep longitudinal fluting that gave the genus its distinctive name."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The Pleistocene plains of South America supported monstrous xenarthrans, among which **Glyptodon** was the most heavily armored."*

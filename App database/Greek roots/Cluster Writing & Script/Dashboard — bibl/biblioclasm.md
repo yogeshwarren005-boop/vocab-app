@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bibl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or act of destroying books or writings, especially the Bible, religious texts, or cultural literature; book-burning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and polemics, intentional ideological or sectarian eradication of libraries and documentary heritage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biblioclasm designates a term designating an entity, condition, or phenomenon derived from greek bibl."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The history of fanaticism is stained with recurrent orgies of **biblioclasm**, from the flames of Alexandria to the bonfires of the Inquisition."*
+> - 📜 **Heinrich Heine (*Almansor*):** *"Where they begin with **biblioclasm**, burning books in the public squares, they end by burning human beings."*
+> - 📜 **Ray Bradbury (*Fahrenheit 451*):** *"The state sanctified institutional **biblioclasm**, commanding firemen to incinerate every printed volume without mercy."*

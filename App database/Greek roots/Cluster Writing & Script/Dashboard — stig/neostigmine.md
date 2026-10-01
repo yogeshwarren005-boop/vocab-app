@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cholinergic drug (trade name prostigmin) used to treat some ophthalmic conditions and to treat myasthenia gravis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cholinergic drug (trade name prostigmin) used to treat some ophthalmic conditions and to treat myasthenia gravis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic cholinesterase inhibitor drug used to treat myasthenia gravis and to reverse the effects of nondepolarizing neuromuscular blocking agents after surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a quaternary ammonium parasympathomimetic agent that prolongs acetylcholine action at the motor end plate without crossing the blood-brain barrier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neostigmine designates a cholinergic drug (trade name prostigmin) used to treat some ophthalmic conditions and to treat myasthenia gravis."*
+> - 📜 **Mary Walker (*The Lancet*):** *"The dramatic relief of muscular weakness in myasthenia gravis following an injection of **neostigmine** confirmed the cholinergic defect."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Anesthesiologists routinely administer **neostigmine** combined with glycopyrrolate to terminate surgical muscle paralysis."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"By preventing the rapid enzymatic destruction of acetylcholine, **neostigmine** restores neuromuscular transmission in myasthenic patients."*

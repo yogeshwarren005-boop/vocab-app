@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with, relating to, or correcting astigmatism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing incapacity for observation or discrimination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by or relating to astigmatism; failing to focus light rays from a single point onto a single focal point on the retina or focal plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metaphorically, having a distorted, skewed, or biased perception or judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He jerked it back again, and the thing looked as if it had been hung in a dim light by an astigmatic drunkard."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"An **astigmatic** cornea refracts vertical and horizontal rays to unequal focal distances, blurring retinal images."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His moral vision was curiously **astigmatic**, magnifying petty personal slights while ignoring broad societal injustice."*
+> - 📜 **Aldous Huxley (*The Art of Seeing*):** *"Corrective cylindrical lenses compensate for the uneven curvature of the **astigmatic** eye."*

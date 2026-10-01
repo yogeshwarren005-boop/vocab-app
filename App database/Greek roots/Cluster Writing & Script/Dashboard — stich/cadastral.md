@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the records of a cadastre.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the records of a cadastre.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or relating to the extent, value, and ownership of land for the purpose of taxation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geodesy and urban planning, designating official maps, surveys, and registers that define legal boundaries of real property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadastral designates of or relating to the records of a cadastre."*
+> - 📜 **Napoleon Bonaparte (*Letters and Speeches on the Civil Code*):** *"A comprehensive **cadastral** survey is the only method to ensure equitable land taxation and guarantee title."*
+> - 📜 **Fernand Braudel (*The Mediterranean and the Mediterranean World*):** *"The Venetian **cadastral** records describe in minute detail every vineyard, olive grove, and parcel of mainland estate."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Modern bureaucratic fiscal administration relies upon exact **cadastral** registers to secure property rights."*

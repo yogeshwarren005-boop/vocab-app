@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek iota.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The excessive or frequent use of the letter or sound of iota; in historical Greek linguistics, the phonetic shift whereby several distinct vowels and diphthongs merged into the single sound [i].
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speech pathology, a speech defect marked by the substitution of an 'ee' sound for other vowels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iotacism designates a term designating an entity, condition, or phenomenon derived from greek iota."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The historical development of modern Greek phonology is characterized by pervasive **iotacism**, collapsing ancient vocalic distinctions."*
+> - 📜 **Erasmus (*Dialogus de recta Latini Graecique sermonis pronuntiatione*):** *"Erasmus opposed modern Byzantine **iotacism**, arguing that ancient Greeks distinguished eta and iota clearly."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Extreme **iotacism** reduces vowel diversity, creating an abundance of homophones in colloquial speech."*

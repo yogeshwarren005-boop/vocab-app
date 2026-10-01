@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek graph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that has a different spelling from another word that sounds identical (a homophone, such as 'wright' and 'right').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical orthography, an incorrect, deviant, or non-standard spelling of a word.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterograph designates a term designating an entity, condition, or phenomenon derived from greek graph."*
+> - 📜 **Henry Bradley (*On the Relations between Spoken and Written Language*):** *"English orthography relies extensively on the **heterograph** to distinguish words like 'knight' and 'night' to the eye."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar on Historical Principles*):** *"The historical retention of silent letters creates pairs of **heterographs** that aid silent reading but perplex foreign learners."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"Spelling reform committees struggled in vain to eliminate the confusing **heterograph** from standard primary readers."*

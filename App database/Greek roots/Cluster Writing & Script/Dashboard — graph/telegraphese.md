@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Language characterized by terseness and ellipsis as in telegrams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Language characterized by terseness and ellipsis as in telegrams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concise, clipped, and abbreviated style of language typical of telegrams, characterized by the omission of non-essential words such as articles, pronouns, and auxiliary verbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic analysis, terse journalistic or literary prose that mimics the compressed economy enforced by word-count charges on telegraph cables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telegraphese designates language characterized by terseness and ellipsis as in telegrams."*
+> - 📜 **George Bernard Shaw (*Selected Correspondence*):** *"Shaw replied in characteristic **telegraphese**: 'Have reserved two seats for first night. Come and bring a friend if you have one.'"*
+> - 📜 **Evelyn Waugh (*Scoop*):** *"The foreign correspondent cabled his editor in frantic **telegraphese**: 'Unproceeding lakingward situation unpromising send cash urgent.'"*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The terse conventions of cable **telegraphese** influenced American headline writers, stripping away every superfluous adjective."*

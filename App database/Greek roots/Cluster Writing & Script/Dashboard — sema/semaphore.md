@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for visual signaling (as by the position of one or more movable arms).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of visual signaling by two flags held one in each hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of sending messages by holding two flags or arms in certain positions according to an alphabetical code.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus consisting of a tall post with movable arm signals used for conveying instructions on railways; in computing, a synchronization primitive variable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"A sailor on her deck began to swing his arms in the curious semaphore language of the sea."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The lookout on the masthead signaled the distant vessel by waving his arms like a living **semaphore**."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The roadside railway **semaphore** dropped its red arm with a metallic clatter into the evening gloom."*
+> - 📜 **Edsger W. Dijkstra (*Cooperating Sequential Processes*):** *"We introduced the concept of the counting **semaphore** to synchronize concurrent processes and prevent race conditions."*

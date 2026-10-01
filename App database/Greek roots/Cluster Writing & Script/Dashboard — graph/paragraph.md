@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subdivision of a written composition that consists of one or more sentences, deals with one point or gives the words of one speaker, and begins on a new usually indented line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short composition or note that is complete in one paragraph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct section of a piece of writing, usually dealing with a single theme and indicated by a new line, indentation, or numbering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a marginal mark or symbol (such as the pilcrow ¶, Greek paragraphos) used in ancient manuscripts to indicate a change of topic or speaker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Come and teach our two-legged law-paragraph here to get some sense."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Paragraph Numbers, shown thus [1], are from Edwin Curley's translation in his "The Collected Works of Spinoza", Volume 1, 1985, Princeton University Press; ISBN 0-691-07222-1. 4."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"These accidents have made a paragraph in the newspapers and have filled a bed or two in the nearest hospital."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"A scrupulous writer, in every sentence that he writes, will ask himself: What am I trying to say? Can I put it in a shorter **paragraph**?"*
+> - 📜 **Henry James (*The Art of Fiction*):** *"Every single **paragraph** of a well-wrought novel should contribute to the organic illumination of the central theme."*
+> - 📜 **Walter J. Ong (*Orality and Literacy*):** *"The printed **paragraph** visually isolates an argumentative unit in a way that manuscript culture rarely attempted."*

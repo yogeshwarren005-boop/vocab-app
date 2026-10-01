@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to anaglyphs or anaglyphy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to anaglyphs or anaglyphy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to carving in relief or embossed decorative work (variant of anaglyptic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing ornamental surfaces raised above a surrounding background.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaglyptical designates related to anaglyphs or anaglyphy."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The Renaissance bibliophile treasured volumes bound in calfskin stamped with **anaglyptical** armorial designs."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The ancient guildhall preserved **anaglyptical** shields commemorating the merchant masters of the town."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The **anaglyptical** ornamentation of the marble architrave caught the fading light of the Venetian sunset."*

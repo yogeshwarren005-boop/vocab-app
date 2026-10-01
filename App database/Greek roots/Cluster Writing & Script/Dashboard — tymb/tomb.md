@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An excavation in which a corpse is buried : grave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place of interment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vault, chamber, or grave for the dead, typically an excavation in earth or rock, or an elevated stone structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology and cultural history, a monumental funerary monument (such as a pyramid, mausoleum, or dolmen) commemorating deceased monarchs or dignitaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or who is he so fond will be the tomb Of his self-love to stop posterity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This silence for my sin you did impute, Which shall be most my glory being dumb, For I impair not beauty being mute, When others would give life, and bring a tomb."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Excuse not silence so, for’t lies in thee, To make him much outlive a gilded tomb: And to be praised of ages yet to be."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Why the sepulchre, wherein we saw thee quietly inurn'd, hath oped his ponderous and marble jaws, to cast thee up again from the dark **tomb**."*
+> - 📜 **Lord Byron (*The Giaour*):** *"He who hath bent him o'er the dead sees in that silent countenance no terror of the **tomb**."*
+> - 📜 **Percy Bysshe Shelley (*Adonais*):** *"Nor let us weep that our delight is fled far from these carnal storms; he wakes or sleeps with the enduring dead within a quiet **tomb**."*

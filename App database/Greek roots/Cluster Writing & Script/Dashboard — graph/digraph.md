@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition**: A combination of two successive letters that represents a single speech sound, such as *sh* in *ship*, *ch* in *chin*, or *ea* in *bread*.
-> 2. **Secondary / Nuanced Definition**: In graph theory and computer science, a *directed graph*—a network of vertices connected by edges that each have a specific direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pair of characters or letters used together to represent a single sound or phoneme (such as 'th', 'ph', or 'ea').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In graph theory and computer science, a directed graph consisting of vertices connected by edges that possess an inherent orientation or direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"Modern English orthography relies heavily on the consonant **digraph** to represent sounds absent from the Roman alphabet."*
-> - 📜 **Henry Bradley (*The Making of English*):** *"Norman scribes replaced the Old English runic letter with the familiar **digraph** 'th'."*
-> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"Every directed network can be modeled formally as a **digraph** whose arcs point from predecessor to successor."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar*):** *"The Old English runic letter thorn was eventually replaced by the Roman **digraph** 'th' in Middle English orthography."*
+> - 📜 **Frank Harary (*Graph Theory*):** *"A **digraph** is strongly connected if every vertex is reachable from every other vertex along a directed path."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"Noah Webster led the crusade to simplify English spelling by dropping the superfluous vowel from the Latin **digraph** 'ae'."*

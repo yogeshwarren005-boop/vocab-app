@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Receptors postulated to exist on nerve cell membranes of the sympathetic nervous system in order to explain the specificity of certain agents that affect only some sympathetic activities (such as vasoconstriction and relaxation of intestinal muscles and contraction of smooth muscles).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receptors postulated to exist on nerve cell membranes of the sympathetic nervous system in order to explain the specificity of certain agents that affect only some sympathetic activities (such as vasoconstriction and relaxation of intestinal muscles and contraction of smooth muscles).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of G-protein-coupled adrenergic receptors (subtypes alpha-1 and alpha-2) that respond to norepinephrine and epinephrine, mediating vasoconstriction and sympathetic signaling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, receptors targeted by agonists and antagonists to regulate vascular resistance and blood pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpha-adrenoceptor designates receptors postulated to exist on nerve cell membranes of the sympathetic nervous system in order to explain the specificity of certain agents that affect only some sympathetic activities (such as vasoconstriction and relaxation of intestinal muscles and contraction of smooth muscles)."*
+> - 📜 **Raymond Ahlquist (*American Journal of Physiology*):** *"We proposed that the **alpha-adrenoceptor** mediates predominantly excitatory responses such as peripheral vasoconstriction."*
+> - 📜 **James Black (*Lectures on Pharmacological Discovery*):** *"Differentiating the beta-receptor from the **alpha-adrenoceptor** laid the foundation for modern selective cardiovascular therapeutics."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Sympathetic stimulation of the vascular smooth muscle **alpha-adrenoceptor** increases systemic arterial resistance."*

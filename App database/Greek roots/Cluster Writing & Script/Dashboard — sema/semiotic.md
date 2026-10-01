@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A general philosophical theory of signs and symbols that deals especially with their function in both artificially constructed and natural languages and comprises syntactics, semantics, and pragmatics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general philosophical theory of signs and symbols that deals especially with their function in both artificially constructed and natural languages and comprises syntactics, semantics, and pragmatics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to signs, symbols, and signification, or to the study of them (semiotics).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy, linguistics, and cultural theory, involving systems of communication, nonverbal signs, and cultural codes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiotic designates a general philosophical theory of signs and symbols that deals especially with their function in both artificially constructed and natural languages and comprises syntactics, semantics, and pragmatics."*
+> - 📜 **Charles Sanders Peirce (*Philosophical Writings*):** *"All thought is in signs; our entire mental life constitutes a continuous **semiotic** process of interpretation."*
+> - 📜 **Umberto Eco (*The Role of the Reader*):** *"Every cultural convention establishes a **semiotic** code that guides reader interpretation and artistic creation."*
+> - 📜 **Julia Kristeva (*Revolution in Poetic Language*):** *"Poetic discourse ruptures the symbolic order by releasing subterranean energies from the **semiotic** chora."*

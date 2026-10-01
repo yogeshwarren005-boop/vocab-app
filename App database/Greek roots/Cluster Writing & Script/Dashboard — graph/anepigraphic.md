@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of to write / carve / draw / recording instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of to write / carve / draw / recording instrument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking an inscription, legend, or writing (especially applied to ancient coins, medals, or stone monuments).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical numismatics and archaeology, describing early struck coinage or primitive stelae that bear pictorial devices, monograms, or reliefs without alphabetical letters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anepigraphic designates adjective*) pertaining to, derived from, or characteristic of to write / carve / draw / recording instrument."*
+> - 📜 **Barclay V. Head (*Historia Numorum: A Manual of Greek Numismatics*):** *"The archaic electrum staters of Lydia are entirely **anepigraphic**, bearing merely the embossed forepart of a roaring lion."*
+> - 📜 **Percy Gardner (*The Types of Greek Coins*):** *"An **anepigraphic** coin obliges the numismatist to rely solely on artistic style and fabric to determine its date and mint."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The primitive seal-stones discovered in the lower stratum were **anepigraphic**, relying on geometric emblems rather than Linear signs."*

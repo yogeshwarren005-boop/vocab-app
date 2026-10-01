@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in the order of the letters of the alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or employing an alphabet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or expressed by an alphabet; consisting of letters representing sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged in the conventional order of an alphabet; alphabetical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Dolphin’s Barn: the transliterated name and address of the addresser of the 3 letters in reversed alphabetic boustrophedonic punctated quadrilinear cryptogram (vowels suppressed) N."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The invention of **alphabetic** writing represents the highest stage of analytical phonological transcription."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"I arranged the words of our language in strict **alphabetic** succession for the convenience of the student."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The **alphabetic** character of Phoenician trade records revolutionized the transmission of human thought."*

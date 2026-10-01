@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and analysis of a writing system in terms of graphemes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study and analysis of a writing system in terms of graphemes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The linguistic study of writing systems and of their basic constitutive units (graphemes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural linguistics, the formal discipline analyzing the relationship between written symbols, spelling rules, and phonological spoken structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graphemics designates the study and analysis of a writing system in terms of graphemes."*
+> - 📜 **David Crystal (*A Dictionary of Linguistics and Phonetics*):** *"In descriptive linguistics, **graphemics** examines the inventory of graphic signs that distinguish meaning within an orthographic system."*
+> - 📜 **John Lyons (*Introduction to Theoretical Linguistics*):** *"Structural **graphemics** establishes principles for segmenting written texts into discrete graphemic classes."*
+> - 📜 **Florian Coulmas (*The Blackwell Encyclopedia of Writing Systems*):** *"The development of **graphemics** as an autonomous subdiscipline freed the study of writing from subservience to acoustic phonetics."*

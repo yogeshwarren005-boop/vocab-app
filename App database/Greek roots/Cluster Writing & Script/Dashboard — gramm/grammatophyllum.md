@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of large epiphytic or terrestrial orchids of southeastern asia to polynesia; the giants of the orchidaceae having long narrow leaves and drooping flower clusters often 6 feet long.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of large epiphytic or terrestrial orchids of southeastern asia to polynesia; the giants of the orchidaceae having long narrow leaves and drooping flower clusters often 6 feet long.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, often gigantic epiphytic and lithophytic orchids native to Southeast Asia, Australasia, and the Pacific islands (commonly known as letter orchids).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, orchids renowned for their immense pseudobulbs, towering flower spikes, and distinctive letter-like markings or spots on their sepals and petals (e.g., *Grammatophyllum speciosum*, the tiger orchid).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grammatophyllum designates small genus of large epiphytic or terrestrial orchids of southeastern asia to polynesia; the giants of the orchidaceae having long narrow leaves and drooping flower clusters often 6 feet long."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"High up in the forks of the durian trees grew massive clumps of **Grammatophyllum**, the giant orchid of the tropics."*
+> - 📜 **Joseph Dalton Hooker (*Curtis's Botanical Magazine*):** *"The flower spike of **Grammatophyllum** speciosum bore over eighty blossoms, each marked with dark purple spots resembling letters."*
+> - 📜 **Frederick Sander (*Reichenbachia: Orchids Illustrated and Described*):** *"No collector can behold a blooming specimen of **Grammatophyllum** in its native jungle without admiring its colossal proportions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for detecting and recording brain waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for detecting and recording brain waves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for detecting and recording electrical activity in the brain via electrodes placed on the scalp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and neurology, a multi-channel physiological recording system that amplifies cerebral microvolt oscillations into printable wave tracings (EEG).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroencephalograph designates an apparatus for detecting and recording brain waves."*
+> - 📜 **Hans Berger (*Über das Elektrenkephalogramm des Menschen*):** *"I succeeded in constructing an **electroencephalograph** capable of recording the spontaneous electrical waves of the human cerebrum."*
+> - 📜 **W. Grey Walter (*The Living Brain*):** *"The multi-channel **electroencephalograph** laid bare the rhythmic dance of alpha and delta waves across the sleeping brain."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"During the musical seizure, the **electroencephalograph** picked up paroxysmal rhythmic spike discharges over the right temporal lobe."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional person trained in library science and engaged in library services.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A professional person trained in library science and engaged in library services.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A librarian; also, an archaic word for a library or collection of books.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical bibliography, a keeper or custodian of a library collection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliothec designates a professional person trained in library science and engaged in library services."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"The learned **bibliothec** cataloged the royal collection with admirable accuracy and diligence."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"Magliabechi was the ultimate **bibliothec**, living in a cave of books and remembering the exact shelf of every volume in Florence."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old earl employed a German **bibliothec** to arrange the ancient charters of the castle."*

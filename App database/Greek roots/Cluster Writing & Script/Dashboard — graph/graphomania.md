@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek graph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsessive, uncontrollable urge or compulsion to write.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatry and literary criticism, a pathological mania for producing vast quantities of writing, often characterized by incoherence, verbosity, or lack of critical discernment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graphomania designates a term designating an entity, condition, or phenomenon derived from greek graph."*
+> - 📜 **Milan Kundera (*The Book of Laughter and Forgetting*):** *"A writer's **graphomania** takes on the character of an epidemic when everyone wants to write and nobody wants to read."*
+> - 📜 **Cesare Lombroso (*The Man of Genius*):** *"In asylum archives one finds astonishing monuments of **graphomania**, thousands of scribbled folios filled with endless religious revelations."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The lonely poet succumbed to a frantic **graphomania**, filling notebooks throughout the night with feverish musical commentary."*

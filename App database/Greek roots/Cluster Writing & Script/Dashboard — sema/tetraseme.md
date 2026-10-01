@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek and Latin prosody, a metrical unit, foot, or syllable having the value or duration of four morae (four short syllables or beats).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metric theory, a metrical measure equal to four units of musical time (such as a spondee or dactyl).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetraseme designates a term designating an entity, condition, or phenomenon derived from greek sema."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"A dactylic or spondaic foot constitutes a **tetraseme**, equal in total duration to four short syllables."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The rhythmic balance of classical strophes relies upon the steady cadence of the four-mora **tetraseme**."*
+> - 📜 **Richard Bentley (*Dissertations upon the Epistles of Phalaris*):** *"In anapestic marching verses, each regular foot is measured as a **tetraseme** timing the stride of soldiers."*

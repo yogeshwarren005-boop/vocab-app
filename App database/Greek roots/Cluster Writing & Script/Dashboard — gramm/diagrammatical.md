@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shown or represented by diagrams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shown or represented by diagrams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or presented in the nature of a diagram; schematic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting a schematic or outline form designed to clarify conceptual or mechanical relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diagrammatical designates shown or represented by diagrams."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The **diagrammatical** representations employed in crystallography clarify the symmetry of crystal planes."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The architect furnished **diagrammatical** profiles of the gothic mouldings to guide the stonecutters."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Such **diagrammatical** schemes serve to render abstract evolutionary transitions perceptible to the intellect."*

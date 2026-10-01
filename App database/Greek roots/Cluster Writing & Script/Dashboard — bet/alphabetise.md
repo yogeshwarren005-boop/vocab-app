@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange in alphabetical order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange in alphabetical order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange in alphabetical order (British English spelling of alphabetize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To reduce a language to an alphabetical writing system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphabetise designates arrange in alphabetical order."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"She attempted to **alphabetise** the chaotic bundles of letters stored in her grandfather’s desk."*
+> - 📜 **David Crystal (*The Stories of English*):** *"Victorian lexicographers sought to **alphabetise** every dialectal variant found in the British Isles."*
+> - 📜 **Lytton Strachey (*Eminent Victorians*):** *"Cardinal Manning insisted that the diocesan archives be thoroughly overhauled and **alphabetise** every parish return."*

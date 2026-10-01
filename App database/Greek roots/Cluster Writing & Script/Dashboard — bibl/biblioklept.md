@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bibl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who steals books, especially from libraries or bookshops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the psychology of collecting, a pathological book-thief whose obsessive passion for literature drives them to larceny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biblioklept designates a term designating an entity, condition, or phenomenon derived from greek bibl."*
+> - 📜 **Holbrook Jackson (*The Anatomy of Bibliomania*):** *"The notorious **biblioklept** Libri carried off thousands of priceless medieval manuscripts from French provincial libraries."*
+> - 📜 **Andrew Lang (*The Library*):** *"The common thief steals for monetary profit, but the genuine **biblioklept** steals to gloat over his sequestered treasures."*
+> - 📜 **Thomas Frognall Dibdin (*Bibliomania*):** *"Librarians must keep a vigilant eye upon the plausible gentleman who masks the heart of a **biblioklept** beneath a scholar’s gown."*

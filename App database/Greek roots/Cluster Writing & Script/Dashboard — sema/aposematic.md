@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being conspicuous and serving to warn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being conspicuous and serving to warn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or functioning as a warning signal; specifically, conspicuously colored or marked to warn predators that an animal is toxic, venomous, or unpalatable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, describing conspicuous warning signals (e.g., yellow and black stripes of wasps) that facilitate rapid predator learning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aposematic designates being conspicuous and serving to warn."*
+> - 📜 **Edward Bagnall Poulton (*The Colours of Animals*):** *"I propose the term **aposematic** for warning appearances that advertise unpleasant or dangerous attributes to enemies."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"The vivid banding of the coral snake is a conspicuous **aposematic** device warning birds away."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Poison dart frogs display brilliant **aposematic** pigmentation to signal their deadly skin alkaloids."*

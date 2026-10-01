@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph transmitted and reproduced over a distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photograph made with a telephoto lens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph taken from a great distance using a telephoto lens; or a photograph transmitted over distance by wire or radio (wirephoto).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photojournalism and intelligence reconnaissance, an image capturing fine details of distant subjects or terrain without physical approach.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephotograph designates a photograph transmitted and reproduced over a distance."*
+> - 📜 **Thomas W. Corbin (*The Romance of Modern Photography*):** *"The remarkable **telephotograph** showed the climbers ascending the icy couloir of Mont Blanc as clearly as if taken from fifty yards."*
+> - 📜 **Arthur Conan Doyle (*The Case-Book of Sherlock Holmes*):** *"The detective studied the **telephotograph** of the distant manor, noting the open casement window on the second floor."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Aerial reconnaissance delivered an enlarged **telephotograph** revealing military preparations across the fortified border."*

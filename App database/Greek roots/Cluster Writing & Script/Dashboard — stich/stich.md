@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stich.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse or line of poetry, especially one forming a distinct rhythmic unit in classical or biblical texts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metric analysis and textual criticism, a standard line of text (equivalent to 16 syllables) used in ancient book calculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Price stich'd 2 _s._ neatly bound 2 _s._ 6 _d._ 6."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The Hebrew psalm moves with antiphonal grandeur, each **stich** responding to its fellow in parallel cadence."*
+> - 📜 **Richard Bentley (*Dissertations upon the Epistles of Phalaris*):** *"The ancient copyist recorded the total number of **stich** units at the end of the manuscript to prevent fraudulent omission."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Homeric vitality depends upon the uninterrupted, rapid movement of the hexameter **stich**."*

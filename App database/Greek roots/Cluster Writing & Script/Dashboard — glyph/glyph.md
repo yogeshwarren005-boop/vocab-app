@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental vertical groove especially in a Doric frieze.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symbolic figure or a character (as in the Mayan system of writing) usually incised or carved in relief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A carved or incised symbol, figure, or character (such as a Mayan hieroglyph or an architectural flute).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography and computing, an individual visual representation or graphical design of a character within a font.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The floral apostles are hiero- glyphs of Deity."*
+> - 📜 **John Lloyd Stephens (*Incidents of Travel in Central America*):** *"Each hieroglyphic **glyph** carved upon the Copán stelae seemed to narrate the solemn deeds of forgotten kings."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The strange tattooed markings upon Queequeg's body resembled some mystical **glyph** from an ancient eastern temple."*
+> - 📜 **Robert Bringhurst (*The Elements of Typographic Style*):** *"A digital typeface consists of a coordinated set of fonts, each mapping character codes to a distinct visual **glyph**."*

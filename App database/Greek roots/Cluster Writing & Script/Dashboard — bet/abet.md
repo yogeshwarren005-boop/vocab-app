@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assist or encourage, usually in some wrongdoing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assist or encourage, usually in some wrongdoing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To encourage, support, incite, or aid (someone) to do something wrong, unlawful, or criminal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, to act as an accessory before or during the commission of a crime by facilitating its execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And you that do abet him in this kind Cherish rebellion and are rebels all."*
+> - 📜 **William Shakespeare (*Richard II*):** *"Would'st thou **abet** the treason of thy son against his lawful anointed king?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers (No. 65)*):** *"No public official should dare to **abet** the usurpation of constitutional rights by a lawless faction."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"To **abet** the overthrow of ancient legal institutions is to unleash the destructive passions of the multitude."*

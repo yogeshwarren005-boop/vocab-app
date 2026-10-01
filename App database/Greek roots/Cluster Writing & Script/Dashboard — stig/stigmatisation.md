@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of stigmatizing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of stigmatizing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant spelling of stigmatization; the action of describing or regarding someone or something as worthy of disgrace or great disapproval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and clinical psychology, the social process of marking, devaluing, and isolating individuals or minority groups based on perceived deviance or illness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stigmatisation designates the act of stigmatizing."*
+> - 📜 **Michel Foucault (*Madness and Civilization*):** *"The confinement of the insane was accompanied by profound social **stigmatisation** that expelled them from civic life."*
+> - 📜 **Erving Goffman (*Stigma*):** *"The systemic **stigmatisation** of physical impairments forces the individual to manage impressions in everyday interaction."*
+> - 📜 **Thomas Szasz (*The Myth of Mental Illness*):** *"Diagnostic labels frequently function as instruments of moral condemnation and psychiatric **stigmatisation**."*

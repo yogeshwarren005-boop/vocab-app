@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek alph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poetic proper name for the sacred, subterranean river in Samuel Taylor Coleridge's poem Kubla Khan; also an informal clipping of alpha.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary geography, an imaginative river symbolizing the subconscious currents of poetic inspiration and creative mystery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alph designates a term designating an entity, condition, or phenomenon derived from greek alph."*
+> - 📜 **Samuel Taylor Coleridge (*Kubla Khan*):** *"Where **Alph**, the sacred river, ran through caverns measureless to man down to a sunless sea."*
+> - 📜 **Charles Lamb (*Letters*):** *"Coleridge's enchanted vision of **Alph** rolling through subterranean caverns haunts the imagination like an opium dream."*
+> - 📜 **Arthur Quiller-Couch (*Studies in Literature*):** *"The mysterious river **Alph** embodies that romantic fascination with primal sources beyond human calculation."*

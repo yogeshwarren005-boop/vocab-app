@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In alphabetical order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In alphabetical order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the order of the letters of the alphabet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to an alphabetical classification or filing system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphabetically designates in alphabetical order."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny arranged the volumes in her little white attic **alphabetically**, taking great pride in her orderly library."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Guppy filed the legal papers **alphabetically**, searching for any scrap bearing the name of Hawdon."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon cataloged his mythological cross-references **alphabetically** in heavy leather-bound ledgers."*

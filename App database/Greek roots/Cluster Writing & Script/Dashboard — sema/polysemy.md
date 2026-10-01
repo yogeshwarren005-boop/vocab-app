@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having multiple meanings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having multiple meanings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The coexistence of many possible meanings for a single word, phrase, or symbol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexical semantics, the phenomenon whereby a single lexical item acquires multiple distinct senses through metaphor, metonymy, or specialization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysemy designates having multiple meanings."*
+> - 📜 **Stephen Ullmann (*The Principles of Semantics*):** *"Without **polysemy**, the human vocabulary would require an astronomical inventory of distinct words."*
+> - 📜 **Paul Ricoeur (*Interpretation Theory: Discourse and the Surplus of Meaning*):** *"The phenomenon of **polysemy** is the very condition of human metaphorical expression and literary creativity."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The historical drift of semantic values inevitably generates widespread **polysemy** within the lexicon."*

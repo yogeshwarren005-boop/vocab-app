@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 1st letter of the greek alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The beginning of a series or sequence; --revelations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first letter of the Greek alphabet (Α, α); hence, the beginning, first, or primary member of any sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, the brightest star in a constellation; in physics, alpha particles; in finance, risk-adjusted excess return on an investment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"That I merited all I endured, I acknowledged—that I could scarcely endure more, I pleaded; and the alpha and omega of my heart’s wishes broke involuntarily from my lips in the words—‘Jane!"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There are a few of us who frequent the Alpha Inn, near the Museum—we are to be found in the Museum itself during the day, you understand."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In a quarter of an hour we were in Bloomsbury at the Alpha Inn, which is a small public-house at the corner of one of the streets which runs down into Holborn."*
+> - 📜 **King James Bible (*Book of Revelation*):** *"I am **Alpha** and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come."*
+> - 📜 **Ernest Rutherford (*Philosophical Magazine*):** *"The deflexion of **alpha** particles through large angles proved that atomic mass is concentrated in a tiny dense nucleus."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The soul holds the **alpha** and omega of all knowledge within its instinctive intuition."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who bets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who bets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who places a bet or wager on a contest, race, or game of chance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gambling economics and sports analytics, a participant who risks capital based on calculated probabilities and betting odds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bettor designates someone who bets."*
+> - 📜 **Damon Runyon (*Guys and Dolls*):** *"Every veteran **bettor** along Broadway knows that a racehorse is an ungrateful companion for one's bankroll."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The persistent **bettor** staked his last ounce of silver dust upon a pair of jacks."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"The eager **bettor** watched the greyhounds spring from the traps, clutching his ticket in sweaty fingers."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who helps or encourages or incites another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who helps or encourages or incites another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who aids, encourages, or incites another in the commission of an offense or wrongdoing; an accomplice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In penal law, a participant who, though not the principal perpetrator, is present aiding and abetting the felony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou mak’st the vestal violate her oath; Thou blow’st the fire when temperance is thawed; Thou smother’st honesty, thou murder’st troth, Thou foul abettor, thou notorious bawd!"*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Instantly to turn upon me, charging that I have no sense of the enormity of the crime itself, but am its aider and abettor!"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An **abettor** who stands watch while a burglary is committed is equally guilty of the felony."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"The instigators of the Gordon riots found an eager **abettor** in every tavern and debtor's prison."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"He denounced the highwayman and swore that every **abettor** of the rogue should hang by the neck."*

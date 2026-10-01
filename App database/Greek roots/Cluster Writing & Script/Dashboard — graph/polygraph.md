@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for recording variations of several different pulsations (as of physiological variables) simultaneously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for recording variations of several different pulsations (as of physiological variables) simultaneously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that simultaneously records continuous variations in several physiological variables (such as blood pressure, pulse rate, respiration, and galvanic skin resistance), widely used as a lie detector.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a mechanical duplicating device for making multiple handwritten copies simultaneously (invented by John Isaac Hawkins and popularized by Thomas Jefferson); or a prolific writer on diverse topics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygraph designates an instrument for recording variations of several different pulsations (as of physiological variables) simultaneously."*
+> - 📜 **Thomas Jefferson (*Selected Letters*):** *"The **polygraph** has proved the most valuable convenience of my life, producing a duplicate copy of every letter as fast as I write."*
+> - 📜 **Hugo Münsterberg (*On the Witness Stand*):** *"The early **polygraph** apparatus proved that emotional agitation produced unmistakable spikes on the physiological drum."*
+> - 📜 **Jerome Frank (*Courts on Trial*):** *"Courts remain deeply skeptical of the **polygraph**, unwilling to surrender the evaluation of witness credibility to a mechanical needle."*

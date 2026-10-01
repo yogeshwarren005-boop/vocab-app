@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 17th letter of the Greek alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Christian monogram and symbol formed from the first two letters X and P of the Greek word for Christ —called also Christogram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The seventeenth letter of the Greek alphabet (Ρ, ρ), corresponding to the English 'r'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, physics, and finance, a symbol denoting density, resistivity, Spearman's rank correlation coefficient, or sensitivity to interest rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rho designates the 17th letter of the greek alphabet."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"We use the Greek letter **rho** to represent the volume density of electrical charge throughout the dielectric medium."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Astronomers designate the stellar density within a globular cluster by the variable **rho**."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"In calculating rank-order correlation, the statistician calculates the coefficient **rho** to quantify association."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word having more than one meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word having more than one meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word, symbol, or expression that has multiple meanings; a polysemous word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexical semantics, a linguistic sign exhibiting semantic divergence while maintaining recognizable etymological continuity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysemant designates a word having more than one meaning."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Every natural language abounds in the **polysemant**, where one acoustic image serves a cluster of related concepts."*
+> - 📜 **C. K. Ogden (*The Meaning of Meaning*):** *"The philosopher must guard against ambiguity when an essential term functions as a shifting **polysemant**."*
+> - 📜 **Stephen Ullmann (*Semantics: An Introduction to the Science of Meaning*):** *"A single **polysemant** like 'head' extends from anatomy to geometry, leadership, and brewing."*

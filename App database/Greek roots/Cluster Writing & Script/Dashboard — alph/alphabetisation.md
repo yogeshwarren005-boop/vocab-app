@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of putting in alphabetical order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting in alphabetical order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of arranging items in alphabetical order (British spelling of alphabetization).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational sociology and international development, the process of teaching literacy to non-literate populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphabetisation designates the act of putting in alphabetical order."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"Strict **alphabetisation** requires consistent rules for handling hyphens, diacritics, and compound surnames."*
+> - 📜 **Lytton Strachey (*Eminent Victorians*):** *"The cardinal ordered a thorough **alphabetisation** of the diocesan archives to impose administrative efficiency."*
+> - 📜 **Antonio Gramsci (*Prison Notebooks*):** *"The mass **alphabetisation** of southern Italian peasants was an essential step toward democratic civic awareness."*

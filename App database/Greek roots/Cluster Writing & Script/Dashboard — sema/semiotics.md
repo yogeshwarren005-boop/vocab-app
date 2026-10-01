@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) a philosophical theory of the functions of signs and symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) a philosophical theory of the functions of signs and symbols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of signs, symbols, and signification, and of how they are used to communicate meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, the broad interdisciplinary field developed from the independent foundations of C. S. Peirce and Ferdinand de Saussure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiotics designates (philosophy) a philosophical theory of the functions of signs and symbols."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"A science that studies the life of signs within society is conceivable; I shall call it **semiotics**."*
+> - 📜 **Umberto Eco (*A Theory of Semiotics*):** *"The task of general **semiotics** is to explore the theoretical conditions under which signification and communication take place."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"My life has been dedicated to the pursuit of **semiotics**, the doctrine of the essential nature and varieties of possible semiosis."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stich.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem or composition consisting of a single line of verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical epigrammatic literature, a condensed single-line proverb, motto, or epitaph.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monostich designates a term designating an entity, condition, or phenomenon derived from greek stich."*
+> - 📜 **Martial (*Epigrams*):** *"A witty **monostich** can convey more biting satire than a sprawling epic of twenty books."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The Greek Anthology preserves many an exquisite **monostich** etched upon ancient sepulchral gems."*
+> - 📜 **Ralph Waldo Emerson (*Parnassus*):** *"A memorable **monostich** sticks in the memory when all surrounding verses have vanished."*

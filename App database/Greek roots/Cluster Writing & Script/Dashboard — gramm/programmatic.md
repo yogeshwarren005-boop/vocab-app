@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to program music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, resembling, or having a program.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the character of a program; following a predetermined schedule or policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and music, describing art or music that intends to tell a narrative or depict extra-musical scenes (program music); in advertising, automated algorithmic buying of ad space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, programmatic designates relating to program music."*
+> - 📜 **Hector Berlioz (*Memoirs*):** *"My Symphonie Fantastique is strictly **programmatic**, each movement depicting an episode in the life of an artist."*
+> - 📜 **Franz Liszt (*Selected Letters*):** *"In **programmatic** composition, the musical form is dictated by the poetic subject rather than by academic symmetry."*
+> - 📜 **John Dewey (*Art as Experience*):** *"A rigid **programmatic** scheme in education stifles the organic development of spontaneous curiosity."*

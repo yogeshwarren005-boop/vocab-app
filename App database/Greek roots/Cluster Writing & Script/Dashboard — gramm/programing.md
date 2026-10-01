@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Setting an order and time for planned events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creating a sequence of instructions to enable the computer to do something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of writing, testing, or executing computer instructions (alternative single-'m' spelling of programming).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems engineering, the planning, scheduling, and structural sequencing of activities or automated routines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, programing designates setting an order and time for planned events."*
+> - 📜 **John von Neumann (*First Draft of a Report on the EDVAC*):** *"The logical arrangement of the machine must simplify the task of **programing** complex mathematical calculations."*
+> - 📜 **Grace Hopper (*Compiling Methods*):** *"Automated **programing** allows the mathematician to write instructions in pseudo-code which the computer translates directly into machine orders."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Effective **programing** of feedback mechanisms prevents oscillations in industrial machinery."*

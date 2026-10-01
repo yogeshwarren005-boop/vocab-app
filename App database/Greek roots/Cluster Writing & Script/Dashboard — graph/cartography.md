@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or art of making maps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science or art of making maps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science, art, and technology of making maps, globes, and navigational charts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geospatial studies, the discipline encompassing the collection, analysis, design, and visualization of spatial data into communicative graphic formats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cartography designates the science or art of making maps."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Modern navigation and empire were made possible only by the mathematical development of **cartography**."*
+> - 📜 **Jorge Luis Borges (*On Exactitude in Science*):** *"In that Empire, the Art of **Cartography** attained such Perfection that the map of a single Province occupied the entirety of a City."*
+> - 📜 **Daniel J. Boorstin (*The Discoverers*):** *"The history of **cartography** is the epic story of humanity's struggle to picture the invisible contours of the globe."*

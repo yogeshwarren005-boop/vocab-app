@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having multiple meanings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having multiple meanings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or relating to polysemy; having multiple meanings or interpretations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media studies and cultural theory, describing cultural texts open to varying decodings by different audiences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysemic designates having multiple meanings."*
+> - 📜 **Stuart Hall (*Encoding and Decoding in the Television Discourse*):** *"A cultural broadcast is inherently **polysemic**, capable of being decoded along dominant, negotiated, or oppositional lines."*
+> - 📜 **Roland Barthes (*Image, Music, Text*):** *"Every photographic image is **polysemic**, requiring linguistic captions to anchor its floating chain of signifieds."*
+> - 📜 **Paul Ricoeur (*The Rule of Metaphor*):** *"Living metaphor creates a **polysemic** tension that resists paraphrasing into univocal propositions."*

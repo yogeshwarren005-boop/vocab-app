@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a grammatical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a grammatical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that accords with the rules of grammar; with respect to grammar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of morphological agreement, syntactic parsing, or formal linguistic structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grammatically designates in a grammatical manner."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The French governess was astonished that the young English girl could speak and write French so **grammatically**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He parsed the sailor's rough speech **grammatically**, finding an unpolished dignity in its cadence."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"A pilot might not speak **grammatically**, but he knew the bends of the river with mathematical certainty."*

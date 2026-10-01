@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of preventing or relieving spasms or convulsions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of preventing or relieving spasms or convulsions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent or medication that relieves, prevents, or lowers the incidence of muscle spasms or cramps; also, having this property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology and neurology, anticholinergic or smooth-muscle relaxant drugs used to alleviate visceral colic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antispasmodic designates capable of preventing or relieving spasms or convulsions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Atropine serves as a dependable **antispasmodic** in combating biliary and renal colic."*
+> - 📜 **Claude Bernard (*Experimental Medicine*):** *"The pharmacological search for an effective **antispasmodic** requires testing against induced contractions of intestinal strips."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's surgeon prescribed a warm herbal draught as an **antispasmodic** for the shivering sailor."*

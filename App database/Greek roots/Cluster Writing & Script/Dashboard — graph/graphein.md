@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek graph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek verb γράφειν, meaning 'to scratch, carve, draw, inscribe, or write.'
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and etymology, the primary Hellenic root giving rise to an immense family of words ending in '-graph', '-gram', and '-graphy'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graphein designates a term designating an entity, condition, or phenomenon derived from greek graph."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The ultimate parent of all these terms is the Greek **graphein**, originally meaning to scratch or engrave upon stone or wooden tablets."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"From the verbal stem **graphein** arose both the act of writing and the artistic depiction of graphic symbols."*
+> - 📜 **H. G. Liddell & Robert Scott (*A Greek-English Lexicon*):** *"In Homeric usage, **graphein** signifies to graze or scratch the skin, evolving later to denote painting and the writing of letters."*

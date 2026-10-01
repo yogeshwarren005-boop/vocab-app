@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spastic state or condition; especially : muscular hypertonicity with increased tendon reflexes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spastic state or condition; especially : muscular hypertonicity with increased tendon reflexes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of increased tone of a muscle (and exaggerated deep tendon reflexes) associated with an upper motor neuron lesion; muscular stiffness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical therapy and neurology, velocity-dependent resistance to passive muscle stretch resulting from loss of descending spinal inhibition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spasticity designates a spastic state or condition; especially : muscular hypertonicity with increased tendon reflexes."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The release of lower motor neurons from cortical control results in the chronic **spasticity** of the extensor muscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **spasticity** in stroke patients hampers rehabilitative retraining of upper limb function."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Intrathecal baclofen reduces debilitating muscular **spasticity** by mimicking GABA-mediated inhibition in the spinal cord."*

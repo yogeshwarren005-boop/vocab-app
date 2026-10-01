@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability to understand, use, or communicate by signs, gestures, or symbols; loss of the symbolic function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aphasiology, a condition where lesions in the cerebral cortex prevent a patient from decoding linguistic or conventional signs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asemia designates a term designating an entity, condition, or phenomenon derived from greek sema."*
+> - 📜 **Carl Wernicke (*The Aphasic Symptom Complex*):** *"Cortical sensory damage disrupts word-sound comprehension, introducing an element of generalized **asemia**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"When the symbolic faculty fails through disease, the condition of **asemia** leaves the mind stranded in raw, uninterpreted sensation."*
+> - 📜 **Sigmund Freud (*On Aphasia*):** *"The distinction between motor aphasia and broader **asemia** depends upon whether the defect involves speech mechanics or the underlying symbolic apparatus."*

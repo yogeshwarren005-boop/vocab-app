@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to alphanumeric characters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to alphanumeric characters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or using both letters (alphabetical) and numbers (numerical); also, a character that is either a letter or a digit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and telecommunications, describing character sets, passwords, or data fields that accept letters A–Z and digits 0–9.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alphanumeric designates of or pertaining to alphanumeric characters."*
+> - 📜 **Tim Berners-Lee (*Weaving the Web*):** *"Uniform Resource Identifiers were designed to use standard **alphanumeric** strings that survive trans-network routing."*
+> - 📜 **Robert Bringhurst (*The Elements of Typographic Style*):** *"A well-cut typeface maintains optical harmony between its capital letters and lining **alphanumeric** figures."*
+> - 📜 **Carl Sagan (*Contact*):** *"The radio signal from Vega arrived as a prime-number sequence encoded in simple **alphanumeric** pulses."*

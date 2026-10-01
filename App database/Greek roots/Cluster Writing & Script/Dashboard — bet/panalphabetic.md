@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of B, b.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of B, b.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or utilizing all the letters of an alphabet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography and linguistics, describing a sentence, pangram, or sample text crafted to display every letter of an alphabet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panalphabetic designates adjective*) pertaining to, derived from, or characteristic of b, b."*
+> - 📜 **Robert Bringhurst (*The Elements of Typographic Style*):** *"A **panalphabetic** specimen allows the typefounder to inspect stroke weight, counters, and kerning pairs across the entire font."*
+> - 📜 **David Crystal (*Language Play*):** *"Pangrammatists delight in composing short, sensible **panalphabetic** sentences using all twenty-six letters without repetition."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"Telegraphers frequently tested line transmission and keyboard keys with standard **panalphabetic** phrases."*

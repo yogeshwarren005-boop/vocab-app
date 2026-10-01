@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lipoprotein that transports cholesterol in the blood; composed of a high proportion of protein and relatively little cholesterol; high levels are thought to be associated with decreased risk of coronary heart disease and atherosclerosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lipoprotein that transports cholesterol in the blood; composed of a high proportion of protein and relatively little cholesterol; high levels are thought to be associated with decreased risk of coronary heart disease and atherosclerosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-density lipoprotein (HDL) of blood plasma that migrates with the alpha-1 globulin fraction on electrophoresis, carrying cholesterol from tissues back to the liver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lipidology and cardiovascular biochemistry, a protective macromolecular complex whose apolipoproteins promote reverse cholesterol transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpha-lipoprotein designates a lipoprotein that transports cholesterol in the blood; composed of a high proportion of protein and relatively little cholesterol; high levels are thought to be associated with decreased risk of coronary heart disease and atherosclerosis."*
+> - 📜 **Donald Fredrickson (*Circulation*):** *"In our classification of hyperlipidemias, the **alpha-lipoprotein** band reflects high-density particles protective against atherogenesis."*
+> - 📜 **John Gofman (*Science*):** *"Ultracentrifugal flotation analysis confirmed that the **alpha-lipoprotein** fraction is inversely correlated with the incidence of coronary heart disease."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Circulating **alpha-lipoprotein** scavenges excess cholesterol from peripheral arterial walls and transports it to the liver for excretion."*

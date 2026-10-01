@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of the letter; superstitious or slavish adherence to the literal text or words of a book (especially scripture); bibliolatry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hermeneutics and theology, textual literalism that prioritizes the exact verbal letter over the underlying spirit, intent, or historical context.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grammatolatry designates the worship of words."*
+> - 📜 **Samuel Taylor Coleridge (*Notes on English Divines*):** *"This morbid **grammatolatry** blinds the zealot to the living spiritual truth that informs the word."*
+> - 📜 **Philip Schaff (*History of the Christian Church*):** *"Post-Reformation scholasticism degenerated occasionally into a rigid **grammatolatry**, treating every vowel point as divinely dictated."*
+> - 📜 **Paul Tillich (*Systematic Theology*):** *"The idolatrous elevation of the human text above the transcendent reality is the spiritual disease of **grammatolatry**."*

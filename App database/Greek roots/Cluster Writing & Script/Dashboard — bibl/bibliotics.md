@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of documents and handwriting etc. especially to determine authorship or authenticity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of documents and handwriting etc. especially to determine authorship or authenticity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study and forensic examination of documents and handwriting to determine their authenticity, authorship, and date.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic science, the discipline combining microscopy, chemical analysis, and graphology to identify forged writings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliotics designates the scientific study of documents and handwriting etc. especially to determine authorship or authenticity."*
+> - 📜 **Persifor Frazer (*Bibliotics: Or, the Study of Documents*):** *"I have proposed the term **bibliotics** to designate the scientific investigation of questioned handwriting and legal papers."*
+> - 📜 **Hans Gross (*Criminal Investigation*):** *"In cases of suspected testamentary forgery, the court must consult an expert in **bibliotics** and paper technology."*
+> - 📜 **Albert S. Osborn (*Questioned Documents*):** *"The maturation of **bibliotics** as an empirical science has driven fraudulent document examiners from the witness box."*

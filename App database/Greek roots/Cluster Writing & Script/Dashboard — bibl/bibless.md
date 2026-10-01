@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a bib.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a bib.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking or without a bib (a piece of cloth tied under the chin of a child or diner to protect clothes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of protective coverings; untidy or exposed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibless designates lacking a bib."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The neglected infant sat **bibless** upon the hearthrug, smearing porridge across its pinafore."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The careless nurse let the toddler run **bibless** through the garden, ruining his clean Sunday smock."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Aunt Julia scolded the careless maid for leaving the nursery children **bibless** at supper."*

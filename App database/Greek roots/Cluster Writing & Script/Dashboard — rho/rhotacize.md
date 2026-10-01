@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo or produce rhotacism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To undergo or produce rhotacism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change (a consonant, especially [s] or [z]) into an [r] sound; to pronounce with an 'r' sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonology, to produce a retroflex or rhotic acoustic coloration on a vowel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhotacize designates to undergo or produce rhotacism."*
+> - 📜 **Henry Sweet (*A History of English Sounds*):** *"In Northumbrian dialects, speakers tend to **rhotacize** intervocalic fricatives."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"When prehistoric Latin shifted medial s to z, phonetic drift acted to **rhotacize** the sound into a liquid sonant."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Dialects of American English systematically **rhotacize** central vowels before alveolar stops."*

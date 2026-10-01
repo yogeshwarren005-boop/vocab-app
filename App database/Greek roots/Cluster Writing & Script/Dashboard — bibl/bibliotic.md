@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to bibliotics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to bibliotics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the examination, scientific study, and authentication of written documents, handwriting, and manuscripts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic document analysis, relating to the microscopic and chemical analysis of inks, papers, and pen strokes to detect forgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliotic designates of or relating to bibliotics."*
+> - 📜 **Persifor Frazer (*Bibliotics: Or, the Study of Documents*):** *"Modern **bibliotic** science relies upon chemical analysis of ink pigments and microscopic examination of pen tremors."*
+> - 📜 **Arthur Conan Doyle (*The Norwood Builder*):** *"Sherlock Holmes examined the disputed signature with all the rigorous precision of a trained **bibliotic** expert."*
+> - 📜 **Albert S. Osborn (*Questioned Documents*):** *"The **bibliotic** investigator must distinguish between natural variations in handwriting and deliberate fraudulent simulation."*

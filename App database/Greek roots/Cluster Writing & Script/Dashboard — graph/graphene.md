@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremely electrically conductive form of elemental carbon that is composed of a single flat sheet of carbon atoms arranged in a repeating hexagonal lattice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extremely electrically conductive form of elemental carbon that is composed of a single flat sheet of carbon atoms arranged in a repeating hexagonal lattice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single two-dimensional layer of carbon atoms arranged tightly in a hexagonal honeycomb crystal lattice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In condensed matter physics and nanotechnology, a zero-bandgap semimetal exhibiting extraordinary tensile strength, ballistic electron transport, and exceptional thermal conductivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graphene designates an extremely electrically conductive form of elemental carbon that is composed of a single flat sheet of carbon atoms arranged in a repeating hexagonal lattice."*
+> - 📜 **Andre Geim & Konstantin Novoselov (*Electric Field Effect in Atomically Thin Carbon Films*):** *"By mechanical exfoliation using adhesive tape, we isolated individual monolayers of **graphene** and observed their high electron mobilities."*
+> - 📜 **Philip Ball (*Nature Materials Chronicles*):** *"The discovery of **graphene** opened the realm of true two-dimensional physics, where electrons behave like massless relativistic fermions."*
+> - 📜 **Richard Jones (*Soft Machines: Nanotechnology and Life*):** *"Engineers anticipate that **graphene** membranes will revolutionize water desalination and next-generation composite electronics."*

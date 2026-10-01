@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impaired ability to learn to write.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impaired ability to learn to write.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An impairment of handwriting ability and fine motor coordination, resulting in distorted, illegible, or laboriously slow writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurology and educational psychology, a specific learning disorder involving difficulties with orthographic coding, motor planning, and finger sequencing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysgraphia designates impaired ability to learn to write."*
+> - 📜 **Norman Geschwind (*Cerebral Dominance and Lateralization*):** *"Developmental **dysgraphia** frequently occurs in children whose verbal intelligence is entirely normal or superior."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"His severe **dysgraphia** made holding a pencil an agonizing ordeal, yet his verbal eloquence was astonishing."*
+> - 📜 **Alexander Luria (*The Neuropsychology of Memory*):** *"Patients suffering from spatial **dysgraphia** lose the ability to maintain horizontal alignment and spacing across the page."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sign.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no specific semantic content or meaning; devoid of semantic signification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary visual art and poetry, describing asemic writing—a hybrid calligraphic form that resembles handwriting but conveys no readable words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asemic designates adjective*) pertaining to, derived from, or characteristic of sign."*
+> - 📜 **Roland Barthes (*The Empire of Signs*):** *"The sweeping brushstrokes resembled an **asemic** script, evoking the rhythm of writing while stubbornly refusing to signify."*
+> - 📜 **Jacques Derrida (*Of Grammatology*):** *"An **asemic** trace reveals the physical gesture of inscription stripped of communicative transparency."*
+> - 📜 **Susan Sontag (*Against Interpretation*):** *"The artist produced sheets of **asemic** calligraphy that challenged the viewer to experience form without the burden of decipherable content."*

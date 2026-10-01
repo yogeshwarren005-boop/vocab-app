@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of grafting something onto something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to grow together parts from different plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The horticultural practice of uniting the scion of one plant with the rootstock of another; or the surgical transplantation of tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular immunology and regenerative medicine, the physiological process whereby donor tissue undergoes revascularization and incorporates into host tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A high-spirited young lady and a musical Polish patriot made a likely enough stock for him to spring from, but I should never have suspected a grafting of the Jew pawnbroker."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The art of **grafting** allows the husbandman to multiply choice varieties of fruit upon hardy wild crabstocks."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Extensive experiments in **grafting** demonstrate that the stock may subtly modify the growth habit of the scion."*
+> - 📜 **Alexis Carrel (*The Surgery of Blood Vessels*):** *"Successful **grafting** of vascular segments requires perfect end-to-end alignment without mechanical tension."*

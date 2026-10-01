@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of meanings:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical and psychological study and the classification of changes in the signification of words or forms viewed as factors in linguistic development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of linguistics and logic concerned with the meaning of words, phrases, signs, and symbols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and computer science, the rules determining the truth value of propositions or the computational interpretation of programming statements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semantics designates the study of meanings:."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Logic, in its general sense, is only another name for **semantics**, the formal science of signs and their interpretants."*
+> - 📜 **Bertrand Russell (*Logic and Knowledge*):** *"Questions concerning reference and truth belong to the domain of philosophical **semantics**."*
+> - 📜 **Donald Davidson (*Inquiries into Truth and Interpretation*):** *"A theory of **semantics** for natural language can be constructed upon a Tarskian definition of truth."*

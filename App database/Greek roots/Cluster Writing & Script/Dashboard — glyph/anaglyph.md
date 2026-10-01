@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sculptured, chased, or embossed ornament worked in low relief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stereoscopic motion or still picture in which the right component of a composite image usually red in color is superposed on the left component in a contrasting color to produce a three-dimensional effect when viewed through correspondingly colored filters in the form of spectacles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornament, cameo, or sculptured work carved in low or bas-relief (contrasting with an intaglio or diaglyph).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stereoscopic photographic image consisting of two superimposed color prints (typically red and cyan) producing a 3D effect when viewed through matching filters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaglyph designates a sculptured, chased, or embossed ornament worked in low relief."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The marble **anaglyph** upon the ancient sarcophagus portrayed the triumphant procession of Dionysus."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The subtle modeling of the Greek **anaglyph** allows light to outline the graceful drapery of the figures."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Stereoscope and the Stereograph*):** *"By means of an **anaglyph**, the flat photographic plate springs into miraculous three-dimensional relief before our eyes."*

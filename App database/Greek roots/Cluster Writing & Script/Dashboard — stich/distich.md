@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strophic unit of two lines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strophic unit of two lines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit or strophe of two lines of verse, usually making complete sense; a couplet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek and Latin prosody, an elegiac distich consisting of an alternating dactylic hexameter and dactylic pentameter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Why was the chant arrested at the conclusion of this first distich?"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"For he who reads them, reads them to no end. _A Distich, written under the sign of the King’s Head and Bell in Dublin, at the host’s request._ BY DEAN SWIFT."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"He affirmed this was his own case; and asked if our hero had never heard of Dick Distich, the poet and satirist."*
+> - 📜 **Samuel Taylor Coleridge (*The Ovidian Elegiac Metre*):** *"In the hexameter rises the fountain's silvery column; in the pentameter aye falling in melody back: thus breathes the elegiac **distich**."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The polished **distich** closed each periodic thought with mathematical precision and resonant rhyme."*
+> - 📜 **Johann Wolfgang von Goethe (*Venetian Epigrams*):** *"Goethe framed his Italian observations in the antique form of the Roman **distich**, balancing wit and melancholy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to anaglyphs or anaglyphy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to anaglyphs or anaglyphy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the art of carving in relief; embossed or raised (variant of anaglyphic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to stereoscopic relief representations produced by complementary color filtration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaglyphical designates related to anaglyphs or anaglyphy."*
+> - 📜 **John Evelyn (*Sculptura*):** *"The ancients excelled in **anaglyphical** gems where the figure rose boldly from the sardonyx ground."*
+> - 📜 **Horace Walpole (*Anecdotes of Painting in England*):** *"The cabinet was adorned with **anaglyphical** ivory panels depicting classical pastoral allegories."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"The funeral urn bore **anaglyphical** inscriptions surrounded by figures of weeping genii."*

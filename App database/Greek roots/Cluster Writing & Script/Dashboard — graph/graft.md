@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grafted plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grafted plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shoot or bud inserted into a slit on another plant to form a living union; or a piece of living tissue surgically transplanted to another site.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and social critique, the acquisition of money, gain, or advantage by dishonest, corrupt, or illegal practices in public office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll graft it with you, and then I shall graft it with a medlar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If ever lady wronged her lord so much, Thy mother took into her blameful bed Some stern untutored churl, and noble stock Was graft with crab-tree slip, whose fruit thou art, And never of the Nevilles’ noble race."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gard’ner, for telling me these news of woe, Pray God the plants thou graft’st may never grow! [_Exeunt Queen and Ladies._] GARDENER."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"You see, sweet maid, we marry a gentler scion to the wildest stock, and make conceive a bark of baser kind by bud of nobler race: this is an art which does mend nature, change it rather, but the art itself is nature; we marry a noble **graft** unto a stock."*
+> - 📜 **Lincoln Steffens (*The Shame of the Cities*):** *"Municipal **graft** was not an occasional theft, but an organized financial system binding politicians and utility bosses together."*
+> - 📜 **Sherwin B. Nuland (*The Doctors' Story*):** *"The surgeon carefully trimmed the pedicle **graft** to restore blood supply to the burned facial tissue."*

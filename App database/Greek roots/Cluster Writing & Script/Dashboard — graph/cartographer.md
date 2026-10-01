@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes maps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes maps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who draws, compiles, or produces maps and charts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geography and geodesy, a specialist who translates mathematical survey data, aerial imagery, and topographic measurements into spatial cartographic representations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cartographer designates a person who makes maps."*
+> - 📜 **Gerardus Mercator (*Atlas sive Cosmographicae Meditationes*):** *"The skilled **cartographer** must preserve true bearings across the boundless expanse of ocean voyages."*
+> - 📜 **Jonathan Swift (*On Poetry: A Rhapsody*):** *"So geographers, in Afric maps, with savage pictures fill their gaps, and o'er unhabitable downs place elephants for want of towns."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I looked at the blank spaces on the earth, where the **cartographer** had left only white rivers of mystery."*

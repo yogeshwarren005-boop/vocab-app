@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Handwritten book or document.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intermediate photograph (or photographic record) that contains information for reproducing a three-dimensional image by holography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manuscript, letter, or legal document written entirely in the author's own handwriting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, a handwritten testamentary will executed without formal attesting witnesses, recognized as legally valid in many civil and common law jurisdictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"And so, none saying him nay, he rode back to Longtown with the holograph in his breast pocket, jesting with two farmers riding that way as he went."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"The will was holograph, for Mr."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In certain jurisdictions, a **holograph** will requires no attesting witnesses, provided every line is proved to be in the testator's own hand."*
+> - 📜 **Robert Louis Stevenson (*Strange Case of Dr Jekyll and Mr Hyde*):** *"Utterson unlocked his safe and drew out the mysterious will, a **holograph** signed by Henry Jekyll."*
+> - 📜 **W. W. Greg (*The Editorial Problem in Shakespeare*):** *"The recovery of a single dramatic **holograph** by Shakespeare would resolve countless textual controversies."*

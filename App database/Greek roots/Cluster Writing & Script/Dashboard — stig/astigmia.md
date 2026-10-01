@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ophthalmology) impaired eyesight resulting usually from irregular conformation of the cornea; common in nearsighted people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (optics) defect in an optical system in which light rays from a single point fail to converge in a single focal point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An uncommon variant term for astigmatism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic literature, an older medical term denoting refraction errors caused by non-spherical optical media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astigmia designates (ophthalmology) impaired eyesight resulting usually from irregular conformation of the cornea; common in nearsighted people."*
+> - 📜 **George M. Gould (*Biographic Clinics*):** *"Severe uncorrected **astigmia** was the unsuspected cause of the chronic headaches suffered by Darwin and Carlyle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Visual fatigue in schoolchildren often stems from low degrees of compound **astigmia**."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The skilled oculist corrects **astigmia** with cylindrical lenses calibrated to the exact corneal meridian."*

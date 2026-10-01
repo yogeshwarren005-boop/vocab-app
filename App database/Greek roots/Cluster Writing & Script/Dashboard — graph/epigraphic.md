@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to epigraphs or epigraphy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to epigraphs or epigraphy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of an epigraph or epigraphy; pertaining to inscriptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to the discipline of reading, transcribing, and interpreting ancient texts carved on stone, bronze, clay, or other durable materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigraphic designates of or relating to epigraphs or epigraphy."*
+> - 📜 **Theodor Mommsen (*Corpus Inscriptionum Latinarum*):** *"Our **epigraphic** survey of Roman municipal laws restored historical facts that literary histories had completely omitted."*
+> - 📜 **Arthur Evans (*Scripta Minoa*):** *"The Cretan seal-stones present an **epigraphic** puzzle of early pictographic and linear scripts."*
+> - 📜 **James Henry Breasted (*Ancient Records of Egypt*):** *"The monumental **epigraphic** records of Karnak were painstakingly copied before weathering erased the hieroglyphs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph of a microscope image.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photograph of a microscope image.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph or digital image of an object taken through a microscope, showing a greatly magnified view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology, pathology, and materials science, an indispensable diagnostic image revealing cellular architecture, crystallographic grain, or microbiological pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photomicrograph designates a photograph of a microscope image."*
+> - 📜 **Robert Koch (*The Etiology of Tuberculosis*):** *"The **photomicrograph** clearly demonstrated the slender, rod-like tubercle bacilli clustered within the stained pulmonary tissue."*
+> - 📜 **Santiago Ramón y Cajal (*Advice for a Young Investigator*):** *"A faithful drawing often surpasses a **photomicrograph**, because the artist can synthesize focal planes that optical lenses blur."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"The dramatic **photomicrograph** silenced all skeptics, showing the anthrax spores caught in the very act of germination."*

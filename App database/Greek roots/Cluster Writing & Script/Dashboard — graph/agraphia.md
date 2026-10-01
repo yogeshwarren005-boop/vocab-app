@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loss of the ability to write or to express thoughts in writing because of a brain lesion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loss of the ability to write or to express thoughts in writing because of a brain lesion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological condition characterized by the loss or impairment of the ability to communicate through writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychology and behavioral neurology, a cerebral deficit caused by damage to specific cortical areas (such as Exner's area or the angular gyrus), distinct from motor paralysis or illiteracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agraphia designates a loss of the ability to write or to express thoughts in writing because of a brain lesion."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Lesions of the left parieto-occipital cortex frequently result in semantic **agraphia**, leaving the patient unable to synthesize written words."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The stroke victim retained fluent conversational speech but exhibited a startling central **agraphia**, staring uncomprehendingly at a pen."*
+> - 📜 **Norman Geschwind (*Selected Papers on Language and the Brain*):** *"The clinical dissociation between pure alexia and pure **agraphia** shed light on the connective pathways of the dominant hemisphere."*

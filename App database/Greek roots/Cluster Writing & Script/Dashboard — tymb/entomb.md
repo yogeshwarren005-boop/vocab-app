@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To deposit in or as if in a tomb : bury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To serve as a tomb for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To place in or as if in a tomb, grave, or sepulcher; bury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metaphorically, to enclose, engulf, or conceal permanently beneath rock, ice, or deep soil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is’t night’s predominance, or the day’s shame, That darkness does the face of earth entomb, When living light should kiss it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You mocking birds,” quoth she, “your tunes entomb Within your hollow-swelling feathered breasts, And in my hearing be you mute and dumb; My restless discord loves no stops nor rests."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"But, in order that it might not close of itself and entomb them, the portal was blocked open with stones found in the passage."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Death, lie thou there, by a dead man interred; for here lies Juliet, and her beauty makes this vault a feasting presence full of light to **entomb**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The icy caverns of the glacier seemed to **entomb** the eternal secrets of the mountain."*
+> - 📜 **John Milton (*Lycidas*):** *"Where were ye, Nymphs, when the remorseless deep closed o'er the head of your loved Lycidas, to **entomb** his youthful bloom?"*

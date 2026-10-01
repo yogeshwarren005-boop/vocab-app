@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to holography or holograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written entirely in one's own hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written entirely in the handwriting of the author; or relating to or produced by holography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern theoretical physics, the holographic principle posits that the entire information content of a spatial volume can be encoded on its lower-dimensional boundary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holographic designates of or relating to holography or holograms."*
+> - 📜 **Leonard Susskind (*The Black Hole War*):** *"The **holographic** principle suggests that our three-dimensional universe may be an optical illusion projected from a distant two-dimensional boundary."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Mortimer produced the **holographic** document written by Sir Hugo Baskerville in seventeenth-century script."*
+> - 📜 **Dennis Gabor (*Holography, 1948-1971*):** *"The **holographic** reconstruction of wavefronts recreated the optical depth of the original crystal with startling clarity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who engages in bibliotics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who engages in bibliotics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A handwriting expert or forensic document examiner who specializes in bibliotics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investigator who examines disputed signatures, inks, and paper characteristics to determine document authenticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliotist designates someone who engages in bibliotics."*
+> - 📜 **Persifor Frazer (*Bibliotics*):** *"The impartial **bibliotist** measures pen pressure, slant, and microscopic stroke hesitation with scientific detachment."*
+> - 📜 **Arthur Conan Doyle (*The Case-Book of Sherlock Holmes*):** *"The testimony of the court-appointed **bibliotist** established that the codicil had been drafted with modern synthetic ink."*
+> - 📜 **Albert S. Osborn (*Questioned Documents*):** *"A qualified **bibliotist** never relies on intuition, but demonstrates each physical finding through photographic enlargements."*

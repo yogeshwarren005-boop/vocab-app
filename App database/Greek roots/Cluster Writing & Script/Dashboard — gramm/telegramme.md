@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gramm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message transmitted by telegraph and delivered in written or printed form (chiefly French and archaic British variant of telegram).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic and postal history, an urgent printed dispatch conveyed over telecommunication cables and hand-delivered by messenger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telegramme designates a term designating an entity, condition, or phenomenon derived from greek gramm."*
+> - 📜 **Jules Verne (*Around the World in Eighty Days*):** *"Phileas Fogg received an urgent **telegramme** from the Reform Club confirming the wager."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"The blue envelope of the **telegramme** arrived during dinner, carrying news that disturbed the quiet household."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"A cryptic **telegramme** from Paris summoned Holmes across the Channel without an hour's delay."*

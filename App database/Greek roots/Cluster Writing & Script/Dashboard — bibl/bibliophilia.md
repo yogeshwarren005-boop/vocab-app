@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bibl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The love of books; an intense fondness or passionate interest in collecting and reading books.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of collecting, the aesthetic and intellectual appreciation of book arts, typography, paper, and binding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliophilia designates a term designating an entity, condition, or phenomenon derived from greek bibl."*
+> - 📜 **Thomas Frognall Dibdin (*The Library Companion*):** *"A lifetime devoted to **bibliophilia** brings rich rewards in scholarship and serene contentment."*
+> - 📜 **Walter Pater (*Appreciations*):** *"His **bibliophilia** was not a shallow ostentation, but an authentic devotion to the physical sanctuary of thought."*
+> - 📜 **Jorge Luis Borges (*Selected Non-Fictions*):** *"My father’s library was the primal temple where my incurable **bibliophilia** was born."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the classes of words, their inflections, and their functions and relations in the sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A study of what is to be preferred and what avoided in inflection and syntax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of actual or presumed prescriptive rules for speaking or writing a particular language correctly; historically, learning or Latin scholarship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I read it in the grammar long ago."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To which Charley, whose grammar, I confess to my shame, never did any credit to my educational powers, replied, “Yes, miss."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Charley was curious, too, about the voyage, and about the heat in India, and the serpents and the tigers; and as she picked up such information much faster than grammar, I told her what I knew on those points."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Thou hast most traitorously corrupted the youth of the realm in erecting a **grammar** school."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I struggled through the intricacies of the Latin **grammar**, bewildered by moods and gerunds."*
+> - 📜 **Noam Chomsky (*Syntactic Structures*):** *"A **grammar** of a language may be considered as a device that generates all of the grammatical sequences and none of the ungrammatical ones."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in several rows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged in several rows.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged in many vertical rows, ranks, or series (applied to leaves, scales, or appendages).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and marine zoology, having numerous rows of organs radiating or aligned along a central axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polystichous designates arranged in several rows."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The crowded scales of the pine cone form a dense, **polystichous** cylinder protecting the ovules."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"In primitive vascular plants, microphylls exhibit a **polystichous** insertion around the massive siphonostele."*
+> - 📜 **Ernst Haeckel (*Report on the Radiolaria*):** *"The siliceous spines are disposed in a **polystichous** radiation from the central spherical capsule."*

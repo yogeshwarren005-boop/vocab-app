@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city is southern indonesia; located in northern java.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city is southern indonesia; located in northern java.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major port city and the provincial capital of Central Java, Indonesia, situated on the northern coast of Java.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime history, an important Dutch East Indies trading hub founded in the 16th century, known for historic colonial architecture and multicultural heritage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semarang designates a port city is southern indonesia; located in northern java."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Our steamer called at **Semarang**, a bustling harbor on the northern coast of Java with extensive sugar warehouses."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The coastal schooner touched at Batavia and **Semarang**, unloading spices along the sun-bleached Javanese jetties."*
+> - 📜 **W. Somerset Maugham (*The Casuarina Tree*):** *"He had spent years in the Dutch civil service, stationed in the humid coastal offices of **Semarang**."*

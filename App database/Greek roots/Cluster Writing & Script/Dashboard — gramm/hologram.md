@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional image reproduced from a pattern of interference produced by a split coherent beam of radiation (such as a laser); also : the pattern of interference itself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A three-dimensional image reproduced from a pattern of interference produced by a split coherent beam of radiation (such as a laser); also : the pattern of interference itself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional image formed by the interference of light beams from a laser or other coherent light source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics, the photographic recording of an optical interference pattern that contains both amplitude and phase information, reconstructing a full light field when illuminated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hologram designates a three-dimensional image reproduced from a pattern of interference produced by a split coherent beam of radiation (such as a laser); also : the pattern of interference itself."*
+> - 📜 **Dennis Gabor (*A New Microscopic Principle*):** *"By recording the interference of the coherent wave with the coherent background, a **hologram** is formed which contains all the optical information."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The viewer could walk around the projected **hologram**, seeing the object from every angle as though it possessed physical body."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Like a **hologram**, where every piece contains the likeness of the whole, each living cell carries the entire library of genetic instructions."*

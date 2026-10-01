@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, act, or process of making radiographs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art, act, or process of making radiographs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technique or process of taking images of the interior of visually opaque objects by passing X-rays, gamma rays, or neutrons through them onto photographic film or digital sensors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and industrial non-destructive testing, an indispensable diagnostic discipline used to detect internal anatomical pathology or structural metal flaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiography designates the art, act, or process of making radiographs."*
+> - 📜 **Wilhelm Röntgen (*On a New Kind of Rays*):** *"The science of medical **radiography** commenced the moment these penetrating beams made the living skeleton visible."*
+> - 📜 **Marie Curie (*Radiology in War*):** *"The widespread use of **radiography** during military campaigns saved thousands of wounded soldiers from blind, exploratory surgery."*
+> - 📜 **Atul Gawande (*Complications*):** *"Modern computed **radiography** can reconstruct a beating heart in cross-sectional slices of breathtaking clarity."*

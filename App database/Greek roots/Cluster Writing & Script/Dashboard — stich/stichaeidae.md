@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pricklebacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pricklebacks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of elongated, blennioid marine fishes commonly called pricklebacks, characterized by long, continuous dorsal fins composed entirely of sharp spines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, cold-water benthic fishes of the North Pacific and Arctic oceans adapted to rocky intertidal and kelp forest habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stichaeidae designates pricklebacks."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The pricklebacks of the family **Stichaeidae** lurk under stones and seaweeds along the cold rocky coasts of the Pacific."*
+> - 📜 **Spencer Fullerton Baird (*Fisheries of North America*):** *"Species belonging to the **Stichaeidae** are easily recognized by their slender eel-like bodies and stiff dorsal spines."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Tidal pools in subarctic regions harbor small **Stichaeidae** that feed on benthic crustaceans at low tide."*

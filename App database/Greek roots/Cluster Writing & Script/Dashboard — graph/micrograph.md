@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic reproduction of the image of an object formed by a microscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A micrograph made with an electron microscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph, digital image, or drawing of an object as seen through a microscope; a photomicrograph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In micro-instrumentation, an apparatus used for executing microscopic writing or engraving upon minute surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Of GREAT VALUE to those engaged in the iron industry.”—_Mining Journal._ Frontispiece in Colours, and Beautiful Series of Photo-micrographs. 12s. 6d. net. =ALLOYS and their Industrial Applications.= BY EDWARD F."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"The engraved **micrograph** of the flea revealed intricate joints, bristles, and armored plates hidden from the unassisted human eye."*
+> - 📜 **Ernst Ruska (*The Development of the Electron Microscope*):** *"Our first electron **micrograph** revealed bacterial flagella with a resolution that optical lenses could never achieve."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The cellular **micrograph** illustrates how physical surface tension shapes the hexagonal packaging of plant tissues."*

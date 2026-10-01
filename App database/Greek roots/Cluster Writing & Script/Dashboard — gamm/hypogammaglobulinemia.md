@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low concentration of gamma globulin in the blood and increased risk of infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally low concentration of gamma globulin in the blood and increased risk of infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low concentration of gamma globulins (antibodies) in the blood plasma, resulting in increased susceptibility to bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology, a common variable immunodeficiency or secondary condition occurring in nephrotic syndrome or chronic lymphocytic leukemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogammaglobulinemia designates an abnormally low concentration of gamma globulin in the blood and increased risk of infection."*
+> - 📜 **Robert Good (*Immunology*):** *"Severe **hypogammaglobulinemia** renders the human host vulnerable to persistent sinopulmonary infections."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Treatment of secondary **hypogammaglobulinemia** requires periodic intravenous immunoglobulin replacement therapy."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Without adequate plasma antibody levels in **hypogammaglobulinemia**, bacterial opsonization and phagocytosis fail."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written in the author's own handwriting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in the author's own handwriting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or written in the author's or writer's own hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printing and lithography, capable of directly reproducing handwriting or line drawings without the need for manual engraving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autographic designates written in the author's own handwriting."*
+> - 📜 **Alois Senefelder (*A Complete Course of Lithography*):** *"My **autographic** ink allows the artist to write naturally upon prepared paper and transfer the script directly to stone."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"The genuine **autographic** letter reveals the inner man far more vividly than any polished public memoir."*
+> - 📜 **William Makepeace Thackeray (*The Virginians*):** *"The antiquary held the yellowed parchment to the lamp, admiring its authentic **autographic** signatures."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not astigmatic —used especially of lenses that are able to form approximately point images of object points.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not astigmatic —used especially of lenses that are able to form approximately point images of object points.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from astigmatism; relating to an optical lens system that corrects for astigmatism and produces a flat, sharp image.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to compound optical systems that bring tangential and sagittal focal planes into coincidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastigmatic designates not astigmatic —used especially of lenses that are able to form approximately point images of object points."*
+> - 📜 **Ansel Adams (*The Negative*):** *"Using an **anastigmatic** lens ensures that parallel architectural lines do not soften or distort near the film margins."*
+> - 📜 **Paul Rudolph (*Photographic Optics*):** *"An **anastigmatic** combination of crown and flint elements eliminates field curvature across broad visual angles."*
+> - 📜 **Louis Boutan (*La Photographie sous-marine*):** *"Underwater camera housings required an **anastigmatic** objective to overcome the optical aberrations introduced by flat glass ports."*

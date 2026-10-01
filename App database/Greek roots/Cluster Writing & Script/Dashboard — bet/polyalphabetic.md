@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of B, b.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of B, b.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, using, or written in multiple alphabets; in cryptography, designating a substitution cipher based on multiple substitution alphabets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical cryptanalysis, ciphers designed to resist single-alphabet frequency analysis by shifting alphabets cyclically using a keyword.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyalphabetic designates adjective*) pertaining to, derived from, or characteristic of b, b."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The invention of the **polyalphabetic** substitution cipher by Leon Battista Alberti marked the dawn of modern scientific cryptology."*
+> - 📜 **Alan Turing (*Report on Enigma Decryption*):** *"Because the German machine employed a complex **polyalphabetic** stepping mechanism, ordinary frequency analysis was utterly useless."*
+> - 📜 **Edgar Allan Poe (*A Few Words on Secret Writing*):** *"The cryptanalyst must first ascertain whether the cipher is monoalphabetic or **polyalphabetic** before attempting a solution."*

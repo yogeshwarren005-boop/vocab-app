@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an electrocardiograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an electrocardiograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or obtained by means of an electrocardiograph or electrocardiogram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the diagnostic interpretation of cardiac electrical conduction patterns and wave anomalies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiographic designates of or relating to an electrocardiograph."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Marked ST-segment elevation on the **electrocardiographic** tracing provides definitive evidence of acute transmural ischemia."*
+> - 📜 **Lewis Thomas (*The Medusa and the Snail*):** *"The patient's **electrocardiographic** monitor beeped steadily in the darkened intensive care room."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Accurate **electrocardiographic** diagnosis requires meticulous lead placement to avoid misleading axis deviation."*

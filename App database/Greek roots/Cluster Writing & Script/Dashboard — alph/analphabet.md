@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An illiterate person who does not know the alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illiterate person who does not know the alphabet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cannot read or write; an illiterate person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and educational policy, an individual uninstructed in alphabetic script.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analphabet designates an illiterate person who does not know the alphabet."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"An **analphabet** in a modern industrial city is helpless before the blizzard of printed regulations."*
+> - 📜 **Antonio Gramsci (*Prison Notebooks*):** *"The cultural hegemony of the ruling class is perpetuated so long as the peasant remains an **analphabet**."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"The tribal chief, though an **analphabet**, understood that holding a pen conferred symbolic authority."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inability to read.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inability to read.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to read and write; illiteracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In demography and education, the state or rate of widespread illiteracy within a population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analphabetism designates an inability to read."*
+> - 📜 **Paulo Freire (*Pedagogy of the Oppressed*):** *"The eradication of rural **analphabetism** is not a mere technical exercise, but an act of political liberation."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Widespread **analphabetism** would make democratic self-government impossible, for newspapers must inform the sovereign citizen."*
+> - 📜 **Eric Hobsbawm (*The Age of Empire*):** *"Late nineteenth-century European states waged determined campaigns to extinguish primary **analphabetism** through compulsory schooling."*

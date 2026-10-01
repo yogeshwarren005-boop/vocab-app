@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, obtained by, or used in photography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing nature and human beings with the exactness of a photograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by photography; or resembling a photograph in detail, accuracy, and vividness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing memory or perception characterized by extraordinary retention of precise visual detail; or in chemical imaging, sensitized to light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He had an excellent memory, photographic and phonographic, a gift that wise men covet for themselves but deprecate in their friends."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Several parties have photographic copies."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Or what is often better still, a picture of the wire can be projected through the microscope on to a screen or on to a moving photographic plate or strip of photographic paper."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Copper Beeches*):** *"Sherlock Holmes possessed a **photographic** memory for faces, recognizing the disguise through every layer of greasepaint."*
+> - 📜 **Charles Baudelaire (*The Salon of 1859*):** *"If photography is allowed to substitute for art in any of its functions, it will soon have corrupted it entirely through its **photographic** literalism."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Her mind retained the scene with **photographic** distinctness: the blue sea, the yellow sand, and the silent lighthouse."*

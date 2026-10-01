@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The meaning of a morpheme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The meaning of a morpheme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic equivalent of a morpheme; a unit of meaning conveyed by a single morpheme or lexical item.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural linguistics, the complete bundle or combination of semes realizing a specific lexical sense in discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sememe designates the meaning of a morpheme."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"We may define a **sememe** as the meaning of a morpheme, forming the ultimate meaningful unit of grammar."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"The invariant **sememe** persists across diverse contextual variations in spoken discourse."*
+> - 📜 **John Lyons (*Introduction to Theoretical Linguistics*):** *"In componential analysis, each **sememe** is represented as a conjunction of elementary semantic markers."*

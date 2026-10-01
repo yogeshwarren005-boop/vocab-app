@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stich.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany and phyllotaxis, an imaginary vertical or longitudinal line on a stem along which leaves, scales, or branches are arranged one directly above another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant morphology, the vertical line connecting members of the same spiral series in alternate phyllotaxis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthostichy designates a term designating an entity, condition, or phenomenon derived from greek stich."*
+> - 📜 **Wilhelm Hofmeister (*On the Higher Cryptogamia*):** *"Tracing the **orthostichy** along the pine shoot reveals the geometric angular divergence of successive scale leaves."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The spiral arrangement of sunflower florets resolves mathematically into intersecting sets of parastichies and an **orthostichy**."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Leaves belonging to the same **orthostichy** receive vascular traces from the same primary sympodium."*

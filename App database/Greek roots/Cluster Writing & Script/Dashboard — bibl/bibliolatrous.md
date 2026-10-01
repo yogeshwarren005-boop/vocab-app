@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to bible-worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to bible-worship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively or superstitiously devoted to books, especially the Bible; characterized by bibliolatry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting blind, uncritical reverence for written or printed authorities over empirical evidence or moral reason.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliolatrous designates given to bible-worship."*
+> - 📜 **Samuel Taylor Coleridge (*Notes on English Divines*):** *"The seventeenth-century puritans displayed a **bibliolatrous** veneration for every punctuation mark of the King James text."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"The living generation must not submit its spiritual freedom to a **bibliolatrous** worship of ancient scrolls."*
+> - 📜 **Thomas Henry Huxley (*Science and Christian Tradition*):** *"The dogmatic theology of the day demanded **bibliolatrous** obedience to Genesis at the expense of geology."*

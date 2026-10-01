@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to stage scenery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to stage scenery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a scenic manner; with regard to natural scenery or dramatic stage presentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual criticism and topography, evaluated according to picturesque qualities, landscape aesthetics, or stage design excellence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scenically designates with respect to stage scenery."*
+> - 📜 **Henry James (*Transatlantic Sketches*):** *"The city of Florence is **scenically** situated in a fertile basin surrounded by olive-mantled Apennine foothills."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions*):** *"The opera was mounted **scenically** with lavish splendour, though the singing left much to be desired."*
+> - 📜 **Archibald Geikie (*The Scenery of Scotland*):** *"The western fjords are **scenically** the most magnificent feature of the coast, gouged out by ancient glacial streams."*

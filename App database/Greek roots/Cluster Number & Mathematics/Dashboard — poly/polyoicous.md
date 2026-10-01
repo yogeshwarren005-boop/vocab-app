@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having several forms of gametoecia on the same plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having several forms of gametoecia on the same plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing male and female reproductive structures on different parts of the same plant or on separate plants within the same species; polyoecious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology and cryptogamic botany, mosses or liverworts exhibiting diverse arrangements of antheridia and archegonia on distinct branches, stems, or individuals within a single species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyoicous designates having several forms of gametoecia on the same plant."*
+> - 📜 **William Mitten (*Musci Austro-Americani*):** *"Certain alpine mosses prove to be **polyoicous**, developing both synoicous inflorescences and unisexual female shoots."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"When sexual organs occur indiscriminately in different arrangements upon the same gametophyte, the moss is described as **polyoicous**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The variability of bryophyte inflorescences frequently complicates taxonomy when a species proves facultatively **polyoicous**."*

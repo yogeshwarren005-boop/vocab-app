@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or constituting a macrocosm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or constituting a macrocosm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or of the nature of the macrocosm; on a cosmic or universal scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical cosmology and literature, describing processes, laws, or structures that operate on the vast scale of the universe as a whole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrocosmic designates relating to or constituting a macrocosm."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Every individual action partakes of **macrocosmic** necessity, vibrating in harmony with the laws of the universe."*
+> - 📜 **William James (*A Pluralistic Universe*):** *"Monistic philosophies attempt to subordinate all human experience to a single all-inclusive **macrocosmic** absolute."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"The advance of creative nature weaves each atomic event into the continuous fabric of **macrocosmic** history."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Peripeteia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Peripeteia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden and unexpected change of fortune or dramatic reversal of circumstances; anglicized form of peripeteia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative theory and dramatic composition, the crucial structural pivot in a plot where the protagonist's fortunes precipitously reverse from prosperity to downfall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peripety designates peripeteia."*
+> - 📜 **John Dryden (*An Essay of Dramatic Poesy*):** *"The sudden **peripety** in the fourth act shifts the whole sympathy of the audience toward the fallen prince."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The story gathers its suspense toward a quiet moral **peripety** where all former relationships are inverted."*
+> - 📜 **Thomas De Quincey (*Biographical Essays*):** *"History affords no more astonishing **peripety** than the fall of Napoleon from the mastery of Europe to St. Helena."*

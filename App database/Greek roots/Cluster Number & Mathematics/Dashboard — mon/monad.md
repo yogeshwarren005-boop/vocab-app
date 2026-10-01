@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: unit, one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: atom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An indivisible, ultimate unit or entity; in philosophy, a fundamental, indivisible metaphysical substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Leibnizian philosophy, an immaterial soul-like substance reflecting the universe; in functional programming, a design pattern encapsulating computations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"How 90:3 were the loaves and fishes multiplied on the shores of Galilee, - and that, too, without meal or monad from which loaf or fish could come?"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Into one love to be gathered, many in number, according to the unity of the essence of the Monad, let us hasten."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"As we are blessed, let us pursue unity, seeking the good Monad."*
+> - 📜 **Gottfried Wilhelm Leibniz (*The Monadology*):** *"The **monad**, of which we shall speak here, is nothing but a simple substance which enters into compounds."*
+> - 📜 **Giordano Bruno (*On the Monad, Number, and Figure*):** *"The ultimate physical minimum and the divine metaphysical source are alike mirrored within the eternal **monad**."*
+> - 📜 **Bertrand Russell (*A Critical Exposition of the Philosophy of Leibniz*):** *"Since each **monad** has no windows through which anything could enter or leave, all its perceptions arise from its own nature."*

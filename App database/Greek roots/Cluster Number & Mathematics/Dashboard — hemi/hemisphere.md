@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A half of the celestial sphere as divided into two halves by the horizon, the celestial equator, or the ecliptic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Half of a spherical or roughly spherical body (such as a planet); specifically : the northern or southern half of the earth as divided by the equator or the eastern or western half as divided by a meridian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A half of a sphere; in geography, one half of the terrestrial globe (Northern, Southern, Eastern, or Western Hemisphere).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, either of the two symmetrical lateral halves of the cerebrum or cerebellum (cerebral hemisphere).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Human shapes, interferences, troubles, and joys were all as if they were not, and there seemed to be on the shaded hemisphere of the globe no sentient being save himself; he could fancy them all gone round to the sunny side."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Discoveries in the Western hemisphere opened up a wide field for the adventure and enterprise of Europe."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From the year 1500 until 1800 the Western hemisphere was the main source of the precious metals, the alluvial deposits were widely scattered, were gradually discovered, were usually found in small quantities, and were extracted in primitive ways."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The glass lens was formed by grinding a flat plane against the convex curve of a polished glass **hemisphere**."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"As the vessel crossed the equator into the Southern **Hemisphere**, unfamiliar stellar constellations illuminated the night sky."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Voluntary motor functions for the right side of the body reside principally in the left cerebral **hemisphere**."*

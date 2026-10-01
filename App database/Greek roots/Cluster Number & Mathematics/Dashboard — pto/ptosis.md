@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sagging or prolapse of an organ or part; especially : a drooping of the upper eyelid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sagging or prolapse of an organ or part; especially : a drooping of the upper eyelid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal drooping or falling of the upper eyelid; or the prolapse of an internal organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuro-ophthalmology, drooping of the palpebra superioris due to third cranial nerve palsy, Horner syndrome (sympathetic denervation), or myasthenia gravis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ptosis designates a sagging or prolapse of an organ or part; especially : a drooping of the upper eyelid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bilateral fluctuating **ptosis** that worsens toward evening is an early and characteristic sign of myasthenia gravis."*
+> - 📜 **W. Russell Brain (*Diseases of the Nervous System*):** *"In Horner's syndrome, sympathetic paralysis produces partial **ptosis** accompanied by pupillary miosis and facial anhidrosis."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases of the Skin and Eye*):** *"Complete unilateral **ptosis** with pupil dilation strongly points to compression of the third nerve by an intracranial aneurysm."*

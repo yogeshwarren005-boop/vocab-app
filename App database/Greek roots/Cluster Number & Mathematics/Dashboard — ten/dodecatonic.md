@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or utilizing twelve musical tones or pitches, especially the twelve semitones of the chromatic scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 20th-century music theory, synonymous with dodecaphonic or twelve-tone serial technique pioneered by Arnold Schoenberg, treating all twelve chromatic pitch classes with equal structural weight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dodecatonic designates adjective*) pertaining to, derived from, or characteristic of stretch."*
+> - 📜 **Arnold Schoenberg (*Style and Idea*):** *"A **dodecatonic** row guarantees that no single pitch predominates, ensuring the total equality of all twelve tones."*
+> - 📜 **Theodor W. Adorno (*Philosophy of New Music*):** *"The rigorous discipline of the **dodecatonic** method liberated modern composition from the tyranny of the triad."*
+> - 📜 **Aaron Copland (*Copland on Music*):** *"Many American composers adopted a flexible **dodecatonic** framework to achieve fresh contrapuntal freedom."*

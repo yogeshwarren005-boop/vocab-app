@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The general populace : masses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The general populace : masses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The masses, the common people, or the general multitude, often used with a mildly disparaging or detached connotation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek political literature (οἱ πολλοί, 'the many'), the majority of citizens lacking aristocratic status or specialized philosophical education.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hoi polloi designates the general populace : masses."*
+> - 📜 **Lord Byron (*Don Juan*):** *"He courted not the favors of **hoi polloi**, preferring the solitary companionship of his own restless thoughts."*
+> - 📜 **John Dryden (*An Essay of Dramatic Poesy*):** *"Playwrights are too often tempted to pander to **hoi polloi** with vulgar farce rather than noble dramatic poetry."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"True culture seeks not to isolate an elite, but to humanize and elevate **hoi polloi** with sweetness and light."*

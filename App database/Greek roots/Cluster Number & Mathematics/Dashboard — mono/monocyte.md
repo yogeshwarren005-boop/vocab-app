@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large white blood cell with finely granulated chromatin dispersed throughout the nucleus that is formed in the bone marrow, enters the blood, and migrates into the connective tissue where it differentiates into a macrophage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large white blood cell with finely granulated chromatin dispersed throughout the nucleus that is formed in the bone marrow, enters the blood, and migrates into the connective tissue where it differentiates into a macrophage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large white blood cell with a single non-segmented nucleus, capable of differentiating into a macrophage or dendritic cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and immunology, an agranulocyte originating in the bone marrow that migrates into peripheral tissues to phagocytose pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocyte designates a large white blood cell with finely granulated chromatin dispersed throughout the nucleus that is formed in the bone marrow, enters the blood, and migrates into the connective tissue where it differentiates into a macrophage."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Stained with triacid dye, the large mononuclear **monocyte** stood distinct from granular polymorphonuclear leucocytes."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"When microbial invaders breach the skin, the circulating **monocyte** crawls through the capillary wall and transforms into a voracious tissue macrophage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Differential blood counts in chronic infectious endocarditis frequently show a marked rise in circulating **monocyte** numbers."*

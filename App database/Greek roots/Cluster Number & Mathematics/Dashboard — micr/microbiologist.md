@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in microbiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in microbiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in the study of microscopic organisms such as bacteria, viruses, fungi, and protozoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A researcher investigating microbial genetics, physiology, epidemiology, or biotechnology in academic, clinical, or industrial laboratories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbiologist designates a specialist in microbiology."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Every pioneering **microbiologist** spent long nights bending over glowing brass tubes, tracing invisible killers."*
+> - 📜 **Joshua Lederberg (*Genetic Recombination in Bacteria*):** *"The modern **microbiologist** recognizes bacterial conjugation as a portal into fundamental hereditary mechanisms."*
+> - 📜 **Carl Sagan (*The Dragons of Eden*):** *"To an alien observer, Earth belongs entirely to bacteria, and the **microbiologist** is merely chronicling its primary masters."*

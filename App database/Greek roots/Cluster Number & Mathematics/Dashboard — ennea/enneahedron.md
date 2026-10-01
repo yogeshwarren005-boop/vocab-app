@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ennea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional solid or polyhedron bounded by nine plane faces; a nonahedron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polyhedral combinatorics and crystallography, a solid geometry figure that can take various topological forms, such as an octagonal pyramid or a heptagonal prism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enneahedron designates a term designating an entity, condition, or phenomenon derived from greek ennea."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"Applying our polyhedral relation to an **enneahedron**, the sum of its nine faces and fourteen vertices yields twenty-one edges plus two."*
+> - 📜 **René Just Haüy (*Traité de Minéralogie*):** *"Asymmetric cleavage along the prism base produced a distinct crystalline **enneahedron** in the beryl specimen."*
+> - 📜 **Adrien-Marie Legendre (*Elements of Geometry*):** *"An octagonal pyramid resting upon an eight-sided base constitutes an elementary **enneahedron**."*

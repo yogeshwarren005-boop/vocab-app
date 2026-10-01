@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving isogametes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving isogametes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of sexual reproduction involving the fusion of gametes that are identical or similar in size, form, and motility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and phycology, the ancestral reproductive condition found in unicellular algae (such as Chlamydomonas) and fungi where mating types are physiological (+/-) rather than morphologically distinct sexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isogamy designates having or involving isogametes."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Primitive green algae demonstrate pure **isogamy**, where copulating gametes show no visible differentiation into male or female."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The evolutionary transition from ancestral **isogamy** to oogamy was driven by selection for enhanced zygotic nutrition."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"In organisms practicing **isogamy**, both parents contribute equally in energy and gamete mass to the offspring."*

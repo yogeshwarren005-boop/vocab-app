@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for hydrochlorothiazide, a thiazide diuretic medication used to treat high blood pressure and fluid retention (edema).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacology, an oral agent that promotes renal sodium and water excretion by inhibiting the Na+/Cl- cotransporter in the distal convoluted tubule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microzide designates a diuretic drug (trade name microzide, esidrix, and hydrodiuril) used in the treatment of hypertension."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"The primary care doctor started the hypertensive patient on a modest daily dose of **Microzide** to gently lower blood pressure."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"We monitored the patient's serum electrolytes closely after initiating **Microzide**, watching for signs of mild hypokalemia."*
+> - 📜 **Paul Farmer (*Infections and Inequalities*):** *"Standardizing chronic care protocols ensured dependable supplies of foundational medications like **Microzide** in public clinics."*

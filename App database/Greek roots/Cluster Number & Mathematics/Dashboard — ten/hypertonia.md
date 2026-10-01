@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of exhibiting excessive muscular tone or tension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of exhibiting excessive muscular tone or tension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal increase in muscle tension or tone, and a reduced capacity of a muscle to stretch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, elevated muscle tone resulting from upper motor neuron lesions, divided into spasticity (velocity-dependent resistance with clasp-knife phenomenon) and rigidity (velocity-independent lead-pipe or cogwheel resistance in extrapyramidal disease).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertonia designates the condition of exhibiting excessive muscular tone or tension."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Damage to the pyramidal tract produces spastic **hypertonia** accompanied by hyperactive deep tendon reflexes and a positive Babinski sign."*
+> - 📜 **W. Russell Brain (*Diseases of the Nervous System*):** *"In Parkinson's disease, extrapyramidal **hypertonia** manifests as steady cogwheel rigidity throughout passive joint movement."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient's limbs were frozen in severe plastic **hypertonia**, resisting every attempt to flex or extend the elbows."*

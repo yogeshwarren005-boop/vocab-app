@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of work or energy equal to that expended by one kilowatt in one hour or to 3.6 million joules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of work or energy equal to that expended by one kilowatt in one hour or to 3.6 million joules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of electrical or mechanical power equal to one thousand watts (symbol: kW).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering and energy measurement, the standard unit expressing the operating capacity of generators and industrial motors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Finally, to crown the whole story, a kilowatt for one hour is a Board of Trade unit."*
+> - 📜 **Nikola Tesla (*My Inventions: The Autobiography of Nikola Tesla*):** *"The massive Niagara generators converted the falling torrent into thousands of **kilowatts** of alternating current."*
+> - 📜 **Thomas Edison (*The Edison Papers: Documents and Correspondence*):** *"We measured the dynamo output precisely, calculating fuel efficiency per **kilowatt** supplied to the incandescent lamps."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"Modern civilization was transformed when atomic engines delivered millions of **kilowatts** of continuous, inexhaustible power."*

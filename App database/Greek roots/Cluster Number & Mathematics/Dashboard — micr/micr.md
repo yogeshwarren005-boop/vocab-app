@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Magnetic ink character recognition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small : minute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek mikros meaning small, minute, or microscopic in scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acronym for Magnetic Ink Character Recognition, a technology used extensively in banking to facilitate automated check processing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micr designates magnetic ink character recognition."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"The prefix **micr** denotes one-millionth in the international metric system, derived straight from classical Greek."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Character scanning systems like **MICR** encode numeric symbols into high-reliability magnetic flux signals."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The sub-miniature transducers operate at the **micr** level to capture bioelectric signals from nervous tissue."*

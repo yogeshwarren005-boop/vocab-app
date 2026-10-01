@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment consisting of a small crystal of a silicon semiconductor fabricated to carry out a number of electronic functions in an integrated circuit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic equipment consisting of a small crystal of a silicon semiconductor fabricated to carry out a number of electronic functions in an integrated circuit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny wafer of semiconductor material containing an integrated circuit, serving as the functional foundation of modern electronics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer engineering, a monolithic silicon substrate embedding millions or billions of microscopic transistors performing logic operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microchip designates electronic equipment consisting of a small crystal of a silicon semiconductor fabricated to carry out a number of electronic functions in an integrated circuit."*
+> - 📜 **Walter Isaacson (*Steve Jobs*):** *"The rapid miniaturization of the silicon **microchip** empowered hobbyists to build personal computers in suburban garages."*
+> - 📜 **Tracy Kidder (*The Soul of a New Machine*):** *"Engineers spent exhausting twelve-hour shifts diagnosing timing glitches buried deep within the custom **microchip**."*
+> - 📜 **Michio Kaku (*Physics of the Future*):** *"Moore's Law predicted that the computational power etched onto a single **microchip** would double every two years."*

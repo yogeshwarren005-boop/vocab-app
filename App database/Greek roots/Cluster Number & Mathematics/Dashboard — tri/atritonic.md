@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of three.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of three.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating a musical scale, mode, or harmony that lacks a tritone (augmented fourth or diminished fifth).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modal musicology and ethnomusicology, melodic systems (such as the standard diatonic major pentatonic scale) that completely exclude the dissonant three-whole-tone interval (the *diabolus in musica*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atritonic designates adjective*) pertaining to, derived from, or characteristic of three."*
+> - 📜 **Alexander John Ellis (*On the Musical Scales of Various Nations*):** *"The soothing consonances of archaic Celtic melody spring from its **atritonic** nature, which avoids all tritone clashes."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"A strictly **atritonic** scale eliminates the sharp instability of the augmented fourth, fostering calm melodic repose."*
+> - 📜 **Béla Bartók (*Hungarian Folk Music*):** *"The oldest peasant melodies preserve an **atritonic** modal structure untainted by Western harmonic cadences."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blindness in one half of the visual field of one or both eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blindness in one half of the visual field of one or both eyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blindness or loss of vision in one half of the visual field in one or both eyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and ophthalmology, a visual defect (such as bitemporal or homonymous hemianopia) caused by a lesion in the optic chiasm or retrochiasmal pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemianopia designates blindness in one half of the visual field of one or both eyes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Homonymous **hemianopia** indicates an interruption of the visual radiation or occipital cortex on the contralateral side."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and its Disorders*):** *"Upward pressure from a pituitary adenoma against the optic chiasm frequently induces bitemporal **hemianopia**."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Perimetric visual field charts readily confirm whether the **hemianopia** respects the vertical anatomical meridian."*

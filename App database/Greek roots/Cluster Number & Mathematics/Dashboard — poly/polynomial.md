@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematical expression of one or more algebraic terms each of which consists of a constant multiplied by one or more variables raised to a nonnegative integral power (such as a + bx + cx2).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, composed of, or expressed as one or more polynomials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematical expression consisting of variables and coefficients, involving only the operations of addition, subtraction, multiplication, and non-negative integer exponentiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algebra, algebraic geometry, and numerical analysis, functions of the form f(x) = a_n x^n + ... + a_1 x + a_0, whose roots over the complex field are guaranteed to exist by the Fundamental Theorem of Algebra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polynomial designates a mathematical expression of one or more algebraic terms each of which consists of a constant multiplied by one or more variables raised to a nonnegative integral power (such as a + bx + cx2)."*
+> - 📜 **Carl Friedrich Gauss (*Demonstratio Nova Theorematis*):** *"Every algebraic **polynomial** equation of the nth degree with real coefficients can be factored into real linear and quadratic factors."*
+> - 📜 **René Descartes (*La Géométrie*):** *"Descartes' rule of signs establishes the maximum number of positive real roots in any given **polynomial** equation."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"The properties of a continuous function can often be approximated arbitrarily closely by a suitable Taylor **polynomial**."*

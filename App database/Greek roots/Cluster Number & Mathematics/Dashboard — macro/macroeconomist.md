@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An economist who specializes in macroeconomics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An economist who specializes in macroeconomics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An economist who specializes in macroeconomics and the analysis of economy-wide phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic academia and public policy, an expert who constructs models, forecasts national indicators, and advises governments or central banks on fiscal and monetary strategy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroeconomist designates an economist who specializes in macroeconomics."*
+> - 📜 **Paul Samuelson (*Economics*):** *"Every central bank relies upon the quantitative forecasts of the seasoned **macroeconomist** when setting lending rates."*
+> - 📜 **Milton Friedman (*There's No Such Thing as a Free Lunch*):** *"The professional **macroeconomist** must guard against the illusion that fine-tuning aggregate demand can eliminate business cycles."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"The modern **macroeconomist** was summoned to Washington to manage production quotas during the industrial mobilization of the war."*

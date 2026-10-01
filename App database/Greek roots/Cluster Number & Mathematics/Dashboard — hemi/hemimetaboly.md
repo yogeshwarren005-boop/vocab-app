@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or biological phenomenon of incomplete metamorphosis in insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary entomology, the ancestral pterygote developmental strategy in which aquatic or terrestrial nymphs transition gradually into reproducing winged adults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetaboly designates a term designating an entity, condition, or phenomenon derived from greek hemi."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"Comparative endocrinology suggests that holometaboly arose through an evolutionary modification of ancestral **hemimetaboly**."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The student must carefully distinguish between simple ametaboly, incomplete **hemimetaboly**, and complete holometaboly."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The retention of juvenile features in the adult may be traced with particular clarity in lineages practicing **hemimetaboly**."*

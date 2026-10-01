@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family micrococcaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family micrococcaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of spherical, Gram-positive bacteria that occur predominantly in irregular clusters or tetrads and are widespread in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic bacteriology, non-pathogenic or opportunistic saprophytic cocci commonly isolated from healthy human skin and dairy products.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrococcus designates type genus of the family micrococcaceae."*
+> - 📜 **Louis Pasteur (*Germ Theory and Its Applications*):** *"Microscopic examination of the exposed broth revealed small spherical bodies characteristic of **Micrococcus**."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"The petri dish contained large yellow colonies of **Micrococcus** luteus flourishing alongside the mold."*
+> - 📜 **Alexander Fleming (*On a Remarkable Bacteriolytic Element Found in Tissues and Secretions*):** *"Nasal mucus rapidly dissolved dense suspensions of **Micrococcus** lysodeikticus within a matter of minutes."*

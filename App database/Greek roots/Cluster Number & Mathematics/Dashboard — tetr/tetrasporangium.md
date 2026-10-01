@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sporangium containing four asexual spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sporangium containing four asexual spores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sporangium that produces four haploid spores (tetraspores), especially in red algae (Rhodophyta).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology and marine cryptogamic botany, specialized reproductive structures on diploid tetrasporophytes of florideophycean red algae where meiosis takes place, forming cruciate, zonate, or tetrahedral tetraspores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrasporangium designates a sporangium containing four asexual spores."*
+> - 📜 **William Henry Harvey (*Phycologia Britannica*):** *"In the red seaweeds, each **tetrasporangium** divides meiotically into four dark crimson spores arranged in a cross."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"The mode of division in the **tetrasporangium**—whether tetrahedral, cruciate, or zonate—serves as an essential taxonomic character in Rhodophyta."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi and Algae*):** *"Meiotic division within the algal **tetrasporangium** marks the restoration of the haploid gametophytic phase in the life history."*

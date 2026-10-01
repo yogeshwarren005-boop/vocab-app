@@ -1,7 +1,7 @@
 {
   "startedAt": "2026-09-30T17:10:00+08:00",
-  "lastUpdatedAt": "2026-10-01T23:24:00+08:00",
-  "currentMilestone": "Milestone 4: Greek roots curation (27 of 30 Clusters COMPLETED: Light & Vision and Action finished 100% pristine)",
+  "lastUpdatedAt": "2026-10-01T23:29:00+08:00",
+  "currentMilestone": "Milestone 4: Greek roots curation (28 of 30 Clusters COMPLETED: Number & Mathematics finished 100% pristine)",
   "milestones": {
     "milestone_0_instructions": "completed",
     "milestone_1_mobile_ui": "completed",
@@ -68,7 +68,8 @@
     "Greek roots: Cluster Animals & Zoology",
     "Greek roots: Cluster Physics & Chemistry",
     "Greek roots: Cluster Light & Vision",
-    "Greek roots: Cluster Action"
+    "Greek roots: Cluster Action",
+    "Greek roots: Cluster Number & Mathematics"
   ],
   "stats": {
     "totalWordFiles": 47447,
@@ -77,8 +78,8 @@
     "englishVocabMasterClusters": 30,
     "englishVocabMasterWords": 514,
     "englishVocabMasterIssuesRemaining": 0,
-    "greekRootsClustersCompleted": 27,
-    "greekRootsWordsCurated": 9527,
+    "greekRootsClustersCompleted": 28,
+    "greekRootsWordsCurated": 10713,
     "greekRootsClusterPowerStrengthDominionIssues": 0,
     "greekRootsClusterScienceInquiryIssues": 0,
     "greekRootsClusterSelfIdentityIssues": 0,
@@ -105,6 +106,7 @@
     "greekRootsClusterAnimalsZoologyIssues": 0,
     "greekRootsClusterPhysicsChemistryIssues": 0,
     "greekRootsClusterLightVisionIssues": 0,
-    "greekRootsClusterActionIssues": 0
+    "greekRootsClusterActionIssues": 0,
+    "greekRootsClusterNumberMathematicsIssues": 0
   }
 }

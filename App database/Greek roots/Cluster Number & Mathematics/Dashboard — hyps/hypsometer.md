@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various instruments for determining the height of trees by triangulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various instruments for determining the height of trees by triangulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used for measuring elevations above sea level by determining the exact boiling point of water at atmospheric pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and surveying, a portable optical instrument (such as a Blume-Leiss or Suunto hypsometer) used to measure the height of standing trees or buildings through trigonometry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypsometer designates any of various instruments for determining the height of trees by triangulation."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"By boiling water at various camps upon the Andes, our **hypsometer** indicated elevations matching our barometric readings."*
+> - 📜 **John Tyndall (*The Glaciers of the Alps*):** *"I carried a delicate **hypsometer** to the summit of Mont Blanc to calibrate our atmospheric pressure measurements."*
+> - 📜 **Gifford Pinchot (*A Primer of Forestry*):** *"The forester estimates timber yields by sighting through a **hypsometer** to determine the merchantable height of the pine."*

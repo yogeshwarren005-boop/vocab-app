@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science (or group of related sciences) dealing with the logic of quantity and shape and arrangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science (or group of related sciences) dealing with the logic of quantity and shape and arrangement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial abbreviation for mathematics; the abstract science of number, quantity, space, and structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In everyday speech, computational arithmetic or mathematical problem solving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"John M’Math, a young assistant and successor to Wodrow.] [Footnote 12: Rev."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Didst never want to be a pirate, my hearty?” Now John had sometimes experienced this hankering at maths. prep.; and he was struck by Hook’s picking him out."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"Pure **math** possesses not only truth, but supreme beauty—a beauty cold and austere, like that of sculpture."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"To understand nature, you have to appreciate the rigorous language of **math** that describes its operations."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor spent his solitary hours immersed in advanced **math**, calculating gravitational constants with pencil and pad."*

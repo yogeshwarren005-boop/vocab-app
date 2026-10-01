@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of fall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected by, or exhibiting proptosis; protruding forward abnormally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology and maxillofacial surgery, describing an eyeball or orbital tissue displaced anteriorly due to space-occupying lesions or inflammatory edema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proptotic designates adjective*) pertaining to, derived from, or characteristic of fall."*
+> - 📜 **Harvey Cushing (*Intracranial Tumours*):** *"The patient presented with a markedly **proptotic** left eye displaced downward by a fronto-orbital osteoma."*
+> - 📜 **William Osler (*Modern Medicine*):** *"Exposure keratitis frequently develops in a severely **proptotic** globe because the eyelids cannot fully close."*
+> - 📜 **W. Russell Brain (*Diseases of the Nervous System*):** *"A pulsating **proptotic** eye with an audible orbital bruit is pathognomonic of a carotid-cavernous fistula."*

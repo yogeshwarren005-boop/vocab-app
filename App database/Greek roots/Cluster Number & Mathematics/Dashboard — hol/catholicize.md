@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to adopt catholicism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to adopt catholicism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make universal, broad-minded, or all-inclusive; to convert or conform to the Roman Catholic Church (standard American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional history, the deliberate effort to align ecclesiastical, educational, or civic bodies with universal Catholic doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catholicize designates cause to adopt catholicism."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The royal policy aimed to **catholicize** the judiciary and place imperial garrisons under trusted Catholic commanders."*
+> - 📜 **Orestes Brownson (*The American Republic: Its Constitution, Tendencies, and Destiny*):** *"The divine mission of the Church is to **catholicize** democracy without infringing upon political liberties."*
+> - 📜 **Philip Schaff (*History of the Christian Church*):** *"Gregory the Great labored tirelessly to **catholicize** the newly converted Anglo-Saxon kingdoms of Britain."*

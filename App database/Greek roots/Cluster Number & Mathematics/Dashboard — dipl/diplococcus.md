@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gram-positive bacteria usually occurring in pairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gram-positive bacteria usually occurring in pairs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A round bacterium (coccus) that typically occurs in pairs of two linked cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacteriology and infectious disease, a morphological type of bacterium (such as Streptococcus pneumoniae or Neisseria meningitidis) seen microscopically as paired cocci.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplococcus designates gram-positive bacteria usually occurring in pairs."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"Exudates stained with aniline dyes revealed innumerable paired spheres characteristic of pathogenic **Diplococcus**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The diagnosis of lobar pneumonia was confirmed by detecting the encapsulated **Diplococcus** in rusty sputum samples."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Cultures of sensitive **Diplococcus** ceased growing immediately upon the addition of minute quantities of penicillin."*

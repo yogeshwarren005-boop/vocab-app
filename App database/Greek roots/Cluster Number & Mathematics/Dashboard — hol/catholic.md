@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman catholic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or forming the church universal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Universal, broad, comprehensive, or all-embracing in sympathies, interests, or tastes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the historic Christian Church universal, or specifically belonging to the Roman Catholic Church.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"What interested him in Christian truth, and what he had, ever since he had been a student, set himself specially to expound and defend, were the great catholic doctrines which are the heritage of the one Church of Christ."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He spoke to everybody he met, in the train, in the steamboat, or in hotels, in fluent if rather "bookish" German, in correct but somewhat halting French, or, if it was a Roman Catholic priest he had to deal with, in sonorous Latin."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"WONDERFUL CONVERSION OF A ROMAN CATHOLIC."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A truly philosophical mind maintains a **catholic** openness to every branch of human inquiry."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The council of Nicaea formulated a creed intended to unite the entire **catholic** body of the Christian empire."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"Liberal education fosters a **catholic** breadth of intellect capable of surveying the whole circle of knowledge."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make symmetric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make symmetric.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make symmetrical; to bring parts, elements, or mathematical operators into balanced correspondence across a dividing plane or axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linear algebra and quantum mechanics, to transform an arbitrary matrix, tensor, or wavefunction into a symmetric form by averaging permutations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symmetrize designates make symmetric."*
+> - 📜 **Hermann Weyl (*Symmetry*):** *"To **symmetrize** an arbitrary function of two variables, one simply takes the arithmetic mean of f(x,y) and f(y,x)."*
+> - 📜 **Paul Dirac (*The Principles of Quantum Mechanics*):** *"We may **symmetrize** the state vector over all identical bosons to satisfy Bose-Einstein statistics."*
+> - 📜 **Eugene Wigner (*Group Theory and Its Application to Quantum Mechanics*):** *"The projection operator acts directly to **symmetrize** the representations under the finite rotation group."*

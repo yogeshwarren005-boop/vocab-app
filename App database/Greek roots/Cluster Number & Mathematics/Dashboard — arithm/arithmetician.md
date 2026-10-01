@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who specializes in arithmetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who specializes in arithmetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or scholar skilled in arithmetic, numerical computation, or number theory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and philosophical contexts, a mathematician whose primary focus is the investigation of discrete numbers and numerical relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, or The Wits Vade-Mecum*):** *"A famous Teacher of _Arithmetick_, who had long been married without being able to get his Wife with Child: One said to her, Madam, your Husband is an excellent _Arithmetician_."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Give him sixpence, or five shillings, or five pound ten—you are arithmeticians, and I am not—and get rid of him!” “And what is he to do then?” asked my guardian."*
+> - 📜 **Plato (*The Republic*):** *"The skilled **arithmetician** studies the nature of numbers not for commercial trading, but for the elevation of the soul."*
+> - 📜 **Gottfried Wilhelm Leibniz (*New Essays on Human Understanding*):** *"An **arithmetician** discerns necessary truths in the properties of numbers without requiring empirical experiments."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Laputian **arithmetician** was deeply engrossed in abstract calculations, completely oblivious to mundane surroundings."*

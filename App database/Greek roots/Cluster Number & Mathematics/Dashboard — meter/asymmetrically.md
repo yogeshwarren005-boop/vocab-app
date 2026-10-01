@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an asymmetrical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an asymmetrical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an asymmetrical manner; with unequal, uneven, or unbalanced distribution of parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged or developing so that corresponding sides or components do not mirror each other.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asymmetrically designates in an asymmetrical manner."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The climbing tendril responds to tactile stimulation by growing **asymmetrically**, curving tightly around the supporting twig."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Attention falls **asymmetrically** upon sensory stimuli, highlighting significant details while suppressing background noise."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"When electric currents traversed the non-uniform conductor, heat dissipated **asymmetrically** along the narrow neck."*

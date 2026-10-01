@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a long narrow nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a long narrow nose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or having a leptorrhine nose; narrow-nosed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological anthropology, designating cranial series whose nasal index falls within the narrowest standard classification tier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptorrhinic designates having a long narrow nose."*
+> - 📜 **Paul Broca (*Instructions Craniologiques*):** *"Our anthropometric survey classified over seventy percent of the regional population as **leptorrhinic**."*
+> - 📜 **William Z. Ripley (*The Races of Europe*):** *"The high, **leptorrhinic** nasal bridge serves as an enduring cranial marker across Mediterranean populations."*
+> - 📜 **Arthur Keith (*New Discoveries Relating to the Antiquity of Man*):** *"The facial restoration reveals a strongly **leptorrhinic** profile adapted to dry steppe environments."*

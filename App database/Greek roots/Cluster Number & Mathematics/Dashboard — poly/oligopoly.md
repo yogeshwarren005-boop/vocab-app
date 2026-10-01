@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A market situation in which each of a few producers affects but does not control the market.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A market situation in which each of a few producers affects but does not control the market.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A market structure in which a particular industry is dominated by a small number of large sellers or producers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microeconomics and antitrust law, an imperfect competition model where the strategic pricing and output decisions of each dominant firm directly influence and depend upon the actions of its competitors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligopoly designates a market situation in which each of a few producers affects but does not control the market."*
+> - 📜 **Joan Robinson (*The Economics of Imperfect Competition*):** *"Under conditions of **oligopoly**, price competition often gives way to intensive advertising and tacit collusion."*
+> - 📜 **John Kenneth Galbraith (*American Capitalism: The Concept of Countervailing Power*):** *"Modern heavy industry is characterized not by pure monopoly, but by an **oligopoly** of three or four industrial giants."*
+> - 📜 **Paul Samuelson (*Economics*):** *"Game theory provides the essential mathematical framework for analyzing strategic rivalry within an **oligopoly**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hermaphroditic terrestrial and aquatic annelids having bristles borne singly along the length of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hermaphroditic terrestrial and aquatic annelids having bristles borne singly along the length of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An annelid worm of the subclass Oligochaeta, such as an earthworm or freshwater tubifex worm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater and benthic ecology, segmented worms possessing simple chaetae that serve as indicators of water quality and sediment health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligochaete designates hermaphroditic terrestrial and aquatic annelids having bristles borne singly along the length of the body."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Every common **oligochaete** in our garden lawns swallows earth to extract microscopic organic nourishment."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Poisonous runoff settling into lake mud accumulated within each aquatic **oligochaete**, entering the food chain of diving ducks."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"The spring thaw softens the topsoil, coaxing the dormant **oligochaete** upward into the waiting beaks of robins."*

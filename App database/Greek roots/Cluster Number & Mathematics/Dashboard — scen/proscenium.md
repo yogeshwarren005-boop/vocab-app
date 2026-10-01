@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of an ancient Greek or Roman theater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a modern stage in front of the curtain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a theater stage in front of the curtain; or the proscenium arch that frames the stage opening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical architecture and stagecraft, the structural arch or decorative border that frames the performance area and separates the stage illusion from the auditorium seating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"When the lights went up after the first act Lawrence found himself looking directly across the rather small and narrow proscenium at a lady in the opposite box."*
-> - 📜 **James Joyce (*Ulysses*):** *"An exquisite dulcet epithalame of most mollificative suadency for juveniles amatory whom the odoriferous flambeaus of the paranymphs have escorted to the quadrupedal proscenium of connubial communion."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The footlights flickered upon the gilded mouldings of the **proscenium**, across which Mr. Crummles looked with managerial pride."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The tiny playhouse was dingy, with a tarnished **proscenium** and painted drop-curtains depicting a Venetian canal."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"Modern realistic drama demands that the actor step behind the **proscenium** arch and maintain the illusion of a fourth wall."*

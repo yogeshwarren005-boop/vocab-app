@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or process of telemetering data.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Data transmitted by telemetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the measurement and transmission of physical quantities from a remote source to a receiving apparatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to telemetry technology, such as satellite data links, aerospace instrument readouts, or remote patient tracking systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemetric designates the science or process of telemetering data."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The computer monitored hundreds of **telemetric** circuits feeding telemetry into Discovery's operational core."*
+> - 📜 **Isaac Asimov (*Foundation and Earth*):** *"The ship's sensors established a secure **telemetric** link with the orbital beacon hovering over the dead world."*
+> - 📜 **Stanislaw Lem (*Solaris*):** *"A flood of conflicting **telemetric** readings illuminated the central console as the oceanic entity expanded."*

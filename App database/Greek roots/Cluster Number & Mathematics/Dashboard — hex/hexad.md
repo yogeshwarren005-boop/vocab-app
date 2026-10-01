@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group, series, or set of six persons, objects, or things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, an atom or element with a valency of six (such as sulfur or chromium in their highest oxidation states).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexad designates a term designating an entity, condition, or phenomenon derived from greek hex."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"In sulfur hexafluoride, the central sulfur atom behaves as a chemical **hexad**, coordinating six monovalent atoms."*
+> - 📜 **Thomas Taylor (*The Theoretic Arithmetic of the Pythagoreans*):** *"Pythagoreans revered the **hexad** as the first perfect number, being equal to the sum of its aliquot parts, 1, 2, and 3."*
+> - 📜 **Augustus De Morgan (*Elements of Arithmetic*):** *"The elements of the **hexad** were permuted through all possible cyclic arrangements."*

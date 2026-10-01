@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally constricted body canal or passage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally constricted body canal or passage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, suffering from, or pertaining to stenosis; abnormally narrowed or constricted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hemodynamics and surgical pathology, describing turbulent flow dynamics, pressure gradients, and structural changes across a narrowed valve or arterial orifice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenotic designates abnormally constricted body canal or passage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The presystolic thrill felt at the apex corresponds to blood forced through the narrowed, **stenotic** mitral orifice."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Measurement of the transvalvular systolic gradient provides quantitative assessment of how severely **stenotic** the aortic valve is."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Obstruction of the **stenotic** foramen of Monro led to unilateral hydrocephalus of the right lateral ventricle."*

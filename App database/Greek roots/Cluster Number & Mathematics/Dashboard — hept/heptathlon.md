@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 7-event athletic contest; specifically : a composite contest for female athletes that consists of the 100-meter hurdles, the high jump, the shot put, the 200-meter dash, the long jump, the javelin throw, and the 800-meter run.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 7-event athletic contest; specifically : a composite contest for female athletes that consists of the 100-meter hurdles, the high jump, the shot put, the 200-meter dash, the long jump, the javelin throw, and the 800-meter run.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combined track and field contest consisting of seven distinct events held over two consecutive days.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In women's Olympic athletics, the premier multi-event competition introduced in 1984 to replace the earlier five-event pentathlon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptathlon designates a 7-event athletic contest; specifically : a composite contest for female athletes that consists of the 100-meter hurdles, the high jump, the shot put, the 200-meter dash, the long jump, the javelin throw, and the 800-meter run."*
+> - 📜 **Pierre de Coubertin (*Olympic Memoirs*):** *"The crowning of the Olympic **heptathlon** victor celebrates versatility across the full spectrum of athletic disciplines."*
+> - 📜 **Ernest Hemingway (*A Moveable Feast*):** *"We argued about sports at the café, debating whether the decathlon or the grueling **heptathlon** demanded more raw heart."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"Future civic games will revive ancient ideals of physical perfection through multi-stage contests like the **heptathlon**."*

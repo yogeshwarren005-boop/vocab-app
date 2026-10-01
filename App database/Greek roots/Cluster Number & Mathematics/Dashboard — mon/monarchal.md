@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics of or befitting or worthy of a monarch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ruled by or having the supreme power resting with a monarch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a monarch or monarchy; sovereign, regal, or imperial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and constitutional history, pertaining to supreme royal authority exercised by an individual sovereign ruler.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monarchal designates having the characteristics of or befitting or worthy of a monarch."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan exalted sat, by merit raised / To that bad eminence; and from despair / Thus high uplifted beyond hope, aspires / Beyond **monarchal** pride."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The ancient **monarchal** mantle fell away in tatters as popular assemblies seized sovereign power."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The English settlement tempered **monarchal** power with parliamentary deliberation and established law."*

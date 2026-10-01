@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 grams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 grams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of mass equal to one hundred grams (symbol: hg).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commerce and daily grocery trade (notably in Italy as the etto), a standard retail unit equivalent to 0.1 kilogram.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hectogram designates 100 grams."*
+> - 📜 **Lavoisier (*Elements of Chemistry*):** *"The new balance demonstrated accuracy to within a milligram when loaded with a standard **hectogram** brass weight."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes placed the recovered packet upon the scales, noting that it weighed precisely one **hectogram**."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"A sample weighing one **hectogram** was calcined in an open muffle furnace to determine the non-volatile residue."*

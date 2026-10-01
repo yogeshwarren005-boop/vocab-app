@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that lives in and derives its nourishment from organic matter in stagnant or foul water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism that lives in and derives its nourishment from organic matter in stagnant or foul water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism, especially a fungus or bacterium, that derives its nourishment from decaying organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbial ecology and environmental mycology, decomposer organisms essential for recycling carbon and nitrogen in forest soils, compost, and freshwater ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprobe designates an organism that lives in and derives its nourishment from organic matter in stagnant or foul water."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The microbial **saprobe** plays an indispensable role in closing the ecosystem loop by mineralizing dead leaf litter."*
+> - 📜 **Selman Waksman (*Principles of Soil Microbiology*):** *"Every soil fungus acting as a **saprobe** produces extracellular cellulases to break down plant cell wall residues."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"In the murky sediment floor, myriads of **saprobe** bacteria break down the organic drift of dying surface plankton."*

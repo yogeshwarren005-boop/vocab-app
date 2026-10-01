@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of macrocytes in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of macrocytes in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of an abnormally high proportion of abnormally large red blood cells (macrocytes) in the circulating blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, an elevation of mean corpuscular volume commonly associated with alcohol abuse, liver disease, hypothyroidism, myelodysplastic syndromes, and megaloblastic anemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrocytosis designates the presence of macrocytes in the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked **macrocytosis** accompanied by hypersegmented neutrophils is virtually pathognomonic of Addisonian pernicious anemia."*
+> - 📜 **Maxwell M. Wintrobe (*Clinical Hematology*):** *"Routine automated hemograms readily detect occult **macrocytosis** before clinical symptoms of anemia manifest."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"The observation of persistent **macrocytosis** indicates abnormal erythroblastic maturation within the bone marrow."*

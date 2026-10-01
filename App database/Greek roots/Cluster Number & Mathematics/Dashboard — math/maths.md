@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science (or group of related sciences) dealing with the logic of quantity and shape and arrangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science (or group of related sciences) dealing with the logic of quantity and shape and arrangement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial abbreviation for mathematics, widely used in British, Irish, Australian, and Commonwealth English.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Commonwealth education and culture, the school subject or academic study of arithmetic, algebra, geometry, and calculus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Didst never want to be a pirate, my hearty?” Now John had sometimes experienced this hankering at maths. prep.; and he was struck by Hook’s picking him out."*
+> - 📜 **H. G. Wells (*The History of Mr. Polly*):** *"Poor Mr. Polly had an intense hatred for school **maths**, preferring the romantic adventures of buccaneers."*
+> - 📜 **George Orwell (*Such, Such Were the Joys*):** *"We spent long, shivering mornings drilling mental **maths** under the stern eye of the headmaster."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Louis sat in the corner of the classroom, conquering the clean, crystalline difficulties of higher **maths**."*

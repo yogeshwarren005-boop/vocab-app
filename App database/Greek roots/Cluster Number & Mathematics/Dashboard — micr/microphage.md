@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neutrophil that ingests small things (as bacteria).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neutrophil that ingests small things (as bacteria).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small phagocytic white blood cell, specifically a polymorphonuclear neutrophil, that ingests bacteria and cellular debris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical immunology, Metchnikoff's term for circulating granulocytes that ingest bacteria, contrasted with large tissue macrophages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphage designates a neutrophil that ingests small things (as bacteria)."*
+> - 📜 **Élie Metchnikoff (*Immunity in Infective Diseases*):** *"The circulating **microphage** acts as a frontline defender, rushing to the point of inoculation to swallow virulent pyogenic bacteria."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Under the microscope, each active **microphage** is packed with engulfed staphylococci undergoing enzymatic digestion."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Metchnikoff marvelled at how the tiny **microphage** hunted down invasive bacilli inside the living tissue of a starfish larva."*

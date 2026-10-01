@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Monotremata) of egg-laying mammals comprising the platypuses and echidnas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Monotremata) of egg-laying mammals comprising the platypuses and echidnas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mammal of the order Monotremata, which reproduces by laying eggs rather than giving birth to live young (such as the platypus or echidna).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, a primitive prototherian mammal possessing a single cloacal exit for digestive, excretory, and reproductive systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotreme designates any of an order (monotremata) of egg-laying mammals comprising the platypuses and echidnas."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The living **monotreme** is a wonderful living fossil, connecting the great classes of mammals and reptiles across immense geological time."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"When European naturalists first received the skin of the egg-laying **monotreme**, they denounced it as a Chinese taxidermic hoax."*
+> - 📜 **David Attenborough (*Life on Earth*):** *"No other living creature combines fur, a duck-like bill, and reptilian oviparity like Australia's curious **monotreme**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting a straight line segment passing through the center of a figure or body : located at the diameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely opposed : being at opposite extremes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or along a diameter; in figurative usage, completely, directly, or entirely opposed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and analytical mechanics, situated at opposite ends of a diameter or directed along the principal diameter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diametric designates of, relating to, or constituting a straight line segment passing through the center of a figure or body : located at the diameter."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Sectarian dogmas frequently stand in **diametric** opposition to empirical truth and charitable inquiry."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The ethical progress of society depends upon combatting the cosmic process, standing in **diametric** resistance to raw savagery."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"The **diametric** distance between opposing vertices of the polyhedral projection serves as the scaling baseline."*

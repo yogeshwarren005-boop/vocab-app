@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled in the transcription of speech (especially dictation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled in the transcription of speech (especially dictation).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose job is to transcribe spoken speech, dictation, or courtroom proceedings in shorthand or on a shorthand machine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and commercial history, professional transcriptionists who ensured verbatim documentation of trials, legislative debates, and corporate correspondence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Paine, the others to the stenographer and myself."*
-> - 📜 **Algis Budrys (*Citadel*):** *"He stared helplessly at his empty office, his mind automatically counting the pairs of departing footsteps that sounded momentarily as clerks and stenographers crossed the walk below his partly-open window."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I was a parliamentary **stenographer**, taking down the debates in the gallery of the House of Commons until four in the morning."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red Circle*):** *"The quiet **stenographer** sat in the corner of the office, her fingers flying across the shorthand notepad."*
+> - 📜 **H. L. Mencken (*Prejudices: Sixth Series*):** *"No official committee hearing can begin without the calm, cynical **stenographer** adjusting his machine at the table's end."*

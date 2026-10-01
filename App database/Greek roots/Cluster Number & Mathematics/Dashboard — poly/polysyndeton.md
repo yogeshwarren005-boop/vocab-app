@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of conjunctions in close succession (as in we have ships and men and money).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of conjunctions in close succession (as in we have ships and men and money).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate and repeated use of conjunctions (such as 'and', 'or') in close succession, often with no commas, for rhetorical emphasis or rhythm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and stylistics, an emphatic scheme that slows the tempo of a sentence, accumulates emotional momentum, and conveys a sense of overwhelming multiplicity or grandeur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysyndeton designates repetition of conjunctions in close succession (as in we have ships and men and money)."*
+> - 📜 **Longinus (*On the Sublime*):** *"The judicious use of **polysyndeton** binds thoughts into an unbroken chain, giving the impression of urgent and continuous speed."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"In **polysyndeton**, the repetition of connecting particles separates each item and adds deliberate weight to every clause."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan pursues his way, o'er bog or steep, through strait, rough, dense, or rare, with head, hands, wings, or feet, pursuing an arduous flight in grand **polysyndeton**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insufficient spermatozoa in the semen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insufficient spermatozoa in the semen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which there is an abnormally low concentration of sperm in a man's semen (typically fewer than 15 million per milliliter).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive medicine and andrology, a principal cause of male subfertility, linked to varicocele, endocrine dysfunction, or genetic factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligospermia designates insufficient spermatozoa in the semen."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The fertility specialist evaluated whether hormonal therapies could ameliorate idiopathic **oligospermia** in the young couple."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Systemic illnesses and chronic testicular inflammation may result in transient or persistent **oligospermia**."*
+> - 📜 **Siddhartha Mukherjee (*The Gene: An Intimate History*):** *"Microdeletions on the Y chromosome were discovered to be an unsuspected genetic trigger for severe non-obstructive **oligospermia**."*

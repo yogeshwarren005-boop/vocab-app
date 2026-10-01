@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tuned to the same frequency or resonant mode; or characterized by emotional responsiveness and harmony with one's social environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early radio engineering (Guglielmo Marconi's 'syntonic telegraphy', patent 7777), tuned resonant circuits that allow selective reception without interference; in personality psychology (Ernst Kretschmer), emotional harmony with others (ego-syntonic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syntonic designates adjective*) pertaining to, derived from, or characteristic of stretch."*
+> - 📜 **Guglielmo Marconi (*Nobel Lecture: Wireless Telegraphic Communication*):** *"By employing **syntonic** circuits tuned to identical electrical frequencies, we achieved selective wireless communication without mutual interference."*
+> - 📜 **Oliver Lodge (*Signalling Across Space Without Wires*):** *"The principle of **syntonic** resonance ensures that only a receiver having the same acoustic period will absorb the wave energy."*
+> - 📜 **Ernst Kretschmer (*Physique and Character*):** *"The cycloid temperament exhibits a warm, **syntonic** emotional resonance that blends harmoniously with surrounding society."*

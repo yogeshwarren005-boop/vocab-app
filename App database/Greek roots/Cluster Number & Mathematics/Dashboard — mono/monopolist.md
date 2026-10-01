@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who monopolizes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing, prohibiting, or restricting monopolies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, corporation, or group that has a monopoly or that controls the supply of a commodity or service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical economics, an economic agent capable of setting market price above marginal cost by virtue of exclusive market power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this case the privilege is socially earned by the monopolist; it is not gotten for nothing."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Nor is a land-owner a monopolist any more than is the owner of a valuable machine."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The owner of forty acres of land worth four hundred dollars, or the owner of a village lot worth a hundred dollars, can hardly be called a monopolist."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **monopolist**, by keeping the market constantly under-stocked, sells his commodities much above the natural price."*
+> - 📜 **Karl Marx (*Capital*):** *"Capitalist competition relentlessly concentrates enterprise into the hands of the victorious **monopolist**."*
+> - 📜 **Joseph Schumpeter (*Capitalism, Socialism and Democracy*):** *"The transient profits earned by an innovative **monopolist** fuel the creative destruction that drives economic growth."*

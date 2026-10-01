@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer of screenplays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer of screenplays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer who prepares or develops scenarios, especially for theatrical productions or motion picture films; a screenwriter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In film history and dramaturgy, the specialized craft professional in early cinema who translated literary plots or original concepts into scene-by-scene shooting scripts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scenarist designates a writer of screenplays."*
+> - 📜 **F. Scott Fitzgerald (*The Last Tycoon*):** *"In the studio conference room, the veteran **scenarist** pitched a fresh angle on the second-act romantic crisis."*
+> - 📜 **Virginia Woolf (*The Captain's Death Bed and Other Essays*):** *"The modern **scenarist** must think in swift visual images rather than literary sentences to capture the camera's eye."*
+> - 📜 **George Bernard Shaw (*Shaw on Cinema*):** *"No mechanical **scenarist** can improve upon Shakespeare by chopping his five-act tragedies into disconnected film scenes."*

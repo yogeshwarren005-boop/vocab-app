@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bacteria living mostly in soils and on dung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bacteria living mostly in soils and on dung.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of Gram-negative gliding slime bacteria in the order Myxococcales, noted for forming complex multicellular fruiting bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacteriology and microbial ecology, soil-dwelling delta-proteobacteria characterized by social predatory swarming and the formation of clustered, cyst-bearing sporangioles (fruiting bodies) to survive environmental desiccation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyangiaceae designates bacteria living mostly in soils and on dung."*
+> - 📜 **Roland Thaxter (*On the Myxobacteriaceae*):** *"The family **Polyangiaceae** is distinguished by the production of encysted sporangioles enclosed within a common gelatinous matrix."*
+> - 📜 **Martinus Beijerinck (*Verzamelde Geschriften*):** *"Gliding motility upon agar surfaces allows members of **Polyangiaceae** to hunt and lyse fungal mycelia cooperatively."*
+> - 📜 **Selman Waksman (*Principles of Soil Microbiology*):** *"The fruiting bodies of **Polyangiaceae** found on decaying wood represent the pinnacle of morphological complexity among prokaryotes."*

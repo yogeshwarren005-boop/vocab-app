@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being : existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being : existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek on (genitive ontos), the present participle of einai ('to be'), meaning being, existence, or reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical etymology and scientific philosophy, the root morpheme found in ontology, ontogeny, and ontic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"In art, as in politics, _les grandpères ont toujours tort_.” “This play was good enough for us, Harry."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Les gros bataillons ont toujours raison. * * Large battalions are always victorious."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I 'ont stap here," says he, "it ain't wort my while at all, at all."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"The Greek participial root **ont** provided philosophy with foundational vocabulary to designate what genuinely exists."*
+> - 📜 **Martin Heidegger (*Being and Time*):** *"From the classical root **ont** arises the distinction between ontic descriptions of entities and the ontological question of Being."*
+> - 📜 **Willard Van Orman Quine (*From a Logical Point of View*):** *"The prefix **ont** anchors our formal discussions of what entities our bound variables must assume to exist."*

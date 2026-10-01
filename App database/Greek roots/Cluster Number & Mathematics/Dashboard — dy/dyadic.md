@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematical expression formed by addition or subtraction of dyads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pair; specifically, sociology : two individuals (such as husband and wife) maintaining a sociologically significant relationship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or consisting of a dyad; based on the number two; binary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and logic, relating to operations or relations with two arguments (such as dyadic arithmetic / binary notation, or dyadic tensors in vector analysis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyadic designates a mathematical expression formed by addition or subtraction of dyads."*
+> - 📜 **Gottfried Wilhelm Leibniz (*Explication de l'Arithmétique Binaire*):** *"I developed the **dyadic** system of arithmetic, using only 0 and 1, as an image of creation out of nothing by the One."*
+> - 📜 **Josiah Willard Gibbs (*Vector Analysis*):** *"The sum of several dyads constitutes a **dyadic** polynomial, representing the most general linear vector function."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Phenomenological Secondness embodies raw resistance, action-reaction, and every purely **dyadic** relationship."*

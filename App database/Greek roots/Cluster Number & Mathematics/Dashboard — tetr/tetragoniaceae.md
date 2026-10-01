@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Succulent herbs or small shrubs mostly of south africa but also new zealand and north america: carpetweeds; fig marigolds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Succulent herbs or small shrubs mostly of south africa but also new zealand and north america: carpetweeds; fig marigolds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former family of dicotyledonous flowering plants, now generally treated as a subfamily (Tetragonioideae) of the family Aizoaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical angiosperm taxonomy, succulent herbs and subshrubs with alternate fleshy leaves and four-angled fruits, typified by the genus Tetragonia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragoniaceae designates succulent herbs or small shrubs mostly of south africa but also new zealand and north america: carpetweeds; fig marigolds."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The group **Tetragoniaceae** was distinguished by its perigynous stamens and multi-locular indehiscent nut-like fruit."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In his natural classification, Lindley placed **Tetragoniaceae** among the Ficoid alliances on account of their succulent foliage."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"Modern phylogenetic treatments subsume the family **Tetragoniaceae** within the broader circumscription of Aizoaceae."*

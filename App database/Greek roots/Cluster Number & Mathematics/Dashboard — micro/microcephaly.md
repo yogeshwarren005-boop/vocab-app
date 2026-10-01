@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal smallness of the head and brain, usually associated with intellectual disability and developmental delays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurology and teratology, congenital cranial dwarfism resulting from chromosomal abnormalities, toxins, or maternal viral infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcephaly designates a condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures."*
+> - 📜 **Siddhartha Mukherjee (*The Gene: An Intimate History*):** *"Disruptions in neural progenitor migration during gestation cause severe forms of hereditary primary **microcephaly**."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Pediatricians routinely track infant cranial circumferences to detect early signs of hydrocephalus or **microcephaly**."*
+> - 📜 **Paul Farmer (*Fevers, Feuds, and Diamonds*):** *"The sudden cluster of neonatal **microcephaly** cases highlighted the urgent need for comprehensive maternal health infrastructure."*

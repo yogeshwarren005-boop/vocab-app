@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the family myricaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the family myricaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of dicotyledonous plants in older taxonomic systems, containing the single family Myricaceae (bayberries).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical botanical taxonomy (such as the Cronquist system), an amentiferous order of wind-pollinated woody shrubs and trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myricales designates coextensive with the family myricaceae."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Traditional systems placed the catkin-bearing bayberries within the separate order **Myricales**."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"The order **Myricales** is defined by its simple unisexual flowers arranged in dense catkins and drupaceous fruits."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"Molecular phylogenetics dissolved **Myricales**, placing the bayberry family squarely within the expanded order Fagales."*

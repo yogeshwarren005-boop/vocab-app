@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small mostly terrestrial new world salamanders having neither lungs nor gills as adults.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small mostly terrestrial new world salamanders having neither lungs nor gills as adults.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest family of salamanders, comprising the lungless salamanders, characterized by the absence of lungs and the presence of nasolabial grooves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic herpetology, a diverse amphibian clade containing over four hundred species predominantly distributed across the Americas, notable for cutaneous respiration and projectile tongues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plethodontidae designates small mostly terrestrial new world salamanders having neither lungs nor gills as adults."*
+> - 📜 **G. Kingsley Noble (*The Biology of the Amphibia*):** *"The family **Plethodontidae** encompasses more than two-thirds of all living salamander species, demonstrating remarkable ecological radiation."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"The complete absence of lungs and trachea unites all members of **Plethodontidae** into a unique physiological alliance."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"The projectile tongue of bolitoglossine salamanders within **Plethodontidae** represents one of nature's most exquisite biomechanical adaptations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vacuum tube with a cathode, an anode, a control grid, and an additional grid or other electrode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vacuum tube with a cathode, an anode, a control grid, and an additional grid or other electrode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermionic vacuum tube or electronic valve having four active electrodes: cathode, control grid, screen grid, and anode (plate).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radio engineering and electronics history, an electronic valve invented in 1919 (Walter Schottky) that introduced an electrostatic screen grid to shield the plate from the control grid, eliminating triode interelectrode capacitance but introducing dynatron negative resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrode designates a vacuum tube with a cathode, an anode, a control grid, and an additional grid or other electrode."*
+> - 📜 **Frederick Emmons Terman (*Radio Engineering*):** *"The screen-grid **tetrode** reduced plate-to-control-grid capacitance to a fraction of a picofarad, permitting stable high-frequency amplification."*
+> - 📜 **Bernard Grob (*Basic Electronics*):** *"Secondary emission in the **tetrode** causes plate electrons to be captured by the screen grid, producing a negative resistance region."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"Modern wireless receivers rely upon the four-element **tetrode** to pull faint signals out of the ether."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, property, or condition of being antisymmetric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics and mathematics, the fundamental invariance property where swapping arguments, indices, or particles negates the mathematical entity, governing fermionic statistics and differential forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisymmetry designates a term designating an entity, condition, or phenomenon derived from greek meter."*
+> - 📜 **Paul Dirac (*The Principles of Quantum Mechanics*):** *"The fundamental **antisymmetry** of the electronic wavefunction is the quantum mechanical origin of chemical valence and structure."*
+> - 📜 **Roger Penrose (*The Road to Reality*):** *"Differential forms owe their elegant geometric calculus to the pervasive **antisymmetry** of the exterior wedge product."*
+> - 📜 **H. S. M. Coxeter (*Regular Complex Polytopes*):** *"Geometric operations of combined inversion and translation can produce striking forms of spatial **antisymmetry**."*

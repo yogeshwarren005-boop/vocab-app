@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on decaying matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on decaying matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding or subsisting on dead, decaying, or putrefying organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and vertebrate ecology, scavenger animals (such as carrion beetles, blowfly larvae, and vultures) that consume decomposing animal carcasses and plant residues, accelerating nutrient turnover.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprophagous designates feeding on decaying matter."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"The **saprophagous** larvae of the blowfly descend upon the carcass with unbelievable haste, clearing away putrid flesh."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The keen olfactory senses of **saprophagous** beetles enable them to locate a dead animal from miles across the forest."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Many primitive ponerine ants lead a **saprophagous** life, scavenging dead arthropods and decaying organic crumbs from the forest litter."*

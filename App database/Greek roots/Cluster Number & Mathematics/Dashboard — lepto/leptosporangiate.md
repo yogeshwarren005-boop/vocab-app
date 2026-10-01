@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of ferns) having each sporangium formed from a single epidermal cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ferns) having each sporangium formed from a single epidermal cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or designating ferns (subclass Polypodiidae / Leptosporangiatae) whose sporangia develop from a single superficial epidermal cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology and botanical systematics, the largest group of living ferns, characterized by thin-walled sporangia with an annulus that explosively catapults spores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptosporangiate designates (of ferns) having each sporangium formed from a single epidermal cell."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales): Analytical Examination of the Criteria of Comparison*):** *"The evolutionary triumph of the modern **leptosporangiate** ferns rests upon their specialized spore-dispersing annulus."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Nearly all our familiar woodland ferns are **leptosporangiate**, bearing stalks crowned by minute, spring-loaded sporangia."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In the **leptosporangiate** division, the sporangium wall is composed of a single layer of delicate cells."*

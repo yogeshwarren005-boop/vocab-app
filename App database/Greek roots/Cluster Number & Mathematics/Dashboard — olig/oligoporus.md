@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family polyporaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family polyporaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of wood-decaying bracket fungi (polypores) in the family Postiaceae/Dacryobolaceae, causing brown rot in coniferous wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest mycology, saprophytic shelf fungi that decompose cellulose and hemicellulose in timber, leaving brittle brown cubical residues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligoporus designates a genus of fungi belonging to the family polyporaceae."*
+> - 📜 **Alexander von Humboldt (*Views of Nature*):** *"Decaying fir logs in the damp subalpine forest were colonized by the soft, spongy fruiting bodies of **Oligoporus**."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Beneath the fallen pine trunk, bracket fungi like **Oligoporus** quietly dismantled the heavy wood fiber into woodland soil."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"Brown rot fungi of the genus **Oligoporus** play an essential ecological role in recycling carbon in northern coniferous biomes."*

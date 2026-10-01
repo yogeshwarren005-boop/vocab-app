@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: ten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ten.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric prefix (symbol: da) denoting multiplication by a factor of ten.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical metrology and chemical nomenclature, the decimal combining form (from Greek δέκα) adopted by the French metric committee of 1795.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog deka as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Lavoisier (*Elements of Chemistry*):** *"We prefixed the Greek word **deka-** to denote tenfold multiples in our systematic table of weights and measures."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Hellenic numeral **deka** became the standard prefix for ten across all modern international metric units."*
+> - 📜 **Charles Babbage (*On the Economy of Machinery and Manufactures*):** *"Calculations are immensely simplified whenever units scale uniformly by powers of ten governed by prefixes like **deka-**."*

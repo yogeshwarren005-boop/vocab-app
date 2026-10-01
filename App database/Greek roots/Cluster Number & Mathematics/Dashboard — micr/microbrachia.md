@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally small arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally small arms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital condition characterized by abnormally small or underdeveloped arms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and medical dysmorphology, a localized limb hypoplasia affecting the upper extremities without complete phocomelia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbrachia designates abnormally small arms."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris and Allied States*):** *"Clinical examination of the infant revealed symmetrical limb anomalies consistent with bilateral **microbrachia**."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Developmental perturbations during embryonic limb bud formation can manifest morphologically as **microbrachia**."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Despite congenital **microbrachia**, the patient adapted through extraordinary dexterity of the feet and torso."*

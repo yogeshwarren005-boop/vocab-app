@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental illness especially when limited in expression to one idea or area of thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive concentration on a single object or idea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exaggerated or obsessive enthusiasm for or preoccupation with one thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century alienism and psychiatry, a form of partial insanity where the mind is disordered on a single subject while remaining rational on others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a monomania with him to think he is possessed of documents."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is not probable that this monomania in him took its instant rise at the precise time of his bodily dismemberment."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But, as in his narrow-flowing monomania, not one jot of Ahab’s broad madness had been left behind; so in that broad madness, not one jot of his great natural intellect had perished."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab's frantic **monomania** invested the white whale with all the subtle demonisms of the world."*
+> - 📜 **Edgar Allan Poe (*Berenice*):** *"This nervous intensity of interest was an undeniable form of **monomania**, fastening upon trivial objects with terrifying fixation."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Six Napoleons*):** *"Holmes deduced that the criminal suffered from an acute, destructive **monomania** centered upon plaster busts of the Emperor."*

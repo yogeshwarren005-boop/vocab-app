@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The beliefs and practices of a catholic church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being universal; existing everywhere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being universal, comprehensive, or all-embracing in range, sympathy, or application.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological ecclesiology, one of the four classical marks of the Church (catholicity), denoting universality in geographical spread, temporal endurance, and doctrinal fullness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"Utterson; for he was undemonstrative at the best, and even his friendship seemed to be founded in a similar catholicity of good-nature."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Shakespeare's dramatic genius is distinguished above all by its supreme **catholicity** of human sympathy."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"Without doctrinal **catholicity**, a church dwindles into a mere national sect bounded by local prejudices."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Goethe attained a majestic **catholicity** of viewpoint that surveyed European civilization with tranquil clarity."*

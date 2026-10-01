@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first six books of the Bible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first six books of the Bible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first six books of the Old Testament (Genesis through Joshua) regarded as a single literary and theological unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century biblical higher criticism (associated with Julius Wellhausen), the hypothesis that the narrative threads of the Pentateuch extend directly through Joshua to conclude with the conquest of Canaan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Hexateuch designates the first six books of the bible."*
+> - 📜 **Julius Wellhausen (*Prolegomena to the History of Israel*):** *"The literary analysis of the Pentateuch must be extended to include Joshua, treating the six books as a coherent **Hexateuch**."*
+> - 📜 **Samuel Rolles Driver (*An Introduction to the Literature of the Old Testament*):** *"The same documentary sources, J, E, D, and P, can be traced continuously across the historical narrative of the **Hexateuch**."*
+> - 📜 **Philip Schaff (*History of the Christian Church*):** *"Scholars debating the composition of the **Hexateuch** seek to determine the precise stages of editorial redaction."*

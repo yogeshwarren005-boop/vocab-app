@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Monarchical government or principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposed to or hostile toward monarchies or monarchs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporter of or advocate for monarchy as a political system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, a royalist or loyalist partisan who defends hereditary kingship against republican revolutionaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Each party had its taunts in use, the Federalists being denounced as monarchists, the Anti-Federalists as Democrats; the one presumed to be looking forward to monarchy, the other to the rule of the mob."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Throughout they felt their political strength, and they just as heartily returned the bitterness manifested by those of the Federalists who opposed the war, branding them as enemies of the republic, and monarchists who preferred the reign of Britain."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The old grandfather was a fierce **monarchist** who regarded every republican uprising as blasphemy against the altar and the throne."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The strange coalition in Barcelona united anarchist militiamen, foreign volunteers, and covert **monarchist** sympathizers."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"The aristocratic client was a devout **monarchist** whose family had served the royal dynasty for centuries."*

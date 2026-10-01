@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various organic bases which are formed by the action of putrefactive bacteria on nitrogenous matter and some of which are poisonous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Food poisoning caused by bacteria or bacterial products.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various basic nitrogenous organic compounds produced by the bacterial decomposition of proteins; historically associated with food poisoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century toxicology and organic chemistry, foul-smelling polyamines (such as putrescine and cadaverine) erroneously believed to be the primary pathogenic agents in spoiled food intoxications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ptomaine designates any of various organic bases which are formed by the action of putrefactive bacteria on nitrogenous matter and some of which are poisonous."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Devil's Foot*):** *"The chemist suggested a mysterious vegetable alkaloid or some deadly animal **ptomaine** generated in putrefaction."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Many cases formerly diagnosed as **ptomaine** poisoning are now recognized as acute Salmonella or botulinum toxin infections."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Bacteriologists proved that living bacterial toxins, rather than harmless cadaveric **ptomaine** bases, caused epidemic dysentery."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical specialist whose competence has been certified by a diploma granted by an appropriate professional group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical specialist whose competence has been certified by a diploma granted by an appropriate professional group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds a diploma, especially a certified medical or dental specialist accredited by an authorized professional board.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In professional licensing and medical administration, a physician who has passed rigorous examinations to become certified as a specialist board diplomate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplomate designates medical specialist whose competence has been certified by a diploma granted by an appropriate professional group."*
+> - 📜 **William Osler (*Aequanimitas, with Other Addresses*):** *"Every aspiring **diplomate** must demonstrate not merely book learning, but bedside clinical acumen and moral integrity."*
+> - 📜 **Harvey Cushing (*The Medical Career and Other Papers*):** *"Board examinations establish rigorous qualifying hurdles before any surgeon may practice as a certified **diplomate**."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The proud **diplomate** framed his parchment credentials, yet the true test of medicine lay before him in the sickroom."*

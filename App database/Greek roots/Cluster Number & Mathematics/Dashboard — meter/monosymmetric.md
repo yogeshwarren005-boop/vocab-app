@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of measure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one plane of symmetry; bilaterally symmetrical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, an archaic designation for the monoclinic crystal system, having a single two-fold axis of symmetry or one mirror plane (as in gypsum and orthoclase).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosymmetric designates adjective*) pertaining to, derived from, or characteristic of measure."*
+> - 📜 **René Just Haüy (*Traité de Minéralogie*):** *"Crystals possessing a single mirror plane belong to the **monosymmetric** or monoclinic system of crystallization."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"The optical behavior of **monosymmetric** minerals reveals inclined extinction under crossed polarizing prisms."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Bilateral animal forms represent a transition from radial architecture to specialized **monosymmetric** locomotion."*

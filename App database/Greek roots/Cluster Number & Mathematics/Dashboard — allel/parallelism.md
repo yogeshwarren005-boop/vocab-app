@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being parallel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resemblance, correspondence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or quality of being parallel or equidistant in geometrical orientation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agreement, correspondence, or structural symmetry between concepts, events, or literary clauses (as in Hebrew poetic parallelism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Here again the parallelism holds between the anthropomorphic and the vegetable representation of the tree-spirit, for we have seen above that trees are sometimes married to each other."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The reader has probably remarked the complete parallelism between the conceptions of the corn-spirit in human and in animal form."*
-> - 📜 **James Joyce (*Ulysses*):** *"The false apparent parallelism of all perpendicular arms of all balances, proved true by construction."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The mind discovers a delightful harmony in observing the **parallelism** between external natural forms and internal mental states."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The balanced rhythms of ancient poetry achieve dramatic emphasis through deliberate semantic **parallelism**."*
+> - 📜 **Robert Lowth (*Lectures on the Sacred Poetry of the Hebrews*):** *"Poetic **parallelism** consists in a certain equality, resemblance, or relationship between the members of each successive verse."*

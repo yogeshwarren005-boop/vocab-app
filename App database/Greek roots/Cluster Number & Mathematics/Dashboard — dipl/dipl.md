@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Double : twofold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Double : twofold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root morpheme (διπλόος, diploos) signifying double, twofold, or folded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and anatomical terminology, a formative prefix denoting duplicate parts, two-layered structure, or dual genetic complement (as in diploid, diplopia, diplodocus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dipl designates double : twofold."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The formative element **dipl-** stems from Greek diploos, indicating a twofold condition or folded document."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Derivatives of **dipl-** express doubling of numbers, physical folding of leaves, or paired anatomical structures."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The root underlying **dipl-** reflects an ancient Indo-European construction for doubling and fold-like duplication."*

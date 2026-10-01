@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: eight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: eight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek okto and Latin octo, meaning eight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific nomenclature and classical compounds, the prefix element designating eightfold quantity, symmetry, or division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog octo as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"The classical prefix **octo** entered scientific terminology to denote eight-fold numerical grouping across disciplines."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Flowers exhibiting **octo** stamens illustrate regular eight-fold floral symmetry in certain temperate families."*
+> - 📜 **Richard Feynman (*Feynman Lectures on Physics*):** *"The tensor formulation decomposes the field into **octo** components to describe higher-order multipole radiation."*

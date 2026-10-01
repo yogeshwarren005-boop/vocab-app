@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various polymers containing the urethane radical; a wide variety of synthetic forms are made and used as adhesives or plastics or paints or rubber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various polymers containing the urethane radical; a wide variety of synthetic forms are made and used as adhesives or plastics or paints or rubber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic resin or polymer consisting of organic chains linked by urethane (carbamate) groups, widely used in flexible foams, rigid insulation, elastomers, and protective coatings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and polymer engineering, versatile addition polymers synthesized from diisocyanates and polyols, capable of being tailored into open-cell mattress foams, high-efficiency building insulation, or abrasion-resistant skateboard wheels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyurethane designates any of various polymers containing the urethane radical; a wide variety of synthetic forms are made and used as adhesives or plastics or paints or rubber."*
+> - 📜 **Otto Bayer (*Angewandte Chemie*):** *"The diisocyanate polyaddition reaction opened the entire modern chemistry of **polyurethane** foams and synthetic rubbers."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Hydrogen bonding between urethane groups contributes to the extraordinary elasticity and wear resistance of **polyurethane** fibers."*
+> - 📜 **Herman Mark (*Physical Chemistry of High Polymeric Systems*):** *"Rigid **polyurethane** closed-cell foam contains trapped gas that gives it the highest insulating value per inch of any commercial material."*

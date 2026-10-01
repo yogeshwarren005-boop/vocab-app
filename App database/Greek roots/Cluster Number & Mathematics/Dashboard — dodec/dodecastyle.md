@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dodec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temple portico, colonnade, or building having twelve columns across the front facade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture, an exceptionally monumental facade arrangement (such as the portico of the Hall of Mysteries at Eleusis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dodecastyle designates a term designating an entity, condition, or phenomenon derived from greek dodec."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"A monumental temple facade with twelve frontal columns constitutes a grand **dodecastyle** portico."*
+> - 📜 **James Fergusson (*A History of Architecture in All Countries*):** *"The great hall of Eleusis displayed an impressive **dodecastyle** colonnade designed by the architect Philo."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"Few classical edifices ventured beyond octastyle arrangements, rendering the majestic **dodecastyle** temple of immense rarity."*

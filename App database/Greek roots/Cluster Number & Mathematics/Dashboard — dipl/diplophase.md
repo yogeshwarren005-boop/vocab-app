@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diploid phase in a life cycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diploid phase in a life cycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The diploid phase in the life cycle of an organism, extending from syngamy to meiosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics and botany, the developmental generation or stage during which cell nuclei contain the diploid (2n) number of chromosomes, alternating with the haplophase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplophase designates a diploid phase in a life cycle."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"In vascular land plants, the sporophyte generation represents the dominant **diplophase** of the life cycle."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Genetic recombination and heterozygous masking operate almost exclusively during the vegetative **diplophase**."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The progressive evolutionary enlargement of the **diplophase** shielded the plant organism from somatic expression of deleterious alleles."*

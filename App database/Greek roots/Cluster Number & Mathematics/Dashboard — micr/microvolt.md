@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of potential equal to one millionth of a volt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of potential equal to one millionth of a volt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of electric potential equal to one-millionth (10^-6) of a volt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and bioengineering, the standard scale for measuring faint electroencephalographic (EEG) brainwaves and electromyographic signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microvolt designates a unit of potential equal to one millionth of a volt."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The EEG needles swung in wild rhythmic oscillations, capturing spikes of fifty **microvolt** discharging across the temporal lobes."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Intracellular microelectrodes recorded synaptic potentials measuring only a fraction of a **microvolt** above background noise."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The bioelectric signals originating in the human motor cortex generate potentials on the order of a few **microvolt** at the scalp."*

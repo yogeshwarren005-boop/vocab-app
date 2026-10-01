@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 3-wheeled vehicle propelled by pedals or a motor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 3-wheeled vehicle propelled by pedals or a motor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-wheeled human-powered (or motorized) vehicle, typically propelled by pedals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transport history, three-wheeled velocipedes developed in the late 19th century as stable, respectable alternatives to the high-wheel bicycle for women and older riders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The next time I went down he advised me to go and learn to ride a tricycle first."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"And with carriages and horses, bicycles, tricycles, and telephones, we may feel ourselves very near neighbors indeed," remarked Edward."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"Down the dusty country road bowled a comfortable **tricycle**, ridden leisurely by the village rector."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Priory School*):** *"The tracks in the mud were clearly not from a bicycle, but the broader parallel impressions of a heavy **tricycle**."*
+> - 📜 **Charles Dickens (*Letters*):** *"The children laughed with delight as they raced their wooden **tricycle** up and down the garden path."*

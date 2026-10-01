@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting the order myricales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting the order myricales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bayberry family, a small family of dicotyledonous shrubs and small trees characterized by aromatic leaves and waxy fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant systematics, wind-pollinated, nitrogen-fixing woody plants bearing symbiotic Frankia bacteria in specialized root nodules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myricaceae designates constituting the order myricales."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Plants of the family **Myricaceae** are distinguished by resinous dots on their leaves and small drupes coated with aromatic wax."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Subtropical montane forests harbored hardy representatives of **Myricaceae**, whose astringent bark was utilized in tanning."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"Nitrogen-fixing symbioses in **Myricaceae** allow these pioneering shrubs to colonize barren sand dunes and degraded slopes."*

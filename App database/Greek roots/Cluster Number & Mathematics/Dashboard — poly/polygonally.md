@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a polygonal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a polygonal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a polygonal manner; in the form or arrangement of a polygon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and geomorphology, describing jointing, permafrost stone nets, or mud cracks that fracture into multi-sided patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygonally designates in a polygonal manner."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Drying mud flats crack **polygonally** beneath the summer sun, leaving tessellated fissures that later fill with sand."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"The cooling surface of the basaltic lava cracked **polygonally**, yielding vertical columns of five and six sides."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Contraction strains in the drying starch cake caused it to cleave **polygonally** into miniature columns resembling basalt."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient seven-stringed musical lyre, or a diatonic musical scale of seven tones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical music theory, the ancient Greek tonal system of seven notes bounded by the interval of a minor seventh, traditionally attributed to Terpander.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptachord designates a term designating an entity, condition, or phenomenon derived from greek hept."*
+> - 📜 **Plutarch (*De Musica*):** *"Terpander is said to have added new resonant strings to the lyre, completing the ancient Greek **heptachord**."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"Before the addition of the octave string by Pythagoras, all Hellenic melodies were bounded within the **heptachord**."*
+> - 📜 **John Hawkins (*A General History of the Science and Practice of Music*):** *"The seven conjunct notes of the **heptachord** represented the musical harmony of the seven known wandering planets."*

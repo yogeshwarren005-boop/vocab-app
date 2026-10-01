@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to arithmetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to arithmetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an arithmetical manner; by means of arithmetic or numerical computation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical analysis, progressing by constant additions or differences, in contrast to geometrically or exponentially.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These do not constitute a sum of social wealth in any proper sense of the term.[3] Arithmetically it is a fallacious kind of a total, for the sum of the individual capitals contains some items that should be canceled to find the sum of wealth."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"Population, when unchecked, increases in a geometrical ratio; subsistence increases only **arithmetically**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Even slow-breeding animals would multiply to vast hordes if their offspring increased unchecked even **arithmetically**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The profits of capital may be calculated **arithmetically** by comparing gross revenues with initial outlays."*

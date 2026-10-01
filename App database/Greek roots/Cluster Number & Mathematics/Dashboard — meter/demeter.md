@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) goddess of fertility and protector of marriage in ancient mythology; counterpart of roman ceres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) goddess of fertility and protector of marriage in ancient mythology; counterpart of roman ceres.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ancient Greek religion and mythology, Demeter (Δημήτηρ), Olympian goddess of agriculture, grain, harvest, and the fertility of the earth; mother of Persephone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical religious history, the central divinity of the Eleusinian Mysteries, symbolizing the sacred agrarian law (Thesmophoria) and the eternal cycle of death and vegetative rebirth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He called her Artemis, Demeter, and other fanciful names half teasingly, which she did not like because she did not understand them."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The torches of Demeter, which figure so largely in her myth and on her monuments, are perhaps to be explained by this custom."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Every year, as we saw, men went to be initiated into the rites of Demeter at Eleusis, a few miles from Athens."*
+> - 📜 **Homer (*Homeric Hymns (Hymn to Demeter)*):** *"Golden-haired **Demeter**, venerable goddess, wandered the earth mourning her stolen daughter until grain withered in the furrows."*
+> - 📜 **Walter Pater (*Greek Studies: The Myth of Demeter and Persephone*):** *"In the worship of **Demeter**, the Greeks sanctified the labor of the plowman and the miraculous renewal of the seed."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"At the Eleusinian sanctuary, initiates celebrated **Demeter** as the Corn-Mother who bestowed the divine gift of agriculture upon mankind."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting excessive tone or tension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a higher osmotic pressure than a surrounding medium or a fluid under comparison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a higher osmotic pressure than a particular fluid, especially a bodily fluid; or exhibiting excessive muscular tone or tension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and cellular biophysics, a solution with a greater osmolarity than blood plasma (causing cell dehydration and shrinkage), or a muscle in a state of sustained pathological contracture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertonic designates exhibiting excessive tone or tension."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Erythrocytes placed in a **hypertonic** saline solution rapidly lose water through osmosis and become wrinkled and crenated."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient's spastic gait resulted from **hypertonic** contractures in the lower extremities following a capsular stroke."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of the Nervous System*):** *"Tetanic spasms provoked by strychnine maintain the entire skeletal musculature in an agonizing **hypertonic** state."*

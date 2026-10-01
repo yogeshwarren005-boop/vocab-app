@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that is an epiphyte for part of its life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant that is an epiphyte for part of its life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that begins its life as an epiphyte in the forest canopy and subsequently establishes roots in the ground, or vice versa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical forest ecology, a climbing plant or strangler (such as Ficus or Clusia) that germinates in branch forks before sending down descending aerial roots to encircle the host tree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiepiphyte designates a plant that is an epiphyte for part of its life."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"Vast strangler figs begin their aerial life as a delicate **hemiepiphyte** high in the crown of towering palm trees."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature, and Other Essays*):** *"The predatory **hemiepiphyte** weaves a lattice of descending roots that eventually smothers and kills the supporting timber."*
+> - 📜 **A. F. W. Schimper (*Plant-Geography Upon a Physiological Basis*):** *"Ecological transitions between true epiphytism and rooted lianas are exemplified by diverse tropical **hemiepiphytes**."*

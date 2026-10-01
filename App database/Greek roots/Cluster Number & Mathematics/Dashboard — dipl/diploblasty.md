@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dipl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The embryonic or anatomical condition of possessing only two primary germ layers: an outer ectoderm and an inner endoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology, the foundational structural plan of basal metazoans such as cnidarians and ctenophores, which lack a true mesodermal germ layer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diploblasty designates a term designating an entity, condition, or phenomenon derived from greek dipl."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The Gastraea theory posits that ancestral metazoans exhibited primitive **diploblasty**, developing from two primary blastodermic sheets."*
+> - 📜 **Ray Lankester (*Comparative Embryology*):** *"True **diploblasty** confines the animal's developmental architecture to the primary ectoderm and endoderm without coelomic space."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Coelenterates preserve lifelong **diploblasty**, separating internal digestive cavities from the environment with only two cellular layers."*

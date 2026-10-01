@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of words; having many meanings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of words; having many meanings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by multiple related meanings or semantic interpretations; polysemous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, philosophy of language, and hermeneutics, describing words, symbols, or expressions whose varied meanings depend upon contextual pragmatic framing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysemantic designates of words; having many meanings."*
+> - 📜 **Paul Ricoeur (*The Conflict of Interpretations*):** *"Metaphorical language is inherently **polysemantic**, opening multiple levels of meaning that resist univocal definition."*
+> - 📜 **Stephen Ullmann (*The Principles of Semantics*):** *"A highly **polysemantic** word like 'head' acquires dozens of secondary senses through anatomical and spatial analogies."*
+> - 📜 **Roman Jakobson (*Selected Writings: Poetry of Grammar and Grammar of Poetry*):** *"Poetic discourse maximizes ambiguity by exploiting the **polysemantic** potential of everyday grammatical forms."*

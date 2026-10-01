@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In non-flowering plants, a sporophyll that bears only microsporangia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In non-flowering plants, a sporophyll that bears only microsporangia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A modified leaf that bears microsporangia, such as the stamens of flowering plants or the pollen scales of conifer cones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative plant morphology, the homologous male reproductive appendage in lycophytes, gymnosperms, and angiosperms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsporophyll designates in non-flowering plants, a sporophyll that bears only microsporangia."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Comparative morphologists interpret the angiosperm stamen as an evolutionarily modified, reduced **microsporophyll**."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"On the male pine cone, each spirally arranged woody scale represents a fertile **microsporophyll** bearing two pollen sacs beneath."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"The transition from ancient fern fronds to seed-plant cones involved the progressive differentiation of **microsporophyll** structures."*

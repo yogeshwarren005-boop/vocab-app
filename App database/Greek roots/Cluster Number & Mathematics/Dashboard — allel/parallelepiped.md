@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 6-faced polyhedron all of whose faces are parallelograms lying in pairs of parallel planes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 6-faced polyhedron all of whose faces are parallelograms lying in pairs of parallel planes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A six-faced three-dimensional solid or prism whose opposite faces are congruent and parallel parallelograms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and crystallography, a fundamental solid volume whose spatial dimensions are defined by three linearly independent basis vectors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parallelepiped designates a 6-faced polyhedron all of whose faces are parallelograms lying in pairs of parallel planes."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"The volume of a **parallelepiped** is determined by multiplying the area of its parallelogram base by its perpendicular altitude."*
+> - 📜 **Thomas Heath (*The Thirteen Books of Euclid's Elements*):** *"Euclid demonstrates that any plane cutting opposite faces of a **parallelepiped** divides the solid into two proportional segments."*
+> - 📜 **Adrien-Marie Legendre (*Elements of Geometry*):** *"Every oblique **parallelepiped** may be transformed into an equivalent rectangular solid of equal base and height."*

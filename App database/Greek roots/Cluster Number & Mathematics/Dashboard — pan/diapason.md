@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A burst of sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal foundation stop in the organ extending through the complete range of the instrument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grand swelling burst of harmony, or the entire compass or range of a musical instrument or voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pipe organ design, the foundational open diapason pipe rank that establishes the characteristic, noble tone of the instrument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As the dank earth weeps at thy languishment, So I at each sad strain will strain a tear And with deep groans the diapason bear; For burden-wise I’ll hum on Tarquin still, While thou on Tereus descants better skill."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It arouses the "seven thunders" of evil, and stirs their latent forces to utter the full diapason of secret tones."*
+> - 📜 **John Dryden (*A Song for St. Cecilia's Day*):** *"From harmony, from heavenly harmony / This universal frame began; / The **diapason** closing full in Man."*
+> - 📜 **John Milton (*At a Solemn Music*):** *"And to our high-raised phantasy present / That undisturbed song of pure concent, / In unison with the grand celestial **diapason**."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The deep bass notes of the church organ rolled through the nave in a rich, solemn **diapason**."*

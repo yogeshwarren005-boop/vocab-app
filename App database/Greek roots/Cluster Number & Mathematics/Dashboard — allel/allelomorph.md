@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: allele:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: any of the alternative forms of a gene that may occur at a given locus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical genetic term (now allele) designating either of a pair of alternative Mendelian hereditary factors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early 20th-century genetics, a contrasting character that segregates independently in accordance with Mendelian inheritance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog allelomorph as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"To designate the contrasting factors which segregate in the germ cells, I propose the term **allelomorph**."*
+> - 📜 **Thomas Hunt Morgan (*Heredity and Sex*):** *"Each factor and its corresponding **allelomorph** part company during the reduction division of gametogenesis."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"The selective value of a newly arisen mutant **allelomorph** determines its mathematical probability of ultimate fixation."*

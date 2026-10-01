@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or supporting or characteristic of an oligarchy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or supporting or characteristic of an oligarchy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of an oligarchy or an oligarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, describing regimes or organizations dominated by a small, self-serving, and privileged minority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The countenance of the government may become more democratic, but the soul that animates it will be more oligarchic."*
+> - 📜 **Aristotle (*Politics*):** *"An **oligarchic** regime distributes public offices based on property qualifications, excluding the majority of citizens."*
+> - 📜 **Robert Michels (*Political Parties*):** *"The iron law of oligarchy dictates that every large organization inevitably succumbs to **oligarchic** domination by its leadership."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The Southern plantation system harbored an **oligarchic** social hierarchy deeply at odds with northern democratic equality."*

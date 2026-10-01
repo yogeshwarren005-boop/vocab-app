@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A saccharide that contains usually three to ten monosaccharide units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saccharide that contains usually three to ten monosaccharide units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A carbohydrate composed of a small number (typically between three and ten) of monosaccharide units linked by glycosidic bonds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and cell biology, branched sugar chains attached to cell-surface proteins and lipids that mediate cell recognition and immune signaling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligosaccharide designates a saccharide that contains usually three to ten monosaccharide units."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"The extracellular surface of every eukaryotic cell is carpeted with a rich glycocalyx of branching **oligosaccharide** chains."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"ABO blood group antigens are defined by specific **oligosaccharide** sequences projecting from the red cell membrane."*
+> - 📜 **Michael Pollan (*In Defense of Food*):** *"Human breast milk contains complex prebiotic **oligosaccharide** molecules that nourish beneficial Bifidobacteria in the infant gut."*

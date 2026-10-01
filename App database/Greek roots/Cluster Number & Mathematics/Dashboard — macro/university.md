@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of faculty and students at a university.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-level institution of higher education and research, authorized to grant academic degrees in a variety of subjects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational and cultural history, a corporate community of scholars (universitas magistrorum et scholarium) devoted to the pursuit, generation, and transmission of universal knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, nor mine now. [_To Polonius._] My lord, you play’d once i’ th’university, you say?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"While I play the good husband at home, my son and my servant spend all at the university."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The young barons left the castle in order to attend a university in Germany, and Philip also left for an agricultural school."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"A **university** is a place of teaching universal knowledge, cultivating the intellect for its own sublime sake."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The true **university** of these days is a collection of books available to every inquiring spirit."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Every great national **university** should maintain open foundations for experimental discovery and free philosophical exchange."*

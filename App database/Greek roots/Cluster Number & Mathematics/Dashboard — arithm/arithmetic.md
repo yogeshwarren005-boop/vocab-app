@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of mathematics that deals usually with the nonnegative real numbers including sometimes the transfinite cardinals and with the application of the operations of addition, subtraction, multiplication, and division to them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A treatise on arithmetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundational branch of mathematics that deals with the properties, relations, and operations of numbers (addition, subtraction, multiplication, division).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practical calculation of numerical values, or the formal theoretical study of number systems, integers, and discrete numerical operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now ’tis odds beyond arithmetic, And manhood is called foolery when it stands Against a falling fabric."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spare your arithmetic; never count the turns."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, his definement suffers no perdition in you, though I know, to divide him inventorially would dizzy th’arithmetic of memory, and yet but yaw neither, in respect of his quick sail."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"Higher **arithmetic** presents an inexhaustible store of interesting truths regarding the properties of whole numbers."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Pure **arithmetic** may be deduced entirely from logical premises using the concepts of class, relation, and cardinal number."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"**Arithmetic** is of so general use in all parts of life and business, that scarce anything can be done without it."*

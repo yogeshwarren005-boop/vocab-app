@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the sense of smell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting or holding no odor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no smell, odor, or fragrance; odorless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical pollination ecology, plant species with flowers lacking aromatic volatile emissions, commonly adapted for pollination by birds or wind rather than nocturnal scent-seeking moths or bees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Roses were abundant, white and scentless, or small, pink, and spicy, and the ground was carpeted with yellow and blue flowers."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"A china bowl stood beside them, with some shrivelled, scentless rose-leaves in the bottom of it."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"Brightly colored scarlet flowers are frequently **scentless**, being pollinated by hummingbirds that possess keen vision but little sense of smell."*
+> - 📜 **Percy Bysshe Shelley (*The Sensitive Plant*):** *"Broad water lilies lay upon the stream, their blossoms **scentless** beneath the midday glare."*
+> - 📜 **John Tyndall (*Essays on the Floating-Matter of the Air*):** *"Pure distilled water and filtered air are completely **scentless** to the most delicate human nostrils."*

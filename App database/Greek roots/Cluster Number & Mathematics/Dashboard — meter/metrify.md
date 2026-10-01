@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose in poetic meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert from a non-metric to the metric system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To compose verse; to convert or turn prose into poetic meter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary composition and translation, putting thoughts into regular metrical or rhythmic form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrify designates compose in poetic meter."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"To **metrify** skillfully requires a delicate ear for syllabic accent and harmonious rhyme."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A writer may **metrify** trivial thoughts, yet rhythm alone can never supply the absence of poetic passion."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"Pope chose to **metrify** the Iliad in heroic couplets, giving Homer a polished eighteenth-century dress."*

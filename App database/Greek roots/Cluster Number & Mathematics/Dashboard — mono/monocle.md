@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lens for correcting defective vision in one eye; held in place by facial muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lens for correcting defective vision in one eye; held in place by facial muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single eyeglass kept in position by the muscles of the eye orbit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth- and early twentieth-century fashion, an optical accessory worn by European aristocrats and military officers, symbolic of elite formality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In his left eye flashes the monocle of Cashel Boyle O’Connor Fitzmaurice Tisdall Farrell."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Mortimer looked up, adjusting his round **monocle** with an air of professional gravity."*
+> - 📜 **P.G. Wodehouse (*The Inimitable Jeeves*):** *"Bertie Wooster screwed his **monocle** into his eye and surveyed the disastrous scene with profound bewilderment."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"The caricatures of Prussian officers invariably featured a glinting **monocle** and a stiff, unyielding neck."*

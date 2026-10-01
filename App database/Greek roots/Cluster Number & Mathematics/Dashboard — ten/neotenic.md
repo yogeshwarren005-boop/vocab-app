@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by neoteny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by neoteny.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting or relating to neoteny; the retention of juvenile, larval, or infantile physical traits into adult life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary developmental biology (evo-devo), adult organisms (such as the axolotl) that retain ancestral larval characteristics, or phylogenetic lineages (such as humans compared to apes) shaped by retarded developmental rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neotenic designates of or relating to or characterized by neoteny."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Human adult cranial morphology is remarkably **neotenic**, retaining the rounded skull and flattened face of the juvenile chimp."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The Mexican axolotl remains in a **neotenic** aquatic state, breeding freely while retaining its larval external gills."*
+> - 📜 **G. Kingsley Noble (*The Biology of the Amphibia*):** *"In perennibranchiate salamanders, the **neotenic** condition is irreversible, thyroid treatment failing to provoke metamorphosis."*

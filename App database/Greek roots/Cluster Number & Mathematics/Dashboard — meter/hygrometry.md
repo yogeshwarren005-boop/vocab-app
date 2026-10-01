@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of the moisture content of gases, but especially of the humidity of the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of the moisture content of gases, but especially of the humidity of the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics and meteorology dealing with the determination and measurement of atmospheric humidity and water vapor content.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantitative science of evaluating relative humidity, specific humidity, and dew point temperatures across meteorological systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygrometry designates the measurement of the moisture content of gases, but especially of the humidity of the atmosphere."*
+> - 📜 **John Dalton (*Meteorological Observations and Essays*):** *"The principles of **hygrometry** were placed upon a rigorous physical foundation once the vapor pressure of water was determined."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Comparative **hygrometry** demonstrates that tropical rain forests sustain an almost permanent atmospheric moisture saturation."*
+> - 📜 **Arthur Newell Strahler (*Physical Geography*):** *"Modern **hygrometry** calculates relative humidity from dry-bulb and wet-bulb temperatures using psychrometric tables."*

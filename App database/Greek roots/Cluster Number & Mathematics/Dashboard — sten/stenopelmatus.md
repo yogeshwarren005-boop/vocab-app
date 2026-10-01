@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sand crickets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sand crickets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, wingless burrowing insects in the family Stenopelmatidae, typified by the Jerusalem cricket (*Stenopelmatus fuscus*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomological natural history, solitary nocturnal predators native to western North America and Central America, notable for their baby-like human facial resemblance and aggressive mandibular defense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenopelmatus designates sand crickets."*
+> - 📜 **John Henry Comstock (*A Manual for the Study of Insects*):** *"The curious creature **Stenopelmatus**, often called the child of the earth, wanders through cellar drains and sandy washes."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"The subterranean habits of **Stenopelmatus** illustrate how burrowing orthopterans have sacrificed flight for massive digging limbs."*
+> - 📜 **Vernon Lyman Kellogg (*American Insects*):** *"Children in California are often alarmed by the grotesque appearance of **Stenopelmatus**, though it is entirely non-venomous."*

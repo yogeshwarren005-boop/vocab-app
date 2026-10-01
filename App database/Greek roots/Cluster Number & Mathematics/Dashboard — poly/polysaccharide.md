@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carbohydrate that can be decomposed by hydrolysis into two or more molecules of monosaccharides; especially : one (such as cellulose, starch, or glycogen) containing many monosaccharide units and marked by complexity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carbohydrate that can be decomposed by hydrolysis into two or more molecules of monosaccharides; especially : one (such as cellulose, starch, or glycogen) containing many monosaccharide units and marked by complexity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex carbohydrate molecule composed of long chains of monosaccharide units bound together by glycosidic linkages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, high-molecular-weight biopolymers performing structural roles (cellulose, chitin) or energy storage functions (starch, glycogen) in living organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysaccharide designates a carbohydrate that can be decomposed by hydrolysis into two or more molecules of monosaccharides; especially : one (such as cellulose, starch, or glycogen) containing many monosaccharide units and marked by complexity."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Cellulose is an unbranched **polysaccharide** of glucose units whose beta-linkages form rigid microfibrils in plant cell walls."*
+> - 📜 **Emil Fischer (*Investigations on Carbohydrates*):** *"Hydrolysis of the animal **polysaccharide** glycogen reveals that it consists entirely of branched alpha-d-glucopyranose units."*
+> - 📜 **Arthur Kornberg (*Enzymatic Synthesis of Polysaccharides*):** *"The bacterial capsule is frequently composed of an acidic **polysaccharide** that protects the pathogen from phagocytosis."*

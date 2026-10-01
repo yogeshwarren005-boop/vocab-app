@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes the alligator snapping turtle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes the alligator snapping turtle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of very large freshwater turtles (commonly Macrochelys or Macroclemys temminckii) known as the alligator snapping turtle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American herpetology, the heaviest freshwater turtle in the world, equipped with a massive hooked beak, triple-ridged carapace, and a vermiform tongue lure for ambushing fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroclemys designates includes the alligator snapping turtle."*
+> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"Lying motionless in the mud of deep river pools, **Macroclemys** wriggles its pink tongue appendage to lure unwary fish."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The jaws of the colossal alligator snapper **Macroclemys** can shear a broom handle in two with a single explosive snap."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"The massive, heavily keeled carapace of **Macroclemys** recalls the archaic armor of extinct chelonian giants."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless nonflammable liquid used as a solvent for fats and oils; because of its toxicity its use as a cleaning fluid or fire extinguisher has declined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless nonflammable liquid used as a solvent for fats and oils; because of its toxicity its use as a cleaning fluid or fire extinguisher has declined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, volatile, and non-flammable synthetic organic compound with the chemical formula CCl4; carbon tetrachloride.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synthetic chemistry and atmospheric science, a chlorocarbon formerly used in fire extinguishers and refrigerants (CFC precursor), now strictly restricted under the Montreal Protocol because of hepatotoxicity and ozone-depleting properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrachloromethane designates a colorless nonflammable liquid used as a solvent for fats and oils; because of its toxicity its use as a cleaning fluid or fire extinguisher has declined."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The tetrahedral geometry of **tetrachloromethane** cancels all bond dipoles, making it a completely nonpolar solvent."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The discovery of **tetrachloromethane** provided organic chemists with a heavy, non-combustible solvent of great utility."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inhalation of **tetrachloromethane** fumes produces acute centrilobular hepatic necrosis and oliguric renal failure."*

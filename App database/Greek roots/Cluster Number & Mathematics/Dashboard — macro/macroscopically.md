@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without using a microscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without using a microscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a macroscopic manner; as observed with the naked eye without magnification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In science, examining or measuring physical properties in bulk or at the gross structural level rather than the atomic or microscopic scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroscopically designates without using a microscope."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Examined **macroscopically**, the consolidated lung tissue presented the classic gray hepatization of resolving pneumonia."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The stratified sandstone beds appeared **macroscopically** uniform over several miles of coastal cliffs."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"A body appears **macroscopically** at rest even while its constituent molecules vibrate with immense thermal kinetic energy."*

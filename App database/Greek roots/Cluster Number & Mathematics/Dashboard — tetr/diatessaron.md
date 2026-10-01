@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A harmony of the four Gospels edited and arranged into a single connected narrative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmony of the four Gospels edited and arranged into a single connected narrative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The musical interval of a fourth; or a gospel harmony combining the four canonical Gospels into a single continuous narrative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early Christian history and patristics, the influential Syriac gospel harmony compiled by Tatian in Rome around 160–175 CE; in classical music theory, the acoustic ratio 4:3 representing the perfect fourth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diatessaron designates a harmony of the four gospels edited and arranged into a single connected narrative."*
+> - 📜 **Eusebius (*Church History*):** *"Tatian composed a connection and combination of the Gospels, which he called the **Diatessaron**, still in use among many in Syria."*
+> - 📜 **Boethius (*De Institutione Musica*):** *"The consonance of the **diatessaron** arises from the epitritic ratio of four to three, forming the foundation of the tetrachord."*
+> - 📜 **Thomas Morley (*A Plaine and Easie Introduction to Practicall Musicke*):** *"The interval of the **diatessaron**, or perfect fourth, was ever held by ancient theorists as the first true consonance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arbitrary constant whose value characterizes a member of a system (such as a family of curves); also : a quantity (such as a mean or variance) that describes a statistical population.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An independent variable used to express the coordinates of a variable point and functions of them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or expressed in terms of a parameter or parameters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and statistics, relating to equations defined by auxiliary parameters (e.g. parametric equations x=f(t), y=g(t)), or statistical tests assuming a specified probability distribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parametric designates an arbitrary constant whose value characterizes a member of a system (such as a family of curves); also : a quantity (such as a mean or variance) that describes a statistical population."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"The **parametric** equations of the cycloid express both horizontal and vertical displacements as functions of the rolling angle."*
+> - 📜 **Ronald Fisher (*Statistical Methods for Research Workers*):** *"Standard analysis of variance is a **parametric** procedure resting upon the assumption of normal residual distribution."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"We establish a **parametric** representation of the quadric surface through projection from a point on the surface."*

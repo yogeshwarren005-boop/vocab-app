@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grouse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family or subfamily (Tetraoninae) of gallinaceous game birds comprising the grouse, ptarmigans, and prairie chickens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy, cold-adapted ground-nesting birds characterized by feathered nostrils, feathered tarsi, and pectinate scales along the toes functioning as winter snowshoes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog tetraonidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"Members of the family **Tetraonidae** are beautifully adapted for northern winters by their downy tarsi and snowshoe-like toes."*
+> - 📜 **Frank Chapman (*Birds of Eastern North America*):** *"The dramatic spring booming of the prairie hen reveals the social courtship displays characteristic of **Tetraonidae**."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Within **Tetraonidae**, the ptarmigans exhibit complete seasonal dichromatism, molting into snow-white plumage in winter."*

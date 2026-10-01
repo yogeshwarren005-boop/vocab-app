@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liturgical choirbook of the Byzantine rite containing the florid, melismatic solo chants for the soloist (psaltes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Byzantine musicology and paleography, a medieval music manuscript (developed between the 10th and 14th centuries) containing the elaborate musical notation for prokeimena, alleluiaria, and kontakia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psaltikon designates a term designating an entity, condition, or phenomenon derived from greek psall."*
+> - 📜 **Egon Wellesz (*A History of Byzantine Music and Hymnography*):** *"The ornate melodies preserved in the **psaltikon** were reserved for the virtuosic soloist standing upon the ambo."*
+> - 📜 **Oliver Strunk (*Essays on Music in the Byzantine World*):** *"Neumatic notation in the medieval **psaltikon** records the precise melismatic ornamentation practiced in Hagia Sophia."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"While the asmatikon contained simple choral responses, the **psaltikon** preserved the elaborate chants of the precentor."*

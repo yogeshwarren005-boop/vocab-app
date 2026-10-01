@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the use of or uttered in a monotone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property either of never increasing or of never decreasing as the values of the independent variable or the subscripts of the terms increase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uttered or sounding in a monotone; unvarying in pitch or cadence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, describing a function or sequence that either entirely never increases or never decreases throughout its domain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotonic designates characterized by the use of or uttered in a monotone."*
+> - 📜 **G.H. Hardy (*A Course of Pure Mathematics*):** *"Every bounded **monotonic** sequence of real numbers converges necessarily to a unique finite limit."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Information entropy exhibits a **monotonic** increase under transformations that discard discriminative signal data."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"The motor drone was flat and **monotonic**, lulling the boat passengers into a hypnotic afternoon trance."*

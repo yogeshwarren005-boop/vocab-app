@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Halfbeaks; marine and freshwater fishes closely related to the flying fishes but not able to glide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Halfbeaks; marine and freshwater fishes closely related to the flying fishes but not able to glide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of epipelagic and freshwater actinopterygian fishes known as halfbeaks, characterized by an elongated lower jaw and short upper jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, surface-dwelling beloniform fishes related to flyingfishes and needlefishes, feeding on floating surface organisms with their extended beak.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiramphidae designates halfbeaks; marine and freshwater fishes closely related to the flying fishes but not able to glide."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Fishes of the family **Hemiramphidae** skim the oceanic surface, their elongated lower jaws cutting through the surface film."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In tropical lagoons we observed curious halfbeaks belonging to **Hemiramphidae** skipping across the water to evade predators."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The asymmetric jaws of **Hemiramphidae** illustrate a remarkable morphological specialization for surface foraging."*

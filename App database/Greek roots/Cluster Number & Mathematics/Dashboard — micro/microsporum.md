@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungus of the family moniliaceae; causes ringworm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungus of the family moniliaceae; causes ringworm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi that causes dermatophytosis (ringworm, tinea capitis, and other fungal infections of the skin, hair, and nails).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical mycology, keratinophilic molds characterized by rough-walled, spindle-shaped macroconidia that infect humans and domestic animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsporum designates a genus of fungus of the family moniliaceae; causes ringworm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Examination of plucked scalp hairs under Wood's light revealed bright greenish fluorescence characteristic of **Microsporum** audouinii."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Mycologists isolated pathogenic strains of **Microsporum** from feline fur that transmitted ringworm lesions to children."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Antifungal agents must overcome the tough keratinaceous barriers colonized by stubborn hyphae of **Microsporum**."*

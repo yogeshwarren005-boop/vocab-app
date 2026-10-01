@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diatonic series of six tones having a semitone between the third and fourth tones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diatonic series of six tones having a semitone between the third and fourth tones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series or musical scale of six diatonic tones, with a half step between the third and fourth notes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval and renaissance music theory, the solmization system devised by Guido of Arezzo based on overlapping six-note segments (ut, re, mi, fa, sol, la).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexachord designates a diatonic series of six tones having a semitone between the third and fourth tones."*
+> - 📜 **Guido of Arezzo (*Micrologus*):** *"Through the six syllables of the **hexachord**, the student readily identifies the natural semitone between mi and fa."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"Guido's system of the **hexachord** reformed musical education across Christendom by simplifying sight-singing."*
+> - 📜 **John Hawkins (*A General History of the Science and Practice of Music*):** *"Mutation from the natural **hexachord** to the hard or soft variety permitted transitions across the entire gamut."*

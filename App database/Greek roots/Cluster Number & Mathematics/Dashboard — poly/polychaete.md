@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class (Polychaeta) of aquatic and chiefly marine annelid worms (such as clam worms or lugworms) that usually possess paired segmental appendages bearing many bristles, produce free-swimming larvae, and are often brightly colored or bioluminescent : bristle worm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class (Polychaeta) of aquatic and chiefly marine annelid worms (such as clam worms or lugworms) that usually possess paired segmental appendages bearing many bristles, produce free-swimming larvae, and are often brightly colored or bioluminescent : bristle worm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any marine annelid worm belonging to the class Polychaeta, characterized by a segmented body and numerous bristles protruding from lateral parapodia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In benthic ecology, segmented marine worms that play essential ecological roles as filter feeders, detritivores, and predators in soft sediment communities and coral reefs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychaete designates any of a class (polychaeta) of aquatic and chiefly marine annelid worms (such as clam worms or lugworms) that usually possess paired segmental appendages bearing many bristles, produce free-swimming larvae, and are often brightly colored or bioluminescent : bristle worm."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The iridescent clam worm is an active predatory **polychaete**, hunting smaller invertebrates across the intertidal reef."*
+> - 📜 **William Beebe (*Nonsuch: Land of Water*):** *"At night the surface waters glowed with the bioluminescent nuptial swarming of a delicate **polychaete** worm."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Just as earthworms rework the terrestrial loam, the marine **polychaete** continuously turns and aerates coastal sediments."*

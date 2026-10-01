@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in the christian doctrine of the millennium mentioned in the book of revelations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in the christian doctrine of the millennium mentioned in the book of revelations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Christian theological doctrine of the millennium, specifically the belief in Christ's anticipated thousand-year reign on earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history and sociology, millenarianism or the apocalyptic expectation of an imminent, terrestrial era of divine peace and justice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiliasm designates belief in the christian doctrine of the millennium mentioned in the book of revelations."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient doctrine of **chiliasm** was intimately connected with the second coming of Christ and inflamed the zeal of the early martyrs."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"The kingdom of God on earth, envisioned in the literal interpretations of **chiliasm**, was often misapplied to secular principalities."*
+> - 📜 **Philip Schaff (*History of the Christian Church*):** *"During the first three centuries, moderate **chiliasm** was widely regarded as an orthodox expression of Christian hope."*

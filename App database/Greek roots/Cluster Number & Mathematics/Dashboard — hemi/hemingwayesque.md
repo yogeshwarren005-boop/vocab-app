@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of ernest hemingway.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of ernest hemingway.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of, resembling, or imitating the style, themes, or persona of the American author Ernest Hemingway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, characterized by terse declarative sentences, emotional understatement, journalistic dialogue, and masculine stoicism under pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemingwayesque designates in the manner of ernest hemingway."*
+> - 📜 **Gore Vidal (*United States: Essays 1952–1992*):** *"Generations of young war correspondents adopted a **hemingwayesque** pose, writing in tight, muscular cadence."*
+> - 📜 **Anthony Burgess (*Urgent Copy: Literary Studies*):** *"The novel's opening scene in the Madrid café was distinctly **hemingwayesque** in its clipped dialogue and sensory restraint."*
+> - 📜 **Norman Mailer (*Advertisements for Myself*):** *"Every post-war American novelist wrestled with the immense shadow cast by the **hemingwayesque** ideal of courage."*

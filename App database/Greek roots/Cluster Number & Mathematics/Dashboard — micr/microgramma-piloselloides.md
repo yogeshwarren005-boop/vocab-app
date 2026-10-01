@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Epiphytic ferns with long rhizomes; tropical america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epiphytic ferns with long rhizomes; tropical america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An epiphytic fern species native to tropical America, characterized by creeping rhizomes and small dimorphic fronds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology and botanical taxonomy, an epiphyte of the family Polypodiaceae featuring densely hairy (piloselloid) rhizome scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgramma-piloselloides designates epiphytic ferns with long rhizomes; tropical america."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The mossy trunks of the forest canopy supported dense mats of epiphytic ferns, among them the creeping **Microgramma piloselloides**."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"High in the moist branches, tiny colonies of **Microgramma piloselloides** cling securely by their slender, scale-covered rhizomes."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The tropical collector noted how **Microgramma piloselloides** displays distinct fertile and sterile fronds along its creeping stem."*

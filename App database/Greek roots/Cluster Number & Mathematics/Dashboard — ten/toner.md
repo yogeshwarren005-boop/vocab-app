@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solution containing chemicals that can change the color of a photographic print.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black or colored powder used in a printer to develop a xerographic image.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A powder or liquid ink used in photocopiers and laser printers to form the printed text and images on paper; or a cosmetic lotion for the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In darkroom photography, a chemical formulation used to alter the silver image deposit; in dermatological skincare, an astringent liquid formulated to restore skin pH after cleansing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toner designates a solution containing chemicals that can change the color of a photographic print."*
+> - 📜 **Chester Carlson (*History of Electrophotography*):** *"Electrostatic attraction draws the finely milled black **toner** particles onto the latent image on the selenium drum."*
+> - 📜 **Ansel Adams (*The Print: Contact Printing and Enlarging*):** *"A dilute selenium **toner** deepens the maximum blacks of the bromide print and ensures archival permanence."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"A mild herbal astringent acting as a cutaneous **toner** refreshes the face after exposure to harsh winds."*

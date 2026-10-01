@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: half.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: half.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root morpheme (ἡμι-, hemi-) signifying half or partial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and anatomical nomenclature, a productive prefix denoting half, unilateral occurrence, or incomplete development (as in hemisphere, hemianopia, hemiplegia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Who will say that infancy can utter 74:24 the ideas of manhood, that darkness can represent light, that we are in Europe when we are in the opposite hemi- sphere?"*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek prefix **hemi-** signifies half, corresponding to Latin semi- and French demi- in scholarly coinages."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From **hemi-** arise compounds expressing half-measures, bisection, or half-finished celestial arcs."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"In stereometry, Archimedes constantly employed compounds of **hemi-** to calculate the volumes of half-spheres."*

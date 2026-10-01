@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word of more than three syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word of more than three syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word having more than three syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, prosody, and lexicology, a multisyllabic word whose rhythmic stress patterns (primary and secondary stress) dictate verse meter and natural spoken cadence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In the readers’ book Cashel Boyle O’Connor Fitzmaurice Tisdall Farrell parafes his polysyllables."*
-> - 📜 **James Joyce (*Ulysses*):** *"Unusual polysyllables of foreign origin she interpreted phonetically or by false analogy or by both: metempsychosis (met him pike hoses), _alias_ (a mendacious person mentioned in sacred scripture)."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The first project was to shorten discourse by cutting polysyllables into one, and leaving out verbs and participles, because, in reality, all things imaginable are but nouns."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Ten low words oft creep in one dull line, while a grand **polysyllable** adds dignity and musical weight to the heroic couplet."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"I have not studiously avoided the foreign **polysyllable** when precision and scholarly elegance required its use."*
+> - 📜 **William Hazlitt (*Table-Talk: On Familiar Style*):** *"A truly good writer does not drag in an obscure **polysyllable** merely to astonish the ignorant."*

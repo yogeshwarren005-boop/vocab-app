@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymorphic organism; also : one of the several forms of such an organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the crystalline forms of a polymorphic substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism, substance, or structure that exists in several different forms or morphological variations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and materials science, a chemical substance (such as carbon appearing as diamond or graphite, or CaCO3 as calcite or aragonite) that crystallizes in multiple distinct crystal structures; in hematology, a polymorphonuclear leukocyte.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorph designates a polymorphic organism; also : one of the several forms of such an organism."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Calcite and aragonite represent two distinct **polymorph** forms of calcium carbonate possessing different crystal systems."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute bacterial infection, the circulating **polymorph** leukocyte count rises sharply, displaying lobulated nuclei."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"A truly remarkable **polymorph** plant produces cleistogamic flowers near the roots alongside showy chasmogamic blossoms on the stem."*

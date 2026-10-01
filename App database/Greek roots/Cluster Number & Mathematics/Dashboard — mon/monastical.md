@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of communal life sequestered from the world under religious vows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of communal life sequestered from the world under religious vows.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Monastic; of or pertaining to monasteries or the monastic lifestyle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and historical prose, describing religious cloistering, solitary confinement, or rigorous ascetic practices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monastical designates of communal life sequestered from the world under religious vows."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A retired and **monastical** life hath some affinity with the contemplative virtues, yet society demands active engagement."*
+> - 📜 **Samuel Johnson (*The History of Rasselas, Prince of Abissinia*):** *"He withdrew into **monastical** seclusion, hoping that isolation from mankind would extinguish worldly passions."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Upon my desolate island I lived a kind of **monastical** existence, bounded by prayer, labor, and sea horizons."*

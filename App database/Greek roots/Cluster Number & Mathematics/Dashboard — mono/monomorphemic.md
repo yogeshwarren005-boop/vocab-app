@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of only one morpheme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of only one morpheme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of only a single morpheme; incapable of being analyzed into smaller meaningful grammatical units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological linguistics, designating root words (such as 'cat', 'walk', or 'blue') that lack derivational or inflectional affixes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monomorphemic designates consisting of only one morpheme."*
+> - 📜 **Steven Pinker (*Words and Rules*):** *"While 'cats' is polymorphemic, the basic noun 'cat' is strictly **monomorphemic**, carrying meaning as an indivisible lexical atom."*
+> - 📜 **Noam Chomsky (*The Minimalist Program*):** *"Lexical insertion draws **monomorphemic** items from the lexicon to initiate syntactic derivation."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Languages differ profoundly in whether basic concepts are expressed by **monomorphemic** roots or elaborate compound stems."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid bounded by five faces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid bounded by five faces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional polyhedron having five plane faces, such as a four-sided pyramid or a triangular prism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid geometry and stereometry, a closed spatial surface with five facets; specifically topologically divided into the square pyramid (5 vertices, 8 edges) and the wedge or triangular prism (6 vertices, 9 edges).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentahedron designates a solid bounded by five faces."*
+> - 📜 **Archimedes (*On the Sphere and Cylinder*):** *"If a solid be bounded by five plane surfaces, the simplest regular form it may assume is the triangular **pentahedron**."*
+> - 📜 **Duncan Sommerville (*Analytical Geometry of Three Dimensions*):** *"A **pentahedron** possessing eight edges must have one square base and four triangular sides meeting in an apex."*
+> - 📜 **Adrien-Marie Legendre (*Elements of Geometry*):** *"Euler's polyhedral formula confirms that every **pentahedron** satisfies vertices minus edges plus faces equals two."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing, or having the face adorned with, eyeglasses or an eyeglass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing, or having the face adorned with, eyeglasses or an eyeglass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing a monocle; fitted or adorned with a single eyeglass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or evoking the aristocratic, haughty, or formal demeanor associated with a monocle wearer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocled designates wearing, or having the face adorned with, eyeglasses or an eyeglass."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"A tall, **monocled** gentleman bowed stiffly from the doorway, conveying imperial hauteur in every gesture."*
+> - 📜 **John le Carré (*Tinker, Tailor, Soldier, Spy*):** *"Smiley recalled the **monocled** veteran who had directed wartime intelligence with frosty, eccentric precision."*
+> - 📜 **Agatha Christie (*The Mysterious Affair at Styles*):** *"The **monocled** detective examined the broken vase with silent, concentrated scrutiny."*

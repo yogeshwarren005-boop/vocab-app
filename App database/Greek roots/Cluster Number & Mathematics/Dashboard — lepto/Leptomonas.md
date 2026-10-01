@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus within the family Trypanosomatidae&nbsp;– certain parasitic flagellate protists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic genus within the family Trypanosomatidae&nbsp;– certain parasitic flagellate protists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of monoxenous, parasitic flagellate protozoans in the family Trypanosomatidae that inhabit the digestive tracts of invertebrates, especially insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology and protozoology, primitive kinetoplastid flagellates exhibiting a single promastigote stage with an anterior flagellum, studied as evolutionary models for Leishmania and Trypanosoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Leptomonas designates a taxonomic genus within the family trypanosomatidae&nbsp;– certain parasitic flagellate protists."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology: Protozoa*):** *"The gut of the common water-scorpion swarms with slender flagellates belonging to the genus **Leptomonas**."*
+> - 📜 **Charles Nicolle (*Researches on Leishmaniasis*):** *"Cultural forms of Leishmania closely resemble the monogenetic insect flagellates of **Leptomonas**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Comparative parasitology illustrates how parasitic trypanosomes evolved from monoxenous ancestors like **Leptomonas**."*

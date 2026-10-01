@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: dekameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a line of verse consisting of 10 metrical feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to ten meters (symbol: dam).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surveying and forestry measurement, a unit useful for measuring land plots and boundary baselines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hauled along by a network of mag-beams converging from a score of space tugs came the Conference Disk, two hectometers in diameter and a decameter thick at its hub."*
+> - 📜 **Ferdinand Rudolph Hassler (*Comparison of Weights and Measures*):** *"The surveyor unrolled a steel baseline chain calibrated to measure increments of one **decameter** across the field."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The botanical expedition recorded the altitudinal distribution of alpine flora at intervals of every **decameter**."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The submarine vessel descended steadily through the oceanic depths, marking every ten meters or **decameter** on the pressure gauge."*

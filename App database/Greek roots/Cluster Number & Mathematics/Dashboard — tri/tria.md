@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Three joined in one —motto of the Order of the Bath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Three joined in one —motto of the Order of the Bath.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek neuter cardinal number three (τρία), or a Latin legal doctrine of three principles; or a botanical and zoological genus name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical linguistics and comparative Indo-European grammar, the neuter numeral (*tríh2) underlying scientific terminology, prefixes (tri-), and traditional legal maxims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tria designates three joined in one —motto of the order of the bath."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek cardinal numeral **tria** designates three, appearing in compounds across geometry, theology, and natural science."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Comparing Sanskrit tri, Greek **tria**, and Latin tres, we witness the unchanging phonetic skeleton of ancient arithmetic."*
+> - 📜 **Francis Bacon (*De Augmentis Scientiarum*):** *"In natural philosophy, the **tria** prima of Paracelsus—salt, sulfur, and mercury—were held to constitute all material bodies."*

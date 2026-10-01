@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place parallel to one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place parallel to one another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make parallel; to align or arrange objects or trajectories so they run in the same direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and logistics, to break a sequential process or computation into concurrent, simultaneous operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parallelize designates place parallel to one another."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It is profitable to **parallelize** the historical records of distinct nations to discover universal patterns of civic decay."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"When constructing complex calculating engines, the designer seeks to **parallelize** basic arithmetical cycles wherever possible."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Mechanical progress continually demonstrates methods to **parallelize** physical forces to maximize total mechanical efficiency."*

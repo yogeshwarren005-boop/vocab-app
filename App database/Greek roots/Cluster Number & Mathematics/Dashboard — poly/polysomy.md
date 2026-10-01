@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek soma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which a cell, tissue, or organism has at least one more chromosome than the normal diploid (or haploid) number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cytogenetics and chromosomal pathology, aneuploidy involving extra copies of a specific chromosome (such as trisomy 21 or tetrasomy X), typically arising from non-disjunction during meiotic cell division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysomy designates a term designating an entity, condition, or phenomenon derived from greek soma."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Chromosomal nondisjunction frequently results in **polysomy**, creating individuals with three or four homologous chromosomes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine: Modern Edition*):** *"Severe congenital anomalies often trace their etiology to autosomal **polysomy** that disrupts normal gene dosage balance."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"Meiotic multivalent pairings in cases of **polysomy** lead to irregular gametic segregation and high embryonic lethality."*

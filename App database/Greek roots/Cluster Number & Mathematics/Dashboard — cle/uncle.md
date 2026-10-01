@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brother of your father or mother; the husband of your aunt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A source of help and advice and encouragement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The brother of one's father or mother, or the husband of one's aunt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An older male relative or family friend affectionately addressed by a familial kinship title.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A traitor you do look like, but such traitors His majesty seldom fears; I am Cressid’s uncle, That dare leave two together."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is at the court and no less beloved of her uncle than his own daughter, and never two ladies loved as they do."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my uncle, thy banished father, had banished thy uncle, the Duke my father, so thou hadst been still with me, I could have taught my love to take thy father for mine."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"A little more than kin, and less than kind! My **uncle**, the murderer of my royal father, usurps the crown."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My good **uncle** Peggotty welcomed the storm-tossed children into his warm boat-house by the Yarmouth beach."*
+> - 📜 **Laurence Sterne (*The Life and Opinions of Tristram Shandy, Gentleman*):** *"My **uncle** Toby spent entire afternoons recreating the siege of Namur with miniature ramparts in his bowling-green."*

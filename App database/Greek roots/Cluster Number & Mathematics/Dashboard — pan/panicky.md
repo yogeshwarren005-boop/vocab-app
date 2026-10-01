@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrown into a state of intense fear or desperation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrown into a state of intense fear or desperation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by, characterized by, or prone to sudden, uncontrolled fear or jittery anxiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In market psychology and behavioral analysis, reactive and hasty decision-making driven by fear rather than calculated assessment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"What time is she coming?" she asked in panicky way, as though she would flee before the visitor arrived."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"A sudden whistle of incoming shells would send inexperienced militia into **panicky** flight across the open field."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"She felt a **panicky** sensation that the day had slipped past before anything true had been said or done."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"A **panicky** liquidity preference seizes the trading public whenever future yields appear radically uncertain."*

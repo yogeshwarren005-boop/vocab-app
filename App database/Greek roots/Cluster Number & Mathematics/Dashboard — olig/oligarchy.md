@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the few.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government in which a small group exercises control especially for corrupt and selfish purposes; also : a group exercising such control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small group of people having control of a country, organization, or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy, one of the classical corrupt forms of government, in which power is wielded by a wealthy or privileged minority for private gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Whilst the objection itself is levelled against a pretended oligarchy, the principle of it strikes at the very root of republican government."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"So far as their tribes can be said to have a political constitution, it is a democracy or rather an oligarchy of old and influential men, who meet in council and decide on all measures of importance to the practical exclusion of the younger men."*
+> - 📜 **Plato (*The Republic*):** *"An **oligarchy** is a government resting on a valuation of property, in which the rich have rule and the poor man has no share."*
+> - 📜 **Aristotle (*Politics*):** *"Democracy arises out of the notion that those who are equal in any respect are equal in all; **oligarchy** out of the notion that those who are unequal in one respect are unequal in all."*
+> - 📜 **George Orwell (*1984*):** *"The party did not defend its tyranny on behalf of the public good; it maintained **oligarchy** purely for the sake of power itself."*

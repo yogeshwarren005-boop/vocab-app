@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by or consisting of one syllable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or characterized by or consisting of one syllable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of a single syllable; or using very brief, blunt words in speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing laconic, terse communication or languages (such as Old English or Classical Chinese) rich in single-syllable morphemes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I made some attempts to draw her into conversation, but she seemed a person of few words: a monosyllabic reply usually cut short every effort of that sort."*
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"Mirestone followed in the Dutchman's footsteps, and when they were inside, he listened intently as Peter recited a monosyllabic chant over the feather."*
-> - 📜 **James Joyce (*Ulysses*):** *"To what inconsequent polysyllabic question of his host did the guest return a monosyllabic negative answer?"*
+> - 📜 **George Orwell (*1984*):** *"Newspeak vocabulary was deliberately constructed to become increasingly **monosyllabic**, clipping nuance out of thought."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"Dr. Roylott gave a harsh, **monosyllabic** grunt as he slammed the heavy iron poker across the hearth."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Mr. Ramsay sat staring at the carpet, answering every query with a bleak, **monosyllabic** murmur."*

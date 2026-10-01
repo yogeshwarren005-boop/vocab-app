@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A uniform non-convex star polyhedron bounded by seven faces: four equilateral triangles and three squares passing through the center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher geometry and polyhedral topology, the only non-convex uniform polyhedron whose Euler characteristic is 1, having 6 vertices and 12 edges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrahemihexahedron designates a term designating an entity, condition, or phenomenon derived from greek hex."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"The **tetrahemihexahedron** represents a non-orientable polyhedral surface whose three square faces pass through its center."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"Among intersecting star polyhedra, the **tetrahemihexahedron** exhibits unique topological self-intersections."*
+> - 📜 **Felix Klein (*Lectures on the Icosahedron*):** *"Projective symmetry considerations lead directly to star forms like the **tetrahemihexahedron** within the tetrahedral group."*

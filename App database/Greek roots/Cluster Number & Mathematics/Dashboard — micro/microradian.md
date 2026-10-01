@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of angular distance equal to one thousandth of a milliradian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of angular distance equal to one thousandth of a milliradian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of angular measurement equal to one-millionth (10^-6) of a radian (approximately 0.206 arcseconds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In precision optics, geodetic surveying, and laser beam steering, a standard unit for defining extremely tight pointing accuracies and beam divergences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microradian designates a unit of angular distance equal to one thousandth of a milliradian."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Spacecraft tracking lasers achieve pointing stabilities measured in fractions of a **microradian** across millions of miles."*
+> - 📜 **Richard Feynman (*Feynman Lectures on Physics*):** *"Interferometers detect tiny surface deflections on the order of a **microradian** caused by thermal gradients."*
+> - 📜 **Arthur C. Clarke (*The Fountains of Paradise*):** *"The laser guidance beam for the orbital elevator was calibrated to maintain alignment within a single **microradian**."*

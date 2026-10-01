@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to micrometeorites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to micrometeorites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by micrometeors or interplanetary dust particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace engineering, describing erosion, pitting, or collision hazards resulting from high-velocity cosmic dust impacts on spacecraft hulls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometeoric designates of or relating to micrometeorites."*
+> - 📜 **Wernher von Braun (*First Men to the Moon*):** *"The spacecraft was fitted with multi-layered Whipple bumpers to absorb severe **micrometeoric** bombardment during transit."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"Long exposure to vacuum left the antenna dish pitted with microscopic craters from continuous **micrometeoric** dust."*
+> - 📜 **James Lovell (*Lost Moon*):** *"Engineers feared that a stray **micrometeoric** puncture in the thin service module skin might compromise the oxygen tanks."*

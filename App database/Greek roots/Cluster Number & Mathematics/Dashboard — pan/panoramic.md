@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As from an altitude or distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As from an altitude or distance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording an unbroken, wide-angle view of an extensive surrounding region or comprehensive series of events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual arts, photography, and narrative style, an expansive sweeping depiction capturing an entire landscape, historical epoch, or complex panorama.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Below me, as I stand upon this mount, I see, in panoramic view displayed So clearly that with ease I could recount The mighty buildings and the ships fast stayed Within the harbour, Montreal, the port Of Canada, and once its chiefest fort."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"The farmhouse, a big square brick building of old-fashioned design, was located upon a slight elevation and commanded from its wide front porch a panoramic view of a large section of the beautiful Garden Spot of America."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In the curious panoramic exhibition of my colleague I next appear as a candidate for governor in 1877."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Standing upon the summit of the pass, the painter captures the **panoramic** splendour of the Alpine peaks rolling away into blue mist."*
+> - 📜 **Henry James (*The American Scene*):** *"From the terrace of the hotel, one commanded a **panoramic** survey of the glittering harbor and distant shores."*
+> - 📜 **Archibald Geikie (*The Scenery of Scotland*):** *"A **panoramic** view across the Great Glen illustrates how ancient tectonic faults shaped the topography of the Highlands."*

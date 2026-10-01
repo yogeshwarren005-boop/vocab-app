@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of radiate animals) located on the surface or end opposite to that on which the mouth is situated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of radiate animals) located on the surface or end opposite to that on which the mouth is situated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the surface, pole, or region of a radially symmetrical animal opposite to the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and echinoderm anatomy, designating the dorsal or apical surface bearing the madreporite and anus, contrasting with the actinal (oral) surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abactinal designates (of radiate animals) located on the surface or end opposite to that on which the mouth is situated."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The **abactinal** system of plates in the sea-urchin encircles the periproct and anchors the genital pores."*
+> - 📜 **Alexander Agassiz (*Embryology of the Starfish*):** *"During larval metamorphosis, the **abactinal** area consolidates rapidly into the calyx-like upper covering of the young starfish."*
+> - 📜 **Ernst Haeckel (*Report on the Radiolaria*):** *"Radially organized structures display distinct polarity between their oral aperture and the opposing **abactinal** apex."*

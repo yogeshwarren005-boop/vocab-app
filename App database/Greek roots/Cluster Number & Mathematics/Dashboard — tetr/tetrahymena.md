@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relative of the paramecium; often used in genetics research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relative of the paramecium; often used in genetics research.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of free-living, freshwater ciliated protozoans widely used as model organisms in biochemical, genetic, and molecular research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and genetics, a binucleate ciliate (*Tetrahymena thermophila*) used in pioneering discoveries including telomeres, telomerase, self-splicing catalytic RNA (ribozymes by Thomas Cech), and histone acetyltransferases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrahymena designates relative of the paramecium; often used in genetics research."*
+> - 📜 **Thomas Cech (*Nobel Lecture: Self-Splicing and Enzymatic Activity of an Intervening Sequence RNA*):** *"Our studies on the nuclear ribosomal RNA gene of **Tetrahymena** thermophila revealed that RNA could catalyze its own splicing without proteins."*
+> - 📜 **Elizabeth Blackburn (*Nobel Lecture: Telomeres and Telomerase*):** *"The abundant linear minichromosomes of **Tetrahymena** provided the ideal experimental system for discovering the telomerase enzyme."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Ciliate organisms like **Tetrahymena** exhibit a dual nuclear apparatus, maintaining a germline micronucleus and an active macronucleus."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement to secure the political union of Greece and Cyprus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement to secure the political union of Greece and Cyprus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The political movement or goal aiming at the unification of Cyprus (or other historically Greek territories) with the state of Greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern Hellenic history (Greek ἕνωσις, union), the 19th- and 20th-century nationalist aspiration of Greek Cypriots for union with mainland Greece.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enosis designates a movement to secure the political union of greece and cyprus."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Passionate agitation for **enosis** among Greek Cypriots repeatedly strained diplomatic relations across the eastern Mediterranean."*
+> - 📜 **George Finlay (*A History of Greece*):** *"The popular cry of **enosis** animated the islanders of the Ionian and Aegean seas throughout their struggle against alien rule."*
+> - 📜 **Arnold J. Toynbee (*The Western Question in Greece and Turkey*):** *"The irresistible emotional pull of **enosis** transformed local administrative grievances into an international territorial crisis."*

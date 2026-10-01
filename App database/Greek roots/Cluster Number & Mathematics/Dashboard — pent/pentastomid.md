@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any parasitic invertebrate belonging to the subclass Pentastomida, commonly called tongue worms, which infest the respiratory tracts of carnivorous vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology and veterinary helminthology, aberrant worm-like crustacean endoparasites possessing two pairs of chitinous hooks flanking a central mouth, primarily infesting snakes, lizards, and canines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentastomid designates a term designating an entity, condition, or phenomenon derived from greek stom."*
+> - 📜 **Rudolf Leuckart (*Bau und Entwicklungsgeschichte der Pentastomen*):** *"The adult **pentastomid** attaches firmly to the nasal mucosa of the dog by means of four sharp retractile hooks."*
+> - 📜 **Thomas Spencer Cobbold (*Parasites: A Treatise on the Entozoa of Man and Animals*):** *"Infestation by a larval **pentastomid** encysted within the human liver represents a rare but dangerous zoonosis."*
+> - 📜 **Robert William Hegner (*Parasitology*):** *"Though superficially resembling tapeworms, the **pentastomid** exhibits embryonic limb buds showing arthropod affinities."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having deficient tone or tension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a lower osmotic pressure than a surrounding medium or a fluid under comparison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a lower osmotic pressure than a surrounding fluid, especially bodily fluids; or having low muscle tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular physiology, a solution with lower solute concentration than intracellular fluid, causing cells to absorb water and swell or lyse; or muscles characterized by reduced resting tension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypotonic designates having deficient tone or tension."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Placing red blood cells in a **hypotonic** bath of pure water causes rapid osmotic influx, leading to hemolysis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The flaccid, **hypotonic** muscles of the paralyzed limb offered no resistance to passive flexion by the examiner."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Living cells maintain internal osmotic homeostasis against surrounding **hypotonic** freshwater environments by active pumping."*

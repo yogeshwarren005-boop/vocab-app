@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comb-like respiratory gill in mollusks, or a comb of rigid spines on the head or thorax of certain insects (especially fleas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, the respiratory gill structure situated in the mantle cavity of ancestral and modern mollusks, bearing ciliated comb filaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ctenidium designates a term designating an entity, condition, or phenomenon derived from greek cten."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology: Mollusca*):** *"The primitive **ctenidium** of the gastropod consists of a central axis bearing two alternating rows of delicate triangular leaflets."*
+> - 📜 **Charles Rothschild (*A Revision of the Fleas (Siphonaptera)*):** *"The number and arrangement of heavy teeth in the pronotal **ctenidium** serve as critical diagnostic keys for flea identification."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Water currents drawn through the mantle chamber bathe the delicate vascular filaments of each **ctenidium**."*

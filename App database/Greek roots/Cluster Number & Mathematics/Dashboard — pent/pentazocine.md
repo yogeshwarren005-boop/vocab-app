@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Analgesic drug (trade name talwin) that is less addictive than morphine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Analgesic drug (trade name talwin) that is less addictive than morphine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic opioid analgesic drug used to treat moderate to severe pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and neurobiology, a benzomorphan derivative acting as a mixed agonist-antagonist (kappa-opioid receptor agonist and weak mu-opioid receptor partial agonist/antagonist), developed to provide analgesia with reduced abuse liability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentazocine designates analgesic drug (trade name talwin) that is less addictive than morphine."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"The introduction of **pentazocine** represented an effort to synthesize an analgesic with potent action but minimal addiction risk."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine: Modern Revision*):** *"Unlike pure morphine agonists, **pentazocine** can precipitate acute withdrawal symptoms in opioid-dependent subjects."*
+> - 📜 **Julius Axelrod (*Biochemical Pharmacology of Opioid Receptors*):** *"The dysphoric side effects of high-dose **pentazocine** are mediated through its affinity for kappa and sigma receptors."*

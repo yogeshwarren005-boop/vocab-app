@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drill instructor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twice : twofold : double.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining prefix derived from Greek δίς (dis) meaning twice, two, or double.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, taxonomy, and linguistics, a productive prefix denoting the presence of two atoms, groups, parts, or phases (as in dioxide, dimorphism, diatomic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KATHARINE. _Ainsi dis-je_, d’elbow, de nick, _et_ de sin. _Comment appelez-vous le pied et la robe?_ ALICE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You jack’nape, give-a dis letter to Sir Hugh."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The truth being known, We’ll all present ourselves, dis-horn the spirit, And mock him home to Windsor."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek prefix **di-**, shortened from dis, universally signifies twofold or double in scientific coinages."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Prefixal **di-** attaches to nouns and adjectives to indicate dual structure or repeated occurrence."*
+> - 📜 **Jons Jacob Berzelius (*A View of the Progress and Present State of Animal Chemistry*):** *"Compounds bearing the prefix **di-** contain two proportions of oxygen or acid to one proportion of base."*

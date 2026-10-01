@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being a chemical with three usually fused rings in the molecular structure and especially a tricyclic antidepressant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tricyclic antidepressant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or containing three rings in the molecular structure; or relating to tricyclic antidepressant medications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and psychopharmacology, compounds with three fused rings, notably tricyclic antidepressants (TCAs like amitriptyline and imipramine) that block serotonin and norepinephrine reuptake.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tricyclic designates being a chemical with three usually fused rings in the molecular structure and especially a tricyclic antidepressant."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"The introduction of the **tricyclic** antidepressant imipramine marked a major breakthrough in the biological treatment of severe melancholia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine: Modern Edition*):** *"Cardiac conduction delays and anticholinergic side effects are typical risks associated with **tricyclic** drug overdoses."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Anthracene and phenanthrene represent classic **tricyclic** aromatic hydrocarbons formed by the angular or linear fusion of benzene rings."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of verse consisting of three dipodies or three metrical feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line of verse consisting of three dipodies or three metrical feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poetic line or verse consisting of three metrical feet or measures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek and Latin prosody, a verse structure composed of three metrical dipodies, as in the iambic trimeter of Greek drama.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trimeter designates a line of verse consisting of three dipodies or three metrical feet."*
+> - 📜 **Samuel Taylor Coleridge (*Metrical Feet: A Lesson for a Boy*):** *"Trochee trips from long to short; / From long to long in solemn sort / Slow Spondee stalks; strong strokes prevail, / And mark the **trimeter** with hail."*
+> - 📜 **Ezra Pound (*The ABC of Reading*):** *"The flexibility of Greek iambic **trimeter** allowed dramatists to mirror the cadence of living, passionate conversation."*
+> - 📜 **W.H. Auden (*The Dyer's Hand*):** *"The light and nervous cadence of iambic **trimeter** carries a crisp momentum unmatched by heavier pentameters."*

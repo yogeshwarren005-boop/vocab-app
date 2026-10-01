@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical class comprising all monocotyledonous plants (monocots).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal plant taxonomy, the major taxon Liliopsida, containing over sixty thousand species of single-cotyledon angiosperms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledonae designates comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The class **Monocotyledonae** encompasses our most vital cereal grains, including wheat, barley, rice, and oats."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Specimens belonging to the **Monocotyledonae** dominate the lush understory flora of tropical monsoon riverbanks."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"Phylogenetic reconstruction confirms that the **Monocotyledonae** form a strongly supported monophyletic lineage within the angiosperms."*

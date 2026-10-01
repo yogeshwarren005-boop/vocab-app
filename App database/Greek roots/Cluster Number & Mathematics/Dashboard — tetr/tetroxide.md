@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound of an element or group with four atoms of oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless toxic gas N2O4 that is a dimer of nitrogen dioxide and that in liquid form is used as an oxidizer in rocket engines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical oxide containing four oxygen atoms per molecule or formula unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry and materials analysis, volatile heavy metal oxides in high oxidation states (notably osmium tetroxide OsO4 and ruthenium tetroxide RuO4), used as biological staining fixatives for electron microscopy and reagents for alkene dihydroxylation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetroxide designates a compound of an element or group with four atoms of oxygen."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Osmium **tetroxide** is a volatile, heavy crystalline solid in which osmium attains its maximum plus-eight oxidation state."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Fixation of nerve tissue with osmium **tetroxide** stains lipid myelin sheaths deep black by reducing the oxide to lower states."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"Fumes of ruthenium **tetroxide** are intensely irritating to the eyes and demand careful handling under a draft hood."*

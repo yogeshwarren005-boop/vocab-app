@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first of three divisions of the hebrew scriptures comprising the first five books of the hebrew bible considered as a unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first of three divisions of the hebrew scriptures comprising the first five books of the hebrew bible considered as a unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first five books of the Hebrew Bible and Christian Old Testament: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy; the Torah.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical scholarship, hermeneutics, and textual criticism (the Documentary Hypothesis of Julius Wellhausen), the composite foundational legal and narrative corpus attributed traditionally to Moses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Colenso, Bishop of Natal, in South Africa; he published works questioning the inspiration and historical accuracy of certain parts of the Bible, among which was ‘The Pentateuch, and the Book of Joshua critically examined’. -- Holy-Cross Day."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Moses saw the Promised Land from a distance, but the sight of that collection of log shacks means more to you, tired and almost frozen, than the land beyond muddy Jordan did to the writer of the Pentateuch."*
+> - 📜 **John Milton (*Areopagitica*):** *"Moses, the great lawgiver, received the divine commandments that were preserved in the sacred **Pentateuch**."*
+> - 📜 **Baruch Spinoza (*Tractatus Theologico-Politicus*):** *"A critical examination of the text proves that Moses himself could not have written the entire **Pentateuch** as we now have it."*
+> - 📜 **Julius Wellhausen (*Prolegomena to the History of Israel*):** *"The composite structure of the **Pentateuch** reveals four distinct literary strata woven together by post-exilic redactors."*

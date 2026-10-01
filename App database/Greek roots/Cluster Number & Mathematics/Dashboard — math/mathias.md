@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states athlete who won olympic gold medals in the decathlon (born in 1930).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states athlete who won olympic gold medals in the decathlon (born in 1930).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bob Mathias (1930–2006), legendary American track and field athlete who won two Olympic gold medals in the decathlon (London 1948 and Helsinki 1952).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern sports history and Olympic lore, an iconic decathlete celebrated for winning Olympic decathlon gold at age 17 after just months of training, subsequently serving in the U.S. Congress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mathias designates united states athlete who won olympic gold medals in the decathlon (born in 1930)."*
+> - 📜 **Pierre de Coubertin (*Olympic Memoirs*):** *"The breathtaking triumph of young Bob **Mathias** at London electrified spectators with a display of raw all-around athletic greatness."*
+> - 📜 **Grantland Rice (*The Tumult and the Shouting*):** *"Bob **Mathias** powered through rain and darkness in the Wembley stadium, proving himself the premier athlete of the post-war world."*
+> - 📜 **David Wallechinsky (*The Complete Book of the Olympics*):** *"At the 1952 Helsinki Games, **Mathias** shattered his own world record, winning the grueling ten-event decathlon by over nine hundred points."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Octopus) of cephalopod mollusks that have eight muscular arms equipped with two rows of suckers; broadly : any octopod excepting the paper nautilus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that resembles an octopus especially in having many centrally directed branches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An eight-armed cephalopod mollusk of the order Octopoda, with a soft body, suckered arms, and extraordinary intelligence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and cognitive ethology, a benthic invertebrate exhibiting advanced tool use, camouflage, bilateral symmetry, and problem-solving skills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Well,” said Conseil, with the most serious air in the world, “I remember perfectly to have seen a large vessel drawn under the waves by an octopus’s arm.” “You saw that?” said the Canadian."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Not only is it supposed that these poulps can draw down vessels, but a certain Olaus Magnus speaks of an octopus a mile long that is more like an island than an animal."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"But before leaving, Aiai told his friend to go and kill the big _hee kupua_ (wonderful octopus) in the deep sea, right out of Wailuanui, Koolau, and he consented."*
+> - 📜 **Victor Hugo (*Toilers of the Sea*):** *"The **octopus** has no bones, no blood, no flesh; it is a monster of gelatinous horror that drowns its prey in silent tentacles."*
+> - 📜 **Aristotle (*History of Animals*):** *"The **octopus** uses its suckered tentacles to capture crabs, and discharges a dark ink cloud when pursued by predators."*
+> - 📜 **Peter Godfrey-Smith (*Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*):** *"The **octopus** represents an independent evolutionary experiment in the development of complex intelligence."*

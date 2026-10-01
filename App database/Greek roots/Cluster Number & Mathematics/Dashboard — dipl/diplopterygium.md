@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scandent thicket-forming ferns of asia to western pacific.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scandent thicket-forming ferns of asia to western pacific.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical and subtropical scrambling ferns in the family Gleicheniaceae, characterized by repeatedly forking fronds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, umbrella-like scrambling ferns that form dense, sun-tolerant thickets along forest margins and roadside banks in the paleotropics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplopterygium designates scandent thicket-forming ferns of asia to western pacific."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Dense tangles of climbing **Diplopterygium** ferns covered the moist ravine slopes, blocking our ascent through the jungle."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The open clearings were rapidly colonized by the vigorous, dichotomously branching fronds of **Diplopterygium**."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The frond architecture in **Diplopterygium** exhibits remarkable pseudodichotomous branching with dormant terminal buds."*

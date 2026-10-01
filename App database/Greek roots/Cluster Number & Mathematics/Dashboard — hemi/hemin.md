@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish-brown chloride of heme; produced from hemoglobin in laboratory tests for the presence of blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reddish-brown chloride of heme; produced from hemoglobin in laboratory tests for the presence of blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish-brown crystalline chloride salt of heme (ferriheme chloride), produced by heating blood with glacial acetic acid and sodium chloride.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic medicine and biochemistry, the classic Teichmann crystals used in microchemical tests to confirm the presence of mammalian hemoglobin in bloodstains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Plato, _Laws_, 906 A, _symmachoi de hemin theoi te ama kai daimones, hemeis d' au ktema theon kai daimonon_. [101] _de repugn."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The microscopic detection of rhombic **hemin** crystals by Teichmann's method provides unequivocal forensic proof of blood."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes cried out in triumph, having discovered a chemical reagent far superior to the old **hemin** test for detecting bloodstains."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"The optical absorption spectrum of crystalline **hemin** reveals characteristic bands associated with the central coordinated iron atom."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of measure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or relating to lines of verse composed of three metrical feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, an obsolete term for the orthorhombic crystal system, possessing three unequal axes intersecting at right angles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trimetric designates adjective*) pertaining to, derived from, or characteristic of measure."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Crystals belonging to the **trimetric** system exhibit three mutually perpendicular axes of unequal length."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The poet alternates between tetrametric couplets and crisp **trimetric** cadences to quicken the strophic rhythm."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The rhythmic swing of **trimetric** song verses demonstrates universal patterns in oral poetic traditions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by neoteny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by neoteny.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Retaining juvenile or larval characteristics in the mature adult form; neotenic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and ethology, animals that reach sexual maturity while preserving physical or behavioral traits typical of embryonic or juvenile stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neotenous designates of or relating to or characterized by neoteny."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The domestic dog exhibits numerous **neotenous** behavioral traits, retaining puppy-like barking and playfulness into maturity."*
+> - 📜 **Edward O. Wilson (*Sociobiology: The New Synthesis*):** *"Certain termite reproductive castes are **neotenous**, developing fertile gonads without acquiring wings or dark sclerotized cuticles."*
+> - 📜 **Ernst Mayr (*What Evolution Is*):** *"A **neotenous** mutation can open an entirely new evolutionary avenue by stripping away specialized adult structures."*

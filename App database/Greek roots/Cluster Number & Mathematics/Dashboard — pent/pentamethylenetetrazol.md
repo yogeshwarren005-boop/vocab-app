@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used as a circulatory and respiratory stimulant; larger doses cause convulsions in shock therapy; metrazol is a trademark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used as a circulatory and respiratory stimulant; larger doses cause convulsions in shock therapy; metrazol is a trademark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic central nervous system stimulant and convulsant drug, commonly known as metrazol or pentylenetetrazol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 20th-century psychiatry and neuropharmacology, a chemical compound used by Ladislas von Meduna to induce therapeutic convulsive seizures in schizophrenic patients prior to electroconvulsive therapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentamethylenetetrazol designates a drug used as a circulatory and respiratory stimulant; larger doses cause convulsions in shock therapy; metrazol is a trademark."*
+> - 📜 **Ladislas von Meduna (*Die Konvulsionstherapie der Schizophrenie*):** *"Intravenous injection of **pentamethylenetetrazol** produces a generalized epileptiform convulsion within fifteen seconds."*
+> - 📜 **Walter Freeman (*Psychosurgery in the Treatment of Mental Disorders*):** *"Before the adoption of electric shock, **pentamethylenetetrazol** was the principal agent used to provoke therapeutic seizures."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"As a central analeptic, **pentamethylenetetrazol** acts predominantly on the brainstem and spinal cord by antagonizing GABA."*

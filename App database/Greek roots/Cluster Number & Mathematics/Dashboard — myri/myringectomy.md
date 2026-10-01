@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of the eardrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of the eardrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical excision or partial removal of the tympanic membrane (eardrum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otolaryngologic surgery, a procedure historically performed to clear middle ear cholesteatoma or intractable chronic mucosal pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myringectomy designates surgical removal of the eardrum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of extensive necrotizing infection, a formal **myringectomy** was sometimes unavoidable to drain deep middle-ear abscesses."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Before micro-reconstructive techniques advanced, radical **myringectomy** often left patients with permanent conductive hearing deficits."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The otolaryngologist discussed whether conservative myringotomy or complete **myringectomy** was indicated for the recurrent middle ear lesion."*

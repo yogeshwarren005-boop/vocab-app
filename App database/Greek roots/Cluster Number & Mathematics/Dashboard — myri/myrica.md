@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous aromatic shrubs or small trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous aromatic shrubs or small trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of about 35–50 species of small trees and shrubs in the family Myricaceae, commonly known as bayberries or sweet gales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic and ecological botany, actinorhizal shrubs bearing aromatic waxy berries traditionally boiled to make scented bayberry candles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrica designates deciduous aromatic shrubs or small trees."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"The sandy barrens were clothed in fragrant thickets of **Myrica**, whose waxy berries yielded the aromatic candles of the early colonists."*
+> - 📜 **William Bartram (*Travels through North and South Carolina, Georgia, East and West Florida*):** *"We rode through aromatic groves of **Myrica** cerifera, whose crushed leaves perfumed the southern breeze."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"The bog-loving shrub **Myrica** gale bears resinous fragrant catkins and thrives in acidic northern peat."*

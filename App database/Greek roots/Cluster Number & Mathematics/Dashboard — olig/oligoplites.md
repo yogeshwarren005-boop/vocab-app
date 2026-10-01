@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leatherjackets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leatherjackets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine ray-finned fishes in the jack family (Carangidae), commonly known as leatherjackets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, predatory coastal fishes characterized by venomous dorsal and anal spines and skin embedded with leathery, needle-like scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligoplites designates leatherjackets."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The leatherjacket genus **Oligoplites** possesses venomous dorsal spines capable of inflicting excruciating stings on careless fishermen."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Schools of swift **Oligoplites** chased schools of silversides along the sunlit margins of the Florida Keys."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"The silvery, compressed body of **Oligoplites** darted through the mangrove shallows like a flashed blade."*

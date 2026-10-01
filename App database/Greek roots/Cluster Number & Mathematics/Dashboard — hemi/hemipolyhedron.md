@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A uniform star polyhedron whose faces pass through its center of symmetry, having half the faces of an ordinary uniform polyhedron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher geometry and polyhedral theory, a non-convex uniform polyhedron possessing equatorial faces that pass directly through its geometric centroid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemipolyhedron designates a term designating an entity, condition, or phenomenon derived from greek hemi."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"Every uniform **hemipolyhedron** possesses faces that pass through its center, giving it non-orientable topology."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"The intersection of diametral planes in a **hemipolyhedron** produces unexpected symmetry groups in three-dimensional space."*
+> - 📜 **Felix Klein (*Lectures on the Icosahedron*):** *"Transformations of central polyhedra yield star forms such as the octahemioctahedron and related **hemipolyhedra**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worm fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worm fish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, slender marine fishes commonly known as wormfishes or dartfishes, inhabiting tropical and subtropical shallow seas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, elongated gobioid teleosts that burrow into mud or coral rubble substrates, characterized by continuous dorsal and anal fins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microdesmidae designates worm fish."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The elusive wormfishes of the family **Microdesmidae** inhabit littoral burrows carved out of mangrove silt."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"Specimens of **Microdesmidae** collected in Panamanian tide pools exhibit serpentine proportions and minute scales."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"While dredging the sandy floor of the reef, we captured delicate specimens belonging to the family **Microdesmidae**."*

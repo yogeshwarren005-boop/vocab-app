@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The introductory part of a play or narrative poem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The subordinate clause of a conditional sentence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The introductory part of a play or drama, setting forth the characters and subject; or the conditional clause of a conditional sentence (the 'if' clause).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical drama (Scaliger and Donatus), the opening exposition preceding the epitasis; in formal grammar and logic, the antecedent proposition that establishes the condition for the apodosis (consequent).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It doubles itself in the middle of his life, reflects itself in another, repeats itself, protasis, epitasis, catastasis, catastrophe."*
-> - 📜 **James Joyce (*Ulysses*):** *"Positing what protasis would the contraction for such several schemes become a natural and necessary apodosis?"*
+> - 📜 **Aristotle (*Prior Analytics*):** *"A premise or **protasis** is a sentence affirming or denying one thing of another, laying the ground for syllogistic deduction."*
+> - 📜 **John Dryden (*An Essay of Dramatic Poesy*):** *"In the **protasis**, the dramatist lays open the argument of the play and introduces the principal actors to the audience."*
+> - 📜 **Ben Jonson (*The Magnetic Lady*):** *"Let our **protasis** be clear and brief, that the spectators may understand the groundwork of our comedy without confusion."*

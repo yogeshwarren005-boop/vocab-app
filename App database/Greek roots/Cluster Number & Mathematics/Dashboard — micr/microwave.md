@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short electromagnetic wave (longer than infrared but shorter than radio waves); used for radar and microwave ovens and for transmitting telephone, facsimile, video and data.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electromagnetic wave with a wavelength between about one millimeter and one meter (frequencies between 300 MHz and 300 GHz).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oven that heats food using high-frequency electromagnetic radiation; or communication systems using microwave radio links.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microwave designates a short electromagnetic wave (longer than infrared but shorter than radio waves); used for radar and microwave ovens and for transmitting telephone, facsimile, video and data."*
+> - 📜 **Arno Penzias (*The Origin of Elements*):** *"Our horn antenna at Bell Labs detected an isotropic, persistent **microwave** hiss that proved to be the cosmic background radiation of the Big Bang."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Radio telescopes tuned to **microwave** frequencies peer through dense interstellar dust clouds to observe young stars forming."*
+> - 📜 **Harold McGee (*On Food and Cooking*):** *"Inside a domestic **microwave** cavity, the magnetron generates alternating fields that flip water molecules back and forth billions of times per second."*

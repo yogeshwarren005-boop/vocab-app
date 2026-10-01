@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gramm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Writing & Script.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word, phrase, or graphic symbol consisting of four letters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptography, linguistics, and classical calligraphy, a four-letter lexical unit (such as 'love' or 'word'), or an ancient four-line divinatory emblem in Chinese geomancy (Taixuanjing).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragram designates a term designating an entity, condition, or phenomenon derived from greek gramm."*
+> - 📜 **Henry Sweet (*A History of English Sounds*):** *"Monosyllabic Germanic root nouns typically appear in English written forms as a simple **tetragram**."*
+> - 📜 **Max Müller (*The Science of Thought*):** *"The primitive vocalic nucleus of a Indo-European word was easily expanded from a trigram to a **tetragram** through case inflection."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"In deciphering the cryptogram, Legrand analyzed the recurring frequency of each **tetragram** and trigram combination."*

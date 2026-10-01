@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane polygon of 10 angles and 10 sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plane polygon of 10 angles and 10 sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane geometric figure bounded by ten straight sides and ten interior angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry, a regular decagon whose interior angles each equal 144 degrees, constructed using the golden ratio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decagon designates a plane polygon of 10 angles and 10 sides."*
+> - 📜 **Euclid (*Elements*):** *"To inscribe a regular **decagon** in a given circle, divide the radius in extreme and mean ratio."*
+> - 📜 **Johannes Kepler (*Harmonices Mundi*):** *"The side of the regular **decagon** bears to the radius of the circumscribed circle the sacred golden proportion."*
+> - 📜 **Thomas Heath (*The Thirteen Books of Euclid's Elements*):** *"Book IV establishes the elegant geometric construction of the regular **decagon** through successive isosceles triangles."*

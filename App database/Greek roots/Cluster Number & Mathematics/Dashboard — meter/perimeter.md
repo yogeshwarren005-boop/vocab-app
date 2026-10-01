@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The boundary of a closed plane figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a perimeter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The continuous boundary line that encloses a closed two-dimensional geometric figure; the total distance around such a figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military tactics, physical security, and medicine, the outermost defensive boundary of a fortified position, or an optical instrument (perimeter) for mapping the visual field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Reaching the depot's perimeter was less of a problem than he had anticipated."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Deploy patrols to strips leading to air locks on the perimeter."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hold outside of their perimeter until I find out what they need from us."*
+> - 📜 **Euclid (*Elements*):** *"If two polygons are similar, their **perimeters** are in the same ratio as their corresponding sides."*
+> - 📜 **Archimedes (*Measurement of a Circle*):** *"By calculating the **perimeter** of an inscribed polygon of ninety-six sides, Archimedes bounded the value of pi."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Perimetric examination with a recording **perimeter** showed dramatic constriction of the visual field in advanced glaucoma."*

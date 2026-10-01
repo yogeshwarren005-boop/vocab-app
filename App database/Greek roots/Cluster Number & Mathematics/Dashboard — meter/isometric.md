@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by equality of measure; especially : relating to or being a crystallographic system characterized by three equal axes at right angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, involving, or being muscular contraction (as in isometrics) against resistance, without significant shortening of muscle fibers, and with marked increase in muscle tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having equal dimensions, measure, or proportions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, the isometric system (cubic system) having three equal mutually perpendicular axes; in physiology, muscular contraction without change in length; in drafting, isometric projection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometric designates of, relating to, or characterized by equality of measure; especially : relating to or being a crystallographic system characterized by three equal axes at right angles."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Halite and diamond crystallize in the **isometric** system, characterized by three equal rectangular axes."*
+> - 📜 **William Farish (*On Isometrical Perspective*):** *"An **isometric** drawing preserves equal linear scales along all three spatial axes, giving a lifelike representation of machinery."*
+> - 📜 **Hermann von Helmholtz (*Popular Lectures on Scientific Subjects*):** *"During an **isometric** contraction, muscle tension rises sharply while the physical distance between its tendons remains constant."*

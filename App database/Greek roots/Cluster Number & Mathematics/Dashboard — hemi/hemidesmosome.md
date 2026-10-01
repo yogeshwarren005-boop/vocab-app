@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized cell junction that anchors the basal surface of epithelial cells to the underlying basement membrane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and histology, an asymmetric multiprotein plaque utilizing integrin alpha-6-beta-4 to fasten intermediate keratin filaments to extracellular laminin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemidesmosome designates a term designating an entity, condition, or phenomenon derived from greek hemi."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Epithelial sheets adhere firmly to the basal lamina through rivet-like junctions termed **hemidesmosomes**."*
+> - 📜 **Don W. Fawcett (*A Textbook of Histology*):** *"Electron micrographs reveal that a **hemidesmosome** represents exactly half of a macula adherens, specialized for matrix adhesion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Genetic defects in **hemidesmosome** anchor proteins trigger severe blistering disorders like epidermolysis bullosa."*

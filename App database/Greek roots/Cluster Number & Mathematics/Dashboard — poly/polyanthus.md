@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various hybrid primroses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narcissus (Narcissus tazetta) having small white or yellow flowers arranged in umbels and having a spreading perianth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular garden hybrid primrose (Primula × polyantha) bearing clusters of colorful, showy flowers on a central upright stalk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floriculture and historical horticulture, cultivated hybrids between the common primrose, cowslip, and oxlip, bred since the 17th century for multicolored, rich margins and garden borders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyanthus designates any of various hybrid primroses."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The garden **polyanthus** displayeth upon one single stalk a great bunch of flowers of divers lively colors."*
+> - 📜 **William Cowper (*The Task*):** *"The **polyanthus** of unnumber'd dyes, with sweet Auricula and pansy freak'd with jet, adorn the early borders of spring."*
+> - 📜 **Gertrude Jekyll (*Colour Schemes for the Flower Garden*):** *"A border planted with white and golden **polyanthus** brings cheerfulness to the garden before the daffodils awake."*

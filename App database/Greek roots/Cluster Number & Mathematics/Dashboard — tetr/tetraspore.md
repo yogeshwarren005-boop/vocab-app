@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the four haploid asexual spores developed meiotically in the red algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the four haploid asexual spores developed meiotically in the red algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a group of four haploid asexual spores produced by meiosis within a tetrasporangium in red algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine phycology, non-motile spores that germinate into independent haploid dioecious gametophytes, completing the triphasic (haploid-diploid-diploid) life cycle of red algae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetraspore designates one of the four haploid asexual spores developed meiotically in the red algae."*
+> - 📜 **William Henry Harvey (*Nereis Boreali-Americana*):** *"When released from the frond, each **tetraspore** drifts with coastal currents before settling to germinate into a sexual plant."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"The germination of a **tetraspore** initiates the carposporophyte-gametophyte cycle with precise alternation of nuclear phases."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Red seaweeds cast countless microscopic **tetraspore** cells into the surf to colonize rocky intertidal crevices."*

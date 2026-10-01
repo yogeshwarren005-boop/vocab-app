@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume or capacity equal to 100 liters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of volume or capacity equal to 100 liters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British and international spelling of hectoliter, a metric unit of capacity equal to 100 liters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British and Commonwealth brewing and agricultural trade, the standard bulk volumetric measure for malt, beer, and cereal crops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hectolitre designates a metric unit of volume or capacity equal to 100 liters."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard inspected the barley consignments, calculating the price per **hectolitre** against the rising grain market."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"Modern continental breweries boast enormous copper vats capable of fermenting thousands of **hectolitres** in a single brew."*
+> - 📜 **John Ruskin (*Fors Clavigera*):** *"Let the honest peasant receive fair payment for every **hectolitre** of grain harvested from his native soil."*

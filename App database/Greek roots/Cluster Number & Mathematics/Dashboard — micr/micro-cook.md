@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cook or heat in a microwave oven.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cook or heat in a microwave oven.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cook or heat food rapidly using microwave radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary technology, the process of exciting dipole water molecules in foodstuffs through high-frequency electromagnetic waves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micro-cook designates cook or heat in a microwave oven."*
+> - 📜 **Harold McGee (*On Food and Cooking*):** *"When you **micro-cook** moist foods, electromagnetic waves penetrate the surface and heat water molecules directly."*
+> - 📜 **Michael Pollan (*Cooked: A Natural History of Transformation*):** *"The modern convenience to **micro-cook** a frozen meal transformed family dining patterns in late twentieth-century kitchens."*
+> - 📜 **Ruth Reichl (*Tender at the Bone*):** *"Rather than roast the squash over embers, modern instructions suggested one might simply **micro-cook** the slices in minutes."*

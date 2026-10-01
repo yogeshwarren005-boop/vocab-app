@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any monosaccharide sugar containing four atoms of carbon per molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any monosaccharide sugar containing four atoms of carbon per molecule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any monosaccharide sugar containing four carbon atoms per molecule (C4H8O4), such as erythrose or threose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic stereochemistry and carbohydrate biochemistry, four-carbon aldoses (aldotetroses) and ketoses (ketotetrose / erythrulose) that served as foundational reference molecules in Emil Fischer's elucidation of optical isomerism and sugar configurations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrose designates any monosaccharide sugar containing four atoms of carbon per molecule."*
+> - 📜 **Emil Fischer (*Investigations on the Carbohydrate Group*):** *"By systematic degradation of pentoses, we obtained the four-carbon **tetrose** sugars erythrose and threose."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The four-carbon monosaccharide **tetrose** contains two asymmetric centers, giving rise to four distinct stereoisomers."*
+> - 📜 **Arthur Harden (*Alcoholic Fermentation*):** *"Phosphorylated **tetrose** intermediates play crucial transitional roles in the non-oxidative branch of the pentose phosphate pathway."*

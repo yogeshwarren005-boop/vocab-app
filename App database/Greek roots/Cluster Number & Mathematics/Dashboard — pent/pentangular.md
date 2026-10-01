@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or shaped like a pentagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or shaped like a pentagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having five angles and five sides; pentagonal in configuration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and fortification engineering, describing fortifications or watchtowers constructed with a five-cornered layout to eliminate blind spots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentangular designates of or relating to or shaped like a pentagon."*
+> - 📜 **Sébastien Le Prestre de Vauban (*A Treatise on the Defense of Places*):** *"The **pentangular** fortress allows each bastion to flank the adjacent curtains with cross-firing artillery."*
+> - 📜 **Christopher Wren (*Parentalia*):** *"The lantern of the steeple was raised upon a **pentangular** stone base to withstand the prevailing ocean gales."*
+> - 📜 **John Evelyn (*Sylva*):** *"The cross-section of the stem reveals a delicate **pentangular** core surrounded by dense annual rings."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive secretion of urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive secretion of urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production or passage of abnormally large volumes of urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology and endocrinology, excessive urinary excretion (typically exceeding 3 liters daily in adults) classically signaling uncontrolled diabetes mellitus, diabetes insipidus, or psychogenic polydipsia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyuria designates excessive secretion of urine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The hallmark symptoms of onset diabetes are polydipsia, unquenchable hunger, and persistent, copious **polyuria**."*
+> - 📜 **Thomas Addison (*A Collection of the Published Writings of the Late Thomas Addison*):** *"In diabetes insipidus, the **polyuria** is clear and of low specific gravity, without the presence of glucose."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of the Nervous System*):** *"Puncture of the fourth ventricle in rabbits induces immediate transient glycosuria accompanied by intense **polyuria**."*

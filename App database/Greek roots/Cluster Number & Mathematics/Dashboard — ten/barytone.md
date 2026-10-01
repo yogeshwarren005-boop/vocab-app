@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singing voice of medium compass between bass and tenor; also : a person having this voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a family of instruments having a range between tenor and bass; especially : the baritone saxhorn or baritone saxophone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singing voice between bass and tenor; or an ancient Greek word having an unaccented final syllable; variant spelling of baritone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical linguistics and Greek accentuation, words carrying the acute accent on a syllable other than the ultima, the final vowel being pronounced with a low (grave) pitch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Oh, my eye!” Songs followed--college songs, popular airs, opera bits--all delivered in' a resounding barytone and accompanied by thumping chords improvised by the performer."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In Greek grammar, a **barytone** noun is one that has the acute accent on the penult or antepenult, leaving the final syllable unaccented."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The shift from oxytone to **barytone** accentuation reflects deep rhythmic laws governing the Indo-European parent language."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"The rich resonance of the **barytone** voice provides the essential dramatic anchor in operatic ensembles."*

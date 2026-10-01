@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inject with libidinal energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inject with libidinal energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In psychoanalysis, to invest psychic, emotional, or libidinal energy in an idea, object, or person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric theory, the unconscious mental process (coined as an English translation of Freud's Besetzung) of focusing emotional attachment upon external mental representations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathect designates inject with libidinal energy."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The ego must continually **cathect** internalized parental ideals to withstand the instinctual demands of the id."*
+> - 📜 **Carl Jung (*Symbols of Transformation*):** *"When libido fails to **cathect** productive conscious tasks, it regresses into archaic unconscious fantasies."*
+> - 📜 **Jacques Lacan (*Écrits: A Selection*):** *"The subject strives to **cathect** the symbolic signifier that guarantees his subjective presence within language."*

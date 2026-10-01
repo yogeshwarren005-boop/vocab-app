@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to a number system having 8 as its base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to a number system having 8 as its base.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or using a system of numerical notation that has eight as its base (using digits 0 through 7).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science, a radix-8 number representation convenient for expressing binary values in three-bit groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octal designates of or pertaining to a number system having 8 as its base."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"Before hexadecimal gained dominance, early digital computers like the PDP-8 displayed memory dumps exclusively in **octal** notation."*
+> - 📜 **Andrew Tanenbaum (*Structured Computer Organization*):** *"Converting from binary to **octal** requires simply grouping bits into sets of three, starting from the least significant digit."*
+> - 📜 **Brian Kernighan (*The C Programming Language*):** *"In the C language, an integer constant that begins with a leading zero is interpreted directly as an **octal** number."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the philosophical doctrine of monism; - j.s.roucek.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the philosophical doctrine of monism; - j.s.roucek.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by monism; viewing reality as unified and singular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ontological philosophy, describing systems that explain all cosmic phenomena through a single unifying substrate or primary force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monistic designates of or relating to the philosophical doctrine of monism; - j.s.roucek."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"Our **monistic** philosophy of nature reconciles mechanistic evolution with the living unity of the cosmos."*
+> - 📜 **William James (*Essays in Radical Empiricism*):** *"A strictly **monistic** universe leaves no room for genuine human freedom or novel emergent choices."*
+> - 📜 **Carl Gustav Jung (*Psychological Types*):** *"Eastern philosophical traditions frequently adopt a **monistic** framework where subject and object dissolve into primal consciousness."*

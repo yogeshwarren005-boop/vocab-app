@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who knows only one language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using or knowing only one language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speaking, writing, or using only one language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics and cognitive science, describing individuals or insular speech communities that operate within a single linguistic system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monolingual designates a person who knows only one language."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"The **monolingual** speaker often mistakes the arbitrary conventions of their native tongue for the universal grammar of thought."*
+> - 📜 **George Steiner (*After Babel*):** *"To inhabit a **monolingual** existence is to view the infinite landscape of human experience through a single colored lens."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"Linguistic competence was traditionally idealized from the perspective of an adult **monolingual** native speaker."*

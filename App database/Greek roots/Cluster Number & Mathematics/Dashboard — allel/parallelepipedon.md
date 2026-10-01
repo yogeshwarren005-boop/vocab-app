@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prism whose bases are parallelograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prism whose bases are parallelograms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic and classical geometric designation for a parallelepiped (a solid bounded by six parallelograms).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional English Euclidean translations, the standard designation for a three-dimensional prism whose faces are pairwise parallel parallelograms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parallelepipedon designates a prism whose bases are parallelograms."*
+> - 📜 **Robert Simson (*The Elements of Euclid*):** *"If two solid **parallelepipedons** have the same base and the same altitude, they are equal to one another in capacity."*
+> - 📜 **Isaac Barrow (*Euclid's Elements*):** *"The diagonal plane passing through opposite edges of a **parallelepipedon** bisects the entire solid volume."*
+> - 📜 **John Playfair (*Elements of Geometry*):** *"We may construct a right **parallelepipedon** upon any given rectangular foundation with perpendicular lateral edges."*

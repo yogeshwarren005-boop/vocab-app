@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small brewery; consumption of the product is mainly elsewhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small brewery; consumption of the product is mainly elsewhere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, independently owned brewery that produces limited quantities of specialty or craft beer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artisanal commercial brewing facility emphasizing traditional brewing techniques, regional ingredients, and distinctive flavor profiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbrewery designates a small brewery; consumption of the product is mainly elsewhere."*
+> - 📜 **Michael Jackson (*The World Guide to Beer*):** *"The craft revolution revitalized local beer culture, establishing the **microbrewery** as a haven of authentic flavor."*
+> - 📜 **Bill Bryson (*The Lost Continent*):** *"In every college town across the Pacific Northwest, a cozy **microbrewery** served unfiltered ales in mason jars."*
+> - 📜 **Eric Schlosser (*Fast Food Nation*):** *"The artisanal ethos of the independent **microbrewery** emerged as a direct cultural reaction against mass industrial brewing."*

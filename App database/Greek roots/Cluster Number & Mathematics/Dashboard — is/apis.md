@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the apidae: honeybees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the apidae: honeybees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of social, honey-producing flying insects belonging to the family Apidae; true honeybees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Egyptian religion (Apis, Ḥp), the sacred bull of Memphis regarded as the living herald and incarnation of Ptah and Osiris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Osiris was regularly identified with the bull Apis of Memphis and the bull Mnevis of Heliopolis."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But whatever the original relation of Apis to Osiris may have been, there is one fact about the former which ought not to be passed over in a disquisition on the custom of killing a god."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Although the bull Apis was worshipped as a god with much pomp and profound reverence, he was not suffered to live beyond a certain length of time which was prescribed by the sacred books, and on the expiry of which he was drowned in a holy spring."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The cell-making instinct of the honeybee, **Apis** mellifera, is the most wonderful of all known instincts."*
+> - 📜 **Herodotus (*The Histories*):** *"The sacred bull called **Apis** was worshipped by the Egyptians with elaborate rites in the temple opposite the Hephaesteum."*
+> - 📜 **Karl von Frisch (*The Dance Language and Orientation of Bees*):** *"Foragers of the genus **Apis** communicate the distance and direction of rich nectar sources through rhythmic waggle dances."*

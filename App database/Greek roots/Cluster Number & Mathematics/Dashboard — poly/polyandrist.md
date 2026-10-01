@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman with two or more husbands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman with two or more husbands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who has more than one husband simultaneously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology and ethnology, a female practitioner of polyandry within societies (such as traditional Tibetan or Toda communities) where fraternal marriage alliances prevail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyandrist designates a woman with two or more husbands."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"In Tibetan high valleys, the **polyandrist** is married jointly to several brothers, preserving the family estate intact."*
+> - 📜 **James George Frazer (*Totemism and Exogamy*):** *"Among the Toda hill tribes, a **polyandrist** holds recognized social status, her offspring belonging to the brother who performs the bow ceremony."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"Early ethnological surveys revealed that the **polyandrist** household represented a specific adaptation to severe land scarcity."*

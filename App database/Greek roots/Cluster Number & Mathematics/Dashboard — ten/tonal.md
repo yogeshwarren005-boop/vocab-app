@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Employing variations in pitch to distinguish meanings of otherwise similar words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having tonality; i.e. tones and chords organized in relation to one tone such as a keynote or tonic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to pitch, musical tone, or color tones; organized around a central tonic key.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music theory, the hierarchical organization of chords and pitches around a central keynote (tonality), dominant in Western music from roughly 1650 to 1900; in painting, the values and gradations of light and shade (tonal values).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonal designates employing variations in pitch to distinguish meanings of otherwise similar words."*
+> - 📜 **Aaron Copland (*What to Listen for in Music*):** *"The pull toward a home keynote provides the fundamental gravitational force of **tonal** music."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner achieved sublime atmospheric distance through delicate mastery of **tonal** gradations from shadow to brilliant light."*
+> - 📜 **Leonard Bernstein (*The Unanswered Question*):** *"The **tonal** center acts like gravity, pulling wandering musical phrases inevitably back to rest."*

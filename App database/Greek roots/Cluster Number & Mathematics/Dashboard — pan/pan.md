@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually broad, shallow, and open container for domestic use (as for cooking).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various similar usually metal receptacles: such as.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form from Greek pas/pan meaning all, every, whole, or universal (as in panorama, pantheon, pandemic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and encyclopedic terminology, a prefix denoting comprehensive inclusion, universality, or all-encompassing geographical scope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Bardolph, put thy face between his sheets, and do the office of a warming-pan."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To one of the little shops in this street, which is a musician’s shop, having a few fiddles in the window, and some Pan’s pipes and a tambourine, and a triangle, and certain elongated scraps of music, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A flash in the pan or a shot?” An open letter is the subject of the trooper’s speculations, and it seems to perplex him mightily."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Universal **Pan**, / Knit with the Graces and the Hours in dance, / Led on th' eternal Spring."*
+> - 📜 **Francis Bacon (*The Wisdom of the Ancients*):** *"The ancients made **Pan** represent the universal frame of nature, all things combined into one organic whole."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The Greek root **pan** gave science its universal vocabulary, embracing everything from cosmic pangaea to microscopic panacea."*

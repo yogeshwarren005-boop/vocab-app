@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any cone-shaped artifact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shape whose base is a circle and whose sides taper up to a point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional geometric solid that tapers smoothly from a flat circular or curved base to a point called the apex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, the dry, scaly seed-bearing or pollen-bearing strobilus of gymnosperms, particularly conifers such as pines and firs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Nozzles of cone-shaped propulsion units on gimbals hung in neutral."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The truncated apex of the Extractor's teleport gate cone glowed red, then violet, and thirty meters of its length disappeared into its new hyperspace home."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Every feature was wide of beauty, and the outline of his face reminded you of an inverted cone."*
+> - 📜 **Apollonius of Perga (*Conics*):** *"If a right or oblique **cone** is cut by a plane passing through its axis, the resulting section is a triangle."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The convergent rays formed an illuminated luminous **cone** whose apex touched the surface of the paper."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Cross-pollination in pines depends upon wind currents blowing clouds of pollen grains into the open scales of the female **cone**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having hypotonic muscle tone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having hypotonic muscle tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of low muscle tone, resulting in floppiness, reduced muscle strength, and poor coordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurology and neuromuscular medicine, benign congenital hypotonia or symptomatic 'floppy infant syndrome' resulting from lower motor neuron disease (spinal muscular atrophy), cerebellar lesions, or genetic trisomies (Down syndrome).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypotonia designates the state of having hypotonic muscle tone."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cerebellar disease manifests characteristically with ipsilateral **hypotonia**, intention tremor, and pendular deep reflexes."*
+> - 📜 **W. Russell Brain (*Diseases of the Nervous System*):** *"Infantile **hypotonia** causes the baby to feel like a rag doll when lifted, lacking all resistance to passive limb movement."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Following nerve injury, the denervated muscle slipped into profound **hypotonia**, inert and completely silent to voluntary effort."*

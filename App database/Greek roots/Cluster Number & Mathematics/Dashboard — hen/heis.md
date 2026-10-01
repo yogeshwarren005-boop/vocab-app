@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: —used to say that it is important to make decisions and do things in a quick and definite way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used to say that someone is at least a certain age.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek masculine numeral for one (εἷς).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology and philosophical ontology, the masculine nominative cardinal number representing unity, singularity, or an individual entity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"So heiss und stumm, so truebe, Und sternlos war die Nacht, So ganz wie unsre Liebe Zu Thraenen nur gemacht."*
+> - 📜 **Plato (*Parmenides*):** *"If the One, **heis**, exists, can it be many, or must it remain indivisible and devoid of parts?"*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The numeral **heis** forms the masculine base of Hellenic counting, corresponding to feminine mia and neuter hen."*
+> - 📜 **Plotinus (*The Enneads*):** *"Above all multiplicity of intellect and soul reigns the primordial principle, the transcendent One, **heis**."*

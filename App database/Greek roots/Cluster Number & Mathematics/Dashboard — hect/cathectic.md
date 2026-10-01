@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cathexis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cathexis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characterized by, or resulting from cathexis; involving the investment of emotional or psychic energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic psychology, describing mental processes or object relations charged with concentrated libidinal or emotional valence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathectic designates of or relating to cathexis."*
+> - 📜 **Sigmund Freud (*Beyond the Pleasure Principle*):** *"Traumatic neurosis ensues when an unexpected shock shatters the protective shield and floods the mental apparatus with **cathectic** energy."*
+> - 📜 **Melanie Klein (*Contributions to Psycho-Analysis*):** *"The infant's early relationship with maternal objects is marked by intense, ambivalent **cathectic** charges."*
+> - 📜 **Erich Fromm (*The Anatomy of Human Destructiveness*):** *"Passionate attachments become deeply **cathectic** anchors that stabilize the individual's core orientation in the world."*

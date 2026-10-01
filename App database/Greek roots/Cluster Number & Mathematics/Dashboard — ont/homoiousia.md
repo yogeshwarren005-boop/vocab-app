@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine that the Son is of 'similar substance' (homoiousios) to the Father, rather than of identical substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history, the semi-Arian theological position advocated during the fourth-century trinitarian controversies, contrasting with Nicene homoousia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoiousia designates a term designating an entity, condition, or phenomenon derived from greek ont."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Christian world was split by a single diphthong, contending passionately over the subtle divide between homoousia and **homoiousia**."*
+> - 📜 **John Henry Newman (*The Arians of the Fourth Century*):** *"Moderate eastern bishops embraced **homoiousia** as a safeguard against Sabellian conflation of the divine persons."*
+> - 📜 **Jaroslav Pelikan (*The Christian Tradition: The Emergence of the Catholic Tradition*):** *"The debate over **homoiousia** forced the Church to sharpen philosophical distinctions between hypostasis and divine substance."*

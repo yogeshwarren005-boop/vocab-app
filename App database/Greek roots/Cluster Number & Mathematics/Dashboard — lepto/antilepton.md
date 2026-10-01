@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Water & Hydrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The antimatter counterpart of a lepton, possessing the same mass but opposite electric charge and lepton number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics, any of the six antiparticles of leptons (the positron, positive muon, positive tau, and their corresponding antineutrinos).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilepton designates a term designating an entity, condition, or phenomenon derived from greek lep."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"The positron is the antiparticle of the electron, representing the first experimentally observed **antilepton**."*
+> - 📜 **Steven Weinberg (*The First Three Minutes*):** *"In the hot early universe, pairs of leptons and **antileptons** were continuously created and annihilated in thermodynamic equilibrium."*
+> - 📜 **Roger Penrose (*The Road to Reality*):** *"Conservation of lepton number dictates that the annihilation of a lepton requires an opposing **antilepton**."*

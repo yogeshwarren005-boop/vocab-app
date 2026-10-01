@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ten commandments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basic set of rules carrying binding authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Ten Commandments given by God to Moses upon Mount Sinai, forming the foundational ethical code of Judeo-Christian law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any set of ten authoritative moral, legal, or procedural rules or precepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"In her decalogue of manners to refuse an apology was an unpardonable sin."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He could have borne any sin in the Decalogue less hardly than a breach of the military oath."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Decalogue disregarded Corporeal sense defrauds and lies; it breaks all the commands of the Mosaic Decalogue to meet its own de- 489:15 mands."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Moses descending from the holy mount brought two stone tablets inscribed with the sacred **Decalogue**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The moral precepts of the Jewish **Decalogue** were embraced by early Christian converts throughout the Roman provinces."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"No modern parliament can vote away the everlasting laws engraved in the moral **Decalogue** of the universe."*

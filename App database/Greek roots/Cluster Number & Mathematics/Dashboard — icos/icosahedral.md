@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an icosahedron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an icosahedron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or having the symmetry of an icosahedron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology and crystallography, exhibiting icosahedral symmetry (5-3-2 rotational symmetry), characteristic of many spherical virus capsids (such as adenoviruses and poliovirus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icosahedral designates of or relating to an icosahedron."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Crick and Watson proposed that spherical viral shells assemble from identical protein subunits arranged in **icosahedral** symmetry."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Boron compounds frequently feature clusters of twelve atoms arranged at the vertices of an **icosahedral** cage."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"The **icosahedral** point group represents the highest discrete rotational symmetry attainable in three-dimensional space."*

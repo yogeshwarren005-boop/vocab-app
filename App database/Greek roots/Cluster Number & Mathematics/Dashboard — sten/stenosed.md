@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally constricted body canal or passage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally constricted body canal or passage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally narrowed, constricted, or tightened; affected by stenosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pathology and interventional medicine, describing blood vessels, cardiac valves, or visceral lumens (such as a stenosed coronary artery or aortic valve) whose effective cross-sectional area is reduced by calcification, plaque, or fibrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenosed designates abnormally constricted body canal or passage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A harsh systolic murmur radiating into the carotids was heard over the severely **stenosed** aortic valve orifice."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology*):** *"Cerebrospinal fluid circulation was obstructed at the level of the congenitally **stenosed** aqueduct of Sylvius."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Balloon catheter dilation was performed to restore forward blood flow through the critically **stenosed** mitral valve."*

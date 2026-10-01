@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of myristicaceae; tropical asian evergreen trees with small white or yellow flowers followed by fleshy fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of myristicaceae; tropical asian evergreen trees with small white or yellow flowers followed by fleshy fruits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of pantropical evergreen trees in the family Myristicaceae, notably Myristica fragrans, the primary source of nutmeg and mace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, trees indigenous to the Moluccas whose fruit yields a hard kernel (nutmeg) enveloped in a laciniate red aril (mace).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myristica designates type genus of myristicaceae; tropical asian evergreen trees with small white or yellow flowers followed by fleshy fruits."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The ancient spice monopoly centered upon the volcanic Banda Islands, home to fertile plantations of the nutmeg tree **Myristica**."*
+> - 📜 **Alexander von Humboldt (*Views of Nature*):** *"Aromatic breezes wafted from groves of **Myristica**, whose spicy seeds spurred centuries of fierce European maritime rivalry."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Specimens of **Myristica** collected across the rain forests of Malabar exhibited fleshy pericarps enclosing brilliant scarlet arils."*

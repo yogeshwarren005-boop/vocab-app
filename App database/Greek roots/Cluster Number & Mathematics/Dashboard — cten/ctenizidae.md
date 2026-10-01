@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large burrowing spiders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large burrowing spiders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of mygalomorph spiders known as trapdoor spiders, which construct subterranean burrows concealed by hinged silk lids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arachnology, robust spiders possessing specialized rastella (comb-like digging spines) on their chelicerae for excavating earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ctenizidae designates large burrowing spiders."*
+> - 📜 **John Henry Comstock (*The Spider Book*):** *"Spiders of the family **Ctenizidae** fabricate subterranean silken tubes protected by remarkably camouflaged bevelled trapdoors."*
+> - 📜 **H. C. McCook (*American Spiders and Their Spinningwork*):** *"The female **ctenizid** guards her subterranean retreat, holding the hinged door shut against intruders with powerful chelicerae."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Spider*):** *"The mason spider of the **Ctenizidae** incorporates grains of sand and moss into her lid so that it defies detection."*

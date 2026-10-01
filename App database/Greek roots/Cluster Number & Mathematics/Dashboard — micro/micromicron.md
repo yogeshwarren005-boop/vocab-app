@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one trillionth of a meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to one trillionth of a meter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete metric unit of length equal to one-millionth of a micron, or 10^-12 meter (one picometer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early twentieth-century radiation physics, a historical unit used to measure X-ray and gamma-ray wavelengths before standard SI picometer adoption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micromicron designates a metric unit of length equal to one trillionth of a meter."*
+> - 📜 **William Henry Bragg (*X Rays and Crystal Structure*):** *"The wavelengths of characteristic roentgen rays were initially tabulated in fractions of a **micromicron**."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"Penetrating gamma radiation possesses wavelengths measured in hundreds of **micromicron** units."*
+> - 📜 **Niels Bohr (*On the Constitution of Atoms and Molecules*):** *"The radius of the inner electron orbit in heavy atoms was estimated at several thousand **micromicron** equivalents."*

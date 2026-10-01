@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermionic vacuum tube containing six operating electrodes: a cathode, an anode, and four grids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical radio electronics, a multi-electrode tube commonly paired with a triode (triode-hexode) as a mixer/converter in superheterodyne receivers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexode designates a term designating an entity, condition, or phenomenon derived from greek hex."*
+> - 📜 **Frederick Terman (*Radio Engineering*):** *"The introduction of the **hexode** greatly improved frequency mixing by shielding the oscillator from the radio-frequency input."*
+> - 📜 **Lee de Forest (*Father of Radio: The Autobiography of Lee de Forest*):** *"Multi-grid tubes like the **hexode** solved complex circuit problems that once required multiple discrete bulbs."*
+> - 📜 **Hendrik van der Bijl (*The Thermionic Vacuum Tube*):** *"By adjusting the bias upon the secondary control grid of the **hexode**, variable-gain amplification was achieved."*

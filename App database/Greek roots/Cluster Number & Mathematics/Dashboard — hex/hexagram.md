@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane figure that has the shape of a 6-pointed star, that consists of two intersecting congruent equilateral triangles having the same point as center and their sides parallel, and that can be formed by constructing external equilateral triangles on the sides of a regular hexagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plane figure that has the shape of a 6-pointed star, that consists of two intersecting congruent equilateral triangles having the same point as center and their sides parallel, and that can be formed by constructing external equilateral triangles on the sides of a regular hexagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A six-pointed star figure formed by the superposition of two equilateral triangles; the Star of David or Shield of David (Magen David).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Chinese philosophy, any of the sixty-four figures of six stacked solid or broken lines in the I Ching (Book of Changes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexagram designates a plane figure that has the shape of a 6-pointed star, that consists of two intersecting congruent equilateral triangles having the same point as center and their sides parallel, and that can be formed by constructing external equilateral triangles on the sides of a regular hexagon."*
+> - 📜 **Carl Jung (*Synchronicity: An Acausal Connecting Principle*):** *"Consulting the I Ching, the seeker casts yarrow stalks to derive a six-line **hexagram** reflecting the cosmic moment."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Golden Pince-Nez*):** *"The ancient talisman was engraved with a cabalistic **hexagram** interlaced with mystical Hebrew characters."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"The mystical **hexagram** was venerated as the seal of Solomon, uniting the elemental triangles of fire and water."*

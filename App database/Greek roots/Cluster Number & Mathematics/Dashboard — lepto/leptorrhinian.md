@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a long narrow nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a long narrow nose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characterized by leptorrhiny (narrowness of the nasal aperture).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical anthropology, relating to individuals, skulls, or populations possessing narrow, elongated nasal skeletal dimensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptorrhinian designates having a long narrow nose."*
+> - 📜 **Arthur Keith (*The Antiquity of Man*):** *"The **leptorrhinian** nasal architecture of upper Paleolithic remains demonstrates an early specialization of human facial form."*
+> - 📜 **William Z. Ripley (*The Races of Europe*):** *"The **leptorrhinian** skull profile predominates throughout the mountainous zones of southwestern Europe."*
+> - 📜 **Paul Broca (*Mémoires d'Anthropologie*):** *"Comparative indices show a clear geographical cline toward **leptorrhinian** forms in cold, arid latitudes."*

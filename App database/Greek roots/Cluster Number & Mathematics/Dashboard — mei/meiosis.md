@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presentation of a thing with underemphasis especially in order to achieve a greater effect : understatement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cellular process that results in the number of chromosomes in gamete-producing cells being reduced to one half and that involves a reduction division in which one of each pair of homologous chromosomes passes to each daughter cell and a mitotic division.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized form of cell division in sexually reproducing eukaryotes that reduces the chromosome number by half, producing four genetically diverse haploid gametes or spores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, the two-stage reduction division (meiosis I and II) comprising prophase crossing-over and homologous segregation; in rhetoric, an intentional understatement or belittlement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meiosis designates the presentation of a thing with underemphasis especially in order to achieve a greater effect : understatement."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"During the dramatic stages of **meiosis**, homologous maternal and paternal chromosomes pair and exchange genetic materials."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The exquisite precision of **meiosis** ensures that each gamete receives a balanced, complete haploid genome."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"By the shuffling mechanism of **meiosis**, nature breaks apart parental gene combinations and forges unique individual genotypes."*

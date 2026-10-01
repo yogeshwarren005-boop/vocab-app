@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ennea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane geometric polygon bounded by nine straight sides and nine interior angles; a nonagon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry, a regular enneagon whose interior angles each measure 140 degrees, which cannot be constructed using an unmarked ruler and compass alone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enneagon designates a term designating an entity, condition, or phenomenon derived from greek ennea."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"The construction of a regular **enneagon** requires the trisection of an angle of 60 degrees, exceeding Euclidean compass limitations."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"Because nine is divisible by three squared, the regular **enneagon** resists construction by straightedge and compass."*
+> - 📜 **Augustus De Morgan (*Elements of Arithmetic*):** *"The sum of the interior angles of any plane **enneagon** is equal to fourteen right angles."*

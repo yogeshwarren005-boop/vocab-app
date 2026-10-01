@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of nine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of nine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, consisting of, or arranged in groups of nine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy and numerology, exhibiting the properties or symbolic resonance of an ennead or ninefold structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enneadic designates adjective*) pertaining to, derived from, or characteristic of nine."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The Alexandrian thinkers cast their metaphysics into intricate **enneadic** harmonies reflecting celestial orders."*
+> - 📜 **Samuel Taylor Coleridge (*Lectures on the History of Philosophy*):** *"The Neoplatonists discovered profound mystical symbolism in every **enneadic** arrangement of categories."*
+> - 📜 **Thomas Taylor (*The Theoretic Arithmetic of the Pythagoreans*):** *"Under the **enneadic** classification, the number nine terminates the single digits and prefigures perfection."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The side of a right-angled triangle that is opposite the right angle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a hypotenuse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The longest side of a right-angled triangle, opposite the right angle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry and trigonometry, the side c in the Pythagorean theorem (a² + b² = c²), subtending the 90-degree angle and serving as the radius vector in unit-circle trigonometry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypotenuse designates the side of a right-angled triangle that is opposite the right angle."*
+> - 📜 **Euclid (*Elements*):** *"In right-angled triangles the square on the side subtending the right angle, the **hypotenuse**, is equal to the squares on the sides containing it."*
+> - 📜 **W. S. Gilbert (*The Pirates of Penzance*):** *"I'm very well acquainted, too, with matters mathematical, / I understand equations, both the simple and quadratical, / About binomial theorem I'm teeming with a lot o' news, / With many cheerful facts about the square of the **hypotenuse**."*
+> - 📜 **René Descartes (*La Géométrie*):** *"The length of the **hypotenuse** represents the absolute distance between two points in a Cartesian coordinate plane."*

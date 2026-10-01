@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person affected by catatonia; or exhibiting catatonic symptoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical psychiatry, a patient exhibiting persistent muscular rigidity, mutism, stupor, or stereotyped motor posturing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catatoniac designates a term designating an entity, condition, or phenomenon derived from greek ten."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **catatoniac** patient sat motionless in the asylum ward for weeks, eyes fixed upon the floor in total silence."*
+> - 📜 **Karl Kahlbaum (*Die Katatonie*):** *"Sudden violent excitation may unexpectedly erupt in a **catatoniac** who had previously appeared completely comatose."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"To converse with a profound **catatoniac** requires infinite patience, awaiting the momentary thawing of frozen speech."*

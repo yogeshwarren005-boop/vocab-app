@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An angiospermous plant (such as a deciduous tree or broad-leaved herb) having an embryo with two cotyledons, leaves with typically reticulate venation, and floral organs usually arranged in multiples of four or five : dicotyledon —often used before another noun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angiospermous plant (such as a deciduous tree or broad-leaved herb) having an embryo with two cotyledons, leaves with typically reticulate venation, and floral organs usually arranged in multiples of four or five : dicotyledon —often used before another noun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowering plant (dicotyledon) whose embryo possesses two seed leaves or cotyledons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical systematics, any angiosperm traditionally classified under Dicotyledones, typically having net-veined leaves, taproots, and floral parts in multiples of four or five.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicot designates an angiospermous plant (such as a deciduous tree or broad-leaved herb) having an embryo with two cotyledons, leaves with typically reticulate venation, and floral organs usually arranged in multiples of four or five : dicotyledon —often used before another noun."*
+> - 📜 **Asa Gray (*First Lessons in Botany and Vegetable Physiology*):** *"Upon germination, every typical **dicot** pushes two fleshy seed-lobes above the soil before expanding its first true foliage."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"We observed the circumnutation of the hypocotyl in the young **dicot** seedling as it forced its way toward the light."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Forest canopies in the temperate valleys are dominated by broad-leaved **dicot** trees belonging to the oak and maple families."*

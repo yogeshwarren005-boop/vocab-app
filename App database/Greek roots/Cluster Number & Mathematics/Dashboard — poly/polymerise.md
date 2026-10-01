@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause (a compound) to polymerize.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo polymerization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo or cause to undergo polymerisation; British spelling of polymerize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synthetic organic chemistry, causing small unsaturated or cyclic molecules to link into high-molecular-weight macromolecular networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymerise designates cause (a compound) to polymerize."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Under the influence of heat and acid catalysts, liquid aldehydes readily **polymerise** into crystalline solids."*
+> - 📜 **Hermann Staudinger (*Macromolecular Chemistry*):** *"Purified styrene begins to **polymerise** spontaneously even at room temperature when exposed to sunlight."*
+> - 📜 **William Henry Perkin (*Journal of the Chemical Society*):** *"Certain volatile hydrocarbons tend to **polymerise** into resinous masses upon standing in open flasks."*

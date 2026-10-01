@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a microcosm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a microcosm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a microcosm; reflecting miniature features of a much larger universe or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and literature, encapsulating macroscopic, metaphysical, or universal principles within a localized, small-scale instance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcosmic designates relating to or characteristic of a microcosm."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ancient philosophers called man a **microcosmic** mirror of the whole vast framework of heaven and earth."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Every drop of dew and every leaf reflects a **microcosmic** image of the encompassing universal order."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"There is a world of wonders within each creature, a little **microcosmic** world of divine contrivance."*

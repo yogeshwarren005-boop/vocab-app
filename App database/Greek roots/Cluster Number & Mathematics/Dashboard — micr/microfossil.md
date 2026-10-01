@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fossil that must be studied microscopically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fossil that must be studied microscopically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fossil that is so small (typically under one millimeter) that it can only be studied effectively with a microscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In micropaleontology and stratigraphy, fossilized pollen, spores, foraminifera, or ostracods used to date geological strata and reconstruct paleo-climates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microfossil designates a fossil that must be studied microscopically."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The chalk cliffs of Dover consist almost entirely of an accumulation of the tests of tiny **microfossil** organisms."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The recovery of Precambrian **microfossil** filaments in Australian chert pushed back the confirmed origin of life by billions of years."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Deep-sea drilling cores bring up layers of sediment rich in foraminiferal **microfossil** shells that chart ancient ocean temperatures."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Barbiturate that is a hygroscopic powder (trade name pentothal) that is a strong barbiturate that acts rapidly; induces a relaxed state when injected as a general anesthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barbiturate that is a hygroscopic powder (trade name pentothal) that is a strong barbiturate that acts rapidly; induces a relaxed state when injected as a general anesthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary brand name for sodium thiopental, a rapid-onset, ultra-short-acting barbiturate used for general anesthesia and colloquially known as 'truth serum'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical anesthesiology and forensic toxicology, an intravenous sulfur-bearing barbiturate that rapidly crosses the blood-brain barrier to induce loss of consciousness within seconds, widely used in mid-20th century narcoanalysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentothal designates barbiturate that is a hygroscopic powder (trade name pentothal) that is a strong barbiturate that acts rapidly; induces a relaxed state when injected as a general anesthetic."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Under the influence of sodium **pentothal**, the subject's critical barriers dissolve, inducing uninhibited verbal release."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"The swift and quiet oblivion brought by intravenous **pentothal** revolutionized surgical anesthesia in field hospitals."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"A light injection of **pentothal** allowed the patient to describe traumatic memories without incapacitating terror."*

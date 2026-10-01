@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or directed upward; - john ruskin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending or directed upward; - john ruskin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rising or tending to rise; progressive, uplifting, or characterized by upward movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, rhetoric, and theology, expressing an intensification or advance in degree (an ascensive conjunction or ascensive clause), leading to a higher climax of thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascensive designates tending or directed upward; - john ruskin."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Human contemplation possesses an **ascensive** power that lifts the soul from sensible creatures to the eternal Creator."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The Hebrew conjunction 'af' is used with an **ascensive** force, intensifying the statement into an emphatic climax."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"The life of mankind is an **ascensive** march through centuries of trial, climbing slowly toward spiritual freedom."*

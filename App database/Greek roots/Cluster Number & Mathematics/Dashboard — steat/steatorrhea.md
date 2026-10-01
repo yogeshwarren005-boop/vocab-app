@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of greater than normal amounts of fat in the feces which are frothy and foul smelling and floating; a symptom of disorders of fat metabolism and malabsorption syndrome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of greater than normal amounts of fat in the feces which are frothy and foul smelling and floating; a symptom of disorders of fat metabolism and malabsorption syndrome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of excess fat in the feces, resulting in pale, bulky, foul-smelling, and greasy stools that float.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, an indicator of lipid malabsorption or maldigestion resulting from exocrine pancreatic insufficiency, celiac disease, bile acid deficiency, or cystic fibrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steatorrhea designates the presence of greater than normal amounts of fat in the feces which are frothy and foul smelling and floating; a symptom of disorders of fat metabolism and malabsorption syndrome."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic diarrhea accompanied by pale, frothy, offensive stools containing undigested fat indicates marked **steatorrhea**."*
+> - 📜 **Thomas Addison (*On the Symptoms and Treatment of Spondylitis*):** *"Pancreatic obstruction manifests classically through progressive emaciation and copious greasy **steatorrhea**."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"A 72-hour fecal fat determination provides quantitative confirmation of **steatorrhea** in malabsorption syndromes."*

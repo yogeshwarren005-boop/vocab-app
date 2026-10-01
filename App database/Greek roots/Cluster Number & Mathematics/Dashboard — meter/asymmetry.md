@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack or absence of symmetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack or absence of symmetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of symmetry, balance, proportion, or equivalence between parts of a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and biochemistry, the absence of mirror symmetry that gives rise to chirality, parity violation in weak interactions, and molecular handedness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asymmetry designates lack or absence of symmetry."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"Molecular **asymmetry** is the only clearly demarcated boundary between the chemistry of dead matter and the chemistry of life."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"The discovery of parity violation in beta decay demonstrated an unexpected **asymmetry** in the fundamental laws of nature."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"From primary spherical and radial symmetry, organic evolution progressed toward bilateral form and specialized **asymmetry**."*

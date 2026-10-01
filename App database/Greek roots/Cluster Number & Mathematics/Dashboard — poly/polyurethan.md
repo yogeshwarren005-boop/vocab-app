@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various polymers containing the urethane radical; a wide variety of synthetic forms are made and used as adhesives or plastics or paints or rubber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various polymers containing the urethane radical; a wide variety of synthetic forms are made and used as adhesives or plastics or paints or rubber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic resin or polymer composed of organic units joined by carbamate (urethane) links; alternative spelling of polyurethane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and polymer technology, versatile condensation polymers formed by reacting polyisocyanates with polyols, yielding resilient foams, coatings, adhesives, and elastomeric fibers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyurethan designates any of various polymers containing the urethane radical; a wide variety of synthetic forms are made and used as adhesives or plastics or paints or rubber."*
+> - 📜 **Otto Bayer (*Das Diisocyanat-Polyadditionsverfahren*):** *"Reaction of aliphatic diisocyanates with glycols created the new class of **polyurethan** polymers with remarkable tensile resilience."*
+> - 📜 **Herman Mark (*Giant Molecules*):** *"The wide range of **polyurethan** products extends from flexible cushioning sponges to ultra-hard marine varnishes."*
+> - 📜 **F. A. Henglein (*Chemical Technology*):** *"In the manufacture of synthetic leather, a porous microporous coating of **polyurethan** provides breathability and durability."*

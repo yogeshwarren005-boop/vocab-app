@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any neuropathy of a single nerve trunk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any neuropathy of a single nerve trunk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Damage or disease affecting a single peripheral nerve, causing pain, weakness, or loss of sensation in that nerve's distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, focal nerve dysfunction (such as carpal tunnel syndrome or radial nerve palsy) caused by localized compression, ischemia, or trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mononeuropathy designates any neuropathy of a single nerve trunk."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Compression of the median nerve at the wrist produces classic carpal tunnel syndrome, the most prevalent human **mononeuropathy**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden unilateral foot drop after crossing the legs indicates a pressure **mononeuropathy** of the common peroneal nerve."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Electromyography differentiates an isolated **mononeuropathy** from generalized polyneuropathy by mapping focal conduction blocks."*

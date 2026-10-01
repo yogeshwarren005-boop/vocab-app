@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of small, fine, thin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of small, fine, thin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having small, slender, or narrow leaves; in plant ecology, having a leaf surface area of less than 25 square millimeters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical ecology and Raunkiær's leaf-size classification, designating xerophytic plants (such as heaths and desert shrubs) with reduced foliage to minimize transpiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptophyllous designates adjective*) pertaining to, derived from, or characteristic of small, fine, thin."*
+> - 📜 **Christen Raunkiær (*The Life Forms of Plants and Statistical Plant Geography*):** *"Arid scrub vegetation is predominantly **leptophyllous**, bearing minute leaves adapted to endure scorching drought."*
+> - 📜 **Arthur George Tansley (*The British Islands and Their Vegetation*):** *"Heather and ling present classic **leptophyllous** foliage, whose rolled margins protect stomata from dry winds."*
+> - 📜 **A. F. W. Schimper (*Plant-Geography Upon a Physiological Basis*):** *"The Mediterranean macchia is rich in **leptophyllous** shrubs whose reduced surface area conserves precious sap."*

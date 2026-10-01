@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shorthand character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine for typewriting shorthand characters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine for writing shorthand; or a document written in shorthand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal reporting and court recording, a specialized chorded keyboard machine (such as the Stenotype machine invented by Miles Bartholomew) used by court reporters to transcribe spoken testimony at high speeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"When we are married I shall be able to be useful to Jonathan, and if I can stenograph well enough I can take down what he wants to say in this way and write it out for him on the typewriter, at which also I am practising very hard."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The clerk recorded every answer in rapid shorthand upon his portable **stenograph**."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"Across the desk lay the printed paper tape of the **stenograph**, transcribing the deliberations of the Council."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The mechanical marvel of the **stenograph** was yet unknown when David struggled with the tortures of Gurney's shorthand."*

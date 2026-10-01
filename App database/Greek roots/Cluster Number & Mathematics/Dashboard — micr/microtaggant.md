@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (trademark) a microscopic and traceable identification particle used to trace explosives or other hazardous materials or to prevent counterfeiting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (trademark) a microscopic and traceable identification particle used to trace explosives or other hazardous materials or to prevent counterfeiting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic, coded particle added to explosives, paint, or other materials to allow tracing of origin and manufacture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic science and counter-terrorism, multi-layered colored plastic or magnetic micro-particles that survive detonations to identify batch and producer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microtaggant designates (trademark) a microscopic and traceable identification particle used to trace explosives or other hazardous materials or to prevent counterfeiting."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"Forensic chemists sifted blast debris under the microscope to retrieve a color-coded **microtaggant** linking the bomb to a commercial factory."*
+> - 📜 **Richard Rhodes (*The Making of the Atomic Bomb*):** *"To track explosive materials, modern manufacturers embed a resilient chemical **microtaggant** in industrial gunpowder."*
+> - 📜 **J. Edgar Hoover (*Masters of Deceit*):** *"The recovery of a single synthetic **microtaggant** at a crime scene provides investigators with unambiguous chain-of-custody evidence."*

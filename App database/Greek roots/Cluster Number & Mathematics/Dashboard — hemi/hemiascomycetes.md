@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Class of fungi in which no ascocarps are formed: yeasts and some plant parasites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Class of fungi in which no ascocarps are formed: yeasts and some plant parasites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive class or group of ascomycetous fungi (including true yeasts) that produce naked asci without forming a fruiting body (ascocarp).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, basal ascomycetes (now often classified under Saccharomycetes or Taphrinomycotina) exhibiting simple budding or fission cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiascomycetes designates class of fungi in which no ascocarps are formed: yeasts and some plant parasites."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The fermenting agent in alcoholic vats belongs to simple budding organisms allied to the **Hemiascomycetes**."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"In **Hemiascomycetes**, the sexual generation terminates in naked asci exposed directly upon the host tissue or broth."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"The absence of a protective perithecium separates primitive **Hemiascomycetes** from the higher disc and pyrenomycete fungi."*

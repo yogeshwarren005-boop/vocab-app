@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any halide containing four halogen atoms in its molecules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any halide containing four halogen atoms in its molecules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound containing four halogen atoms per molecule or formula unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic and organometallic chemistry, compounds of group 14 elements (such as carbon tetrafluoride CF4, silicon tetrachloride SiCl4, or tin tetrabromide SnBr4) exhibiting tetrahedral coordination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrahalide designates any halide containing four halogen atoms in its molecules."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Each group IV element forms a volatile **tetrahalide** possessing sp3 hybrid orbitals directed toward the corners of a regular tetrahedron."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"The regular progression in boiling points among the silicon **tetrahalide** series illustrates the periodic influence of halogen atomic weight."*
+> - 📜 **Henry Enfield Roscoe (*A Treatise on Chemistry*):** *"Titanium **tetrahalide** compounds fumed densely in moist air, releasing white clouds of hydrohalic acid and hydrated titanium dioxide."*

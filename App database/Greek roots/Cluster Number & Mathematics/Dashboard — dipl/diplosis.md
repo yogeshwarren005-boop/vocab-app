@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dipl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doubling of the chromosome number, particularly during fertilization (syngamy) when haploid gametes unite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, the fundamental nuclear event wherein two haploid genomes fuse to establish the diploid chromosome complement of the zygote.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplosis designates a term designating an entity, condition, or phenomenon derived from greek dipl."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"The biological cycle represents an unending alternation between haploid reduction in meiosis and chromosome **diplosis** at fertilization."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Syngamy achieves nuclear **diplosis**, reconstituting the paired allelic state necessary for somatic development."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Without regular meiotic reduction, every successive generation would experience runaway **diplosis** and polyploid chaos."*

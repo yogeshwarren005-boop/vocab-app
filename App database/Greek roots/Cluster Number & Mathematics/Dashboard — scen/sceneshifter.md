@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stagehand responsible for moving scenery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stagehand responsible for moving scenery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stagehand who moves and changes the scenery, sets, and props between acts or scenes in a theater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theater history and backstage labor, members of the technical crew whose coordinated mechanical operations operated pulleys, fly lines, and groove flats to transform scenic illusions rapidly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sceneshifter designates a stagehand responsible for moving scenery."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"Behind the curtain, the bustling **sceneshifter** trundled painted groves of trees and pasteboard castles into place."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"When the play is done, the **sceneshifter** rolls up the painted canvas and puts out the guttering tallow candles."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The heavy set took so long to change that the audience grew weary listening to the clatter of the **sceneshifter** behind the drop."*

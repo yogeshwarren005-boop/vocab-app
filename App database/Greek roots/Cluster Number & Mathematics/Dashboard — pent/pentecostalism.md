@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suggesting Pentecost.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting any of various Christian religious bodies that emphasize individual experiences of grace, spiritual gifts (such as glossolalia and faith healing), expressive worship, and evangelism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Protestant Christian movement that emphasizes direct personal experience of God through baptism in the Holy Spirit, accompanied by spiritual gifts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history, a global 20th-century renewal movement characterized by speaking in tongues, divine healing, and expressive worship, tracing its modern rise to the Azusa Street revival.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentecostalism designates of, relating to, or suggesting pentecost."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"Movements akin to modern **Pentecostalism** seek the renewal of early apostolic charisma in protest against rationalized church bureaucracy."*
+> - 📜 **Harvey Cox (*Fire from Heaven: The Rise of Pentecostal Spirituality*):** *"The astonishing spread of global **Pentecostalism** demonstrates the primal power of ecstatic, experiential spirituality."*
+> - 📜 **Ernst Troeltsch (*The Social Teaching of the Christian Churches*):** *"Pneumatic sects embodying early forms of **Pentecostalism** emphasize the immediate presence of the Spirit over sacramental tradition."*

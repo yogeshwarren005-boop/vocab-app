@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to alone, only.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to alone, only.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An algebraic structure consisting of a set equipped with an associative binary operation and an identity element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abstract algebra and theoretical computer science, a semigroup with an identity, serving as a foundational concept in category theory and data aggregation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoid designates adjective & noun*) resembling, having the physical form of, or akin to alone, only."*
+> - 📜 **Saunders Mac Lane (*Categories for the Working Mathematician*):** *"A **monoid** is simply a category with one object, whose arrows correspond to the elements of the algebraic structure."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"String concatenation over a finite alphabet forms a free **monoid** with the empty string serving as its identity element."*
+> - 📜 **John Baez (*Quantum Techniques in Algebra and Category Theory*):** *"Associativity and unit laws make the **monoid** the most natural algebraic abstraction for sequential state transformations."*

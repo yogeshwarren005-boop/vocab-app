@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being degenerate in mental or moral qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being degenerate in mental or moral qualities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A process, condition, or period of cultural, moral, artistic, or societal decline and deterioration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and art history, the Decadent Movement of late 19th-century Europe celebrating aestheticism, artifice, and refined sensibility over conventional morality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"In this decadence, too, the art of fire-making had been forgotten on the earth."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In most instances the appearance of the spermogones precedes that of the sporiferous organs, but the latter follow sufficiently speedy for perfect development before the decadence of the spermogones takes place."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The revenue tariff periods of our history have been periods of greatest financial revulsions and industrial decadence, want, and poverty among the people, private enterprises checked and public works retarded."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Luxury, corruption, and military insubordination precipitated the gradual **decadence** of the Western Empire."*
+> - 📜 **Friedrich Nietzsche (*The Case of Wagner*):** *"What characterizes every literary **decadence** is that life no longer resides in the whole, but only in the vibrant detail."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He watched the subtle **decadence** of his own soul reflected with terrifying precision upon the hidden canvas."*

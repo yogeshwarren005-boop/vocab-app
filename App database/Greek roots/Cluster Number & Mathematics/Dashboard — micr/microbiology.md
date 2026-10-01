@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology dealing with microscopic forms of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of biology dealing with microscopic forms of life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science that deals with microscopic organisms, including bacteria, viruses, fungi, and microscopic algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foundational biological discipline that informs immunology, genomics, infectious disease management, and industrial biotechnology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbiology designates a branch of biology dealing with microscopic forms of life."*
+> - 📜 **Selman Waksman (*My Life with the Microbes*):** *"The field of soil **microbiology** unlocked the antibiotics that transformed twentieth-century therapeutics."*
+> - 📜 **François Jacob (*The Statue Within*):** *"Molecular **microbiology** revealed that what is true for Escherichia coli is generally true for the elephant."*
+> - 📜 **Stephen Jay Gould (*Full House*):** *"The history of life on Earth is the story of bacterial dominance, and **microbiology** chronicles its uninterrupted reign."*

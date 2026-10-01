@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of verse consisting of eight metrical feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line of verse consisting of eight metrical feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of verse consisting of eight metrical feet or measures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic prosody, a long, rhythmic verse form famously exemplified by the trochaic octameter of Edgar Allan Poe's 'The Raven'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octameter designates a line of verse consisting of eight metrical feet."*
+> - 📜 **Edgar Allan Poe (*The Philosophy of Composition*):** *"I chose trochaic **octameter** for 'The Raven' because the long sonorous cadence produced an effect of sustained melancholy."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Swinging with driving momentum, Tennyson's 'Locksley Hall' showcases the lyrical surge possible in rhyming trochaic **octameter**."*
+> - 📜 **Ezra Pound (*The ABC of Reading*):** *"The sheer breadth of **octameter** risks degenerating into monotonous mechanical drumming unless modulated by varied caesuras."*

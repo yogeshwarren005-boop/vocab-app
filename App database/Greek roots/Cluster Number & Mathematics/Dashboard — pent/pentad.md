@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of five.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of five.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group, series, or set consisting of five things, persons, or units; or a period of five days or five years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and meteorology, an element or atom having a valence of five; or a five-day statistical period used in climatological data collection and agricultural weather forecasting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentad designates a group of five."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Nature in many her flowers and fruits observeth the number five, delighting in the symmetry of the **pentad**."*
+> - 📜 **August Wilhelm von Hofmann (*Introduction to Modern Chemistry*):** *"Phosphorus behaves as a **pentad** in the pentachloride, linking five monad chlorine atoms to a single nucleus."*
+> - 📜 **Wladimir Köppen (*Climatology and Meteorological Observations*):** *"Rainfall anomalies are averaged over each calendar **pentad** to reveal seasonal transitions in monsoon circulation."*

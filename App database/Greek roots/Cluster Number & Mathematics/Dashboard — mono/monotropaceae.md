@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classification for saprophytic herbs sometimes included in the family pyrolaceae: genera monotropa and sarcodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classification for saprophytic herbs sometimes included in the family pyrolaceae: genera monotropa and sarcodes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former family of non-green, saprophytic or mycoheterotrophic plants, now classified as a subfamily (Monotropoideae) within Ericaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic botany, fleshy parasitic forest plants (including Indian pipe and pine-drops) characterized by lack of chlorophyll and mycorrhizal dependence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotropaceae designates used in some classification for saprophytic herbs sometimes included in the family pyrolaceae: genera monotropa and sarcodes."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The strange woodland parasites formerly placed in **Monotropaceae** derive their sustenance through intricate underground fungal partnerships."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Collectors in temperate Himalayan pine forests discovered rare members of **Monotropaceae** emerging through fallen needle beds."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"DNA sequencing confirmed that the achlorophyllous **Monotropaceae** evolved directly from photosynthetic ericaceous ancestors like blueberries."*

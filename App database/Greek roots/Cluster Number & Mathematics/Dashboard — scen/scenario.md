@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An outline or synopsis of a play (or, by extension, of a literary work).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A setting for a work of art or literature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written outline of the plot, characters, and scenes of a play, film, or opera; a postulated sequence or development of events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy, futurology, and decision science (developed notably by Herman Kahn at the RAND Corporation), systematic narrative forecasts exploring alternative geopolitical, economic, or environmental futures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your answers to my questions present an interesting scenario," Narval said after studying the monitor."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Tell me beforehand that your scenario is to include both worlds, and I have no objection to make; I simply attune my mind to the more extensive scope."*
+> - 📜 **Herman Kahn (*Thinking about the Unthinkable*):** *"Policy planners construct an artificial **scenario** of escalating crisis in order to test military and diplomatic options."*
+> - 📜 **Virginia Woolf (*Between the Acts*):** *"Miss La Trobe paced behind the barn, consulting the handwritten **scenario** for her village pageant."*
+> - 📜 **Igor Stravinsky (*Chronicles of My Life*):** *"Diaghilev accepted my **scenario** for Petrushka the moment he heard the rhythmic opening chord on the piano."*

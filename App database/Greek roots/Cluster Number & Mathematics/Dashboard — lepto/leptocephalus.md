@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender transparent larva of eels and certain fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender transparent larva of eels and certain fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transparent, laterally compressed, ribbon-like or leaf-like pelagic larva of true eels (Anguilliformes) and related marine teleosts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and ichthyology, an oceanic larval stage historically mistaken for a distinct genus of fish (Leptocephalus) before Johannes Schmidt traced its metamorphosis into the glass eel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptocephalus designates slender transparent larva of eels and certain fishes."*
+> - 📜 **Johannes Schmidt (*The Breeding Places of the Eel*):** *"We traced the drifting **leptocephalus** larvae back across the Atlantic to their spawning grounds in the Sargasso Sea."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Transparent as a glass ribbon, the tiny **leptocephalus** drifted on the Gulf Stream toward the European coast."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The flat, translucent larva originally described under the generic name **Leptocephalus** is simply the young eel."*

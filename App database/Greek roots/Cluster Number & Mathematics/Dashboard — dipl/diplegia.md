@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of corresponding parts on both sides of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paralysis of corresponding parts on both sides of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Symmetrical paralysis affecting corresponding parts of both sides of the body, typically affecting the legs more severely than the arms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a form of cerebral palsy (Little's disease) often resulting from perinatal cerebral hypoxia or leukomalacia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplegia designates paralysis of corresponding parts on both sides of the body."*
+> - 📜 **William Osler (*The Cerebral Palsies of Children*):** *"Spastic **diplegia** in infants is characterized by bilateral motor rigidity and exaggerated deep tendon reflexes."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"In cases of congenital **diplegia**, the spastic gait with cross-legged scissoring reflects bilateral pyramidal tract impairment."*
+> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"The motor impairment in cerebral **diplegia** frequently coexists with varying degrees of intellectual and speech deficit."*

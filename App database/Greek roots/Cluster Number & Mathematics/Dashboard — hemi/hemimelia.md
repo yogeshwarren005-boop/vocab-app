@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital limb anomaly characterized by the complete or partial absence of the distal portion of one or more limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and orthopedic medicine, a developmental failure of limb bud elongation, typically affecting the radius, fibula, or tibia (as in fibular hemimelia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimelia designates a term designating an entity, condition, or phenomenon derived from greek hemi."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital anomalies of the extremities range from subtle syndactyly to gross reduction deformities like **hemimelia**."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The museum specimen illustrates unilateral radial **hemimelia** with characteristic paraxial absence of the thumb."*
+> - 📜 **Ferdinand Sauerbruch (*Master Surgeon: A Life in Surgery*):** *"Children born with lower extremity **hemimelia** require early orthopedic stabilization to enable upright bipedal walking."*

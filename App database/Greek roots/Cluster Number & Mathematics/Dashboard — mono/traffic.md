@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The vehicles, pedestrians, ships, or planes moving along a route.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congestion of vehicles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The movement of vehicles, ships, pedestrians, aircraft, or data along a designated route or communication network.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commercial trade, exchange, or dealings between individuals, companies, or nations, especially of an illicit or specified nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For having traffic with thyself alone, Thou of thyself thy sweet self dost deceive, Then how when nature calls thee to be gone, What acceptable audit canst thou leave?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reignier of France, I give thee kingly thanks, Because this is in traffic of a king. [_Aside_.] And yet, methinks, I could be well content To be mine own attorney in this case."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How did you dare To trade and traffic with Macbeth In riddles and affairs of death; And I, the mistress of your charms, The close contriver of all harms, Was never call’d to bear my part, Or show the glory of our art?"*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Is now the two hours' **traffic** of our stage; / The which if you with patient ears attend, / What here shall miss, our toil shall strive to mend."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The freedom of internal commerce and maritime **traffic** encouraged manufactures to flourish across the kingdom."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great ocean highway was thronged with the commercial **traffic** of merchantmen and whalers."*

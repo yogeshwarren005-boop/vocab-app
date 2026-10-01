@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who commits apostasy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who commits apostasy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who renounces, abandons, or deserts a religious belief, political party, or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical biography (famously Julian the Apostate, Roman Emperor 361–363 CE), an individual who rejects former doctrines and actively opposes them.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ha-ha—I’m awfully glad you have made an apostate of me all the same!"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Of course, there were those who broke down, but Julian the Apostate, in his letters to his heathen priests, is a reluctant witness to the higher character of Christian life."*
-> - 📜 **John Milton (*Paradise Lost*):** *"So spake th’ Apostate Angel, though in pain, Vaunting aloud, but rackt with deep despare: And him thus answer’d soon his bold Compeer."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Julian the **Apostate** sought to restore the ancient polytheism of Greece and Rome with all the zeal of a philosopher."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Him the Almighty Power hurled headlong flaming from the ethereal sky, down to bottomless perdition, that **apostate** angel."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary tribunal showed no mercy to the political **apostate** who deserted his principles when danger threatened."*

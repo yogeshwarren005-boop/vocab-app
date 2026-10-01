@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world harvest mice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world harvest mice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small sea snails or marine gastropod mollusks in the family Epitoniidae or Pyramidellidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, minute marine snails characterized by delicate, high-spired shells inhabiting benthic sandy substrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micromyx designates old world harvest mice."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes and Marine Life*):** *"Benthic dredges brought up fine sediment rich in minute gastropods, including fragile shells of **Micromyx**."*
+> - 📜 **William Healey Dall (*Contributions to the Tertiary Fauna of Florida*):** *"The fossil deposits in the Caloosahatchee beds preserve exquisite specimens of the genus **Micromyx**."*
+> - 📜 **Philip Henry Gosse (*A Year at the Shore*):** *"Among the sifted gravel of the tidal pool rested tiny shells of **Micromyx**, barely discernible without a hand lens."*

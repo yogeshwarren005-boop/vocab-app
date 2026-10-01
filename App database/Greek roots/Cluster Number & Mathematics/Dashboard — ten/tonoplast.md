@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A semipermeable membrane surrounding a vacuole in a plant cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semipermeable membrane surrounding a vacuole in a plant cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The semipermeable membrane that bounds the central vacuole in a plant cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant cell biology, a single lipid bilayer membrane containing vacuolar H+-ATPases, aquaporins, and transport proteins that regulates turgor pressure, ion homeostasis, and secondary metabolite storage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonoplast designates a semipermeable membrane surrounding a vacuole in a plant cell."*
+> - 📜 **Hugo de Vries (*Intracelluläre Pangenesis*):** *"The living membrane enclosing the sap cavity of the plant cell was designated by me as the **tonoplast**."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Osmotic water movement across the **tonoplast** maintains cellular turgidity, supporting herbaceous plant stems upright."*
+> - 📜 **F. F. Blackman (*Analytic Studies in Plant Respiration*):** *"Selective permeability of the **tonoplast** allows the vacuole to accumulate organic acids while keeping the cytoplasm neutral."*

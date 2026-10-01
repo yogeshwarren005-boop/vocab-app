@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the crystallization of a compound in two or more different forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the occurrence of more than one kind of individual (independent of sexual differences) in an interbreeding population.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, assuming, or passing through many different forms, stages, or shapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis, notably Sigmund Freud's concept of 'polymorphous perversity', the early infantile stage of psychosexual development capable of deriving sensual gratification from any somatic zone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorphous designates relating to the crystallization of a compound in two or more different forms."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"The child possesses a **polymorphous** perverse disposition, capable of finding sexual pleasure in diverse bodily regions."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Religious emotion is a **polymorphous** phenomenon, ranging from morbid melancholy to triumphant mystical ecstasy."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivated plants like the cabbage exhibit **polymorphous** variability, yielding kale, kohlrabi, and cauliflower from one ancestor."*

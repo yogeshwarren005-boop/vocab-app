@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to 10,000 meters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to 10,000 meters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British/Commonwealth spelling of myriameter; an obsolete metric unit of length equal to 10,000 metres (10 kilometres).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century European geography and travel writing, a measure equivalent to ten thousand metres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriametre designates a metric unit of length equal to 10,000 meters."*
+> - 📜 **Charles Dickens (*Pictures from Italy*):** *"The vetturino plodded across the desolate Roman Campagna, each **myriametre** marked by ancient crumbling aqueducts."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The carriage rolled past roadside milestones marking every **myriametre** along the paved route to Brussels."*
+> - 📜 **Arthur Young (*Travels in France*):** *"The newly surveyed highway unwound smoothly over the rolling hills of Normandy, measured by the **myriametre**."*

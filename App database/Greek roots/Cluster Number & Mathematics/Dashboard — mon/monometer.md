@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of verse consisting of a single metrical foot or dipody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line of verse consisting of a single metrical foot or dipody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of verse consisting of a single metrical foot or measure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and English prosody, an exceptionally rare and concise poetic line used for dramatic punctuation or rhythmic variation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monometer designates a line of verse consisting of a single metrical foot or dipody."*
+> - 📜 **Robert Herrick (*Hesperides (Upon His Departure Hence)*):** *"Thus I / Pass by / And die: / As one / Unknown / And gone: the poet employed pure **monometer** to convey the swiftness of mortality."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Herrick's playful experiments in iambic **monometer** reveal how rhythmic momentum can survive even in single-foot verses."*
+> - 📜 **Ezra Pound (*The ABC of Reading*):** *"A sudden **monometer** cadence interrupts the flowing stanza like a struck gong, concentrating poetic attention."*

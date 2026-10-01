@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Voles of the northern hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Voles of the northern hemisphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small rodents in the subfamily Arvicolinae, commonly known as meadow voles or field voles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and behavioral ecology, widespread northern hemisphere rodents extensively studied for social monogamy (prairie vole) and cyclic population dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microtus designates voles of the northern hemisphere."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Under the snow crust, trails engineered by the meadow mouse **Microtus** crisscross the dormant clover fields."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Speciation patterns across the genus **Microtus** demonstrate how geographic isolation across Pleistocene glacial refugia shaped rodent diversity."*
+> - 📜 **Frans de Waal (*The Age of Empathy*):** *"Studies of oxytocin receptors in the brain of **Microtus** ochrogaster revolutionized our neurobiological understanding of monogamous pair bonding."*

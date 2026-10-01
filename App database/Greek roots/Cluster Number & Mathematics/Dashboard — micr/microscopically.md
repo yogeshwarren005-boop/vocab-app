@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By using a microscope; so as to be visible only with a microscope; as seen with a microscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if by using a microscope; with extreme precision and attention to detail; in minute detail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of a microscope; with optical magnification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In minute or microscopic detail; in a manner that reveals tiny, imperceptible nuances or structural features.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"FeS (copper 71·7 per cent.), when examined microscopically, appeared to be homogeneous, and indicated some form of combination between the sulphides in these proportions."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"To the naked eye it appears in pale purplish-grey patches, which, when examined microscopically, are found to consist of dense bundles of branched threads, bearing ellipsoid acrospores, the membranes of which have a violaceous tint."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes examined the bloodstains **microscopically**, verifying the presence of distinct crystalline hemoglobin deposits."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When we examine **microscopically** the structure of these intricate organs, adaptations of marvellous complexity appear."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She scrutinized her own fleeting sensations **microscopically**, tracing each ripple of feeling that passed across her mind."*

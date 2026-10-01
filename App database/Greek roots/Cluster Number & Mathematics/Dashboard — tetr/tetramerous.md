@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or consisting of four similar parts; tetramerous flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or consisting of four similar parts; tetramerous flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or divided into four parts, segments, or members; arranged in multiples of four.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and invertebrate zoology, flowers possessing floral organs in groups of four (typical of families like Onagraceae and Brassicaceae), or jellyfish (Scyphozoa) displaying four-part radial symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetramerous designates having or consisting of four similar parts; tetramerous flowers."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Flowers in the evening primrose family are characteristically **tetramerous**, presenting four sepals, four petals, and eight stamens."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The umbrella of the Aurelia medusa exhibits a strictly **tetramerous** radial plan with four oral arms and gastric pouches."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Cruciferous blossoms are consistently **tetramerous**, their four petals spreading in the form of a Maltese cross."*

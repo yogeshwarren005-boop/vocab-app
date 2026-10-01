@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lepto.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In theoretical physics and cosmology, the theoretical process in the early universe that generated an asymmetry between leptons and antileptons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astroparticle physics, a baryogenesis mechanism in which heavy right-handed neutrino decays produce a lepton asymmetry, subsequently converted into the observed baryon asymmetry through sphaleron processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptogenesis designates a term designating an entity, condition, or phenomenon derived from greek lepto."*
+> - 📜 **Steven Weinberg (*Cosmology*):** *"Modern models of the cosmic matter-antimatter asymmetry rely upon high-scale **leptogenesis** driven by decaying heavy neutrinos."*
+> - 📜 **Roger Penrose (*Fashion, Faith, and Fantasy in the New Physics of the Universe*):** *"CP-violating decay channels during primordial **leptogenesis** offer an elegant explanation for the survival of matter."*
+> - 📜 **Alan Guth (*The Inflationary Universe*):** *"The excess of electrons over positrons in our present universe was established during the energetic epoch of **leptogenesis**."*

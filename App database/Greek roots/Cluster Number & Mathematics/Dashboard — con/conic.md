@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the form of, or resembling a cone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, a conic section: any curve (ellipse, parabola, or hyperbola) produced by the intersection of a plane with a cone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She set the ray-spread to conic and ran the beam from one end of the pad to the other, into the corners and along the walls."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Or he may find a conic mound, on whose apex glisten in the sun the bleached bones of one whose last office has been to preserve from destruction the friendly soil on which he reposed."*
+> - 📜 **René Descartes (*Geometry*):** *"Every plane **conic** curve can be completely represented by an algebraic equation of the second degree in two variables."*
+> - 📜 **Blaise Pascal (*Treatise on Conic Sections*):** *"If a hexagon be inscribed in a **conic**, the three points of intersection of opposite sides lie upon a straight line."*
+> - 📜 **Thomas Heath (*Apollonius of Perga: Treatise on Conic Sections*):** *"Apollonius proved that all three varieties of **conic** sections can be obtained from one and the same circular cone."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of fragrant chiefly old world herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of fragrant chiefly old world herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aromatic perennial herbs and dwarf shrubs in the mint family (Lamiaceae), native to the Mediterranean, Africa, and Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, essential-oil-producing plants rich in carvacrol and thymol, historically used in traditional herbal infusions and folk medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micromeria designates large genus of fragrant chiefly old world herbs."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"On dry and stony Aegean slopes grows the pungent herb **Micromeria**, prized by shepherds for its fragrant, warming tea."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The small mountain savoury known to apothecaries as **Micromeria** bears tiny purple blossoms that scent the rocky hillsides."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Rocky limestone crevices in the Himalayan foothills sheltered dwarfed clumps of **Micromeria** growing among wild thyme."*

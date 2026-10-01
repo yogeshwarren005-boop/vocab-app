@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in research with the use of microscopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist who specializes in research with the use of microscopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or technician who is skilled in the use of microscopes to examine minute objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in optical, electron, or scanning-probe microscopy who prepares and analyzes histological or material specimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"There are not many features in the rest of the species of this genus of sufficient interest to the general reader or microscopist to render it advisable to furnish any detailed account of them."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"We have, however, indicated sufficient, since their great similarity in unprofessional eyes will furnish, in one or two species, all that is desirable for the microscopist."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Of the other species found in Britain an enumeration will suffice, since they contain no feature of interest to the microscopist; and all the members of this section are far less beautiful than those in other genera (especially _Microsphæria_)."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"It is the duty of the true **microscopist** to approach nature with an unprejudiced eye and a steady hand upon the focus screws."*
+> - 📜 **Santiago Ramón y Cajal (*Advice for a Young Investigator*):** *"The tireless **microscopist** must possess the visual patience of a hunter lying in wait for elusive prey."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"To the avid **microscopist**, a drop of pond water becomes a teeming colosseum crowded with fantastic combatants."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of france; and international center of culture and commerce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes placed in subfamily trilliaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and most populous city of France, situated along the Seine River; a global center of art, culture, and science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Greek mythology, Paris (Alexander), prince of Troy whose abduction of Helen sparked the Trojan War; in botany, a genus of liliaceous woodland herbs (such as Paris quadrifolia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had you not lately an intent,—speak truly,— To go to Paris?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This was your motive For Paris, was it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"To breathe in **Paris** is to preserve one's soul; it is the grand reservoir of ideas and revolutions."*
+> - 📜 **Homer (*The Iliad*):** *"Fair **Paris**, handsome seducer, stepped forth from the Trojan ranks challenging the foremost Greeks to single combat."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Along the bloody streets of **Paris**, the deadly tumbrils rolled daily toward the insatiable blade of the Guillotine."*

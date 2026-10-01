@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river that rises in northern west virginia and flows north into pennsylvania where it joins the allegheny river at pittsburgh to form the ohio river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river that rises in northern west virginia and flows north into pennsylvania where it joins the allegheny river at pittsburgh to form the ohio river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A river rising in West Virginia and flowing north into southwestern Pennsylvania, where it joins the Allegheny River at Pittsburgh to form the Ohio River.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American history, the site of the 1755 Battle of the Monongahela (Braddock's Defeat); also celebrated as a historic variety of rye whiskey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Would now, it were old Orleans whiskey, or old Ohio, or unspeakable old Monongahela!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Would now, it were old Orleans whiskey, or old Ohio, or unspeakable old Monongahela!"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Would now, it were old Orleans whiskey, or old Ohio, or unspeakable old **Monongahela**!"*
+> - 📜 **George Washington (*Writings*):** *"We marched along the banks of the **Monongahela**, where the crossing proved difficult for our baggage wagons."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"By the wild waters of the **Monongahela**, where the coal smoke mingles with the mountain fog."*

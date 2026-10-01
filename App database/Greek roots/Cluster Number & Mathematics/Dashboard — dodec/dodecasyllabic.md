@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of twelve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of twelve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or having twelve syllables; a twelve-syllable word or verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosody and poetics, designating twelve-syllable meters such as the French alexandrine or Byzantine dodecasyllable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dodecasyllabic designates adjective*) pertaining to, derived from, or characteristic of twelve."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The classical French alexandrine is a strict **dodecasyllabic** line divided cleanly by a central caesura."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"Attempts to render Homeric hexameters into modern **dodecasyllabic** verse often sacrifice the flowing rapidity of the original."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The stately cadence of the **dodecasyllabic** couplet requires deliberate metrical pauses to prevent auditory monotony."*

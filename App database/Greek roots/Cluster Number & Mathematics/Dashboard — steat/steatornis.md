@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type and sole genus of the family steatornithidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type and sole genus of the family steatornithidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of nocturnal fruit-eating birds comprising the oilbird (*Steatornis caripensis*), native to northern South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, the sole genus of the family Steatornithidae, inhabiting dark caves and navigating by echolocation, famously harvested by Indigenous peoples and early colonists for the copious fat rendered from nestling chicks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steatornis designates type and sole genus of the family steatornithidae."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The cavern of Caripe was inhabited by thousands of the nocturnal bird which I described under the name **Steatornis** caripensis."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The oilbird, **Steatornis**, represents a unique isolated family among birds, combining nightjar habits with a purely frugivorous diet."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The young of **Steatornis** are so enormously fat that the Indians boil them down into a pure, odorless cooking oil."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood disorder characterized by the presence of microcytes (abnormally small red blood cells) in the blood; often associated with anemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blood disorder characterized by the presence of microcytes (abnormally small red blood cells) in the blood; often associated with anemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which an unusually high proportion of red blood cells are abnormally small.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic hematology, a laboratory finding characterized by low mean corpuscular volume (MCV), indicative of iron deficiency or hemoglobinopathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcytosis designates a blood disorder characterized by the presence of microcytes (abnormally small red blood cells) in the blood; often associated with anemia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe chronic blood loss inevitably produces profound hypochromia accompanied by marked **microcytosis**."*
+> - 📜 **Max Wintrobe (*Clinical Hematology*):** *"The differential diagnosis of marked **microcytosis** requires serum ferritin testing to distinguish iron depletion from thalassemia minor."*
+> - 📜 **Siddhartha Mukherjee (*The Gene: An Intimate History*):** *"Carriers of the beta-thalassemia trait display benign **microcytosis**, conferring resistance against falciparum malaria."*

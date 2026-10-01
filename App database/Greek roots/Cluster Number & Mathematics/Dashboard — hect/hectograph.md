@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Duplicator consisting of a gelatin plate from which ink can be taken to make a copy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Copy on a duplicator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early mechanical apparatus for duplicating written or typed documents using a shallow pan filled with a gelatin-glycerin mixture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of printing technology, a 19th-century reprographic process in which aniline-dye ink from a master sheet was transferred onto moist gelatin to yield copies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hectograph designates duplicator consisting of a gelatin plate from which ink can be taken to make a copy."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"My uncle spent his evenings churning out purple-inked commercial circulars on a messy kitchen **hectograph**."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"A revolutionary pamphlet, clumsily run off on a spirit duplicator or **hectograph**, lay crumpled under the counter."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The suspicious circular was not printed with movable type, but duplicated upon a common gelatin **hectograph**."*

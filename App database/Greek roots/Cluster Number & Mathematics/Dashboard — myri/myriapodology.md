@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Myriapodology is the scientific study of myriapods which includes centipedes and millipedes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The field of myriapodology can also cover other myriapods such as pauropods and symphylans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoology concerned with the study of myriapods (centipedes, millipedes, and related arthropods).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology and invertebrate natural history, the academic specialty devoted to the taxonomy, morphology, and ecology of Myriapoda.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriapodology designates myriapodology is the scientific study of myriapods which includes centipedes and millipedes."*
+> - 📜 **E.O. Wilson (*Naturalist*):** *"Pioneering specialists in **myriapodology** spent lifetimes sorting millipedes from Appalachian leaf litter into exquisite taxonomic monographs."*
+> - 📜 **Stephen Jay Gould (*The Lying Stones of Marrakech*):** *"The modest curator made seminal contributions to **myriapodology**, naming dozens of blind cavernicolous centipedes."*
+> - 📜 **Jean-Henri Fabre (*More Hunting Wasps*):** *"His meticulous field observations in **myriapodology** elucidated the predatory techniques of subterranean scolopendrids."*

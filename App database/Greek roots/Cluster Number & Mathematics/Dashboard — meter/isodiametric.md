@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having equal diameters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having equal diameters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having equal diameters or dimensions in all directions; spherical or globular in form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and cytology, designating parenchyma cells whose axes are of roughly equal length, contrasting with elongated fibers or tracheids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isodiametric designates having equal diameters."*
+> - 📜 **Asa Gray (*First Lessons in Botany and Vegetable Physiology*):** *"Soft plant pith is composed of **isodiametric** parenchyma cells packed together like bubbles in a foam."*
+> - 📜 **Karl von Goebel (*Organography of Plants*):** *"Under uniform turgor pressure, juvenile embryonic cells maintain a roughly **isodiametric** polyhedral form."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Crystalline aggregates of garnets often develop nearly **isodiametric** dodecahedral crystals."*

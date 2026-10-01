@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earthworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Earthworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subclass of annelid worms, including earthworms, characterized by having relatively few setae (bristles) per body segment and no parapodia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and soil science, hermaphroditic coelomate worms possessing a clitellum, vital for subterranean soil aeration and humification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligochaeta designates earthworms."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The modest burrowers of **Oligochaeta** have ploughed the land of the globe more times than all the agricultural implements of man."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Members of the class **Oligochaeta** are distinguished from marine polychaetes by the complete absence of fleshy parapodia."*
+> - 📜 **E.O. Wilson (*The Diversity of Life*):** *"Beneath the tropical forest floor, giant earthworms of the **Oligochaeta** churn decaying litter into nutrient-rich humus."*

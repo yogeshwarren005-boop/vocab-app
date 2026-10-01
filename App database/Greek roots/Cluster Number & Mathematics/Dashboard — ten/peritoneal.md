@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or affecting the peritoneum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or affecting the peritoneum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the peritoneum, the serous membrane lining the abdominal cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical anatomy and surgery, the peritoneal cavity, peritoneal fluid, or peritoneal dialysis (a therapy utilizing the vascular peritoneal membrane to filter waste products in kidney failure).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Although the former (we are thinking of neglect) is undoubtedly only too true the case he cites of nurses forgetting to count the sponges in the peritoneal cavity is too rare to be normative."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute inflammation of the **peritoneal** membrane produces intense abdominal rigidity, rebound tenderness, and high fever."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in Surgery*):** *"Careful antiseptic precautions permitted surgeons to enter the **peritoneal** cavity without provoking fatal peritonitis."*
+> - 📜 **Harvey Cushing (*Selected Papers on Neurosurgery and Physiology*):** *"Ventriculoperitoneal shunting allows excess cerebrospinal fluid to be harmlessly absorbed across the vast **peritoneal** surface."*

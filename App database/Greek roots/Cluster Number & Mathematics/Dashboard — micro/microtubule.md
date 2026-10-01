@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopically small tubule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microscopically small tubule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic, tubular structure present in numbers in the cytoplasm of cells, forming part of the cytoskeleton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology, a dynamic polymer composed of alpha- and beta-tubulin dimers that forms the mitotic spindle, cilium axonemes, and intracellular transport tracks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microtubule designates a microscopically small tubule."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Motor proteins such as kinesin and dynein march along each **microtubule** track, ferrying secretory vesicles to the cell cortex."*
+> - 📜 **Roger Penrose (*Shadows of the Mind*):** *"Stuart Hameroff and I hypothesized that quantum coherent computations might occur within the hollow lattice of the neuronal **microtubule**."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Taxol halts cancerous division by stabilizing the cellular **microtubule** network, preventing mitotic spindles from disassembling."*

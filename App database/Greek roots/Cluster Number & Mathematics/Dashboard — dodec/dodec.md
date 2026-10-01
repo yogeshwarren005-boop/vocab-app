@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: twelve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: twelve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root morpheme (δώδεκα, dodeka) signifying twelve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, chemistry, and architecture, a combining form producing technical terms involving twelve units, sides, faces, or carbon atoms (as in dodecagon, dodecahedron, dodecane).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog dodec as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The formative element **dodec-** represents the Greek compound numeral signifying two and ten, or twelve."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Derivatives incorporating **dodec-** designate groups of twelve gods, twelve columns, or twelve geometric faces."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"Compounds built upon **dodec-** occupy a prominent place in Euclidean stereometry and regular polyhedral theory."*

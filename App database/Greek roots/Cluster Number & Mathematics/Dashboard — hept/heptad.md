@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of six and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of six and one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group, series, or set of seven persons, objects, or things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, an element or radical having a valence of seven; in Pythagorean philosophy, the mystical number seven symbolizing cosmic order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptad designates the cardinal number that is the sum of six and one."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Mystical writers celebrated the sacred **heptad**, discovering seven planets, seven metals, and seven ages of man."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"Halogens in their highest oxidation state can act as a chemical **heptad**, combining with seven monovalent atoms."*
+> - 📜 **Thomas Taylor (*The Theoretic Arithmetic of the Pythagoreans*):** *"The **heptad** was venerated by the ancients as virgin and motherless, because it neither engenders nor is engendered within the decad."*

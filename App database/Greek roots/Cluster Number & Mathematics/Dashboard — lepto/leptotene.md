@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stage of meiotic prophase immediately preceding synapsis in which the chromosomes appear as fine discrete threads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stage of meiotic prophase immediately preceding synapsis in which the chromosomes appear as fine discrete threads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first sub-stage of prophase I in meiosis, during which replicated chromosomes condense into long, thin, thread-like structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, the meiotic stage (from Greek leptos, thin, and tainia, ribbon) preceding zygotene, during which telomeres attach to the nuclear envelope forming the bouquet configuration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptotene designates a stage of meiotic prophase immediately preceding synapsis in which the chromosomes appear as fine discrete threads."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"During the **leptotene** stage, chromatin strands become visible as delicate single threads adorned with bead-like chromomeres."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The alignment of homologous chromosomes begins immediately following the initial condensation observed in **leptotene**."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"In the **leptotene** nucleus, chromosomes appear as exceedingly fine, unbroken filaments extending throughout the karyolymph."*

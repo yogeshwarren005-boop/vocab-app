@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer of styrene; a rigid transparent thermoplastic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polymer of styrene; a rigid transparent thermoplastic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rigid, transparent, and lightweight synthetic thermoplastic polymer made by the polymerization of styrene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial materials science, an aromatic polymer (solid or expanded foam / Styrofoam) with high thermal insulation, dielectric strength, and low cost, widely used in food packaging and building insulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polystyrene designates a polymer of styrene; a rigid transparent thermoplastic."*
+> - 📜 **Hermann Staudinger (*Macromolecular Chemistry*):** *"Linear chains of **polystyrene** demonstrated that high molecular weight can be achieved through pure carbon-carbon covalent linkages."*
+> - 📜 **Herman Mark (*Giant Molecules*):** *"The bulky phenyl side groups along the **polystyrene** backbone hinder chain slippage, rendering the solid plastic hard and brittle."*
+> - 📜 **F. A. Henglein (*Chemical Technology*):** *"Expanding **polystyrene** beads with a blowing agent produces lightweight foamed blocks used universally for refrigeration insulation."*

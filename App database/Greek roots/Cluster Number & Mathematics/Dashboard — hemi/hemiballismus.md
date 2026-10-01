@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hyperkinetic movement disorder characterized by sudden, violent, involuntary flinging or flailing movements of the limbs on one side of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a rare stroke-induced dyskinesia caused by a unilateral vascular lesion in the contralateral subthalamic nucleus of Luys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiballismus designates a term designating an entity, condition, or phenomenon derived from greek hemi."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Violent unilateral choreiform flinging, known as **hemiballismus**, typically points to acute pathology in the subthalamic body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The uncoordinated thrashing of the arm and leg in **hemiballismus** exhausts the patient unless controlled by sedation."*
+> - 📜 **Harvey Cushing (*Selected Papers on Neurosurgery*):** *"Subcortical hemorrhages involving the corpus Luysii often trigger catastrophic episodes of uncontrollable **hemiballismus**."*

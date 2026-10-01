@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New zealand spinach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New zealand spinach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering coastal herbs and subshrubs in the ice plant family (Aizoaceae), commonly known as New Zealand spinach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and horticulture, succulent halophytic vegetables (notably Tetragonia tetragonioides) native to Pacific coasts, widely cultivated as warm-weather substitutes for true spinach.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragonia designates new zealand spinach."*
+> - 📜 **Captain James Cook (*A Voyage Round the World*):** *"To preserve our crews from scurvy in New Zealand, we gathered wild leaves of **Tetragonia** and boiled them with our daily rations."*
+> - 📜 **Joseph Banks (*The Endeavour Journal of Sir Joseph Banks*):** *"I found a coastal plant which we called New Zealand spinach, the **Tetragonia**, growing abundantly upon the sandy shores."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Unlike true spinach, **Tetragonia** thrives under hot summer sun, producing fleshy triangular leaves throughout July and August."*

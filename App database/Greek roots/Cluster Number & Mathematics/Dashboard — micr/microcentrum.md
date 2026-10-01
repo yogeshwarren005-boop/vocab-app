@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Katydids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Katydids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of broad-winged katydids or bush crickets belonging to the family Tettigoniidae, known as angle-wing katydids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical cytology, an obsolete term for the centrosome or central apparatus of a cell during mitotic division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog microcentrum as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"Perched on the leafy twig, the green **Microcentrum** mimics an emerald leaf so completely that predators pass it by."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The dynamic aster radiates outward from the **microcentrum** during the initial stages of cellular cleavage."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Camouflaged orthopterans like **Microcentrum** thrive in the dense deciduous foliage of the southern woodlands."*

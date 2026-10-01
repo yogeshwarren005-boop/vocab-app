@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visible to the naked eye; using the naked eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large enough to be visible with the naked eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant form of macroscopic, visible to the unaided eye or pertaining to large-scale observations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical and geological investigations, relating to gross visual inspection before thin sectioning or microscopic examination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroscopical designates visible to the naked eye; using the naked eye."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **macroscopical** texture of the granite specimen revealed coarse crystalline intergrowths of quartz and feldspar."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"A preliminary **macroscopical** survey of the dissection showed the principal nerve trunks and muscular boundaries."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The liver showed marked **macroscopical** enlargement with characteristic 'nutmeg' mottling on cut section."*

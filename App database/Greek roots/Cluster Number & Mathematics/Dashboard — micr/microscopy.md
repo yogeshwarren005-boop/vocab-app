@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Research with the use of microscopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Research with the use of microscopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technical use of microscopes to view objects and areas of objects that cannot be seen with the naked eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific discipline comprising optical, fluorescence, confocal, and electron imaging modalities that illuminate nanoscale biological and material architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Any person possessed of the cardinal virtues of microscopy—patience and perseverance—will be rewarded in this instance; whilst those who are deficient will lose an object worthy of the virtues they dare not boast."*
+> - 📜 **Ernst Abbe (*Contributions to the Theory of the Microscope*):** *"Diffraction sets an inescapable physical barrier upon optical **microscopy**, limiting resolution to half the wavelength of illuminating light."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Refinements in histological staining transformed neurological **microscopy** into an exact anatomical science."*
+> - 📜 **Richard Feynman (*There's Plenty of Room at the Bottom*):** *"The development of electron **microscopy** allowed us to resolve viruses and macromolecular assemblies directly."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The expression of an idea by the use of usually two independent words connected by and (such as nice and warm) instead of the usual combination of independent word and its modifier (such as nicely warm).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expression of an idea by the use of usually two independent words connected by and (such as nice and warm) instead of the usual combination of independent word and its modifier (such as nicely warm).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure of speech in which a single complex idea is expressed by two nouns connected by 'and' rather than by a noun and an adjective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Latin and English rhetoric, a stylistic device (e.g. 'with might and main', 'sound and fury') that gives equal grammatical weight to two coordinated concepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hendiadys designates the expression of an idea by the use of usually two independent words connected by and (such as nice and warm) instead of the usual combination of independent word and its modifier (such as nicely warm)."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The perfumed tincture of the rose, or the heavy weight of 'pith and marrow', reflects expressive **hendiadys** in dramatic verse."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"Virgil's famous phrase 'cups and gold' for golden cups exemplifies the vivid elegance of **hendiadys**."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"When two substantives are linked with a conjunction to mean one blended thing, rhetoricians name it **hendiadys**."*

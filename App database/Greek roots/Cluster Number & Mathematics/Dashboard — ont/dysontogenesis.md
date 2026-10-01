@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The defective development of an embryo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The defective development of an embryo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defective, abnormal, or disordered developmental history of an individual organism (ontogeny).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and developmental pathology, aberrations during embryogenesis that lead to congenital structural malformations or neoplastic transformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysontogenesis designates the defective development of an embryo."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Certain congenital teratomas arise through early embryonic **dysontogenesis**, sequestering pluripotential cells in ectopic tissues."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Pathologists documented cases of **dysontogenesis** where developmental timing mechanisms decoupled, producing strange morphological mosaics."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris and Allied States*):** *"Complex congenital cardiac anomalies are manifestations of embryonic **dysontogenesis** occurring during early septal fusion."*

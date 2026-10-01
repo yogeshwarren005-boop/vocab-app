@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek icos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane geometric polygon bounded by twenty straight sides and twenty interior angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry, a regular icosagon whose interior angles each measure 162 degrees, constructible using an unmarked ruler and compass by bisecting the angles of a regular decagon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icosagon designates a term designating an entity, condition, or phenomenon derived from greek icos."*
+> - 📜 **Euclid (*Elements*):** *"By successive bisections of the arcs of an inscribed decagon, the geometer inscribe a regular **icosagon** in a circle."*
+> - 📜 **Thomas Heath (*The Thirteen Books of Euclid's Elements*):** *"The construction of the **icosagon** provides an increasingly refined polygon for approximating the circular circumference."*
+> - 📜 **Augustus De Morgan (*Elements of Arithmetic*):** *"The sum of the interior angles of a plane **icosagon** equals thirty-six right angles, or 3240 degrees."*

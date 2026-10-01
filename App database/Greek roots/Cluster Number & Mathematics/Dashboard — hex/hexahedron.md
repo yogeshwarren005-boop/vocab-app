@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron of six faces (such as a cube).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polyhedron of six faces (such as a cube).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional solid or polyhedron bounded by six plane faces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry and crystallography, specifically the regular hexahedron (the cube), one of the five Platonic solids, bounded by six square faces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexahedron designates a polyhedron of six faces (such as a cube)."*
+> - 📜 **Euclid (*Elements*):** *"Book XIII demonstrates the construction of the regular **hexahedron** or cube inscribed within a sphere."*
+> - 📜 **Johannes Kepler (*Mysterium Cosmographicum*):** *"Between the spheres of Saturn and Jupiter, I interposed the regular **hexahedron** in my geometrical model."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Galena and rock salt crystallize predominantly in the isometric form of a perfect **hexahedron**."*

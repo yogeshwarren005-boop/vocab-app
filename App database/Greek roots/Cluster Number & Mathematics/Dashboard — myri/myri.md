@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myri.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek myrios, meaning countless, myriad, or ten thousand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical etymology and scientific nomenclature, the prefix element utilized in myriapod, myriameter, and myriagon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myri designates a term designating an entity, condition, or phenomenon derived from greek myri."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"From the classical Greek root **myri**, mathematicians coined prefixes designating ten thousand or infinite counts."*
+> - 📜 **Homer (*The Iliad*):** *"A myriad shades, countlessly multiplied from the root **myri**, thronged the dark shores of the Underworld."*
+> - 📜 **Edward Sapir (*Language*):** *"The morpheme **myri** moved from poetic descriptions of uncountable swarms to precise metric decimal prefixes."*

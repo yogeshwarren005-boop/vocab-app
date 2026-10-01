@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of making or using a hologram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or process of making or using a hologram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science and technique of recording and reproducing three-dimensional optical images by recording the interference pattern of coherent light waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and quantum electronics, a lensless photographic technique invented by Dennis Gabor in 1948 utilizing laser illumination to store both phase and amplitude information.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holography designates the art or process of making or using a hologram."*
+> - 📜 **Dennis Gabor (*A New Microscopic Principle (Nobel Lecture)*):** *"I called this technique **holography**, from the Greek word holos, because it captures the whole light wavefront, amplitude and phase."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"In optical **holography**, the interference between reference and scattered laser beams preserves the full three-dimensional spatial coordinates."*
+> - 📜 **Arthur Schawlow (*Lasers and Light*):** *"The realization of practical **holography** awaited the invention of the continuous-wave gas laser with its long coherence length."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without tonality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without tonality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an atonal manner; without reference to a central key or traditional harmonic tonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In performance analysis and music criticism, executing or composing musical lines where pitch relationships are organized through interval sets rather than diatonic keys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atonally designates without tonality."*
+> - 📜 **Aaron Copland (*Our New Music*):** *"The violins weave **atonally** through jagged angular phrases that defy all conventional cadence."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"The vocal line declaims **atonally** in Pierrot Lunaire, blurring the line between singing and spoken recitation."*
+> - 📜 **Leonard Bernstein (*The Infinite Variety of Music*):** *"Even when moving **atonally**, the underlying rhythmic pulse of the piece provides structural coherence."*

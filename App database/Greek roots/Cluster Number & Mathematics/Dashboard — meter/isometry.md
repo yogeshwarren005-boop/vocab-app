@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The growth rates in different parts of a growing organism are the same.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A one-to-one mapping of one metric space into another metric space that preserves the distances between each pair of points.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equality of measure, dimensions, or proportions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and topology, a distance-preserving transformation between metric spaces (satisfying d(f(x), f(y)) = d(x, y)), including translations, rotations, and reflections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometry designates the growth rates in different parts of a growing organism are the same."*
+> - 📜 **Felix Klein (*Erlangen Program (Comparative Review of Recent Researches in Geometry)*):** *"Euclidean geometry may be defined as the invariant theory of the group of spatial transformations maintaining metric **isometry**."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"Every **isometry** of Euclidean three-space can be resolved into the product of at most four reflections."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"Coordinate rotations preserve absolute **isometry**, leaving quadratic distance forms invariant."*

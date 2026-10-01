@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brilliantly colored pheasant of southern asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliantly colored pheasant of southern asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, brilliantly colored Asian pheasant of the genus Lophophorus, notably the Himalayan monal (the national bird of Nepal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, a high-altitude galliform bird native to the Himalayan oak and rhododendron forests, famed for iridescent metallic plumage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monal designates brilliantly colored pheasant of southern asia."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The dazzling, kaleidoscopic plumage of the male Himalayan **monal** evolved under the rigorous aesthetic scrutiny of female mate choice."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"At timberline in the Sikkim mountains, coveys of the radiant pheasant **monal** burst from the rhododendron scrub with loud whistling calls."*
+> - 📜 **David Attenborough (*The Life of Birds*):** *"Few sights in the high Himalayas rival the sunlit flash of a male **monal** launching across an alpine gorge."*

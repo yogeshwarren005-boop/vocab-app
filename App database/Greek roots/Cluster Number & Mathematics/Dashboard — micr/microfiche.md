@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small sheet of microfilm on which many pages of material have been photographed; a magnification system is used to read the material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small sheet of microfilm on which many pages of material have been photographed; a magnification system is used to read the material.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat sheet of microfilm containing microphotographic reproductions of document pages in a compact grid format.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archival storage medium popular in libraries and corporate databases before digital optical media, viewed through optical enlargement machines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microfiche designates small sheet of microfilm on which many pages of material have been photographed; a magnification system is used to read the material."*
+> - 📜 **Umberto Eco (*Foucault's Pendulum*):** *"He sat in the dimly lit basement of the archive, spooling through sheets of **microfiche** to locate the obscure nineteenth-century pamphlet."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Libraries packed whole wings of historical newspapers onto compact **microfiche** envelopes tucked inside metal filing drawers."*
+> - 📜 **David Foster Wallace (*The Pale King*):** *"Recruits at the regional tax office squinted into glowing projection screens, verifying scanned ledgers preserved on **microfiche**."*

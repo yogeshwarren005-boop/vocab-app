@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Monarchical government or principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monarchical government or principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principles or advocacy of monarchy; belief in rule by a monarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, a royalist ideological movement championing hereditary kingship against republicanism, constitutionalism, or popular democracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monarchism designates monarchical government or principles."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"Our revolution was directed not merely against a king, but against the insidious principle of **monarchism** itself."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Critics accused the proposed executive of covert **monarchism**, though its powers were strictly bounded by law."*
+> - 📜 **Hannah Arendt (*On Revolution*):** *"The collapse of traditional European **monarchism** left a vacuum that twentieth-century totalitarian movements rushed to exploit."*

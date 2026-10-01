@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: ontogeny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ontogeny.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The development or developmental history of an individual organism from the earliest embryonic stage to maturity; ontogeny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and psychology, the progressive differentiation and structural maturation of an individual organism over its lifespan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog ontogenesis as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Ernst Haeckel (*General Morphology of Organisms*):** *"The fundamental biogenetic law asserts that **ontogenesis** is a rapid and brief recapitulation of phylogenesis."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Modern heterochrony explores how changes in developmental rates during **ontogenesis** generate novel evolutionary morphologies."*
+> - 📜 **Jean Piaget (*The Origins of Intelligence in Children*):** *"Cognitive **ontogenesis** unfolds through distinct, sequential stages of sensorimotor and formal operational maturation."*

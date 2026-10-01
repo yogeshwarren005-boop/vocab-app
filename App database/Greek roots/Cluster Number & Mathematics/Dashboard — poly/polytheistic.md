@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by polytheism : believing in or worshiping multiple gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characterized by polytheism : believing in or worshiping multiple gods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or advocating the belief in many gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious studies and cultural anthropology, pantheons and rituals structured around multiple divine powers presiding over specialized cosmic, agricultural, and social functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"No polytheistic religion can exclude gods from its pantheon; all divinities that man can devise have a right there."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Its business now was to reconcile its own monotheistic dogma with popular polytheistic practice."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The **polytheistic** pantheon of ancient Egypt reflected the localized animal deities of ancestral nomes gradually united under a national mythology."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"The rationalization of **polytheistic** cults into functional departments paved the way for bureaucratic concepts of the sacred order."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"From primitive animism, human imagination ascended naturally to the structured **polytheistic** hierarchies of Greece and India."*

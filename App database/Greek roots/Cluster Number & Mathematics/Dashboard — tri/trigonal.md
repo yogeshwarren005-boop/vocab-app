@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having threefold symmetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having threefold symmetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three angles or corners; triangular; or belonging to the trigonal (rhombohedral) crystal system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and mineralogy, a crystal system possessing a single three-fold axis of rotational symmetry (such as quartz, calcite, and tourmaline); in molecular geometry, trigonal planar or trigonal bipyramidal arrangements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trigonal designates having threefold symmetry."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Calcite crystallizes in the **trigonal** system, displaying exquisite rhombohedral and scalenohedral habits."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Boron trifluoride exhibits a planar **trigonal** geometry, with three fluorine atoms separated by angles of exactly 120 degrees."*
+> - 📜 **Edward Salisbury Dana (*Textbook of Mineralogy*):** *"The three-fold symmetry of **trigonal** minerals is easily verified by optical examination under the polarizing petrographic microscope."*

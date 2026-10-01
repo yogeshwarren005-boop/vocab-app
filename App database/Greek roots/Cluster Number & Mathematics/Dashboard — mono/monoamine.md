@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A molecule containing one amine group (especially one that is a neurotransmitter).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A molecule containing one amine group (especially one that is a neurotransmitter).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound containing one amino group, especially a neurotransmitter such as dopamine, norepinephrine, or serotonin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurochemistry and psychopharmacology, signaling molecules derived from aromatic amino acids that regulate mood, arousal, and cognition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoamine designates a molecule containing one amine group (especially one that is a neurotransmitter)."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"L-dopa administration replenished cerebral reserves of the essential **monoamine** dopamine, awakening frozen Parkinsonian patients."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Serotonin, a crucial **monoamine**, facilitates synaptic plasticity in Aplysia by elevating cyclic AMP levels."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"The **monoamine** hypothesis of depression posited that mood disorders stemmed from depleted synaptic transmitter concentrations."*

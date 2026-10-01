@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial vines of africa and india and australia; plants often placed in genus dolichos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial vines of africa and india and australia; plants often placed in genus dolichos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the legume family (Fabaceae), including the drought-resistant horse gram (Macrotyloma uniflorum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical agriculture and agronomy, pulse-yielding leguminous herbs native to Africa and southern Asia, valued for livestock fodder, soil nitrogen fixation, and high-protein edible seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrotyloma designates annual or perennial vines of africa and india and australia; plants often placed in genus dolichos."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Horse gram, classified as **Macrotyloma** uniflorum, is widely cultivated across arid plateaus as an indispensable fodder crop."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Legumes of the genus **Macrotyloma** endure intense seasonal heat while yielding nutritious pulse seeds for rural communities."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In the tribe Phaseoleae, the hard-seeded annual **Macrotyloma** thrives in marginal soils unsuitable for delicate pulses."*

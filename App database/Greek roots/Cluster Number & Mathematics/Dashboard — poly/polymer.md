@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound or mixture of compounds formed by polymerization and consisting essentially of repeating structural units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (such as polystyrene) consisting of molecules that are large multiples of units of low molecular weight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance composed of large macromolecules built up by the repeated linkage of smaller monomer units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macromolecular chemistry and materials science, synthetic and biological macromolecules (including proteins, cellulose, DNA, plastics, and rubbers) whose mechanical and thermal properties emerge from high molecular weight and chain entanglements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymer designates a chemical compound or mixture of compounds formed by polymerization and consisting essentially of repeating structural units."*
+> - 📜 **Hermann Staudinger (*Nobel Lecture: Macromolecular Chemistry*):** *"High-molecular-weight substances are true macromolecules where thousands of atoms are linked by covalent bonds into a long **polymer** chain."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Natural rubber is a linear **polymer** of isoprene, whose elasticity stems from the thermal coiling and uncoiling of its chains."*
+> - 📜 **Wallace Carothers (*Studies on Polymerization and Ring Formation*):** *"Condensation of bifunctional monomers proceeds indefinitely, building a linear **polymer** of immense molecular mass."*

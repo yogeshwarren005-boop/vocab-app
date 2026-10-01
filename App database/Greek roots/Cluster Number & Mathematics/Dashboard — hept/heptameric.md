@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of seven.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of seven.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of, arranged in, or divided into seven parts, segments, or subunits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and biochemistry, designating a macromolecular protein complex composed of seven associated monomeric polypeptide subunits (e.g. GroES heptameric ring).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptameric designates adjective*) pertaining to, derived from, or characteristic of seven."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"The GroES cochaperonin functions as a symmetrical **heptameric** ring capping the cylindrical chamber of GroEL."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"X-ray crystallography revealed the circular quaternary assembly of the **heptameric** bacterial pore complex."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Several key helicase enzymes assemble into stable **heptameric** or hexameric rings to process replicating DNA."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure consisting of four stylized human arms or legs (or bent lines) radiating from a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure consisting of four stylized human arms or legs (or bent lines) radiating from a center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbol or decorative design consisting of four bent legs or arms radiating from a central point; a four-armed swastika or fylfot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and comparative iconography, an ancient solar or talismanic motif depicted on Greek, Celtic, and Lycian coins, signifying dynamic rotation and celestial movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetraskele designates a figure consisting of four stylized human arms or legs (or bent lines) radiating from a center."*
+> - 📜 **Heinrich Schliemann (*Ilios: The City and Country of the Trojans*):** *"Upon the whorls unearthed at Troy was engraved the sacred **tetraskele**, an ancient emblem of rotating solar energy."*
+> - 📜 **Percy Gardner (*The Types of Greek Coins*):** *"Archaic coins of Lycia frequently stamp the reverse with a prominent **tetraskele** composed of four hooked wings or legs."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The swirling **tetraskele** pattern painted upon Minoan pottery reveals Aegean trade contacts with Anatolian workshops."*

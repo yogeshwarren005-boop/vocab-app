@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who tunes pianos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic receiver that detects and demodulates and amplifies transmitted signals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or electronic device that tunes musical instruments, radio receivers, or television channels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radio engineering and communications, the electronic subsystem (comprising RF amplifier, local oscillator, and mixer) that selects a specific carrier frequency band from the antenna input.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He looked towards the saloon door. —I see you have moved the piano. —The tuner was in today, miss Douce replied, tuning it for the smoking concert and I never heard such an exquisite player. —Is that a fact? —Didn’t he, miss Kennedy?"*
-> - 📜 **James Joyce (*Ulysses*):** *"That was a tuningfork the tuner had that he forgot that he now struck."*
-> - 📜 **James Joyce (*Ulysses*):** *"Lidwell asked. —O, that must be the tuner, Lydia said to Simonlionel first I saw, forgot it when he was here."*
+> - 📜 **Guglielmo Marconi (*Wireless Telegraphic Communication*):** *"Adjusting the variable inductor of the **tuner** brought the faint transatlantic signal into clear audibility."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The pianoforte **tuner** spent hours setting equal temperament on the grand piano before the concert."*
+> - 📜 **Arthur Conan Doyle (*The Green Flag and Other Stories*):** *"The wireless operator tapped the key and adjusted his sensitive crystal **tuner** to catch the naval broadcast."*

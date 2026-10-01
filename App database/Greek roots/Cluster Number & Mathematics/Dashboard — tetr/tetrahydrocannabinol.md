@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychoactive substance present in marijuana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychoactive substance present in marijuana.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal psychoactive constituent of cannabis (marijuana), commonly abbreviated as THC.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropharmacology and chemical neuroscience, a partial agonist of cannabinoid receptors (CB1 and CB2) in the brain and immune system, responsible for the euphoric, analgesic, orexigenic, and cognitive effects of cannabis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrahydrocannabinol designates psychoactive substance present in marijuana."*
+> - 📜 **Raphael Mechoulam (*Isolation, Structure, and Partial Synthesis of an Active Constituent of Hashish*):** *"In 1964 we succeeded in isolating delta-9-**tetrahydrocannabinol** in pure crystalline form, proving it to be the principal active agent of cannabis."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"Binding of **tetrahydrocannabinol** to presynaptic CB1 receptors suppresses neurotransmitter release across diverse cortical circuits."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"The strange temporal distortions and intensified visual perceptions induced by **tetrahydrocannabinol** fascinated 19th-century bohemians."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Music consisting of a single vocal part (usually with accompaniment).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Music consisting of a single vocal part (usually with accompaniment).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lyrical lament or mournful poem recited or sung by a single performer, especially an elegy mourning someone's death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music history, an accompanied solo vocal style developed in Italy in the late 16th century that paved the way for early baroque opera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—A Fiddler In The North The Minstrel At Lincluden A Vision Song—A Red, Red Rose Song—Young Jamie, Pride Of A’ The Plain Song—The Flowery Banks Of Cree Monody On a lady famed for her Caprice."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Monody On a lady famed for her Caprice."*
+> - 📜 **John Milton (*Lycidas*):** *"In this **monody** the author bewails a learned friend, unfortunately drowned in his passage from Chester on the Irish Seas."*
+> - 📜 **Matthew Arnold (*Thyrsis: A Monody*):** *"Through this pastoral **monody**, the poet commemorates Arthur Hugh Clough amidst the haunted Oxford countryside."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"The Florentine Camerata revived classical declamation through expressive solo **monody** supported by simple continuo chords."*

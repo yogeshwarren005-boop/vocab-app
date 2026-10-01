@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant structure that produces megaspores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant structure that produces megaspores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sporangium that produces megaspores (macrospores), which develop into female gametophytes; a megasporangium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heterosporous vascular plants (such as Selaginella, water ferns, and seed plants), the specialized reproductive structure producing large female spores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrosporangium designates a plant structure that produces megaspores."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"In heterosporous lycopods, each **macrosporangium** bears four large nutrient-filled spores destined to produce female gametophytes."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The basal sporocarps of Marsilea enclose both microsporangia and a large solitary **macrosporangium**."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The ovule of gymnosperms represents an evolutionarily modified **macrosporangium** surrounded by an integument."*

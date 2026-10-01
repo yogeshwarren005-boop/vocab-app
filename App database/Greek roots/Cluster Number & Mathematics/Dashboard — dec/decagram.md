@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: dekagram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: dekagram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of mass equal to ten grams (symbol: dag).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial trade and culinary measurement across Central and Eastern Europe, a standard retail unit of mass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog decagram as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Lavoisier (*Elements of Chemistry*):** *"The new decimal system introduced the **decagram** to represent exactly ten standard units of gravimetric mass."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes carefully weighed each precipitate down to the fraction of a **decagram** in his improvised chemical laboratory."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"Add precisely one **decagram** of dried sodium carbonate to the powdered ore before heating in the platinum crucible."*

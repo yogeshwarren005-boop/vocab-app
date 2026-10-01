@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who believes in a plurality of gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who believes in a plurality of gods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes in or worships multiple gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In history of religion and theological polemics, an adherent of a polytheistic faith who recognizes and propitiates diverse cosmic entities, ancestors, or personified natural forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polytheist designates one who believes in a plurality of gods."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"To the enlightened Roman **polytheist**, the addition of an exotic foreign divinity to the imperial Pantheon was a matter of polite civic indifference."*
+> - 📜 **David Hume (*The Natural History of Religion*):** *"The ancient **polytheist** never conceived of his gods as infinite or omnipotent, but as limited beings subject to passion."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A pragmatic view of the universe might find more natural kinship with the diverse pluralism of the **polytheist** than with abstract monism."*

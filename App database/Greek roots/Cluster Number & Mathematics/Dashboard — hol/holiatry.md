@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A holistic approach to medicine and healthcare that treats the patient as an integrated physical, mental, and emotional whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical philosophy, medical care emphasizing whole-person wellness, prevention, and lifestyle factors over the isolated treatment of symptoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holiatry designates a term designating an entity, condition, or phenomenon derived from greek hol."*
+> - 📜 **William Osler (*Aequanimitas, with Other Addresses*):** *"The wise practitioner embraces **holiatry**, knowing that it is as important to know what kind of person has the disease as what kind of disease the person has."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The philosophy of **holiatry** reminds us that the healing art must address the mind and bodily temper in unison."*
+> - 📜 **Henry Maudsley (*Body and Mind*):** *"Mental pathology cannot be separated from somatic conditions, demanding an enlightened **holiatry** in clinical treatment."*

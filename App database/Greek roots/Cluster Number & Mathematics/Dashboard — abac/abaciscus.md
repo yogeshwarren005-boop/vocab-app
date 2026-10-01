@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek abac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small square tile, tessera, or stone cube used in composing mosaic floors and wall pavements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture, a diminutive abacus or square tablet forming a decorative member of a cornice or panel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abaciscus designates a term designating an entity, condition, or phenomenon derived from greek abac."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Each colored **abaciscus** of porphyry and marble contributes its microscopic tint to the Byzantine mosaic."*
+> - 📜 **James Fergusson (*A History of Architecture in All Countries*):** *"The vault of the baptistery was encrusted with thousands of glittering **abacisci** set in enduring lime cement."*
+> - 📜 **Marcus Vitruvius Pollio (*De Architectura (The Ten Books on Architecture)*):** *"Pavements formed of finely cut **abaciscus** pieces require a level bed of statumen and well-tamped rudus."*

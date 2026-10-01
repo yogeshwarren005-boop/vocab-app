@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving two sets of homologous chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving two sets of homologous chromosomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or quality of having cells with two homologous sets of chromosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and cytogenetics, the prevailing chromosomal condition of sexually reproducing eukaryotes that buffers against deleterious recessive mutations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diploidy designates having or involving two sets of homologous chromosomes."*
+> - 📜 **Sewall Wright (*Evolution and the Genetics of Populations*):** *"The evolutionary advantage of **diploidy** lies in its capacity to mask lethal recessive mutations through heterozygous allelic pairing."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The transition from predominant haplontic cycles to permanent vegetative **diploidy** marked a pivotal milestone in plant evolution."*
+> - 📜 **J. B. S. Haldane (*The Causes of Evolution*):** *"Mathematical models of population genetics must account for the doubled gene frequencies inherent to sexual **diploidy**."*

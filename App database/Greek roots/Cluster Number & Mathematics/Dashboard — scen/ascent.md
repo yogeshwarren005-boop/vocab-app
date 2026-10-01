@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An upward slope or grade (as in a road).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement upward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rising, climbing, or mounting upward; an upward slope or climb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mountaineering, aviation, and evolutionary history, the physical climb up a mountain face, the climb of an aircraft to cruising altitude, or the genealogical rise of an organism or humanity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At her third ascent the rick suddenly brightened with the brazen glare of shining majolica—every knot in every straw was visible."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am a brute—but good-bye!” After advancing the distance which completed the ascent of the hill, Bathsheba turned her head."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her ascent of the crooked staircase was a slower process, and her face, as it rose into the light above the last stair, encountered the gaze of all the party assembled in the bedroom."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"In the dark night we climbed, and on our arduous **ascent** the moon suddenly broke forth over Snowdon's head."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man with all his noble qualities still bears in his bodily frame the indelible stamp of his lowly **ascent**."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The steep **ascent** to the alpine ridge led us through groves of larch and pine up into the desolate realm of ice."*

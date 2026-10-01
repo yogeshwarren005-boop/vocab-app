@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one millionth of a meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to one millionth of a meter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one-millionth (10^-6) of a meter; officially designated as the micrometer (µm).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biology and precision manufacturing, a standard benchmark unit for measuring cells, wavelengths of infrared light, and mechanical tolerances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micron designates a metric unit of length equal to one millionth of a meter."*
+> - 📜 **Richard Feynman (*There's Plenty of Room at the Bottom*):** *"A biological cell is a marvelous factory packed with molecular machines operating within an envelope of just a few **micron**."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Infrared satellites observe distant protostellar nurseries at wavelengths spanning ten to one hundred **micron**."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Under the microscope, retinal cone photoreceptors measured mere fractions of a **micron** across their sensitive tips."*

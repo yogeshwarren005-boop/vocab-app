@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit, monad, or ultimate individual entity; specifically in Neoplatonic philosophy, one of the supreme divine principles of unity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In late Neoplatonism (especially in the philosophy of Proclus), each transcendent, supra-essential god or primary unit that mediates between the ineffable One and the realm of Being.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, henad designates a term designating an entity, condition, or phenomenon derived from greek hen."*
+> - 📜 **Proclus (*The Elements of Theology*):** *"Every **henad** is self-complete, divine, and supra-essential, illuminating the lower orders of Being with unity."*
+> - 📜 **Thomas Taylor (*The Six Books of Proclus on the Theology of Plato*):** *"The divine **henads** are the unities of the gods, transcending intellect and participating directly in the supreme One."*
+> - 📜 **Samuel Taylor Coleridge (*Lectures on the History of Philosophy*):** *"The late Platonists posited a hierarchy of **henads** to bridge the chasm between absolute unity and cosmic multiplicity."*

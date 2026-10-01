@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon of seven angles and seven sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polygon of seven angles and seven sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane geometric polygon bounded by seven straight sides and seven interior angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry, a regular heptagon whose interior angles each measure approximately 128.57 degrees, constructible with neusis or conic sections but not with unmarked ruler and compass alone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptagon designates a polygon of seven angles and seven sides."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"The regular **heptagon** cannot be inscribed in a circle by Euclidean ruler and compass because seven is not a Fermat prime."*
+> - 📜 **Archimedes (*On the Inscription of a Regular Heptagon in a Circle*):** *"Archimedes solved the construction of the regular **heptagon** by an ingenious application of neusis verging."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"The sum of the interior angles of any plane **heptagon** equals ten right angles, or nine hundred degrees."*

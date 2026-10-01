@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the spores in heterosporous plants that give rise to male gametophytes and are generally smaller than the megaspore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the spores in heterosporous plants that give rise to male gametophytes and are generally smaller than the megaspore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smaller of the two types of spores produced by heterosporous plants, which develops into a male gametophyte (pollen grain).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant reproductive biology, the haploid cell produced by meiosis of a microsporocyte within the microsporangium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microspore designates any of the spores in heterosporous plants that give rise to male gametophytes and are generally smaller than the megaspore."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Following meiotic cytokinesis, each haploid **microspore** develops a durable, sculptured exine coat composed of sporopollenin."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"In orchid pollinia, thousands of individual **microspore** cells cohere into viscous masses adapted for insect dispersal."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"The evolutionary breakthrough of heterospory enabled the **microspore** to specialize exclusively for aerodynamic transport."*

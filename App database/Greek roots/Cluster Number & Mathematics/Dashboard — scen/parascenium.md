@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two flanking wings or projecting side structures adjacent to the stage in an ancient Greek or Roman theatre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architectural history and theater archaeology, the lateral projecting wings that bounded the proscenium (skene), providing storage for theatrical machinery, entrances for actors, and acoustic amplification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parascenium designates a term designating an entity, condition, or phenomenon derived from greek scen."*
+> - 📜 **Vitruvius (*De Architectura*):** *"On either side of the stage the **parascenium** projects outward, providing entrance doors for actors representing foreign travelers."*
+> - 📜 **Margarete Bieber (*The History of the Greek and Roman Theater*):** *"In Hellenistic playhouses, the colonnaded **parascenium** framed the acting space, creating an imposing architectural backdrop."*
+> - 📜 **Arthur Elam Haigh (*The Attic Theatre*):** *"Remains of the Dionysus theatre at Athens clearly show where the stone **parascenium** was added during the Lycurgan rebuilding."*

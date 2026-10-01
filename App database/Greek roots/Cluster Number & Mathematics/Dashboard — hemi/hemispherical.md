@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or being a hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or being a hemisphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape or form of half a sphere; rounded and convex like a hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and engineering, describing domes, bowls, or chambers shaped like a half-sphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pit was a hemispherical concave, naturally formed, with a top diameter of about thirty feet, and shallow enough to allow the sunshine to reach their heads."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Common. (Plate XI. fig. 216.) PHYLLACTINIA, _Lév._ Perithecia hemispherical, at length depressed, seated on a persistent or evanescent membranaceo-granular receptacle; appendages straight, rigid, acicular, at length bent back.—_Berk."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Byzantine church was crowned by a golden **hemispherical** cupola that caught the morning light above the lagoon."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The electrostatic charge gathered entirely upon the outer surface of the hollow **hemispherical** brass conductors."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The mouth of the burrow was roofed over by an ingenious **hemispherical** dome of cemented mud pellets."*

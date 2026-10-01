@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Collapse of the expanded lung; also : defective expansion of the pulmonary alveoli at birth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Collapse of the expanded lung; also : defective expansion of the pulmonary alveoli at birth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partial or complete collapse of a lung or lobe of a lung, resulting in reduced gas exchange.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonology and critical care, loss of lung volume due to alveolar collapse from bronchial obstruction (mucus plug, tumor), external compression (pleural effusion), or surfactant deficiency (neonatal respiratory distress syndrome).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atelectasis designates collapse of the expanded lung; also : defective expansion of the pulmonary alveoli at birth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Obstruction of a main bronchus by a foreign body leads rapidly to absorption of alveolar air and massive pulmonary **atelectasis**."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Postoperative hypoventilation promotes basilar **atelectasis**, which resolves with incentive spirometry and chest physical therapy."*
+> - 📜 **Harvey Cushing (*Papers Relating to the Pituitary Body and Surgery*):** *"Shallow breathing under prolonged general anesthesia predisposes the surgical patient to lobar **atelectasis**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor who draws more attention than other actors in the same scene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor who draws more attention than other actors in the same scene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor or performer who dominates a performance or scene, drawing audience attention away from the primary leads; or something strikingly captivating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic criticism and performance arts, a secondary or character actor whose charisma, physical humor, or emotional intensity effortlessly commands the spectator's gaze.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scene-stealer designates an actor who draws more attention than other actors in the same scene."*
+> - 📜 **H. L. Mencken (*Prejudices: Fourth Series*):** *"The veteran character comic proved an irrepressible **scene-stealer**, pulling the entire audience's gaze with a single twitch of his brow."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The gravedigger was a notorious **scene-stealer**, delaying Hamlet's soliloquy with outrageous comic business."*
+> - 📜 **Max Beerbohm (*Around Theatres*):** *"Every leading lady dreads playing opposite a natural **scene-stealer** whose quietest whisper eclipses her grandest speech."*

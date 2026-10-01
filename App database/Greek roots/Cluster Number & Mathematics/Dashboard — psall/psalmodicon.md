@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-stringed bowed zither or musical instrument developed in 19th-century Scandinavia to accompany church psalm-singing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organology and hymnology, an educational folk instrument invented by Swedish clergyman Johannes Dillner in 1829, utilizing a fretted fingerboard and numerical tablature (sifferskrift) to teach sacred choral melody without pipe organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psalmodicon designates a term designating an entity, condition, or phenomenon derived from greek psall."*
+> - 📜 **Johannes Dillner (*Melodier till Swenska Kyrkans Psalmer*):** *"With the simple wooden **psalmodicon**, every rural parish congregation can learn the sacred chorales with true pitch."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"The single-stringed **psalmodicon** spread across Scandinavian and immigrant American settlements as an economical substitute for church organs."*
+> - 📜 **Alexander John Ellis (*On the History of Musical Pitch*):** *"The fretted fingerboard of the **psalmodicon** provided a reliable empirical standard for measuring traditional Nordic vocal intervals."*

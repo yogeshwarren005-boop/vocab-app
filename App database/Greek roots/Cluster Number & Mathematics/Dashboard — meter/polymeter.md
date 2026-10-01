@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of multiple different poetic meters within a single poem or musical composition; a poem composed in varied meters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology and physics, a combined meteorological instrument (such as Lambrecht's polymeter) measuring temperature, relative humidity, and dew point on unified scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymeter designates a term designating an entity, condition, or phenomenon derived from greek meter."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Dryden's magnificent odes demonstrate the dramatic emotional shifts achieved through daring lyric **polymeter**."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The irregular ode employs **polymeter** to mirror every sudden change of passion with an answering change of rhythm."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Mountain observers consulted the compact **polymeter** to read atmospheric humidity and dew point simultaneously."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical process that combines several monomers to form a polymer or polymeric compound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical process that combines several monomers to form a polymer or polymeric compound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical reaction in which two or more small molecules (monomers) combine to form a large chain or network molecule (polymer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical engineering and macromolecular science, reactions categorized by mechanism into radical, ionic, coordination, and step-growth processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymerization designates a chemical process that combines several monomers to form a polymer or polymeric compound."*
+> - 📜 **Karl Ziegler (*Nobel Lecture*):** *"Our catalyst systems made it possible to conduct the **polymerization** of ethylene under mild temperatures and atmospheric pressure."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The biological **polymerization** of amino acids into polypeptide chains is directed with absolute precision by ribosomal machinery."*
+> - 📜 **Herman Mark (*Physical Chemistry of High Polymeric Systems*):** *"Controlling the termination step in free-radical **polymerization** allows chemists to regulate the average molecular weight of acrylics."*

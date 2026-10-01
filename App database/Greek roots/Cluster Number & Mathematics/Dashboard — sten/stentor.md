@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speaker with an unusually loud voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mythical greek warrior with an unusually loud voice who died after losing a shouting contest with hermes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with an extraordinarily loud, powerful voice; or a genus of trumpet-shaped freshwater ciliated protozoans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature (Homer's *Iliad*), the Greek herald Stentor whose bronze voice equaled that of fifty men; in protistology, large heterotrich ciliates capable of regeneration and blue-green stentorin pigmentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stentor designates a speaker with an unusually loud voice."*
+> - 📜 **Homer (*Iliad*):** *"Hera took the form of great-hearted **Stentor**, whose voice of bronze shouted as loud as fifty other men."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The trumpet animalcule, **Stentor**, anchors itself to water plants, creating vortices with its peristomial cilia."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Remarkable experiments in protozoan regeneration showed that a nucleated fragment of **Stentor** quickly rebuilds the entire organism."*

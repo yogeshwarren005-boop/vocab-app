@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to micrometeorites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to micrometeorites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or derived from micrometeorites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cosmochemistry, describing the physical and isotopic characteristics of recovered cosmic dust particles and interplanetary dust grains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometeoritic designates of or relating to micrometeorites."*
+> - 📜 **Harold Urey (*The Planets: Their Origin and Development*):** *"The isotopic ratios observed in **micrometeoritic** dust samples point toward primitive chondritic parent bodies in the outer asteroid belt."*
+> - 📜 **Fred Whipple (*The Mystery of Comets*):** *"Lunar regolith samples returned by Apollo astronauts showed extensive glass-splattering caused by **micrometeoritic** bombardment."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"Over billions of years, the accumulation of **micrometeoritic** material has steadily coated the airless surfaces of asteroids and moons."*

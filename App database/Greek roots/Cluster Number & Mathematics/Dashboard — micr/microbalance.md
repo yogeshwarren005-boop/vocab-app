@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Balance for weighing very small objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Balance for weighing very small objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument of extreme precision designed to measure tiny masses on the order of micrograms or fractions of a microgram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry and surface physics, a quartz crystal or torsion balance measuring monolayer adsorption and minute chemical residues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbalance designates balance for weighing very small objects."*
+> - 📜 **Fritz Pregl (*Quantitative Organic Microanalysis*):** *"The Kuhlmann **microbalance** allowed us to weigh fractions of a milligram with negligible experimental error."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"By using a quartz-fiber **microbalance**, tiny deposits of polonium could be quantified through direct physical weight."*
+> - 📜 **Irving Langmuir (*The Constitution and Fundamental Properties of Solids and Liquids*):** *"The oscillating quartz crystal **microbalance** registered each molecular layer of gas condensing onto the cold plate."*

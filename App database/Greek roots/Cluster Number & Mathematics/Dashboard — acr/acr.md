@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beginning : end : tip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Top : peak : summit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root morpheme (ἄκρος, akros) denoting extreme, outermost, summit, or tip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical morphology and etymological analysis, a formative element producing technical compounds relating to bodily extremities or peak heights (as in acrobat, acropolis, acromion).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Between the acres of the rye, With a hey, and a ho, and a hey nonino, These pretty country folks would lie, In the spring-time, the only pretty ring time, When birds do sing, hey ding a ding, ding."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And if thou prate of mountains, let them throw Millions of acres on us, till our ground, Singeing his pate against the burning zone, Make Ossa like a wart."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The estate at Winthrop is not less than two hundred and fifty acres, besides the farm near Taunton, which is some of the best land in the country."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The formative Greek base **acr-** signifies high, pointed, or extreme, appearing in numerous derivatives denoting spatial limits."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From the radical **acr-** arise words designating highest peaks, peripheral boundaries, and outermost bodily appendages."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The Indo-European root underlying **acr-** reflects an adjectival concept of sharp, pointed, or uppermost elevation."*

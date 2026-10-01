@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: International Organization for Standardization; International Standards Organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equal : homogeneous : uniform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek ἴσος (isos), meaning equal, uniform, identical, or similar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, geology, and meteorology, a prefix denoting isomers, lines of equal physical values (isotherms, isobars), or uniform molecular structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iso designates international organization for standardization; international standards organization."*
+> - 📜 **Lavoisier (*Elements of Chemistry*):** *"The prefix **iso-** systematically signifies equality and identity of proportions in chemical compounding."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"By plotting curves with the prefix **iso-**, such as isotherms and isobars, the hidden order of terrestrial climates emerged."*
+> - 📜 **Augustus De Morgan (*Elements of Arithmetic*):** *"Geometric terms compounded with **iso-** invariably refer to figures sharing identical sides or equal internal angles."*

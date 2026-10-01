@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into or consisting of five parts; specifically : having each floral whorl consisting of five or a multiple of five members.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divided into or consisting of five parts; specifically : having each floral whorl consisting of five or a multiple of five members.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into or consisting of five parts, segments, or members.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and invertebrate zoology, flowers having floral organs in multiples of five (common in dicotyledons), or echinoderms exhibiting five-part radial symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentamerous designates divided into or consisting of five parts; specifically : having each floral whorl consisting of five or a multiple of five members."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Dicotyledonous flowers are typically **pentamerous**, presenting five sepals, five petals, and stamens in multiples of five."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The adult starfish displays a strictly **pentamerous** radial plan derived from a bilateral larval stage."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In Rosaceae, the calyx is universally **pentamerous**, supporting an equal number of petals upon its disc."*

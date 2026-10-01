@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to microeconomics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to microeconomics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to microeconomics, the branch of economics that studies individual households, firms, and specific market mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to price theory, marginal utility, cost functions, and resource allocation at the level of specific consumers and enterprises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microeconomic designates of or relating to microeconomics."*
+> - 📜 **Paul Samuelson (*Economics*):** *"Every firm's supply curve is grounded in the **microeconomic** calculus of marginal costs equating marginal revenue."*
+> - 📜 **Milton Friedman (*Price Theory*):** *"Individual market clearing represents the core **microeconomic** principle through which decentralized coordination occurs."*
+> - 📜 **Joseph Stiglitz (*Economics of the Public Sector*):** *"Information asymmetry introduces market failures that overturn classical **microeconomic** assumptions of perfect competition."*

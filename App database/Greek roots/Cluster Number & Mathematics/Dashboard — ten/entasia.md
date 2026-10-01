@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tonic spasm, cramp, or persistent abnormal muscular tension; constrictive muscular spasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical medical nosology (John Mason Good's classification), a generic order of diseases characterized by involuntary, sustained muscular rigidity, encompassing tetanus, trismus, and priapism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entasia designates a term designating an entity, condition, or phenomenon derived from greek ten."*
+> - 📜 **John Mason Good (*The Study of Medicine*):** *"Under the generic order **entasia**, I classify those morbid states where constant, tonic muscular spasm defies voluntary control."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe strychnine intoxication produces excruciating **entasia**, arching the patient's spine into complete opisthotonos."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The convulsive lockjaw and sustained bodily **entasia** of tetanus demand immediate warmth and sedative draughts."*

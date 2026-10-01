@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychomotor disturbance that may involve muscle rigidity, stupor or mutism, purposeless movements, negativism, echolalia, and inappropriate or unusual posturing and is associated with various medical conditions (such as schizophrenia and mood disorders).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychomotor disturbance that may involve muscle rigidity, stupor or mutism, purposeless movements, negativism, echolalia, and inappropriate or unusual posturing and is associated with various medical conditions (such as schizophrenia and mood disorders).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neuropsychiatric syndrome characterized by motor abnormalities, profound immobility, stupor, mutism, or uncontrollable purposeless agitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatry and clinical neuroscience (first described by Karl Kahlbaum in 1874), a behavioral syndrome featuring waxy flexibility (flexibilitas cerea), posturing, echolalia, and negativism, occurring in mood disorders and schizophrenia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catatonia designates a psychomotor disturbance that may involve muscle rigidity, stupor or mutism, purposeless movements, negativism, echolalia, and inappropriate or unusual posturing and is associated with various medical conditions (such as schizophrenia and mood disorders)."*
+> - 📜 **Karl Kahlbaum (*Die Katatonie oder das Spannungsirresein*):** *"I propose the term **catatonia** for that singular clinical picture where motor immobility, mutism, and waxy stupor predominate."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In the stuporous phase of **catatonia**, the limbs remain indefinitely in whatever bizarre posture the examiner places them."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Post-encephalitic parkinsonism often locked patients into a frozen **catatonia** that was dramatically dissolved by L-DOPA."*

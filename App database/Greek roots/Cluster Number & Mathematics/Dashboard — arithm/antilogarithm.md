@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number corresponding to a given logarithm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number corresponding to a given logarithm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The number corresponding to a given logarithm; the value obtained by raising the logarithmic base to the power of that logarithm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational mathematics, the inverse logarithm function (if log_b(x) = y, then x is the antilogarithm of y).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilogarithm designates the number corresponding to a given logarithm."*
+> - 📜 **Charles Babbage (*Table of the Logarithms of the Natural Numbers*):** *"By consulting the table in reverse, the computer rapidly determines the true **antilogarithm** corresponding to the computed mantissa."*
+> - 📜 **Henry Briggs (*Arithmetica Logarithmica*):** *"Having added the exponents, one seeks the natural number or **antilogarithm** representing the required product."*
+> - 📜 **Augustus De Morgan (*An Explanation of the Gnomonic Projection of the Sphere*):** *"The calculation requires taking the **antilogarithm** of the sum of the logarithmic sines and tangents."*

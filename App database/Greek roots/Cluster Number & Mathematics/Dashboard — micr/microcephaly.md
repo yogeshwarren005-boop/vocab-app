@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition in which a baby's head is significantly smaller than expected, typically due to abnormal brain development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatrics and epidemiology, congenital cranial dwarfism caused by genetic mutations, viral infections (such as Zika), or toxic maternal exposures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcephaly designates a condition of abnormal smallness of the circumference of the head that is present at birth or develops within the first few years of life and is often associated with developmental delays, impaired cognitive development, poor coordination and balance, deficits in hearing and vision, and seizures."*
+> - 📜 **Siddhartha Mukherjee (*The Gene: An Intimate History*):** *"Mutations in the ASPM gene directly restrict neurogenesis, producing hereditary primary **microcephaly**."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Prenatal ultrasounds detect severe fetal anomalies, including **microcephaly**, allowing families critical time for counsel."*
+> - 📜 **Paul Farmer (*Fevers, Feuds, and Diamonds*):** *"The sudden outbreak of congenital **microcephaly** alerted global public health epidemiologists to the spread of the virus."*

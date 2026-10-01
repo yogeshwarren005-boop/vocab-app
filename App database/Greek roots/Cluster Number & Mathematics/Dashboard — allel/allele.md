@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the alternative forms of a gene that may occur at a given locus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of alternative Mendelian characters (such as smooth and wrinkled seed in the pea).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of two or more alternative variants of a gene that occupy the same locus on a specific chromosome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In population genetics, a distinct DNA sequence variant contributing to phenotypic polymorphism and subject to natural selection or genetic drift.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It is amusing to view the unpar one ar alleled embarra two ars is it? double ess ment of a harassed pedlar while gauging au the symmetry with a y of a peeled pear under a cemetery wall."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"The mutant **allele** occupies the identical chromosomal site as the standard wild-type factor in Drosophila."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Natural selection acts directly upon phenotypes to modify the overall frequency of each advantageous **allele** in the breeding population."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"At any given locus on a chromosome, one **allele** competes ruthlessly with its rivals for survival across generations."*

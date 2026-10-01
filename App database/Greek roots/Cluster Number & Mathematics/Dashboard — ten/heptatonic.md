@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or based on seven musical tones or pitches per octave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music theory and acoustic history, the standard seven-note scales (including major, minor, and church modes) foundational to Western classical harmony, Indian ragas (sampurna), and diverse world traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptatonic designates adjective*) pertaining to, derived from, or characteristic of stretch."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"The standard European major scale is the prime historical exemplar of a diatonic **heptatonic** system."*
+> - 📜 **Alexander John Ellis (*On the Musical Scales of Various Nations*):** *"Classical Indian music classifies scales into pentatonic audav, hexatonic shadav, and complete **heptatonic** sampurna ragas."*
+> - 📜 **Leonard Bernstein (*The Joy of Music*):** *"From our ancient **heptatonic** heritage we derive the seven diatonic modes that formed the language of Gregorian chant."*

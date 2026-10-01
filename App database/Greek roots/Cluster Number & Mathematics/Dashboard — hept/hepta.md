@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: seven.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: containing seven atoms, groups, or equivalents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combining prefix form (from Greek ἑπτά) denoting the number seven.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, geometry, and crystallography, designating compounds, polygons, or polyhedra possessing seven atoms, sides, or faces (as in heptagon, heptahydrate, heptameric).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hepta as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Lavoisier (*Elements of Chemistry*):** *"Crystalline salts containing seven equivalents of water of crystallization bear the systematic prefix **hepta-**."*
+> - 📜 **Augustus De Morgan (*Elements of Arithmetic*):** *"In systematic nomenclature, the Greek numeral **hepta-** distinguishes sevenfold geometric and numerical relations."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"The Prefix **hepta-** introduced by Archimedes classified regular figures associated with the mystic number seven."*

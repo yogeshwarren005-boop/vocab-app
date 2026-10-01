@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express in the metric system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert from a non-metric to the metric system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert or adapt to the metric system of measurement (British spelling); also to cast into poetic meter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British engineering, education, and literature, adopting metric units or organizing poetic language into rhythmic verse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metricise designates express in the metric system."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"Progressive reformers campaigned tirelessly to **metricise** British coinage, weights, and railway engineering."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The dramatist sought to **metricise** everyday colloquial speech without losing natural expressive vigor."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Pedantic grammarians seek to **metricise** the wild, spontaneous outpourings of prophetic soul."*

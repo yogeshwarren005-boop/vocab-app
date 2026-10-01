@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: seven.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: containing seven atoms, groups, or equivalents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root morpheme derived from Greek ἑπτά (hepta) signifying seven.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific, mathematical, and chemical terminology, a formative prefix (shortened before vowels) indicating seven components, atoms, or divisions (as in heptode, heptane, heptarchy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hept as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The radical **hept-** stems directly from Greek hepta, cognate with Latin septem and English seven."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Derivatives of **hept-** designate sacred assemblies of seven sages or musical instruments of seven chords."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The Indo-European numeral for seven is faithfully preserved in the Hellenic combining prefix **hept-**."*

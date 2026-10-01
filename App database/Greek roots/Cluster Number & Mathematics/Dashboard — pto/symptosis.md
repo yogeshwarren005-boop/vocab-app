@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pto.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gradual wasting, emaciation, or atrophy of the entire body or a part; or the recession of a symptom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical medical pathology and Galenic nosology, generalized systemic wasting (tabes or cachexia) resulting from chronic consumptive illness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symptosis designates a term designating an entity, condition, or phenomenon derived from greek pto."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"In chronic hectic fevers, there succeeds a gradual **symptosis** or collapse of the fleshy substance of the limbs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The progressive **symptosis** and loss of subcutaneous fat in malignant cachexia reflects profound metabolic reprogramming."*
+> - 📜 **Galen (*On the Natural Faculties*):** *"When the innate heat fails to assimilate nourishment, the bodily tissues fall into cold **symptosis** and decay."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or along a diameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or along a diameter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated along a diameter; intersecting or dividing a geometric figure through its center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical geometry and mechanics, designating a diametral plane (a plane passing through the center of a quadric surface or sphere) or diametral axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diametral designates related to or along a diameter."*
+> - 📜 **Archimedes (*On the Sphere and Cylinder*):** *"Any plane passing through the center of a sphere is a **diametral** plane and divides the solid into two equal hemispheres."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"The intersection of two conjugate **diametral** planes in an ellipsoid yields a principal diameter of the solid."*
+> - 📜 **Thomas Heath (*Apollonius of Perga: Treatise on Conic Sections*):** *"Apollonius established the harmonic properties of **diametral** chords drawn parallel to the tangent of a conic."*

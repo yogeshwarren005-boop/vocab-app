@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of fall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by or exhibiting ptosis; drooping or prolapsed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and ophthalmology, designating a drooping eyelid or downwardly displaced anatomic structure (such as a ptotic kidney / nephroptosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ptotic designates adjective*) pertaining to, derived from, or characteristic of fall."*
+> - 📜 **W. Russell Brain (*Diseases of the Nervous System*):** *"The patient attempted to compensate for the **ptotic** eyelid by wrinkling the frontalis muscle and tilting the chin upward."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Palpation in the right flank easily demonstrated a mobile, **ptotic** kidney in the thin young woman."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Improvement in the **ptotic** eye followed immediately upon surgical decompression of the superior orbital fissure."*

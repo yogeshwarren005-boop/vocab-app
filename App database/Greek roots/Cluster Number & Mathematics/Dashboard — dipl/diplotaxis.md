@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wall rocket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wall rocket.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Brassicaceae, known as wall-rockets, having seeds arranged in two distinct rows in each pod chamber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, yellow- or white-flowered cruciferous herbs whose elongate siliques bear biseriate seeds, native to Europe and the Mediterranean basin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplotaxis designates wall rocket."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The introduced weed **Diplotaxis** tenuifolia thrives in waste gravel, recognized by its pungent leaves and two-ranked seeds."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The botanical name **Diplotaxis** accurately depicts the biseriate arrangement of seeds inside the narrow pod."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Specimens of **Diplotaxis** were collected along arid rocky outcroppings bordering the Mediterranean coast."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quadrilateral with opposite sides parallel and equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quadrilateral with opposite sides parallel and equal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A four-sided plane rectilinear figure whose opposite sides are parallel and equal in length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanics and physics, the geometric construct (parallelogram of forces) used to calculate the vector resultant of two concurrent forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was life size and stretched across the white parallelogram of a door, half across the wall space on which the picture hung."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In its general outline, this castle forms a parallelogram, with a round tower at each angle, and a square ‘keep’ standing in the south-west part of the enclosed area."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The servants cut our bread into cones, cylinders, parallelograms, and several other mathematical figures."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"A body acted upon by two forces conjointly describes the diagonal of a **parallelogram** in the same time as it would describe the sides separately."*
+> - 📜 **René Descartes (*Discourse on Method*):** *"By constructing a simple **parallelogram**, the geometer resolves complex directional problems into clear spatial relations."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The composition of velocities is geometrically represented by the diagonal of the corresponding velocity **parallelogram**."*

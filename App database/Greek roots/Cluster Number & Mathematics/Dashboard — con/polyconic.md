@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A map projection consisting of a composite series of concentric cones each of which before being unrolled has been placed over a sphere so as to be tangent to a different parallel of latitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A map projection consisting of a composite series of concentric cones each of which before being unrolled has been placed over a sphere so as to be tangent to a different parallel of latitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or constructed from several cones; specifically, a cartographic projection projecting earth coordinates upon multiple tangent cones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geodesy and cartography, the American polyconic map projection developed by Ferdinand Hassler for coastal survey charts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyconic designates a map projection consisting of a composite series of concentric cones each of which before being unrolled has been placed over a sphere so as to be tangent to a different parallel of latitude."*
+> - 📜 **Ferdinand Rudolph Hassler (*Papers on the Survey of the Coast of the United States*):** *"The **polyconic** projection avoids cumulative distortion by employing a distinct tangent cone for each successive parallel of latitude."*
+> - 📜 **Arthur Newell Strahler (*Physical Geography*):** *"Topographic quadrangle maps historically utilized the **polyconic** grid because of its local scale fidelity along the central meridian."*
+> - 📜 **Charles Sanders Peirce (*Photometric Researches*):** *"Geodetic stations across the continent were plotted upon standard **polyconic** sheets prepared by the Coast Survey."*

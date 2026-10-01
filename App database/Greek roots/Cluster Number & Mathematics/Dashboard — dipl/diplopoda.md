@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arthropods having the body composed of numerous double somites each with two pairs of legs: millipedes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arthropods having the body composed of numerous double somites each with two pairs of legs: millipedes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of myriapods commonly known as millipedes, characterized by having two pairs of jointed legs on most body segments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod taxonomy, cylindrical or flattened detritivorous invertebrates with double-segmented diplosomites, contrasting with carnivorous chilopods (centipedes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplopoda designates arthropods having the body composed of numerous double somites each with two pairs of legs: millipedes."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Each apparent body segment in **Diplopoda** represents the fusion of two primitive somites, each bearing a pair of ambulatory limbs."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"Unlike the swift, venomous centipedes, slow-moving members of the **Diplopoda** feed upon decaying vegetable mold."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Among forest leaf-litter, myriapods belonging to **Diplopoda** assist earthworms in pulverizing organic debris."*

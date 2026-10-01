@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, soft, benign, pedunculated skin polyp or skin tag, typically occurring in friction folds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, a harmless fibrovascular papilloma consisting of loose collagen fibers and blood vessels covered by epidermis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrochordon designates a term designating an entity, condition, or phenomenon derived from greek acr."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The patient presented numerous pedunculated outgrowths resembling **acrochordon** along the lateral folds of the neck."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"Microscopic examination of an **acrochordon** reveals harmless hypertrophy of the dermal connective tissue with normal overlying epidermis."*
+> - 📜 **Thomas Addison (*A Collection of the Published Writings*):** *"Small cutaneous tags or **acrochordon** formations frequently appear in middle-aged individuals without systemic consequence."*

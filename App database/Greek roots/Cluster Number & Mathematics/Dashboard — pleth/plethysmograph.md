@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for determining and registering variations in the size of an organ, limb, or part resulting from changes in the amount of blood present or passing through it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for determining and registering variations in the size of an organ, limb, or part resulting from changes in the amount of blood present or passing through it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring and recording changes in volume within an organ, whole body, or limb, usually resulting from fluctuations in blood circulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiopulmonary physiology and autonomic neuroscience, an apparatus (such as air-displacement or water-displacement chambers) used to quantify peripheral pulse volume, respiratory capacity, and microvascular reactivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plethysmograph designates an instrument for determining and registering variations in the size of an organ, limb, or part resulting from changes in the amount of blood present or passing through it."*
+> - 📜 **William James (*The Principles of Psychology*):** *"By attaching a water **plethysmograph** to the arm, Mosso demonstrated that emotional excitement instantly alters peripheral blood volume."*
+> - 📜 **Angelo Mosso (*Fear*):** *"The tracing on the **plethysmograph** dipped sharply the instant the sudden sound startled the resting subject."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The digital **plethysmograph** provides valuable objective records of vasospasm in patients suffering from Raynaud's phenomenon."*

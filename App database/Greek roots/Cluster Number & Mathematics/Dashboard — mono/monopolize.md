@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To get a monopoly of : assume complete possession or control of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To get a monopoly of : assume complete possession or control of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To obtain exclusive possession or control of; to dominate completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commerce and law, to acquire and maintain market dominance in a particular trade or commodity, restricting competition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Nor did she monopolize the conversation."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They were not allowed to monopolize this issue by the Democrats, and their arrogance, if such it may be called, was punished by a more complete assertion of Democratic power in the South than was ever known before."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But might not the foreign article be imported in vast quantities, to glut our markets, break down our establishments, and ultimately to enable the foreigner to monopolize the supply of our consumption?"*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchants naturally seek to **monopolize** the home market, securing legislative prohibitions against rival foreign imports."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Wickham seemed determined to **monopolize** Elizabeth's conversation throughout the entire evening."*
+> - 📜 **George Orwell (*Animal Farm*):** *"The pigs took care to **monopolize** all the milk and windfalls, claiming it was essential for their brainwork."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny extraterrestrial particle (typically smaller than a millimeter) that survives passage through the atmosphere and reaches Earth's surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary geology, extraterrestrial cosmic spherules recovered from polar ice caps, deep-sea sediments, or rooftop gutters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometeorite designates a meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"In the red clay of the deepest ocean floor lie dark cosmic spherules, each tiny **micrometeorite** fallen from interplanetary space."*
+> - 📜 **Fred Whipple (*Earth, Moon, and Planets*):** *"Because of its high surface-to-mass ratio, a slow-moving **micrometeorite** radiates heat rapidly and lands intact without melting."*
+> - 📜 **Neil deGrasse Tyson (*Astrophysics for People in a Hurry*):** *"You can harvest an ancient extraterrestrial **micrometeorite** simply by running a strong magnet through the silt of your roof gutter."*

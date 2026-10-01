@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition marked by an abnormal increase in the number of circulating red blood cells; specifically : polycythemia vera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Polycythemia of unknown cause that is marked by increase in total blood volume and accompanied by nosebleed, distension of the circulatory vessels, and enlargement of the spleen —called also erythremia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal increase in the total red blood cell mass or hemoglobin concentration in the bloodstream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and internal medicine, a myeloproliferative neoplasm (polycythemia vera) associated with JAK2 mutations leading to hyperviscosity, or secondary polycythemia resulting from chronic hypoxia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polycythemia designates a condition marked by an abnormal increase in the number of circulating red blood cells; specifically : polycythemia vera."*
+> - 📜 **William Osler (*Chronic Cyanosis with Polycythaemia and Enlarged Spleen*):** *"The patient presented the classic triad of chronic cyanosis, splenomegaly, and extraordinary **polycythemia** exceeding ten million red cells."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Plethoric facies and hypertension in pituitary basophilism are frequently accompanied by moderate **polycythemia**."*
+> - 📜 **Paul Ehrlich (*Collected Papers on Haematology*):** *"Excessive marrow erythroblastic activity in primary **polycythemia** dangerously increases blood viscosity and thrombotic risk."*

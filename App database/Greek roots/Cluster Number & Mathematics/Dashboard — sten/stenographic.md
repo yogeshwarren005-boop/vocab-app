@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or employing stenography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or employing stenography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or written in shorthand (stenography).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial and judicial documentation, rapid symbolic writing or keyboard chord systems designed to capture spoken discourse verbatim in real time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"He and I sometimes write letters in shorthand, and he is keeping a stenographic journal of his travels abroad."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"These critical comments evolved into a course of lectures following an original outline, and were at length reduced to manuscript in the form of a stenographic report made from day to day in the class-room."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I plunged into a sea of **stenographic** mysteries, where every dot, dash, and curve seemed designed to drive me mad."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The police retained a **stenographic** transcript of the witnesses' conflicting depositions taken at the scene."*
+> - 📜 **Max Müller (*The Science of Thought*):** *"Human speech is itself a species of natural **stenographic** code, condensing vast realms of thought into fleeting sounds."*

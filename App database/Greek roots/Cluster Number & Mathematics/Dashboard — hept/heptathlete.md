@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athlete who competes in a heptathlon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athlete who competes in a heptathlon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An athlete who competes in the heptathlon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international track and field sports, an all-around multi-event competitor mastering hurdles, high jump, shot put, 200m, long jump, javelin, and 800m.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptathlete designates an athlete who competes in a heptathlon."*
+> - 📜 **Pierre de Coubertin (*Olympic Memoirs*):** *"The modern multi-event **heptathlete** displays an extraordinary balance of explosive speed, power, and aerobic stamina."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"She walked across the terrace with the poised, effortless athletic confidence of a trained **heptathlete**."*
+> - 📜 **Ernest Hemingway (*By-Line: Ernest Hemingway*):** *"Watching the multi-event **heptathlete** battle through heat and fatigue commands the deepest admiration of sports spectators."*

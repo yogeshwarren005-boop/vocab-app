@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make amends for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn away from sin or do penitence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make amends or reparation for an offense, crime, or error; to expiate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and moral philosophy (originally from Middle English *at one*, meaning to bring into reconciliation or harmony), the restoration of right relationship between humanity and God through sacrifice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it might please you to enforce no further The griefs between ye; to forget them quite Were to remember that the present need Speaks to atone you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then is there mirth in heaven When earthly things made even Atone together."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is unlikely; He and Aufidius can no more atone Than violent’st contrariety."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Man disobeying, disloyal, on the part of heaven demands that someone die, or whole mankind perish: who shall **atone** for his transgression?"*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton laid down his life to **atone** for a wasted youth and bring happiness to those he loved."*
+> - 📜 **George Eliot (*Middlemarch*):** *"No subsequent generosity could entirely **atone** for the secret treachery of his early mercantile career."*

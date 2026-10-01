@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A powerful neurotoxin found in the ovaries of pufferfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful neurotoxin found in the ovaries of pufferfish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremely potent and lethal neurotoxin found in pufferfish, blue-ringed octopuses, and certain newts, which blocks voltage-gated sodium channels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and toxicology, a heterocyclic guanidinium neurotoxin (TTX) that selectively blocks neuronal and skeletal muscle voltage-gated sodium channels, causing motor paralysis, respiratory failure, and death, widely used as an essential research probe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrodotoxin designates a powerful neurotoxin found in the ovaries of pufferfish."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ingestion of toxic fugu viscera containing **tetrodotoxin** causes ascending paresthesias, motor paralysis, and asphyxiation within hours."*
+> - 📜 **Albert Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"In cellular electrophysiology, **tetrodotoxin** is the gold standard blocker used to isolate potassium currents by eliminating sodium flux."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Japanese culinary preparation of the pufferfish requires licensed masters to remove the organs laden with deadly **tetrodotoxin**."*

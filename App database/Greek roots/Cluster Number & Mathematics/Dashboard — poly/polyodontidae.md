@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paddlefishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paddlefishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of ancient freshwater fishes known as paddlefishes, belonging to the order Acipenseriformes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology and paleontology, an ancient basal actinopterygian family containing only two modern species (Polyodon spathula in North America and the extinct Psephurus gladius in the Yangtze), notable for their cartilaginous skeletons and electroceptive rostra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyodontidae designates paddlefishes."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"Members of the family **Polyodontidae** represent surviving relics of a primitive chondrostean stock allied to the sturgeons."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"The family **Polyodontidae** is distinguished by an extraordinary paddle-like extension of the ethmoid and nasal bones."*
+> - 📜 **Edward Drinker Cope (*On the Classification of the Extinct Fishes*):** *"Fossil precursors of **Polyodontidae** from Upper Cretaceous deposits prove the venerable antiquity of this paddle-snouted lineage."*

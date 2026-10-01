@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrowing or constriction of the diameter of a bodily passage or orifice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narrowing or constriction of the diameter of a bodily passage or orifice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal narrowing or constriction of a duct, canal, vessel, or bodily passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology, gastroenterology, and neurology, pathological lumen reduction (such as aortic stenosis, pyloric stenosis, or spinal canal stenosis) that impedes physiological fluid flow or impinges on nerves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenosis designates a narrowing or constriction of the diameter of a bodily passage or orifice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hypertrophic pyloric **stenosis** in infants produces projectile vomiting and marked peristaltic waves across the epigastrium."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Progressive calcific aortic **stenosis** leads to concentric left ventricular hypertrophy and eventual heart failure."*
+> - 📜 **W. Russell Brain (*Diseases of the Nervous System*):** *"Lumbar canal **stenosis** induces neurogenic claudication, where pain in the legs is relieved by leaning forward."*

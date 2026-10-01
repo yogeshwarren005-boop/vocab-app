@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boundary line between places or regions that differ in a particular linguistic feature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line on a map representing an isogloss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geographic boundary line drawn on a linguistic map delimiting the area in which a particular linguistic feature occurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dialectology and sociolinguistics, a contour line separating distinct pronunciations, lexical choices, or grammatical usages (e.g. the Benrath line in Germanic dialects).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isogloss designates a boundary line between places or regions that differ in a particular linguistic feature."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"A dialect map reveals that each phonetic innovation is bounded by its own independent geographic **isogloss**."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Bundles of closely coinciding **isogloss** lines indicate sharp cultural or geographical frontiers between distinct speech communities."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Tracing an **isogloss** across rural counties demonstrates that dialect boundaries rarely coincide with administrative borders."*

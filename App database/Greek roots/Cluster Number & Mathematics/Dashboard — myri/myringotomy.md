@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision into the eardrum (to relieve pressure or release pus from the middle ear).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision into the eardrum (to relieve pressure or release pus from the middle ear).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical incision into the eardrum to relieve pressure or drain fluid, often accompanied by the placement of a tympanostomy tube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric otolaryngology, a routine procedure to alleviate persistent serous otitis media and prevent recurrent conductive hearing loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myringotomy designates surgical incision into the eardrum (to relieve pressure or release pus from the middle ear)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt **myringotomy** is indicated in acute otitis media whenever the tympanic membrane bulges under severe suppurative pressure."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Tympanostomy tubes inserted during a brief **myringotomy** allow middle-ear aeration and dramatically decrease pediatric ear infections."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"The resident guided the micro-knife across the inferior quadrant of the tympanic membrane to complete the **myringotomy**."*

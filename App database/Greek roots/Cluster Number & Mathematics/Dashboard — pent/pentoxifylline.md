@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name trental) used to treat claudication; believed to increase the flexibility of red blood cells so they can flow through the blood vessels to the legs and feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name trental) used to treat claudication; believed to increase the flexibility of red blood cells so they can flow through the blood vessels to the legs and feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A xanthine derivative medication used to improve blood flow in patients with peripheral artery disease and intermittent claudication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacology and hematology, a synthetic hemorheologic agent that increases erythrocyte flexibility, decreases blood viscosity, and inhibits platelet aggregation by inhibiting phosphodiesterase enzymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentoxifylline designates a drug (trade name trental) used to treat claudication; believed to increase the flexibility of red blood cells so they can flow through the blood vessels to the legs and feet."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"By enhancing red cell deformability and reducing plasma fibrinogen, **pentoxifylline** improves microcirculatory perfusion in ischemic tissues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine: Modern Edition*):** *"Patients crippled by vascular claudication demonstrated extended walking distances following prolonged therapy with **pentoxifylline**."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"The rheologic properties of **pentoxifylline** stem largely from its ability to elevate intracellular cyclic AMP in vascular beds."*

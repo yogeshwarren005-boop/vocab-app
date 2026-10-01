@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The beliefs and practices of a catholic church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The beliefs and practices of a catholic church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faith, doctrine, system, and practice of the Catholic Church, particularly the Roman Catholic Church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broad-mindedness, universality, or comprehensive inclusivity of outlook and sentiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"O, Angel Clare!” “Well?” “Why, you wicked man, a cloister implies a monk, and a monk Roman Catholicism.” “And Roman Catholicism sin, and sin damnation."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"But poetry sinned, poetry fell; and, in place of lovingly reclaiming her, Catholicism cast her from the door to follow the feet of her pagan seducer."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"It would be difficult to go through the forms and ceremonies of Catholicism in the camps."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"I was drawn to **Catholicism** by its majestic historical continuity and unwavering defense of dogmatic truth."*
+> - 📜 **Lord Acton (*The History of Freedom and Other Essays*):** *"True **Catholicism** is compatible with civil liberty, resisting the encroaching tyranny of the absolute state."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In democratic America, **Catholicism** thrives because it regards all believers as equal before God."*

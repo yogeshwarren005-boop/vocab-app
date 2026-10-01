@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A firm rebuke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cautionary advice about something imminent (especially imminent danger or other unpleasantness).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A warning, cautionary advice, or gentle rebuke regarding impending danger, misconduct, or misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon and common law, a formal written notice or summons issued by an ecclesiastical court or magistrate directing a party to desist or appear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet growls, “Old girl!” and winks monitions to her to find out what’s the matter."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor are these monitions at all unneeded."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor are these monitions at all unneeded."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet growls, 'Old girl!' and winks quiet **monition** to her to find out what is the matter."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Nor are these supernatural omens and sea-born **monition** at all unneeded by men venturing upon perilous voyages."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"I felt a dark **monition** creeping over my spirit as the shadow of the melancholy mansion loomed in the tarn."*

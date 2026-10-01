@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blind snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blind snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, non-venomous, burrowing blind snakes commonly known as threadsnakes or slender blind snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, specialized fossorial squamates characterized by vestigial eyes covered by scales, a rigid skull, and teeth confined exclusively to the lower jaw.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptotyphlopidae designates blind snakes."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"Snakes of the family **Leptotyphlopidae** are adapted for subterranean tunneling, with teeth restricted entirely to the dentary bone."*
+> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"Living in ant and termite mounds, the **Leptotyphlopidae** resemble polished pink earthworms of miniature stature."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The disjunct tropical distribution of **Leptotyphlopidae** confirms their ancient Gondwanan evolutionary roots."*

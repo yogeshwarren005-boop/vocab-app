@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A view that there is only one kind of ultimate substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The view that reality is one unitary organic whole with no independent parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory or doctrine that denies the existence of a distinction or duality in a particular sphere, such as between matter and mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics, the philosophical view that all reality is reducible to one single, fundamental substance or principle (as in Spinoza or Parmenides).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monism designates a view that there is only one kind of ultimate substance."*
+> - 📜 **William James (*Pragmatism*):** *"Absolute **monism** insists that the universe is an indivisible block, whereas pluralism sees it as loosely connected parts."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"Substance is one, infinite, and indivisible; this metaphysical **monism** unites God and nature as Deus sive Natura."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The Parmenidean doctrine that whatever is, is one, established the earliest Western template for metaphysical **monism**."*

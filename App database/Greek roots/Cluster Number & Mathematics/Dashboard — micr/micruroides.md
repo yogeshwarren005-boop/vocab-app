@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coral snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coral snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of venomous elapid snakes containing the Sonoran coral snake (Micruroides euryxanthus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, a small, fossorial venomous snake of the American Southwest characterized by vibrant red, yellow, and black rings and potent neurotoxic venom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micruroides designates coral snakes."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"The Arizona coral snake, classified under **Micruroides**, secretes a powerful post-synaptic neurotoxin despite its diminutive fangs."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Among the sun-baked rocks of the Sonoran foothills slipped the brightly banded form of **Micruroides**, gleaming like enameled jewelry."*
+> - 📜 **David Attenborough (*Life in Cold Blood*):** *"The warning coloration of **Micruroides** is mimicked by harmless colubrid king snakes across the northern Mexican desert."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of cone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of cone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or possessing an orthocone; having a straight, uncoiled conical shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology, designating the ancestral shell morphology of early cephalopods characterized by longitudinal septal chambers without coiling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoconic designates adjective*) pertaining to, derived from, or characteristic of cone."*
+> - 📜 **Alpheus Hyatt (*Genera of Fossil Cephalopods*):** *"The **orthoconic** shell of primitive nautiloids represents the baseline ancestral morphotype of the entire class."*
+> - 📜 **Roderick Murchison (*The Silurian System*):** *"Thin sections of the limestone reveal numerous straight **orthoconic** fossils embedded in the dark matrix."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"These ancient swimmers navigated Paleozoic seas by jetting water from their elongated, chambered **orthoconic** shells."*

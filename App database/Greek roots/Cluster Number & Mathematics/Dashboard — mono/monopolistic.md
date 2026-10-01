@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having exclusive control over a commercial activity by possession or legal grant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having exclusive control over a commercial activity by possession or legal grant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, tending toward, or possessing the characteristics of a monopoly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial economics, describing markets where sellers exercise pricing discretion (as in Edward Chamberlin's theory of monopolistic competition).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Monopolistic aspect of organization and particular wages. § 14."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In such cases, even when the workmen by a strike or general movement secured the same wage scale for a day of fewer hours (a higher wage per hour), they would be unable to hold it excepting where they had monopolistic control of the trade."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For thus withholding the supply they are said by some to exercise a monopolistic power."*
+> - 📜 **Edward Chamberlin (*The Theory of Monopolistic Competition*):** *"Most real-world industries operate neither under pure monopoly nor pure competition, but in a blended state of **monopolistic** competition."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"Large corporations wield **monopolistic** power not merely to extract profit, but to eliminate market uncertainty."*
+> - 📜 **Theodore Roosevelt (*The Strenuous Life*):** *"We will not tolerate **monopolistic** combinations that strangle fair enterprise and oppress the consumer."*

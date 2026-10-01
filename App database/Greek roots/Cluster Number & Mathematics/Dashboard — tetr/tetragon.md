@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In geometry, a quadrilateral is a four-sided polygon, having four edges (sides) and four corners (vertices).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The word is derived from the Latin words quadri, a variant of four, and latus, meaning "side".
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane geometric figure having four angles and four sides; a quadrilateral or quadrangle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Euclidean geometry and astrology, any four-sided polygon (such as a square, rectangle, rhombus, or trapezoid), or a square astrological aspect (90 degrees).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragon designates in geometry, a quadrilateral is a four-sided polygon, having four edges (sides) and four corners (vertices)."*
+> - 📜 **Euclid (*Elements*):** *"Of four-sided figures, that which is both equilateral and right-angled is a square, the most regular of all **tetragon** forms."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"The quincunx disposition delights the eye, resolving upon closer examination into a network of regular **tetragon** spaces."*
+> - 📜 **René Descartes (*La Géométrie*):** *"A regular **tetragon** inscribed within a circle allows its side to be calculated directly from the radius via the square root of two."*

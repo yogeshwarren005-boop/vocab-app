@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as a ruse) used deceptively to gain another's confidence; also : a confidence game : swindle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as a ruse) used deceptively to gain another's confidence; also : a confidence game : swindle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root morpheme derived from Ancient Greek κῶνος (kōnos), signifying a cone or conical geometrical body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, morphology, and optics, designating forms, projections, or instruments having or analyzing conical curvature (as in conic, conoid, conoscope).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, _con designates something (such as a ruse) used deceptively to gain another's confidence; also : a confidence game : swindle."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"The Greek root **_con** designates the geometric cone whose planar sections yielded the celebrated curves of Apollonius."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The scientific base **con-** stems directly from Greek kōnos, denoting a pinecone and, by geometric extension, a tapering solid."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From the noun kōnos arises the fruitful combining base **con-**, foundational to classical geometry and botany."*

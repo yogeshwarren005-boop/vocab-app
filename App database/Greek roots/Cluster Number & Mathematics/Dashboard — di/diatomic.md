@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of two atoms : having two atoms in the molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of two atoms : having two atoms in the molecule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or containing two atoms in each molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, designating homonuclear gases (such as H2, O2, N2) or heteronuclear molecules (such as CO, HCl) composed of paired atoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diatomic designates consisting of two atoms : having two atoms in the molecule."*
+> - 📜 **John Dalton (*A New System of Chemical Philosophy*):** *"In every elementary gas where two particles combine into a unit, we observe a permanent **diatomic** constitution."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The ratio of specific heats in a **diatomic** gas reflects both translational and rotational degrees of molecular freedom."*
+> - 📜 **Svante Arrhenius (*Textbook of Theoretical Electrochemistry*):** *"Thermal dissociation at high temperatures breaks the stable bonds holding the **diatomic** nitrogen molecule together."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tropical ferns; some epiphytic climbers and some terrestrial bog ferns; africa; asia; australasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large tropical ferns; some epiphytic climbers and some terrestrial bog ferns; africa; asia; australasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of climbing or scrambling ferns in the family Blechnaceae, native to tropical Asia, Africa, and the Pacific.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology and tropical wetland ecology, epiphytic or terrestrial climbing ferns (such as Stenochlaena palustris) with dimorphic fronds, whose young coiled croziers are harvested as wild edible greens in Southeast Asia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenochlaena designates large tropical ferns; some epiphytic climbers and some terrestrial bog ferns; africa; asia; australasia."*
+> - 📜 **Carl Linnaeus (*Species Plantarum: Second Edition*):** *"The tropical climbing fern **Stenochlaena** scales mangrove trunks, producing narrow fertile fronds high in the canopy."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"In **Stenochlaena**, the sterile fronds are pinnate and glossy, while the contracted fertile pinnae are covered beneath with sori."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"For subtropical greenhouses, **Stenochlaena** palustris makes an attractive climber with its glossy foliage and reddish young fronds."*

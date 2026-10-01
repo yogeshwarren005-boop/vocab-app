@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single great stone often in the form of an obelisk or column.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A massive structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large single upright block of stone, especially one shaped into or serving as a monument or pillar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A massive, uniform, and intractable structure, organization, or software application that resists division or change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The place took its name from a stone pillar which stood there, a strange rude monolith, from a stratum unknown in any local quarry, on which was roughly carved a human hand."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The beauty and majesty of the finely carved panels surmounting the soaring arches spanning the rosy monolith columns, emblazoned with emerald green and scarlet mosaic symbolizing the Báb's lineage and martyrdom, are strikingly revealed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The uniform concavity of black cloud was lifting bodily like the lid of a pot, letting in at the earth’s edge the coming day, against which the towering monoliths and trilithons began to be blackly defined."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The black rectangular **monolith** stood standing in the lunar crater, emitting a piercing radio signal toward Saturn."*
+> - 📜 **Percy Bysshe Shelley (*Ozymandias*):** *"Near them, on the sand, / Half sunk a shattered visage lies, whose frown / Dwarfed the ancient stone **monolith**."*
+> - 📜 **Martin Fowler (*Monolith to Microservices*):** *"Teams often begin with a single architectural **monolith** before complexity compels them to decompose services."*

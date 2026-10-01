@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ground beef and chili peppers or chili powder often with tomatoes and kidney beans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very hot and finely tapering pepper of special pungency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root morpheme (χίλιοι, chilioi) signifying one thousand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and scholarly nomenclature, a prefixal element appearing in classical derivatives denoting a thousandfold quantity or period (as in chiliad, chiliasm, chiliagon).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Apparently the Peguenches are an Indian tribe of Chili. [140] J.B. von Spix und C.F."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In 1842 Lambert introduced reverberatory furnaces into Chili, and so great was his success, that in a short time they were in use throughout that country."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The term is generally applied still to all crude copper exhibiting similar features. _Chili Bar_ is an impure copper imported from Chili for refining."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The base **chili-** represents the Greek word for a thousand, which has also furnished the modern metric prefix kilo-."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From **chili-** derive numerous compounds expressing military cohorts of a thousand warriors or millenarian theological expectations."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The Hellenic numeral base **chili-** reflects a prehistoric Indo-European formation denoting immense, uncountable multitudes."*

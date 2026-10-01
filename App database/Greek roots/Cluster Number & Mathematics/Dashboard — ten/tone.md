@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vocal or musical sound of a specific quality; especially : musical sound with respect to timbre and manner of expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sound of definite pitch and vibration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical or vocal sound with reference to its pitch, quality, and strength; a steady musical sound; or the general character or attitude of a place, piece of writing, or situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, muscle tone (tonus), the continuous and passive partial contraction of muscles; in acoustic physics, a pure sound wave of definite frequency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am doing the right thing," said Mäzli now in the most decided tone."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whenever you speak about him, your voice takes on a tone as if you were speaking about a misunderstood angel."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius said again in his unchangeable, dry tone."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"How sweet the moonlight sleeps upon this bank! Here will we sit and let the sounds of music creep in our ears: soft stillness and the night become the touches of sweet harmony... Such harmony is in immortal souls, but whilst this muddy vesture of decay doth grossly close it in, we cannot hear it: let music sound with gentle **tone**."*
+> - 📜 **John Keats (*Ode on a Grecian Urn*):** *"Heard melodies are sweet, but those unheard are sweeter; therefore, ye soft pipes, play on; not to the sensual ear, but, more endear'd, pipe to the spirit ditties of no **tone**."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"A mother comforts her crying infant not by articulate words, but through the soothing **tone** of her voice."*

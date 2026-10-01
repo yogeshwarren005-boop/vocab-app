@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the margin toothed; also : having or consisting of ctenoid scales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the margin toothed; also : having or consisting of ctenoid scales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comb-like; having a margin of slender teeth or comb-like projections, especially describing fish scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, designating teleost fish scales that bear tiny tooth-like ctenii along their posterior exposed margins, typical of spiny-finned fishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ctenoid designates having the margin toothed; also : having or consisting of ctenoid scales."*
+> - 📜 **Louis Agassiz (*Recherches sur les poissons fossiles*):** *"I established four primary orders of fishes based upon scale morphology, distinguishing cycloid from sharply serrate **ctenoid** forms."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Percoid fishes are characterized by firm **ctenoid** scales whose spiny posterior edges create a rough, rasping surface."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The presence of fine comb teeth on a **ctenoid** scale reflects specialized epidermal growth found in derived teleosts."*

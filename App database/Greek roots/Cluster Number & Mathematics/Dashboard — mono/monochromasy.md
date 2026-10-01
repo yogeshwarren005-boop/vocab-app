@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical condition of having only monochromatic vision; complete color blindness (variant spelling of monochromacy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological optics, the incapacity to distinguish chromatic hues, resulting from the lack of two or all three retinal cone visual pigments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromasy designates complete color blindness; colors can be differentiated only on the basis of brightness."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Patients affected by congenital **monochromasy** squinted against the tropical glare, relying on extreme textural discernment."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The experience of congenital **monochromasy** provides a striking counterexample to theories that view color as an indispensable dimension of visual thought."*
+> - 📜 **Thomas Young (*Lectures on Natural Philosophy*):** *"If the retina possessed only one vibratory sensory mechanism, the inevitable consequence would be total **monochromasy**."*

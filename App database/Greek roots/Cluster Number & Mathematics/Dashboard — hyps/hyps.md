@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hyps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root morpheme (ὕψος, hypsos) signifying height, altitude, aloft, or elevation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geodetic, astronomical, and psychological terminology, a combining element indicating high altitude, vertical elevation, or vertical measurement (as in hypsometer, hypsography, hypsophobia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyps designates a term designating an entity, condition, or phenomenon derived from greek hyps."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The scientific base **hyps-** stems from Greek hypsos, denoting height and top, found in altitude measuring instruments."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Derivatives of **hyps-** embrace loftiness of mountain summits, astronomical heights, and elevated poetic diction."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The root **hyps-** appears in diverse geodetic terms designed to express vertical mountain relief."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a monolingual manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a monolingual manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a monolingual manner; speaking, writing, or using only a single language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and educational psychology, functioning cognitively and socially exclusively within one linguistic system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monolingually designates in a monolingual manner."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"Children raised **monolingually** acquire complex syntactic parameters effortlessly within the first few years of life."*
+> - 📜 **George Steiner (*After Babel*):** *"To experience literature **monolingually** is to remain oblivious to the untranslatable resonances of foreign idiom."*
+> - 📜 **Noam Chomsky (*Knowledge of Language*):** *"Even when raised **monolingually**, an individual masters an internal system of extraordinary structural richness."*

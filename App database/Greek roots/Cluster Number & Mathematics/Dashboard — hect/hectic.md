@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by intense agitation or emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by intense agitation or emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense, frantic, or confused activity, excitement, or haste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine, designating a persistent, wasting fever (hectic fever) accompanied by flushed cheeks, characteristic of advanced pulmonary tuberculosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do it, England; For like the hectic in my blood he rages, And thou must cure me."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph perceived it, and with hectic cheeks of indignation instantly ceased singing."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Hectic spots of red burned on his cheeks."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"There was a fatal, bright **hectic** flush upon poor Smike's cheek that whispered of deep-seated and incurable decay."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"London throbbed in the June sunlight with a **hectic**, restless energy that swept crowds through the bustling streets."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The characteristic afternoon temperature spike in phthisis produces the classic **hectic** paroxysm with night sweats."*

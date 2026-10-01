@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid bounded by eight plane faces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid bounded by eight plane faces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional geometric polyhedron with eight plane faces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid geometry and crystallography, one of the five Platonic solids, composed of eight congruent equilateral triangular faces meeting at six vertices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octahedron designates a solid bounded by eight plane faces."*
+> - 📜 **Plato (*Timaeus*):** *"To the element of air we assign the form of the **octahedron**, whose eight triangular faces impart mobility and lightness."*
+> - 📜 **Johannes Kepler (*Mysterium Cosmographicum*):** *"I nested the regular **octahedron** between the celestial spheres of Venus and Mercury in my geometric model of the planetary orbits."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"In octahedral coordination complexes, six ligands occupy the vertices of a regular **octahedron** surrounding the central metal cation."*

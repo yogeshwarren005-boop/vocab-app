@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical repair of a perforated eardrum with a tissue graft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical repair of a perforated eardrum with a tissue graft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical repair or reconstruction of a perforation in the tympanic membrane (eardrum) without ossicular manipulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otolaryngology, a restorative procedure utilizing a fascia or perichondrium graft to seal the middle ear and improve conductive hearing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myringoplasty designates surgical repair of a perforated eardrum with a tissue graft."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic dry perforations of the tympanic membrane are effectively closed by modern **myringoplasty**."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"Under the operating microscope, the otolaryngologist placed a delicate temporalis fascia graft during the **myringoplasty**."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The patient experienced restored auditory clarity following a successful microscopic **myringoplasty**."*

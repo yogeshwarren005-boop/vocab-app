@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Puffers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Puffers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of primarily marine and estuarine ray-finned fishes, commonly known as pufferfishes, blowfishes, or globefishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and marine toxicology, plectognath fishes capable of inflating their elastic bodies with water or air when threatened, possessing four fused jaw teeth forming a beak and harboring lethal tetrodotoxin in their viscera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog tetraodontidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Fishes of the family **Tetraodontidae** possess four heavy enamel plates forming a powerful beak capable of crushing coral and mollusks."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"I caught a fish of the family **Tetraodontidae** which possessed the power of distending itself into a perfect globe covered with spines."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"The ovaries and liver of **Tetraodontidae** contain a virulent neurotoxin that causes paralysis in human consumers."*

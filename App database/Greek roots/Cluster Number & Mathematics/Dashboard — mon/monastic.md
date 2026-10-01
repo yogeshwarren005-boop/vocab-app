@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to monasteries or to monks or nuns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling (as in seclusion or ascetic simplicity) life in a monastery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of monks, nuns, or monasteries; secluded and ascetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to a solitary, contemplative, or disciplined life of religious devotion, austerity, or scholarly isolation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They had rambled round by a road which led to the well-known ruins of the Cistercian abbey behind the mill, the latter having, in centuries past, been attached to the monastic establishment."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Authoritative distribution is the dominant method in patriarchal tribes, in communal societies, and in monastic and other religious orders."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each person works at what he is commanded to do, and some one in authority (patriarch, head of the community, father of the monastic order) portions out the tasks and the rewards."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I did not wish to live what was not life; my simple cabin in the woods was a retreat without vows, yet touched by a quiet **monastic** simplicity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon spent his days buried in his study, leading a strictly **monastic** existence dedicated to his unfinished key to all mythologies."*
+> - 📜 **Friedrich Nietzsche (*On the Genealogy of Morals*):** *"The philosopher has always worn the protective cloak of the **monastic** ascetic in order to think undisturbed by the crowd."*

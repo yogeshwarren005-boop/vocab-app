@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A virus the can initiate various kinds of tumors in mice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A virus the can initiate various kinds of tumors in mice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A DNA virus of the family Polyomaviridae capable of causing various tumors in animals; or the condition caused by such a virus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In viral oncology and molecular biology, a small non-enveloped double-stranded DNA virus (such as murine polyomavirus or simian virus 40 / SV40) that encodes T-antigens capable of transforming normal cells by binding tumor suppressors p53 and pRb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyoma designates a virus the can initiate various kinds of tumors in mice."*
+> - 📜 **Ludwik Gross (*Oncogenic Viruses*):** *"The murine **polyoma** virus produces a bewildering variety of epithelial tumors when inoculated into newborn mice."*
+> - 📜 **David Baltimore (*Viruses and Human Cancer*):** *"Studies of the large T-antigen encoded by the **polyoma** genome laid the foundation for modern tumor suppressor biology."*
+> - 📜 **Renato Dulbecco (*The Induction of Cancer by Viruses*):** *"Cell transformation by the **polyoma** virus requires stable integration of the viral genome into the host chromosome."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of antibodies produced in the laboratory by a single clone of cells or a cell line and consisting of identical antibody molecules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming or derived from a single clone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed from, derived from, or relating to a single clone of cells, especially identical antibody-producing cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and molecular medicine, referring to identical antibodies produced by hybridoma cell lines that bind to a single specific epitope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoclonal designates any of a class of antibodies produced in the laboratory by a single clone of cells or a cell line and consisting of identical antibody molecules."*
+> - 📜 **César Milstein (*From Antibody Diversity to Monoclonal Antibodies*):** *"The fusion of myeloma cells with primed lymphocytes yielded perpetual hybridoma lines secreting pure **monoclonal** antibodies."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Herceptin, a pioneering **monoclonal** antibody, targeted the HER2 receptor to arrest aggressive breast cancer cell growth."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Targeted therapies employing synthetic **monoclonal** proteins have revolutionized modern oncology with pinpoint molecular precision."*

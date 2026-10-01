@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek orch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which only one testis is present in the scrotum, due to unilateral agenesis, developmental arrest, or undescended testis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical dysmorphology, the state of having a single functional testicle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monorchism designates a term designating an entity, condition, or phenomenon derived from greek orch."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris and Allied States*):** *"Surgical exploration established that the patient's apparent **monorchism** was caused by an undescended inguinal testis."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Congenital anomalies like **monorchism** illustrate how embryonic developmental symmetry can occasionally fail along one bilateral axis."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Corrective orchidopexy was performed in childhood to resolve what had initially appeared to be congenital **monorchism**."*

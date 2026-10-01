@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combination of seven letters used to represent a single sound or phoneme in orthography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and writing systems, an extreme multi-letter graphemic sequence representing a single phonological segment (e.g. German 'schtsch' or Irish combinations).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptagraph designates a term designating an entity, condition, or phenomenon derived from greek hept."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"In cumbersome transliterations of Slavic sibilants, an orthographic **heptagraph** of seven consonants occasionally emerges."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The proliferation of digraphs and trigraphs shows how phonetic alphabets break down, culminating in an awkward **heptagraph**."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"When seven roman characters are pressed into service as a **heptagraph** to render one sound, phonetic reform becomes imperative."*

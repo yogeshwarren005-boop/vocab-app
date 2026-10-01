@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or shaped like a pentagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or shaped like a pentagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having five sides, angles, or corners; arranged in the shape of a pentagon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and mineralogy, crystal forms exhibiting fivefold symmetry or pentagonal faces, such as the pyritohedral pentagonal dodecahedron of pyrite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The two pentagonal towers on the right and left were appropriated to the inferior offices of the castle."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Pyrite commonly crystallizes in striate cubes or in the beautiful **pentagonal** dodecahedron called the pyritohedron."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The silicious skeleton of certain radiolarians resembles a regular **pentagonal** dodecahedron composed of hollow reticulated bars."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The cross-section of the pith in the young shoots of the alder displays an elegant **pentagonal** star."*

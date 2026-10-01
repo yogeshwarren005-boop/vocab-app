@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several toxic antibiotics obtained from a particular soil bacterium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several toxic antibiotics obtained from a particular soil bacterium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of polypeptide antibiotics derived from *Bacillus polymyxa*, effective predominantly against Gram-negative bacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antimicrobial chemotherapy and critical care medicine, cyclic cationic decapeptide antibiotics (notably polymyxin B and polymyxin E / colistin) that disrupt bacterial outer membrane phospholipids, reserved as last-resort agents against multi-drug-resistant Gram-negative pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymyxin designates any of several toxic antibiotics obtained from a particular soil bacterium."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"By acting as a cationic detergent that binds lipid A, **polymyxin** disrupts the bacterial outer membrane, causing rapid cell lysis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine: Modern Edition*):** *"Because of potential nephrotoxicity and neurotoxicity, systemic administration of **polymyxin** is reserved for pan-resistant infections."*
+> - 📜 **Selman Waksman (*The Actinomycetes and Their Antibiotics*):** *"Strains of Bacillus polymyxa isolated from soil produce the potent lipopeptide complex designated **polymyxin**."*

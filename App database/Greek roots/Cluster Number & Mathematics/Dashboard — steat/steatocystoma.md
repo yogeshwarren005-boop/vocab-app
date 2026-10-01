@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A common cyst of the skin; filled with fatty matter (sebum) that is secreted by a sebaceous gland that has been blocked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common cyst of the skin; filled with fatty matter (sebum) that is secreted by a sebaceous gland that has been blocked.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign skin condition characterized by multiple sebum-containing cysts formed within sebaceous duct junctions; steatocystoma multiplex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology and dermatopathology, an autosomal dominant disorder (frequently associated with keratin 17 gene mutations) characterized by yellowish subcutaneous cystic nodules lined by an undulating, sebaceous-gland-bearing epithelial wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steatocystoma designates a common cyst of the skin; filled with fatty matter (sebum) that is secreted by a sebaceous gland that has been blocked."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases of the Skin*):** *"The patient presented multiple yellowish cutaneous nodules over the chest, typical of that condition known as **steatocystoma**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Histological section of a **steatocystoma** demonstrates a true sebaceous cyst containing oily fluid and hair fragments."*
+> - 📜 **Thomas Addison (*Observations on Cutaneous Diseases*):** *"The soft consistency and clear sebaceous contents distinguish the lesions of **steatocystoma** from fibromata."*

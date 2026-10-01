@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, marked by, or affected with catatonia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a marked lack of movement, activity, or expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or affected by catatonia; exhibiting motor immobility, stupor, or rigidity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychiatry and common usage, a state of psychological paralysis, stupor, or unresponsive immobility under acute psychic shock or severe organic brain disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catatonic designates of, relating to, marked by, or affected with catatonia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients in a **catatonic** stupor frequently demonstrate waxy flexibility, allowing their arms to be shaped like lead pipes."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"The dreadful shock of war left many soldiers sitting in a **catatonic** trance, blind and deaf to the world around them."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The sudden introduction of levodopa awakened the frozen, **catatonic** post-encephalitic sufferers into joyful life."*

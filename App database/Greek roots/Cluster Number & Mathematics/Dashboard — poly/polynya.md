@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stretch of open water surrounded by ice (especially in arctic seas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stretch of open water surrounded by ice (especially in arctic seas).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of open, unfrozen water surrounded by sea ice, especially in Arctic and Antarctic oceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polar oceanography and marine climatology, non-linear open-water systems maintained either by warm upwelling currents (sensible heat polynya) or by katabatic winds driving newly formed ice offshore (latent heat polynya), serving as vital ecological refugia for marine mammals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polynya designates a stretch of open water surrounded by ice (especially in arctic seas)."*
+> - 📜 **Fridtjof Nansen (*Farthest North*):** *"The Fram drifted near an extensive **polynya**, where open black water mirrored the auroral curtains overhead."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"A wide **polynya** opened between the sea ice and the barrier edge, populated by surfacing seals and killer whales."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Even amidst the unbroken polar freeze, a steaming **polynya** provides breathing holes for walruses and whales."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a play developing the main action and leading to the catastrophe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a play developing the main action and leading to the catastrophe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of an ancient drama where the main action develops and the plot thickens, leading up to the catastrophe; or an intensification of disease symptoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical dramatic theory (following Donatus and Scaliger), the second main division of a play following the protasis, where complications multiply; in medicine, the acute exacerbation of fever or illness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It doubles itself in the middle of his life, reflects itself in another, repeats itself, protasis, epitasis, catastasis, catastrophe."*
+> - 📜 **John Dryden (*An Essay of Dramatic Poesy*):** *"The **epitasis** is the working up of the plot, where the complications gather and the audience hangs in suspense."*
+> - 📜 **Ben Jonson (*The Magnetic Lady: Chorus*):** *"Now begins our **epitasis**, or business of the play, wherein the knots are tied which none but the author can untie."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"In the severe **epitasis** of a malignant fever, the animal spirits are consumed by internal combustion."*

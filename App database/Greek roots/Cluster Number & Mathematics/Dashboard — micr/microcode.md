@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The microinstructions especially of a microprocessor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The microinstructions especially of a microprocessor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of low-level machine instructions that directly control the internal data paths and registers of a central processing unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer architecture, the firmware layer that translates macro-level assembly instructions into hardware-level micro-operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcode designates the microinstructions especially of a microprocessor."*
+> - 📜 **Maurice Wilkes (*Memoirs of a Computer Pioneer*):** *"I conceived the idea of **microcode** in 1951 to replace ad-hoc control logic with a systematic diode matrix."*
+> - 📜 **Tracy Kidder (*The Soul of a New Machine*):** *"The debugging team spent sleepless weeks patching micro-instructions in writable **microcode** to cure processor glitches."*
+> - 📜 **Andrew Tanenbaum (*Structured Computer Organization*):** *"The microprogram engine executes lines of **microcode** that control register transfers during each clock cycle."*

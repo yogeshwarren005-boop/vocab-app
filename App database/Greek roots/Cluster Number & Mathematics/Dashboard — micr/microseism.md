@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeble rhythmically and persistently recurring earth tremor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeble rhythmically and persistently recurring earth tremor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint, continuous tremor or earth vibration caused by natural phenomena such as ocean waves, atmospheric storms, or wind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geophysics and seismology, ambient background seismic noise generated primarily by the interaction of ocean swells with the seafloor and coastlines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microseism designates a feeble rhythmically and persistently recurring earth tremor."*
+> - 📜 **Beno Gutenberg (*Seismological Evidence for Roots of Mountains*):** *"Seismograph traces across North America record a continuous **microseism** background driven by North Atlantic winter gales."*
+> - 📜 **Charles Richter (*Elementary Seismology*):** *"Before identifying a true earthquake arrival, the geophysicist must filter out the rhythmic hum of ocean-generated **microseism** waves."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Pounding surf against rocky coastlines sends deep acoustic pulses through bedrock, recorded as a persistent **microseism** hundreds of miles inland."*

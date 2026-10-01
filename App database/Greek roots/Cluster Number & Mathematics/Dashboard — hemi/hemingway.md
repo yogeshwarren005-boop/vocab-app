@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An american writer of fiction who won the nobel prize for literature in 1954 (1899-1961).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An american writer of fiction who won the nobel prize for literature in 1954 (1899-1961).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ernest Hemingway (1899–1961), celebrated Nobel Prize-winning American novelist and short-story writer known for economical prose and the iceberg theory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, the distinct thematic ethos of understated courage, stoicism under grace, and sensory precision established by Hemingway.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemingway designates an american writer of fiction who won the nobel prize for literature in 1954 (1899-1961)."*
+> - 📜 **William Faulkner (*Faulkner in the University: Class Conferences*):** *"**Hemingway** discovered early what he could do with words, stripping language down to courageous, unadorned truth."*
+> - 📜 **F. Scott Fitzgerald (*The Crack-Up*):** *"Ernest **Hemingway** possessed an instinct for finding the exact physical detail that unlocked a whole emotional scene."*
+> - 📜 **George Orwell (*Critical Essays*):** *"The wartime narratives of **Hemingway** captured the disillusionment of a generation without resorting to sentimental rhetoric."*

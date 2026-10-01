@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exercise of self constraint in sexual matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Voluntary control over urinary and fecal discharge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exercise of self-restraint with respect to the passions, especially voluntary abstinence from sexual activity; chastity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and physiology, the ability to control bladder and bowel elimination functions voluntarily.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is a want of faith, a half-heartedness about men's prayers; they pray as Augustine says he himself did: "Give me chastity and continence, but not now" (Conf, viii. 7, 17)."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"They also fast much, eat no salt, and are bound to strict continence."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To this day some of the Indian tribes of Central America practise continence for the purpose of thereby promoting the growth of the crops."*
+> - 📜 **Saint Augustine (*Confessions*):** *"Grant me chastity and **continence**, but not yet; for I feared you would hear me too soon and heal my desire."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"Moral **continence** differs from temperance, for the continent man experiences bad appetites but masterfully overcomes them through reason."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Following spinal decompression surgery, the patient gradually regained normal sensory reflexes and full sphincter **continence**."*

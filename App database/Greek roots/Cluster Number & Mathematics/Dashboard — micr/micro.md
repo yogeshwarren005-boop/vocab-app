@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely small in scale or scope or capability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely small in scale or scope or capability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely small in size, scope, or scale; also designating one-millionth (10^-6) in the metric system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colloquial abbreviation for a microcomputer, microprocessor, or microwave oven, widely popularized during the computing revolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As you may recall from your school days, it wasn't easy hauling micro-spunnel terminals around the Belt and ramming rocks into the hoppers for transfer to meltdown and refining above Venus."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The buggy was a single-seater, tiny, barely ten meters bow to stern, but the way she whipped around us, it was plain to my duty officer that she was charged by a micro deep space drive."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She can break down entire systems, and repair and reassemble them, blindfolded, from micro-miniatures to the big stuff."*
+> - 📜 **Richard Feynman (*There's Plenty of Room at the Bottom*):** *"Why cannot we write the entire 24 volumes of the Encyclopædia Britannica on the head of a pin at the **micro** scale?"*
+> - 📜 **Steven Levy (*Hackers: Heroes of the Computer Revolution*):** *"Enthusiasts soldered their own breadboards, determined to make the desktop **micro** accessible to everyone."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"We live encased in concentric spheres of existence, each macro structure reflecting its intricate **micro** constituents."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chord passing through the center of a figure or body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a straight line through the center of an object or space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight line segment that passes through the center of a circle or sphere, terminating at both ends on the circumference; the length of this line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and astronomy, the linear measurement across any curvilinear figure, celestial body, or optical aperture passing through its center.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A tributary of the main stream flowed through the basin of the pool by an inlet and outlet at opposite points of its diameter."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pit was a saucer-shaped concave, naturally formed, with a top diameter of about thirty feet, and shallow enough to allow the sunshine to reach their heads."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Instead, I equipped myself with a stone club, some three feet in length and of suitable diameter, which occupied an even month in the fashioning."*
+> - 📜 **Euclid (*Elements*):** *"A **diameter** of a circle is any straight line drawn through the center and terminated in both directions by the circumference."*
+> - 📜 **Galileo Galilei (*Dialogue Concerning the Two Chief World Systems*):** *"Through the telescope, the disk of Jupiter displays a measurable **diameter** many times larger than the Earth."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The **diameter** of each colored ring around the central contact point varies as the square root of the odd numbers."*

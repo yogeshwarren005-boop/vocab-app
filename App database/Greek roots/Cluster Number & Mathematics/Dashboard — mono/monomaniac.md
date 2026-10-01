@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from monomania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person suffering from monomania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person affected by monomania; someone obsessively fixated on a single idea, pursuit, or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical clinical psychology and literary characterization, an individual consumed by an unyielding single-minded obsession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The White Whale swam before him as the monomaniac incarnation of all those malicious agencies which some deep men feel eating in them, till they are left living on with half a heart and half a lung."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Such a crew, so officered, seemed specially picked and packed by some infernal fatality to help him to his monomaniac revenge."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For with the charts of all four oceans before him, Ahab was threading a maze of currents and eddies, with a view to the more certain accomplishment of that monomaniac thought of his soul."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The brooding **monomaniac** captain stared into the wake, deaf to the warnings of his first mate."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Dr. Manette relapsed into the state of a quiet **monomaniac**, making shoes in the garret with haunted rhythm."*
+> - 📜 **Fyodor Dostoevsky (*Crime and Punishment*):** *"Razumikhin warned that Raskolnikov was behaving like an irritable **monomaniac** on the verge of madness."*

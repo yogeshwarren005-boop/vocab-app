@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or appearing to have only one color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or appearing to have only one color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of one uniform color; monochromatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical art and natural history, an archaic synonym for monochrome, describing statues, tapestries, or animal pelts of unvarying tint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromous designates having or appearing to have only one color."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Early Greek painters executed **monochromous** pictures using cinnabar or lampblack before discovering four-color blending."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The austere dignity of antique sculpture was once believed to be **monochromous**, before archaeologists uncovered traces of polychromy."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"The petals of the forest bellflower are completely **monochromous**, presenting an unbroken azure expanse."*

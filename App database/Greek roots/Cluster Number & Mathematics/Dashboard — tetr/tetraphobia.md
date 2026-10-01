@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tetr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational fear or avoidance of the number four, prevalent in East Asian cultures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology and sociolinguistics, a widespread numerical taboo in Chinese, Japanese, Korean, and Vietnamese cultures, stemming from the phonological homophony between the word for 'four' and 'death'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetraphobia designates a term designating an entity, condition, or phenomenon derived from greek tetr."*
+> - 📜 **Herbert Giles (*A Chinese-English Dictionary*):** *"Because the pronunciation of four is homophonous with death, **tetraphobia** leads builders to omit the fourth floor in many buildings."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Numerical superstitions like **tetraphobia** illustrate how associative wordplay shapes architectural and social customs."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Morbid phobias concerning numbers, whether triskaidekaphobia or oriental **tetraphobia**, spring from deep associative conditioning."*

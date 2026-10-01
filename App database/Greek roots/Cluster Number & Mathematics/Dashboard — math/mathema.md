@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek math.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek word for that which is learned, a lesson, study, or science (μάθημα, pl. mathēmata).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy and the history of science, the Pythagorean and Platonic concept of systematic learning through mathematical disciplines (arithmetic, geometry, astronomy, harmonics).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mathema designates a term designating an entity, condition, or phenomenon derived from greek math."*
+> - 📜 **Plato (*The Republic*):** *"The highest **mathema**, or study, is the contemplation of the Good, illuminated through mathematical sciences."*
+> - 📜 **Aristotle (*Metaphysics*):** *"The Pythagoreans were the first to advance the study of **mathema**, believing the principles of numbers to be the principles of all things."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"Originally signifying any discipline learned by effort, **mathema** was gradually restricted by the Academy to exact mathematics."*

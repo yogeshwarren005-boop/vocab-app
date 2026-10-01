@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek allel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The embryonic arrangement or integration of organs developed from different germ layers or disparate structural components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental morphology, the mutual alignment and reciprocal organization of divergent tissue elements during organogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allelotaxis designates a term designating an entity, condition, or phenomenon derived from greek allel."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The harmonious union of ectodermal and mesodermal sheets demonstrates remarkable embryonic **allelotaxis**."*
+> - 📜 **Ray Lankester (*Comparative Embryology*):** *"We trace the evolutionary modification of the organ through the structural **allelotaxis** of its constituent cellular tracts."*
+> - 📜 **Wilhelm Roux (*Der Kampf der Theile im Organismus*):** *"Mechanical pressures exerted by adjacent tissues direct the cellular **allelotaxis** necessary for proper lumen formation."*

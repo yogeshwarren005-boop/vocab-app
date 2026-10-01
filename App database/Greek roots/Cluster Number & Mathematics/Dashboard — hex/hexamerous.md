@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of six.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of six.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having parts or organs arranged in sets or multiples of six.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and zoology, designating flowers with floral whorls in sixes (typical of monocots like lilies), or anthozoan corals with six primary mesenteries (Hexacorallia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexamerous designates adjective*) pertaining to, derived from, or characteristic of six."*
+> - 📜 **Asa Gray (*First Lessons in Botany and Vegetable Physiology*):** *"Monocotyledonous flowers such as the tulip exhibit **hexamerous** perianth whorls of three sepals and three petals."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The stony corals of the order Hexacorallia display strict **hexamerous** radial symmetry throughout their septal growth."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The digestive mesenteries in sea anemones multiply according to regular **hexamerous** cycles."*

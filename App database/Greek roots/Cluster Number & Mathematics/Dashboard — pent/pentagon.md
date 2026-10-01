@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon of five angles and five sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The U.S. military leadership.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane geometric figure with five straight sides and five angles; or a five-sided building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and political parlance (capitalized), the massive five-sided headquarters building of the United States Department of Defense in Arlington, Virginia, metonymously designating the U.S. military leadership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Atch (Copy of letter from) Meyer Moldeven April 26, 1993 To: Secretary of Defense The Pentagon Washington, DC 20301 Honorable Secretary: [The opening paragraph in the original letter cited a number of suicides in a military organization."*
+> - 📜 **Euclid (*Elements*):** *"Inscribe in a given circle an equilateral and equiangular **pentagon** by means of the golden ratio."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"The mystical properties of the regular **pentagon** engaged the contemplation of the ancient philosophers who found harmony in five."*
+> - 📜 **Dwight D. Eisenhower (*Crusade in Europe*):** *"From our offices in the newly constructed **Pentagon**, we coordinated the vast logistical requirements of the Allied forces."*

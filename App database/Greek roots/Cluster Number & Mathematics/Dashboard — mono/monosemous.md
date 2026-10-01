@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having only one meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one meaning; not polysemous or ambiguous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semantics and lexicography, describing scientific or technical terms that possess a single unambiguous denotation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosemous designates having only one meaning."*
+> - 📜 **Steven Pinker (*The Stuff of Thought*):** *"Scientific jargon strives to be strictly **monosemous**, avoiding the slippery ambiguities of everyday polysemy."*
+> - 📜 **Willard Van Orman Quine (*Word and Object*):** *"Formalized logical languages aspire to an inventory of **monosemous** predicates that map to unique truth conditions."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"In living natural speech, rarely is a popular signifier genuinely **monosemous** across diverse dialects and centuries."*

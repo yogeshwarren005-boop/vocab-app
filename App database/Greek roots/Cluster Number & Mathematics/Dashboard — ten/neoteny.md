@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retention of some larval or immature characters in adulthood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attainment of sexual maturity during the larval stage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The retention of juvenile or larval features in the adult animal; or the slowing of physiological development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology (heterochrony), a macroevolutionary mechanism (prominent in amphibians like Ambystoma mexicanum and in hominid evolution) where somatic maturation is retarded relative to sexual maturity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoteny designates retention of some larval or immature characters in adulthood."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Human evolution has been profoundly guided by **neoteny**, giving our species an extended childhood essential for learning and culture."*
+> - 📜 **G. Kingsley Noble (*The Biology of the Amphibia*):** *"Facultative **neoteny** in salamanders allows populations to remain in the safe aquatic habitat when terrestrial conditions are harsh."*
+> - 📜 **Julian Huxley (*Problems of Relative Growth*):** *"The study of **neoteny** proves that evolutionary change often operates by altering the relative rates of developmental processes."*

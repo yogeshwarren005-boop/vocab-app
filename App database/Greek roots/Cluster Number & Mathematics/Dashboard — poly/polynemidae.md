@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Threadfins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Threadfins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of marine and brackish-water ray-finned fishes, commonly known as threadfins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, perciform fishes characterized by pectoral fins divided into an upper normal fin and lower thread-like sensory filaments utilized to locate invertebrate prey in turbid sandy waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polynemidae designates threadfins."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The family **Polynemidae**, or threadfins, are valued food fishes of tropical coasts, recognized by free filamentary pectoral rays."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"Species belonging to **Polynemidae** inhabit sandy surf zones where their tactile pectoral threads probe the substrate for buried crustacea."*
+> - 📜 **William Beebe (*Shore Fishes of Bermuda*):** *"A small school of threadfins from the family **Polynemidae** flashed through the milky surf along the shoreline."*

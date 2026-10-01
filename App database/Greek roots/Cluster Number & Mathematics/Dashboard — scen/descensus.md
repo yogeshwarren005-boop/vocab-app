@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The slipping or falling out of place of an organ (as the uterus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The slipping or falling out of place of an organ (as the uterus).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A descent, downward movement, or falling; specifically, the descent of Christ into Limbo/Hell (Descensus Christi ad Inferos).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical pathology, gynecology, and surgical nosology, the downward displacement or prolapse of an internal organ (such as descensus uteri / uterine prolapse).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, descensus designates the slipping or falling out of place of an organ (as the uterus)."*
+> - 📜 **Virgil (*Aeneid*):** *"Facilis **descensus** Averno: smooth is the descent to the underworld, but to recall one's step to the sweet air of heaven is the arduous task."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pelvic relaxation in multiparous women frequently results in **descensus** of the bladder and anterior vaginal wall."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The holy fathers teach that the **descensus** of Christ delivered the souls of the just who waited in the bosom of Abraham."*

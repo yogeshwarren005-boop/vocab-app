@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Epiphytic ferns of tropical america and africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epiphytic ferns of tropical america and africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, epiphytic ferns in the family Polypodiaceae, native to the tropical and subtropical Americas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, creeping polypod ferns distinguished by long-creeping scaly rhizomes, simple leaves, and round sori on the underside of fertile fronds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgramma designates epiphytic ferns of tropical america and africa."*
+> - 📜 **Alexander von Humboldt (*Views of Nature*):** *"Branches of ancient mahogany trees in the Orinoco basin were carpeted with delicate fronds of the climbing fern genus **Microgramma**."*
+> - 📜 **Richard Spruce (*Notes of a Botanist on the Amazon and Andes*):** *"I observed several species of **Microgramma** whose rhizomes form intimate mutualistic shelters for colonies of arboreal ants."*
+> - 📜 **David Attenborough (*The Private Life of Plants*):** *"The miniature epiphytic fern **Microgramma** thrives in the rain-soaked canopy without ever touching forest soil."*

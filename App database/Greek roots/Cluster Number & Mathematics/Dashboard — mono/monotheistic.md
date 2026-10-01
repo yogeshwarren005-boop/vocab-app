@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing that there is only one god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Believing that there is only one god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing in or relating to the belief that there is only one God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by theological unitary worship, ethical commandment, and transcendence across historical faiths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Its business now was to reconcile its own monotheistic dogma with popular polytheistic practice."*
+> - 📜 **David Hume (*The Natural History of Religion*):** *"A **monotheistic** creed naturally tends toward intolerance against external pantheons, claiming absolute exclusive truth."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The intense inner-worldly asceticism of Calvinism represented the culmination of a long **monotheistic** tradition."*
+> - 📜 **Karen Armstrong (*Holy War*):** *"All three great **monotheistic** traditions trace their spiritual ancestry back to Abraham's desert journey."*

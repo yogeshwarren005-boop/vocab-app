@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant-feeding mites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant-feeding mites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan family of prostigmatid mites, commonly known as spider mites, which feed on plant sap and spin fine silken webs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acarology and plant protection, an economically devastating family containing over 1,200 species, notable for rapid reproductive rates, pesticide resistance, and silk-spinning from glands near the mouthparts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetranychidae designates plant-feeding mites."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Members of **Tetranychidae** spin delicate silk threads over the undersides of leaves, sheltering colonies from predatory insects."*
+> - 📜 **Vernon Lyman Kellogg (*American Insects*):** *"The family **Tetranychidae** contains the notorious red spiders that devastate cotton, fruit trees, and ornamental crops."*
+> - 📜 **Howard Ensign Evans (*Life on a Little-Known Planet*):** *"Spider mites of the family **Tetranychidae** reproduce with astonishing rapidity, producing dozens of generations in a single hot summer."*

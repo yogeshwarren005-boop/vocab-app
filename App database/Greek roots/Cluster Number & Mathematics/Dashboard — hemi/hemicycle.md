@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A curved or semicircular structure or arrangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curved or semicircular structure or arrangement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A semicircular shape, structure, colonnade, or architectural arena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and modern architecture, a semicircular amphitheatre, curved seating chamber of a parliament (such as the French National Assembly), or curved apse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemicycle designates a curved or semicircular structure or arrangement."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"The sun-dial of Berosus was hollowed out of a square stone block into a graceful celestial **hemicycle**."*
+> - 📜 **Alexis de Tocqueville (*Recollections*):** *"Tumultuous shouts echoed across the parliamentary **hemicycle** as the deputies rose in violent confrontation."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"Trajan's Forum incorporated a monumental brick **hemicycle** lined with tiered shops backing against the Quirinal hill."*

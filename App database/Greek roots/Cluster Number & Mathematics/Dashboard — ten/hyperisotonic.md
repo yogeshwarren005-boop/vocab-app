@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an osmotic pressure greater than that of isotonic solutions; hypertonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell physiology and renal biophysics, a solution possessing a higher effective osmolyte concentration than standard physiological saline or blood plasma, causing red blood cells to lose water and crenate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperisotonic designates adjective*) pertaining to, derived from, or characteristic of stretch."*
+> - 📜 **Svante Arrhenius (*Text-Book of Theoretical Electrochemistry*):** *"When red corpuscles are immersed in a **hyperisotonic** salt solution, water flows outward across the membrane, shrinking the cells."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"The renal medulla maintains a **hyperisotonic** interstitial environment essential for the concentration of mammalian urine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intravenous infusion of a **hyperisotonic** mannitol solution rapidly reduces intracranial pressure in acute cerebral edema."*

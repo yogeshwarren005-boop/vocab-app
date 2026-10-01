@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having male and female reproductive organs in the same plant or animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having male and female reproductive organs in the same plant or animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having male and female reproductive structures on the same plant gametophyte (used especially of bryophytes such as mosses and liverworts).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology, producing both antheridia and archegonia on a single haploid individual, facilitating self-fertilization in moisture-limited microhabitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoicous designates having male and female reproductive organs in the same plant or animal."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In a **monoicous** moss, antheridia and archegonia develop within the same clustered perichaetium at the tip of the stem."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Bryologists classify peat mosses based on whether their haploid gametophores are dioicous or **monoicous**."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"The **monoicous** condition ensures that flagellated sperm need only swim across a film of dew to fertilize adjacent archegonia."*

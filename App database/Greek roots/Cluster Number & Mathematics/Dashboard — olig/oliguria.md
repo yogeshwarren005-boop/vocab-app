@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally small production of urine; can be a symptom of kidney disease or obstruction of the urinary tract or edema or an imbalance of fluids and electrolytes in the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Production of an abnormally small amount of urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of an abnormally small amount of urine (typically less than 400 or 500 mL per 24 hours in an adult).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nephrology and critical care, an ominous clinical indicator of acute kidney injury, severe dehydration, or circulatory shock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oliguria designates abnormally small production of urine; can be a symptom of kidney disease or obstruction of the urinary tract or edema or an imbalance of fluids and electrolytes in the body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden onset of severe **oliguria** in a septic patient demands immediate fluid resuscitation to prevent acute tubular necrosis."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The intensive care monitors alerted the team to progressive **oliguria**, prompting urgent adjustment of vasopressor support."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"We tracked urine output hourly, watching for resolution of the post-operative **oliguria** as renal perfusion improved."*

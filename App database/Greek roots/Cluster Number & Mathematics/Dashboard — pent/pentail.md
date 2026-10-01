@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brown tree shrew having a naked tail bilaterally fringed with long stiff hairs on the distal third; of malaysia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brown tree shrew having a naked tail bilaterally fringed with long stiff hairs on the distal third; of malaysia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pen-tailed treeshrew (Ptilocercus lowii), a small nocturnal mammal of Southeast Asia notable for a tail terminating in a feather-like brush of white hairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and evolutionary biology, the sole living species of the family Ptilocercidae, famous for consuming naturally fermented floral nectar with high alcohol content without intoxication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentail designates brown tree shrew having a naked tail bilaterally fringed with long stiff hairs on the distal third; of malaysia."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the dense forests of Borneo dwells the curious **pentail** treeshrew, sporting a feather-like tuft at the tip of its naked tail."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The **pentail** belongs to the insectivores, easily recognized by the distichous arrangement of long hairs along the end of the tail."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"Cranial morphology in the **pentail** suggests an ancient branch linking early placental insectivores with primitive primates."*

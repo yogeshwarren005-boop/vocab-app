@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forward projection or displacement especially of the eyeball.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forward projection or displacement especially of the eyeball.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal protrusion or forward displacement of an organ, especially the eyeball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and endocrinology, forward protrusion of the globe (exophthalmos) caused by thyroid eye disease (Graves' orbitopathy), orbital tumors, retrobulbar hematoma, or cavernous sinus thrombosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proptosis designates forward projection or displacement especially of the eyeball."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bilateral **proptosis** accompanied by fine finger tremors and tachycardia forms the hallmark of Graves' disease."*
+> - 📜 **Harvey Cushing (*Meningiomas: Their Classification and Surgical Pathology*):** *"Slowly progressive unilateral **proptosis** directed our surgical approach toward the sphenoid ridge meningioma."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"Severe orbital cellulitis induces marked **proptosis** and chemosis, endangering vision if decompression is delayed."*

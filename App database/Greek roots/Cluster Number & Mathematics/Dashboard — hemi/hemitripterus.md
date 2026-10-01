@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea ravens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea ravens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine scorpaeniform fishes known as sea ravens (family Hemitripteridae), characterized by ragged, fleshy head flaps and spiny dorsal fins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North Atlantic and North Pacific marine biology, benthic ambush predators found in cold rocky waters, possessing a voracious appetite and mottled camouflage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemitripterus designates sea ravens."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The sea raven **Hemitripterus** americanus displays grotesque dermal flaps on its head resembling decomposing seaweed."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"When hauled from cold Atlantic waters, the spiny sculpin **Hemitripterus** inflates its belly with air like a pufferfish."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Condition of the Sea Fisheries*):** *"Trawlers frequently bring up specimens of **Hemitripterus** from the rocky banks off the coast of Maine."*

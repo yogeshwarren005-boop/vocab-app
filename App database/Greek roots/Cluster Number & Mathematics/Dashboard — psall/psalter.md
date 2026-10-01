@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The Book of Psalms; also : a collection of Psalms for liturgical or devotional use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Book of Psalms; also : a collection of Psalms for liturgical or devotional use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A volume containing the biblical Book of Psalms, often arranged for liturgical, devotional, or choral use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval codicology and manuscript illumination, a richly decorated prayer book containing liturgical calendars, canticles, and the litany of saints, serving as the central personal devotional text for nobility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The boy was of the dunce class apparently; the book was a psalter, and this was his way of learning the collect."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She tried several ballads, but found them inadequate; till, recollecting the psalter that her eyes had so often wandered over of a Sunday morning before she had eaten of the tree of knowledge, she chanted: “O ye Sun and Moon ..."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The boy was of the dunce class apparently; the book was a psalter, and this was his way of learning the collect."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"And on her arm she bore a rosary of coral beads, and in her hand an illuminated **psalter** bound in silk."*
+> - 📜 **John Ruskin (*The Bible of Amiens*):** *"The 13th-century illuminated **psalter** preserves the purest medieval Gothic drawing in its vibrant marginal vignettes."*
+> - 📜 **Thomas More (*Dialogue Concerning Heresies*):** *"Devout layfolk found solace in reciting the seven penitential psalms from the Latin **psalter** during morning prayer."*

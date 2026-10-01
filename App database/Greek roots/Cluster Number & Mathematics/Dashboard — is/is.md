@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Island; isle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root morpheme derived from Ancient Greek ἴσος (isos), signifying equal, same, uniform, or balanced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, physical chemistry, and linguistics, the fundamental base indicating equivalence of dimensions, temperature, pressure, or semantic characteristics (as in isomorphism, isomer, isotherm, isobar, isogamy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He higher iss dan I in rank,” said the German colonel of the hussars, flushing and addressing an adjutant who had ridden up, “so let him do what he vill, but I cannot sacrifice my hussars..."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Vill you be so goot to come to ze front and see dat zis position iss no goot?"*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"You said just now about Miss Constantia's----" "Never mind about M--iss Con-stan-ti-a's," she said, making the word as long as she could--she was mad now and patting the short, stiff heather with her little bronze boot; "attend to me, if you please."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"The Greek radical **is-** designates equality of geometric magnitudes, appearing throughout Euclid's propositions."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"Prefixal **is-** or iso- represents Greek isos, denoting equality, parallelism, or uniform physical parameters."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From the fundamental root **is-** derive Hellenic concepts of political equality before the law and geometric congruence."*

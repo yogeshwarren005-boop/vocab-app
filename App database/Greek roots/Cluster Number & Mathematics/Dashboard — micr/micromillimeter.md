@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one billionth of a meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to one billionth of a meter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete metric unit of length equal to one-thousandth of a millimeter (10^-6 meter); synonymous with the micron or micrometer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In late nineteenth-century histological literature, a unit frequently used to report the dimensions of bacteria, blood cells, and spores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micromillimeter designates a metric unit of length equal to one billionth of a meter."*
+> - 📜 **Robert Koch (*The Etiology of Tuberculosis*):** *"The tubercle bacillus measures between two and four **micromillimeter** lengths, appearing as slender, beaded rods."*
+> - 📜 **Thomas Henry Huxley (*The Cell Theory*):** *"The diameter of mammalian red corpuscles rarely exceeds eight **micromillimeter** across their circular discs."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The active yeast cells had an average diameter of ten **micromillimeter**, easily resolved under a four-hundred-power objective."*

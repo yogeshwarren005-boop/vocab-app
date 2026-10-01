@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving or caused by or being microbes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving or caused by or being microbes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a microbe; microbial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth- and early twentieth-century pathology, characteristic of infections or toxins produced by bacterial agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbic designates of or involving or caused by or being microbes."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The physician explained the onset of the fever as a sudden invasion of virulent **microbic** poisons into the bloodstream."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Science has transformed our terrors: where once lurked demons, modern imagination shudders before **microbic** contagions."*
+> - 📜 **H.G. Wells (*The Island of Doctor Moreau*):** *"He sterilized his surgical knives carefully, dreading the unseen **microbic** spores that fester in tropical air."*

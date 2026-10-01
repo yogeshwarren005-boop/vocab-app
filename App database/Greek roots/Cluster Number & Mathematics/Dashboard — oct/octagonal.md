@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or shaped like an octagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or shaped like an octagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having eight sides and eight angles; shaped like an octagon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture and horology, describing eight-sided towers, pavilions, lanterns, or clock faces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the middle of the building an ugly flat-topped octagonal tower ascended against the east horizon, and viewed from this spot, on its shady side and against the light, it seemed the one blot on the city’s beauty."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My inn had once been a part of an ancient ecclesiastical house, and I dined in a little octagonal common-room, like a font."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He went towards the little, pearl-coloured octagonal stand that had always looked to him like the work of some strange Egyptian bees that wrought in silver, and taking up the volume, flung himself into an arm-chair and began to turn over the leaves."*
+> - 📜 **H.G. Wells (*The Time Machine*):** *"The Time Traveller led us into an **octagonal** dining room paneled with dark, polished mahogany."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Tower of the Winds at Athens stands as an **octagonal** marble monument adorned with relief sculptures of the eight winds."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"A small **octagonal** table of rosewood stood in the corner of the mysterious upper apartment."*

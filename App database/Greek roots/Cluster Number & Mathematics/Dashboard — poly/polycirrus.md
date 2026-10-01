@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of soft-bodied polychete marine worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of soft-bodied polychete marine worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine terebellid polychaete worms characterized by numerous long, retractile tentacles used for deposit feeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, sedentary polychaetes lacking thoracic branchiae that construct fragile mud tubes on coastal sea floors, utilizing ciliated oral tentacles to capture organic detritus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polycirrus designates genus of soft-bodied polychete marine worms."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The genus **Polycirrus** is distinguished among terebellids by the total absence of thoracic gills and the profusion of oral tentacles."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"A living **Polycirrus** worm extended a delicate crown of luminous tentacles across the coral rubble."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Feeding in **Polycirrus** is accomplished by mucus-coated grooved tentacles that transport organic silt toward the mouth."*

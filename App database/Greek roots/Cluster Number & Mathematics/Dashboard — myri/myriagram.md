@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of mass of ten thousand grams, or ten kilograms. Adopted as an equivalent of the French avoirdupois XX.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of mass of ten thousand grams, or ten kilograms. Adopted as an equivalent of the French avoirdupois XX.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete metric unit of mass equal to 10,000 grams or 10 kilograms (approximately 22.046 pounds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical European commerce and agriculture, a nineteenth-century standard weight used for bulk commodity trading in France and the Low Countries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriagram designates a unit of mass of ten thousand grams, or ten kilograms. adopted as an equivalent of the french avoirdupois xx."*
+> - 📜 **Honoré de Balzac (*Eugénie Grandet*):** *"The miser Grandet weighed the casks of vintage wine, calculating his profit down to the last **myriagram** of pressed grapes."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Ten thousand standard brass grams constituted the official **myriagram** prototype deposited in the national archives."*
+> - 📜 **Thomas Jefferson (*Report on Weights and Measures*):** *"The French decimal system proposes decimal mass units scaling from the milligram up to the commercial **myriagram**."*

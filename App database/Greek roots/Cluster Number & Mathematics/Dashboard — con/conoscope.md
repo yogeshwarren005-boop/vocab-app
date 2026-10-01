@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek con.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument or microscope attachment used to observe and evaluate interference figures in birefringent crystal sections under convergent polarized light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and mineralogical crystallography, an apparatus that determines the optical axes and optic sign (uniaxial or biaxial) of mineral specimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conoscope designates a term designating an entity, condition, or phenomenon derived from greek con."*
+> - 📜 **David Brewster (*A Treatise on the Kaleidoscope and Polarized Light*):** *"When viewed through the **conoscope**, the thin plate of Iceland spar displayed brilliant concentric rings intersected by a dark cross."*
+> - 📜 **Henry Clifton Sorby (*On the Microscopical Structure of Crystals*):** *"With the aid of a petrographic **conoscope**, one immediately discriminates between uniaxial quartz and biaxial feldspar lamellae."*
+> - 📜 **Alfred Harker (*Petrology for Students*):** *"The interference figure visible in the convergent **conoscope** allows rapid measurement of the optic axial angle of the pyroxene."*

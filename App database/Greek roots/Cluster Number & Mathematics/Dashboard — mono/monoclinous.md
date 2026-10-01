@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having pistils and stamens in the same flower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having pistils and stamens in the same flower.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having both stamens and carpels in the same flower; hermaphroditic or bisexual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, describing perfect flowers (such as lilies or roses) possessing both male and female reproductive organs in a single floral structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoclinous designates having pistils and stamens in the same flower."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Although the species is **monoclinous**, mechanisms like protandry effectively prevent self-fertilization within the flower."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"A typical apple blossom is strictly **monoclinous**, bearing a ring of stamens encircling the central pistils."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"The majority of angiosperm families bear **monoclinous** blossoms, facilitating efficient insect pollination of both sexes in one visit."*

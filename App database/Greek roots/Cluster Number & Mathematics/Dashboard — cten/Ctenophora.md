@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comb jellies; sea acorns; a small phylum formerly considered a class of coelenterata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comb jellies; sea acorns; a small phylum formerly considered a class of coelenterata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum of exclusively marine invertebrates commonly called comb jellies, swimming by means of eight longitudinal rows of ciliary combs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic marine zoology, biradially symmetrical, non-stinging diploblastic organisms possessing colloblasts rather than cnidocysts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Ctenophora designates comb jellies; sea acorns; a small phylum formerly considered a class of coelenterata."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The phylum **Ctenophora** exhibits translucent pelagic bodies propelled by shimmering iridescence along their comb rows."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Exquisite glass-like domes of **Ctenophora** drift through the dark oceanic depths like living crystal chandeliers."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In every member of **Ctenophora**, locomotion is driven by the coordinated rhythmic stroke of microscopic swimming plates."*

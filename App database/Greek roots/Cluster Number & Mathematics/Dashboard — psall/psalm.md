@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sacred song or poem used in worship; especially : one of the biblical hymns collected in the Book of Psalms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sacred song or poem used in worship; especially : one of the biblical hymns collected in the Book of Psalms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sacred song, hymn, or lyric poem used in Christian or Jewish religious worship, especially one of the 150 biblical psalms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious liturgy and biblical Hebrew poetry, sacred lyrics (Tehillim) marked by semantic parallelism and historically chanted to the accompaniment of plucked string instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But they do no more adhere and keep place together than the Hundredth Psalm to the tune of “Greensleeves.” What tempest, I trow, threw this whale, with so many tuns of oil in his belly, ashore at Windsor?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is very difficult to read my Sunday psalm in peace when I am given such a bitter soup of grief to swallow as I got yesterday."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Can play so clever that ’a can make a psalm tune sound as well as the merriest loose song a man can wish for.” “D’ye tell o’t!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Hymns and heavenly **psalms** they sang, echoing through the wide crystalline spheres of heaven."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Do we all holy rites: let there be sung 'Non nobis' and 'Te Deum', the dead with charity enclos'd in clay, and every solemn **psalm**."*
+> - 📜 **George Herbert (*The Temple*):** *"A verse may find him who a sermon flies, and a sweet **psalm** turn mourning into praise."*

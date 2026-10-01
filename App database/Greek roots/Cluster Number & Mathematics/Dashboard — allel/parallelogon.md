@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek allel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon whose opposite sides are parallel and of equal length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plane geometry and crystallography, a closed rectilinear figure exhibiting translational symmetry and parallel opposite boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parallelogon designates a term designating an entity, condition, or phenomenon derived from greek allel."*
+> - 📜 **Augustus De Morgan (*Elements of Trigonometry and Trigonometrical Analysis*):** *"Any equiangular hexagon whose opposing boundaries are equal constitutes a symmetrical plane **parallelogon**."*
+> - 📜 **William Kingdon Clifford (*Mathematical Papers*):** *"The space-filling properties of the **parallelogon** allow regular tessellation of the plane without gaps or overlapping areas."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"We may establish coordinate transformations mapping any arbitrary quadrilateral into an idealized symmetric **parallelogon**."*

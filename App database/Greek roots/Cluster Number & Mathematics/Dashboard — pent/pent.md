@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shut up : confined, repressed —usually used with up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shut up : confined, repressed —usually used with up.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confined, enclosed, or shut up in a narrow or restricted space; held back or repressed (commonly in 'pent-up').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis and emotional description, repressed internal drives, rage, or psychic tension denied outward expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, Gloucester, hide thee from their hateful looks, And, in thy closet pent up, rue my shame, And ban thine enemies, both mine and thine!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So looks the pent-up lion o’er the wretch That trembles under his devouring paws; And so he walks, insulting o’er his prey, And so he comes to rend his limbs asunder."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caitiff, to pieces shake That under covert and convenient seeming Hast practis’d on man’s life: close pent-up guilts, Rive your concealing continents, and cry These dreadful summoners grace."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Close **pent**-up guilts, rive your concealing continents, and cry these dreadful summoners grace."*
+> - 📜 **John Keats (*Sonnet: To One Who Has Been Long in City Pent*):** *"To one who has been long in city **pent**, 'tis very sweet to look into the fair and open face of heaven."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I longed for a power of vision which might overpass that limit; my spirit was **pent** within walls that felt like a prison."*

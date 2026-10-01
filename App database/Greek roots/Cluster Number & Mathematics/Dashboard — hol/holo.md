@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete : total.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely : totally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining prefix derived from Greek ὅλος (holos) signifying whole, entire, complete, or total.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific terminology, forming compounds that express complete integration, whole organisms, or complete transformations (as in holography, holocaust, holometabolous, holocrystalline).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"STORY OF THE ANAE-HOLO The anae-holo is a species of mullet unlike the shallow water, or pond, variety; and the following story of its habit is well known to any _kupa_ (native born) of Oahu."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The home of the anae-holo is at Honouliuli, Pearl Harbor, at a place called Ihuopalaai."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Reaching home, he met his wife and told her he had brought no fish, but had seen many all the way, and pointed out to her the school of anae-holo which was then resting abreast of their house."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek radical **holo-** signifies complete or entire, forming scientific terms that encompass totality."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Compounds beginning with **holo-** emphasize undivided unity, entirety, and complete physical or moral devotion."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The Proto-Indo-European root of **holo-** reflects concepts of soundness, completeness, and undivided wholeness."*

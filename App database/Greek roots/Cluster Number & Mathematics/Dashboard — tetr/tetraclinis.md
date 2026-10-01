@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sandarac tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sandarac tree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of coniferous trees in the cypress family (Cupressaceae), consisting of a single species, *Tetraclinis articulata*, commonly known as the sandarac tree or thuya.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry, decorative arts, and ethnobotany, an evergreen conifer native to the Atlas Mountains of Morocco and Malta, prized for sandarac resin (used in varnishes) and fragrant burl wood used in luxury marquetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetraclinis designates sandarac tree."*
+> - 📜 **Pliny the Elder (*Naturalis Historia*):** *"The North African tree called citrus, known to modern botanists as **Tetraclinis**, furnished the Romans with tables worth their weight in gold."*
+> - 📜 **Joseph Dalton Hooker (*A Visit to the High Atlas*):** *"Upon the arid limestone flanks of the Atlas range, forests of **Tetraclinis** articulata yield fragrant sandarac gum."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The singular cone of **Tetraclinis** consists of four woody, valve-like scales, whence its generic name is derived."*

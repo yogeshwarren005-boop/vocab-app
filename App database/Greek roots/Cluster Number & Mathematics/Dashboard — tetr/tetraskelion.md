@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure consisting of four stylized human arms or legs (or bent lines) radiating from a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure consisting of four stylized human arms or legs (or bent lines) radiating from a center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative or heraldic motif consisting of four curved or bent limbs radiating symmetrically from a central hub; variant of tetraskele.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics and cultural iconography, an ancient geometric emblem related to the triskelion, symbolizing cyclical motion, seasons, or cosmic harmony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetraskelion designates a figure consisting of four stylized human arms or legs (or bent lines) radiating from a center."*
+> - 📜 **Heinrich Schliemann (*Troja: Results of the Latest Researches and Discoveries*):** *"The curved arms of the ceramic **tetraskelion** indicate rotational movement, much like the triskelion of Sicily."*
+> - 📜 **Arthur Evans (*Scripta Minoa*):** *"A four-legged **tetraskelion** engraved upon a steatite sealstone represents an archaic solar hieroglyph."*
+> - 📜 **Percy Gardner (*A Catalogue of Greek Coins in the British Museum*):** *"The electrum stater of Cyzicus displays a tuna fish encircled by a deeply incised four-armed **tetraskelion**."*

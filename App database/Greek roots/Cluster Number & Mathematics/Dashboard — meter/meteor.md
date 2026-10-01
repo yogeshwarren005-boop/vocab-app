@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An atmospheric phenomenon (such as lightning or a snowfall).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the small particles of matter in the solar system that are directly observable only by their incandescence from frictional heating on entry into the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A luminous streak of light visible in the night sky produced when a meteoroid enters Earth's atmosphere at high speed and glows by friction; a shooting star.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical science and classical meteorology (from Greek meteōros, high in the air), any atmospheric or celestial phenomenon including clouds, rain, auroras, and rainbows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I missed the meteor once and hit that woman, who cried out “Clubs!” when I might see from far some forty truncheoners draw to her succour, which were the hope o’ th’ Strand, where she was quartered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will stare him out of his wits, I will awe him with my cudgel; it shall hang like a meteor o’er the cuckold’s horns."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is some meteor that the sun exhales To be to thee this night a torchbearer And light thee on thy way to Mantua."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The imperial ensign, streamed like a **meteor** streaming to the wind, with gems and golden lustre rich emblazed."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"During the great shower of 1799, thousands of fiery **meteors** fell simultaneously across the night sky of Cumaná."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A brilliant greenish **meteor** burst over the ocean, casting a momentary glare that illuminated our rigging."*

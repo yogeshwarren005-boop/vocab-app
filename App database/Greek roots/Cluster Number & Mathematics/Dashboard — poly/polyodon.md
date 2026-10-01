@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the polyodontidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the polyodontidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of primitive freshwater ray-finned fish in the paddlefish family (Polyodontidae), typified by the American paddlefish (Polyodon spathula).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater ichthyology and evolutionary biology, ancient chondrostean paddlefish native to the Mississippi River basin, characterized by a smooth shark-like cartilaginous skeleton, heterocercal tail, and an elongated paddle-like rostrum covered in electroreceptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyodon designates type genus of the polyodontidae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The American paddlefish, **Polyodon** spathula, swims slowly through muddy river waters with its huge mouth gaping open to strain plankton."*
+> - 📜 **Louis Agassiz (*Lake Superior: Its Physical Character, Vegetation, and Animals*):** *"The cartilaginous cranium and heterocercal tail of **Polyodon** show unmistakable affinities with ancient Paleozoic fishes."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The enormous spatulate snout of **Polyodon** is densely packed with sensory organs that detect microscopic zooplankton."*

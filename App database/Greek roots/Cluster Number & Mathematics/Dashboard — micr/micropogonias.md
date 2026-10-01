@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Croakers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Croakers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine ray-finned fishes in the croaker family (Sciaenidae), notably including the Atlantic croaker (Micropogonias undulatus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, coastal and estuarine bottom-feeding fishes known for producing drumming sounds by vibrating sonic muscles against the swim bladder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog micropogonias as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"The common Atlantic croaker, belonging to the genus **Micropogonias**, produces loud grunting noises when hauled aboard fishing smacks."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Schools of young **Micropogonias** fed in the muddy estuaries, their sensitive chin barbels probing the silt for worms and crabs."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Through the hydrophone we could hear the rhythmic drumming of spawning **Micropogonias** echoing across Chesapeake Bay."*

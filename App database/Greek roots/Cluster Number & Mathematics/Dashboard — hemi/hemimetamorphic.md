@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing or characterized by partial or incomplete metamorphosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and developmental biology, describing organisms that transform gradually between larval and mature forms without radical tissue histolysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetamorphic designates (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult."*
+> - 📜 **Ray Lankester (*Comparative Embryology*):** *"The **hemimetamorphic** nature of primitive arthropods reflects a stepwise addition of bodily segments across life."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In **hemimetamorphic** development, the organ systems of the nymph pass continuously into those of the adult."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"Direct ontogenetic lines frequently preserve **hemimetamorphic** stages before evolving extreme larval adaptations."*

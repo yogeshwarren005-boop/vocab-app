@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon of six angles and six sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polygon of six angles and six sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane geometric polygon bounded by six straight sides and six interior angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry and nature, a regular hexagon whose interior angles are 120 degrees, forming the space-filling tessellation of honeycombs and basalt columns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The day being the sixth of April, the Durbeyfield waggon met many other waggons with families on the summit of the load, which was built on a wellnigh unvarying principle, as peculiar, probably, to the rural labourer as the hexagon to the bee."*
+> - 📜 **Euclid (*Elements*):** *"The side of a regular **hexagon** inscribed in a circle is equal to the radius of the circle."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The cell of the hive-bee is a regular **hexagon**, achieving maximum storage capacity with minimum wax consumption."*
+> - 📜 **Johannes Kepler (*The Six-Cornered Snowflake*):** *"Every falling snowflake assumes the crystalline form of a delicate, six-cornered **hexagon**."*

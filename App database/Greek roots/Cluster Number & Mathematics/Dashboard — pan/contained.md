@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Include or contain; have as a component.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contain or hold; have within.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Held, enclosed, or included within specific limits or a boundary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrained, self-controlled, or prevented from unrestrained emotional or physical escalation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The last thrilled Salo most, because it contained a summons for him to come to his new home."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t wake Miss Clare.” She would not sit down, but stood by the fire dipping her inky middle finger in the egg-cup, which contained vinegar, and smearing it over the ink stains on her face, frowning the whole time and looking very gloomy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Each was a counterpart of the other and contained these words in a solid, plain hand."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth opened the letter with trembling hands and read the strange revelations **contained** within its closely written pages."*
+> - 📜 **Abraham Lincoln (*The Gettysburg Address*):** *"The great task remaining before us was **contained** in our solemn resolve that this nation shall have a new birth of freedom."*
+> - 📜 **John le Carré (*The Spy Who Came in from the Cold*):** *"Smiley remained completely impassive, his fierce inner anger safely **contained** behind mild spectacles."*

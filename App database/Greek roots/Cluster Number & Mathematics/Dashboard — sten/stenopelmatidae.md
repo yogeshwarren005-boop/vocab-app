@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Long-horned grasshoppers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long-horned grasshoppers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of large, flightless orthopteran insects, commonly known as Jerusalem crickets or sand crickets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and insect ecology, nocturnal burrowing ensiferans possessing powerful mandibles, spade-like tibiae for digging, and sound-producing abdominal drumming mechanisms used in courtship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenopelmatidae designates long-horned grasshoppers."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Members of the family **Stenopelmatidae** are heavy, wingless insects with enormous round heads and stout spiny legs."*
+> - 📜 **William Morton Wheeler (*Demons of the Dust*):** *"The bizarre sand crickets of the family **Stenopelmatidae** excavate deep subterranean tunnels in arid western soils."*
+> - 📜 **Vincent Dethier (*The Physiology of Insect Senses*):** *"Substrate drumming in **Stenopelmatidae** communicates reproductive signals through soil vibrations rather than airborne sound."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dactyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital condition characterized by the presence of fewer than the normal number of fingers or toes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and teratology, a limb malformation often associated with ectrodactyly or complex hereditary genetic syndromes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligodactyly designates a term designating an entity, condition, or phenomenon derived from greek dactyl."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Physical examination of the newborn revealed isolated **oligodactyly** affecting the right hand, with complete absence of the index ray."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Hereditary variations in digit number can manifest either as polydactyly or as congenital **oligodactyly** across mammalian lineages."*
+> - 📜 **Siddhartha Mukherjee (*The Gene: An Intimate History*):** *"Mutations in sonic hedgehog signaling during embryonic limb-bud development can induce severe **oligodactyly**."*

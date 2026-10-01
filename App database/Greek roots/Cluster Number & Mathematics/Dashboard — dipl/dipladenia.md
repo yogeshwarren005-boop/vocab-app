@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical south american tuberous perennial woody vines with large racemose flowers and milky sap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical south american tuberous perennial woody vines with large racemose flowers and milky sap.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical American woody climbing vines (now often included in Mandevilla, family Apocynaceae) cultivated for showy trumpet-shaped flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and horticulture, flowering evergreen climbers characterized by two conspicuous gland-like nectaries at the base of the ovary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dipladenia designates genus of tropical south american tuberous perennial woody vines with large racemose flowers and milky sap."*
+> - 📜 **Joseph Dalton Hooker (*Curtis's Botanical Magazine*):** *"The conservatory was adorned by magnificent specimens of **Dipladenia** bearing large rose-colored salver-shaped blossoms."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The botanical name **Dipladenia** refers specifically to the two prominent glandular bodies located upon the pistil."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In the family Apocynaceae, the climbing genus **Dipladenia** is celebrated for its brilliant, nectar-bearing floral corollas."*

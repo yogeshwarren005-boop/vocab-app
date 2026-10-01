@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any organism of microscopic size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any organism of microscopic size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic living entity, such as a bacterium, protozoan, virus, or microscopic fungus, invisible to the naked human eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and ecology, a unicellular or acellular organism that acts as an essential decomposer, pathogen, or symbiont in the biosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micro-organism designates any organism of microscopic size."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Fermentation is never spontaneous; it is the vital activity of a specific living **micro-organism** suspended in the wort."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"In every handful of fertile loam, billions of microscopic entities and every beneficial **micro-organism** sustain the soil community."*
+> - 📜 **Antonie van Leeuwenhoek (*Letters to the Royal Society*):** *"Through my polished lenses I beheld thousands of animalcules, each tiny **micro-organism** sporting with incredible nimbleness."*

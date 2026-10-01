@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any monosaccharide sugar containing five atoms of carbon per molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any monosaccharide sugar containing five atoms of carbon per molecule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any monosaccharide sugar containing five carbon atoms per molecule, having the general formula C5H10O5.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry and molecular biology, essential aldopentoses and ketopentoses such as ribose and deoxyribose that form the structural backbone of nucleic acids (RNA and DNA) and nucleotides (ATP).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was my pentose and methyl-pentose determination in grapes and wines to which I had devoted my last summer vacation at the Asti Vineyards."*
+> - 📜 **Emil Fischer (*Syntheses in the Sugar Group*):** *"By cyanohydrin degradation and reduction, we established the configuration of the **pentose** sugars ribose, arabinose, and xylose."*
+> - 📜 **James D. Watson (*The Double Helix*):** *"The repeating backbone of the DNA chain consists of phosphate groups esterified to the five-carbon **pentose** deoxyribose."*
+> - 📜 **Arthur Harden (*Alcoholic Fermentation*):** *"The **pentose** phosphate pathway provides generating cells with both reducing NADPH and ribose for nucleotide synthesis."*

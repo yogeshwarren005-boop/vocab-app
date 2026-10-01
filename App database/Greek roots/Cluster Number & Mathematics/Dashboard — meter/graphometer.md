@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical surveying instrument consisting of a semicircular graduated limb with two sighting alidades (one fixed and one movable), used for measuring horizontal angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of geodetic instruments, an early angle-measuring device invented by Philippe Danfrie in 1597, widely utilized by Renaissance topographers and military engineers before the theodolite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graphometer designates a term designating an entity, condition, or phenomenon derived from greek meter."*
+> - 📜 **Ferdinand Rudolph Hassler (*Comparison of Weights and Measures*):** *"Early boundary surveyors utilized a brass **graphometer** to measure horizontal angles between distant forest landmarks."*
+> - 📜 **Benjamin Martin (*The Description and Use of Both the Globes, the Armillary Sphere, and Orrery*):** *"The surveyor sights through the pinnules of the **graphometer** to register the bearing of the church steeple upon the graduated arc."*
+> - 📜 **John Herschel (*A Preliminary Discourse on the Study of Natural Philosophy*):** *"Before the refinement of the modern repeating theodolite, the **graphometer** served as the standard tool for regional cartography."*

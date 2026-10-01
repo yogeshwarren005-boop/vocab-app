@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myri.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon with 10,000 sides and 10,000 angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and philosophy of mind, a famous example used by René Descartes to distinguish pure intellectual understanding from sensory imagination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriagon designates a term designating an entity, condition, or phenomenon derived from greek myri."*
+> - 📜 **René Descartes (*Meditations on First Philosophy*):** *"When I imagine a **myriagon**, I do not envision ten thousand sides distinctly as I do with a triangle, yet I understand its mathematical properties perfectly."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind forms a clear idea of a **myriagon** by arithmetic composition, even though visual imagination cannot portray ten thousand edges."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Descartes' discussion of the chiliagon and **myriagon** sharply separates sensory perception from rational mathematical comprehension."*

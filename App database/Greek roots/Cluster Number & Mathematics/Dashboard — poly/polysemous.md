@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having multiple meanings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having multiple meanings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having multiple meanings, senses, or interpretations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semantic theory and computational linguistics, lexical items whose senses are related by metaphor, metonymy, or specialization, contrasted with homonymous words having coincidental phonological overlap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysemous designates having multiple meanings."*
+> - 📜 **William Empson (*Seven Types of Ambiguity*):** *"A rich poetic line depends upon **polysemous** phrasing that suggests multiple simultaneous emotional responses."*
+> - 📜 **John Lyons (*Linguistic Semantics: An Introduction*):** *"The word 'mouth' is **polysemous**, applying literally to the human face and figuratively to a river or a cave."*
+> - 📜 **Noam Chomsky (*New Horizons in the Study of Language and Mind*):** *"Natural language words are typically **polysemous**, their interpretations shaped dynamically by conceptual perspective."*

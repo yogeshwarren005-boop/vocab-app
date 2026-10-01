@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with complete systems rather than with individual parts; especially : concerned with the whole person, animal, or organism as opposed to a specific part or aspect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to, or based on the theory of holism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the belief that the parts of any whole are intimately interconnected and explicable only by reference to the whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and social theory, considering the entire person (physical, mental, and social factors) rather than just isolated symptoms or mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holistic designates relating to or concerned with complete systems rather than with individual parts; especially : concerned with the whole person, animal, or organism as opposed to a specific part or aspect."*
+> - 📜 **Jan Christiaan Smuts (*Holism and Evolution*):** *"A **holistic** view of evolution reveals that the whole possesses creative powers and emergent properties absent from its parts."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The organism interacts with its environment as an integrated, **holistic** unity upon which natural selection acts directly."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"Individuation requires a **holistic** integration of conscious and unconscious contents into the transcendent Self."*

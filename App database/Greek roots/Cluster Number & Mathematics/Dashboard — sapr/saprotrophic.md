@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of rotten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of rotten.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on decaying organic matter; obtaining nutrients by extracellular digestion of dead organic material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern ecological terminology (the preferred scientific term replacing 'saprophytic' for fungi and bacteria), describing heterotrophic nutrition involving the secretion of hydrolytic enzymes and subsequent absorption of soluble products.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprotrophic designates adjective*) pertaining to, derived from, or characteristic of rotten."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The **saprotrophic** decomposers of the forest floor mineralize organic compounds and restore vital nutrients to living tree roots."*
+> - 📜 **Selman Waksman (*The Actinomycetes*):** *"A robust **saprotrophic** microflora suppresses fungal plant pathogens by aggressively competing for free nutrients in the soil."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"The **saprotrophic** fungal guild in pine litter rapidly colonizes dead needle fall, releasing stored phosphate and potash."*

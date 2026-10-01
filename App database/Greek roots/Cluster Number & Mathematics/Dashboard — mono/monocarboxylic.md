@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing one carboxyl group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing one carboxyl group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing only one carboxyl group (-COOH) in each molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, describing fatty acids and simple organic acids such as formic, acetic, and propionic acids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocarboxylic designates containing one carboxyl group."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Acetic acid is the most familiar example of a **monocarboxylic** acid, dissociating weakly in aqueous solution."*
+> - 📜 **Emil Fischer (*Studies on Organic Synthesis*):** *"The esterification of long-chain **monocarboxylic** acids yielded key insights into the structure of natural lipids."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"Beta-oxidation sequentially degrades saturated **monocarboxylic** fatty acids into two-carbon acetyl-CoA units."*

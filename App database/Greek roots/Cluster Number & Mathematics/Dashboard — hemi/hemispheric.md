@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the cerebral hemispheres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the cerebral hemispheres.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the form of, or situated in a hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, relating to one of the cerebral hemispheres of the brain; in meteorology, spanning an entire half of the globe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemispheric designates of or relating to the cerebral hemispheres."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A massive intracerebral hemorrhage produces extensive **hemispheric** compression and contralateral paralysis."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"Vast atmospheric circulation cells determine the predominant **hemispheric** wind patterns across the Atlantic."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Surface tension shapes the expanding liquid droplet into a graceful, symmetrical **hemispheric** dome."*

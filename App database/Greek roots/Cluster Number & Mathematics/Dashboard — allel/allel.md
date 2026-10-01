@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek allel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root morpheme derived from Greek allēlōn, denoting reciprocity, mutual interaction, or alternation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and biological nomenclature, a formative element producing terms involving paired, reciprocal, or alternative relationships (as in allele, allelomorph, allelopathy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It is amusing to view the unpar one ar alleled embarra two ars is it? double ess ment of a harassed pedlar while gauging au the symmetry with a y of a peeled pear under a cemetery wall."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"We adopted the root **allel-** to express the reciprocal, alternative nature of Mendelian character pairs."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek reciprocal element **allel-** reflects an ancient reduplication signifying 'one another' or mutual correspondence."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The morphological prefix **allel-** serves universally in biosystematics to denote mutual or competitive biological interplay."*

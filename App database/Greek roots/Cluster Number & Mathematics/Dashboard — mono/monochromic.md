@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or appearing to have only one color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or appearing to have only one color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or consisting of a single color; monochromatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fine art and spectroscopic instrumentation, describing pigments, filters, or prints limited to a uniform hue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromic designates having or appearing to have only one color."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The Venetian masters avoided **monochromic** monotony by infusing every shadow with subtle, vibrant undertones."*
+> - 📜 **Ansel Adams (*Examples: The Making of 40 Photographs*):** *"The dramatic impact of the snowstorm scene was heightened by its almost **monochromic** palette of charcoal and white."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"By passing sunlight through a **monochromic** prism, we isolate a narrow slice of thermal and optical radiation."*

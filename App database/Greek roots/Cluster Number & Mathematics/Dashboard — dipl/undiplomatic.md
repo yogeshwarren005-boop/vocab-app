@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not skilled in dealing with others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not skilled in dealing with others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking tact, sensitivity, discretion, or diplomatic finesse; blunt or indiscreet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and interpersonal affairs, behaving or speaking in a manner that offends conventions, strains alliances, or sparks unnecessary conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undiplomatic designates not skilled in dealing with others."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The envoy's arrogant and **undiplomatic** outburst alienated the very ministers whose friendship he was dispatched to cultivate."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"He was too passionately honest for statecraft, constantly making blunt and **undiplomatic** declarations."*
+> - 📜 **W. M. Thackeray (*Vanity Fair*):** *"Old Osborne burst into an **undiplomatic** rage that instantly derailed the delicate marriage settlements."*

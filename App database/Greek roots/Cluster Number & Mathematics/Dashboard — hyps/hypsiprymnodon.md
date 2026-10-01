@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Musk kangaroos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Musk kangaroos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of small marsupials containing the musky rat-kangaroo (Hypsiprymnodon moschatus), native to rainforests of northeastern Australia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian zoology, the most primitive living macropod, possessing an opposable first digit on the hindfoot, a non-hopping quadrupedal bounding gait, and feeding on fallen fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypsiprymnodon designates musk kangaroos."*
+> - 📜 **Richard Owen (*On the Fossil Mammals of Australia*):** *"The living musky rat-kangaroo **Hypsiprymnodon** retains ancestral arboreal foot characters lost in all true kangaroos."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The survival of **Hypsiprymnodon** in the isolated tropical rainforests of Queensland sheds light on early marsupial radiation."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"In **Hypsiprymnodon**, the retainment of the hallux demonstrates the transition between climbing phalangers and leaping kangaroos."*

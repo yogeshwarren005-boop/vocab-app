@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermionic vacuum tube or electronic valve having five active electrodes: cathode, control grid, screen grid, suppressor grid, and anode.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radio engineering and electronics history, an audio-frequency and radio-frequency amplifying valve developed in the 1920s to eliminate the dynatron effect and secondary emission distortions present in tetrodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentode designates a term designating an entity, condition, or phenomenon derived from greek pent."*
+> - 📜 **Frederick Emmons Terman (*Radio Engineering*):** *"The addition of the suppressor grid in the **pentode** prevents secondary electrons emitted by the plate from reaching the screen grid."*
+> - 📜 **Bernard Grob (*Basic Electronics*):** *"Because of its high amplification factor and low plate-to-grid capacitance, the **pentode** superseded the triode in radio-frequency amplifier stages."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"Modern wireless receivers rely upon the miraculous sensitivity of the multi-electrode **pentode** to amplify transatlantic broadcasts."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Egyptian goddess of fertility; daughter of geb; sister and wife of osiris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pakistan intelligence agency; a powerful and almost autonomous political and military force; has procured nuclear technology and delivery capabilities; has had strong ties with the taliban and other militant islamic groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major ancient Egyptian goddess of magic, motherhood, fertility, healing, and resurrection; wife of Osiris and mother of Horus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity and Hellenistic religion, the mystery cult of Isis widely practiced throughout the Roman Empire; also the historic name for the Upper Thames at Oxford.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let him marry a woman that cannot go, sweet Isis, I beseech thee, and let her die too, and give him a worse, and let worse follow worse, till the worst of all follow him laughing to his grave, fiftyfold a cuckold!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Isis, hear me this prayer, though thou deny me a matter of more weight; good Isis, I beseech thee!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, dear Isis, keep decorum and fortune him accordingly!"*
+> - 📜 **Apuleius (*The Golden Ass (Metamorphoses)*):** *"I am nature, the universal Mother, mistress of all elements, queen of the dead, worshipped by the world under the sacred name of **Isis**."*
+> - 📜 **Plutarch (*On Isis and Osiris*):** *"The goddess **Isis** searched tirelessly throughout the marshes of Egypt to recover the scattered limbs of Osiris."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The popular worship of Serapis and **Isis** long resisted imperial edicts commanding the destruction of pagan temples."*

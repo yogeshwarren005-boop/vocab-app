@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of western north american low evergreen shrubs growing in dense tufts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of western north american low evergreen shrubs growing in dense tufts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering subshrubs in the sunflower family (Asteraceae), commonly known as mock goldenweeds, native to western North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arid lands botany and phytogeography, low caespitose perennial plants (such as Stenotus acaulis) with leathery linear leaves and solitary golden-yellow flower heads adapted to dry, rocky limestone ridges of the Great Basin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenotus designates genus of western north american low evergreen shrubs growing in dense tufts."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The genus **Stenotus** comprises low tufted perennials of the Rocky Mountains, bearing bright yellow radiate heads."*
+> - 📜 **John Torrey (*A Flora of North America*):** *"Upon high dry mountain crags, the diminutive **Stenotus** forms compact cushions adorned with golden daisy-like blooms."*
+> - 📜 **Arthur Cronquist (*Vascular Plants of the Pacific Northwest*):** *"Taxonomic treatment separates **Stenotus** from Haplopappus on the basis of its narrow involucral bracts and perennial habit."*

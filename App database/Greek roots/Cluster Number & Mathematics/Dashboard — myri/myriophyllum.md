@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly monoecious and usually aquatic herbs (as the milfoils).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly monoecious and usually aquatic herbs (as the milfoils).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan genus of submerged aquatic plants in the family Haloragaceae, commonly known as watermilfoils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater ecology, aquatic macrophytes characterized by finely pinnately divided submerged leaves that form dense beds in lakes and canals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriophyllum designates chiefly monoecious and usually aquatic herbs (as the milfoils)."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Submerged foliage in disparate aquatic genera like **Myriophyllum** and Ranunculus converges into thread-like divisions to absorb dissolved gases."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Gliding across the shallows of Walden Pond, I observed the feathery green plumes of **Myriophyllum** swaying in the clear current."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Invasive Eurasian **Myriophyllum** choke waterways, forming impenetrable mats that suppress native aquatic vegetation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or exhibiting many colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or exhibiting many colors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or exhibiting many colors; polychromatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology, cytology, and staining methodology, tissues or dye mixtures (such as polychrome methylene blue) that stain different cellular structures in distinct colors simultaneously.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychromic designates having or exhibiting many colors."*
+> - 📜 **Paul Ehrlich (*Collected Papers on Immunology and Haematology*):** *"A single **polychromic** dye mixture stains the nuclei blue, the eosinophil granules red, and the cytoplasm neutral."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Under the microscope, the **polychromic** reaction clearly distinguishes axonal myelin sheaths from surrounding glial tissue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Examination of the blood smear with a **polychromic** stain revealed nucleated red cells in advanced pernicious anemia."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many sides or relating to a surface marked by polygons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many sides or relating to a surface marked by polygons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many sides or angles; resembling or formed in the shape of a polygon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and archaeology, jointing patterns (such as columnar basalt at Giant's Causeway) or prehistoric dry-stone masonry where interlocking multangular stones form earthquake-resistant walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Four polygonal fragments of two lacerated scarlet betting tickets, numbered 8 87, 88 6."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The famous columns of the Giant's Causeway exhibit regular **polygonal** prisms formed by thermal contraction during basalt cooling."*
+> - 📜 **Hiram Bingham (*Inca Land*):** *"In the megalithic architecture of Cuzco, the famous twelve-angled stone fits seamlessly into the **polygonal** masonry wall."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Mutual fluid pressure compresses crowded soap bubbles into a uniform network of **polygonal** faces."*

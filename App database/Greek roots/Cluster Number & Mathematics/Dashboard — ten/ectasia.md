@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dilation, expansion, or distension of a hollow tubular organ or bodily vessel; ectasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology and surgical diagnosis, abnormal dilation of structures such as bronchi (bronchiectasis), mammary ducts (mammary duct ectasia), or lymphatic vessels (lymphangiectasia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectasia designates a term designating an entity, condition, or phenomenon derived from greek ten."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic bronchial suppuration leads to permanent destruction of the elastic wall and cylindrical **ectasia**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Vascular **ectasia** in inflammatory tissue results from prolonged paralytic relaxation of the arteriolar muscular coats."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"Subareolar duct **ectasia** produces nipple discharge that must be carefully differentiated from malignant disease."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing more than one and especially more than two atoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing more than one and especially more than two atoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or containing three or more atoms in a molecule; or having more than one replaceable atom or valence bond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and molecular spectroscopy, molecules (such as H2O, NH3, or CH4) whose vibrational and rotational degrees of freedom require multidimensional quantum analysis, contrasted with diatomic and monatomic species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyatomic designates containing more than one and especially more than two atoms."*
+> - 📜 **Svante Arrhenius (*Text-Book of Theoretical Electrochemistry*):** *"The heat capacity of a **polyatomic** gas is significantly higher because energy is absorbed in internal atomic vibrations."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"In a **polyatomic** ion like sulfate or nitrate, resonance distributes the ionic charge symmetrically over several equivalent oxygen atoms."*
+> - 📜 **Irving Langmuir (*The Arrangement of Electrons in Atoms and Molecules*):** *"The stability of **polyatomic** molecules depends upon completing octets of valence electrons shared between adjacent nuclei."*

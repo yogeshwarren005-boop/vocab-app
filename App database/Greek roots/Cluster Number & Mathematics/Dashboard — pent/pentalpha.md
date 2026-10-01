@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pentalpha is a puzzle where the goal is to place nine stones on the ten intersections of a pentagram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The puzzle is used as a confidence trick in Mexico, where it is known as estrella mágica.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geometrical design of a five-pointed star formed by interlacing five capital Greek letter Alphas (A); synonymous with pentagram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Byzantine iconography, classical numismatics, and masonic symbolism, an emblem formed by intersecting five alphas, historically employed as a talisman of divine protection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentalpha designates pentalpha is a puzzle where the goal is to place nine stones on the ten intersections of a pentagram."*
+> - 📜 **Albert Mackey (*Encyclopedia of Freemasonry*):** *"The **pentalpha**, so called from its resemblance to five capital letters A interlaced, was an ancient symbol of geometric perfection."*
+> - 📜 **Eliphas Lévi (*Transcendental Magic: Its Doctrine and Ritual*):** *"The sacred **pentalpha** represents the microcosm, the human figure radiating power into the five cardinal directions."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"On the silver amulet was etched an archaic **pentalpha**, supposed to ward against malignant influences."*

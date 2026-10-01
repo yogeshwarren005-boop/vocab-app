@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek abac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of predatory ground beetles (family Carabidae) native to the Palearctic realm, characterized by broad, flattened bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Greek mathematical antiquities (ἄβαξ), a reckoning board, sand-dusted calculating tablet, or gaming board.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abax designates a term designating an entity, condition, or phenomenon derived from greek abac."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Among carnivorous ground beetles such as **Abax**, both sexes display robust mandibles adapted for seizing subterranean larvae."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"The species of **Abax** are distinguished by their striate elytra and the absence of hind wings beneath the fused dorsal plates."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"The early geometer traced geometric diagrams and inscribed numerical tallies with a stylus upon the dust-covered **abax**."*

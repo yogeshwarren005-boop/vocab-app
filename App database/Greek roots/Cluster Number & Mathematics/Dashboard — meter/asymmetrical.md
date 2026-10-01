@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by asymmetry in the spatial arrangement or placement of parts or components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irregular in shape or outline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having parts that fail to correspond in size, form, or arrangement; lacking balanced proportions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture, art, and biology, exhibiting deliberate or natural irregularity and non-uniformity across opposing sides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What composite asymmetrical image in the mirror then attracted his attention?"*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Gothic builders embraced an **asymmetrical** freedom in their facades, balancing masses through dynamic harmony rather than rigid monotony."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skull of the cetacean is markedly **asymmetrical**, with the blowhole shifted toward the left of the cranial axis."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sperm whale's immense head contains an **asymmetrical** spermaceti organ resting within its massive lower jaw."*

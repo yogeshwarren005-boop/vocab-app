@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial ferns in the marsh fern family (Thelypteridaceae), commonly known as false beech ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, robust ferns with large, bipinnate-pinnatifid fronds and hairy costae native to tropical and subtropical Asia, Africa, and Australia (e.g. Macrothelypteris torresiana, widely naturalized).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrothelypteris designates medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas."*
+> - 📜 **Joseph Dalton Hooker (*Flora of the British West Indies*):** *"Naturalized along tropical riverbanks, **Macrothelypteris** displays immense bipinnate fronds covered with soft white hairs."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The damp forest floor was carpeted by handsome specimens of **Macrothelypteris** waving delicate, pale-green fronds."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In the thelypterid alliance, the large creeping rhizome and hairy indusia of **Macrothelypteris** distinguish the genus."*

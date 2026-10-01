@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: few.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: few.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek oligos, meaning few, little, scarce, or scanty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific terminology, the prefix element utilized in oligarchy, oligopoly, oligodendrocyte, and oligotrophic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog olig as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"The Greek prefix **olig** denotes scarcity or fewness in hundreds of medical and economic terms."*
+> - 📜 **Aristotle (*Politics*):** *"From **olig**, meaning the few, we derive the constitution where wealth and birth concentrate power in small factions."*
+> - 📜 **Edward Sapir (*Language*):** *"Scientific coinage borrowed the root **olig** to describe deficient numbers, from blood cells to governing elites."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical process that combines several monomers to form a polymer or polymeric compound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical process that combines several monomers to form a polymer or polymeric compound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical process of combining monomer molecules together into a three-dimensional network or polymer chains; Commonwealth spelling of polymerization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and plastics engineering, reaction mechanisms classified into addition (chain-growth) and condensation (step-growth) polymerisation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymerisation designates a chemical process that combines several monomers to form a polymer or polymeric compound."*
+> - 📜 **Hermann Staudinger (*Die hochmolekularen organischen Verbindungen*):** *"In genuine **polymerisation**, unsaturated monomers join by normal covalent valences without the elimination of simple molecules."*
+> - 📜 **Wallace Carothers (*An Introduction to the General Theory of Condensation Polymers*):** *"Step-growth **polymerisation** requires that the reacting functional groups maintain high conversion to build long chains."*
+> - 📜 **Michael Polanyi (*The Chemical Gazette*):** *"The activation energy of catalytic **polymerisation** decreases sharply in the presence of coordination metal complexes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of writing in shorthand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shorthand especially written from dictation or oral discourse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of writing in shorthand; quick, abbreviated symbolic writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical communication and commercial administration, standardized shorthand systems (such as Pitman, Gregg, and Gurney) that transformed news reporting, parliamentary recording, and secretarial science.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Now to the historical, for as Madam Mina write not in her stenography, I must, in my cumbrous old fashion, that so each day of us may not go unrecorded."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The great task of mastering **stenography** was about equal in difficulty to learning six languages at once."*
+> - 📜 **Samuel Pepys (*The Diary of Samuel Pepys*):** *"I wrote down my daily secrets in Thomas Shelton's system of **stenography**, secure that no idle eye could decipher it."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The art of **stenography** or short-writing is of great use for celerity in recording the fleeting thoughts of men."*

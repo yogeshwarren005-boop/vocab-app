@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pasta dish with cream sauce and mushrooms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pasta dish with cream sauce and mushrooms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dish of sliced poultry or seafood served in a rich cream, cheese, and sherry sauce over pasta, usually topped with breadcrumbs and baked; named after Italian soprano Luisa Tetrazzini.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary history, an American pasta casserole created in San Francisco around 1908 in honor of prima donna coloratura soprano Luisa Tetrazzini (1871–1940), typically featuring chicken, mushrooms, and spaghetti.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrazzini designates a pasta dish with cream sauce and mushrooms."*
+> - 📜 **Luisa Tetrazzini (*My Life of Song*):** *"The chef in San Francisco named his delectable creation, Chicken **Tetrazzini**, in tribute to my performance of Lucia di Lammermoor."*
+> - 📜 **H. L. Mencken (*Prejudices: Sixth Series*):** *"The grand hotel served an opulent turkey **tetrazzini** baked with mushrooms, heavy cream, and imported parmesan."*
+> - 📜 **James Beard (*American Cookery*):** *"A properly prepared chicken **tetrazzini** balances rich sherry sauce and tender poultry over delicate vermicelli under a crisp gratin crust."*

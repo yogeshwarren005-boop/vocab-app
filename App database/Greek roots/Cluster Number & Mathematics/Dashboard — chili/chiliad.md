@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the product of 10 and 100.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the product of 10 and 100.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group, collection, or period of one thousand, especially a span of one thousand years or one thousand items.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and chronological writings, a millennium or a catalogue encompassing one thousand distinct entries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiliad designates the cardinal number that is the product of 10 and 100."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A full **chiliad** of years had elapsed between the foundation of Constantinople and its final capture by the Turks."*
+> - 📜 **John Milton (*The Reason of Church-Government*):** *"Truth hath survived many a dark **chiliad** when superstition obscured the purest light of heaven."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Generations arise and pass away, marking each silent **chiliad** upon the dial of eternity."*

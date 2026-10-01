@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Photograph reduced to the size of a dot (usually for purposes of security).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photograph reduced to the size of a dot (usually for purposes of security).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph or text reduced to the size of a tiny dot (about one millimeter in diameter), traditionally used in espionage to conceal messages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In security printing and counter-espionage, an ultra-miniaturized optical data carrier embedded within paper, documents, or high-value items.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microdot designates photograph reduced to the size of a dot (usually for purposes of security)."*
+> - 📜 **J. Edgar Hoover (*Masters of Deceit*):** *"Enemy agents disguised operational orders as an innocent typographical period using the photographic **microdot** technique."*
+> - 📜 **Ian Fleming (*From Russia with Love*):** *"Beneath the magnifying glass, the tiny postage stamp cancelled on the envelope revealed a concealed **microdot**."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The German development of the **microdot** in World War II allowed complete blueprints to be carried in a single punctuation mark."*

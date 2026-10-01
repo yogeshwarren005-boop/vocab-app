@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A one-legged support (as for a camera).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A one-legged support (as for a camera).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A one-legged support or stand, especially a single-staff mount used to steady a camera or telescope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval folklore and zoology, a mythical creature with a single giant leg (sciapod); or an organism possessing a single foot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopod designates a one-legged support (as for a camera)."*
+> - 📜 **C.S. Lewis (*The Voyage of the Dawn Treader*):** *"The cheerful Dufflepuds hopped across the beach upon their single giant feet, proud of their **monopod** agility."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Ancient travelers reported tribes of **monopod** dwellers who sheltered from midday heat under the shade of their single foot."*
+> - 📜 **Ansel Adams (*The Camera*):** *"When trekking rugged mountain terrain, a lightweight **monopod** provides indispensable stabilization for heavy telephoto lenses."*

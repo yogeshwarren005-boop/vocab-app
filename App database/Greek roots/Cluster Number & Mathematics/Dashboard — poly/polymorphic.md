@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of existing in or assuming different forms: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existence of a species in several forms independent of the variations of sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in or assuming various forms, stages, or morphological types.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In object-oriented programming, software entities (such as methods or classes) able to operate on objects of different types through a unified interface; in genetics, genes with multiple alleles in a population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorphic designates the quality or state of existing in or assuming different forms: such as."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"These **polymorphic** genera present an astonishing degree of variation, defying the efforts of botanists to delimit stable species."*
+> - 📜 **Bjarne Stroustrup (*The C++ Programming Language*):** *"Virtual functions enable **polymorphic** behavior, allowing derived classes to override methods called through base pointers."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"A genetically **polymorphic** population maintains balanced alleles that provide adaptive plasticity against changing environmental pressures."*

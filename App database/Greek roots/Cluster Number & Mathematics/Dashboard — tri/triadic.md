@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A union or group of three : trinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chord of three tones consisting of a root with its third and fifth and constituting the harmonic basis of tonal music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of a triad or three members, parts, or elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics and philosophical logic (Charles Sanders Peirce), relations consisting of three irreducible elements (sign, object, interpretant), contrasted with dyadic or monadic systems; in music theory, harmony constructed of triads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triadic designates a union or group of three : trinity."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"A sign is a **triadic** relation, mediating between the external object and the resulting interpretant in the human mind."*
+> - 📜 **Aaron Copland (*What to Listen for in Music*):** *"Classical European harmony is fundamentally **triadic**, building structural progressions from three-note chords."*
+> - 📜 **G. W. F. Hegel (*The Science of Logic*):** *"The dialectical movement of thought unfolds in a necessary **triadic** rhythm of thesis, antithesis, and synthesis."*

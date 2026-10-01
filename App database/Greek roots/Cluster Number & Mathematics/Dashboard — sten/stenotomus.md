@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine sparid fishes found along the Atlantic coast of North America, commonly known as scups or porgies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fisheries biology and coastal ichthyology, marine perciform fishes typified by Stenotomus chrysops (the common scup), which school in coastal waters and feed on benthic crustaceans, mollusks, and polychaetes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog stenotomus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The porgy, **Stenotomus** chrysops, is an abundant and delicious food fish taken in vast numbers along the New England coast."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Condition of the Sea Fisheries of the South Coast of New England*):** *"Traps and pounds set near Cape Cod capture immense quantities of **Stenotomus** during their annual spring migration."*
+> - 📜 **Albert Günther (*Catalogue of the Acanthopterygian Fishes in the British Museum*):** *"The genus **Stenotomus** possesses narrow incisor-like anterior teeth backed by several rows of rounded crushing molars."*

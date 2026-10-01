@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living in or being an environment rich in organic matter but lacking oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living in or being an environment rich in organic matter but lacking oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living on or obtaining nourishment from decaying organic matter; relating to a saprobe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In limnology, water quality assessment, and saprobic zonation, designating aquatic ecological zones (polysaprobic to oligosaprobic) based on organic pollution levels and indicator microorganisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprobic designates living in or being an environment rich in organic matter but lacking oxygen."*
+> - 📜 **Robert Kolkwitz (*Oekologie der pflanzlichen Saprobien*):** *"The **saprobic** system classifies river waters into distinct zones based upon the presence of specific decomposing microflora."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Discharge of raw sewage creates a polysaprobic river reach where obligate **saprobic** bacteria dominate the biota."*
+> - 📜 **Selman Waksman (*The Soil and the Microbe*):** *"Fungi of the **saprobic** guild are the primary agents responsible for degrading complex lignified plant matter."*

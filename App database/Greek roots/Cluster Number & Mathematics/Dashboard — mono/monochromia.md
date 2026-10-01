@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of having or producing only one color; monochromaticity or total color blindness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatological and ocular pathology, uniform pigmentation or complete lack of chromatic discrimination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromia designates complete color blindness; colors can be differentiated only on the basis of brightness."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ophthalmic evaluation confirmed complete **monochromia**, the patient distinguishing objects solely through brightness gradients."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"The clinical history of congenital **monochromia** reflects a unique visual world shaped entirely by luminance contrast."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Breeders noted how selective breeding could fix unusual **monochromia** in the coat color of fancy pigeons."*

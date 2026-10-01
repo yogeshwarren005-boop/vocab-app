@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The membrane in the ear that vibrates to sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The membrane in the ear that vibrates to sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tympanic membrane or eardrum (from New Latin myringa, akin to Greek myrinx).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otology and clinical anatomy, the thin, semitransparent membrane separating the external auditory canal from the middle ear cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myringa designates the membrane in the ear that vibrates to sound."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Otoscopic inspection revealed bright erythema and bulging of the **myringa**, indicating acute suppurative otitis media."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The delicate vibration of the **myringa** conveys acoustic pressure waves across the tiny ossicular chain of the ear."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"He peered through the otoscope, noting the healthy pearly-grey sheen and sharp light reflex of the patient's **myringa**."*

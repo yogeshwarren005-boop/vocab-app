@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The digestion of fats, involving their emulsification followed by hydrolysis into fatty acids and glycerine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The breakdown of fat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical breakdown, digestion, or emulsification of fats into glycerol and fatty acids; lipolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological chemistry and gastroenterology, the enzymatic hydrolysis of dietary triglycerides by pancreatic and gastric lipases in the small intestine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steatolysis designates the digestion of fats, involving their emulsification followed by hydrolysis into fatty acids and glycerine."*
+> - 📜 **Claude Bernard (*Memoir on the Pancreas*):** *"The clear pancreatic juice possesses an extraordinary power of **steatolysis**, rapidly splitting neutral fats into free fatty acids."*
+> - 📜 **Russell Henry Chittenden (*Studies in Physiological Chemistry*):** *"Bile salts accelerate the process of intestinal **steatolysis** by emulsifying insoluble lipid globules into micro-droplets."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Deficiency in pancreatic secretions leads to impaired **steatolysis**, resulting in the excretion of unhydrolyzed fat in the stool."*

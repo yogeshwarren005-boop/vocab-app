@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a cone especially in shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a cone especially in shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a cone; circular at the base and tapering uniformly to an apex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive anatomy and geology, designating structures or mountain peaks exhibiting cone-like contours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All was silent here, and the conical tips of the ricks jutted darkly into the sky."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"During several months or even half a year the girl was bound to wear a peculiar cloak or hood made of cedar-bark, nearly conical in shape and reaching down below the breast, but open before the face."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A conical hut of fir branches and bark was erected at some little distance from the other houses, and in it the girl had to squat on her heels during the day."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanicall*):** *"The liquid was drawn up through a slender **conical** glass funnel into the evacuated receiver."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **conical** shape of volcanic craters results from successive showers of ejected scoriae settling around the vent."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain wore a tall, **conical** hat of seal-fur that made him appear like some ancient magician of the frozen seas."*

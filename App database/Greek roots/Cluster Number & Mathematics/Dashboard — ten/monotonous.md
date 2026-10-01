@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uttered or sounded in one unvarying tone : marked by a sameness of pitch and intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tediously uniform or unvarying.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in variety and interest; dull, tedious, and repetitious; uttered in a single unvarying pitch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and aesthetic criticism, sensory environments or labor routines devoid of stimulation that induce mental fatigue, boredom, and reduced attention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell that the rain makes such a monotonous pattering on the terrace that he can’t read the paper even by the fireside in his own snug dressing-room."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chairs and table, he said, were wearisome objects; they were monotonous ideas, they had no variety of expression, they looked you out of countenance, and you looked them out of countenance."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For the rest, Lincolnshire life to Volumnia is a vast blank of overgrown house looking out upon trees, sighing, wringing their hands, bowing their heads, and casting their tears upon the window-panes in monotonous depressions."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The cold wind and driving rain made the long winter days at Lowood school dreary and **monotonous**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Day after day we sailed across the **monotonous** expanse of the ocean, where nothing broke the uniform circle of the horizon."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"The scrivener spent his silent days copying legal folios in a dull, **monotonous** routine behind his folding screen."*

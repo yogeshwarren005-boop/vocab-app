@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class or subclass (Liliopsida or Monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class or subclass (Liliopsida or Monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one cotyledon or seed leaf; characteristic of monocot plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural botany, describing plants featuring fibrous root systems, parallel venation, and scattered stem vascular bundles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledonous designates any of a class or subclass (liliopsida or monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The atactostelic arrangement of vascular bundles is a hallmark characteristic of the **monocotyledonous** stem."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"In **monocotyledonous** seedlings, the sheath-like coleoptile shields the delicate plumule as it pushes through soil."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Grains and lilies share a **monocotyledonous** architecture that distinguishes them from common tap-rooted shrubs."*

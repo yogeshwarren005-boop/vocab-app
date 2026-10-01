@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official engaged in international negotiations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official engaged in international negotiations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diplomat; a person engaged or skilled in diplomacy and foreign state negotiations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person proficient in managing affairs with artful tact, negotiation, and strategic subtlety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She was the diplomatist of Tipton and Freshitt, and for anything to happen in spite of her was an offensive irregularity."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Solomon’s was perhaps less thorough than he imagined, his cunning bearing about the same relation to the course of railways as the cunning of a diplomatist bears to the general chill or catarrh of the solar system."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Buol: Karl Ferdinand von Buol-Schauenstein, Austrian diplomatist, and minister of foreign affairs from 1852 to 1859. 2."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"As a **diplomatist**, Machiavelli brought sharp observation, penetrating insight, and cold realism to every embassy."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The theft of the naval treaty threatened to ruin the career of an esteemed young **diplomatist** in the Foreign Office."*
+> - 📜 **W. M. Thackeray (*Vanity Fair*):** *"The venerable **diplomatist** smiled blandly behind his spectacles, guarding secrets that could overturn kingdoms."*

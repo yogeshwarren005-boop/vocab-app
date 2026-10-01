@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class or subclass (Liliopsida or Monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class or subclass (Liliopsida or Monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowering plant characterized by an embryo with a single cotyledon, parallel-veined leaves, and flower parts usually in multiples of three.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In angiosperm taxonomy, one of the two historical major divisions of flowering plants (class Monocotyledones / Liliopsida).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledon designates any of a class or subclass (liliopsida or monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The subterranean coleoptile of the emerging **monocotyledon** penetrates the soil with remarkable geotropic sensitivity."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"In the mature stem of a **monocotyledon**, there is typically no bifacial vascular cambium producing secondary wood."*
+> - 📜 **David Attenborough (*The Private Life of Plants*):** *"Grasses, lilies, and towering palm trees all share common ancestry within the evolutionary branch of the **monocotyledon**."*

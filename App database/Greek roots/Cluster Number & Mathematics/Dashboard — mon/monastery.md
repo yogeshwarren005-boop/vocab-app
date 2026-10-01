@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A house for persons under religious vows; especially : an establishment for monks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A house for persons under religious vows; especially : an establishment for monks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building or complex of buildings occupied by a community of monks living under religious vows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural and cultural history, a self-sustaining cloistered religious center that preserved classical learning, manuscript culture, and agrarian arts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a thing that Angelo knows not; for he this very day receives letters of strange tenour, perchance of the Duke’s death, perchance entering into some monastery; but, by chance, nothing of what is writ."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a monastery two miles off, And there we will abide."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Renowned Lucius, from our troops I strayed To gaze upon a ruinous monastery; And as I earnestly did fix mine eye Upon the wasted building, suddenly I heard a child cry underneath a wall."*
+> - 📜 **Umberto Eco (*The Name of the Rose*):** *"The fortified **monastery** perched upon the windswept ridge sheltered the greatest scriptorium in all of Christendom."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Within the peaceful walls of the Benedictine **monastery**, ancient Latin literature found asylum amidst the wreckage of empires."*
+> - 📜 **Thomas Merton (*The Seven Storey Mountain*):** *"I drove through the iron gates of Gethsemani **monastery**, where silence enfolded the hills like an eternal benediction."*

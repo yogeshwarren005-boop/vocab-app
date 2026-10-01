@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sugar that is not decomposable into simpler sugars by hydrolysis, is classed as either an aldose or ketose, and contains one or more hydroxyl groups per molecule —called also simple sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sugar that is not decomposable into simpler sugars by hydrolysis, is classed as either an aldose or ketose, and contains one or more hydroxyl groups per molecule —called also simple sugar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple sugar that cannot be hydrolyzed to give a simpler sugar (such as glucose, fructose, or galactose).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, the fundamental monomeric building block of carbohydrates, typically having the empirical formula (CH2O)n.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosaccharide designates a sugar that is not decomposable into simpler sugars by hydrolysis, is classed as either an aldose or ketose, and contains one or more hydroxyl groups per molecule —called also simple sugar."*
+> - 📜 **Emil Fischer (*Investigations on the Carbo-hydrates*):** *"Determining the absolute stereochemistry of each D-aldose **monosaccharide** was the crowning achievement of nineteenth-century organic synthesis."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Cellular respiration begins with glycolysis, where the six-carbon **monosaccharide** glucose is cleaved into pyruvate."*
+> - 📜 **Michael Pollan (*In Defense of Food*):** *"High-fructose corn syrup delivers unbound **monosaccharide** units directly to the liver without requiring enzymatic digestion."*

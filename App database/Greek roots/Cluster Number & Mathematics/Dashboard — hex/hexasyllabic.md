@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of six.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of six.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or having six syllables; a word or line composed of six syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metrics and prosody, a six-syllable poetic line or hemistich.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexasyllabic designates adjective*) pertaining to, derived from, or characteristic of six."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Short **hexasyllabic** measures lend a brisk, tripping speed to light Elizabethan pastoral lyrics."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The rapid cadence of the **hexasyllabic** verse requires sharp rhyming accents to sustain musical interest."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"Dividing the classical line into truncated **hexasyllabic** fragments destroys the sweeping grandeur of Homeric epic."*

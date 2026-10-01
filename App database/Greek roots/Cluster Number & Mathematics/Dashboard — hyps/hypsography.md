@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hyps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geography, cartography, and geodesy concerned with the determination, representation, and mapping of terrestrial elevations and surface relief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The topographic representation of the vertical relief of a landmass on maps through contour lines, hachures, or shaded relief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypsography designates a term designating an entity, condition, or phenomenon derived from greek hyps."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Careful **hypsography** allowed us to chart the vertical distribution of vegetation zones across the slopes of Chimborazo."*
+> - 📜 **Arthur Newell Strahler (*Physical Geography*):** *"The **hypsography** of continental landmasses is summarized by hypsographic curves depicting area versus elevation."*
+> - 📜 **William Morris Davis (*Geographical Essays*):** *"Topographic **hypsography** reveals the progressive erosion of uplifted plateaus into maturely dissected valleys."*

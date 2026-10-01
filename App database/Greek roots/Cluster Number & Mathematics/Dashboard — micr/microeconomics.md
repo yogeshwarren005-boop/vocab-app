@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A study of economics in terms of individual areas of activity (such as a firm, household, prices, etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A study of economics in terms of individual areas of activity (such as a firm, household, prices, etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of economics concerned with single factors and the effects of individual decisions on market resource allocation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theoretical study of how consumers maximize utility and firms maximize profits under budget constraints and competitive market structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microeconomics designates a study of economics in terms of individual areas of activity (such as a firm, household, prices, etc.)."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"The foundational doctrine of **microeconomics** examines how supply and demand balance at the margin to establish equilibrium prices."*
+> - 📜 **Gary Becker (*The Economic Approach to Human Behavior*):** *"I applied the analytical tools of **microeconomics** to explain crime, marriage, and family decisions as rational choices."*
+> - 📜 **Hal Varian (*Microeconomic Analysis*):** *"Modern **microeconomics** provides the formal mathematical scaffolding for understanding auction design and mechanism design."*

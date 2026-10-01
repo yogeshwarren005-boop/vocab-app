@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of peramelidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of peramelidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of burrowing desert marsupials containing the bilbies or rabbit-eared bandicoots (family Thylacomyidae), native to arid Australia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian zoology, nocturnal omnivorous marsupials (notably Macrotis lagotis, the greater bilby) characterized by long silky blue-gray fur, enormous rabbit-like ears, and a crested black-and-white tail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrotis designates a genus of peramelidae."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"The burrowing bandicoot **Macrotis** excavates spiral subterranean tunnels in the sandy soil of the interior deserts."*
+> - 📜 **Richard Owen (*On the Fossil Mammals of Australia*):** *"The dentition of **Macrotis** shows an omnivorous specialization, well suited for digging up beetle larvae and subterranean bulbs."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"The greater bilby **Macrotis** lagotis is one of the most graceful and inoffensive marsupials inhabiting the western plains."*

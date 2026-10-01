@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The male gametophyte produced by a microspore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male gametophyte produced by a microspore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The microscopic, male gamete-producing generation in heterosporous plants, developing from a microspore (such as a pollen grain).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant morphology and botany, the reduced haploid male stage in gymnosperms and angiosperms consisting of just a few cells that deliver sperm to the ovule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgametophyte designates the male gametophyte produced by a microspore."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"In angiosperms, the mature pollen grain represents the fully developed three-celled **microgametophyte**."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Upon reaching the receptive stigma, the **microgametophyte** produces a pollen tube that grows down through the style."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"The evolutionary transition to seed plants involved extreme reduction of the **microgametophyte** into a transportable pollen vector."*

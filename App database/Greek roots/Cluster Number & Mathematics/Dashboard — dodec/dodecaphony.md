@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Twelve-tone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twelve-tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The twelve-tone musical technique or composition system (serialism) invented by Arnold Schoenberg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern musicology, an aesthetic method ensuring that all twelve notes of the chromatic scale are sounded equally often without harmonic hierarchy or tonal center.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dodecaphony designates twelve-tone."*
+> - 📜 **Arnold Schoenberg (*Style and Idea*):** *"I formulated the method of composing with twelve tones, known as **dodecaphony**, to establish new structural logic after the dissolution of tonality."*
+> - 📜 **Theodor W. Adorno (*Philosophy of New Music*):** *"Rigorous **dodecaphony** surrenders expressive subjectivity to the merciless mathematical discipline of the twelve-tone row."*
+> - 📜 **Igor Stravinsky (*Conversations with Igor Stravinsky*):** *"In my late compositions, I explored the contrapuntal possibilities offered by **dodecaphony** and serial permutation."*

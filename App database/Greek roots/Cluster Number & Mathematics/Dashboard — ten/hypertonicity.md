@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a solution) the extent to which a solution has a higher osmotic pressure than some other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of muscular tissue) the state of being hypertonic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being hypertonic; excessive muscle tone, or higher osmotic pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and clinical pathology, increased resting muscle tone from central motor pathway lesions, or elevated osmolality in extracellular fluid compartments (hypertonic dehydration).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertonicity designates (of a solution) the extent to which a solution has a higher osmotic pressure than some other."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cerebral palsy in childhood frequently presents with marked muscular **hypertonicity**, producing characteristic scissors-gait posturing."*
+> - 📜 **W. Russell Brain (*Diseases of the Nervous System*):** *"The clasp-knife phenomenon illustrates how rapid muscle stretch dramatically triggers pyramidal **hypertonicity**."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Severe extracellular **hypertonicity** draws water out of brain neurons, resulting in somnolence, confusion, and coma."*

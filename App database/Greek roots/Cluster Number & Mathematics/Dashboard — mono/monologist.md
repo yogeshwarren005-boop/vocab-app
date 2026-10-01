@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer who performs alone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An entertainer who performs alone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who delivers a monologue, or who habitually monopolizes conversations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical performance and literature, a solo artist who performs dramatic soliloquies, character sketches, or stand-up commentary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monologist designates an entertainer who performs alone."*
+> - 📜 **Anton Chekhov (*On the Harmful Effects of Tobacco*):** *"The nervous **monologist** stepped to the podium, ostensibly to lecture on hygiene, but bared his domestic misery instead."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"Charles Lamb remarked that Hazlitt was an incomparable listener, but Coleridge an unstoppable **monologist**."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Bernard mused like a private **monologist**, spinning sentences to catch the fleeting drift of human experience."*

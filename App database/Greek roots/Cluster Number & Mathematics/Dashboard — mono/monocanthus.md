@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the monocanthidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the monocanthidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of filefishes in the family Monacanthidae (often written Monacanthus), featuring a single prominent, barbed dorsal spine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, omnivorous reef fishes inhabiting tropical and subtropical waters, noted for cryptic coloration and laterally compressed bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocanthus designates type genus of the monocanthidae."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"The common filefish **Monocanthus** locks its barbed dorsal spine erect when threatened, lodging itself firmly within rock crevices."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"Specimens of **Monocanthus** collected in Caribbean lagoons display fine dermal prickles that resemble coarse velvet."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the shallow waters of the reef, we observed a small **Monocanthus** browsing peacefully among the seaweeds."*

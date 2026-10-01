@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ennea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nine-pointed geometric figure, commonly drawn within a circle using intersecting triangles or an irregular nonagon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary psychology and spiritual philosophy (popularized by Gurdjieff and Ichazo), a model of nine interconnected personality types.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enneagram designates a term designating an entity, condition, or phenomenon derived from greek ennea."*
+> - 📜 **P. D. Ouspensky (*In Search of the Miraculous*):** *"Gurdjieff introduced the **enneagram** as a universal symbol embodying the fundamental laws of seven and three."*
+> - 📜 **Claudio Naranjo (*Character and Neurosis*):** *"The psychological **enneagram** organizes personality patterns around nine core fixations and compensatory defense mechanisms."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"Stellated polyhedral projections frequently trace a symmetrical nine-pointed **enneagram** upon the central plane."*

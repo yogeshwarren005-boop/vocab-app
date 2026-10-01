@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electron tube with an anode, a cathode, and a controlling grid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electron tube with an anode, a cathode, and a controlling grid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermionic vacuum tube or electronic valve having three active electrodes: an anode (plate), a cathode, and an intermediate control grid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics history and electrical engineering, the Audion valve invented by Lee de Forest in 1906, whose electrostatic control grid allowed weak electric currents to control large plate currents, inventing modern electronic amplification, radio broadcasting, and early computers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triode designates an electron tube with an anode, a cathode, and a controlling grid."*
+> - 📜 **Lee de Forest (*The Audion: A New Receiver for Wireless Telegraphy*):** *"The insertion of a wire grid between the filament and plate in the **triode** enabled instantaneous electrical amplification without mechanical inertia."*
+> - 📜 **Frederick Emmons Terman (*Radio Engineering*):** *"The amplification factor of a **triode** expresses the relative effectiveness of the grid voltage compared to the plate voltage in controlling plate current."*
+> - 📜 **Bernard Grob (*Basic Electronics*):** *"Early computers like ENIAC relied upon thousands of vacuum **triode** tubes to perform high-speed binary switching operations."*

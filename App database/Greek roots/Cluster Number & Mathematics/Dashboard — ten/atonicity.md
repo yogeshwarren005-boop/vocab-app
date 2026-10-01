@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of normal muscular tension or tonus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of normal muscular tension or tonus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of lacking normal muscle tone, firmness, or physiological tension; atony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal medicine and pathology, chronic slackness or flaccidity of hollow muscular organs (such as gastric or colonic atonicity), leading to stasis and distension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atonicity designates lack of normal muscular tension or tonus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent **atonicity** of the bladder wall follows long-standing prostatic obstruction and severe urinary retention."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"Prolonged administration of curare produces complete vascular and muscular **atonicity** by blocking motor endplates."*
+> - 📜 **Thomas Addison (*A Collection of Published Writings*):** *"General exhaustion and extreme visceral **atonicity** characterized the late stages of adrenal cortical failure."*

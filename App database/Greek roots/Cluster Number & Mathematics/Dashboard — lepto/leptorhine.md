@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a long narrow nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a long narrow nose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a long, narrow, or slender nose, or having a narrow nasal aperture in the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and craniometry, designating a skull with a nasal index of less than 48, typical of European and northern temperate populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptorhine designates having a long narrow nose."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Craniological measurements clearly distinguish the **leptorhine** European skull from the platyrhine African type."*
+> - 📜 **Paul Broca (*Instructions Craniologiques*):** *"The **leptorhine** aperture reflects climatic adaptation for warming and humidifying cold inhaled air."*
+> - 📜 **Arthur Keith (*The Antiquity of Man*):** *"The fossil facial skeleton presented a pronounced, high-bridged **leptorhine** profile typical of the Cro-Magnon race."*

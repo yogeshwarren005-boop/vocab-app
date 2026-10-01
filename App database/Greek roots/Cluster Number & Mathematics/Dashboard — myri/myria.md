@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myri.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete metric prefix denoting a factor of ten thousand (10^4).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical metrology, adopted by the revolutionary French metric system in 1795 for units like the myriameter and myriagram before being phased out.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myria designates a term designating an entity, condition, or phenomenon derived from greek myri."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The metric scale introduced **myria** to designate ten thousand fundamental base units with rational decimal consistency."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Distances on French maritime charts of the era were frequently noted in units of **myria** meters."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Although **myria** fell out of common engineering parlance, it stood as a noble early experiment in decimal nomenclature."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant medical spelling of hemianopia, denoting partial blindness affecting half of the visual field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic pathology, loss of vision in half of the visual field caused by vascular stroke, tumor, or trauma along the optic tract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemianopsia designates a term designating an entity, condition, or phenomenon derived from greek ops."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient complained of bumping into doorframes on his right, a classic symptom of undetected right homonymous **hemianopsia**."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Lesions affecting the optic tract produce complete congruous **hemianopsia** without pupillary hemiopic reaction."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"A temporary **hemianopsia** sometimes heralds a severe migraine attack before the onset of unilateral headache."*

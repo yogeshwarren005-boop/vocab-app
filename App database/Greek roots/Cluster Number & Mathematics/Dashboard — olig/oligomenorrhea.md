@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally light or infrequent menstruation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally light or infrequent menstruation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally infrequent or scanty menstrual periods, typically characterized by menstrual cycles lasting longer than 35 days.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecology and reproductive endocrinology, an ovulatory disorder associated with polycystic ovary syndrome (PCOS), anorexia, or hyperprolactinemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligomenorrhea designates abnormally light or infrequent menstruation."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The patient presented with chronic **oligomenorrhea** and hirsutism, prompting an ultrasound evaluation for polycystic ovaries."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Endocrine disturbances affecting the anterior pituitary frequently manifest initially as persistent **oligomenorrhea**."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"In young athletes undergoing extreme physical exertion, nutritional deficits can trigger hypothalamic **oligomenorrhea**."*

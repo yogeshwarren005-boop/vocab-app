@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to 100 meters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to 100 meters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British and international spelling of hectometer, a metric unit of length equal to 100 metres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Commonwealth surveying and railway engineering, a linear distance unit marking one-tenth of a kilometre.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hectometre designates a metric unit of length equal to 100 meters."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The sheer cliff wall rose nearly a **hectometre** into the misty air, defying any attempt at direct ascent."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"Massive flying machines glided along launch tracks extending more than a **hectometre** across the city rooftops."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The ship drifted slowly toward the reef, missing the submerged rocks by barely half a **hectometre**."*

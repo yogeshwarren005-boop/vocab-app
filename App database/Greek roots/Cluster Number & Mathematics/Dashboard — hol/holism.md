@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory that the universe and especially living nature is correctly seen in terms of interacting wholes (as of living organisms) that are more than the mere sum of elementary particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A study or method of treatment that is concerned with wholes or with complete systems : a holistic study or method of treatment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical theory that parts of a whole are in intimate interconnection, such that they cannot exist or be understood independently of the whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary philosophy, a concept coined by Jan Smuts in 1926 proposing that nature exhibits an inherent tendency to synthesize whole organisms and systems of increasing complexity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holism designates a theory that the universe and especially living nature is correctly seen in terms of interacting wholes (as of living organisms) that are more than the mere sum of elementary particles."*
+> - 📜 **Jan Christiaan Smuts (*Holism and Evolution*):** *"I introduced the concept of **holism** to designate the fundamental, factor-synthesizing tendency toward whole-making in nature."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Biological **holism** cautions geneticists against reducing organismal development to the mere sum of isolated gene actions."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"The organic philosophy affirms systemic **holism**, wherein each actual entity prehends the entire universe into its subjective unity."*

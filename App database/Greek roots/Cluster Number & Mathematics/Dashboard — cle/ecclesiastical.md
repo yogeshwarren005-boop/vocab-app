@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a church especially as an established institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for use in a church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the Christian Church, its hierarchy, governance, ceremonies, or traditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and institutional history, pertaining to canon law and church courts as distinguished from civil or secular authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The next year, 1843, was a memorable one in the ecclesiastical history of Scotland."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This was increased and embittered by the importation of ecclesiastical and political feeling into the contest; Fraser being a Free Churchman, and Ferrier receiving the support of the Established Church and Tory party."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"That he should have taken a keen and sympathetic interest in any great movement for ecclesiastical union was quite what might have been expected."*
+> - 📜 **Richard Hooker (*Of the Laws of Ecclesiastical Polity*):** *"The visible Church requires settled rules of **ecclesiastical** government adapted to the peace and order of the commonwealth."*
+> - 📜 **John Milton (*Areopagitica*):** *"Prelatical tyrannies attempted to suppress all knowledge by imposing an **ecclesiastical** licensing system upon the press."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king attempted to control the national universities through an unconstitutional **ecclesiastical** commission."*

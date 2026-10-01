@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mode of insect development characterized by incomplete metamorphosis, passing directly from egg to nymph to adult without a pupa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect physiology, a three-stage developmental progression (egg, nymph, imago) in which the nymph gradually acquires adult structures over successive instars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetabolism designates a term designating an entity, condition, or phenomenon derived from greek hemi."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"Endocrine regulation during **hemimetabolism** involves gradual decline of juvenile hormone titers allowing adult cuticular differentiation."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The evolutionary antiquity of **hemimetabolism** is corroborated by the abundant presence of paleopterous nymphs in Carboniferous rocks."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"True bugs exhibit typical **hemimetabolism**, wherein the early instars share the piercing-sucking mouthparts of mature adults."*

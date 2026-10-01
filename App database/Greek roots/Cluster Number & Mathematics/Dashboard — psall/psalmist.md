@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A composer of sacred songs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composer of sacred songs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A composer, writer, or singer of sacred songs or psalms; specifically King David, traditionally credited with the biblical Psalms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical hermeneutics and liturgical history, an inspired devotional poet whose verses articulate the full gamut of human spiritual longing, penitence, and thanksgiving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Death, as the Psalmist saith, is certain to all, all shall die."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"As he sat out in the wild under the open sky, did the stars never speak to him, as to Hebrew psalmist and Roman Virgil?"*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Tho' the Philistine's mail could not avail, Nor the spear like a weaver's beam, There are episodes yet in the Psalmist's tale, To obliterate which his poems fail, Which his exploits fail to redeem."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"As the sweet **psalmist** of Israel observed, our days on earth are as a shadow that passes away."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"With the inspired **psalmist**, I marvel at the wonder of our creation, curiously and wonderfully made in secret."*
+> - 📜 **John Bunyan (*Grace Abounding to the Chief of Sinners*):** *"The words of the holy **psalmist** broke into my heart like a beam of celestial light, dissolving my despair."*

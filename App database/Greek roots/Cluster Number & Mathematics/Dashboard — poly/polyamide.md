@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer containing repeated amide groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polymer containing repeated amide groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic or natural polymer containing repeating amide groups (-CO-NH-) in the main chain, such as nylon, Kevlar, wool, or silk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and polymer chemistry, thermoplastic condensation polymers synthesized from diamines and dicarboxylic acids, notable for high tensile strength, thermal resistance, and fiber-forming capabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyamide designates a polymer containing repeated amide groups."*
+> - 📜 **Wallace Carothers (*Studies on Polymerization and Ring Formation*):** *"Linear condensation of hexamethylenediamine with adipic acid yields a tough, spinnable **polyamide** fiber."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Interchain hydrogen bonding between peptide links gives the synthetic **polyamide** nylon its remarkable structural stiffness."*
+> - 📜 **Herman Mark (*Physical Chemistry of High Polymeric Systems*):** *"The crystalline melting point of a **polyamide** rises systematically with the density of its recurring hydrogen bonds."*

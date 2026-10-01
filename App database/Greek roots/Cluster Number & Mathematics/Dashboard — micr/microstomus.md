@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of pleuronectidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of pleuronectidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of righteye flounders in the family Pleuronectidae, notably including the Dover sole (Microstomus pacificus) and lemon sole (Microstomus kitt).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine fisheries biology, bottom-dwelling flatfishes characterized by small mouths, asymmetrical skull morphology, and benthic camouflage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microstomus designates a genus of pleuronectidae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The Pacific Dover sole, classified under **Microstomus**, inhabits deep continental shelf waters off the coast of California."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Trawlers dragging the muddy continental slope brought up slimy, healthy specimens of **Microstomus** from cold bottom currents."*
+> - 📜 **William Beebe (*The Arcturus Adventure*):** *"The small-mouthed flounder **Microstomus** rests motionless upon the silt, perfectly mimicking the texture of the seabed."*

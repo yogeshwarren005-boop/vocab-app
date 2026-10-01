@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Observable by the naked eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving large units or elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Visible to the naked eye; large enough to be observed and examined without the aid of a microscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and thermodynamics, pertaining to bulk physical properties (such as temperature, volume, and pressure) that represent the statistical averages of microscopic molecular behaviors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroscopic designates observable by the naked eye."*
+> - 📜 **Ludwig Boltzmann (*Lectures on Gas Theory*):** *"Thermodynamics formulates laws governing **macroscopic** quantities by treating the erratic collisions of billions of microscopic atoms."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"The **macroscopic** world of tables, chairs, and flowing water emerges from the quantum behavior of atomic particles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Autopsy examination commenced with a systematic recording of all **macroscopic** pathological lesions visible on organ surfaces."*

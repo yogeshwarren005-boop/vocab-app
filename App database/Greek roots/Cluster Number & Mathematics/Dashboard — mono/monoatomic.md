@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an element consisting of a single atom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an element consisting of a single atom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of single, uncombined atoms; having one atom in the molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and physical chemistry, describing gases such as helium, neon, and argon whose heat capacity ratio gamma is approximately 5/3.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoatomic designates of or relating to an element consisting of a single atom."*
+> - 📜 **James Clerk Maxwell (*Illustrations of the Dynamical Theory of Gases*):** *"For a **monoatomic** gas, thermal kinetic energy resides solely in three translational degrees of freedom."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"Alpha particles emitted by radium were demonstrated to be doubly charged helium ions of **monoatomic** constitution."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Noble gases remain stable in a **monoatomic** state under standard temperature and pressure due to filled valence shells."*

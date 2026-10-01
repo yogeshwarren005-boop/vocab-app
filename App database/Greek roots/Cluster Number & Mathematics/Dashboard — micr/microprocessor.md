@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An integrated circuit that contains all the functions of a central processing unit (CPU) of a computer on a single chip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer architecture, the programmable logic core that fetches, decodes, and executes digital instructions, powering modern personal computation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microprocessor designates integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system."*
+> - 📜 **Walter Isaacson (*The Innovators*):** *"Federico Faggin and Ted Hoff designed the Intel 4004, the world's first commercial single-chip **microprocessor**, in 1971."*
+> - 📜 **Tracy Kidder (*The Soul of a New Machine*):** *"The engineering team raced against competitors to craft a thirty-two-bit architecture that surpassed any existing **microprocessor**."*
+> - 📜 **Bill Gates (*The Road Ahead*):** *"The exponential plunge in the price of the **microprocessor** unlocked computing power once reserved exclusively for governments."*

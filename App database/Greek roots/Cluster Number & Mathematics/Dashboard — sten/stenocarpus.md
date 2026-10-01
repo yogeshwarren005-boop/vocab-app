@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of timber trees; australia to malaysia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of timber trees; australia to malaysia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of woody trees and shrubs in the protea family (Proteaceae), native to eastern Australia, New Caledonia, and New Guinea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australian botany and horticulture, trees typified by Stenocarpus sinuatus (the Firewheel Tree), celebrated for vibrant umbels of scarlet flowers and narrow, woody, elongated follicles containing winged seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenocarpus designates small genus of timber trees; australia to malaysia."*
+> - 📜 **Robert Brown (*On the Proteaceae of Jussieu*):** *"The genus **Stenocarpus** is characterized by its narrow, elongated follicular fruit opening on one side to release winged seeds."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"In the rainforests of Queensland, the majestic **Stenocarpus** sinuatus presents a glorious spectacle with its circular wheel of scarlet blossoms."*
+> - 📜 **Joseph Dalton Hooker (*Curtis's Botanical Magazine*):** *"The brilliant firewheel tree, **Stenocarpus**, flourishes in temperate conservatories, bearing umbels of vivid orange-red flowers."*

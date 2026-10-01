@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of a single god but without claiming that it is the only god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of a single god but without claiming that it is the only god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of one god without denying the existence of other gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of religion, a transitional phase between polytheism and strict philosophical monotheism, exemplified in early biblical Israelite religion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monolatry designates the worship of a single god but without claiming that it is the only god."*
+> - 📜 **Max Weber (*Ancient Judaism*):** *"Early covenantal devotion to Yahweh began as passionate **monolatry**, demanding exclusive tribal allegiance while recognizing foreign pantheons."*
+> - 📜 **Karen Armstrong (*A History of God*):** *"Before the prophetic era forged absolute monotheism, Israelite religion practiced a jealous **monolatry** rooted in the Sinai covenant."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"A tribe may elevate its patron war god above all competitors without doubting their existence, in classic **monolatry**."*

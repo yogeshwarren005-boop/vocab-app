@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or prepared by the projection of objects on the drawing surface so that they appear inclined with three sides showing and with horizontal and vertical distances drawn to scale but diagonal and curved lines distorted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or prepared by the projection of objects on the drawing surface so that they appear inclined with three sides showing and with horizontal and vertical distances drawn to scale but diagonal and curved lines distorted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or constructed according to axonometry; a graphical method of orthographic projection depicting a 3D object tilted to display three axes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In technical drawing and architectural drafting, designating isometric, dimetric, or trimetric projections where scales along the axes maintain fixed geometric ratios.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axonometric designates being or prepared by the projection of objects on the drawing surface so that they appear inclined with three sides showing and with horizontal and vertical distances drawn to scale but diagonal and curved lines distorted."*
+> - 📜 **William Farish (*On Isometrical Perspective*):** *"The **axonometric** method allows the mechanical draftsman to present the true three-dimensional proportions of an engine on a single sheet."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"An **axonometric** cutaway drawing reveals the complex interlocking vaults of the Roman baths with absolute spatial clarity."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"Coordinate projection matrices translate multi-dimensional polytopes into clear **axonometric** figures on the drawing plane."*

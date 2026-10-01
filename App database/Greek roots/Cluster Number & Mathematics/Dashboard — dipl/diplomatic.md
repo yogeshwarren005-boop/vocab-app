@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paleographic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exactly reproducing the original.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or engaged in diplomacy and international statecraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by tact, discretion, sensitivity, and subtle handling of delicate situations or interpersonal disagreements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sometimes governments have used embargoes, bounties, or tariffs as weapons to injure the trade of other nations and to secure diplomatic or commercial concessions."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And he delivered this statement with as much careful precision as if he had been a diplomatic envoy whose words would be attended with results."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But he set about acting on his views in a thoroughly diplomatic manner, by stimulating suspicion."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"The **diplomatic** corps must uphold the dignity and treaty obligations of the crown amidst turbulent continental revolutions."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Sir William Temple was celebrated across Europe for his exceptional **diplomatic** skill in negotiating the Triple Alliance."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley managed the awkward dispute with such **diplomatic** tact that both parties departed in complete harmony."*

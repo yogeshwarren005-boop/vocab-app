@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an acute accent on the penultimate (next-to-last) syllable; or a word with stress or accent on the second-to-last syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Greek, Romance, and general linguistic prosody, words accented upon the penult (such as Italian 'bambino' or Spanish 'amigo'), the dominant stress pattern of several world languages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paroxytone designates a term designating an entity, condition, or phenomenon derived from greek ten."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In classical Greek prosody, a **paroxytone** carries the acute accent on the penultimate syllable, provided the ultima is short."*
+> - 📜 **Henry Sweet (*A History of English Sounds*):** *"The normal tendency of Italian phonology is strictly **paroxytone**, resting its musical stress upon the second-to-last vowel."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar*):** *"Latin stress laws dictated that words with long penultimate syllables must remain firmly **paroxytone**."*

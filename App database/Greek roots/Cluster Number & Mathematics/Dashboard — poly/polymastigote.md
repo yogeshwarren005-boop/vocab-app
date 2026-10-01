@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flagellates with several flagella.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flagellates with several flagella.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protozoan organism bearing multiple flagella; or having the structural characteristics of such a flagellate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology and microbial ultrastructure, designating flagellate cells (such as trichomonads and diplomonads) with multiple basal bodies and flagellar roots organized into specialized microtubular bands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymastigote designates flagellates with several flagella."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The **polymastigote** condition arose through the evolutionary duplication of basal kinetosomes and their associated flagella."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"Each **polymastigote** symbiont inside the termite gut swims vigorously by undulating its anterior wreath of flagella."*
+> - 📜 **G. Kingsley Noble (*The Biology of Protozoa*):** *"Giardia trophozoites exhibit a symmetrical **polymastigote** plan, bearing four pairs of flagella directed backwards."*

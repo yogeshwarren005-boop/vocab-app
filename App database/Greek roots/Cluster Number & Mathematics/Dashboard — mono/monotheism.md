@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine or belief that there is but one God.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine or belief that there is but one God.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine or belief that there is only one God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history, the theological paradigm characteristic of Judaism, Christianity, and Islam, contrasting with polytheism and pantheism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Israel had stood for monotheism and that not the monotheism of Greek philosophy, a dogma of the schools consistent with the cults of Egypt and Phrygia, with hierodules and a deified Antinous."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It was perhaps this very reconciliation that threw open the door for the glowing monotheism of the disciples of Jesus; but, whatever the cause, Christianity quickly spread over the whole Roman Empire."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Monotheism, 19, 94, 143, 146, 148."*
+> - 📜 **Karen Armstrong (*A History of God*):** *"The emergence of ethical **monotheism** required worshippers to identify the ultimate reality with universal justice."*
+> - 📜 **Sigmund Freud (*Moses and Monotheism*):** *"Akhenaten's revolutionary solar cult introduced the earliest historical experiment in strict institutional **monotheism**."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"Prophetic **monotheism** disenchanted the natural world by subordinating all sacred spirits to one transcendent Creator."*

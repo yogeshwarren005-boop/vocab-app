@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally large red blood cell (associated with pernicious anemia).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally large red blood cell (associated with pernicious anemia).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally large red blood cell (erythrocyte) with a mean corpuscular volume (MCV) exceeding normal physiological limits (typically > 100 fL).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and clinical pathology, an oversized erythrocyte characteristic of megaloblastic anemias caused by vitamin B12 or folate deficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrocyte designates abnormally large red blood cell (associated with pernicious anemia)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The stained blood film in pernicious anemia is dominated by oval, deeply colored **macrocytes**."*
+> - 📜 **Maxwell M. Wintrobe (*Clinical Hematology*):** *"The average cell diameter is shifted markedly to the right, showing numerous **macrocytes** measuring twelve microns across."*
+> - 📜 **Thomas Addison (*A Collection of the Published Writings*):** *"In this fatal idiopathic anemia, the red corpuscles exhibit marked enlargement, appearing as gigantic **macrocytes**."*

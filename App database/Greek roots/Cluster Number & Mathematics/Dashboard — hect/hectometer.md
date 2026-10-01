@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to 100 meters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to 100 meters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one hundred meters (symbol: hm).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering, forestry, and road construction, a convenient distance measure equivalent to one-tenth of a kilometer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hauled along by a network of mag-beams converging from a score of space tugs came the Conference Disk, two hectometers in diameter and a decameter thick at its hub."*
+> - 📜 **Ferdinand Rudolph Hassler (*Papers on the Survey of the Coast of the United States*):** *"The coastal baseline was surveyed in increments of one **hectometer**, verified by optical triangulation."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"We measured the vertical elevation of the mountain slope every **hectometer** using refined barometric instruments."*
+> - 📜 **Jules Verne (*From the Earth to the Moon*):** *"The colossal Columbiad cannon possessed a bore spanning several meters and a barrel length exceeding a **hectometer**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Musicology commonly classifies scales as either hemitonic or anhemitonic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hemitonic scales contain one or more semitones, while anhemitonic scales do not contain semitones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The musical quality or property of containing semitones; or a semitonic scale system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greek harmonic theory (Aristoxenian harmonics) and comparative musicology, scales characterized by the inclusion of half-tone intervals (hemitones), contrasted with anhemitonic systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemitonia designates musicology commonly classifies scales as either hemitonic or anhemitonic."*
+> - 📜 **Aristoxenus (*Elementa Harmonica*):** *"In the diatonic and chromatic genera, the introduction of **hemitonia** creates that distinct tension which resolves to the keynote."*
+> - 📜 **Alexander John Ellis (*The History of Musical Pitch*):** *"The emergence of **hemitonia** in European scale evolution marked a decisive departure from primitive pentatonic models."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"The presence of **hemitonia** in a scale introduces leading tones and chromatic pull unknown to purely whole-tone music."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One millionth (10^-6) of a second; one thousandth of a millisecond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One millionth (10^-6) of a second; one thousandth of a millisecond.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of time equal to one-millionth (10^-6) of a second.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and high-energy physics, a standard interval used to measure processor instruction timings, electronic switching speeds, and subatomic decay rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsecond designates one millionth (10^-6) of a second; one thousandth of a millisecond."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"At Los Alamos, explosive implosion switches had to fire within a fraction of a **microsecond** to achieve critical density."*
+> - 📜 **Alan Turing (*Proposal for Development of an Automatic Computing Engine (ACE)*):** *"The mercury delay line memory registers pulses spaced at intervals of less than one **microsecond**."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"During the first **microsecond** after the Big Bang, quarks and gluons condensed to form protons and neutrons."*

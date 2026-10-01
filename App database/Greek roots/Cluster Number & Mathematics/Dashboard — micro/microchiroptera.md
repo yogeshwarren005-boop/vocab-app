@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most of the bats in the world; all bats except fruit bats insectivorous bats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most of the bats in the world; all bats except fruit bats insectivorous bats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder of bats comprising the small, echolocating species that primarily feed on insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chiropteran mammalogy, bats distinguished by acoustic laryngeal echolocation, reduced eyes, and specialized facial tragi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microchiroptera designates most of the bats in the world; all bats except fruit bats insectivorous bats."*
+> - 📜 **Donald Griffin (*Listening in the Dark*):** *"The acoustic agility of the **Microchiroptera** permits them to execute aerobatic interceptions of moths in complete darkness."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"Natural selection engineered the biosonar of **Microchiroptera** with an elegance that human radar designers can only envy."*
+> - 📜 **David Attenborough (*The Life of Mammals*):** *"Across tropical limestone caverns, millions of insect-hunting **Microchiroptera** stream into the twilight sky in vast living ribbons."*

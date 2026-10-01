@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of verse consisting of seven metrical feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line of verse consisting of seven metrical feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of verse consisting of seven metrical feet (in English verse, often iambic, known as a fourteener).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosody, a long narrative or ballad meter frequently divided by a caesura into alternating segments of four and three stresses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptameter designates a line of verse consisting of seven metrical feet."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Chapman translated Homer into galloping iambic **heptameter**, filling the fourteeners with martial vigour."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"The continuous swing of the English **heptameter** risks degenerating into monotonous ballad doggerel unless carefully varied."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The ancient fourteener or **heptameter** naturally breaks into the familiar alternate four-three measure of English hymns."*

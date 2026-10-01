@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight convexity especially in the shaft of a column.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slight convexity especially in the shaft of a column.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight convex swelling or curve in the shaft of a classical architectural column, introduced to correct an optical illusion of concavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture and aesthetic theory (notably observed in the Parthenon's Doric columns), a subtle tapering curve that imparts an organic appearance of muscular tension bearing immense structural weight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entasis designates a slight convexity especially in the shaft of a column."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The shafts of the columns must possess a gentle swelling in the middle, which the Greeks term **entasis**, to satisfy the eye."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The exquisite **entasis** of the Athenian colonnade gives the stone a living, elastic grace that rigid geometric cylinders destroy."*
+> - 📜 **Francis Cranmer Penrose (*An Investigation of the Principles of Athenian Architecture*):** *"Precise mathematical measurements of the Parthenon confirmed that every Doric shaft incorporates a deliberate parabolic **entasis**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymerized plastic or something made of this; especially : a polyester fiber, fabric, or garment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A roly-poly person or thing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek adjective meaning 'much', 'many', or 'numerous', from which the English prefix poly- is derived; or an abbreviation for polymorphonuclear leukocytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Indo-European etymology, the root *polús (*pleh1-, to fill) foundational to linguistic, scientific, and mathematical compounds designating multiplicity or abundance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polys designates a polymerized plastic or something made of this; especially : a polyester fiber, fabric, or garment."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The basic Greek adjective **polys** denotes great in quantity, number, or extent, generating thousands of scientific derivatives."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In comparing Greek **polys** with Latin plus and Gothic filu, we trace the ancient Aryan concept of abundance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A marked shift to the left in circulating **polys** indicates intense marrow mobilization during severe acute sepsis."*

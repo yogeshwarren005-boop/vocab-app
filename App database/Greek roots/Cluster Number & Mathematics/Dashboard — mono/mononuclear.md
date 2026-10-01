@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one nucleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having only one nucleus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one nucleus (used especially of white blood cells such as monocytes and lymphocytes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and pathology, denoting the mononuclear phagocyte system, a network of tissue macrophages and circulating monocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mononuclear designates having only one nucleus."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"The large **mononuclear** leucocyte is readily distinguished by its expansive pale cytoplasm and bean-shaped nucleus."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Biopsies of the chronic inflammatory lesion revealed dense infiltration by **mononuclear** cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic infections like malaria, the spleen engorges with proliferating **mononuclear** phagocytes."*

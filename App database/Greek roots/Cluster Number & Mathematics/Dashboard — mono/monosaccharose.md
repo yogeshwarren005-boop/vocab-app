@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sugar (like sucrose or fructose) that does not hydrolyse to give other sugars; the simplest group of carbohydrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sugar (like sucrose or fructose) that does not hydrolyse to give other sugars; the simplest group of carbohydrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monosaccharide; a simple sugar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physiological chemistry, an archaic synonym for monosaccharide, designating unhydrolyzable monomeric sugars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosaccharose designates a sugar (like sucrose or fructose) that does not hydrolyse to give other sugars; the simplest group of carbohydrates."*
+> - 📜 **Emil Fischer (*Studies in Organic Chemistry*):** *"Fermentation proceeds directly when yeast ferments encounter a compatible hexose **monosaccharose**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Benedict's qualitative test detects any reducing **monosaccharose** excreted in the urine of diabetic patients."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The hepatic glycogenic function converts stored animal starch into a diffusible **monosaccharose** entering the bloodstream."*

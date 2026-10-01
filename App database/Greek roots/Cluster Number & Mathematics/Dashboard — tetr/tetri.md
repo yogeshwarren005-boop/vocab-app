@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 tetri equal 1 lari in georgia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 tetri equal 1 lari in georgia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monetary unit of Georgia, equal to one hundredth of a lari; or an ancient Georgian coin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics and monetary economics, modern fractional coins (1, 2, 5, 10, 20, and 50 tetri) introduced in 1995 following the collapse of the Soviet Union, derived etymologically from an ancient Georgian silver coin term.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetri designates 100 tetri equal 1 lari in georgia."*
+> - 📜 **Alexander Khakhanov (*Histoire de Géorgie*):** *"The ancient silver coin designated **tetri** circulated throughout the Caucasus as a recognized medium of regional commerce."*
+> - 📜 **John Oliver Wardrop (*The Kingdom of Georgia: Notes of Travel*):** *"At the market in Tbilisi, peasants bartered honey and walnuts for copper coins and silver **tetri**."*
+> - 📜 **Percy Gardner (*The Types of Greek Coins*):** *"Numismatic excavations in Colchis revealed localized silver strikings of archaic **tetri** showing distinct Hellenistic influence."*

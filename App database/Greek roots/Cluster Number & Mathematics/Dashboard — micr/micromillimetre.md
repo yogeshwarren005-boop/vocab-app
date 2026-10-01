@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one billionth of a meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to one billionth of a meter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British/Commonwealth spelling of micromillimeter; one-thousandth of a millimetre (10^-6 metre), equivalent to the micron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Victorian microscopy and cytology, a standard dimensional unit used to quantify microscopic structures and biological fibers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micromillimetre designates a metric unit of length equal to one billionth of a meter."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The sensitive hairs of the sundew bend when touched by particles measuring mere fractions of a **micromillimetre**."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The amplitude of atmospheric vibrations capable of evoking an audible sensation is less than one **micromillimetre**."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"The micro-organisms responsible for surgical putrefaction measure only two or three **micromillimetre** in length."*

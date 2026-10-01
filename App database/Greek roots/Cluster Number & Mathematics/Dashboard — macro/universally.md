@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Everywhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Everywhere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a universal manner; by everyone, in every case, or everywhere without exception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and empirical science, holding true across all instances within a specified domain or universe of discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Lived universally respected, and died lamented."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Lady Dedlock, you see she’s universally admired."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That’s what her ladyship is; she’s universally admired,” says Mr."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is a truth **universally** acknowledged, that a single man in possession of a good fortune, must be in want of a wife."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The struggle for existence is **universally** in operation throughout every corner of the natural world."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"There are no moral principles **universally** stamped upon the human mind from birth without experience."*

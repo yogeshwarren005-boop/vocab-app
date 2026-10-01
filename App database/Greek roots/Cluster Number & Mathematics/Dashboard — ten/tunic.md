@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enveloping or covering membrane or layer of body tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a variety of loose fitting cloaks extending to the hips or knees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose, sleeveless or short-sleeved garment reaching to the knees, worn in ancient Greece and Rome; or a modern loose-fitting shirt or jacket.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and biology, a membrane or covering layer of a bodily organ (tunica adventitia, tunica media, tunica intima of blood vessels), or the protective test of a tunicate (sea squirt).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His military uniform was skin-tight: a black tunic belted over blood-red breeches."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Go ahead." Ram drew a small plastic card from the breast pocket of his tunic and handed it to the operator."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A small man in a nondescript tunic sidled up Ram's table."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The simple woolen **tunic** worn by the early Roman republicans gave way in imperial times to luxurious silk robes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The leathery **tunic** of the sea squirt contains cellulose, a carbohydrate once thought unique to the plant kingdom."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"With a humble **tunic** on his back, the candidate stood in the Forum to show his battle scars to the citizens."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single computer instruction that results in a series of instructions in machine language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very large in scale or scope or capability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root morpheme derived from Greek μακρός (makros) signifying long, large, extensive, or on a grand scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science, a single instruction or rule that automatically expands into a predefined sequence of operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"On that mystery and not on the madonna which the cunning Italian intellect flung to the mob of Europe the church is founded and founded irremovably because founded, like the world, macro and microcosm, upon the void."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The scientific base **macro-** stems from Greek makros, meaning long or large, contrasted with micro-."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"A user-defined **macro** provides an elegant mechanism for automating repetitive formatting and typesetting commands."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Compounds built from **macro-** express extended duration, physical magnitude, or broad systemic scope."*

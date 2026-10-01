@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless volatile highly flammable liquid obtained from petroleum and used as an anesthetic or a solvent or in determining octane ratings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless volatile highly flammable liquid obtained from petroleum and used as an anesthetic or a solvent or in determining octane ratings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight-chain saturated liquid alkane hydrocarbon with seven carbon atoms, chemical formula C7H16.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum chemistry and fuel engineering, the primary reference fuel with an octane rating defined as zero on the anti-knock scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptane designates a colorless volatile highly flammable liquid obtained from petroleum and used as an anesthetic or a solvent or in determining octane ratings."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"Distillation of crude petroleum yields volatile aliphatic fractions rich in **heptane** and related paraffins."*
+> - 📜 **Svante Arrhenius (*Textbook of Theoretical Electrochemistry*):** *"Non-polar organic solvents like **heptane** exhibit negligible electrical conductivity and low dielectric constants."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"Extraction with boiling **heptane** separated the oily waxes from the insoluble mineral matrix."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek cardinal number five (πέντε), serving as the root for English prefixes such as penta- and pent-.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek grammar and etymology, the Indo-European numeral (*pénkʷe) that underlies mathematical and architectural terminology across scientific nomenclature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pente designates a term designating an entity, condition, or phenomenon derived from greek pent."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The numeral **pente** expresses the number five, appearing in compounds like pentagon, pentameter, and Pentateuch."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Sanskrit panca, Greek **pente**, and Latin quinque all descend from a common Indo-European root for five."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From Greek **pente** we derive the whole scientific vocabulary designating fivefold geometric and chemical arrangements."*

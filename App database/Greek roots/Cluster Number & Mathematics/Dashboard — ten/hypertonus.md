@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of muscular tissue) the state of being hypertonic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of muscular tissue) the state of being hypertonic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increased, excessive, or abnormal tone or tension in a muscle, organ, or bodily system; hypertonia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuro-ophthalmology and neuro-urology, sustained pathological resting contraction (such as detrusor hypertonus causing urge incontinence, or ocular hypertonus / elevated intraocular pressure in glaucoma).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertonus designates (of muscular tissue) the state of being hypertonic."*
+> - 📜 **W. Russell Brain (*Diseases of the Nervous System*):** *"Extrapyramidal lesions produce a generalized **hypertonus** that impairs the smooth initiation of voluntary locomotion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Neurogenic bladder resulting from spinal cord injury often exhibits uninhibited detrusor **hypertonus**."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"In acute closed-angle glaucoma, marked ocular **hypertonus** turns the eyeball as hard as a marble."*

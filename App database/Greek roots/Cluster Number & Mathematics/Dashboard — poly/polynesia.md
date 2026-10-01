@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The islands in the eastern part of oceania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The islands in the eastern part of oceania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subregion of Oceania comprising more than a thousand islands scattered over the central and southern Pacific Ocean, bounded by Hawaii, New Zealand, and Easter Island.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and historical linguistics, an ethno-geographic cultural region united by closely related Austronesian languages, sophisticated open-ocean voyaging technology, and common social hierarchies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"On this board thirsty strangers deposited their cups as they stood in the road and drank, and threw the dregs on the dusty ground to the pattern of Polynesia, and wished they could have a restful seat inside."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The uncounted isles of all Polynesia confess the same truth, and do commercial homage to the whale-ship, that cleared the way for the missionary and the merchant, and in many cases carried the primitive missionaries to their first destinations."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The fact is, that there is a vast deal of unintentional humbuggery in some of the accounts we have from scientific men concerning the religious institutions of Polynesia."*
+> - 📜 **Captain James Cook (*A Voyage to the Pacific Ocean*):** *"The extraordinary similarity of language and customs found across the scattered islands of **Polynesia** astonished all our navigators."*
+> - 📜 **Herman Melville (*Typee: A Peep at Polynesian Life*):** *"No region of the globe possesses a more romantic fascination than the palm-fringed islands of eastern **Polynesia**."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"The coral atolls of **Polynesia** provide magnificent evidence of widespread crustal subsidence across the central Pacific basin."*

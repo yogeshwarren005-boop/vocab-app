@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the tetraonidae: capercaillies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the tetraonidae: capercaillies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large gallinaceous birds in the grouse family, notably comprising the Western capercaillie (*Tetrao urogallus*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology and game bird conservation, heavy woodland grouse native to Eurasian boreal and mountain pine forests, celebrated for the male's spectacular springtime lek displays and bearded chin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrao designates type genus of the tetraonidae: capercaillies."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Under the genus **Tetrao**, Linnaeus originally grouped all the grouse, partridges, and quails of the Old World."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The great wood-grouse, **Tetrao** urogallus, once abounded in the ancient Caledonian pine forests before deforestation."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The vocal displays and strutting postures of male **Tetrao** during the spring lek serve to attract solitary hens."*

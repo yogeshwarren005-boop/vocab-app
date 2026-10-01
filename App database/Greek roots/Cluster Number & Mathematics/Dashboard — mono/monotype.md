@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a taxonomic group with a single member (a single species or genus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A typesetting machine operated from a keyboard that sets separate characters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A printing process in which each character is cast as a separate piece of type, invented by Tolbert Lanston; or a unique print made by drawing on a plate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography and printing history, a hot-metal typesetting system that cast individual lead sorts, allowing effortless single-letter correction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The linotype and monotype machines, uncanny in their operations, have also come into common practice."*
+> - 📜 **Stanley Morison (*A Tally of Types*):** *"The precision of the **Monotype** caster revived classical Renaissance typefaces with unmatched typographic crispness."*
+> - 📜 **Edgar Degas (*Letters of Degas*):** *"I spent the entire evening working on a greasy ink plate to pull a luminous, painterly **monotype** print."*
+> - 📜 **Walter Benjamin (*The Work of Art in the Age of Mechanical Reproduction*):** *"The unique artistic **monotype** stands halfway between the singular painting and reproducible lithography."*

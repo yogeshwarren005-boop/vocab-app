@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of five.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of five.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or relating to five cells, chambers, or bounding boundaries, especially in four-dimensional geometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In four-dimensional polytope mathematics, pertaining to the 5-cell or pentachoron, the four-dimensional analogue of the regular tetrahedron bounded by five tetrahedral facets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentachoric designates adjective*) pertaining to, derived from, or characteristic of five."*
+> - 📜 **Alicia Boole Stott (*Geometrical Deduction of Semiregular Polyhedra*):** *"The four-dimensional simplex displays a **pentachoric** boundary formed by five identical regular tetrahedral cells."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"The simplest regular four-polytope is the **pentachoric** figure, possessing five vertices, ten edges, ten faces, and five cells."*
+> - 📜 **Duncan Sommerville (*An Introduction to the Geometry of N Dimensions*):** *"In n-dimensional space, the general simplex reduces at four dimensions to the **pentachoric** configuration."*

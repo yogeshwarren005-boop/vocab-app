@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of several arteries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of several arteries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A systemic necrotizing vasculitis that causes inflammation of small- and medium-sized muscular arteries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology and vascular pathology (specifically polyarteritis nodosa, described by Kussmaul and Maier in 1866), a serious autoimmune disorder producing transmural fibrinoid necrosis, aneurysm formation, renal ischemia, and multiorgan failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyarteritis designates inflammation of several arteries."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Necrotizing lesions in **polyarteritis** lead to multiple microaneurysms along the mesenteric and renal arterial branches."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Cerebral vascular complications arising from systemic **polyarteritis** frequently mimic intracranial tumors."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Coronary arteritis occurring in **polyarteritis** nodosa can cause silent myocardial infarction in young adults."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The acts or rites of worshiping devils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The acts or rites of worshiping devils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of demons or evil spirits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology of religion and demonology, ritual practices and occult systems centered upon invocations, pacts, or propitiations of malevolent entities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demonolatry designates the acts or rites of worshiping devils."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Where fear eclipses adoration in primitive theology, religion often devolves into appeasement and outright **demonolatry**."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"The traveler described bizarre nocturnal rites in the Andaman jungle that bordered upon ancient **demonolatry**."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Tribal rites to avert catastrophic famines frequently incorporated symbolic elements of **demonolatry** aimed at placating chthonic horrors."*

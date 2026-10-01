@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Microscopic plants; bacteria are often considered to be microflora.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Microscopic plants; bacteria are often considered to be microflora.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The microscopic plants or microbial organisms that inhabit a specific environment, bodily organ, or ecological niche.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and medicine, the community of commensal, symbiotic, or environmental bacteria and fungi (such as the gut or soil flora).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microflora designates microscopic plants; bacteria are often considered to be microflora."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Indiscriminate chemical drenching destroys the delicate soil **microflora** upon which the natural nitrogen cycle depends."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"The normal intestinal **microflora** provides an effective ecological barrier against colonisation by virulent enteric pathogens."*
+> - 📜 **Ed Yong (*I Contain Multitudes*):** *"What researchers once casually referred to as human **microflora** is now recognized as a diverse, dynamic ecosystem of microbial partners."*

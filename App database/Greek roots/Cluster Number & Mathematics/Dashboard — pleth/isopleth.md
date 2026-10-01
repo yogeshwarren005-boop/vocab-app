@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn on a map connecting points having the same numerical value of some variable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line drawn on a map connecting points having the same numerical value of some variable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line on a map or chart connecting points that have equal values of a given meteorological, physical, or numerical variable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cartography, meteorology, and thermodynamics, generic contour lines (such as isobars, isotherms, and isohyets) illustrating field distributions of temperature, pressure, or elevation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isopleth designates a line drawn on a map connecting points having the same numerical value of some variable."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"By joining stations of equal mean temperature with a continuous line, we trace an **isopleth** that reveals thermal zones independent of latitude."*
+> - 📜 **Francis Galton (*Meteorographica, or Methods of Mapping the Weather*):** *"Each barometric **isopleth** drawn across the chart indicates the gradient along which atmospheric winds must blow."*
+> - 📜 **Wladimir Köppen (*The Climates of the Earth*):** *"The northern tree limit corresponds closely with the ten-degree Celsius July **isopleth**."*

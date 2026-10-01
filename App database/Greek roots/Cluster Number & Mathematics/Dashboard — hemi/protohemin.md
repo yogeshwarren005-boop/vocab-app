@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish-brown chloride of heme; produced from hemoglobin in laboratory tests for the presence of blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reddish-brown chloride of heme; produced from hemoglobin in laboratory tests for the presence of blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ferriprotoporphyrin IX chloride; the classical crystalline chloro-hemin complex derived from blood hemoglobin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, the prosthetic iron-porphyrin complex common to hemoglobin, myoglobin, and peroxidases, isolated as microscopic rhombic chloride crystals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protohemin designates a reddish-brown chloride of heme; produced from hemoglobin in laboratory tests for the presence of blood."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Magnetic susceptibility measurements confirm the high-spin iron state in crystalline **protohemin** complexes."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"The characteristic spectroscopic absorption bands of **protohemin** disappear upon reduction to the ferrous state."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microcrystalline tests yielding Prussian blue or **protohemin** confirm the presence of degraded blood pigment."*

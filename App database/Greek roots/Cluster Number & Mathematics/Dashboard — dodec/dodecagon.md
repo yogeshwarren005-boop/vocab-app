@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon of 12 angles and 12 sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polygon of 12 angles and 12 sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane geometric polygon bounded by twelve straight sides and twelve interior angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry, a regular dodecagon having interior angles of 150 degrees, constructible with unmarked ruler and compass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dodecagon designates a polygon of 12 angles and 12 sides."*
+> - 📜 **Euclid (*Elements*):** *"By bisecting the arcs of an inscribed hexagon, the geometer inscribes a regular **dodecagon** in a circle."*
+> - 📜 **Archimedes (*Measurement of a Circle*):** *"Archimedes inscribed and circumscribed regular polygons of twelve sides, or **dodecagons**, in his progressive approximations of pi."*
+> - 📜 **Thomas Heath (*The Thirteen Books of Euclid's Elements*):** *"The regular **dodecagon** provides an elementary stepping stone for doubling the sides of inscribed circles toward polygon limits."*

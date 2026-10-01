@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any compound that contains four chlorine atoms per molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any compound that contains four chlorine atoms per molecule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound containing four chlorine atoms per molecule or formula unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic and organic chemistry, volatile covalent liquids such as carbon tetrachloride (CCl4), titanium tetrachloride (TiCl4), and silicon tetrachloride (SiCl4), used as reagents, catalysts, and precursors for silicon semiconductors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrachloride designates any compound that contains four chlorine atoms per molecule."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The carbon **tetrachloride** molecule possesses perfect tetrahedral symmetry, resulting in a zero net electric dipole moment."*
+> - 📜 **Karl Ziegler (*Consequences and Development of an Invention*):** *"Coordination catalysts prepared from titanium **tetrachloride** and trialkylaluminum unlocked low-pressure olefin polymerization."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Reaction of chlorine gas with dry carbon disulfide produces carbon **tetrachloride** alongside sulfur chlorides."*

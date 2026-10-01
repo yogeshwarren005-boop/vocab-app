@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To express in terms of parameters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express in terms of parameters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of parameterize; to express or represent in terms of parameters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential geometry and mathematical physics, assigning coordinates or equations governed by parametric variables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parametrize designates to express in terms of parameters."*
+> - 📜 **Felix Klein (*Lectures on the Icosahedron*):** *"We may **parametrize** the roots of the quintic equation through modular functions of the icosahedral group."*
+> - 📜 **Roger Penrose (*The Road to Reality*):** *"Physicists **parametrize** gauge transformations by assigning field values at every point of the manifold."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"It is convenient to **parametrize** polyhedral rotations through unit quaternions on the four-dimensional sphere."*

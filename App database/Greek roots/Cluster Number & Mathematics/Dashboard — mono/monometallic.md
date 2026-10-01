@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing one atom of metal in the molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing one atom of metal in the molecule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or using only one metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monetary economics, describing a monetary system where currency value is legally based upon a single metallic standard (such as gold or silver).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monometallic designates containing one atom of metal in the molecule."*
+> - 📜 **Alfred Marshall (*Money, Credit and Commerce*):** *"Advocates of the gold standard maintained that a **monometallic** currency eliminated the exchange volatility inherent in bimetallism."*
+> - 📜 **Milton Friedman (*A Monetary History of the United States*):** *"The Crime of 1873 shifted the nation toward an effective **monometallic** gold basis, triggering fierce agrarian protest."*
+> - 📜 **John Maynard Keynes (*A Treatise on Money*):** *"The stability of a **monometallic** standard depends entirely upon the world production rate of the chosen single metal."*

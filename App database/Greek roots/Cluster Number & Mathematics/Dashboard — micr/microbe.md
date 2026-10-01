@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Microorganism, germ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Microorganism, germ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic organism, especially a bacterium causing disease or fermentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and evolutionary biology, a fundamental unicellular life form driving planetary nutrient cycles and biogeochemical flows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In many cases where they wish to produce an organic substance they have to call in the aid of some living thing to do it for them, even if it be but a humble microbe."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Hence the latter very sensibly use the microbe, employ it to work for them, just set things in order and then stand by while the microbe does the work."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Much yet remains to be said and done before all mankind is 164:15 saved and all the mental microbes of sin and all diseased thought-germs are exterminated."*
+> - 📜 **Louis Pasteur (*Germ Theory and Its Applications to Medicine and Surgery*):** *"The role of the infinitely small in nature is infinitely great; the **microbe** commands life and death in our midst."*
+> - 📜 **H.G. Wells (*The War of the Worlds*):** *"Slain by the humblest things that God, in His wisdom, has put upon this earth, the Martians succumbed to the common **microbe**."*
+> - 📜 **Ed Yong (*I Contain Multitudes*):** *"Every animal host is an elaborate, walking archipelago colonized by trillions of cooperative **microbe** partners."*

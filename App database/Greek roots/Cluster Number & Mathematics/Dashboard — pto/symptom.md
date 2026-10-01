@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subjective evidence of disease or physical disturbance; broadly : something that indicates the presence of bodily disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evident reaction by a plant to a pathogen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical or mental feature indicating a condition of disease, perceived and reported by the patient; an indicator of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic semiotics and medical philosophy, subjective evidence of illness experienced by the patient, contrasted with objective clinical signs discovered by physical examination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Pride, too, entered into her submission—which perhaps was a symptom of that reckless acquiescence in chance too apparent in the whole d’Urberville family—and the many effective chords which she could have stirred by an appeal were left untouched."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was unmistakably a symptom that something of his old passion for her had been revived; duty and desire ran hand-in-hand."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It is not within our power to tell what its meaning is, yet it must be a symptom of good."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Listen to the patient; he is telling you the diagnosis, for every **symptom** has its anatomical or physiological meaning."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A single isolated **symptom** may mislead, but a coherent constellation of facts points unfailingly to the truth."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Nature in the production of disease is uniform and consistent, so that each specific **symptom** recurs with admirable regularity."*

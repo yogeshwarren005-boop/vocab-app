@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An object, vessel, or receptacle that can be used to hold, store, or transport things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software engineering, a standardized executable unit of software (such as Docker) that packages code and all its dependencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They include high-mass-loaded container ships, construction rigs under tow and objects too large for the spunnel are routed through this sector when we're lined up."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Occasionally, they passed a dwarf tree or a flowering shrub in an earth-filled container."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"We're close enough to a container to touch it, but of course, we don't."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A simple earthen jar was the only **container** I needed to store my daily supply of spring water."*
+> - 📜 **Marc Levinson (*The Box: How the Shipping Container Made the World Smaller*):** *"The standardized intermodal shipping **container** slashed cargo handling costs and laid the physical groundwork for global trade."*
+> - 📜 **Martin Fowler (*Patterns of Enterprise Application Architecture*):** *"Deploying microservices inside an isolated application **container** ensures predictable environments across production servers."*

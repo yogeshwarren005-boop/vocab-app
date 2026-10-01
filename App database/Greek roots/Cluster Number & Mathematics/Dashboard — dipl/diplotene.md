@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stage of meiotic prophase which follows the pachytene and during which the paired homologous chromosomes begin to separate and chiasmata become visible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stage of meiotic prophase which follows the pachytene and during which the paired homologous chromosomes begin to separate and chiasmata become visible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fourth sub-stage of prophase I in meiosis, during which homologous chromosomes begin to separate while remaining joined at chiasmata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, the extended meiotic stage wherein crossing-over sites become microscopically visible as chiasmata, and during which transcription may resume (as in lampbrush chromosomes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplotene designates a stage of meiotic prophase which follows the pachytene and during which the paired homologous chromosomes begin to separate and chiasmata become visible."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"Upon entering the **diplotene** stage, the paired homologues repel each other, revealing the physical points of genetic crossing-over."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Chromosomes in human oocytes enter a prolonged, quiescent **diplotene** arrest that persists for decades until ovulation."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Microscopic preparations of the **diplotene** nucleus provide direct visual confirmation of chiasma formation between chromatids."*

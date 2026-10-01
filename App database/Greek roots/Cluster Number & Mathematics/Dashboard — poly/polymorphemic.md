@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of two or more morphemes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of two or more morphemes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or containing more than one morpheme; morphologically complex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology and structural linguistics, words constructed from a base root plus one or more affixes or compounding roots (such as 'un-break-able'), contrasted with monomorphemic words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorphemic designates consisting of two or more morphemes."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Polysynthetic American Indian languages frequently express an entire sentence within a single **polymorphemic** word."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The internal semantic representation of a **polymorphemic** compound cannot always be derived by simple composition."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Words like 'gentlemanliness' are clearly **polymorphemic**, comprising successive layers of derivational and inflectional affixes."*

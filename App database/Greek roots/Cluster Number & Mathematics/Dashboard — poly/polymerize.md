@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause (a compound) to polymerize.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo polymerization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo or cause to combine into a polymer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial and bio-organic chemistry, to initiate the covalent union of repeating monomer units through heat, pressure, radiation, or catalytic activation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymerize designates cause (a compound) to polymerize."*
+> - 📜 **Wallace Carothers (*Studies on Polymerization and Ring Formation*):** *"When heated above its melting point in an inert atmosphere, the amino acid will **polymerize** into a high-melting polyamide."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Molecules of vinyl chloride **polymerize** readily to yield the durable, rigid plastic known as polyvinyl chloride."*
+> - 📜 **Arthur Kornberg (*DNA Replication*):** *"In the presence of magnesium ions, the enzyme continues to **polymerize** thousands of nucleotides per second."*

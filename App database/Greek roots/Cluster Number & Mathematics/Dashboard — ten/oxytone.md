@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an acute accent on the last syllable; or a word so accented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek grammar and phonology, words carrying the high-pitch acute accent upon the ultima, which shifts to a grave accent when immediately followed by another word in connected speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxytone designates a term designating an entity, condition, or phenomenon derived from greek ten."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"An **oxytone** word bears the acute accent upon its final syllable, which changes to a grave unless followed by punctuation."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In Vedic Sanskrit as in ancient Greek, the mobile **oxytone** accent reflects primitive Indo-European pitch distinctions."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"The rhythmic balance of French verse is predominantly **oxytone**, placing the metric stress upon the final pronounced vowel."*

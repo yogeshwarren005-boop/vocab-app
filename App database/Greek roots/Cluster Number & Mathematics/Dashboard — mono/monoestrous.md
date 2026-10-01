@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one estrous cycle per year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having one estrous cycle per year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one period of estrus (heat) in a single breeding season or year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian reproductive endocrinology, describing seasonal breeders such as wolves, bears, and roe deer that exhibit a single annual ovulatory cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoestrous designates having one estrous cycle per year."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"The timber wolf is strictly **monoestrous**, timing its single annual winter mating so that pups emerge into the warmth of late spring."*
+> - 📜 **Frans de Waal (*The Ape and the Sushi Master*):** *"Unlike polyestrous primates with recurring monthly receptivity, **monoestrous** carnivores concentrate all mating into a brief annual window."*
+> - 📜 **David Attenborough (*The Life of Mammals*):** *"In the Arctic wilderness, being **monoestrous** synchronizes birth with the fleeting seasonal explosion of summer food."*

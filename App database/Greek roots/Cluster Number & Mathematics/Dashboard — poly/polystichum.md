@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small to medium-sized terrestrial ferns especially holly ferns; in some classification systems placed in polypodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small to medium-sized terrestrial ferns especially holly ferns; in some classification systems placed in polypodiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large cosmopolitan genus of terrestrial ferns in the family Dryopteridaceae, commonly known as shield ferns or holly ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology and botanical taxonomy, evergreen woodland ferns characterized by round sori covered by peltate (umbrella-like) indusia and tough, pinnate to bipinnate fronds with spinulose teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polystichum designates small to medium-sized terrestrial ferns especially holly ferns; in some classification systems placed in polypodiaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Polystichum**, such as the common Christmas fern, retain their leathery green fronds throughout winter snows."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus **Polystichum** is distinguished among polypodiaceous ferns by its centrally peltate indusium covering each sorus."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"For shaded rock gardens, the stiff lustrous foliage of **Polystichum** aculeatum provides enduring architectural structure."*

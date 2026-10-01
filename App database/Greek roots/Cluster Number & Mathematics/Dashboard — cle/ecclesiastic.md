@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ecclesiastical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ecclesiastical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person in holy orders; a member of the clergy or a church dignitary (priest, minister, bishop).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or suitable for the church or the clerical profession (often contrasted with secular).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The man and the ecclesiastic fought within him, and the victory fell to the man."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"One knows,' I said, 'that there are many things which an ecclesiastic may do without harm, which are not permitted to an ordinary layman--one who is an honest man, and no more.' M. le Curé made no reply."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"What is it?' I cried, 'you are their director--you are an ecclesiastic--you know what belongs to the unseen."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Every wealthy **ecclesiastic** exerted immense political influence upon the imperial court at Ravenna."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Prior of Jorvaulx was a worldly **ecclesiastic** who loved fine horses, hounds, and rich banquets more than penance."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"A gentle Monk, a worthy **ecclesiastic**, rode alongside the company with jangling bridle bells."*

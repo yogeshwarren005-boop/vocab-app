@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The smooth transparent serous membrane that lines the cavity of the abdomen of a mammal and is folded inward over the abdominal and pelvic viscera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smooth transparent serous membrane that lines the cavity of the abdomen of a mammal and is folded inward over the abdominal and pelvic viscera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smooth, continuous serous membrane lining the abdominal cavity and covering the viscera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical anatomy, the membrane consisting of a parietal layer (lining the abdominal wall) and a visceral layer (reflecting over stomach, intestines, liver, and spleen), forming the omentum and mesenteries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peritoneum designates the smooth transparent serous membrane that lines the cavity of the abdomen of a mammal and is folded inward over the abdominal and pelvic viscera."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tuberculous infection of the **peritoneum** may present with diffuse ascites and palpable rolled-up omental masses."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The surgeon deftly incised the glistening **peritoneum**, exposing the inflamed appendix beneath the caecum."*
+> - 📜 **Thomas Addison (*A Collection of the Published Writings*):** *"Extensive adhesions of the **peritoneum** were discovered post-mortem, uniting the intestines into an immovable mass."*

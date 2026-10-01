@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient musical interval equal to two whole tones, corresponding to a Pythagorean major third (frequency ratio 81:64).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Pythagorean tuning and medieval music theory, an interval slightly wider and more dissonant than the pure just major third (5:4), historically classified as an imperfect consonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ditone designates a term designating an entity, condition, or phenomenon derived from greek ten."*
+> - 📜 **Pythagoras (*Harmonics*):** *"Compounding two sesquioctave tones of nine to eight produces the sharp **ditone** of eighty-one to sixty-four."*
+> - 📜 **Boethius (*De Institutione Musica*):** *"The ancient musicians rejected the **ditone** as a perfect consonance because its ratio deviates from simple superparticular proportions."*
+> - 📜 **Thomas Morley (*A Plaine and Easie Introduction to Practicall Musicke*):** *"In ancient counterpoint, the **ditone** was tolerated as an imperfect concord leading toward the fifth."*

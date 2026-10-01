@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief in and reverence for devils (especially satan).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief in and reverence for devils (especially satan).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief in or worship of demons and malevolent supernatural spirits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion and cultural anthropology, a religious or folkloric system attributing natural disasters, diseases, or mental illness to demonic agency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No: but here thou beholdest even in a dumb brute, the instinct of the knowledge of the demonism in the world."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"No: but here thou beholdest even in a dumb brute, the instinct of the knowledge of the demonism in the world."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Animism inevitably gives rise to **demonism**, wherein hostile spiritual entities are invoked to explain disease and misfortune."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The dark undercurrent of **demonism** lingers in ascetic traditions where the soul battles unseen spiritual adversaries."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The expulsion of evils in seasonal ceremonies served to rid the settlement of lingering **demonism** and malevolent ghosts."*

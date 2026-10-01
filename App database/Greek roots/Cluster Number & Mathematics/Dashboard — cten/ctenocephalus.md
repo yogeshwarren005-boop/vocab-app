@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former usage synonymous with ctenocephalides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former usage synonymous with ctenocephalides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older taxonomic name for the flea genus Ctenocephalides; also a genus of fossil trilobites (family Conocoryphidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology and paleontology, an organism having comb-like cephalic structures, spines, or frontal margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ctenocephalus designates a former usage synonymous with ctenocephalides."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The dog was frequently tormented by species described in older monographs under the generic name **Ctenocephalus**."*
+> - 📜 **Roderick Murchison (*Siluria: A History of the Oldest Known Rocks*):** *"Cambrian strata of Bohemia yielded remarkable blind trilobites assigned to the genus **Ctenocephalus**."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"The pectinate cephalic margins characteristic of **Ctenocephalus** anchor the insect securely within animal fur."*

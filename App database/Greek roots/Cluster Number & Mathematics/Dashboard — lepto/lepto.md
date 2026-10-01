@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lepto.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root morpheme (λεπτός, leptos) signifying thin, slender, delicate, fine, or small.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological, medical, and physical nomenclature, a productive combining element producing terms relating to slender structures, thin membranes, or low mass (as in lepton, leptotene, leptomeninges).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lepto designates a term designating an entity, condition, or phenomenon derived from greek lepto."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The radical **lepto-** stems from Greek leptos, signifying peeled, fine, slender, or subtle in texture."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Compounds built upon **lepto-** denote physical slenderness, fine threads, or subtle intellectual distinctions."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The Greek adjective underlying **lepto-** originally meant peeled or husked, from which developed the meaning of thin."*

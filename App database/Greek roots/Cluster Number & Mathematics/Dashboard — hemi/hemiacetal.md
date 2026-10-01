@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organic compound usually formed as an intermediate product in the preparation of acetals from aldehydes or ketones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organic compound usually formed as an intermediate product in the preparation of acetals from aldehydes or ketones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organic chemical compound formed by the nucleophilic addition of an alcohol to an aldehyde (containing a -CH(OH)(OR) group).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carbohydrate chemistry, the cyclic ring structure formed by intramolecular reaction between a sugar's aldehyde group and a hydroxyl group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiacetal designates an organic compound usually formed as an intermediate product in the preparation of acetals from aldehydes or ketones."*
+> - 📜 **Emil Fischer (*Syntheses in the Sugar Group*):** *"The mutarotation of glucose in aqueous solution reflects reversible cyclization into a stable cyclic **hemiacetal**."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The bond angles of the oxygen bridge in the **hemiacetal** pyranose ring confirm the tetrahedral geometry of carbon."*
+> - 📜 **Svante Arrhenius (*Textbook of Theoretical Electrochemistry*):** *"Acid catalysis accelerates the transformation of an unstable open-chain aldehyde into a cyclic **hemiacetal**."*

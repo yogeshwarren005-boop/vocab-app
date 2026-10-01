@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the leptomeninges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the leptomeninges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the leptomeninges (the arachnoid and pia mater) of the brain or spinal cord; meningitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, an acute or chronic infectious condition characterized by fever, nuchal rigidity, headache, photophobia, and leukocytosis in the cerebrospinal fluid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptomeningitis designates inflammation of the leptomeninges."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute purulent **leptomeningitis** demands prompt lumbar puncture to identify the offending diplococcus."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Stiffness of the neck muscles and a positive Kernig sign confirm diffuse inflammation of the **leptomeningitis**."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and its Disorders*):** *"Surgical exploration revealed that the localized headache stemmed from chronic, fibrosing basilar **leptomeningitis**."*

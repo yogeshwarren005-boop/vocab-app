@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or shaped like a quadrilateral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or shaped like a quadrilateral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four angles; quadrangular; or belonging to the crystal system having three mutually perpendicular axes, two of which are equal in length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, one of the seven crystal systems (such as zircon, rutile, and cassiterite), characterized by a four-fold rotational axis of symmetry with axes a = b ≠ c and α = β = γ = 90°.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragonal designates of or relating to or shaped like a quadrilateral."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Crystals of zircon and cassiterite belong to the **tetragonal** system, typically forming square prisms terminated by square pyramids."*
+> - 📜 **Edward Salisbury Dana (*Textbook of Mineralogy*):** *"In the **tetragonal** system, the lateral axes are of equal length and interchangeable, while the vertical c-axis is of different length."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Under cross-polarized light, basal sections of **tetragonal** minerals remain completely isotropic throughout a full rotation."*

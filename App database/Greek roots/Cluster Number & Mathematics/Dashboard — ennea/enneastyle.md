@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ennea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An architectural portico, temple facade, or colonnade having nine columns in front.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greco-Roman architecture, a rare pseudo-dipteral or basilica facade (such as the archaic Temple of Hera I at Paestum) featuring an odd number of frontal columns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enneastyle designates a term designating an entity, condition, or phenomenon derived from greek ennea."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"Colonnades are almost universally designed with an even number of columns, making an **enneastyle** arrangement an extraordinary anomaly."*
+> - 📜 **James Fergusson (*A History of Architecture in All Countries*):** *"The so-called Basilica of Paestum is unique among surviving Doric temples in possessing an **enneastyle** front of nine columns."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"The **enneastyle** facade necessitated a central column along the axis, dividing the interior into two parallel cella aisles."*

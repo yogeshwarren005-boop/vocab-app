@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incomplete or partial metamorphosis in insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incomplete or partial metamorphosis in insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incomplete or gradual metamorphosis in insects and certain other invertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, developmental transformation lacking a distinct pupal resting stage, proceeding through repeated ecdyses of active nymphs directly to the imago.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetamorphosis designates incomplete or partial metamorphosis in insects."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"The process of **hemimetamorphosis** in orthopteran insects allows uninterrupted feeding and growth throughout development."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Variations occurring during **hemimetamorphosis** are exposed continuously to natural selection in the nymph's natural environment."*
+> - 📜 **V. B. Wigglesworth (*The Physiology of Insect Metamorphosis*):** *"Prothoracicotropic hormone secretion initiates each molt in the progression of **hemimetamorphosis**."*

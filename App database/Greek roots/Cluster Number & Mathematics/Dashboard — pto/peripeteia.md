@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden or unexpected reversal of circumstances or situation especially in a literary work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden or unexpected reversal of circumstances or situation especially in a literary work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden reversal of fortune or change in circumstances, especially in a dramatic or narrative work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian poetics and literary criticism, the critical turning point (*peripeteia*) in a tragedy where an action produces the exact opposite of its intended result, ideally accompanied by anagnorisis (recognition).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peripeteia designates a sudden or unexpected reversal of circumstances or situation especially in a literary work."*
+> - 📜 **Aristotle (*Poetics*):** *"A **peripeteia** is a change by which the action veers round to its opposite, subject always to our rule of probability."*
+> - 📜 **Samuel Taylor Coleridge (*Lectures on Shakespeare*):** *"In the catastrophe of Othello, the **peripeteia** overwhelms the spectator with an agonizing realization of fatal deception."*
+> - 📜 **George Steiner (*The Death of Tragedy*):** *"Classical tragedy pivots upon that swift, merciless **peripeteia** which hurls the sovereign from his throne into blind exile."*

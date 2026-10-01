@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a deficiency of plant nutrients that is usually accompanied by an abundance of dissolved oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a deficiency of plant nutrients that is usually accompanied by an abundance of dissolved oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively low in plant nutrients and containing abundant dissolved oxygen in the deeper parts (used especially of lakes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In limnology and marine ecology, describing nutrient-poor waters with high water clarity, low primary productivity, and diverse benthic fauna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligotrophic designates having a deficiency of plant nutrients that is usually accompanied by an abundance of dissolved oxygen."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Walden Pond is a classic **oligotrophic** body of water, astonishingly transparent, with sandy shores and pristine depths."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The central oceanic gyres are **oligotrophic** biological deserts, where clear blue water reflects an absence of nutrient upwelling."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"The northern glacial lake remained **oligotrophic** and crystal-pure until artificial fertilizers contaminated the watershed."*

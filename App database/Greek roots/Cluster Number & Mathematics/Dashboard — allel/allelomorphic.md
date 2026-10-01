@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to alleles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to alleles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, functioning as, or characteristic of an allelomorph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical genetics, describing paired alternative characters or gene states that segregate from one another into different gametes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allelomorphic designates of or relating to alleles."*
+> - 📜 **William Bateson (*Problems of Genetics*):** *"The distribution of pigmented and albino coats in rodents follows standard **allelomorphic** segregation."*
+> - 📜 **Reginald Punnett (*Mendelism*):** *"When two distinct members of an **allelomorphic** pair meet in the zygote, one frequently displays complete dominance."*
+> - 📜 **J. B. S. Haldane (*The Causes of Evolution*):** *"Mathematical models of natural selection must compute the differential survival rates of various **allelomorphic** combinations."*

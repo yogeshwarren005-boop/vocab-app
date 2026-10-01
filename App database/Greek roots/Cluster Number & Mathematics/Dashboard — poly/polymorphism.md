@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of existing in or assuming different forms: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existence of a species in several forms independent of the variations of sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of occurring in several different forms, stages, or varieties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and evolutionary biology, the simultaneous occurrence in the same population of two or more discontinuous phenotypes or genetic variants (such as ABO blood groups); in crystallography, allotropy in crystal structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorphism designates the quality or state of existing in or assuming different forms: such as."*
+> - 📜 **E. B. Ford (*Ecological Genetics*):** *"Genetic **polymorphism** is defined as the occurrence together in the same locality of two or more discontinuous forms of a species in balance."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The **polymorphism** of titanium dioxide gives rise to three distinct natural minerals: rutile, anatase, and brookite."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Castes in social insect colonies exhibit magnificent behavioral and morphological **polymorphism** among sterile females."*

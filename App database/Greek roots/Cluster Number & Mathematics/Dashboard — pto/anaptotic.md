@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of fall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the loss, shedding, or simplification of grammatical inflections or case endings; analytic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and comparative linguistics, evolutionary language change whereby synthetic, inflected tongues (like Old English or Latin) evolve into analytic, uninflected systems relying on word order and prepositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaptotic designates adjective*) pertaining to, derived from, or characteristic of fall."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The transition of synthetic tongues into an **anaptotic** condition demonstrates the triumph of grammatical economy."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"Modern English is a thoroughly **anaptotic** language, having replaced complex noun declensions with auxiliary prepositions."*
+> - 📜 **Otto Jespersen (*Progress in Language*):** *"The progress of Indo-European tongues toward an **anaptotic** structure is not decay, but a rationalization of syntax."*

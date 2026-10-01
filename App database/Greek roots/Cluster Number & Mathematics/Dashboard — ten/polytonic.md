@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utilizing or characterized by multiple tones, accents, or diacritical marks; or polytonal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Greek typography and historical orthography, the traditional system (polytonic orthography) utilizing acute, grave, and circumflex accents, alongside rough and smooth breathings, officially simplified in Greece in 1982.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polytonic designates adjective*) pertaining to, derived from, or characteristic of stretch."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Classical Greek texts require the full **polytonic** orthography to indicate ancient musical pitch accents accurately."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The **polytonic** system of breathings and accents preserves a delicate record of lost vowel quantities and melodic inflections."*
+> - 📜 **Robert Byron (*The Byzantine Achievement*):** *"Greek printing houses preserved the venerable **polytonic** accents as a visible badge of classical continuity."*

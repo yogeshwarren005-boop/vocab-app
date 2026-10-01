@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sapr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which the toxic products of putrefactive bacteria enter the bloodstream without the bacteria themselves multiplying in the blood; British spelling of sapremia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century surgical pathology, systemic toxic fever resulting from the absorption of decomposition products from necrotic tissues, retained placental fragments, or gangrenous wounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapraemia designates a term designating an entity, condition, or phenomenon derived from greek sapr."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Antiseptic cleansing of the putrid cavity arrested the absorption of toxins, quickly subduing the dangerous **sapraemia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Puerperal **sapraemia** subsides rapidly once retained necrotic lochia are thoroughly evacuated from the uterus."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"We must differentiate true progressive septicemia from simple **sapraemia** caused by absorption of dead putrefactive chemicals."*

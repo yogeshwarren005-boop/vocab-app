@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of being , existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of being , existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or having only one substance, essence, or being (from Greek monos and ousia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In patristic philosophy and Christology, describing theological concepts affirming absolute singular divine substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoousious designates adjective*) pertaining to, derived from, or characteristic of being , existence."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The subtle metaphysics of the Greek fathers debated whether the Trinity was strictly **monoousious** in essence yet distinct in persons."*
+> - 📜 **John Henry Newman (*Select Treatises of St. Athanasius*):** *"Athanasius maintained that the Godhead is indivisibly **monoousious**, sharing one identical nature without division or addition."*
+> - 📜 **Jaroslav Pelikan (*The Spirit of Eastern Christendom*):** *"Eastern theologians affirmed that the Godhead is transcendentally **monoousious**, possessing a single undivided divine energeia."*

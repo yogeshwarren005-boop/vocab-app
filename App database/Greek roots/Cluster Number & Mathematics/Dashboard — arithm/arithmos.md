@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arithm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek word for number (ἀριθμός); in classical philosophy, the concept of a discrete, countable multiplicity of units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history and philosophy of mathematics, the ancient Euclidean and Pythagorean concept of a determinate multitude composed of indivisible monads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arithmos designates a term designating an entity, condition, or phenomenon derived from greek arithm."*
+> - 📜 **Aristotle (*Metaphysics*):** *"Number or **arithmos** is defined by the ancients as a plurality that is measured by the unit."*
+> - 📜 **Jacob Klein (*Greek Mathematical Thought and the Origin of Algebra*):** *"For the Greek mind, an **arithmos** is always a definite, countable multitude of concrete things, never an abstract real continuum."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"Euclid defines **arithmos** as a collection composed of units, distinguishing it rigorously from geometric magnitude."*

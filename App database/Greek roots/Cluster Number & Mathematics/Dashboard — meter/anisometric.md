@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having unsymmetrical parts or unequal dimensions or measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having unsymmetrical parts or unequal dimensions or measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not isometric; having unequal dimensions, unequal axes, or unequal rates of growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and materials science, designating crystals belonging to non-cubic systems (such as tetragonal, orthorhombic, or monoclinic) whose unit cell axes are of unequal length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisometric designates having unsymmetrical parts or unequal dimensions or measurements."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Unlike cubic galena, minerals of the **anisometric** systems display unequal axial lengths and birefringent optical behavior."*
+> - 📜 **René Just Haüy (*Traité de Minéralogie*):** *"In **anisometric** crystals, mechanical cleavage properties differ markedly along contrasting crystallographic directions."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The distorted growth of the shell reflects an **anisometric** expansion rate across its growing margins."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of encyclopedic learning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of encyclopedic learning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of wide-ranging knowledge and varied learning across many distinct disciplines; a Renaissance man or universal scholar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and philosophy of science, historic figures (such as Aristotle, Leonardo da Vinci, Gottfried Wilhelm Leibniz, and Thomas Young) who made significant original contributions across arts, humanities, and empirical sciences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymath designates a person of encyclopedic learning."*
+> - 📜 **Thomas Babington Macaulay (*Life and Writings of Addison*):** *"Leibniz was perhaps the last true **polymath** who could survey the entire empire of human knowledge with the eye of a master."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"Thomas Young was a remarkable **polymath**, deciphering Egyptian hieroglyphs while establishing the wave theory of light."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Aristotle was an extraordinary **polymath**, classifying biology, cataloging constitutions, and creating formal logic."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to cone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to cone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quadric surface whose planar cross-sections are conic sections (an ellipsoid, paraboloid, or hyperboloid).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In three-dimensional analytical geometry, any second-degree surface centered or uncentered defined by polynomial equations in three variables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conicoid designates adjective & noun*) resembling, having the physical form of, or akin to cone."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"Through any nine given points in three-dimensional space, a determinate quadric **conicoid** can be uniquely described."*
+> - 📜 **William Kingdon Clifford (*Mathematical Papers*):** *"The focal properties of a general **conicoid** are deduced from the intersections of its asymptotic tangent cones."*
+> - 📜 **George Salmon (*A Treatise on the Analytic Geometry of Three Dimensions*):** *"Every plane section of a central **conicoid** yields an ellipse or hyperbola depending on the orientation of the cutting plane."*

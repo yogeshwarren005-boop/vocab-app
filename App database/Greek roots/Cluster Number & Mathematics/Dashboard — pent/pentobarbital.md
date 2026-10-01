@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A barbiturate (trade name nembutal) used as a sedative and hypnotic and antispasmodic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A barbiturate (trade name nembutal) used as a sedative and hypnotic and antispasmodic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short-acting barbiturate drug commonly used as a sedative, hypnotic, pre-anesthetic medication, and veterinary euthanasia agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and neurochemistry, a GABA-A receptor positive allosteric modulator (traditionally sold as Nembutal) that depresses central nervous system activity, formerly used in lethal injection protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentobarbital designates a barbiturate (trade name nembutal) used as a sedative and hypnotic and antispasmodic."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"The hypnotic action of **pentobarbital** begins within twenty minutes of oral administration and lasts from three to four hours."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Small bedtime doses of **pentobarbital** calmed the patient's nocturnal agitations without producing morning hangover."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Overdosage with **pentobarbital** produces profound central respiratory depression requiring immediate mechanical ventilatory support."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to lose one's composure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be out of tune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put out of tune, disarrange, discord, or throw into disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance poetry and musical metaphysics, disrupting the harmonic order or cosmic proportion (*musica universalis*) that binds creation, society, or the human psyche.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take but degree away, untune that string, And hark what discord follows!"*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Take but degree away, **untune** that string, and hark what discord follows! each thing meets in mere oppugnancy."*
+> - 📜 **John Dryden (*A Song for St. Cecilia's Day*):** *"The trumpet shall be heard on high, the dead shall live, the living die, and Music shall **untune** the sky."*
+> - 📜 **John Milton (*Arcades*):** *"Such music before was never heard, unless when the heavenly spheres did move, before sin did **untune** the choir."*

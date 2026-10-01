@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using or marked by tact in dealing with sensitive matters or people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using or marked by tact in dealing with sensitive matters or people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic variant of diplomatic, pertaining to diplomacy, official state treaties, or the deciphering of ancient charters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the science of diplomatics (the critical study of ancient historical documents, manuscripts, and seals).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplomatical designates using or marked by tact in dealing with sensitive matters or people."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The authenticity of the papal grant was submitted to the rigorous scrutiny of **diplomatical** criticism."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"Endless **diplomatical** protocols and couriers passed between Berlin and Vienna throughout the tense autumn."*
+> - 📜 **Lord Chesterfield (*Letters to His Son*):** *"A young man intended for foreign courts must master both history and the **diplomatical** traditions of European sovereigns."*

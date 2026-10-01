@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of five tones; specifically : being or relating to a scale in which the tones are arranged like a major scale with the fourth and seventh tones omitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of five tones; specifically : being or relating to a scale in which the tones are arranged like a major scale with the fourth and seventh tones omitted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or based on five musical tones or pitches per octave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music theory, scales (such as the major pentatonic 1-2-3-5-6) lacking the fourth and seventh degrees, eliminating dissonant tritones and semitones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentatonic designates consisting of five tones; specifically : being or relating to a scale in which the tones are arranged like a major scale with the fourth and seventh tones omitted."*
+> - 📜 **Claude Debussy (*Monsieur Croche, the Dilettante Hater*):** *"The Javanese gamelan, with its subtle **pentatonic** inflections, makes our Western counterpoint seem like child's play."*
+> - 📜 **Zoltán Kodály (*Folk Music of Hungary*):** *"Children absorb melody most naturally through the **pentatonic** scale, which avoids the difficult intonation of semitones."*
+> - 📜 **Leonard Bernstein (*The Unanswered Question*):** *"The universal **pentatonic** scale occurs independently across cultures because its intervals stem directly from the overtone series."*

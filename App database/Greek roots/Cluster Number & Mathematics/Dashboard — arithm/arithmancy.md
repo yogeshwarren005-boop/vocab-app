@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by means of numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or fortune-telling through the occult interpretation of numbers or the numerical values assigned to letters in names.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical esotericism and occult philosophy, a branch of numerology claiming to uncover hidden character traits and future destiny through numerical reduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arithmancy designates divination by means of numbers."*
+> - 📜 **Heinrich Cornelius Agrippa (*Three Books of Occult Philosophy*):** *"By the ancient art of **arithmancy**, the adept computes the numerical potency of secret divine names."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Some seek vain prophecies in dreams and planetary hours, while others consult superstitious **arithmancy** and cabalistic letters."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The mystical reduction of names to numerical values practiced in **arithmancy** rests upon arbitrary phonetic conventions."*

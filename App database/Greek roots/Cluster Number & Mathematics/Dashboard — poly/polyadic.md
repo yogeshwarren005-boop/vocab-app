@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of many.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of many.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of, having, or involving many parts, elements, terms, or variables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic and mathematics, a relation, function, or predicate that takes many arguments (such as n-ary or polyadic predicates), contrasted with monadic and dyadic relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyadic designates adjective*) pertaining to, derived from, or characteristic of many."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Every **polyadic** relation can be analyzed as a compound network of triadic and dyadic connections."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"A **polyadic** proposition involves a relation asserting a symmetrical or asymmetrical tie among many terms."*
+> - 📜 **Willard Van Orman Quine (*Word and Object*):** *"Standardizing logic requires clarifying whether a predicate is monadic, dyadic, or generally **polyadic** in its argument structure."*

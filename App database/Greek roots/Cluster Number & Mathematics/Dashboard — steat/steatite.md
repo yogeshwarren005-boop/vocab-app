@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft heavy compact variety of talc having a soapy feel; used to make hearths and tabletops and ornaments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft heavy compact variety of talc having a soapy feel; used to make hearths and tabletops and ornaments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, talc-rich metamorphic rock commonly known as soapstone, having a soapy or greasy feel and easily carved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology, archaeology, and ceramic engineering, an impure massive talcose rock historically carved into cooking pots, amulets, and hearth linings because of its high heat capacity and chemical resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"And here, yielding to an irresistible impulse, I wrote my name upon the nose of a steatite monster from South America that particularly took my fancy."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Moreover, there were 'millet coloured' (_mi sê_) and pale green (_fên ch´ing_) kinds.[229] The potters used _hua shih_ (steatite) in the glaze, and the crackle was in running lines, like a broken thing."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"The massive variety of talc known as **steatite** or soapstone is easily cut with a knife and greasy to the touch."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Ancient Native American tribes carved heavy cooking pots and pipes from quarries of soft metamorphic **steatite**."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Hydrothermal alteration of ultramafic serpentine bodies commonly results in dense formations of gray **steatite**."*

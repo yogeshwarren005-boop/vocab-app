@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Maleos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maleos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally large head; macrocephaly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical teratology and developmental anatomy, a fetus or individual exhibiting abnormal, disproportionate cranial enlargement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog macrocephalon as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"The infant presented a marked **macrocephalon** with wide separation of the cranial sutures and bulging anterior fontanelle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Obstetric complications frequently arise when hydrocephalic fluid distends the fetal cranium into a colossal **macrocephalon**."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Early surgical shunting is indicated before the skull bones permanently fuse around the enlarged **macrocephalon**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek poly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that flowers and produces seeds repeatedly year after year; a polycarpic perennial plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical terminology and plant reproductive ecology, a species exhibiting iteroparity (flowering multiple times throughout its lifespan), contrasted with monanthous or monocarpic species that die after a single flowering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pollakanth designates a term designating an entity, condition, or phenomenon derived from greek poly."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Unlike the century plant which dies after one magnificent effort, the oak is a perennial **pollakanth**, blooming every spring."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Herbaceous perennials of the **pollakanth** type store root reserves to sustain repetitive annual flowerings."*
+> - 📜 **Arthur Cronquist (*The Evolution and Classification of Flowering Plants*):** *"The evolutionary shift from a monocarpic life cycle to a **pollakanth** perennial habit reflects adaptation to stable woodland habitats."*

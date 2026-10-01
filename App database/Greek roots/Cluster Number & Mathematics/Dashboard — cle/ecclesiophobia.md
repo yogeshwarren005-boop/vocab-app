@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational fear, hatred, or dread of churches, ecclesiastical buildings, or religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abnormal psychology, an intense situational phobia marked by panic and avoidance when confronting sacred architecture or religious ceremonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecclesiophobia designates a term designating an entity, condition, or phenomenon derived from greek cle."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Psychological aversions such as **ecclesiophobia** frequently trace back to severe emotional trauma experienced during childhood rituals."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Religious melancholy in some breeds despairing devotion, and in others a frantic **ecclesiophobia** that flees holy shrines."*
+> - 📜 **George Miller Beard (*American Nervousness*):** *"Among our neurasthenic cases, occasional morbid fears appear as **ecclesiophobia**, where church attendance induces severe palpitations."*

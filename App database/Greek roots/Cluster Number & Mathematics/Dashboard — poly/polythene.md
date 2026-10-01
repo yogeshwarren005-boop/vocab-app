@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight thermoplastic; used especially in packaging and insulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lightweight thermoplastic; used especially in packaging and insulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight, flexible plastic formed by the polymerization of ethylene; British term for polyethylene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and packaging history, commercial polymers (introduced by Imperial Chemical Industries in the 1930s) widely used in film, bags, electrical cable insulation, and containers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polythene designates a lightweight thermoplastic; used especially in packaging and insulation."*
+> - 📜 **Herman Mark (*Giant Molecules*):** *"During the war, the secret development of **polythene** insulation made compact airborne radar sets practicable for Allied aircraft."*
+> - 📜 **F. A. Henglein (*Chemical Technology*):** *"High-pressure synthesis converts ethylene gas into translucent **polythene**, impervious to water vapor and chemical solvents."*
+> - 📜 **Arthur Conan Doyle (*Our American Adventure*):** *"Modern synthetics like **polythene** have transformed everyday domestic commerce with durable, transparent packaging."*

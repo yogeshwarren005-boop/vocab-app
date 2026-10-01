@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally small penis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally small penis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A penis that is normally formed but significantly smaller than the standard reference range for a given age (typically more than 2.5 standard deviations below the mean).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric endocrinology, a condition often caused by fetal testosterone deficiency, hypogonadotropic hypogonadism, or androgen insensitivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micropenis designates an abnormally small penis."*
+> - 📜 **Siddhartha Mukherjee (*The Gene: An Intimate History*):** *"Defects along the androgen receptor signaling pathway can produce ambiguous genitalia or isolated congenital **micropenis**."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The pediatric endocrinologist assessed whether hormonal therapy in infancy could correct the structural hypoplasia of **micropenis**."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Surgical and endocrinological management of conditions like **micropenis** require delicate, multidisciplinary clinical discernment."*

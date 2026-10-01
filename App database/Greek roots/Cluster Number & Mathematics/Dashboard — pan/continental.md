@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or typical of europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or concerning the american colonies during and immediately after the american revolutionary war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a continent; forming or belonging to a continuous landmass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and geological contexts, referring to the mainland of Europe (contrasted with the British Isles), or the tectonic continental drift and shelf.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was, so to speak, that symmetry in their distortion which is less the characteristic of British than of Continental grotesques of the period."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The continental notes were issued by the Continental Congress in the first year of the war (1775), and for the next five years."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Buy and sell anywhere bills, notes, revenue bonds, and warrants of the states and subdivisions in the continental United States. f."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A well-constructed Union provides the only effective shield against European imperial intrigue on our **continental** borders."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The gentle slope of the **continental** shelf plunges precipitously into the abyss along submarine canyon walls."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The mercantile restrictions of the **continental** system distorted agricultural markets across Western Europe."*

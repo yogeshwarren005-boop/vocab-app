@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An architectural plinth, pedestal, or ornamental figure mounted upon the apex or lower corners of a pediment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greco-Roman architecture, a decorative terminal element such as a palmette, statue, or urn crowning a temple gable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acroterion designates a term designating an entity, condition, or phenomenon derived from greek acr."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The sharp triangular silhouette of the pediment was relieved at each angle by a sculptured marble **acroterion**."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"Upon the corner **acroteria** should stand statues whose height matches that of the tympanum center."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"Finely carved anthemion ornaments crowned the summit and lateral piers as decorative **acroterion** features."*

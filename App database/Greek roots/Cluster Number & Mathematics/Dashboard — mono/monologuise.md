@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk to oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk to oneself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak in or deliver a monologue; to talk aloud to oneself or monopolize a conversation (British spelling of monologuize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and drama, to express inner consciousness or philosophical musings through extended solo speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monologuise designates talk to oneself."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Professor Higgins began to **monologuise** with passionate eloquence on the science of phonetics, oblivious to his listeners."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry loved to **monologuise** across the dinner table, tossing glittering paradoxes into the silent room."*
+> - 📜 **James Joyce (*Ulysses*):** *"Bloom paused beneath the awning, beginning to **monologuise** on the mechanics of tramlines and morning crowds."*

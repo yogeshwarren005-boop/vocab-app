@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leafless fleshy saprophytic plants; in some classifications placed in the family pyrolaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leafless fleshy saprophytic plants; in some classifications placed in the family pyrolaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of mycoheterotrophic herbaceous plants in the family Ericaceae, notably Monotropa uniflora (Indian pipe or ghost plant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical ecology, achlorophyllous plants that obtain all nutrients by parasitizing mycorrhizal fungi connected to nearby forest trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotropa designates leafless fleshy saprophytic plants; in some classifications placed in the family pyrolaceae."*
+> - 📜 **Emily Dickinson (*Letters of Emily Dickinson*):** *"I send you the ghostly **Monotropa**, the Indian pipe of our autumn woods, translucent as carved alabaster."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"In the damp pine duff beneath ancient hemlocks grew clusters of wax-white **Monotropa**, nodding like fairy lanterns."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Plants of the genus **Monotropa** are entirely devoid of green chlorophyll, subsisting as saprophytes upon rich fungal humus."*

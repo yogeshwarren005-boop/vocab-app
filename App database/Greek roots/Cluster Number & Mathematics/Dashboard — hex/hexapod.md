@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: insect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: six-footed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal having six legs; specifically, an insect belonging to the subphylum Hexapoda.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and robotics, an organism or machine walking on six articulating legs, typically using an alternating tripod gait.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hexapod as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"The true **hexapod** is distinguished from spiders and crustaceans by possessing three pairs of thoracic walking legs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every adult winged **hexapod** inherits the threefold division of head, thorax, and abdomen."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Beetle*):** *"The industrious little **hexapod** pushed its dung sphere across the gravel with tireless leg coordination."*

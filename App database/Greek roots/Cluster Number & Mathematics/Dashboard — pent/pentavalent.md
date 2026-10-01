@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a valence of five.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a valence of five.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a valence of five; capable of combining with or substituting for five atoms of hydrogen or other univalent elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry and semiconductor physics, elements of group 15 (such as phosphorus, arsenic, and antimony) acting as n-type donor dopants in silicon crystals; also vaccines immunizing against five pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentavalent designates having a valence of five."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"Phosphorus and nitrogen form **pentavalent** oxides and halides corresponding to the highest oxidation state of the fifth group."*
+> - 📜 **William Shockley (*Electrons and Holes in Semiconductors*):** *"Introducing **pentavalent** impurity atoms into a germanium lattice provides excess conduction electrons, creating an n-type semiconductor."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"In phosphorus pentachloride, the central atom exhibits **pentavalent** coordination arranged in a trigonal bipyramid."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remorse for your past conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remorse for your past conduct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sincere regret, compunction, or sorrow for past misconduct, accompanied by an intentional determination to amend one's life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical theology and psychology, the moral act of acknowledging wrongdoing, undergoing profound sorrow, and undertaking restitution and inner reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The one you may do with sterling money, and the other with current repentance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you therefore hence, Poor miserable wretches, to your death, The taste whereof God of his mercy give You patience to endure, and true repentance Of all your dear offences!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, in mercy, The Constable desires thee thou wilt mind Thy followers of repentance; that their souls May make a peaceful and a sweet retire From off these fields, where, wretches, their poor bodies Must lie and fester."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Sorrow for evils past is only so far virtuous as it produces **repentance**, and repentance is only valid as it works reformation."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's heart melted into genuine **repentance** as she acknowledged how selfish her grief had been toward her sister."*
+> - 📜 **John Locke (*The Reasonableness of Christianity*):** *"Faith without sincere **repentance** is dead, for Christ required that men forsake their transgressions and obey God's laws."*

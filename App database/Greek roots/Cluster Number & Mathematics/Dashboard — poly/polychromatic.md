@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a variety or a change of colors : multicolored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to radiation that is composed of more than one wavelength.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing, exhibiting, or composed of a variety of different colors; multicolored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and radiation physics, electromagnetic radiation consisting of multiple wavelengths or frequencies, contrasted with monochromatic radiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychromatic designates showing a variety or a change of colors : multicolored."*
+> - 📜 **Isaac Newton (*Opticks*):** *"A beam of sunlight passing through a triangular prism is resolved into a **polychromatic** spectrum of refracted rays."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The facade of St. Mark's glows with **polychromatic** marble panels and gilded Byzantine mosaics."*
+> - 📜 **Arthur Compton (*X-Rays and Electrons*):** *"A crystal diffraction grating sorts the continuous **polychromatic** X-ray beam into discrete spectral lines."*

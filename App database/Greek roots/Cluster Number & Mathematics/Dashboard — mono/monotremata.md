@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the subclass prototheria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the subclass prototheria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian order consisting of egg-laying mammals, comprising the platypus and echidnas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, an ancient mammalian clade characterized by oviparity, a cloaca, and absence of nipples (milk secreted onto skin).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotremata designates coextensive with the subclass prototheria."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The order **Monotremata** bridges the reptilian osteology of the shoulder girdle with mammalian lactation and fur."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Our common ancestor with the **Monotremata** takes us back more than one hundred and sixty million years to Gondwana."*
+> - 📜 **David Attenborough (*The Life of Mammals*):** *"The platypus and echidna, sole survivors of the order **Monotremata**, demonstrate how ancient mammals reproduced before the evolution of the placenta."*

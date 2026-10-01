@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vertebrate (such as an amphibian, a bird, or a mammal) with two pairs of limbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vertebrate (such as an amphibian, a bird, or a mammal) with two pairs of limbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A four-footed animal, especially any vertebrate belonging to the superclass Tetrapoda.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate evolutionary paleontology, all four-limbed vertebrates and their descendants (amphibians, reptiles, birds, mammals, and secondarily limbless forms like snakes and whales) that evolved from sarcopterygian lobe-finned fish in the Devonian period; or a four-legged concrete breakwater block.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrapod designates a vertebrate (such as an amphibian, a bird, or a mammal) with two pairs of limbs."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The basic pentadactyl limb pattern unites every terrestrial **tetrapod** from the Paleozoic amphibian to modern man."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The transition of lobe-finned fish to the first terrestrial **tetrapod** was one of the decisive breakthroughs in animal history."*
+> - 📜 **Arthur Smith Woodward (*Outlines of Vertebrate Palaeontology*):** *"Devonian footprints demonstrate that the earliest **tetrapod** possessed sturdy walking limbs before venturing permanently onto dry land."*

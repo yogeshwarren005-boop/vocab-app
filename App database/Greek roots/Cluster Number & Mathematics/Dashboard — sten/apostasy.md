@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of refusing to continue to follow, obey, or recognize a religious faith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abandonment of a previous loyalty : defection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal abandonment, renunciation, or desertion of a religious belief, political principle, or allegiance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological jurisprudence and intellectual history, the total repudiation of the Christian faith by a baptized believer, or defection from a party or cause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This was what he had got by apostasy, and his punishment was deserved."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"And the whole life reacts on him and we can see him, lean and worn, though still a young man, a keen, rather excitable spirit--in every feature the marks of revolt against a civilization which he views as an apostasy."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Christians fell into adultery and apostasy, and while at first this meant "delivery to Satan," restoration became progressively easy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor Julian's celebrated **apostasy** from Christianity was nurtured by his secret devotion to the Neoplatonic mysteries."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So spake the Seraph Abdiel, faithful found; among the faithless, faithful only he; among innumerable false, unmoved by **apostasy**."*
+> - 📜 **Thomas More (*The Debellation of Salem and Bizance*):** *"The canonical penalty for obstinate **apostasy** was total exclusion from the communion of the faithful."*

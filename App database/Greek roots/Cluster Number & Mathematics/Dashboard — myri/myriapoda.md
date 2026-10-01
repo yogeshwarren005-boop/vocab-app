@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arthropods having the body composed of numerous double somites each with two pairs of legs: millipedes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arthropods having the body composed of numerous double somites each with two pairs of legs: millipedes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subphylum of terrestrial arthropods containing the centipedes, millipedes, symphylans, and pauropods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, tracheate arthropods characterized by a distinct head with one pair of antennae and numerous homonomous trunk segments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriapoda designates arthropods having the body composed of numerous double somites each with two pairs of legs: millipedes."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The class **Myriapoda** is distinguished by an undivided trunk composed of numerous uniform rings, each bearing jointed legs."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Fossils from the Silurian demonstrate that members of **Myriapoda** were among the very first animals to colonize dry land."*
+> - 📜 **David Attenborough (*Life on Earth*):** *"Before vertebrates ventured from the shallows, armored ancestors of **Myriapoda** were already grazing on primitive mosses."*

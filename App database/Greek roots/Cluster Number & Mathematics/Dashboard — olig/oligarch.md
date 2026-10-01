@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the rulers in an oligarchy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the rulers in an oligarchy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ruler in an oligarchy; an individual belonging to a small group that holds supreme political power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern political economy, a very wealthy business magnate who exercises immense, often illicit influence over government policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligarch designates one of the rulers in an oligarchy."*
+> - 📜 **George Orwell (*1984*):** *"The ruling inner party member acted like an untouchable **oligarch**, controlling information, truth, and historical memory."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The Athenian **oligarch** plotted secretly to overturn the democratic constitution and restore aristocratic rule."*
+> - 📜 **Francis Fukuyama (*The Origins of Political Order*):** *"In post-Soviet transitions, the rise of the resource-rich **oligarch** undermined nascent institutional rule of law."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of eight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of eight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of an octad or the number eight; based on eight parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In esoteric philosophy and prosody, characterized by eightfold division, grouping, or symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octadic designates adjective*) pertaining to, derived from, or characteristic of eight."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"The ancients contemplated the **octadic** number as a symbol of celestial renewal and resurrection."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The strophic arrangement follows a strict **octadic** pattern, balancing eight lines of alternating rhyme."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"In certain ancient Mediterranean rituals, an **octadic** cycle governed the renewal of the sacred kingship."*

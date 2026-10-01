@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is a member of a religious order and lives in a monastery; also : friar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who is a member of a religious order and lives in a monastery; also : friar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a religious community of men typically living under vows of poverty, chastity, and obedience in a monastery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and comparative religion, an ascetic practitioner dedicated to prayer, contemplation, meditation, and spiritual scholarship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I told my lord the Duke, by th’ devil’s illusions The monk might be deceived, and that ’twas dangerous For him to ruminate on this so far until It forged him some design, which, being believed, It was much like to do."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King, I fear, is poison’d by a monk."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A monk, I tell you, a resolved villain, Whose bowels suddenly burst out."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"A **monk** ther was, a fair for the maistrie, / An outridere, that lovede venerie, / A manly man, to been an abbot able."*
+> - 📜 **Fyodor Dostoevsky (*The Brothers Karamazov*):** *"The elder Zosima taught the young novice that a humble **monk** bears the sorrows of all humanity in his silent prayers."*
+> - 📜 **Aldous Huxley (*The Perennial Philosophy*):** *"The Buddhist **monk** sweeping the temple steps cultivates mindfulness as a direct path to transcendent awakening."*

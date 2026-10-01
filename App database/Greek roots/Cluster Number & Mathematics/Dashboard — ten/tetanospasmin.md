@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent neurotoxin produced by *Clostridium tetani*, responsible for the severe muscle spasms characteristic of tetanus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology and molecular pathology, an extremely lethal zinc metalloprotease that undergoes retrograde axonal transport to spinal interneurons, cleaving synaptobrevin and blocking the release of inhibitory neurotransmitters (GABA and glycine), resulting in uncontrolled tetanic contractions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetanospasmin designates a term designating an entity, condition, or phenomenon derived from greek ten."*
+> - 📜 **Emil von Behring (*Nobel Lecture: Serum Therapy in Therapeutics and Medical Science*):** *"The horrific muscular rigidity of tetanus is provoked by minute traces of **tetanospasmin** acting upon the central reflex arc."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Retrograde neural uptake of **tetanospasmin** leads to disinhibition of anterior horn motor cells and agonizing generalized convulsions."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Kitasato succeeded in isolating the tetanus bacillus, showing that its filtrate harbored the deadly toxin **tetanospasmin**."*

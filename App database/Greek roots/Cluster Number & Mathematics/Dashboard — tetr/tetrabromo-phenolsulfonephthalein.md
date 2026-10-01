@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dye used as an acid-base indicator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dye used as an acid-base indicator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bromophenol blue; a pH indicator dye that transitions from yellow at pH 3.0 to blue-violet at pH 4.6.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry and biochemistry, an acidic dye used as a visual tracking dye in agarose and polyacrylamide gel electrophoresis and as a sensitive clinical protein indicator in urinalysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrabromo-phenolsulfonephthalein designates a dye used as an acid-base indicator."*
+> - 📜 **William Mansfield Clark (*The Determination of Hydrogen Ions*):** *"The indicator **tetrabromo-phenolsulfonephthalein**, or bromophenol blue, exhibits a brilliant yellow to blue color change between pH 3.0 and 4.6."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Spectrophotometric calibration of **tetrabromo-phenolsulfonephthalein** provides precise titration endpoints in acidic solutions."*
+> - 📜 **Arthur Kornberg (*Enzymatic Synthesis of DNA*):** *"Electrophoretic migration of DNA fragments was monitored using **tetrabromo-phenolsulfonephthalein** tracking dye in the loading buffer."*

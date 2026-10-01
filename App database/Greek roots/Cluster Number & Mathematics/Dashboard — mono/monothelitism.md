@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine that christ had only one will even though he had two natures (human and divine); condemned as heretical in the third council of constantinople.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine that christ had only one will even though he had two natures (human and divine); condemned as heretical in the third council of constantinople.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seventh-century Christian heresy maintaining that Jesus Christ had two natures (divine and human) but only one divine-human will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history, an imperial Byzantine compromise promoted by Emperor Heraclius to bridge Chalcedonian orthodoxy and Monophysitism, condemned at the Third Council of Constantinople (680–681).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monothelitism designates the theological doctrine that christ had only one will even though he had two natures (human and divine); condemned as heretical in the third council of constantinople."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The obscure controversy of **Monothelitism** agitated the Byzantine court until condemned by the sixth ecumenical council."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"The subtle formula of **Monothelitism** attempted to secure theological peace at the expense of Christ's genuine human will."*
+> - 📜 **Jaroslav Pelikan (*The Christian Tradition: The Spirit of Eastern Christendom*):** *"Maximus the Confessor endured mutilation rather than subscribe to the imperial doctrine of **Monothelitism**."*

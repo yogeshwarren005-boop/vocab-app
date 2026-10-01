@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 40 million to 25 million years ago; appearance of sabertoothed cats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From 40 million to 25 million years ago; appearance of sabertoothed cats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major epoch of the Paleogene period, extending from about 33.9 to 23 million years ago, following the Eocene and preceding the Miocene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and paleontology, the epoch marked by global cooling, the spread of grasslands, and the adaptive radiation of modern mammalian families.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oligocene designates from 40 million to 25 million years ago; appearance of sabertoothed cats."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"I proposed dividing the Tertiary strata into distinct epochs, later joined by the **Oligocene** to capture transitional fossil faunas."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The profound climate shift of the early **Oligocene** triggered widespread extinctions known in European paleontology as the Grande Coupure."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"During the **Oligocene**, Antarctic ice sheets expanded dramatically, rearranging deep ocean currents across the globe."*

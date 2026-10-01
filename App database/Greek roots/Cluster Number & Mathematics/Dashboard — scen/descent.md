@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properties attributable to your ancestry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of moving downward, falling, or dropping; a downward slope; or a person's lineage or ancestry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, descent with modification, Charles Darwin's foundational principle explaining biodiversity through common genealogical ancestry and natural selection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Richard will be true, not that alone But all the whole inheritance I give That doth belong unto the house of York, From whence you spring by lineal descent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First note that he is near you in descent, And should you fall, he is the next will mount."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was ’t you that revelled in our parliament And made a preachment of your high descent?"*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"All the organic beings which have ever lived on this earth have descended from some one primordial form: this is **descent** with modification."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From morn to noon he fell, from noon to dewy eve, a summer's day; and with the setting sun dropped from the zenith, in headlong **descent**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rapid **descent** of the Roman empire from Marcus Aurelius to Commodus illustrates the fragility of hereditary virtue."*

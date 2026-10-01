@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time when Jesus Christ will return to judge humanity at the end of the world : second coming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The time when Jesus Christ will return to judge humanity at the end of the world : second coming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second coming of Christ in Christian theology; the expected return of Jesus in glory at the end of the age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greek, presence, arrival, or the official formal state visit of a king or emperor to a province.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parousia designates the time when jesus christ will return to judge humanity at the end of the world : second coming."*
+> - 📜 **Albert Schweitzer (*The Quest of the Historical Jesus*):** *"The earliest Christian communities lived in intense, expectant anticipation of the imminent **parousia** of the Son of Man."*
+> - 📜 **C.S. Lewis (*The World's Last Night and Other Essays*):** *"The Christian doctrine of the **parousia** reminds us that the drama of human history will terminate by divine intervention."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The delay of the long-expected **parousia** compelled the early Church to establish enduring institutional structures."*

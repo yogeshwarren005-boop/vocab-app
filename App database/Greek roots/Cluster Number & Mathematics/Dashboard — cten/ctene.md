@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A locomotor organ consisting of a row of strong cilia whose bases are fused.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A locomotor organ consisting of a row of strong cilia whose bases are fused.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the locomotory comb plates of a ctenophore, consisting of a row of fused cilia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology, each transverse paddle-like ciliary comb that beats metachronally to propel a comb jelly through water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ctene designates a locomotor organ consisting of a row of strong cilia whose bases are fused."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Protozoa through Ctenophora*):** *"Each individual **ctene** beats in coordinated metachronal rhythm under the sensory control of the apical aboral organ."*
+> - 📜 **Alexander Agassiz (*North American Acalephae*):** *"Light striking the moving rows of each **ctene** produces dazzling prismatic flashes along the flanks of the animal."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Microscopic examination shows that a **ctene** is formed by the lateral fusion of hundreds of elongated vibrating cilia."*

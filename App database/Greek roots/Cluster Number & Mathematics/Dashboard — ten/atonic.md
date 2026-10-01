@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by atony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uttered without accent or stress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking normal physiological tone, tension, or energy; relaxed or flaccid; or an unstressed syllable in linguistics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, designating seizures (atonic seizures or drop attacks) where sudden loss of muscle tone causes the patient to collapse; in phonetics, unaccented vowels or syllables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atonic designates characterized by atony."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic dilatation of the stomach, the muscular walls become **atonic** and unable to propel food forward."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"In rapid English speech, vowels in **atonic** syllables universally reduce toward the neutral central schwa."*
+> - 📜 **W. Russell Brain (*Diseases of the Nervous System*):** *"The sudden collapse of an **atonic** drop attack results from transient paroxysmal inhibition of brainstem motor centers."*

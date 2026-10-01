@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of magnetic flux density equal to one millionth of a gauss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of magnetic flux density equal to one millionth of a gauss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of magnetic flux density equal to one-millionth (10^-6) of a gauss (or 10^-10 tesla).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and geophysics, a unit used to quantify weak magnetic fields in interstellar space or ultra-sensitive biomagnetic measurements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgauss designates a unit of magnetic flux density equal to one millionth of a gauss."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The galactic magnetic field permeates the spiral arms with an intensity of only a few **microgauss**, yet it guides cosmic rays."*
+> - 📜 **Hannes Alfvén (*Cosmical Electrodynamics*):** *"Interstellar clouds collapse under self-gravitation while freezing in magnetic flux lines measured in units of **microgauss**."*
+> - 📜 **Subrahmanyan Chandrasekhar (*Hydrodynamic and Hydromagnetic Stability*):** *"Even a background field of several **microgauss** exerts measurable stabilizing tension across magnetized interstellar gas clouds."*

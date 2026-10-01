@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cephal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having an abnormally large head or cranial capacity, defined as an occipitofrontal circumference greater than two standard deviations above the mean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and pediatrics, cranial enlargement arising from megalencephaly, hydrocephalus, intracranial mass lesions, or bone thickening disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrocephaly designates a term designating an entity, condition, or phenomenon derived from greek cephal."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Progressive **macrocephaly** during the first year of life warrants immediate neurological imaging to rule out obstructive hydrocephalus."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"In familial megalencephaly, benign **macrocephaly** persists without intellectual impairment or elevated intracranial pressure."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and its Disorders*):** *"Bony hyperostosis in advanced acromegaly may contribute to secondary adult-onset **macrocephaly**."*

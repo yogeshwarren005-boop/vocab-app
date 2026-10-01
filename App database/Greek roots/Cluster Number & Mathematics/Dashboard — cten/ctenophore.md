@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Biradially symmetrical hermaphroditic solitary marine animals resembling jellyfishes having for locomotion eight rows of cilia arranged like teeth in a comb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biradially symmetrical hermaphroditic solitary marine animals resembling jellyfishes having for locomotion eight rows of cilia arranged like teeth in a comb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any marine invertebrate belonging to the phylum Ctenophora, characterized by eight rows of swimming comb plates; a comb jelly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pelagic marine ecology, a bioluminescent, gelatinous carnivore that captures prey using sticky tentacles equipped with colloblasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ctenophore designates biradially symmetrical hermaphroditic solitary marine animals resembling jellyfishes having for locomotion eight rows of cilia arranged like teeth in a comb."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"A single scoop of the plankton net revealed dozens of luminous **ctenophores** pulsating with ethereal cold fire."*
+> - 📜 **Ernst Haeckel (*Report on the Radiolaria*):** *"The delicate, translucent tissues of the pelagic **ctenophore** dissolve rapidly if exposed to turbulent breakers."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The oceanic **ctenophore** controls its buoyancy and balance through the sensory gravity-sensing otolith at its aboral pole."*

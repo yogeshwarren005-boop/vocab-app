@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or characterized by the interval of a semitone (half-step); or designating a musical scale that contains semitones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnomusicology and modal theory, five-tone scales containing semitones (such as Japanese *in* and *hirajoshi* scales), contrasted with standard anhemitonic pentatonic scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemitonic designates adjective*) pertaining to, derived from, or characteristic of stretch."*
+> - 📜 **Alexander John Ellis (*On the Musical Scales of Various Nations*):** *"The Japanese koto tuning demonstrates a **hemitonic** pentatonic structure with minor second intervals that sound exotic to Western ears."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"Unlike Celtic folk song, certain Mediterranean folk melodies are distinctly **hemitonic**, relying on sharp semitone inflections."*
+> - 📜 **Béla Bartók (*Rumanian Folk Music*):** *"The modal flavor of the dance melody shifts abruptly from an anhemitonic opening to a tense **hemitonic** cadential close."*

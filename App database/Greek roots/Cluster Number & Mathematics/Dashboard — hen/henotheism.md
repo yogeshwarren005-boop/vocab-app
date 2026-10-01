@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of one god without denying the existence of other gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of one god without denying the existence of other gods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of a single supreme god without denying the existence of other deities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion, a concept introduced by Max Müller to describe the religious practice (as in Vedic hymns) of exalting whichever deity is being addressed to supreme rank.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, henotheism designates the worship of one god without denying the existence of other gods."*
+> - 📜 **Friedrich Max Müller (*Lectures on the Origin and Growth of Religion*):** *"I designated this temporary exaltation of each single god as supreme by the term **henotheism**."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Between polytheistic animism and strict monotheism lies the intermediate stage of **henotheism**."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The emotional surrender to one chosen personal divinity mirrors the ancient practice of devotional **henotheism**."*

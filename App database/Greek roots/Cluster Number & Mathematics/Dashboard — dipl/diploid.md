@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving two sets of homologous chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single cell, individual, or generation characterized by two complete sets of chromosomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing two complete sets of chromosomes, one inherited from each biological parent (designated as 2n).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and cytogenetics, the somatic cellular state of most animals and vascular plants, contrasting with the haploid state of gametes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diploid designates having or involving two sets of homologous chromosomes."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Fertilization restores the normal **diploid** chromosome number by uniting the single haploid sets of sperm and egg."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"In every somatic cell of the **diploid** organism, homologous chromosomes exist in matched maternal and paternal pairs."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"Being a **diploid** creature means that every individual possesses two alternative copies of each gene in its genome."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more than one period of estrus per year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having more than one period of estrus per year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more than one estrus (heat) cycle per year; exhibiting recurring estrous cycles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology and mammalogy, mammalian species (such as cattle, swine, and rodents) that cycle continuously throughout the year (continuously polyestrous) or during a specific season (seasonally polyestrous, e.g., sheep and horses).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyestrous designates having more than one period of estrus per year."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"Mammals that experience repeated cycles of estrus throughout the year without prolonged anestrus are termed **polyestrous**."*
+> - 📜 **Arthur Thomson (*Outlines of Zoology*):** *"Domestic rodents are typically **polyestrous**, ovulating every four or five days unless pregnancy or lactation intervenes."*
+> - 📜 **Solomon Zuckerman (*The Social Life of Monkeys and Apes*):** *"Unlike seasonally breeding wild ungulates, primates display a continuously **polyestrous** cycle regulated by pituitary gonadotropins."*

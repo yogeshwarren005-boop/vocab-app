@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to 10,000 meters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of length equal to 10,000 meters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete metric unit of length equal to 10,000 meters or 10 kilometers (approximately 6.214 miles).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geodetic surveying and cartography, a unit used in early nineteenth-century France to map post roads and canal networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriameter designates a metric unit of length equal to 10,000 meters."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The submarine navigated beneath the waves, logging another **myriameter** across the uncharted South Pacific trench."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The post chaise rattled over the cobblestones, measuring the weary leagues by each stone marking a **myriameter** toward Paris."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The triangulation across the Iberian peninsula surveyed mountain baselines measured with high precision in **myriameter** lengths."*

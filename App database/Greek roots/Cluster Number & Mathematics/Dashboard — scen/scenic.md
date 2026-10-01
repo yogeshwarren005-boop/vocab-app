@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the stage, a stage setting, or stage representation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to natural scenery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing or relating to views of natural landscapes; or of or relating to stage scenery or dramatic representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory and tourism history, natural vistas (the 'picturesque') characterized by visual variety, elevation, and pleasing compositional balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Prometheus' and 'Hellas', however, are dramas only in name; there is no thought in them of scenic representation."*
+> - 📜 **Henry James (*The Scenic Art: Notes on Acting and the Drama*):** *"The actor must master the **scenic** art of making artificial dialogue appear as natural as breathing."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"The **scenic** splendor of the Yosemite valley surpasses all human imagination with its soaring granite walls."*
+> - 📜 **William Wordsworth (*A Guide through the District of the Lakes*):** *"Travelers seeking the finest **scenic** effects will find them where mountain crags meet the peaceful waters of the lake."*

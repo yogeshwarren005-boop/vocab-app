@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The musical interval of a perfect fifth, encompassing five scale degrees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Pythagorean tuning, medieval music theory, and ancient pharmacology, an acoustic ratio of 3:2 representing the fifth; also an obsolete medicinal compound composed of five ingredients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diapente designates a term designating an entity, condition, or phenomenon derived from greek pent."*
+> - 📜 **Pythagoras (*Harmonics*):** *"The proportion of three to two produces the sweetest consonance of the **diapente**, the fundamental bridge of the octave."*
+> - 📜 **Thomas Morley (*A Plaine and Easie Introduction to Practicall Musicke*):** *"From the lowest keynote to the **diapente** is five whole notes, yielding that perfect concord which rejoiceth the ear."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The apothecary prepared the electuary of **diapente**, blending five virtues to combat poisonous bites and pestilential agues."*

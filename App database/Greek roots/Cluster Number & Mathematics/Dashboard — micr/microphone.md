@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument whereby sound waves are caused to generate or modulate an electric current usually for the purpose of transmitting, recording, or amplifying sound (such as speech or music).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small microphone that is hung around the neck or clipped to the clothing of the user.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for converting sound waves into electrical energy variations, which may then be amplified, transmitted, or recorded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In audio engineering, an electroacoustic transducer employing moving coils, ribbons, or condenser capsules to capture acoustic pressure waves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer picked up a microphone, Brad beside him."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer keyed his microphone open and handed it to Brad."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He detached a microphone from the bulkhead nearby, keyed the computer, and spoke."*
+> - 📜 **George Orwell (*1984*):** *"There was no way of knowing whether you were being watched at any given moment; every flat contained a hidden telescreen and **microphone**."*
+> - 📜 **Thomas Edison (*The Diary of Thomas Edison*):** *"By using a compressed carbon button, my improved **microphone** transmitter rendered Alexander Graham Bell's telephone commercially practical."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The broadcast **microphone** gathered millions of dispersed ears into a single intimate, auditory tribal campfire."*

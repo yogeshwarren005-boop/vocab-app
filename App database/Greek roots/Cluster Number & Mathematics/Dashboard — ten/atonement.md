@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensation for a wrong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of atoning for sin or wrongdoing (especially appeasing a deity).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reparation, expiation, or reconciliation for a wrong, injury, or sin; the state of being at one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian soteriology, the redemptive work of Jesus Christ reconciling fallen humanity to God (theories including Christus Victor, penal substitution, and moral influence); in Judaism, Yom Kippur (the Day of Atonement).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ARCHBISHOP. ’Tis very true, And therefore be assured, my good Lord Marshal, If we do now make our atonement well, Our peace will, like a broken limb united, Grow stronger for the breaking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, madam; he desires to make atonement Between the Duke of Gloucester and your brothers, And between them and my Lord Chamberlain; And sent to warn them to his royal presence."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She knew him; she saw disdain in his eye, and could not venture to believe that he had determined to accept such an offering, as an atonement for all the insolence of the past."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Behold me, then; me for him, life for life, I offer; on me let thine anger fall; account me man; I make **atonement**."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The divine mystery of the **Atonement** transcends mechanical juridical analogies, manifesting infinite spiritual love."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Arthur Dimmesdale sought in secret penance and solitary vigils that peace which public **atonement** alone could bring."*

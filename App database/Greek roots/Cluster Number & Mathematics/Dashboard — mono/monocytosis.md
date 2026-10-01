@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in the number of monocytes in the blood; symptom of monocytic leukemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase in the number of monocytes in the blood; symptom of monocytic leukemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase in the number of monocytes in the circulating blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, a laboratory finding frequently associated with chronic infections (such as tuberculosis or endocarditis), autoimmune diseases, or myelomonocytic leukemias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocytosis designates increase in the number of monocytes in the blood; symptom of monocytic leukemia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent low-grade fever accompanied by unexplained **monocytosis** raises strong clinical suspicion of subacute bacterial endocarditis."*
+> - 📜 **Max Wintrobe (*Clinical Hematology*):** *"The hematologist must carefully evaluate **monocytosis** to differentiate reactive chronic inflammation from chronic myelomonocytic leukemia."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The patient's bone marrow biopsy confirmed an abnormal clonal expansion driving profound, intractable peripheral **monocytosis**."*

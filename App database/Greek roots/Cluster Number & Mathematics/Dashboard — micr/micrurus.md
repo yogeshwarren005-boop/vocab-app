@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coral snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coral snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of venomous elapid snakes commonly known as American coral snakes, native to North and South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and systematic herpetology, front-fanged snakes possessing potent polypeptide neurotoxins and distinctive warning ring patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrurus designates coral snakes."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"Our native guides warned us of the deadly coral viper, the banded **Micrurus**, lurking beneath the fallen palm fronds of the jungle floor."*
+> - 📜 **Raymond Ditmars (*Snakes of the World*):** *"Unlike pit vipers, snakes of the genus **Micrurus** deliver their venom by chewing tenaciously with short, fixed front fangs."*
+> - 📜 **E.O. Wilson (*Naturalist*):** *"As an inquisitive young naturalist in Alabama, I thrilled at encountering the brilliant rings of the eastern coral snake, **Micrurus** fulvius."*

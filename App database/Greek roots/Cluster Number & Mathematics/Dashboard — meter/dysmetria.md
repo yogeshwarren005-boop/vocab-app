@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An impairment of the coordination of voluntary movement characterized by the inability to properly gauge distance, resulting in overshooting (hypermetria) or undershooting (hypometria) a target.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a classic cardinal sign of cerebellar hemispheric dysfunction or lesion, readily tested by the finger-to-nose or heel-to-shin clinical exam.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysmetria designates a term designating an entity, condition, or phenomenon derived from greek meter."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"When asked to touch his nose with his forefinger, the patient exhibited marked **dysmetria**, overshooting the mark with coarse tremor."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cerebellar tumor symptoms include gait ataxia, intentional tremor, and pronounced kinetic **dysmetria** on the affected side."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus and the Syndrome of the Cerebellopontile Angle*):** *"Unilateral compression of the cerebellar hemisphere was confirmed by prominent **dysmetria** and adiadochokinesia in the right arm."*

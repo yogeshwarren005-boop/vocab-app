@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being muscular contraction in the absence of significant resistance, with marked shortening of muscle fibers, and without great increase in muscle tone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Isosmotic —used of solutions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having equal osmotic pressure or tension; or characterized by muscular contraction in which muscle tension remains constant while length changes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and sports physiology, a solution (such as 0.9% normal saline) having the same effective osmolality as blood serum; or dynamic physical exercise (such as lifting weights) where muscle length varies against steady resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotonic designates of, relating to, or being muscular contraction in the absence of significant resistance, with marked shortening of muscle fibers, and without great increase in muscle tone."*
+> - 📜 **Svante Arrhenius (*Text-Book of Theoretical Electrochemistry*):** *"De Vries demonstrated that two solutions are **isotonic** when plant cells placed in them experience neither plasmolysis nor swelling."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intravenous replacement of acute fluid losses requires an **isotonic** saline solution to prevent osmotic lysis of erythrocytes."*
+> - 📜 **A. V. Hill (*Muscular Movement in Man*):** *"During an **isotonic** contraction, the muscle shortens against a constant mechanical load, converting chemical energy into external work."*

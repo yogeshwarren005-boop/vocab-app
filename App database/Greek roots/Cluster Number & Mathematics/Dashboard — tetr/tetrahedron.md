@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron that has four faces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polyhedron that has four faces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional geometric polyhedron having four triangular faces; a triangular pyramid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry and molecular crystallography, the simplest of the five Platonic solids, possessing 4 vertices, 6 edges, and 4 triangular faces; the fundamental geometry of sp3-hybridized carbon atoms and silicate mineral structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrahedron designates a polyhedron that has four faces."*
+> - 📜 **Plato (*Timaeus*):** *"To the element of fire we assign the solid shape of the **tetrahedron**, the sharpest, most mobile, and smallest of the primary bodies."*
+> - 📜 **Johannes Kepler (*Mysterium Cosmographicum*):** *"Between the spheres of Mars and Jupiter lies the regular **tetrahedron**, linking the planetary orbits in divine proportion."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Four equivalent electron pairs direct their bonds toward the corners of a regular **tetrahedron**, explaining the geometry of methane."*

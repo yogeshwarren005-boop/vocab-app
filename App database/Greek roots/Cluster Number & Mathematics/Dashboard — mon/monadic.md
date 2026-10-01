@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of alone, only.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of alone, only.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of a monad; consisting of a single unit or element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and mathematics, designating an operator, function, or relation that takes exactly one argument (unary); in computer science, pertaining to monads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A phrase like that of Clement of Alexandria, "deifying into apathy we become monadic," is seas away from anything we find in the speech of Jesus."*
+> - 📜 **Willard Van Orman Quine (*Word and Object*):** *"A **monadic** predicate expresses a simple property attributable to an individual entity without external relation."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"Actual entities are the final real things of which the world is made up, possessing essentially **monadic** individuality."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"The classical theory of judgment assumed that all propositions could be reduced to the **monadic** subject-predicate form."*

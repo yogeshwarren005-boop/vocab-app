@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing remorse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing remorse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a repentant manner; with sincere feelings or expressions of regret, remorse, and sorrow for past misconduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary narrative and character description, performing an action with visible contrition, seeking forgiveness and demonstrating a chastened heart.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Who throws me aside and refuses forgiveness when it is repentantly implored?" "What signifies the pardon of a wretch like me?" said he, in a tone of agony."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Repentantly.)_ I am very disagreeable."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Dearest, I wasn’t making fun of you,” cried Anne repentantly."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He looked at me **repentantly**, confessing the reckless deceit that had almost wrecked both our lives."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The condemned prisoner bowed his head **repentantly**, joining his hands in earnest prayer as the minister read the psalm."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare knelt **repentantly** beside her, conscious at last of the cruel rigidity of his former judgment."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to rise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to rise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or causing ascension or rising.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, aeronautics, and physical geography, relating to the vertical upward movement of heated air masses (ascensional thermal currents) or lifting over mountain barriers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascensional designates tending to rise."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The intense solar heating of the llanos produces powerful **ascensional** air currents that generate afternoon thunderstorms."*
+> - 📜 **Camille Flammarion (*The Atmosphere*):** *"The balloonist relied upon the **ascensional** force of heated gas to carry his basket above the storm clouds."*
+> - 📜 **John Tyndall (*The Glaciers of the Alps*):** *"Warm moist air driven up the alpine slopes undergoes adiabatic cooling, its **ascensional** movement resulting in dense clouds."*

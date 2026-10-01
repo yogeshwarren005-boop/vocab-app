@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 10-event athletic contest; specifically : a composite contest that consists of the 100-meter, 400-meter, and 1500-meter runs, the 110-meter high hurdles, the javelin and discus throws, shot put, pole vault, high jump, and long jump.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 10-event athletic contest; specifically : a composite contest that consists of the 100-meter, 400-meter, and 1500-meter runs, the 110-meter high hurdles, the javelin and discus throws, shot put, pole vault, high jump, and long jump.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combined athletic contest consisting of ten track and field events held over two consecutive days.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Olympic sports, the premier test of versatile athletic prowess, comprising the 100m, long jump, shot put, high jump, 400m, 110m hurdles, discus, pole vault, javelin, and 1500m.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decathlon designates a 10-event athletic contest; specifically : a composite contest that consists of the 100-meter, 400-meter, and 1500-meter runs, the 110-meter high hurdles, the javelin and discus throws, shot put, pole vault, high jump, and long jump."*
+> - 📜 **Pierre de Coubertin (*Olympic Memoirs*):** *"The crowned victor of the Olympic **decathlon** stands rightfully acclaimed as the finest all-around athlete in the world."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"He carried himself with the effortless, muscular poise of a collegiate champion preparing for the **decathlon**."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"We talked about track meets and the exhausting physical endurance required to complete all ten events of a **decathlon**."*

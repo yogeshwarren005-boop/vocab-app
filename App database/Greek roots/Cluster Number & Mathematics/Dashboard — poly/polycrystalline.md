@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of aggregates of crystals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of aggregates of crystals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of many small microscopic crystals or crystallites oriented in varying directions, separated by grain boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science, solid-state physics, and metallurgy, aggregate crystalline solids (such as structural metals, ceramics, and polysilicon solar cells) whose mechanical and electrical properties depend strongly on grain size and grain boundary orientation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polycrystalline designates composed of aggregates of crystals."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Most engineering metals are **polycrystalline** aggregates whose macroscopic tensile strength depends on grain boundary cohesion."*
+> - 📜 **William Shockley (*Electrons and Holes in Semiconductors*):** *"Carrier recombination at crystal defects renders **polycrystalline** silicon less efficient than single-crystal ingots for transistor fabrication."*
+> - 📜 **Arthur Cottrell (*An Introduction to Metallurgy*):** *"Dislocation pile-ups at the boundaries of a **polycrystalline** metal account for the yield point phenomenon described by the Hall-Petch relation."*

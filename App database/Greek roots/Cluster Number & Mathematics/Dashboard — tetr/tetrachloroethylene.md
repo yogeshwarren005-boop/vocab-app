@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anthelmintic agent used against hookworm and other nematodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anthelmintic agent used against hookworm and other nematodes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, colorless liquid chlorocarbon (C2Cl4) widely used as a dry-cleaning solvent and metal degreasing agent; perchloroethylene (perc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental toxicology and occupational health, a persistent volatile organic compound classified as a probable human carcinogen, subject to strict environmental remediation protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrachloroethylene designates anthelmintic agent used against hookworm and other nematodes."*
+> - 📜 **F. A. Henglein (*Chemical Technology*):** *"Modern dry cleaning machinery operates closed loops to recover and condense **tetrachloroethylene** vapor safely."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Industrial discharges of synthetic chlorinated solvents like **tetrachloroethylene** contaminate subterranean municipal water supplies."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"Historically, **tetrachloroethylene** was administered orally as an effective anthelmintic agent against hookworm infections."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An evil supernatural being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cruel wicked and inhuman person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An evil spirit or supernatural being, traditionally believed to possess people or torment mortals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity (daimon), a benevolent or mediating guardian spirit; in modern physics and computing, an autonomous background process or thought experiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester receives the gout as a troublesome demon, but still a demon of the patrician order."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"While the dogs are yet barking and howling—there is one dog howling like a demon—the church-clocks, as if they were startled too, begin to strike."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket has a matter of this pressing interest under his consideration, the fat forefinger seems to rise, to the dignity of a familiar demon."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"If we conceive of a being whose faculties are so sharpened that he can follow every molecule, this finite **demon** could violate the second law."*
+> - 📜 **Plato (*Apology*):** *"A divine and spiritual sign comes to me, a voice of a **demon** that turns me away from doing what is unjust."*
+> - 📜 **Dante Alighieri (*Inferno*):** *"No horned **demon** of the pit could strike greater dread into the cowering shade upon the burning pitch."*

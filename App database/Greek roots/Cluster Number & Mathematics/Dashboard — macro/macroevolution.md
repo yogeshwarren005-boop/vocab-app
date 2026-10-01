@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Major evolutionary change occurring above the species level over deep geological time scales, including the origin of novel body plans and higher taxonomic groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and paleontology, large-scale phenotypic transformations and adaptive radiations documented in the fossil record, distinguished from microevolutionary allelic shifts within populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroevolution designates evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The episodic pattern of punctuated equilibria demonstrates that **macroevolution** cannot be reduced to simple gradual microevolutionary extrapolation."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The origin of higher taxa in **macroevolution** frequently follows the breakthrough invasion of a novel adaptive zone."*
+> - 📜 **George Gaylord Simpson (*Tempo and Mode in Evolution*):** *"Paleontological evidence reveals distinct evolutionary tempos, distinguishing quantum **macroevolution** from continuous line evolution."*

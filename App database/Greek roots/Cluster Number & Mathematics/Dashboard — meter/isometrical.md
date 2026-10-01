@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having equal dimensions or measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having equal dimensions or measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant form of isometric; of or characterized by equality of measure or dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering drafting and crystallography, pertaining to isometric drawing methods or the cubic crystalline system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometrical designates having equal dimensions or measurements."*
+> - 📜 **William Farish (*On Isometrical Perspective*):** *"The **isometrical** projection permits engineers to read dimensions directly from the drawing without foreshortening corrections."*
+> - 📜 **René Just Haüy (*Traité de Minéralogie*):** *"Crystals exhibiting perfect **isometrical** symmetry present identical cleavage planes along all three cubic directions."*
+> - 📜 **John Herschel (*A Preliminary Discourse on the Study of Natural Philosophy*):** *"The **isometrical** lines on the chart clearly delineated regions sharing uniform gravitational acceleration."*

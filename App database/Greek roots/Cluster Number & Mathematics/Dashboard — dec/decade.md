@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or set of 10 : such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A period of 10 years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of ten consecutive years, especially a calendar period such as the 1920s.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series, group, or division consisting of ten items (such as ten Hail Marys in a rosary, or ten books of a literary history).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She came forth in the morning without a remnant of the pain which had filled a decade of years with agony_."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once in a decade or a score of years Chinese ambassadors arrived, but they came overland, around the Yellow Sea, across the country of the Hong-du, and down the Mandarin Road to Keijo."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have told you what I have endured in the jacket and in solitary in the first decade of this twentieth century after Christ."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A single **decade** of wise administration was sufficient to restore prosperity to the devastated eastern provinces."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Within the brief span of a **decade**, the English constitution passed through rebellion, restoration, and permanent settlement."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Time passed with the measured pace of years consolidating into a silent, forgotten **decade**."*

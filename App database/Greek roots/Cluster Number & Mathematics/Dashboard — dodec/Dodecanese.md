@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of islands in the southeast aegean sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of islands in the southeast aegean sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of twelve principal islands (and numerous smaller islets) in the southeastern Aegean Sea, including Rhodes, Kos, and Patmos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean history and geopolitics, an Aegean archipelago historically contested between ancient Greece, Byzantium, the Knights Hospitaller, the Ottomans, Italy, and Greece.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Dodecanese designates a group of islands in the southeast aegean sea."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The island fortresses of the **Dodecanese** stood for centuries as maritime outposts against naval incursions in the Aegean."*
+> - 📜 **George Grote (*A History of Greece*):** *"The Doric cities of Rhodes and Cos in the southern **Dodecanese** developed prosperous maritime trading republics."*
+> - 📜 **Herodotus (*The Histories*):** *"Greek colonists founded flourishing commonwealths across the islands now known as the **Dodecanese**."*

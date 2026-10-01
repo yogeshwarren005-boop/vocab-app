@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oilbirds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oilbirds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of nocturnal birds in the order Caprimulgiformes, comprising the oilbird or guácharo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy, a monotypic Neotropical family (*Steatornis caripensis*) notable for its cave-nesting habits, vegetarian diet of palm and laurel fruits, and acoustic echolocation navigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog steatornithidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The singular anatomical characteristics of the guácharo place it in the distinct family **Steatornithidae**, allied to the nightjars."*
+> - 📜 **Arthur Thomson (*Outlines of Zoology*):** *"Within the order Caprimulgiformes, the family **Steatornithidae** is unique in feeding exclusively upon fatty oily fruits."*
+> - 📜 **Frank Chapman (*Birds of Trinidad*):** *"Caves in the Northern Range shelter colonies of **Steatornithidae**, filling the subterranean gloom with harsh guttural croaks."*

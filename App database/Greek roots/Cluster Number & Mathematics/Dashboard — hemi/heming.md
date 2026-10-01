@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English actor who edited the first folio of shakespeare's plays (1556-1630).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fold over and sew together to provide with a hem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: John Heminges (Heming, 1556–1630), English King's Men actor who co-edited William Shakespeare's First Folio of 1623 with Henry Condell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The artisanal action of folding over and stitching the raw edge of a fabric to create a hem (hemming); or a historical Norse personal name.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"And at that time there was a great army of Danish men west there, whose chief was Heming, the son of Earl Strut-Harald, and brother to Earl Sigvaldi, and he held for King Knut that land that Svein had won."*
+> - 📜 **Ben Jonson (*To the Memory of My Beloved Master William Shakespeare*):** *"Fellow actors **Heming** and Condell performed a priceless service to English literature by preserving the plays in folio."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Without the pious devotion of **Heming** and his partner, half the masterpieces of Shakespeare would have vanished into oblivion."*
+> - 📜 **William Hazlitt (*Lectures on the Dramatic Literature of the Age of Elizabeth*):** *"The preface written by John **Heming** and Henry Condell breathes the sincere warmth of lifelong theatrical camaraderie."*

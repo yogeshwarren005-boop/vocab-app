@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous oily liquid with a garlicky odor composed of 2 cacodyl groups; undergoes spontaneous combustion in dry air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous oily liquid with a garlicky odor composed of 2 cacodyl groups; undergoes spontaneous combustion in dry air.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organoarsenic chemical compound, (CH3)2As-As(CH3)2, historically famous under the name cacodyl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of organic chemistry, a volatile, spontaneously flammable, foul-smelling liquid investigated by Robert Bunsen in the 1830s, proving that compound organic radicals (cacodyl) could act like elemental metals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetramethyldiarsine designates a poisonous oily liquid with a garlicky odor composed of 2 cacodyl groups; undergoes spontaneous combustion in dry air."*
+> - 📜 **Robert Bunsen (*Untersuchungen über die Kakodylreihe*):** *"The compound **tetramethyldiarsine**, or free cacodyl, is a fuming liquid that bursts into flame upon contact with atmospheric air."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Bunsen's daring research on the deadly **tetramethyldiarsine** established the radical theory beyond all reasonable doubt."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"Extreme caution was required when distilling **tetramethyldiarsine** because of its intolerable garlic stench and lethal toxicity."*

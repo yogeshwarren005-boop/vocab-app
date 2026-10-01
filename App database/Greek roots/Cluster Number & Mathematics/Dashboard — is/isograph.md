@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek is.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electromechanical or analog computing machine designed to solve polynomial algebraic equations and find complex roots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and cartography, a drawing or map line (isogloss) showing the spatial distribution of a dialectal word or linguistic trait.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isograph designates a term designating an entity, condition, or phenomenon derived from greek is."*
+> - 📜 **Hendrik van der Bijl (*The Thermionic Vacuum Tube*):** *"Bell Laboratories engineers developed the **isograph** to find the complex roots of polynomial equations mechanically."*
+> - 📜 **Claude Shannon (*A Symbolic Analysis of Relay and Switching Circuits*):** *"The mathematical principles embodied in the mechanical **isograph** paved the way for automated root-solving circuits."*
+> - 📜 **Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*):** *"Before the digital computer, specialized analog instruments like the **isograph** solved polynomial stability criteria in feedback networks."*

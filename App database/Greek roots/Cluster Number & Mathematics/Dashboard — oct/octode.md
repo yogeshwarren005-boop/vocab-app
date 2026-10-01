@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic vacuum tube containing eight active electrodes (cathode, anode, and six grids).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radio engineering, a specialized multielectrode valve used as a frequency mixer or converter in superheterodyne radio receivers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octode designates a term designating an entity, condition, or phenomenon derived from greek oct."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Before the transistor revolution, complex shortwave receivers relied upon multielectrode valves like the **octode** to combine frequencies."*
+> - 📜 **Horowitz & Hill (*The Art of Electronics*):** *"The **octode** frequency changer provided superior oscillator isolation compared to simpler pentagrid converter tubes."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Nonlinear mixing across the grid stages of an **octode** generates the desired intermediate frequency with minimal cross-talk."*

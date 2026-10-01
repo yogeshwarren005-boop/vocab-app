@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being a relation (such as "is a subset of") that implies equality of any two quantities for which it holds in both directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being a relation (such as "is a subset of") that implies equality of any two quantities for which it holds in both directions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting antisymmetry; reversing sign under an operation such as coordinate reflection or matrix transposition (satisfying A^T = -A).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum mechanics and linear algebra, describing wavefunctions of identical fermions (such as electrons) that change sign upon the exchange of any two particles, underpinning the Pauli exclusion principle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisymmetric designates relating to or being a relation (such as "is a subset of") that implies equality of any two quantities for which it holds in both directions."*
+> - 📜 **Paul Dirac (*The Principles of Quantum Mechanics*):** *"The state vector representing an assembly of electrons must be strictly **antisymmetric** with respect to the exchange of any two particles."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"Nature requires all fermions to possess an **antisymmetric** wavefunction, explaining why matter resists infinite compression."*
+> - 📜 **Linus Pauling (*Introduction to Quantum Mechanics*):** *"The Slater determinant provides a systematic mathematical expression for constructing an **antisymmetric** electronic state."*

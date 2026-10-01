@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lepto.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally thin, flattened red blood cell characterized by increased surface-area-to-volume ratio; a target cell or codocyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, an erythrocyte with a central area of hemoglobin surrounded by a clear ring and outer pigmented rim, commonly observed in thalassemia, hemoglobin C disease, and obstructive liver disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptocyte designates a term designating an entity, condition, or phenomenon derived from greek lepto."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Blood smears from patients with hereditary anemia frequently reveal flattened **leptocytes** resembling miniature targets."*
+> - 📜 **Maxwell M. Wintrobe (*Clinical Hematology*):** *"The presence of the thin, target-like **leptocyte** correlates with decreased osmotic fragility in hypotonic saline."*
+> - 📜 **Thomas Addison (*A Collection of the Published Writings*):** *"Microscopic scrutiny of the blood revealed numerous abnormal corpuscles, notably thin flattened **leptocytes**."*

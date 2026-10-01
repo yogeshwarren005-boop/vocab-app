@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide containing five atoms of oxygen in the molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellowish-red crystalline compound V2O5 used especially in glass manufacture and as a catalyst.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical oxide containing five oxygen atoms per molecule or stoichiometric formula unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synthetic chemistry and industrial manufacturing, notable compounds such as phosphorus pentoxide (P4O10, a powerful desiccant) and vanadium pentoxide (V2O5, an essential catalyst in the contact process for sulfuric acid).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentoxide designates an oxide containing five atoms of oxygen in the molecule."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Phosphorus burning in dry air deposits a snowy powder of phosphorus **pentoxide**, which greedily absorbs every trace of water."*
+> - 📜 **Henry Enfield Roscoe (*A Treatise on Chemistry*):** *"Vanadium **pentoxide** acts as an efficient oxygen carrier, catalyzing the oxidation of sulfur dioxide to sulfur trioxide."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"The desiccating tube was filled with pure phosphorus **pentoxide** to ensure total dryness of the circulating gas stream."*

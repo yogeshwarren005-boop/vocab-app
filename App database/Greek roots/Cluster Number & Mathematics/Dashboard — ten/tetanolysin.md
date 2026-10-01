@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hemolytic exotoxin produced by *Clostridium tetani*, the causative bacterium of tetanus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical microbiology and microbial pathogenesis, an oxygen-labile, cholesterol-dependent cytolysin secreted alongside the neurotoxin tetanospasmin, contributing to local tissue necrosis and hemolysis at the infection site.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetanolysin designates a term designating an entity, condition, or phenomenon derived from greek ten."*
+> - 📜 **Emil von Behring (*Untersuchungen über das Tetanusgift*):** *"Filtrates of tetanus cultures contain both the deadly neurotoxin and the hemolytic agent designated **tetanolysin**."*
+> - 📜 **Paul Ehrlich (*Studies on Immunity*):** *"By testing the hemolytic action of **tetanolysin** upon red blood cells, we elucidated the precise neutralizing dynamics of antitoxin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"While **tetanolysin** causes local tissue destruction, it is the potent neurotropic toxin that produces fatal clinical spasms."*

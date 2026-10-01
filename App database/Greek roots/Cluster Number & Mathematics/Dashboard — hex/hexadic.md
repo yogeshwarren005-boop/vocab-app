@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of six.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of six.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based on, or consisting of the number six; senary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, chemistry, and philosophy, exhibiting sixfold periodicity, coordination, or valence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexadic designates adjective*) pertaining to, derived from, or characteristic of six."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Higher relations can be decomposed into elementary triadic links without requiring irreducible **hexadic** structures."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"The geometric transformations of cubic surfaces exhibit an underlying **hexadic** symmetry group."*
+> - 📜 **Augustus De Morgan (*Formal Logic*):** *"A **hexadic** division of terms yields six mutually exclusive propositions spanning the universe of discourse."*

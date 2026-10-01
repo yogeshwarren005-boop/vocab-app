@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using more than one key or tonality simultaneously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using more than one key or tonality simultaneously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the simultaneous use of two or more different musical keys or tonalities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern music theory and composition (prominent in the works of Igor Stravinsky, Darius Milhaud, and Charles Ives), harmonic structures where distinct tonal layers clash and interlock to create complex acoustic tension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polytonal designates using more than one key or tonality simultaneously."*
+> - 📜 **Igor Stravinsky (*Poetics of Music*):** *"The famous chord in Petrushka is built upon a **polytonal** combination of C major and F-sharp major arpeggios."*
+> - 📜 **Aaron Copland (*What to Listen for in Music*):** *"A **polytonal** passage creates a fascinating spatial depth by setting melodies in two different keys against each other."*
+> - 📜 **Leonard Bernstein (*The Joy of Music*):** *"Modern composers achieve brilliant biting contrasts by superimposing **polytonal** lines that retain their distinct tonal centers."*

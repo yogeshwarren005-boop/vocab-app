@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bellows fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bellows fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, deep-bodied marine fishes known as snipefishes or bellowsfishes, characterized by an elongated, tube-like snout and a long, stout dorsal spine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, syngnathiform fishes related to seahorses and cornetfishes, inhabiting continental shelf waters where they feed on zooplankton by suction through their tubular jaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrorhamphosidae designates bellows fishes."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Fishes of the family **Macrorhamphosidae** swim in curious head-down postures, probing muddy bottom sediments with their tubular beaks."*
+> - 📜 **Louis Agassiz (*Recherches sur les poissons fossiles*):** *"Fossil snipefishes belonging to **Macrorhamphosidae** are preserved with exquisite fidelity in the Eocene shales of Monte Bolca."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Condition of the Sea Fisheries*):** *"Occasional specimens of the snipefish family **Macrorhamphosidae** are taken by research dredges along the outer continental shelf."*

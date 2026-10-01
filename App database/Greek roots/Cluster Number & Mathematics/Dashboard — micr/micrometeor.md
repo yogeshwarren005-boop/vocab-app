@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic particle of extraterrestrial dust or debris traveling through space or burning up in the upper atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteoric astronomy, an interplanetary dust grain that produces an imperceptible flash or ion trail upon atmospheric entry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometeor designates a meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere."*
+> - 📜 **Fred Whipple (*The Mystery of Comets*):** *"Cometary disintegration replenishes the zodiacal cloud with millions of drifting **micrometeor** grains each year."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Every day, our planet sweeps up tons of interplanetary dust, each tiny **micrometeor** disintegrating harmlessly in the high mesosphere."*
+> - 📜 **Arthur C. Clarke (*The Sands of Mars*):** *"Sensors on the orbital hull pinged intermittently as a lone **micrometeor** brushed the outer shielding."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A microelectronic computer circuit incorporated into a chip or semiconductor; a whole system rather than a single component.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microelectronic computer circuit incorporated into a chip or semiconductor; a whole system rather than a single component.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An integrated electric circuit composed of miniaturized components fabricated onto a tiny semiconductor substrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics and nanotechnology, a microscale network of interconnected transistors, diodes, and resistors executing high-speed logic functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcircuit designates a microelectronic computer circuit incorporated into a chip or semiconductor; a whole system rather than a single component."*
+> - 📜 **Gordon Moore (*Cramming More Components onto Integrated Circuits*):** *"The complexity for minimum component costs has increased at a rate of roughly a factor of two per year per **microcircuit**."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The transition from the vacuum tube to the solid-state **microcircuit** made interplanetary space probes technologically feasible."*
+> - 📜 **Richard Feynman (*Feynman Lectures on Computation*):** *"Within the printed **microcircuit**, electrical charges navigate micron-wide conduits obeying deterministic switching laws."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a monosyllabic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a monosyllabic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a monosyllabic manner; using single syllables or curt, brief utterances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speaking in a terse, uncommunicative, or laconic fashion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosyllabically designates in a monosyllabic manner."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip answered **monosyllabically**, dreading to reveal the secret fear that haunted his conscience."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard replied **monosyllabically** to the mayor's courteous greeting, his pride wounded by public scrutiny."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The taciturn skipper answered **monosyllabically**, spitting tobacco over the rail into the turbid harbor waters."*

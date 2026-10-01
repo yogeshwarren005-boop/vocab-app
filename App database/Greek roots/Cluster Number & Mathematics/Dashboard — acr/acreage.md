@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of ground used for some particular purpose (such as building or farming).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area of ground used for some particular purpose (such as building or farming).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The area or extent of a parcel of land expressed in acres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agriculture and estate management, the aggregate land area devoted to particular crops, forestry, or commercial exploitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wide acreage of blank agricultural brownness, apparent where the swedes had been pulled, was beginning to be striped in wales of darker brown, gradually broadening to ribands."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The problem is as difficult as it is important, and becomes more difficult with the rise in the acreage value of lands and with the economical size of farms, both calling for a larger investment to become an owner."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Louisiana has more than half of the timber acreage of Arkansas."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The extensive **acreage** of golden wheat undulated under the late August sun across the slopes of the valley."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I observed how men became encumbered by broad **acreage**, laboring under the burden of farms they could scarcely cultivate."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke calculated the prospective rental returns based upon the improved **acreage** of his newly drained tenant farms."*

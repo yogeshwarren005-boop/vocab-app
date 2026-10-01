@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue consisting of glial cells with sheetlike processes that form the myelin sheath of nerve fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue consisting of glial cells with sheetlike processes that form the myelin sheath of nerve fibers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The oligodendrocytes of the central nervous system considered collectively; neuroglia that form myelin sheaths in the brain and spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropathology, glial cells that provide metabolic support to axons and are implicated in demyelinating disorders and oligodendrogliomas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligodendroglia designates tissue consisting of glial cells with sheetlike processes that form the myelin sheath of nerve fibers."*
+> - 📜 **Pío del Río-Hortega (*The Third Element of the Nervous System*):** *"I separated the **oligodendroglia** from classic astrocytes based on their distinct cytology and affinity for myelin sheaths."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Electrophysiological signals travel with remarkable speed because the **oligodendroglia** wrap axons in tight insulating lipid coats."*
+> - 📜 **Wilder Penfield (*Epilepsy and the Functional Anatomy of the Human Brain*):** *"Neoplasms arising from the **oligodendroglia** typically display slow growth and calcification within the cerebral cortex."*

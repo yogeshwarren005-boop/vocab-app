@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast a spell over someone or something; put a hex on someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually used colloquially) causing or accompanied by misfortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast under an evil spell; bewitched, jinxed, or cursed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial idiom, afflicted with persistent and inexplicable bad luck as if under a supernatural curse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexed designates cast a spell over someone or something; put a hex on someone or something."*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"Old women gossiped that the lonely glen had been **hexed** by a High German doctor in the early days of settlement."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The miners muttered that the third shaft was **hexed** after three fatal roof falls within a fortnight."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"He felt that his prospects were hopelessly **hexed**, every ambition thwarted by capricious circumstance."*

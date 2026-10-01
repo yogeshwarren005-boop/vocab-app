@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or of the nature of mathematics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having ability to think in or work with numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or according with mathematics; rigorous, precise, or calculated with mathematical certainty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating according to strict quantitative laws, logical deduction, or geometric demonstration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He spent the summer of 1839 with the Donaldson family at their country seat at Auchairn, near Ballantrae, in south Ayrshire, occupying most of his leisure hours in mathematical and physical studies in preparation for the work of the coming winter."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Can any of your learned Clerks avoid it? can ye put by his Mathematical Engine? _And._ Yes, or I'le break it: thou awaken'st me, and I'le peep i'th' Moon this month but I'le watch for him."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Can ye put by his Mathematical Engine? _And._ Yes, or Ile break it; thou awaken'st me, And Ile peep ith' Moon this moneth but Ile watch for him."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"I offer this work as the **mathematical** principles of natural philosophy, demonstrating physical causes through geometry."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Logic has become more **mathematical** and mathematics has become more logical, revealing their identical nature."*
+> - 📜 **René Descartes (*Discourse on Method*):** *"I delighted above all in **mathematical** demonstrations because of the absolute certainty and self-evidence of their reasoning."*

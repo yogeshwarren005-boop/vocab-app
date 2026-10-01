@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a single meaning (absence of ambiguity) usually of individual words or phrases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a single meaning (absence of ambiguity) usually of individual words or phrases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having only one meaning; absence of polysemy or semantic ambiguity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and technical writing, the property of words whose semantic range is restricted to a unique referent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosemy designates having a single meaning (absence of ambiguity) usually of individual words or phrases."*
+> - 📜 **Umberto Eco (*The Search for the Perfect Language*):** *"Philosophers dreamed of an ideal universal language where absolute **monosemy** would prevent all theological disputes."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"While computer programming languages demand strict **monosemy**, natural human languages thrive on generative polysemy."*
+> - 📜 **George Steiner (*After Babel*):** *"Rigid **monosemy** belongs to the cold precision of algebra, whereas poetic speech derives vitality from semantic multiplicity."*

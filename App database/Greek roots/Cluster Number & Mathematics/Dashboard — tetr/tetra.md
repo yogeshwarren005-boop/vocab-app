@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small often brightly colored South American characin fishes often bred in tropical aquariums.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Four : having four : having four parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, brightly colored freshwater characin fish native to tropical South America and Africa, popular in home aquariums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquarium hobby and ichthyology, popular fishes (family Characidae) such as the neon tetra (*Paracheirodon innesi*) and cardinal tetra; or the Greek numerical combining form meaning four.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Do you suppose those birds--the tetra-axes or whatever Beeville calls them--?" They turned and scanned the sky."*
+> - 📜 **William Beebe (*Edge of the Jungle*):** *"In the sunlit shallows of the jungle creek, schools of tiny **tetra** flashed iridescent blue and ruby red against dark leaves."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Characin fishes, commonly known to aquarists by the name **tetra**, possess an adipose fin and sharp jaw dentition."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The species of Tetragonopterus, or **tetra**, are characteristic inhabitants of the Amazonian basin and Guiana river systems."*

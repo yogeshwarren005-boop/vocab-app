@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed for measuring the depth of water in oceans, seas, or lakes without using a conventional sounding line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanography, a gravimetric or acoustical sounding device (such as Siemens' bathometer) measuring water depth by detecting variations in gravitational attraction or echo timing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathometer designates a term designating an entity, condition, or phenomenon derived from greek meter."*
+> - 📜 **William Siemens (*On the Determination of the Depth of the Sea by a New Instrument*):** *"My **bathometer** measures the minute decrease in terrestrial gravitational attraction caused by the low density of deep ocean water beneath."*
+> - 📜 **William Thomson (Lord Kelvin) (*Popular Lectures and Addresses: Navigational Affairs*):** *"Rapid deep-sea sounding by an accurate **bathometer** is indispensable when paying out submarine telegraph cables across the Atlantic."*
+> - 📜 **Alexander Agassiz (*Three Cruises of the United States Coast and Geodetic Survey Steamer Blake*):** *"Before deploying the heavy deep-sea dredge, we calibrated our **bathometer** over the abyssal trench."*

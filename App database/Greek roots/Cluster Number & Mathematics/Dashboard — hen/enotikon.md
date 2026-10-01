@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imperial religious edict issued in 482 CE by the Byzantine Emperor Zeno in an unsuccessful attempt to reconcile Chalcedonian and Miaphysite Christians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history, the Henotikon (Instrument of Union) formulated by Patriarch Acacius, which avoided defining Christ's natures and triggered the 35-year Acacian Schism with Rome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enotikon designates a term designating an entity, condition, or phenomenon derived from greek hen."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"By the compromise of the **Henotikon**, Emperor Zeno attempted to soothe the theological fury that inflamed Egypt and Syria."*
+> - 📜 **Philip Schaff (*History of the Christian Church*):** *"The **Henotikon** of Zeno pleased neither the orthodox Western bishops nor the radical monks of Alexandria, precipitating long schism."*
+> - 📜 **J. B. Bury (*A History of the Later Roman Empire*):** *"By ignoring the Tome of Leo, the **Henotikon** estranged the papacy and undermined imperial religious unity."*

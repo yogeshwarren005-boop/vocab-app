@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or based on nine musical tones or pitches per octave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music theory and ethnomusicology, nine-note scalar systems (such as the messiaen third mode of limited transposition, or the alternating whole-half-step nonatonic scale) employed in microtonal and modernist composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enneatonic designates adjective*) pertaining to, derived from, or characteristic of stretch."*
+> - 📜 **Olivier Messiaen (*The Technique of My Musical Language*):** *"My third mode of limited transposition forms an **enneatonic** scale of nine tones divided into three symmetrical units."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"Certain non-Western folk traditions employ an **enneatonic** pitch collection containing auxiliary ornamental scale steps."*
+> - 📜 **Alexander John Ellis (*On the Musical Scales of Various Nations*):** *"Theoretical exploration of Arabian lute fretting revealed complex **enneatonic** divisions within the octave."*

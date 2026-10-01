@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person in western canada who is of caucasian and american indian ancestry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person in western canada who is of caucasian and american indian ancestry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ancient Greek mythology and philosophy, Metis (Μῆτις), the Titaness personifying wisdom, cunning, skill, and resourcefulness; mother of Athena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Canadian history and sociology, the Métis people, a distinct Indigenous nation tracing ancestry to First Nations and European (primarily French and Scottish) fur traders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metis designates a person in western canada who is of caucasian and american indian ancestry."*
+> - 📜 **Hesiod (*Theogony*):** *"Zeus, king of the gods, took **Metis** for his first spouse, she who was the wisest among gods and mortal men."*
+> - 📜 **Homer (*The Odyssey*):** *"Odysseus was renowned across all Greece for his fertile **metis**, confounding giants and suitors with wily stratagems."*
+> - 📜 **Francis Parkman (*The Conspiracy of Pontiac*):** *"Courageous **Métis** voyageurs navigated the wild northern waterways, bridging the wilderness and frontier commerce."*

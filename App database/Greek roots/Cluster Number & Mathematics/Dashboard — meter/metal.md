@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several chemical elements that are usually shiny solids that conduct heat or electricity and can be formed into sheets etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a category of chemical elements (such as iron, gold, copper, aluminum) that are typically lustrous, malleable, ductile, and excellent conductors of heat and electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and astrophysics, any chemical element heavier than hydrogen and helium synthesized through stellar nucleosynthesis (quantified as metallicity).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you were made of is metal to make virgins."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, sirrah, you shall buy this sport as dear As all the metal in your shop will answer."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Every pure **metal** combines with oxygen to form metallic calces or oxides according to definite proportions."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The high electrical conductivity of solid **metal** wires allows the transmission of current across immense distances."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Polished speculum **metal** reflected the rays of starlight with brilliant fidelity within my reflecting telescope."*

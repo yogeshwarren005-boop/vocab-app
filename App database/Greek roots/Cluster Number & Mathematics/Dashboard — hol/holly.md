@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tree or shrub of the genus ilex having red berries and shiny evergreen leaves with prickly edges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states rock star (1936-1959).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An evergreen or deciduous shrub or tree of the genus Ilex, characterized by glossy, spiny leaves and bright red berries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural traditions, the European holly (Ilex aquifolium) widely used for winter solstice and Christmas festive decorations; wood valued for fine inlay and carving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heigh-ho, sing heigh-ho, unto the green holly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heigh-ho, sing heigh-ho, unto the green holly."*
-> - 📜 **Jane Austen (*Persuasion*):** *"While she remained, a bush of low rambling holly protected her, and they were moving on."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Heigh-ho! sing, heigh-ho! unto the green **holly**: Most friendship is feigning, most loving mere folly."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The Ghost of Christmas Present sat in majesty upon a throne of living turkeys, geese, brawn, and crisp green **holly**."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Crimson berries of the winter **holly** glowed through the frosty veil of the Dorsetshire woods."*

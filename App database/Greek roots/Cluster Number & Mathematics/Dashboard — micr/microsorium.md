@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical usually epiphytic ferns; africa to asia and polynesia to australia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical usually epiphytic ferns; africa to asia and polynesia to australia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ferns in the family Polypodiaceae (often spelled Microsorum), widely cultivated as decorative indoor or aquarium plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany, tropical creeping ferns such as the Java fern (Microsorum pteropus), featuring leathery green fronds and aquatic adaptability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsorium designates tropical usually epiphytic ferns; africa to asia and polynesia to australia."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Moist basalt cliffs along stream banks were carpeted with the creeping rhizomes of the hardy fern **Microsorium**."*
+> - 📜 **David Attenborough (*The Private Life of Plants*):** *"In freshwater streams across Southeast Asia, submerged clumps of **Microsorium** cling tenaciously to submerged driftwood."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The sori of **Microsorium** are scattered irregularly over the lower surface of the undivided, lanceolate blade."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: hundred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: hundred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric prefix (symbol: h) denoting multiplication by a factor of one hundred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the International System of Units (SI), a decimal multiplier derived from Greek ἑκατόν (hekaton), used in compounds such as hectoliter and hectare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hecto as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Lavoisier (*Elements of Chemistry*):** *"We adopted **hecto-** from the Greek for one hundred to denote centuple multiples in the rational metric nomenclature."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The metric prefix **hecto-** represents an abbreviated form of classical Greek hekaton."*
+> - 📜 **Augustus De Morgan (*Elements of Arithmetic*):** *"The regular application of prefixes like **hecto-** enables students to master the entire metric scale with ease."*

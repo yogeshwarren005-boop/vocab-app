@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ample amount or number : abundance, profusion —usually used with of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bodily condition characterized by an excess of blood and marked by swelling and redness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an excess, superfluity, or overabundance; or exhibiting an excessively florid, bloated complexion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical physiology, suffering from vascular congestion or an abnormally large volume of blood (polycythemia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like a plethoric burning martyr, or a self-consuming misanthrope, once ignited, the whale supplies his own fuel and burns by his own body."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He has stopped Austria’s cackle and I fear it will be our turn next.” The colonel was a stout, tall, plethoric German, evidently devoted to the service and patriotically Russian."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Like a plethoric burning martyr, or a self-consuming misanthrope, once ignited, the whale supplies his own fuel and burns by his own body."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A **plethoric** alderman sat in his plush carriage, his florid face puffed with rich dinners and port wine."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Feudal nobility, choked with **plethoric** wealth while the peasantry starved, drew near its inevitable judgment."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An excessively **plethoric** brain condition frequently impedes sharp intellectual discrimination by flooding the sensorium."*

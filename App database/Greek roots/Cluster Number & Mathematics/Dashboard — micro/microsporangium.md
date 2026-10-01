@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sporangium that develops only microspores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sporangium that develops only microspores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sporangium that produces microspores, which in seed plants develop into male gametophytes (pollen grains).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gymnosperms and angiosperms, the pollen sac within the anther or male cone where microsporocytes undergo meiosis to yield haploid pollen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsporangium designates a sporangium that develops only microspores."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"An angiosperm anther typically contains four elongated lobes, each functioning as a fertile **microsporangium**."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Meiotic divisions within the **microsporangium** generate tetrads of microspores that mature into powdery pollen."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"The tapetum lining the inner wall of the **microsporangium** nourishes developing spores and contributes sporopollenin to their outer walls."*

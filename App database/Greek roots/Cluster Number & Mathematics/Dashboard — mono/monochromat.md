@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is completely color-blind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is completely color-blind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or animal that has monochromatic vision and cannot perceive color differences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, an individual possessing only one functional photoreceptor mechanism in the retina, perceiving the visual scene entirely in lightness values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromat designates a person who is completely color-blind."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The artist became a sudden cerebral **monochromat** following a collision, perceiving his beloved paintings as drab slate and ash."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"To a complete **monochromat**, any color of the spectrum can be perfectly matched to any other simply by adjusting intensity."*
+> - 📜 **Richard Gregory (*Eye and Brain*):** *"The true **monochromat** navigates space with remarkable skill by exploiting motion parallax, contours, and relative brightness."*

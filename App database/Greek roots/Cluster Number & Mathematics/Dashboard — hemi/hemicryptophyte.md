@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A perennial plant whose perennating buds are positioned at or just below the soil surface, protected by leaf litter or snow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Raunkiær's plant life-form classification, a dominant life-form in temperate grasslands and deciduous forests (such as dandelions and meadow grasses).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemicryptophyte designates a term designating an entity, condition, or phenomenon derived from greek hemi."*
+> - 📜 **Christen Raunkiær (*The Life Forms of Plants and Statistical Plant Geography*):** *"Temperate climates favor the **hemicryptophyte**, which shelters its dormant buds safely under the winter blanket of humus."*
+> - 📜 **Arthur George Tansley (*The British Islands and Their Vegetation*):** *"Meadow flora in our moist maritime zone is overwhelmingly composed of rosettes belonging to the **hemicryptophyte** category."*
+> - 📜 **Frederic Clements (*Plant Succession: An Analysis of the Development of Vegetation*):** *"The climax prairie ecosystem relies upon deep-rooted **hemicryptophytes** capable of surviving seasonal freezes and summer droughts."*

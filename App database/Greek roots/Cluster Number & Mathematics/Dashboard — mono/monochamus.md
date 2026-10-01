@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sawyer beetles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sawyer beetles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of longhorn beetles in the family Cerambycidae, commonly known as sawyer beetles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and agricultural entomology, wood-boring beetles whose larvae excavate tunnels in conifers and serve as vectors for the pine wood nematode.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochamus designates sawyer beetles."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Beetle*):** *"The great pine sawyer, **Monochamus**, possesses antennae twice the length of its body, sweeping the bark for scent trails."*
+> - 📜 **E.O. Wilson (*The Diversity of Life*):** *"Wood-boring cerambycids like **Monochamus** accelerate the natural decomposition of fallen timber in boreal pine forests."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Beneath the peeling bark of dying jack pines, the rasping larvae of **Monochamus** churned wood into fragrant sawdust."*

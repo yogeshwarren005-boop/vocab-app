@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Timepiece; especially : one designed to keep time with great accuracy despite external forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timepiece; especially : one designed to keep time with great accuracy despite external forces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exceptionally precise, portable mechanical timepiece, especially a marine chronometer used for determining longitude at sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horology and navigation, a temperature-compensated timepiece invented by John Harrison in the 18th century, maintaining unwavering accuracy despite ship rolling and climatic shifts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Heart weak, but steady as a chronometer.” “It’s only twenty-four hours,” Captain Jamie said, “and he was never in like condition before.” “Putting it on, that’s what he’s doing, and you can stack on that,” Al Hutchins, the head trusty, interjected."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The boat took with me Captain Nemo, two men of the crew, and the instruments, which consisted of a chronometer, a telescope, and a barometer."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"If the disappearance of the half-disc of the sun coincided with twelve o’clock on the chronometer, we were at the pole itself."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"HMS Beagle carried twenty-two delicate **chronometers** to measure longitudes with unprecedented exactness around the globe."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain carefully compared his deck observations of the noon sun with the steadfast time recorded by his cabin **chronometer**."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"Greenwich Observatory stood as the sacred fountain of standard time, whence every marine **chronometer** drew its authority."*

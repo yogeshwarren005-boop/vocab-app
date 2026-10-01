@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In computer graphics, a numerical algorithm that calculates radiosity form factors between surfaces using half of a bounding cube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 3D computer graphics rendering, a hemi-cubical projection method that discretizes radiant energy transfer by projecting a scene onto the five faces of half a cube.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemicube designates a term designating an entity, condition, or phenomenon derived from greek hemi."*
+> - 📜 **Michael F. Cohen (*Radiosity and Realistic Image Synthesis*):** *"The **hemicube** algorithm approximates form factors by projecting surrounding geometric polygons onto five planar pixel grids."*
+> - 📜 **James D. Foley (*Computer Graphics: Principles and Practice*):** *"By using the graphics hardware z-buffer to render the faces of a **hemicube**, global illumination can be computed with high efficiency."*
+> - 📜 **Donald Hearn (*Computer Graphics with OpenGL*):** *"Each pixel on the **hemicube** surface corresponds to a delta form factor contributing to the total irradiance of the patch."*

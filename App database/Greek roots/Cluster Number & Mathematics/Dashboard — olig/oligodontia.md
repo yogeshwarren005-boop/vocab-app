@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital condition in which some of the teeth are missing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital condition in which some of the teeth are missing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital condition characterized by the developmental absence of six or more permanent teeth (excluding third molars).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics and dentistry, severe tooth agenesis frequently linked to mutations in MSX1 or PAX9 genes or ectodermal dysplasia syndromes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligodontia designates congenital condition in which some of the teeth are missing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe dental agenesis, known clinically as **oligodontia**, frequently coexists with hereditary abnormalities of hair and sweat glands."*
+> - 📜 **Siddhartha Mukherjee (*The Gene: An Intimate History*):** *"Disruptions in odontogenic transcription factors result in isolated **oligodontia**, leaving multiple tooth buds undeveloped."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Breeders observed that hairless dog varieties consistently exhibited congenital **oligodontia**, lacking several incisors and premolars."*

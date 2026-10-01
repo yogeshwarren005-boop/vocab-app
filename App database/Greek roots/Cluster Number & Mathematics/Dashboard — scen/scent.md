@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive odor that is pleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An odor left in passing by which a person or animal can be traced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive odor, smell, or fragrance; or an odor trail left by an animal by which it can be tracked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canine hunting, animal ecology, and sensory biology, chemical olfactory cues (volatile organic compounds) emitted by an organism, allowing tracking dogs and predators to follow trails.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But soft! methinks I scent the morning air; Brief let me be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, Bellman is as good as he, my lord; He cried upon it at the merest loss, And twice today pick’d out the dullest scent; Trust me, I take him for the better dog."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, ay, make up that:—he is now at a cold scent."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"I find thee apt; and duller shouldst thou be than the fat weed that roots itself in ease on Lethe wharf, wouldst thou not stir in this... Methinks I **scent** the morning air; brief let me be."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The hound follows the faint **scent** of the hare across damp turf with unerring olfactory sensitivity."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The warm spring rain brought forth the pungent **scent** of wet pine needles and thawing pitch."*

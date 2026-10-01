@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To practice witchcraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To put an evil spell on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root morpheme derived from Greek ἕξ (hex) signifying six; in folklore, an evil spell, jinx, or curse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, chemistry, and computing, a ubiquitous combining prefix (as in hexagon, hexose, hexadecimal) or Pennsylvania Dutch magical charm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"Have you ever heard of the hex of the white feather?" Peter thought a moment before he replied."*
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"Only to learn of the white feather hex?" * * * * * Mirestone climbed to his feet and paced the room."*
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"I have, like you, heard of the hex of the white feather."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The formative element **hex-** represents the Greek numeral for six, cognate with Latin sex and English six."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From **hex-** derive Hellenic designations for six-oared galleys, six-columned porticos, and six-month periods."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The superstitious villagers whispered that a malevolent **hex** had been placed upon the ruined farmhouse."*

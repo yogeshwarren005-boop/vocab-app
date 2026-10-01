@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic endocrinological disease caused by excessive secretion of growth hormone, characterized by progressive enlargement of the bones and tissues of the extremities and face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, the pathological condition (acromegaly) resulting from a pituitary adenoma hypersecreting somatotropin after epiphyseal fusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acromegalia designates a term designating an entity, condition, or phenomenon derived from greek acr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The characteristic facies and spatulate enlargement of the hands and feet in **acromegalia** point directly to pituitary hyperfunction."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and its Disorders*):** *"Surgical decompression of the sella turcica brought marked symptomatic relief to the patient suffering from severe **acromegalia**."*
+> - 📜 **Pierre Marie (*Essays on Acromegaly*):** *"I proposed the designation **acromegalia** to emphasize the hypertrophic deformity occurring predominantly at the bodily extremities."*

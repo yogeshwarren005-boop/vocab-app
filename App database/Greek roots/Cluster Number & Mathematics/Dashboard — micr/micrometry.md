@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring with a micrometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring with a micrometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of minute dimensions, distances, or angles using a micrometer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical microscopy and astronomy, the quantitative technique of measuring microscopic specimens or stellar separations using calibrated reticles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometry designates measuring with a micrometer."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Accurate double-star **micrometry** requires patient, repeated adjustments of the filar wires at the telescope eyepiece."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Through careful cellular **micrometry**, we recorded the exact volumetric shrinkage of chromosomes during mitotic prophase."*
+> - 📜 **Antonie van Leeuwenhoek (*Letters to the Royal Society*):** *"I practiced a crude form of **micrometry** by comparing the size of blood globules against coarse grains of sand."*

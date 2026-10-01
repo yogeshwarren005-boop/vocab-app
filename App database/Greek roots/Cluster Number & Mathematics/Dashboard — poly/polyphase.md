@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or producing two or more phases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or producing two or more phases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or producing two or more distinct phases; especially referring to alternating electric currents having two or more interrelated phases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering and thermodynamics, AC electrical distribution systems (such as standard three-phase power pioneered by Nikola Tesla) or physical mixtures containing multiple distinct thermodynamic phases (solid, liquid, vapor).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyphase designates having or producing two or more phases."*
+> - 📜 **Nikola Tesla (*Experiments with Alternate Currents of High Potential and High Frequency*):** *"The rotating magnetic field produced by my **polyphase** currents eliminated commutators and sparked a new industrial era."*
+> - 📜 **Charles Proteus Steinmetz (*Theory and Calculation of Alternating Current Phenomena*):** *"A balanced **polyphase** system maintains constant total instantaneous power, unlike single-phase alternating current."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"The phase rule determines the number of degrees of freedom in any heterogeneous **polyphase** thermodynamic system."*

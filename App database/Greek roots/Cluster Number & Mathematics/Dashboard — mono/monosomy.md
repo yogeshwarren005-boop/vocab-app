@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one less than the diploid number of chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having one less than the diploid number of chromosomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having a single copy of a chromosome in a diploid cell, rather than the normal homologous pair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics, an aneuploidy resulting from nondisjunction, exemplified in humans by Turner syndrome (monosomy X).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosomy designates having one less than the diploid number of chromosomes."*
+> - 📜 **Siddhartha Mukherjee (*The Gene: An Intimate History*):** *"Autosomal **monosomy** is almost universally lethal during embryonic development, with Turner syndrome being the sole viable human exception."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Meiotic nondisjunction during gametogenesis produces gametes with missing chromosomes, leading to embryonic **monosomy**."*
+> - 📜 **Max Wintrobe (*Clinical Hematology*):** *"Cytogenetic karyotyping revealed a clone characterized by **monosomy** 7, heralding aggressive myelodysplastic syndrome."*

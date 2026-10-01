@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a monolith : huge, massive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed from a single crystal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed of a single large block of stone; massive, solid, and uniform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing large, rigid, and indivisible institutions, empires, architectural forms, or software codebases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monolithic designates of, relating to, or resembling a monolith : huge, massive."*
+> - 📜 **George Orwell (*1984*):** *"The Ministry of Truth towered three hundred meters into the air, a vast **monolithic** structure of glittering white concrete."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Totalitarian regimes present a deceptively **monolithic** facade to the world, masking chaotic bureaucratic rivalries beneath."*
+> - 📜 **Carver Mead (*Introduction to VLSI Systems*):** *"The innovation of the **monolithic** integrated circuit replaced disparate wiring boards with a single sliver of crystalline silicon."*

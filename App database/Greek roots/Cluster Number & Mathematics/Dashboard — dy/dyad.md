@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pair; specifically, sociology : two individuals (such as husband and wife) maintaining a sociologically significant relationship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meiotic chromosome after separation of the two homologous members of a tetrad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of two; a pair or couple; two individuals or elements regarded as a single unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy, sociology, and mathematics, a fundamental two-part relationship (e.g. the Pythagorean Indefinite Dyad, a two-person social group, or a tensor product of two vectors).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyad designates pair; specifically, sociology : two individuals (such as husband and wife) maintaining a sociologically significant relationship."*
+> - 📜 **Aristotle (*Metaphysics*):** *"Plato posited the Great and Small as the material principle or Indefinite **Dyad**, cooperating with the One."*
+> - 📜 **Georg Simmel (*The Sociology of Georg Simmel*):** *"The social **dyad** represents the most intimate human association, dependent entirely upon the continued participation of both partners."*
+> - 📜 **Josiah Willard Gibbs (*Vector Analysis*):** *"A **dyad** is an operator formed by juxtaposing two vectors, acting upon other vectors through scalar and vector products."*

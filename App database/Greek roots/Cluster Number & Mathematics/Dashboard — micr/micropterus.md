@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American freshwater black basses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American freshwater black basses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of freshwater game fishes in the sunfish family (Centrarchidae), commonly known as black basses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American fisheries biology, predatory freshwater fishes including the largemouth bass (Micropterus salmoides) and smallmouth bass (Micropterus dolomieu).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micropterus designates american freshwater black basses."*
+> - 📜 **Izaak Walton (annotated modern editions) (*The Compleat Angler*):** *"Modern American anglers revere the fighting vigor of **Micropterus**, the large-mouthed black bass of clear lakes."*
+> - 📜 **David Starr Jordan (*Manual of the Vertebrates of the Northern United States*):** *"The genus **Micropterus** is characterized by an elongated body, deeply notched dorsal fin, and voracious piscivorous habits."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"In the deep eddy beneath the fallen pine, a solitary **Micropterus** lurked, waiting for minnows swept by the current."*

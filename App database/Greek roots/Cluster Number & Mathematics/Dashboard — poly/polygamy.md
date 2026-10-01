@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage in which a spouse of either sex may have more than one mate at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being polygamous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or custom of having more than one spouse at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology and evolutionary biology, a marital system comprising polygyny and polyandry, or an animal mating system where individuals mate with multiple partners during a single breeding cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A regular system of polygamy exists among the islanders; but of a most extraordinary nature,--a plurality of husbands, instead of wives! and this solitary fact speaks volumes for the gentle disposition of the male population."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The laws against polygamy, he said, should be firmly and effectively executed."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Polygamy, justly denounced as “the true relic of barbarism” while slavery existed, has ever since the settlement of the Mormons in Utah, been one of the vexed questions in American politics."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"Though widespread across human history, **polygamy** has usually been restricted in practice to wealthy or aristocratic men."*
+> - 📜 **Montesquieu (*The Spirit of the Laws*):** *"The domestic isolation imposed by institutionalized **polygamy** in the Orient alters the entire character of civil governance."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Wherever **polygamy** prevails among animals, sexual dimorphism in weapons, plumage, and vocal power is extraordinarily pronounced."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of nine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of nine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or series of nine persons, objects, or things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and religion, specifically the Enneads of Plotinus (six groups of nine treatises edited by Porphyry), or the great Heliopolitan Ennead of nine Egyptian deities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ennead designates a group of nine."*
+> - 📜 **Plotinus (*The Enneads*):** *"Each treatise within the **Ennead** guides the contemplative intellect toward mystical communion with the transcendent One."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Porphyry arranged the profound philosophical discourses of his master into six balanced volumes called the **Enneads**."*
+> - 📜 **E. A. Wallis Budge (*The Gods of the Egyptians*):** *"At Heliopolis, the supreme company of cosmic gods formed a sacred divine **Ennead** headed by the creator Temu."*

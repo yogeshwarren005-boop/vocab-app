@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: monastic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: monastic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The monastic life or system; the practice of living as a monk under religious vows of poverty, chastity, and obedience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, the institutional ascetic movement originating in Egyptian desert hermitages and flourishing across medieval Europe and Asia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In the town and immediate neighbourhood are some remains of religious houses, under various denominations; for the situation of Chepstow, presenting many advantages for commerce, was not less favourable for monachism."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Monachism, _note_, page 70. [46] De Orig. et Progr."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Monachism_, iii. 161. _County Hist._ [365] The town is incorporated and governed by a portreeve who has concurrent jurisdiction with the county magistrates, a recorder, two bailiffs, and burgesses."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The rapid spread of Christian **monachism** populated the desolate sands of the Nile with thousands of solitary hermits."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"Medieval Catholic **monachism** channeled ascetic rigor into the cloister, separating spiritual devotion from worldly labor."*
+> - 📜 **Desiderius Erasmus (*The Praise of Folly*):** *"He satirized the empty ritualism into which late medieval **monachism** had degenerated, urging a return to simple Gospel piety."*

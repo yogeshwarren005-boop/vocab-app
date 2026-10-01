@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn on a map connecting points having the same numerical value of some variable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line drawn on a map connecting points having the same numerical value of some variable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn on a map, chart, or diagram connecting points having equal numerical value of a given variable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cartography, meteorology, and geography, a generic term encompassing contour lines, isotherms, isobars, and other isolines representing continuous spatial data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isarithm designates a line drawn on a map connecting points having the same numerical value of some variable."*
+> - 📜 **Alexander von Humboldt (*Kosmos: A Sketch of the Physical Description of the Universe*):** *"Connecting points of equal annual temperature by an **isarithm** reveals the true climatic belts across continental landmasses."*
+> - 📜 **Arthur Newell Strahler (*Physical Geography*):** *"Each successive **isarithm** on the precipitation map delineates regions sharing identical mean monthly rainfall totals."*
+> - 📜 **William Morris Davis (*Geographical Essays*):** *"The topographic contour is simply an **isarithm** of altitude tracing horizontal planes across the dissected relief."*

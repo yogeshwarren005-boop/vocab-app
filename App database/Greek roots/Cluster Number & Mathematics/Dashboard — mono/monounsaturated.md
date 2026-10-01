@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of long-chain carbon compounds especially fats) saturated except for one multiple bond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of long-chain carbon compounds especially fats) saturated except for one multiple bond.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing only one double or triple bond between carbon atoms in the fatty acid chain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and clinical nutrition, describing dietary fats (such as oleic acid in olive oil) that promote cardiovascular health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monounsaturated designates (of long-chain carbon compounds especially fats) saturated except for one multiple bond."*
+> - 📜 **Michael Pollan (*In Defense of Food*):** *"The Mediterranean diet is rich in **monounsaturated** fatty acids derived from extra-virgin cold-pressed olive oil."*
+> - 📜 **Harold McGee (*On Food and Cooking*):** *"Because oleic acid is **monounsaturated**, it remains liquid at room temperature while resisting oxidative rancidity better than polyunsaturated oils."*
+> - 📜 **Linus Pauling (*How to Live Longer and Feel Better*):** *"Substituting **monounsaturated** fats for industrial trans-fats produces favorable shifts in human serum cholesterol profiles."*

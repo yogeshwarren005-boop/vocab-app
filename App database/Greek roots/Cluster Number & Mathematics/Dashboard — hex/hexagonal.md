@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having six sides or divided into hexagons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having six sides or divided into hexagons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having six sides and six angles; shaped like a hexagon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, belonging to the hexagonal crystal system, having three equal lateral axes intersecting at 120 degrees and a vertical perpendicular axis (e.g. quartz, beryl).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"These are hexagonal-radiate, each division being a pinnate or feather-shaped lamina of twin rows of crystals."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Then, not daring to hesitate any longer, she rang the bell, and was presently joined by a French lady of polished manners--Miss Carew’s maid who conducted her to the boudoir, a hexagonal apartment that, Alice thought, a sultana might have envied."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Peters Collection includes a well-modelled duck, a handsome vase with mask handles and hexagonal base, and a good example of the "granary urn." The last is a grain jar which derives its form from a granary tower."*
+> - 📜 **René Just Haüy (*Traité de Minéralogie*):** *"The primitive form of beryl is a regular **hexagonal** prism terminated by flat basal pinacoids."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The Giant's Causeway in Ireland is composed of thousands of majestic **hexagonal** basalt columns formed by contracting cooling lava."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"Under the microscope, frozen frost crystals exhibited intricate **hexagonal** branches of dazzling geometric precision."*

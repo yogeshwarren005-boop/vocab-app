@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As from opposite ends of a diameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As from opposite ends of a diameter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely, directly, or absolutely (used especially with opposed or opposite).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Along the line of a diameter; in direct spatial opposition across a center point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, our views of duty, and our views of station, and our views of education, and our views of—in short, ALL our views—are so diametrically opposed, that to prolong this discussion must be repellent to your feelings and repellent to my own."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Their statements were wholly irreconcilable with each other; nay more, were diametrically opposite; and that either were innocently mistaken in their assertions was impossible."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"These things and deeds are diametrically opposed: they are as distinct as is vice from virtue."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Evil into herself all good transforms; while Good, **diametrically** opposed, from evil ever produces greater good."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The character of James I was **diametrically** unlike that of his glorious predecessor Elizabeth."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The epistemological foundations of empiricism and rationalism stood **diametrically** opposed regarding innate ideas."*

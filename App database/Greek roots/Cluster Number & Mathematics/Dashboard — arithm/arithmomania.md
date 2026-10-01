@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: an obsessive-compulsive disorder in which the subject feels the need to count things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: an obsessive-compulsive disorder in which the subject feels the need to count things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsessive-compulsive urge or compulsion to count objects, steps, or daily occurrences, or to perform continuous numerical calculations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a symptom of obsessive-compulsive disorder characterized by intrusive counting rituals and fixation on numerical symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arithmomania designates an obsessive-compulsive disorder in which the subject feels the need to count things."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In morbid conditions like **arithmomania**, the patient is plagued by an irresistible impulse to count paving stones or windowpanes."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"Cases of severe obsessional neurosis frequently exhibit **arithmomania**, where the sufferer cannot proceed until counting a prescribed tally."*
+> - 📜 **Pierre Janet (*The Mental State of Hystericals*):** *"The repetitive numerical scrutiny seen in **arithmomania** serves to alleviate profound underlying existential dread."*

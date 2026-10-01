@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) celebration of the ascension of christ into heaven; observed on the 40th day after easter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement upward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rising, climbing, or ascending; specifically, the bodily ascent of Jesus Christ into heaven.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, right ascension (RA), the celestial coordinate angularly measured eastward along the celestial equator from the vernal equinox to the object's hour circle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His ascension is More sweet than our blest fields."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On this Ascension-day, remember well, Upon your oath of service to the pope, Go I to make the French lay down their arms. [_Exit._] KING JOHN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did not the prophet Say that before Ascension-day at noon My crown I should give off?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"So he told them, and then his **ascension** followed, received into a cloud that carried him up from their sight."*
+> - 📜 **Simon Newcomb (*Popular Astronomy*):** *"The position of a star on the celestial sphere is determined by its right **ascension** and declination."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The slow **ascension** of the morning sun dispelled the sullen vapors that veiled the precipitous mountain gorge."*

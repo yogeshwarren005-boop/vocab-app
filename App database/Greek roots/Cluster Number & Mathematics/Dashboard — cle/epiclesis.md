@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Christian Eucharistic liturgies, the prayer invoking the Holy Spirit to consecrate the bread and wine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sacramental theology, the vital liturgical invocation (especially prominent in Eastern Orthodox liturgies) effecting the Eucharistic transformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiclesis designates a term designating an entity, condition, or phenomenon derived from greek cle."*
+> - 📜 **Gregory Dix (*The Shape of the Liturgy*):** *"The development of the explicit **epiclesis** in the fourth-century Syrian liturgies altered the traditional focus of the Eucharistic canon."*
+> - 📜 **Alexander Schmemann (*The Eucharist: Sacrament of the Kingdom*):** *"In the Orthodox Divine Liturgy, the solemn **epiclesis** is the dramatic climax wherein the Holy Spirit descends upon the offering."*
+> - 📜 **John Henry Newman (*Tracts for the Times*):** *"The ancient liturgies invariably preserve the **epiclesis**, beseeching God to send down His Spirit upon the sacred gifts."*

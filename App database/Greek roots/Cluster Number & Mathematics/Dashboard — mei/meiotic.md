@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presentation of a thing with underemphasis especially in order to achieve a greater effect : understatement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cellular process that results in the number of chromosomes in gamete-producing cells being reduced to one half and that involves a reduction division in which one of each pair of homologous chromosomes passes to each daughter cell and a mitotic division.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or resulting from meiosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, describing cellular processes, chromosomal events (such as meiotic recombination and meiotic drive), or spindle dynamics occurring during reduction division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meiotic designates the presentation of a thing with underemphasis especially in order to achieve a greater effect : understatement."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"The mechanics of **meiotic** chromosome pairing require homologous recognition along the entire length of the chromatids."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Genetic variation is continuously replenished through random **meiotic** assortment of maternal and paternal chromosomes."*
+> - 📜 **Thomas Hunt Morgan (*Heredity and Sex*):** *"Failure of the **meiotic** spindle to separate chromosomes correctly results in non-disjunction and abnormal offspring."*

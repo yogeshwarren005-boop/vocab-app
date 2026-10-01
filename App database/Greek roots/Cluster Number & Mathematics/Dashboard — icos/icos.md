@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An initial offering of a cryptocurrency to the public : initial coin offering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An initial offering of a cryptocurrency to the public : initial coin offering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root morpheme derived from Greek εἴκοσι (eikosi) signifying twenty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, chemistry, and crystallography, a formative prefix (shortened before vowels) producing terms involving twenty sides, faces, or units (as in icosahedron, icosagon, icosane).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icos designates an initial offering of a cryptocurrency to the public : initial coin offering."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The scientific base **icos-** represents the Hellenic cardinal numeral for twenty, foundational to classical stereometry."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From eikosi and its combining stem **icos-** arise terms designating twenty-oared ships and twenty-sided solids."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"In Euclidean geometry, the stem **icos-** designates the twenty-faced regular solid concluding the Platonic series."*

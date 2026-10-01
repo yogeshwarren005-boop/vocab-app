@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) an organism or cell having a diploid set of chromosomes from each parent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) an organism or cell having a diploid set of chromosomes from each parent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism or cell that is a functional diploid resulting from the hybridization of two distinct species followed by chromosome doubling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant cytogenetics, an allotetraploid carrying two complete diploid chromosomal sets, which behaves meiotically like a normal fertile diploid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphidiploid designates (genetics) an organism or cell having a diploid set of chromosomes from each parent."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The synthetic species Raphanobrassica was a true **amphidiploid**, uniting the complete chromosomal complements of radish and cabbage."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"Regular bivalent pairing ensures complete fertility in an **amphidiploid** hybrid where allosomes find homologous mates."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Speciation through the emergence of an **amphidiploid** plant lineage can occur instantaneously in a single generation."*

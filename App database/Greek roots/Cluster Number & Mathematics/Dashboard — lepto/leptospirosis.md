@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious disease cause by leptospira and transmitted to humans from domestic animals; characterized by jaundice and fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infectious disease cause by leptospira and transmitted to humans from domestic animals; characterized by jaundice and fever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious zoonotic disease caused by bacteria of the genus Leptospira, transmitted to humans through water contaminated by the urine of infected animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a biphasic illness (including Weil's disease) characterized by high fever, severe myalgia, conjunctival suffusion, jaundice, acute kidney injury, and hemorrhage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptospirosis designates an infectious disease cause by leptospira and transmitted to humans from domestic animals; characterized by jaundice and fever."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The severe, icteric form of **leptospirosis**, historically termed Weil's disease, presents profound jaundice and renal failure."*
+> - 📜 **Alexander Fleming (*Penicillin: Its Practical Application*):** *"Prompt intravenous antibiotic therapy dramatically lowers mortality in military personnel afflicted with waterborne **leptospirosis**."*
+> - 📜 **Maxwell M. Wintrobe (*Clinical Hematology*):** *"Profound thrombocytopenia and hemorrhagic diathesis are frequent complications of fulminant **leptospirosis**."*

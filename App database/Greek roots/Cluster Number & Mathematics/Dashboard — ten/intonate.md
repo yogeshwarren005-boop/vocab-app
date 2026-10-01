@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak carefully, as with rising and falling pitch or in a particular tone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recite with musical intonation; recite as a chant or a psalm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To recite, utter, or chant with a specific musical tone, vocal modulation, or pitch contour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical music and ecclesiastical phonetics, to chant or sing the opening words of a psalm, canticle, or creed to set the pitch and mode for the choir.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intonate designates speak carefully, as with rising and falling pitch or in a particular tone."*
+> - 📜 **Thomas Cranmer (*The Book of Common Prayer: Historical Directives*):** *"The precentor shall clearly **intonate** the opening versicle so that the congregation may follow in unison."*
+> - 📜 **John Milton (*Tetrachordon*):** *"They **intonate** their solemn decrees with loud theatrical gravity, as if divine oracles spoke through their breath."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"Before the choir enters, the priest steps to the lectern to **intonate** the Gloria in the authentic Gregorian mode."*

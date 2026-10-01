@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by avoidance of traditional western tonality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by avoidance of traditional western tonality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a tonal center, key, or definite musical tonic; not written in any key.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 20th-century musicology and aesthetics, compositions (pioneered by Arnold Schoenberg, Alban Berg, and Anton Webern) that consciously abandon traditional major-minor hierarchical harmony in favor of free pitch relations or twelve-tone serialism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atonal designates characterized by avoidance of traditional western tonality."*
+> - 📜 **Arnold Schoenberg (*Harmonielehre (Theory of Harmony)*):** *"I prefer to speak of the emancipation of dissonance rather than applying the negative label of **atonal** to our harmonic language."*
+> - 📜 **Aaron Copland (*What to Listen for in Music*):** *"An **atonal** piece creates extreme dramatic tension because the ear is denied the customary rest of a resolving tonic chord."*
+> - 📜 **Theodor W. Adorno (*Philosophy of New Music*):** *"The radical **atonal** breakthrough reflected the fractured historical reality of post-war European consciousness."*

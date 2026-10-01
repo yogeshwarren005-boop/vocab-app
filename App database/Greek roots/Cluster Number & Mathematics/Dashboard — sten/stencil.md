@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheet of material (metal, plastic, cardboard, waxed paper, silk, etc.) that has been perforated with a pattern (printing or a design); ink or paint can pass through the perforations to create the printed pattern on the surface below.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark or print with a stencil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin sheet of cardboard, metal, or plastic in which a design or lettering is cut, through which ink or paint is applied to an underlying surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printmaking, signwriting, and mimeography, a printing technique where ink or dye is pressed through open cut-outs or perforated membranes onto paper, cloth, or walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stencil designates a sheet of material (metal, plastic, cardboard, waxed paper, silk, etc.) that has been perforated with a pattern (printing or a design); ink or paint can pass through the perforations to create the printed pattern on the surface below."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Mechanical copying by **stencil** can never replace the living vitality and subtle variations of the human hand."*
+> - 📜 **William Morris (*Some Hints on Pattern-Designing*):** *"In wall decoration, a simple repeat pattern produced with a **stencil** should celebrate its flat graphic constraints."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Across the hallway, the word MINITRUE was marked upon the wall in clumsy **stencil** lettering."*

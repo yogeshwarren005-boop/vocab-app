@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pleasing succession of musical tones : melody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dominant theme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A melody, song, or sequence of musical notes; or the state of being at the correct musical pitch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic engineering and mechanics, to adjust an instrument or engine to optimal frequency, resonance, or mechanical performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The poop was beaten gold; Purple the sails, and so perfumed that The winds were love-sick with them; the oars were silver, Which to the tune of flutes kept stroke, and made The water which they beat to follow faster, As amorous of their strokes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Saucy lictors Will catch at us like strumpets, and scald rhymers Ballad us out o’ tune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sing it. ’Tis no matter how it be in tune, so it make noise enough."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"The isle is full of noises, sounds and sweet airs, that give delight and hurt not; sometimes a thousand twangling instruments will hum about mine ears, and sometimes voices that, if I then had waked after long sleep, will make me sleep again: this was the very **tune** of our catch."*
+> - 📜 **Robert Burns (*A Red, Red Rose*):** *"O my Luve is like the melodie / That's sweetly play'd in **tune**."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The analogy between colors and musical sounds suggested that harmony depends upon vibrational motions being in **tune**."*

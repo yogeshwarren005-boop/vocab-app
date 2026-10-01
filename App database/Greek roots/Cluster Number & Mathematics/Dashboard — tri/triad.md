@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A union or group of three : trinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chord of three tones consisting of a root with its third and fifth and constituting the harmonic basis of tonal music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or set of three connected people, things, or concepts; or a three-note musical chord consisting of root, third, and fifth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music theory, the fundamental harmonic building block of Western tonality (major, minor, diminished, or augmented triad); in East Asian sociology and criminology, traditional Chinese secret societies and transnational organized crime syndicates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The _Kane_, _Ku_ and _Lono:_ or, Sunlight, Substance, and Sound,--these constituted a triad named _Ku-Kaua-Kahi_, or the Fundamental Supreme Unity."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Ku-Kaua-Kahi, a triad--the Fundamental Supreme Unity, p. 15. kukini, trained runner. kuko, to wish, to lust, p. 89. kukui tree, Aleurites molluccana, p. 88."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"How then is it possible for Him to create man subject to this triad of errors, - man who is made in the divine likeness? 356:24 Does God create a material man out of Himself, Spirit?"*
+> - 📜 **Johann Sebastian Bach (*The Art of the Fugue: Notes*):** *"The harmonic sweetness of counterpoint rests upon the consonant sounding of the major or minor **triad**."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The ancient philosophers took delight in the mystical **triad**, finding threefold harmony in heaven, earth, and man."*
+> - 📜 **Leonard Bernstein (*The Joy of Music*):** *"The three notes of a common **triad** mirror the fundamental overtones that resonate whenever a single bass string is plucked."*

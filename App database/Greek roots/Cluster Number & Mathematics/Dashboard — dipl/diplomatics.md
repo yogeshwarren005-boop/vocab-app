@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dipl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scholarly and critical study of historical documents, official charters, diplomas, and state records to determine their authenticity, date, and provenance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An auxiliary historical discipline founded by Jean Mabillon in the 17th century, analyzing handwriting, scripts, seals, and legal formulas in historical manuscripts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplomatics designates a term designating an entity, condition, or phenomenon derived from greek dipl."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The forgery of the Donation of Constantine was exposed by Lorenzo Valla and demolished by the critical science of **diplomatics**."*
+> - 📜 **Lord Acton (*Lectures on Modern History*):** *"Mabillon's masterwork on **diplomatics** furnished historians with an infallible touchstone to separate spurious charters from truth."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Antiquarians versed in **diplomatics** examined the ancient Norman parchment to verify the heraldic seals affixed to the deed."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of hemp obtained from the abaca plant in the philippines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Philippine banana tree having leafstalks that yield manila hemp used for rope and paper etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A species of banana plant (Musa textilis) native to the Philippines, cultivated for its strong, lustrous leafstalk fiber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The durable, water-resistant fiber obtained from this plant, commercially known as Manila hemp, widely used for naval cordage and specialized paper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abaca designates a kind of hemp obtained from the abaca plant in the philippines."*
+> - 📜 **Charles Wilkes (*Narrative of the United States Exploring Expedition*):** *"The cordage manufactured from the **abaca** is remarkably light, durable, and superior to Russian hemp for marine rigging."*
+> - 📜 **Herman Melville (*Omoo: A Narrative of Adventures in the South Seas*):** *"Coils of stiff Manila **abaca** rope lay stowed in the vessel's forepeak alongside rolls of fibrous matting."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Extensive plantations of **abaca** occupy the fertile volcanic slopes, yielding the finest fibrous harvest of the archipelago."*

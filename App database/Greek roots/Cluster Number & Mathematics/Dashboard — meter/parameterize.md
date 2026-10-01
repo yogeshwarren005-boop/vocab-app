@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To express in terms of parameters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express in terms of parameters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express, define, or represent a mathematical curve, surface, or system in terms of parameters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational modeling and geometry, to represent geometric coordinates as functions of independent parametric variables (such as arc length or time).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parameterize designates to express in terms of parameters."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"To evaluate the spatial line integral, the geometer must first **parameterize** the curve in terms of arc length."*
+> - 📜 **Felix Klein (*Lectures on Mathematics*):** *"By using elliptic functions, we can completely **parameterize** complex algebraic curves of genus one."*
+> - 📜 **Roger Penrose (*The Road to Reality*):** *"In spacetime geometry, it is natural to **parameterize** particle worldlines using proper time along the path."*

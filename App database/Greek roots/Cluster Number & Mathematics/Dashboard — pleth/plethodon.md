@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the plethodontidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the plethodontidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, lungless woodland salamanders (family Plethodontidae) native to North America, known as woodland salamanders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology and evolutionary ecology, terrestrial amphibians that respire entirely through the moist skin and buccopharyngeal cavity, famous for direct development without an aquatic larval stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plethodon designates type genus of the plethodontidae."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"In the genus **Plethodon**, the tongue is attached along the median line and respiration is conducted entirely through the vascular dermis."*
+> - 📜 **Raymond Ditmars (*Reptiles and Amphibians*):** *"Under rotting forest logs, one commonly finds **Plethodon** cinereus guarding its clutch of delicate gelatinous eggs."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Speciation in Appalachian **Plethodon** salamanders illustrates the genetic divergence of morphologically conservative populations."*

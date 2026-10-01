@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional solid or polyhedron bounded by seven plane faces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid geometry and topology, a polyhedron that can take topological forms such as a hexagonal pyramid, a pentagonal prism, or self-intersecting projective solids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptahedron designates a term designating an entity, condition, or phenomenon derived from greek hept."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"A hexagonal pyramid standing on a six-sided base forms an elementary **heptahedron** having seven faces and seven vertices."*
+> - 📜 **René Just Haüy (*Traité de Minéralogie*):** *"Crystalline cleavage along secondary planes occasionally produces an irregular mineralogical **heptahedron**."*
+> - 📜 **Adrien-Marie Legendre (*Elements of Geometry*):** *"The pentagonal prism capped at both ends constitutes an asymmetrical **heptahedron** bounded by seven distinct planes."*

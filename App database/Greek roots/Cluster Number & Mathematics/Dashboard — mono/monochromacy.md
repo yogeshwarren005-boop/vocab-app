@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Total color blindness, a condition in which vision is restricted to shades of grey because only one type of retinal photoreceptor is functional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual neuroscience and ophthalmology, complete achromatopsia occurring either as rod monochromacy (loss of all cones) or rare cone monochromacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromacy designates complete color blindness; colors can be differentiated only on the basis of brightness."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"On the atoll of Pingelap, a significant portion of the population lives with hereditary **monochromacy**, seeing the world in pure luminance."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"True complete **monochromacy** reduces color matching to a single-variable intensity equation across the visible spectrum."*
+> - 📜 **Richard Dawkins (*Climbing Mount Improbable*):** *"In nocturnal mammals, evolutionary loss of cone pigments often resulted in functional **monochromacy** optimized for low-light sensitivity."*

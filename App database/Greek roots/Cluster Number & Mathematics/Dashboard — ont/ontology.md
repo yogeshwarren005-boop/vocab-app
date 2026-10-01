@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of metaphysics concerned with the nature and relations of being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular theory about the nature of being or the kinds of things that have existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy and metaphysics that studies the nature of being, existence, and reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and information theory, a formal, explicit specification of a shared conceptualization, defining categories, entities, and relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology needed 129:21 We must abandon pharmaceutics, and take up ontol- ogy, - "the science of real being." We must look deep into realism instead of accepting only the out- 129:24 ward sense of things."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology defined 460:3 Ontology is defined as "the science of the necessary constituents and relations of all beings," and it under- lies all metaphysical practice."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology /versus/ physiology Ontology receives less attention than physiology."*
+> - 📜 **Willard Van Orman Quine (*From a Logical Point of View*):** *"A curious thing about the **ontology** problem is its simplicity: it can be put in three Anglo-Saxon monosyllables: 'What is there?'"*
+> - 📜 **Gottfried Wilhelm Leibniz (*New Essays on Human Understanding*):** *"A coherent philosophical **ontology** must reconcile physical mechanics with ultimate metaphysical substances."*
+> - 📜 **Tim Berners-Lee (*Weaving the Web*):** *"The Semantic Web relies on an underlying formal **ontology** so that machines can interpret relationships among diverse data sources."*

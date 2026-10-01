@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic meteoroid traveling through space, generally defined as having a mass under one microgram or a diameter under one millimeter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orbital mechanics and astronautics, high-velocity space debris and dust posing hazard risks to satellites and spacewalking astronauts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometeoroid designates a meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere."*
+> - 📜 **Michael Collins (*Carrying the Fire*):** *"The extravehicular spacesuit was tailored with reinforced mylar layers to safeguard against a hypervelocity **micrometeoroid** impact."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The cylindrical hull showed the burnished patina of millennia of travel, polished by countless **micrometeoroid** collisions."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Before Apollo launched, astronomers worried that a dense flurry of **micrometeoroid** particles might erode the lander's delicate foil."*

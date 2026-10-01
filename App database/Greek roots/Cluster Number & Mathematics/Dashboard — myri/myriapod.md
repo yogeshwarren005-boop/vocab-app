@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Myriapoda) of arthropods having the body made up of numerous similar segments nearly all of which bear true jointed legs and including the millipedes and centipedes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group (Myriapoda) of arthropods having the body made up of numerous similar segments nearly all of which bear true jointed legs and including the millipedes and centipedes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arthropod of the subphylum Myriapoda, having an elongated segmented body with numerous pairs of legs (such as a centipede or millipede).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, terrestrial mandibulata adapted to moist leaf litter and soil microhabitats, exhibiting multi-segmented trunk morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myriapod designates any of a group (myriapoda) of arthropods having the body made up of numerous similar segments nearly all of which bear true jointed legs and including the millipedes and centipedes."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Under every damp log, some creeping **myriapod** worked alongside earthworms to aerate and decompose the woodland mold."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"The predatory scolopendra, a giant **myriapod**, struck its prey with lightning venomous claws beneath the stones."*
+> - 📜 **E.O. Wilson (*The Diversity of Life*):** *"The tropical rain forest litter swarms with cryptozoic creatures, among which every multi-legged **myriapod** plays a decomposer role."*

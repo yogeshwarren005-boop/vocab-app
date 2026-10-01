@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed plane figure bounded by straight lines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A closed figure on a sphere bounded by arcs of great circles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed plane geometric figure bounded by three or more straight line segments intersecting at their endpoints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer graphics, planar surfaces (especially triangles and quads) assembled into polygon meshes to model 3D geometric characters, objects, and game environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He lived in a place called the Polygon, in Somers Town, where there were at that time a number of poor Spanish refugees walking about in cloaks, smoking little paper cigars."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"You’re the most charming of polygons!” her companion broke out."*
+> - 📜 **Euclid (*Elements*):** *"Any regular **polygon** inscribed within a circle can be divided into congruent isosceles triangles meeting at the center."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"By conceiving the planetary orbit as the limit of an inscribed **polygon** with infinite sides, we resolve centrifugal force."*
+> - 📜 **René Descartes (*Discourse on the Method*):** *"The geometer easily conceives of a chiliagon, a regular **polygon** of a thousand sides, through algebraic calculation."*

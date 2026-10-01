@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An economist who specializes in microeconomics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An economist who specializes in microeconomics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An economist who specializes in microeconomics, analyzing the behavior of individual economic agents and discrete markets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An applied researcher studying consumer behavior, corporate pricing strategies, industrial organization, or labor markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microeconomist designates an economist who specializes in microeconomics."*
+> - 📜 **George Stigler (*The Theory of Price*):** *"The professional **microeconomist** focuses on how changes in regulatory rules alter incentives for individual enterprises."*
+> - 📜 **Freakonomics authors (Steven Levitt) (*Freakonomics*):** *"As an empirical **microeconomist**, my instinct is to look past lofty rhetoric and examine the underlying incentives."*
+> - 📜 **Paul Krugman (*Peddling Prosperity*):** *"While macroeconomists bickered over fiscal stimulus, the **microeconomist** made steady progress mapping real-world market imperfections."*

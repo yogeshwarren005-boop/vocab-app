@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of formicidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of formicidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, cosmopolitan ants in the subfamily Myrmicinae, commonly known as pharaoh ants or thief ants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and pest management, minute polymorphic ants (such as Monomorium pharaonis) notorious for infesting heated buildings and hospitals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monomorium designates a genus of formicidae."*
+> - 📜 **E.O. Wilson (*The Insect Societies*):** *"Colonies of **Monomorium** establish decentralized multi-queen supercolonies that thrive in urban structures."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The tiny pest ant **Monomorium** pharaonis nests within hollow baseboards, trailing stealthily along hot water pipes."*
+> - 📜 **Bert Hölldobler (*The Ants*):** *"Chemical trail recruitment in **Monomorium** relies on microgram quantities of volatile venom alkaloids."*

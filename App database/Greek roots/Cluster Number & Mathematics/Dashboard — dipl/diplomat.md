@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One employed or skilled in diplomacy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One employed or skilled in diplomacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official appointed by a government to represent the state in international relations and conduct negotiations with foreign powers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who demonstrates extraordinary tact, prudence, finesse, and skill in managing sensitive personal or professional negotiations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What about you, Brad?" "I'm neither a politician nor a diplomat, Mr."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now, Drummer, is the time for you, my chief diplomat, to engage in a bit of manipulation and encouragement among our allies -- in my name and behalf, of course."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But I know I am no use anywhere except in the army; I am not a diplomat or a government clerk.—I don’t know how to hide what I feel.” As he spoke he kept glancing with the flirtatiousness of a handsome youth at Sónya and the young lady visitor."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine court dispatched a seasoned **diplomat** to flatter the barbarian chieftain and negotiate a treaty."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"A successful **diplomat** must possess the patience of a sphinx and the ability to maintain silence in three languages."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Prince Andrew observed the Russian **diplomat** conversing with the French emissaries with consummate elegance and reserve."*

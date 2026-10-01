@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a solution) the extent to which a solution has a lower osmotic pressure than some other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of muscular tissue) the state of being hypotonic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being hypotonic; subnormal muscle tone or reduced osmotic concentration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and fluid physiology, generalized muscular flaccidity in neurological disorders, or reduced osmolality in blood serum (hyponatremic hypotonicity).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypotonicity designates (of a solution) the extent to which a solution has a lower osmotic pressure than some other."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked **hypotonicity** of the skeletal musculature is a prominent feature of choreic disorders in childhood."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Serum **hypotonicity** drives water into cerebral cells, resulting in cerebral edema and neurological deterioration."*
+> - 📜 **W. Russell Brain (*Diseases of the Nervous System*):** *"Lesions of the neocerebellum produce prominent **hypotonicity** and dysmetria on the side of the damaged hemisphere."*

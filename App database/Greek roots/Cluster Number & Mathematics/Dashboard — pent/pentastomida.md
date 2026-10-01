@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tongue worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tongue worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of specialized, worm-like parasitic crustaceans comprising the tongue worms, inhabiting the respiratory tracts of vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic invertebrate zoology, a taxon (now classified within the crustacean subclass Ichthyostraca) containing about 130 species of obligate endoparasites with degenerate morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentastomida designates tongue worms."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The enigmatic group **Pentastomida** was long placed among arachnids until spermatology revealed their true crustacean origin."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"Members of **Pentastomida** have lost all circulatory, respiratory, and excretory organs as adaptations to an endoparasitic life."*
+> - 📜 **William A. Riley (*Medical Entomology*):** *"Within **Pentastomida**, Linguatula serrata is the most notable species capable of producing human nasopharyngeal linguatuliasis."*

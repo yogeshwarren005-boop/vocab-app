@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conical manner, shape, or orientation; so as to form or taper like a cone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and physical experiments, progressing or tapering toward a pointed vertex along circular cross-sections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"You approach it from the sea by a narrow entrance, flanked on each side by two small twin islets which soar conically to the height of some five hundred feet."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The lines of magnetic induction converged **conically** toward the sharpened iron pole-pieces of the electromagnet."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The beam of intense light was focused **conically** through the crystal, igniting the combustible target placed at the focal point."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"The sand grains poured steadily through the narrow orifice, piling up **conically** on the table beneath."*

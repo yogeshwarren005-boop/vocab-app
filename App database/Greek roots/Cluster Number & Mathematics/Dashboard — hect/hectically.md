@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a frenzied manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a frenzied manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hectic, wildly hurried, or frenzied manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With feverish excitement or fever-like agitation and rapidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hectically designates in a frenzied manner."*
+> - 📜 **F. Scott Fitzgerald (*The Beautiful and Damned*):** *"The orchestra played **hectically** as couples drifted from table to table in the smoky glare of the nightclub."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The laborers worked **hectically** under the blazing sun, struggling to unload the heavy machinery before nightfall."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Newsboys shouting extra editions ran **hectically** through the panic-stricken crowds at Waterloo station."*

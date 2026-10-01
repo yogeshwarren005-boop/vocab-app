@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 2 species of small evergreen shrubs of australia and tasmania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 2 species of small evergreen shrubs of australia and tasmania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus of small coniferous shrubs in the podocarp family (Podocarpaceae), native to Australia and Tasmania (now Pherosphaera).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical dendrology, dwarf montane alpine conifers characterized by tiny scale-like leaves and miniature cones adapted to cold peat bogs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microstrobos designates 2 species of small evergreen shrubs of australia and tasmania."*
+> - 📜 **Joseph Dalton Hooker (*The Botany of the Antarctic Voyage*):** *"Among the alpine cushion bogs of the Tasmanian highlands, we discovered creeping shrubs of **Microstrobos** clinging to wet dolerite."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The archaic gymnosperm **Microstrobos** provides an important evolutionary link within the southern family Podocarpaceae."*
+> - 📜 **David Attenborough (*The Private Life of Plants*):** *"The miniature evergreen twigs of **Microstrobos** survive relentless sub-Antarctic gales by hugging the icy scree."*

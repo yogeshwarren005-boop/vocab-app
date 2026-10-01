@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In differential geometry, the transformation or rotation undergone by a geometric vector when it is parallel-transported around a closed loop on a curved manifold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics and gauge theory, a path-dependent phase factor or Wilson loop describing curvature and topological charges in Yang-Mills fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holonomy designates a term designating an entity, condition, or phenomenon derived from greek hol."*
+> - 📜 **Élie Cartan (*Riemannian Geometry in an Orthogonal Frame*):** *"The group of rotations resulting from parallel transport around infinitesimal closed circuits defines the **holonomy** of the space."*
+> - 📜 **H. S. M. Coxeter (*Regular Complex Polytopes*):** *"The **holonomy** group of a Riemannian manifold characterizes the intrinsic curvature and topological constraints of the geometry."*
+> - 📜 **Roger Penrose (*The Road to Reality*):** *"Parallel transport of a tangent vector around a closed circuit on a sphere produces a non-trivial **holonomy** angle proportional to enclosed area."*

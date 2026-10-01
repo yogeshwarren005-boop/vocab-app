@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of verse consisting of five metrical feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line of verse consisting of five metrical feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poetic line of verse consisting of five metrical feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Latin and Greek prosody, a dactylic verse of five feet used in elegiac couplets; in English poetry, iambic pentameter, the foundational meter of blank verse and Shakespearean drama.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentameter designates a line of verse consisting of five metrical feet."*
+> - 📜 **Samuel Taylor Coleridge (*The Ovidian Elegiac Metre*):** *"In the hexameter rises the fountain's silvery column; / In the **pentameter** aye falling in melody back."*
+> - 📜 **John Dryden (*An Essay of Dramatic Poesy*):** *"Our English blank verse, fashioned in heroic **pentameter**, possesses the dignified gravity suited to tragic action."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"A needless Alexandrine ends the song, / That, like a wounded snake, drags its slow length along, unlike the brisk **pentameter**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a variety of carbohydrates that yield four monosaccharide molecules on complete hydrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a variety of carbohydrates that yield four monosaccharide molecules on complete hydrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A carbohydrate composed of four monosaccharide units joined together by glycosidic bonds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and nutritional science, oligosaccharides such as stachyose (galactose-galactose-glucose-fructose), abundant in soybeans and legumes, which pass undigested into the large intestine where anaerobic fermentation produces gas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrasaccharide designates any of a variety of carbohydrates that yield four monosaccharide molecules on complete hydrolysis."*
+> - 📜 **Emil Fischer (*Syntheses in the Sugar Group*):** *"Complete enzymatic cleavage of the crystalline **tetrasaccharide** stachyose yields two molecules of galactose, one of glucose, and one of fructose."*
+> - 📜 **Arthur Harden (*Alcoholic Fermentation*):** *"The human stomach lacks the galactosidase enzyme required to hydrolyze a **tetrasaccharide** like stachyose in bean meal."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Stepwise linkage of four hexose rings generates a **tetrasaccharide** with specific conformation dictated by its glycosidic angles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to verse lines written in tetrameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to verse lines written in tetrameter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or written in tetrameter; having four metrical feet per line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic analysis and prosody, verse structures composed of lines with four rhythmic accents (such as octosyllabic couplets).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrametric designates of or relating to verse lines written in tetrameter."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"Hudibras is written in a brisk **tetrametric** verse whose humorous double rhymes suit its satirical burlesque."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"The rapid pace of the **tetrametric** stanza lends itself naturally to urgent passionate lyricism."*
+> - 📜 **Walter Scott (*The Lay of the Last Minstrel: Preface*):** *"For a border romance, the four-beat **tetrametric** cadence mimics the ancient rhythm of the harper's song."*

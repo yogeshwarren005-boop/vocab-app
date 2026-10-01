@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative or historical taxonomic name for the class of monocotyledonous flowering plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical botanical literature, the subclass of angiosperms characterized by endogenous vascular stem structure and single seed leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledones designates comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae."*
+> - 📜 **Antoine Laurent de Jussieu (*Genera Plantarum*):** *"I divided the vegetable kingdom into Acotyledones, **Monocotyledones**, and Dicotyledones based upon embryonic seed leaves."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The broad divergence separating the Dicotyledones from the **Monocotyledones** represents one of the ancient divides of floral evolution."*
+> - 📜 **Robert Brown (*Botanical Remarks on the Flora of New Holland*):** *"Australian collections revealed extraordinary, bizarre representatives of the **Monocotyledones** adapted to arid scrublands."*

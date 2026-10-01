@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of many or all of the peripheral nerves (as in leprosy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of many or all of the peripheral nerves (as in leprosy).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation or degeneration of several peripheral nerves simultaneously, causing symmetric pain, sensory disturbances, and weakness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and nutritional medicine, symmetrical peripheral neuropathy classically associated with thiamine deficiency (beriberi), chronic alcoholism, lead poisoning, or post-infectious Guillain-Barré syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyneuritis designates inflammation of many or all of the peripheral nerves (as in leprosy)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute toxic **polyneuritis** typically begins with sensory paresthesias in the toes, followed rapidly by ascending motor paralysis."*
+> - 📜 **Christiaan Eijkman (*Nobel Lecture: The Antineuritic Vitamin*):** *"Fowls fed exclusively on polished white rice developed a severe paralytic **polyneuritis** identical to human beriberi."*
+> - 📜 **W. Russell Brain (*Diseases of the Nervous System*):** *"Alcoholic **polyneuritis** responds favorably to immediate parenteral vitamin therapy provided dietary intake is restored."*

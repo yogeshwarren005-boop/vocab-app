@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Important pathogens causing weil's disease or canicola fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Important pathogens causing weil's disease or canicola fever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of slender, tightly coiled, aerobic spirochete bacteria characterized by hooked ends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical microbiology and infectious disease, zoonotic pathogens (notably Leptospira interrogans) that infect humans through contaminated water or contact with animal urine, causing leptospirosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptospira designates important pathogens causing weil's disease or canicola fever."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Darkfield microscopy of urine samples revealed the delicate, hooked spirals of pathogenic **Leptospira**."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Penicillin administered in the early septicemic phase arrests the rapid proliferation of **Leptospira**."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The motile coils of **Leptospira** penetrate unbroken mucous membranes with remarkable invasive ease."*

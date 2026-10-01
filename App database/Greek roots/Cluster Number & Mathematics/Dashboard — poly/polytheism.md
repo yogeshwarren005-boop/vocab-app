@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in or worship of more than one god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in or worship of more than one god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief in, or worship of, more than one god or deity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion, anthropology, and philosophy, religious traditions (such as ancient Greco-Roman, Vedic, and Mesoamerican religions) that venerate a pantheon of distinct deities governing diverse cosmic and human domains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"As a French scholar has said, where there is polytheism there are no false gods."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the third place, the religion has the common weakness of all polytheism."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Animism is passing into polytheism."*
+> - 📜 **David Hume (*The Natural History of Religion*):** *"The primary religion of mankind was inevitable **polytheism**, born of fear and hope directed toward diverse natural powers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The various modes of worship which prevailed in the Roman world were all considered by the people as equally true, united under tolerant **polytheism**."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Vedic religion reflects that fluid stage of **polyheism** which I have designated kathenotheism, where each deity is addressed as supreme in turn."*

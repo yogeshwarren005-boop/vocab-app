@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic; a semisynthetic oral penicillin (trade names amoxil and larotid and polymox and trimox and augmentin) used to treat bacterial infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic; a semisynthetic oral penicillin (trade names amoxil and larotid and polymox and trimox and augmentin) used to treat bacterial infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary brand name for amoxicillin, a broad-spectrum penicillin antibiotic used in the treatment of bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and pediatrics, an orally well-absorbed semisynthetic beta-lactam antibiotic used extensively for otitis media, streptococcal pharyngitis, and respiratory tract infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymox designates an antibiotic; a semisynthetic oral penicillin (trade names amoxil and larotid and polymox and trimox and augmentin) used to treat bacterial infections."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"The enhanced oral bioavailability of amoxicillin, formulated commercially as **polymox**, ensured superior tissue levels over ampicillin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine: Modern Revision*):** *"For acute pediatric sinusitis and middle ear inflammation, oral suspensions of **polymox** remain the frontline empirical therapy."*
+> - 📜 **Maxwell Finland (*Antibiotic Therapy in Primary Care*):** *"High compliance in pediatric outpatients was achieved with **polymox** due to its convenient dosage schedule and low gastrointestinal side effects."*

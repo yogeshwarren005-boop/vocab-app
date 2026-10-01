@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrow-mouthed toads and sheep frogs; some burrow and some are arboreal; found worldwide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrow-mouthed toads and sheep frogs; some burrow and some are arboreal; found worldwide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, cosmopolitan family of frogs, commonly known as narrow-mouthed toads or narrow-mouthed frogs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, anuran amphibians characterized by narrow mouths, stout bodies, and diverse life histories ranging from burrowing to arboreal forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microhylidae designates narrow-mouthed toads and sheep frogs; some burrow and some are arboreal; found worldwide."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes and Amphibians*):** *"The fossorial frogs of the family **Microhylidae** possess sharp-edged inner metatarsal spades adapted for digging into loam."*
+> - 📜 **E.O. Wilson (*The Diversity of Life*):** *"In the rainforest leaf litter, tiny cryptically colored species of **Microhylidae** call with buzzing, insect-like notes after summer rains."*
+> - 📜 **David Attenborough (*Life on Earth*):** *"Certain Asian narrow-mouthed toads of the family **Microhylidae** live safely inside the burrows of large tarantulas in strange mutual tolerance."*

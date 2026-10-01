@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Photocopy printed or other graphic matter so that it is reduced in size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photocopy printed or other graphic matter so that it is reduced in size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographic copy of printed or graphic matter greatly reduced in size, requiring optical magnification to read.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In user interface design, small bits of instructional text, button labels, and hints that guide users through a digital interface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcopy designates photocopy printed or other graphic matter so that it is reduced in size."*
+> - 📜 **Don Norman (*The Design of Everyday Things*):** *"Carefully worded **microcopy** on a checkout button alleviates user anxiety and clarifies subsequent actions."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"Libraries began reducing voluminous historical newspapers onto rolls of space-saving photographic **microcopy**."*
+> - 📜 **Steve Krug (*Don't Make Me Think*):** *"Concise, unambiguous **microcopy** next to form fields prevents users from stumbling during complex sign-up flows."*

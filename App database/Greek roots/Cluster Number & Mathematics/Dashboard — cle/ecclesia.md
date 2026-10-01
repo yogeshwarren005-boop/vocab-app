@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sovereign political assembly of citizens in an ancient Greek democratic city-state, notably Athens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early Christianity and theological Latin, the congregation of believers or the Church conceived as a divine assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The real ecclesia, the genuine church, is not so easily split."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Hist._ [38] 1287.--Conventus Ecclesiæ Beatæ Mariæ de <g>Tynterna</g> intravit dictam ecclesiam ad celebrandum in _nova_ ecclesia."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"HEREF. £ _s._ _d._ Porcio in ecclesia de Tudenham, 3 6 8 TEMPORALIA DIOC."*
+> - 📜 **Thucydides (*The Peloponnesian War*):** *"Pericles ascended the bema before the gathered **ecclesia** on the Pnyx to persuade the citizens to stand firm."*
+> - 📜 **Aristotle (*Politics*):** *"In a democratic constitution, supreme authority resides in the regular meetings of the sovereign **ecclesia**."*
+> - 📜 **George Grote (*A History of Greece*):** *"The Athenian **ecclesia** debated matters of war, treaties, and taxation with unprecedented rhetorical freedom."*

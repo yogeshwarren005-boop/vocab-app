@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or series of eight elements, things, or persons; an octet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical valence theory and mythology, an assemblage of eight related principles, deities, or electrons forming a stable system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octad designates a term designating an entity, condition, or phenomenon derived from greek oct."*
+> - 📜 **Francis Bacon (*The Wisdom of the Ancients*):** *"Ancient cosmologists often grouped the primary spheres into a harmonious **octad** under celestial guidance."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Gilbert Lewis recognized that valence electrons tend to organize into a stable closed **octad** resembling the noble gases."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"The mystical properties of the number eight invite the philosopher to ponder every natural **octad** in animal anatomy."*

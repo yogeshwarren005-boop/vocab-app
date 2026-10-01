@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in one god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A believer in one god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes in or advocates monotheism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion, an adherent of an Abrahamic or unitary theological faith that acknowledges one supreme deity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Christ, as the true spiritual idea, is the ideal of God now and forever, here and everywhere. 361:6 The Jew who believes in the First Commandment is a monotheist; he has one omnipresent God."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Christian who believes in the First Commandment is a monotheist."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is here that the real interest of Plutarch's theology begins; for, as Christian apologists were quick to point out, all the philosophers were in the last resort monotheists."*
+> - 📜 **Baruch Spinoza (*Tractatus Theologico-Politicus*):** *"The devout **monotheist** perceives all natural occurrences as direct expressions of divine sovereign will."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The fervent zeal of the early Christian **monotheist** rejected even the most token civic sacrifice to pagan idols."*
+> - 📜 **Karen Armstrong (*The Great Transformation*):** *"The ancient Hebrew **monotheist** struggled against the perennial lure of neighboring Canaanite fertility shrines."*

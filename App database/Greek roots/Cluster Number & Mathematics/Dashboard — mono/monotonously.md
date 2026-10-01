@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a monotonous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a monotonous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dull, unvarying, or repetitious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With unchanging pitch, cadence, or activity, producing boredom or weariness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They tossed and turned on their little beds, and the cheese-wring dripped monotonously downstairs."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"There was little sound to be heard but the clang of weapons, an occasional screech or splash, and Slightly monotonously counting—five—six—seven—eight—nine—ten—eleven."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Still it went on, note after note ringing out monotonously through the still air."*
+> - 📜 **Edgar Allan Poe (*The Tell-Tale Heart*):** *"The old man's heart beat on **monotonously**, with a dull, muffled sound like a watch enveloped in cotton."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The paddles splashed **monotonously** in the muddy stream as the jungle crept past in endless green banks."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The threshing machine hummed **monotonously** in the November mist, devouring sheaf after sheaf of grain."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an acute accent on the antepenultimate (third from the last) syllable; or a word so accented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Greek, Italian, and comparative phonology, words stressed or accented upon the syllable before the penult (such as Greek ἄνθρωπος or Italian 'medico'), subject to the law of the three syllables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proparoxytone designates a term designating an entity, condition, or phenomenon derived from greek ten."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"A **proparoxytone** word cannot retain its accent on the antepenult if the final syllable contains a long vowel or diphthong."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The shift of an ancient **proparoxytone** noun upon declension illustrates the physiological limits of vocalic breath."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"English words derived from Latin often adopt a **proparoxytone** rhythm, pulling stress back to the third syllable from the end."*

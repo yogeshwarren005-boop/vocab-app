@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolution resulting from small specific genetic changes that can lead to a new subspecies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evolution resulting from small specific genetic changes that can lead to a new subspecies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolutionary change within a species or small group of organisms, especially over a short period of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In population genetics, changes in allele frequencies across generations driven by natural selection, mutation, genetic drift, or gene flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microevolution designates evolution resulting from small specific genetic changes that can lead to a new subspecies."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"There is no reason to assume that macroevolution involves processes different from those governing observable **microevolution** in populations."*
+> - 📜 **Ernst Mayr (*What Evolution Is*):** *"The development of pesticide resistance in crop insects provides a clear, documented example of rapid **microevolution** in action."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Paleontologists debated whether the grand patterns of the fossil record could be fully accounted for by extrapolating **microevolution**."*

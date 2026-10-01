@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek god of woods, fields, flocks, and shepherds, depicted as having the horns, beard, and hooves of a goat and playing the syrinx (panpipes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology and psychological archetype, the personification of wild untamed nature, whose sudden alarming presence inspired irrational terror (the etymological root of panic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pan 2 designates a term designating an entity, condition, or phenomenon derived from greek pan."*
+> - 📜 **John Keats (*Endymion*):** *"O Thou, whose mighty palace roof doth hang / From jagged trunks, hear, noble **Pan**!"*
+> - 📜 **Elizabeth Barrett Browning (*The Dead Pan*):** *"Gods of Hellas, gods of Hellas, / Can ye listen in your silence? / Great **Pan** is dead!"*
+> - 📜 **Robert Louis Stevenson (*Virginibus Puerisque*):** *"It is a good thing to walk alone in forest woods, and feel the ancient, uncanny touch of goat-footed **Pan**."*

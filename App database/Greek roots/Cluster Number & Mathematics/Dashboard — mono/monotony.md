@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tedious sameness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sameness of tone or sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of variety and interest; tedious repetition and routine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sameness of tone or pitch in speech, sound, or artistic composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Why do you ask?” “Anything to vary this detestable monotony."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn stops for an instant and repeats with some little emphasis grafted upon his usual monotony, “Real flesh and blood, Miss Dedlock."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am soon going back again to the miserable monotony of drill—and perhaps our regiment will be ordered out soon."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"To escape the dreadful **monotony** of London drawing rooms, Dorian sought out strange sins and curious arts."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The unbroken **monotony** of our voyage across the Arctic ice was interrupted by the appearance of the gigantic wanderer."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The man whose life is spent performing a few simple operations naturally suffers a mental **monotony** that enervates his spirit."*

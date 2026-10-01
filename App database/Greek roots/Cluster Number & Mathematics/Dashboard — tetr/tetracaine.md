@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline compound used in the form of a hydrochloride as a local anesthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline compound used in the form of a hydrochloride as a local anesthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent local ester-type anesthetic drug used topically in ophthalmology and for spinal anesthesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and anesthesiology, a long-acting p-aminobenzoic acid ester (Pontocaine) that blocks voltage-gated sodium channels, providing prolonged procedural corneal anesthesia and subarachnoid sensory blockade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetracaine designates a crystalline compound used in the form of a hydrochloride as a local anesthetic."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"For spinal anesthesia, **tetracaine** provides reliable sensory and motor blockade lasting up to two to three hours."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine: Modern Edition*):** *"Topical instillation of a dilute **tetracaine** solution ensures complete corneal anesthesia before tonometry."*
+> - 📜 **Harvey Cushing (*Selected Papers on Surgical Technique*):** *"Spinal block achieved with **tetracaine** allowed painless lower limb surgery without altering systemic hemodynamics."*

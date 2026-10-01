@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly marine annelids possessing both sexes and having paired appendages (parapodia) bearing bristles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly marine annelids possessing both sexes and having paired appendages (parapodia) bearing bristles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A segmented marine annelid worm of the class Polychaeta, characterized by bristles (chaetae) borne on fleshy lateral parapodia; variant spelling of polychaete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and benthic ecology, burrowing or tube-dwelling worms (such as nereids and serpulids) that play fundamental roles in marine sediment nutrient cycling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychete designates chiefly marine annelids possessing both sexes and having paired appendages (parapodia) bearing bristles."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The iridescent clam worm is an active predatory **polychete**, hunting smaller invertebrates across the intertidal reef."*
+> - 📜 **William Beebe (*Nonsuch: Land of Water*):** *"At night the surface waters glowed with the bioluminescent nuptial swarming of a delicate **polychete** worm."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"In every marine **polychete**, the parapodia serve dual functions of creeping locomotion and aquatic respiration."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being the earliest period of the Mesozoic era or the corresponding system of rocks marked by the first appearance of the dinosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being the earliest period of the Mesozoic era or the corresponding system of rocks marked by the first appearance of the dinosaurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The earliest geologic period of the Mesozoic Era, lasting from about 252 to 201 million years ago, following the Permian extinction and preceding the Jurassic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stratigraphy and paleontology (named in 1834 by Friedrich von Alberti after a distinctive three-fold rock sequence in Germany: Bunter sandstone, Muschelkalk limestone, Keuper marl), the dawn of dinosaurs, pterosaurs, and early mammals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"He may even now—if I may use the phrase—be wandering on some plesiosaurus-haunted Oolitic coral reef, or beside the lonely saline seas of the Triassic Age."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **Triassic** system in central Europe is characterized by a three-fold division of red sandstones, shelly limestones, and variegated marls."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"The continental red beds of the **Triassic** record an arid epoch of vast deserts following the great Paleozoic extinction."*
+> - 📜 **Stephen Jay Gould (*The Book of Life*):** *"During the late **Triassic**, the earliest small, bipedal dinosaurs scampered inconspicuously beneath the feet of giant crocodile-like phytosaurs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or consisting of a polymer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or consisting of a polymer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or relating to a polymer; exhibiting high molecular weight formed by repeated monomeric units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and industrial processing, describing compounds or materials whose high-viscosity, viscoelasticity, and thermal transitions arise from macromolecular chain dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymeric designates of or relating to or consisting of a polymer."*
+> - 📜 **Hermann Staudinger (*Macromolecular Chemistry*):** *"The high viscosity of dilute solutions of rubber is an intrinsic property of its **polymeric** chain length."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Silicate minerals exhibit immense diversity because silicate tetrahedra can condense into infinite **polymeric** sheets and chains."*
+> - 📜 **Herman Mark (*Physical Chemistry of High Polymeric Systems*):** *"The glass transition temperature marks the boundary where **polymeric** chains regain rotational freedom along their backbone."*

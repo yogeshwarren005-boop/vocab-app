@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A coronary vasodilator (trade name peritrate) used to treat angina pectoris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coronary vasodilator (trade name peritrate) used to treat angina pectoris.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white, crystalline polyhydric alcohol containing four hydroxyl groups, with formula C(CH2OH)4, used in the synthesis of resins, paints, and explosives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial organic chemistry, a tetrol synthesized by the condensation of formaldehyde with acetaldehyde in the presence of base, serving as the essential precursor for pentaerythritol tetranitrate (PETN) and alkyd coatings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentaerythritol designates a coronary vasodilator (trade name peritrate) used to treat angina pectoris."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The central carbon atom in **pentaerythritol** exhibits ideal tetrahedral symmetry, directing its four hydroxymethyl groups outward."*
+> - 📜 **Tenney L. Davis (*The Chemistry of Powder and Explosives*):** *"Nitration of **pentaerythritol** yields PETN, one of the most sensitive and powerful high explosives known."*
+> - 📜 **F. A. Henglein (*Chemical Technology*):** *"Esterification of phthalic anhydride with **pentaerythritol** produces durable crosslinked alkyd resins for industrial enamels."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue consisting of glial cells with sheetlike processes that form the myelin sheath of nerve fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue consisting of glial cells with sheetlike processes that form the myelin sheath of nerve fibers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collective term for oligodendroglial cells (oligodendrocytes) in the central nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurohistology, the supportive neuroglial tissue that elaborates and maintains the myelin sheaths of white matter tracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligodendria designates tissue consisting of glial cells with sheetlike processes that form the myelin sheath of nerve fibers."*
+> - 📜 **Pío del Río-Hortega (*Oligodendroglia*):** *"Using specialized silver impregnation, I demonstrated that the cells of the **oligodendria** form continuous wraps around nerve fibers."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Unlike expansive astrocytic networks, the delicate **oligodendria** are closely apposed to myelinated axons in cerebral white matter."*
+> - 📜 **Wilder Penfield (*Cytology and Cellular Pathology of the Nervous System*):** *"The response of the **oligodendria** to demyelinating injury remains a crucial focus of neurological pathology."*

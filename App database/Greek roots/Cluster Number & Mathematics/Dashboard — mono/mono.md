@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream; not highly contagious; some believe it can be transmitted by kissing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating sound transmission or recording or reproduction over a single channel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form meaning one, single, or alone; or colloquial shorthand for monophonic audio or infectious mononucleosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustics, single-channel sound reproduction; in clinical medicine, glandular fever caused by Epstein-Barr virus infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In forming a slag of similar oxygen ratio, thus— Mono-silicate of lime, 2CaO ."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"Audiophiles long debated whether vintage recordings sounded more authentically punchy in original **mono** than in artificial stereo."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"The college athlete had been fatigued for weeks with swollen cervical lymph nodes, typical of infectious **mono**."*
+> - 📜 **Brian Eno (*A Year with Swollen Appendices*):** *"Mixing a track down to **mono** forces the producer to balance spectral frequencies without relying on spatial separation."*

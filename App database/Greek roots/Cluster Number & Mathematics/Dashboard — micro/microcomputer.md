@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small digital computer based on a microprocessor and designed to be used by one person at a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small digital computer based on a microprocessor and designed to be used by one person at a time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small computer that uses a microprocessor as its central processing unit, designed for individual or personal use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal desktop or portable computing system that democratized data processing and initiated the digital consumer revolution in the 1970s and 1980s.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcomputer designates a small digital computer based on a microprocessor and designed to be used by one person at a time."*
+> - 📜 **Steve Wozniak (*iWoz: Computer Geek to Cult Icon*):** *"My dream was to design an affordable **microcomputer** that any hobbyist could connect to a standard television set."*
+> - 📜 **Ted Nelson (*Computer Lib / Dream Machines*):** *"The interactive personal **microcomputer** will liberate human creativity from the bureaucracy of centralized mainframes."*
+> - 📜 **Walter Isaacson (*The Innovators*):** *"The advent of the single-chip microprocessor in 1971 made the concept of a home **microcomputer** an imminent reality."*

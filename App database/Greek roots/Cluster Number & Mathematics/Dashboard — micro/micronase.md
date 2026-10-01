@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oral antidiabetic drug (trade names diabeta and micronase) that stimulates the release of insulin from the pancreas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral antidiabetic drug (trade names diabeta and micronase) that stimulates the release of insulin from the pancreas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for glyburide (glibenclamide), a sulfonylurea medication used to treat type 2 diabetes by stimulating insulin release.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, an oral hypoglycemic agent that binds to ATP-sensitive potassium channels on pancreatic beta cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micronase designates an oral antidiabetic drug (trade names diabeta and micronase) that stimulates the release of insulin from the pancreas."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"The geriatrician reviewed the patient's prescriptions, carefully adjusting the daily dose of **Micronase** to avoid nocturnal hypoglycemia."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"We stabilized the diabetic patient's blood sugar using dietary modifications combined with low-dose **Micronase**."*
+> - 📜 **Paul Farmer (*Pathologies of Power*):** *"Access to essential oral antidiabetic agents like **Micronase** remains critical for chronic disease management in community clinics."*

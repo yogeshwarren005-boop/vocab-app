@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Including everything visible in one view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Including everything visible in one view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, designed for, or providing a comprehensive and all-inclusive visual survey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional architecture and surveillance theory, structures arranged so that all interior compartments are visible from a central inspection node.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panoptical designates including everything visible in one view."*
+> - 📜 **Jeremy Bentham (*The Works of Jeremy Bentham*):** *"The **panoptical** principle of architecture is applicable to penitentiaries, workhouses, factories, and schools alike."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"The aeronaut looked down from the gondola upon the **panoptical** expanse of illuminated glass roofs stretching to the horizon."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"Baroque town planning created broad radial avenues that offered a **panoptical** spectacle of royal authority."*

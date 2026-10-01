@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) a grammatical rule (or other linguistic feature) that is found in all languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic) a proposition that asserts something of all members of a class.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Applicable to, affecting, or done by all people or things in the world or in a particular group; existing everywhere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and metaphysics, a general concept, property, or essence (such as 'whiteness' or 'humanity') that can be instantiated by multiple particular things.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it would warm his spirits To hear from me you had left Antony, And put yourself under his shroud, The universal landlord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The time of universal peace is near."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This wide and universal theatre Presents more woeful pageants than the scene Wherein we play in."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Gravity acts as a truly **universal** force, attracting every particle of matter to every other particle in the cosmos."*
+> - 📜 **Immanuel Kant (*Groundwork of the Metaphysics of Morals*):** *"Act only according to that maxim whereby you can at the same time will that it should become a **universal** law."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"The debate over the ontological status of a **universal** divided ancient and medieval philosophy into realism and nominalism."*

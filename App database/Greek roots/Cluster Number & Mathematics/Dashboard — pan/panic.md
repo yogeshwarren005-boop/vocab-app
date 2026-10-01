@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or arising from a panic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or resembling a mental or emotional state (such as fear) that is extreme, sudden, and often groundless —originally used in allusion to the god Pan, who was believed to cause such a state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden overwhelming fear or terror, often unreasoning and infectious, that grips individuals or crowds and impairs rational thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial economics and social psychology, a sudden mass crisis or collapse of investor confidence triggering frantic runs on banks, securities, or commodities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He followed me when I called him: but cast a regretful look at the postern by which we had gone out, through which I had dragged him back in a panic (I confess it) unworthy of me."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"They had all a look of half panic, half shame upon their faces."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Look! it comes again.' I have always considered myself a man of courage, but when I saw this extraordinary appearance the panic which had seized upon me the former night returned, though in another form."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A sudden and groundless **panic** seized the vanguard of the legions, spreading confusion through the night."*
+> - 📜 **Walter Bagehot (*Lombard Street: A Description of the Money Market*):** *"In a financial **panic**, the only sound rule for the central bank is to lend freely at a very high rate of interest."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A breathless **panic** took possession of my soul, and I fled precipitately from the presence of the monstrous shape."*

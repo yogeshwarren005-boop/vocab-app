@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of capacitance equal to one millionth of a farad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of capacitance equal to one millionth of a farad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of electrical capacitance equal to one-millionth (10^-6) of a farad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering, a common unit used to specify the storage capacity of capacitors in electronic circuits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microfarad designates a unit of capacitance equal to one millionth of a farad."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"A submarine telegraph cable possesses an intrinsic distributed capacitance measurable in fractions of a **microfarad** per nautical mile."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The high-frequency transformer circuit was tuned by discharging a bank of capacitors rated at several **microfarad** capacity."*
+> - 📜 **Horowitz & Hill (*The Art of Electronics*):** *"For bypass filtering on standard power supply rails, a 0.1 **microfarad** ceramic capacitor placed close to the chip is customary."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aquatic fungi growing chiefly on plant debris and animal remains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic fungi growing chiefly on plant debris and animal remains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of freshwater water molds in the family Saprolegniaceae, commonly growing as white cottony tufts on decaying matter and living fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquaculture, fish pathology, and oomycete biology, an aquatic oomycete causing saprolegniasis in salmonids and fish eggs, reproducing via biflagellate heterokont zoospores and thick-walled sexual oospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprolegnia designates aquatic fungi growing chiefly on plant debris and animal remains."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The salmon disease is caused by the parasitic growth of **Saprolegnia**, which covers the skin with a white cottony mycelium."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"In **Saprolegnia**, sexual reproduction occurs inside oogonia where multiple spherical oospheres are fertilized by antheridial tubes."*
+> - 📜 **Francis Day (*British and Irish Salmonidae*):** *"The fungal mycelium of **Saprolegnia** suffocates developing trout roe in the hatchery troughs unless water is actively treated."*

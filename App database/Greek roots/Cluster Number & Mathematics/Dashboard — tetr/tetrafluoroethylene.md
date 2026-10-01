@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flammable gaseous fluorocarbon used in making plastics (polytetrafluoroethylene resins).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flammable gaseous fluorocarbon used in making plastics (polytetrafluoroethylene resins).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic fluorocarbon gas (F2C=CF2) used almost exclusively as the monomer in the production of polytetrafluoroethylene (PTFE/Teflon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial organic chemistry, an odorless, highly reactive halogenated alkene manufactured by the pyrolysis of chlorodifluoromethane (HCFC-22), which undergoes exothermic polymerization to yield PTFE.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrafluoroethylene designates a flammable gaseous fluorocarbon used in making plastics (polytetrafluoroethylene resins)."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Free-radical polymerization of gaseous **tetrafluoroethylene** converts double bonds into high-molecular-weight crystalline Teflon chains."*
+> - 📜 **Herman Mark (*Giant Molecules*):** *"The chemical discovery of **tetrafluoroethylene** polymerization was accidental, noticed when a gas cylinder appeared empty yet remained heavy."*
+> - 📜 **F. A. Henglein (*Chemical Technology*):** *"Handling gaseous **tetrafluoroethylene** requires meticulous temperature control, as the monomer can polymerize explosively without oxygen."*

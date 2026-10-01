@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound that can undergo polymerization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical compound that can undergo polymerization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A molecule that can react together with other monomer molecules to form a larger polymer chain or three-dimensional network.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macromolecular chemistry and biochemistry, the repeating chemical subunit (such as a nucleotide, amino acid, or styrene) of synthetic or biological polymers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monomer designates a chemical compound that can undergo polymerization."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The addition of an initiator causes each ethylene **monomer** to link sequentially into a high-molecular-weight polymer."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Actin filaments are dynamic polar polymers assembled from globular actin **monomer** subunits."*
+> - 📜 **James Watson (*Molecular Biology of the Gene*):** *"DNA polymerase catalyzes the covalent addition of each nucleotide **monomer** to the growing daughter strand."*

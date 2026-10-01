@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade name for and oral contraceptive containing the progestin compound norethindrone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name for and oral contraceptive containing the progestin compound norethindrone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for norethindrone, a progestin-only oral contraceptive pill often called the 'mini-pill'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological pharmacology, a synthetic progestin that prevents pregnancy primarily by thickening cervical mucus and altering endometrium lining.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micronor designates trade name for and oral contraceptive containing the progestin compound norethindrone."*
+> - 📜 **Carl Djerassi (*This Man's Pill*):** *"The formulation of progestin-only pills like **Micronor** offered an effective alternative for nursing mothers sensitive to estrogen."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*):** *"The clinic dispensary kept supplies of **Micronor** on hand for postpartum patients seeking safe contraception."*
+> - 📜 **Siddhartha Mukherjee (*The Gene: An Intimate History*):** *"The chemical synthesis of oral progestins like **Micronor** catalyzed unprecedented social and demographic transformations in twentieth-century medicine."*

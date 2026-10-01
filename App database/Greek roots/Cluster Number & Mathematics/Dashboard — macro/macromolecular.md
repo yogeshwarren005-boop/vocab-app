@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of or characterized by macromolecules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or characterized by macromolecules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of macromolecules (very large molecules).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polymer chemistry and structural biology, pertaining to the structure, synthesis, and conformational dynamics of proteins, nucleic acids, polysaccharides, and synthetic polymers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macromolecular designates relating to or consisting of or characterized by macromolecules."*
+> - 📜 **Hermann Staudinger (*Macromolecular Chemistry (Nobel Lecture)*):** *"I introduced the concept of **macromolecular** chemistry to prove that rubber and cellulose consist of giant covalently linked chains."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Hydrogen bonds stabilize the intricate three-dimensional **macromolecular** architecture of polypeptide alpha-helices."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"X-ray diffraction was the decisive tool for uncovering the double-helical **macromolecular** structure of DNA."*

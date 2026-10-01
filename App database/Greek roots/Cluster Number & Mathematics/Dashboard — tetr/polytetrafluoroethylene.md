@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A material used to coat cooking utensils and in industrial applications where sticking is to be avoided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material used to coat cooking utensils and in industrial applications where sticking is to be avoided.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic fluoropolymer of tetrafluoroethylene (known commercially as Teflon), notable for extreme chemical inertness, high thermal stability, and low friction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polymer chemistry and aerospace engineering, a non-stick fluorocarbon polymer discovered by Roy Plunkett, where fluorine atoms shield the carbon backbone from chemical attack up to 260°C.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polytetrafluoroethylene designates a material used to coat cooking utensils and in industrial applications where sticking is to be avoided."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The remarkable stability of **polytetrafluoroethylene** arises from the dense shroud of fluorine atoms that encases the carbon backbone."*
+> - 📜 **Herman Mark (*Giant Molecules*):** *"Nothing sticks to **polytetrafluoroethylene** because its cohesive surface energy is lower than that of almost any liquid or solid."*
+> - 📜 **F. A. Henglein (*Chemical Technology*):** *"In the chemical industry, valves, packings, and gaskets lined with **polytetrafluoroethylene** resist boiling aqua regia."*

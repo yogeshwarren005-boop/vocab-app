@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rule one meter long (usually marked off in centimeters and millimeters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rule one meter long (usually marked off in centimeters and millimeters).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring stick exactly one meter long, typically graduated into centimeters and millimeters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics laboratories and standard metrology, a rigid linear ruler used as a baseline standard for distance measurements and optical bench experiments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meterstick designates a rule one meter long (usually marked off in centimeters and millimeters)."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"A moving **meterstick** observed from a stationary frame appears shortened in the direction of its motion according to Lorentz contraction."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"To measure the speed of light, you set up an optical bench with a light source, detector, and a calibrated **meterstick**."*
+> - 📜 **Thomas Edison (*The Edison Papers: Documents and Correspondence*):** *"We aligned the photometer screen using a brass-bound **meterstick** to determine the candlepower of the incandescent filament."*

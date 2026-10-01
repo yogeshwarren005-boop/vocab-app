@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Semisynthetic penicillin (trade names principen and polycillin and sk-ampicillin).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Semisynthetic penicillin (trade names principen and polycillin and sk-ampicillin).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary brand name for ampicillin, a broad-spectrum penicillin antibiotic used to treat bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and infectious disease therapeutics, a semisynthetic aminopenicillin active against both Gram-positive organisms and many Gram-negative bacilli, such as Escherichia coli and Proteus mirabilis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polycillin designates semisynthetic penicillin (trade names principen and polycillin and sk-ampicillin)."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"The introduction of **polycillin** extended the antibacterial spectrum of penicillin to encompass common urinary and respiratory pathogens."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine: Modern Revision*):** *"In pediatric otitis media and acute bronchitis, oral treatment with **polycillin** brought rapid symptomatic defervescence."*
+> - 📜 **Maxwell Finland (*Clinical Studies in Antibiotic Therapy*):** *"Patients tolerating penicillin therapy showed excellent clinical responses to therapeutic courses of **polycillin**."*

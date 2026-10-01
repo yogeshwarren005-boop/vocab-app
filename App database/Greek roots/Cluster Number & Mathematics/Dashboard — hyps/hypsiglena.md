@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Night snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Night snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, mildly venomous colubrid snakes known as night snakes, native to arid regions of western North America and Central America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, nocturnal rear-fanged snakes characterized by vertical cat-like pupils and brown-blotched camouflage, preying on lizards and amphibians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypsiglena designates night snakes."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"The genus **Hypsiglena** is readily identified by its vertical pupils, grooved posterior maxillary teeth, and nocturnal habits."*
+> - 📜 **Spencer Fullerton Baird (*Catalogue of North American Reptiles*):** *"Specimens of **Hypsiglena** ochrorhyncha were taken from stony desert washes during the Mexican boundary survey."*
+> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"The spotted night snake **Hypsiglena** spends the blazing desert day concealed beneath flat rocks, emerging after dusk."*

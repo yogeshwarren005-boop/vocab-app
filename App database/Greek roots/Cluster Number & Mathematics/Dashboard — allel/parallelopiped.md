@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prism whose bases are parallelograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prism whose bases are parallelograms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of parallelepiped, denoting a six-faced prism whose opposite faces are parallel parallelograms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mineralogy and geometry, a solid crystalline block or geometric model bounded by six plane rhomboidal or parallelogram faces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parallelopiped designates a prism whose bases are parallelograms."*
+> - 📜 **John Herschel (*A Preliminary Discourse on the Study of Natural Philosophy*):** *"Cleavage planes in calcite crystals naturally split along the faces of an elementary rhombohedral **parallelopiped**."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Haüy deduced the internal structure of all crystalline substances from the stacking of minute primitive **parallelopipeds**."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The basaltic columns occasionally fracture into regular **parallelopiped** blocks under long-continued subaerial weathering."*

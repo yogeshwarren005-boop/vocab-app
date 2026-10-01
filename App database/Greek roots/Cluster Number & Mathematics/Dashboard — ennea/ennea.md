@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ennea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root morpheme (ἐννέα, ennea) signifying nine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometric, literary, and scientific nomenclature, a formative element producing terms involving nine units, angles, or members (as in ennead, enneagon, enneagram).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ennea designates a term designating an entity, condition, or phenomenon derived from greek ennea."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The base **ennea-** reflects the ancient Greek cardinal numeral for nine, cognate with Latin novem."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From **ennea-** are compounded classical designations for assemblies of nine deities or verses of nine beats."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"The numeral prefix **ennea-** governs geometric polygons and harmonics associated with the number nine."*

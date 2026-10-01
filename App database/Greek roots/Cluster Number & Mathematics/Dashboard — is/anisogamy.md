@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by fusion of heterogamous gametes or of individuals that usually differ chiefly in size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by fusion of heterogamous gametes or of individuals that usually differ chiefly in size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of sexual reproduction involving the fusion of two gametes that differ in size, structure, or motility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, the condition (heterogamy) transitional between isogamy and oogamy, giving rise to male (sperm) and female (egg) evolutionary divergence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisogamy designates characterized by fusion of heterogamous gametes or of individuals that usually differ chiefly in size."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"The fundamental biological distinction between male and female traces back to the evolutionary emergence of **anisogamy**."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"From ancestral isogamous algae arose lines displaying marked **anisogamy**, with small motile microgametes seeking large nutrient-rich macrogametes."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Disruptive selection on gamete size in primitive marine organisms promoted the evolutionary stability of **anisogamy**."*

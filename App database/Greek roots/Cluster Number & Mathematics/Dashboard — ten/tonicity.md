@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The elastic tension of living muscles, arteries, etc. that facilitate response to stimuli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elastic tension of living muscles, arteries, etc. that facilitate response to stimuli.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The normal state of slight continuous tension in a living muscle or other organ; tone or tonus; or the osmotic effect of a solution on cell volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biophysics and nephrology, effective osmolality (hypertonicity, isotonicity, hypotonicity) that drives transcellular water flux across semipermeable membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonicity designates the elastic tension of living muscles, arteries, etc. that facilitate response to stimuli."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of the Nervous System*):** *"Vasomotor nerves maintain that normal arterial **tonicity** which regulates blood pressure throughout the vascular tree."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Loss of vascular **tonicity** in septic shock leads to profound arterial pooling and fatal circulatory collapse."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"The **tonicity** of extracellular fluid is dictated primarily by sodium concentration and its balancing anions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to telemetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to telemetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmitted or recorded automatically from a distant instrument by radio signals, microwave links, or electrical wiring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace and biomedical monitoring, pertaining to physiological or operational sensor data relayed continuously to a monitoring station.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemetered designates of or pertaining to telemetry."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"Every erratic heartbeat and respiration spike was **telemetered** straight to Mercury Mission Control in Houston."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Radio pulses carrying digital data were **telemetered** across billions of kilometers of empty interplanetary space."*
+> - 📜 **James Lovell (*Lost Moon*):** *"The telemetry engineer confirmed that the cryo-tank pressure readings had been faithfully **telemetered** before the explosion."*

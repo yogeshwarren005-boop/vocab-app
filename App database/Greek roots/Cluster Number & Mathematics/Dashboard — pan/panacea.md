@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A remedy for all ills or difficulties : cure-all.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A remedy for all ills or difficulties : cure-all.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A remedy for all disease or evil; a universal cure or cure-all.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and medical history, an elusive universal medicine sought by ancient alchemists (named after Panakeia, Greek goddess of healing).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby has to lay upon the table half a crown, his usual panacea for an immense variety of afflictions."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He knew his wife's particular ideas were good, however, her general political panacea was rather doubtful."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ignorance, pride, or prejudice closes the door to whatever is not stereotyped. 144:27 When the Science of being is universally understood, every man will be his own physician, and Truth will be the universal panacea."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The credulous public perennially demands some sovereign **panacea** that will cure all human ailments without effort."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The ancient alchemists promised the philosopher's stone and an elixir that would serve as a universal **panacea** against death."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Constitutional reform is no magical **panacea** for human vice; it requires virtuous and intelligent civic participation."*

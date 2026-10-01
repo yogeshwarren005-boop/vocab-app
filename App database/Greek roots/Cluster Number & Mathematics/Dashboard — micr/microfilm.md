@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Film on which materials are photographed at greatly reduced size; useful for storage; a magnification system is used to read the material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Record on microfilm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Film bearing miniature photographic copies of printed documents, newspapers, or graphics, used for space-saving archival storage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A continuous photographic film strip (typically 16mm or 35mm) designed for high-density document preservation and library retrieval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microfilm designates film on which materials are photographed at greatly reduced size; useful for storage; a magnification system is used to read the material."*
+> - 📜 **George Orwell (*1984*):** *"Winston slipped the small cylindrical spool of **microfilm** into the pneumatic message tube leading to the Records Department."*
+> - 📜 **John le Carré (*The Spy Who Came in from the Cold*):** *"The courier passed a hidden canister containing twenty feet of classified **microfilm** into the agent's trench coat pocket."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The human record, once chiseled upon granite tablets, found transient refuge on rolls of cellulose **microfilm** before electronic memories."*

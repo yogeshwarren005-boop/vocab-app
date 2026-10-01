@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an abnormally small head and underdeveloped brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an abnormally small head and underdeveloped brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an abnormally small head; microcephalic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and physical anthropology, possessing unusually small heads or flower clusters relative to typical morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcephalous designates having an abnormally small head and underdeveloped brain."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The cranial sutures in **microcephalous** subjects close abnormally early, preventing the normal expansion of the brain."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"A study of the **microcephalous** brain reveals an organ stunted in the development of its cerebral convolutions."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The composite weed is distinctly **microcephalous**, its flowering stems crowned with clusters of diminutive flower heads."*

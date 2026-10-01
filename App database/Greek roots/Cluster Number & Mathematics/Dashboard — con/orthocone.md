@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek con.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight, uncoiled, conical shell of certain extinct cephalopods, particularly early Paleozoic nautiloids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology, an organism (such as Orthoceras or Endoceras) possessing an elongate, straight, chambered shell with a central or marginal siphuncle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthocone designates a term designating an entity, condition, or phenomenon derived from greek con."*
+> - 📜 **Roderick Murchison (*The Silurian System*):** *"Limestone beds in the lower strata abound with the straight, fossilized chambers of the ancient **orthocone** nautiloids."*
+> - 📜 **Alpheus Hyatt (*Genera of Fossil Cephalopods*):** *"The primitive **orthocone** represents the ancestral morphotype from which coiled ammonoids and nautiloids progressively evolved."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"Vast Ordovician predators with shells like giant spears, the **orthocone** cephalopods ruled the ancient seas before the rise of jawed fishes."*

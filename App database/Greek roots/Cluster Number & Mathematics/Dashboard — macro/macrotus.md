@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large-eared greyish bat of southern california and northwestern mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large-eared greyish bat of southern california and northwestern mexico.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of New World leaf-nosed bats (family Phyllostomidae) known as big-eared bats, found in warm arid regions of North and Central America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chiropterology, insectivorous bats (notably Macrotus californicus) possessing enormous ears joined across the forehead and an erect triangular noseleaf, capable of hovering and gleaning prey from vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrotus designates large-eared greyish bat of southern california and northwestern mexico."*
+> - 📜 **Spencer Fullerton Baird (*Mammals of North America*):** *"Specimens of the desert leaf-nosed bat **Macrotus** were captured in abandoned mine tunnels along the Colorado River."*
+> - 📜 **Edward Drinker Cope (*On the Batrachia and Reptilia of Costa Rica*):** *"The enormous auditory pinnae of **Macrotus** enable it to detect the faint rustling of crickets in total darkness."*
+> - 📜 **C. Hart Merriam (*Results of a Biological Survey of the San Francisco Mountain Region*):** *"The desert leaf-nosed bat **Macrotus** remains active throughout the mild winter nights in the lower Sonoran life zone."*

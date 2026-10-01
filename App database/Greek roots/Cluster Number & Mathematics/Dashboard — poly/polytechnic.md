@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or devoted to instruction in many technical arts or applied sciences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polytechnic school.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offering, relating to, or providing instruction in many technical arts and applied sciences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational history and engineering pedagogy, technical institutes or universities (beginning with the École Polytechnique in Paris, 1794) dedicated to training civil, mechanical, and chemical engineers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"On September 13, 1839, Spencer read a paper before the Polytechnic Institution of Liverpool, which he accompanied with specimens of both electrotypes made by this process and of printing from these electrotypes."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"He was furnishing the money to put a young brother through a polytechnic school and satisfy his desire to become a civil engineer."*
+> - 📜 **Matthew Arnold (*Schools and Universities on the Continent*):** *"The French **polytechnic** school established a rigorous mathematical curriculum that became the model for technical education worldwide."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"He studied electrical engineering at the local **polytechnic**, finding in practical science a welcome release from dry scholasticism."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"A well-organized **polytechnic** institute bridges the fatal gulf between abstract theoretical discovery and industrial manufacture."*

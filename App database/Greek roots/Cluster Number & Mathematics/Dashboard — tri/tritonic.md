@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of three.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of three.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or based on three musical tones or pitches per octave; or relating to the musical interval of a tritone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnomusicology and primitive acoustic analysis, ancient chants or folk calls based upon only three distinct musical pitches (tritonic scales), representing one of the earliest stages of human melodic organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritonic designates adjective*) pertaining to, derived from, or characteristic of three."*
+> - 📜 **Alexander John Ellis (*On the Musical Scales of Various Nations*):** *"The simplest Polynesian work songs employ a **tritonic** scale restricted to three neighboring pitches."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"The children's playground chant universally adopts a natural **tritonic** motif built of three simple notes."*
+> - 📜 **Béla Bartók (*Hungarian Folk Music*):** *"In the most archaic ritual songs, the singer remains within a primitive **tritonic** ambitus of three pitches."*

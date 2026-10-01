@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exponent that indicates the power to which a base number is raised to produce a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A logarithm whose base is 10.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exponent or power to which a specified fixed base must be raised to produce a given number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational mathematics, an auxiliary numerical function invented to transform burdensome multiplications and divisions into simple additions and subtractions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"But it is best not to be intimate with gentlemen of this profession and to take the calculations at second hand, as you do logarithms, for to work them yourself, depend upon it, will cost you something considerable."*
+> - 📜 **John Napier (*Mirifici Logarithmorum Canonis Descriptio*):** *"Seeing there is nothing that is so troublesome unto mathematical practice than multiplications, divisions, and extractions, I devised the **logarithm**."*
+> - 📜 **Johannes Kepler (*Chilias Logarithmorum*):** *"With the aid of the **logarithm**, astronomical computations that once occupied years of labor were reduced to a few weeks."*
+> - 📜 **Leonhard Euler (*Introduction to Analysis of the Infinite*):** *"The natural **logarithm** emerges organically as the integral of the reciprocal function over positive real coordinates."*

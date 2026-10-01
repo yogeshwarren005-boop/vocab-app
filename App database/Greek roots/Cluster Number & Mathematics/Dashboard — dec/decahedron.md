@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron of 10 faces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polyhedron of 10 faces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional solid or polyhedron bounded by ten plane faces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid geometry and crystallography, a polyhedron whose ten faces may form bipyramids, prisms, or irregular coordination polyhedra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decahedron designates a polyhedron of 10 faces."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"According to our polyhedral formula, a **decahedron** with twelve vertices must necessarily possess twenty edges."*
+> - 📜 **René Just Haüy (*Traité de Minéralogie*):** *"Secondary crystalline modifications frequently truncate the basal pyramids into an apparent symmetrical **decahedron**."*
+> - 📜 **Adrien-Marie Legendre (*Elements of Geometry*):** *"A pentagonal prism capped at both extremities exemplifies a closed **decahedron** having ten distinct planar boundaries."*

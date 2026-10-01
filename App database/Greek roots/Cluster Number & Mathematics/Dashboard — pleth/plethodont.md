@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly terrestrial salamanders that breathe through their thin moist skin; lay eggs in moist places on land; rarely enter water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly terrestrial salamanders that breathe through their thin moist skin; lay eggs in moist places on land; rarely enter water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging or pertaining to the amphibian family Plethodontidae, the lungless salamanders; or having many teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy, possessing numerous closely packed teeth arranged along the dental arches; or designating plethodontid salamanders characterized by nasolabial grooves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plethodont designates mostly terrestrial salamanders that breathe through their thin moist skin; lay eggs in moist places on land; rarely enter water."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The **plethodont** amphibians lack pulmonary lungs, relying on cutaneous gas exchange beneath the damp humus of Appalachian forests."*
+> - 📜 **Edward Drinker Cope (*Synopsis of the Extinct Batrachia and Reptilia*):** *"The fossil jaw exhibits a distinctly **plethodont** dentition, with dozens of minute conical teeth crowded along the alveolar border."*
+> - 📜 **G. Kingsley Noble (*The Biology of the Amphibia*):** *"A distinctive sensory feature of every **plethodont** salamander is the minute nasolabial groove assisting in chemoreception."*

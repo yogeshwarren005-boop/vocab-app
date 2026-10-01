@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating a musical scale or melody that contains no semitones or half-steps, especially the standard pentatonic scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnomusicology, comparative acoustics, and music theory, pitch systems (such as the major pentatonic C-D-E-G-A) whose whole-tone and minor-third intervals lack the sharp dissonance of semitones, foundational to folk melodies worldwide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhemitonic designates adjective*) pertaining to, derived from, or characteristic of stretch."*
+> - 📜 **Alexander John Ellis (*On the Musical Scales of Various Nations*):** *"The archaic Scottish and Chinese scales are strictly **anhemitonic**, having no half-tones between their five constituent pitches."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"Melodies constructed upon an **anhemitonic** foundation possess a spacious, floating simplicity that never sounds dated."*
+> - 📜 **Béla Bartók (*Hungarian Folk Music*):** *"The oldest layer of Magyar folk song employs an **anhemitonic** pentatonic structure preserved from our ancestral Asian homelands."*

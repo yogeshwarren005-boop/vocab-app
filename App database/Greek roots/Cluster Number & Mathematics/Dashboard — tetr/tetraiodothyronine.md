@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone produced by the thyroid glands to regulate metabolism by controlling the rate of oxidation in cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone produced by the thyroid glands to regulate metabolism by controlling the rate of oxidation in cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primary iodine-containing hormone secreted by the thyroid gland, commonly known as thyroxine or T4.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology and molecular physiology, a prohormone synthesized in thyroid follicles and converted peripherally by deiodinases into active triiodothyronine (T3), regulating metabolic rate, protein synthesis, and growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetraiodothyronine designates hormone produced by the thyroid glands to regulate metabolism by controlling the rate of oxidation in cells."*
+> - 📜 **Edward Calvin Kendall (*The Isolation in Crystalline Form of the Compound Containing Iodine Which Occurs in the Thyroid*):** *"Isolation of pure **tetraiodothyronine** unlocked the hormonal control of basal oxidative metabolism in animal tissues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Administration of exogenous **tetraiodothyronine** restores physical energy and mental clarity in myxedematous cretinism."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Circulating **tetraiodothyronine** is avidly bound to thyroxine-binding globulin, leaving only a minute unbound fraction biologically active."*

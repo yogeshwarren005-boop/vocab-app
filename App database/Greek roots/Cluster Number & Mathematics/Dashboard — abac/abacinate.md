@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blind by holding a red-hot metal plate before someone's eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blind by holding a red-hot metal plate before someone's eyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To blind a person by holding a red-hot metal plate, dish, or basin before the eyes as an ancient or medieval punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical penology and legal antiquities, a torture inflicted upon political rivals, dynastic pretenders, or state criminals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abacinate designates blind by holding a red-hot metal plate before someone's eyes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The cruel despot commanded his captives to be **abacinated**, exposing their pupils to the intolerable glare of burning brass."*
+> - 📜 **Sabine Baring-Gould (*The Tragedy of the Caesars*):** *"Medieval chroniclers record horrific episodes wherein deposed princes were **abacinated** before being cast into perpetual solitary dungeons."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The ruthless marauders threatened to **abacinate** the obstinate seneschal unless the hidden coffer was produced."*

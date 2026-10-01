@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one nucleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having only one nucleus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a single nucleus; uninucleate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology, describing typical somatic eukaryotic cells that contain exactly one nucleus, contrasting with binucleate or multinucleate syncytia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mononucleate designates having only one nucleus."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"A typical blastomere remains **mononucleate** throughout interphase until karyokinesis initiates."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Unlike multinucleate coenocytic algae, higher plant parenchyma is composed of orderly **mononucleate** cells."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Skeletal muscle fibers fuse during development into giant syncytia, whereas smooth muscle cells remain strictly **mononucleate**."*

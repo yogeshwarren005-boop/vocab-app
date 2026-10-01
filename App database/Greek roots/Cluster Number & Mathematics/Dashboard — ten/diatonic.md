@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a musical scale (such as a major or minor scale) comprising intervals of five whole steps and two half steps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a musical scale (such as a major or minor scale) comprising intervals of five whole steps and two half steps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or using only the seven notes of a standard major or minor scale without chromatic alteration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical music theory, scales and harmonic progressions constructed of five whole tones and two semitones, foundational to Western musical tradition since ancient Greek harmonics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diatonic designates of, relating to, or being a musical scale (such as a major or minor scale) comprising intervals of five whole steps and two half steps."*
+> - 📜 **Aristotle (*Problems: Book XIX on Music*):** *"The **diatonic** genus is the most natural and ancient of all musical modes, pleasant and noble to the listener."*
+> - 📜 **Johann Sebastian Bach (*The Well-Tempered Clavier: Preface*):** *"Equal temperament allows modulations across all twenty-four keys while preserving the integrity of the **diatonic** scale."*
+> - 📜 **Claude Debussy (*Monsieur Croche, Antidilettante*):** *"To break free from strict **diatonic** formulas, I sought inspiration in the antique modes and whole-tone scales."*

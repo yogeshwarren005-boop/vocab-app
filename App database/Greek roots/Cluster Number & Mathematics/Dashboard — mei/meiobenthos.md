@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small benthic invertebrates that inhabit aquatic sediments, intermediate in size between microscopic microbenthos and larger macrobenthos (typically retained on a 45 µm to 500 µm sieve).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine and freshwater ecology, interstitial organisms (such as nematodes, harpacticoid copepods, and gastrotrichs) living between sand grains in benthic substrate ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meiobenthos designates a term designating an entity, condition, or phenomenon derived from greek mei."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Between the coarse sand grains of the tidal flat swarms an unseen world of miniature creatures termed the **meiobenthos**."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"Deep-sea core samples revealed extraordinary taxonomic richness within the abyssal **meiobenthos**."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Interstitial nematodes and rotifers constitute the dominant biomass of freshwater **meiobenthos** in lake sediments."*

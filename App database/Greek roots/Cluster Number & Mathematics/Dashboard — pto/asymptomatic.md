@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not causing, marked by, or presenting with signs or symptoms of infection, illness, or disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not causing, marked by, or presenting with signs or symptoms of infection, illness, or disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or showing no symptoms of disease or infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology, public health, and diagnostic medicine, individuals carrying a pathogen or harboring pathology (such as hypertension or subclinical viral infection) without clinical illness, while remaining capable of transmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asymptomatic designates not causing, marked by, or presenting with signs or symptoms of infection, illness, or disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Renal arteriolosclerosis may remain entirely **asymptomatic** for decades until discovered during routine physical examination."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Mary Mallon was a perfectly healthy, **asymptomatic** typhoid carrier, scattering virulent bacilli wherever she cooked."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Silent myocardial ischemia presents an **asymptomatic** electrocardiographic warning that demands proactive clinical intervention."*

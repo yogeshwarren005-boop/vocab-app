@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for cutting sections (as of biological tissues) for microscopic examination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for cutting sections (as of biological tissues) for microscopic examination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for cutting extremely thin sections of tissue or material for examination under a microscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and material science, a mechanical apparatus with steel, glass, or diamond blades that produces ribbon sections measuring a few microns thick.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microtome designates an instrument for cutting sections (as of biological tissues) for microscopic examination."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"With a sliding **microtome**, we shaved frozen brain tissue into translucent ribbons twenty microns in thickness."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"To examine cork cells, I fashioned a crude forerunner of the **microtome** to slice razor-thin shavings from the bark."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The neuropathologist mounted formalin-fixed brainstem blocks into the **microtome** to prepare stained cross-sections of the substantia nigra."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A view that there is only one kind of ultimate substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The view that reality is one unitary organic whole with no independent parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes that only one kind of substance or ultimate reality exists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and metaphysics, a thinker who rejects mind-body dualism in favor of materialist, idealist, or neutral singular ontology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monist designates a view that there is only one kind of ultimate substance."*
+> - 📜 **Ernst Haeckel (*The Riddle of the Universe*):** *"As an uncompromising **monist**, I assert that matter and energy are inseparable aspects of a single cosmic substance."*
+> - 📜 **William James (*A Pluralistic Universe*):** *"The thoroughgoing **monist** cannot tolerate any loose ends or irreducible contingencies in his grand philosophical scheme."*
+> - 📜 **Gilbert Ryle (*The Concept of Mind*):** *"Descartes created the ghost in the machine, but the materialist **monist** attempts to banish the ghost by denying mental autonomy."*

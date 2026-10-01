@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic (trade name achromycin) derived from microorganisms of the genus streptomyces and used broadly to treat infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic (trade name achromycin) derived from microorganisms of the genus streptomyces and used broadly to treat infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad-spectrum antibiotic (C22H24N2O8) produced by streptomyces bacteria, or any of a class of related antibiotics used to treat bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, antimicrobial agents that inhibit protein synthesis by binding to the bacterial 30S ribosomal subunit, active against chlamydia, rickettsia, Lyme disease, and acne, known for causing tooth discoloration in young children.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetracycline designates an antibiotic (trade name achromycin) derived from microorganisms of the genus streptomyces and used broadly to treat infections."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"The naphthacene carboxamide nucleus of **tetracycline** inhibits protein synthesis by preventing aminoacyl-tRNA attachment to ribosomes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine: Modern Edition*):** *"Because of permanent chelation into calcifying dental enamel, **tetracycline** should be avoided in children under eight years of age."*
+> - 📜 **Selman Waksman (*My Life with the Microbes*):** *"The discovery of chlortetracycline and oxytetracycline opened the golden era of broad-spectrum **tetracycline** therapy."*

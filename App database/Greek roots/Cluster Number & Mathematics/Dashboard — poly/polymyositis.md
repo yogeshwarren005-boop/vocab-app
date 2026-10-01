@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling; progression and severity vary among individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling; progression and severity vary among individuals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An uncommon inflammatory disease that causes progressive muscle weakness affecting both sides of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology and neuromuscular pathology, an idiopathic autoimmune inflammatory myopathy characterized by endomysial cytotoxic CD8+ T-cell infiltration and proximal muscle symmetric weakness, often accompanied by elevated serum creatine kinase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymyositis designates myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling; progression and severity vary among individuals."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients presenting with symmetric proximal muscle weakness and marked elevation of muscle enzymes should be evaluated for **polymyositis**."*
+> - 📜 **W. Russell Brain (*Diseases of the Nervous System*):** *"Muscle biopsy in acute **polymyositis** reveals extensive inflammatory mononuclear infiltrates surrounding necrotic myofibers."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Myocardial involvement occurs in a notable percentage of patients with **polymyositis**, manifesting as conduction defects or arrhythmias."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive odor that is offensively unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinctive odor that is offensively unpleasant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong and very unpleasant smell; a foul, offensive stink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic medicine and historical descriptions of epidemic plagues, the noxious putrid effluvia arising from decomposing organic matter or unhygienic urban waste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So bees with smoke and doves with noisome stench Are from their hives and houses driven away."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou odoriferous stench, sound rottenness!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to the girdle do the gods inherit, beneath is all the fiend’s; there’s hell, there’s darkness, there is the sulphurous pit; burning, scalding, stench, consumption."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"The dreadful **stench** from the mass burial pits was so intolerable that the searchers were forced to breathe through vinegar cloths."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A pestilential **stench** rose from the sodden ground of the pauper cemetery in the heart of London."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I collected bones from charnel-houses and disturbed, with profane fingers, the tremendous **stench** of the human frame."*

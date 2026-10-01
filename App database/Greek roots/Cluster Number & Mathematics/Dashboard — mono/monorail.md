@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A railway having a single track.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A railway having a single track.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A railroad in which the track consists of a single rail, typically elevated above ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban transit engineering, a straddle-beam or suspended transit system designed for grade-separated passenger transit in dense corridors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monorail designates a railway having a single track."*
+> - 📜 **H.G. Wells (*When the Sleeper Wakes*):** *"Swift aerodynamic cars glided noiselessly along the elevated **monorail** that spanned the glowing canyon of the futuristic boulevard."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"A robotic maintenance car traveled along the central **monorail** running the length of the cylindrical world."*
+> - 📜 **Jules Verne (*Paris in the Twentieth Century*):** *"He imagined commuters whisked across the metropolis on pneumatic cars riding an elevated **monorail**."*

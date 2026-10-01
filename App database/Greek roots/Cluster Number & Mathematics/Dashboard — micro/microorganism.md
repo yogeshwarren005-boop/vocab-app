@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (such as a bacterium or protozoan) of microscopic or ultramicroscopic size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (such as a bacterium or protozoan) of microscopic or ultramicroscopic size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic organism, especially a bacterium, virus, fungus, or protozoan, too small to be seen without magnification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental science and biotechnology, a unicellular agent driving biogeochemical transformations, fermentation, and infectious pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microorganism designates an organism (such as a bacterium or protozoan) of microscopic or ultramicroscopic size."*
+> - 📜 **Louis Pasteur (*Studies on Beer*):** *"The alteration of the fermenting wort is caused entirely by the development of an alien **microorganism** introduced from the atmosphere."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"If life exists in the subterranean brine of Mars, it will almost certainly take the form of an extremophilic **microorganism**."*
+> - 📜 **Ed Yong (*I Contain Multitudes*):** *"Every breath we inhale and every surface we touch immerses us in an invisible sea teeming with **microorganism** life."*

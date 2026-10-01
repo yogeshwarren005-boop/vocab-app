@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron having 20 faces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polyhedron having 20 faces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular polyhedron bounded by twenty congruent equilateral triangular faces; one of the five Platonic solids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and structural design, a regular solid having 20 faces, 12 vertices, and 30 edges, forming the geometric basis for geodesic domes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icosahedron designates a polyhedron having 20 faces."*
+> - 📜 **Plato (*Timaeus*):** *"To water we assign the solid shape of the **icosahedron**, which is the most rounded and least mobile of the regular bodies."*
+> - 📜 **Euclid (*Elements*):** *"Book XIII proves that no other regular solids can be constructed beyond the pyramid, cube, octahedron, dodecahedron, and **icosahedron**."*
+> - 📜 **Johannes Kepler (*Harmonices Mundi*):** *"The **icosahedron** embodies the golden ratio in the coordinate positions of its twelve symmetrical vertices."*

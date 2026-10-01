@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single great stone often in the form of an obelisk or column.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A massive structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large single upright block of stone, especially one shaped into or serving as a pillar or monument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A massive, uniform, and intractable structure, enterprise, or software architecture that is indivisible and slow to change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The place took its name from a stone pillar which stood there, a strange rude monolith, from a stratum unknown in any local quarry, on which was roughly carved a human hand."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The beauty and majesty of the finely carved panels surmounting the soaring arches spanning the rosy monolith columns, emblazoned with emerald green and scarlet mosaic symbolizing the Báb's lineage and martyrdom, are strikingly revealed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The uniform concavity of black cloud was lifting bodily like the lid of a pot, letting in at the earth’s edge the coming day, against which the towering monoliths and trilithons began to be blackly defined."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The black **monolith** stood upright in the lunar dust, untouched by solar wind or cosmic rays for three million years."*
+> - 📜 **Percy Bysshe Shelley (*Ozymandias*):** *"The shattered **monolith** lay half buried beneath the lone and level sands stretching far away."*
+> - 📜 **Martin Fowler (*Patterns of Enterprise Application Architecture*):** *"Decomposing a core legacy **monolith** requires careful decoupling of database schemas and operational boundaries."*

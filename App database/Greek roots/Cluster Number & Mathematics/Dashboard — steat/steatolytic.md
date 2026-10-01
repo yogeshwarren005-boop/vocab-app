@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of fat, tallow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of fat, tallow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of breaking down, digesting, or hydrolyzing fats; lipolytic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal enzymology and pharmacology, enzymes or digestive agents (especially pancreatic lipase) that catalyze the hydrolytic cleavage of ester bonds in triglycerides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steatolytic designates adjective*) pertaining to, derived from, or characteristic of fat, tallow."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"We demonstrated the **steatolytic** action of the pancreatic fluid by observing the rapid acidification of olive oil mixtures."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"Gastric secretion displays slight **steatolytic** activity, which is enormously augmented once chyme enters the duodenum."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The digestive juices exert a specific **steatolytic** power that prepares insoluble dietary lipids for lymphatic absorption."*

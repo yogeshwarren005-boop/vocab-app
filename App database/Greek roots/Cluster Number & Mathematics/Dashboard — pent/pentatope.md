@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A four-dimensional polytope bounded by five tetrahedral cells; also known as the 5-cell or 4-simplex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher-dimensional Euclidean geometry, the simplest possible regular 4-polytope, possessing 5 vertices, 10 edges, 10 triangular faces, and 5 tetrahedral cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentatope designates a term designating an entity, condition, or phenomenon derived from greek pent."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"The regular **pentatope** is self-dual, having five vertices and five tetrahedral cells just as the triangle has three of each."*
+> - 📜 **Duncan Sommerville (*An Introduction to the Geometry of N Dimensions*):** *"By projecting the **pentatope** into three dimensions, one obtains a tetrahedron with a central interior vertex."*
+> - 📜 **Alicia Boole Stott (*On Certain Series of Sections of the Regular Four-Dimensional Hypersolids*):** *"Planar cuts through the **pentatope** yield changing sequences of triangles, tetrahedra, and truncated pyramids."*

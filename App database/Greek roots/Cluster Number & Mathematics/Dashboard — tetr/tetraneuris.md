@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of hairy yellow-flowered plants of the western united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of hairy yellow-flowered plants of the western united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the sunflower family (Asteraceae), commonly known as four-nerve daisies, native to North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy and Great Plains ecology, perennial herbs (such as Tetraneuris acaulis) bearing solitary yellow flower heads with three-toothed ray florets marked by four prominent longitudinal veins (nerves).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetraneuris designates genus of hairy yellow-flowered plants of the western united states."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The ray florets of **Tetraneuris** are characterized by four distinct nerves running lengthwise across each golden ligule."*
+> - 📜 **John Torrey (*A Flora of North America*):** *"Upon dry gravelly prairie hills, **Tetraneuris** forms compact tufts crowned with solitary bright yellow heads."*
+> - 📜 **Arthur Cronquist (*Vascular Plants of the Pacific Northwest*):** *"The genus **Tetraneuris**, formerly included within Actinea, is well distinguished by its four-veined ray florets and punctate leaves."*

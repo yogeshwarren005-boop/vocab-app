@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of measure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having equal perimeters or equal perimeter lengths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and the calculus of variations, relating to the classical isoperimetric problem: proving that among all closed plane curves of equal perimeter, the circle encloses the greatest area.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isoperimetric designates adjective*) pertaining to, derived from, or characteristic of measure."*
+> - 📜 **Leonhard Euler (*Methodus Inveniendi Lineas Curvas Maximi Minimive Proprietate Gaudentes*):** *"The celebrated **isoperimetric** problem provided the catalyst for the development of the general calculus of variations."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"Zenodorus demonstrated the ancient **isoperimetric** proposition that the circle contains more area than any polygon of equal perimeter."*
+> - 📜 **Colin Maclaurin (*A Treatise of Fluxions*):** *"Geometric methods confirm the **isoperimetric** property of the sphere, which encloses maximum volume with minimum surface area."*

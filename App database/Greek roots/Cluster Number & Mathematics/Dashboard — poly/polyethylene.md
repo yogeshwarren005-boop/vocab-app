@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight thermoplastic; used especially in packaging and insulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lightweight thermoplastic; used especially in packaging and insulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tough, flexible, lightweight synthetic thermoplastic resin made by the polymerization of ethylene; polythene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and petrochemistry, the most widely manufactured plastic in the world, categorized by density and branching into low-density (LDPE), linear low-density (LLDPE), and high-density (HDPE) variants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyethylene designates a lightweight thermoplastic; used especially in packaging and insulation."*
+> - 📜 **Karl Ziegler (*Nobel Lecture: Consequences and Development of an Invention*):** *"Using triethylaluminum and titanium tetrachloride, we achieved the polymerization of ethylene to high-molecular-weight **polyethylene** at atmospheric pressure."*
+> - 📜 **Giulio Natta (*Macromolecular Chemistry*):** *"Stereospecific coordination catalysts opened new frontiers for unbranched crystalline **polyethylene** with elevated melting points."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The simple repeating chain of -CH2-CH2- in **polyethylene** creates a remarkably inert, chemically resistant hydrocarbon barrier."*

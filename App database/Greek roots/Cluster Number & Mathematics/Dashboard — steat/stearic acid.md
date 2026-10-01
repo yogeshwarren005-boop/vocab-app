@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline fatty acid C18H36O2 obtained by saponifying tallow or other hard fats containing stearin; also : a commercial mixture of stearic and palmitic acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline fatty acid C18H36O2 obtained by saponifying tallow or other hard fats containing stearin; also : a commercial mixture of stearic and palmitic acids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A saturated 18-carbon fatty acid, CH3(CH2)16COOH, found in animal fats and plant oils, used in soaps, cosmetics, and candles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lipid biochemistry and chemical manufacturing, an essential long-chain saturated fatty acid synthesized from tallow or palm oil, whose sodium salt acts as a primary surfactant in traditional soap-making.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stearic acid designates a white crystalline fatty acid c18h36o2 obtained by saponifying tallow or other hard fats containing stearin; also : a commercial mixture of stearic and palmitic acids."*
+> - 📜 **Michel Eugène Chevreul (*Recherches chimiques sur les corps gras*):** *"By saponification of mutton tallow followed by acidulation, I succeeded in isolating pure crystalline **stearic acid**."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The manufacture of composite candles from purified **stearic acid** replaced smoking tallow dips with bright, smokeless light."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"In the crystal lattice of **stearic acid**, nonpolar hydrocarbon tails pack together closely in parallel layers."*

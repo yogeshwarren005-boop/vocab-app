@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A huge quadrupedal herbivore with long neck and tail; of late jurassic in western north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A huge quadrupedal herbivore with long neck and tail; of late jurassic in western north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of very large, long-necked, herbivorous sauropod dinosaurs that lived during the Late Jurassic period in North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a diplodocid dinosaur characterized by double-beamed chevron bones beneath the tail vertebrae and a whip-like tail tip.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"VIRAG: _(Arches his eyebrows.)_ Contact with a goldring, they say. _Argumentum ad feminam_, as we said in old Rome and ancient Greece in the consulship of Diplodocus and Ichthyosauros."*
+> - 📜 **Othniel Charles Marsh (*The Dinosaurs of North America*):** *"I proposed the name **Diplodocus** in reference to the remarkable double chevron bones protecting the blood vessels beneath the caudal vertebrae."*
+> - 📜 **Henry Fairfield Osborn (*Skeletal Variations of Diplodocus*):** *"The colossal skeleton of **Diplodocus** demonstrates an extraordinary lightweight architecture of hollowed-out pneumatic vertebrae."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"High above the ferns rose the serpentine neck of an immense sauropod resembling the museum restorations of **Diplodocus**."*

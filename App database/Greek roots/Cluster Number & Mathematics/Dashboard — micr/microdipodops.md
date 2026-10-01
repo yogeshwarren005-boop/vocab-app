@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kangaroo mice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kangaroo mice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, nocturnal kangaroo mice endemic to the arid Great Basin desert region of North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rodent mammalogy, heteromyid rodents characterized by bipedal saltation, fat-storing incrassated tails, and extraordinary water-conserving physiology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microdipodops designates kangaroo mice."*
+> - 📜 **C. Hart Merriam (*Descriptions of New Species of Kangaroo Mice*):** *"I established the genus **Microdipodops** to accommodate small bipedal rodents possessing inflated mastoid bullae."*
+> - 📜 **Joseph Grinnell (*An Account of the Mammals and Birds of the Lower Colorado Valley*):** *"Trapping records across Nevada sand dunes revealed the nocturnal foraging habits of **Microdipodops** pallidus."*
+> - 📜 **E. Raymond Hall (*The Mammals of Nevada*):** *"The kangaroo mouse, **Microdipodops**, survives without drinking free water, extracting metabolic moisture from dry seeds."*

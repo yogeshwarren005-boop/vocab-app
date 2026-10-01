@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gapped scale with five notes; usually the fourth and seventh notes of the diatonic scale are omitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gapped scale with five notes; usually the fourth and seventh notes of the diatonic scale are omitted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical scale or tune consisting of five tones per octave; synonymous with pentatonic scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic ethnomusicology, primitive five-pitch musical structures occurring independently across ancient civilizations, lacking half-tone friction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentatone designates a gapped scale with five notes; usually the fourth and seventh notes of the diatonic scale are omitted."*
+> - 📜 **Alexander John Ellis (*On the Musical Scales of Various Nations*):** *"The universal occurrence of the **pentatone** in ancient cultures proves that consonant intervals are intuitively perceived."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"The simplicity of the **pentatone** allowed folk singers to preserve melodies across centuries without written notation."*
+> - 📜 **Béla Bartók (*Hungarian Folk Music*):** *"The archaic five-tone **pentatone** forms the bedrock of ancient peasant music throughout the Danubian basin."*

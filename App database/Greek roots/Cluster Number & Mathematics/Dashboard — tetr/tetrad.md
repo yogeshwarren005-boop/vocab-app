@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of three and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of three and one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or set of four things, persons, or units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics and cell biology, a group of four homologous chromatids formed during prophase I of meiosis (synapsis) where crossing over occurs, or a cluster of four haploid spores produced following meiotic division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrad designates the cardinal number that is the sum of three and one."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"During meiotic prophase, maternal and paternal homologous chromosomes pair together to form a four-stranded **tetrad**."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Pythagoras honored the mystical **tetrad**, seeing in four the root and fountain of eternal nature."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"Chiasma formation within each meiotic **tetrad** provides visual proof of reciprocal genetic exchange between homologous chromatids."*

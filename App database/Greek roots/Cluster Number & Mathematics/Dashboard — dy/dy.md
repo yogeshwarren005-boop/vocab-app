@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: delivery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: deputy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root morpheme derived from Greek δύο (dyo) meaning two.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and mathematical philosophy, a formative element producing terms expressing duality, pairs, or base-two relations (as in dyad, dyadic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The purple pride Which on thy soft cheek for complexion dwells, In my love’s veins thou hast too grossly dyed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give my love fame faster than Time wastes life, So thou prevent’st his scythe, and crooked knife. 101 O truant Muse what shall be thy amends, For thy neglect of truth in beauty dyed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot rest Until the white rose that I wear be dyed Even in the lukewarm blood of Henry’s heart."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The radical **dy-** reflects the ancient Greek numeral for two, cognate with Latin duo and English two."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From the numeral stem **dy-** arise foundational philosophical terms denoting paired opposition and twofold nature."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"Pythagorean arithmetic placed the monad and the **dy-** at the metaphysical origin of all numerical generation."*

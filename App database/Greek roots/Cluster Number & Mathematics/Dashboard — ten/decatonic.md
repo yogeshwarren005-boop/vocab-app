@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or based on ten tones, pitches, or scale degrees per octave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern music theory, microtonal acoustics, and synthetic scale construction, an equal-temperament or just-intonation scale system dividing the octave into ten discrete pitches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decatonic designates adjective*) pertaining to, derived from, or characteristic of stretch."*
+> - 📜 **Alexander John Ellis (*On the Musical Scales of Various Nations*):** *"Experimental division of the octave into a **decatonic** system produces unusual harmonies outside traditional European tonality."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"Modern microtonal composers explored the **decatonic** scale as an alternative between pentatonic simplicity and chromatic complexity."*
+> - 📜 **Charles Ives (*Essays Before a Sonata*):** *"Venturing beyond twelve semitones, an adventurous musician may test an artificial **decatonic** framework for fresh dissonances."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting or undergoing partial, incomplete metamorphosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, an adjectival variant designating insects whose immature stages are nymphs resembling adults in general body plan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetamorphous designates (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"The **hemimetamorphous** orders encompass ancient insect lineages whose origins date back to the Paleozoic era."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Mantis*):** *"Being a **hemimetamorphous** creature, the baby praying mantis emerges from the ootheca already equipped with rapacious forelegs."*
+> - 📜 **John Henry Comstock (*The Elements of Insect Anatomy*):** *"Wing pads remain external and dorsal throughout the development of **hemimetamorphous** nymphs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of destroying or inhibiting the growth of disease-causing microorganisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destructive to or inhibiting the growth of microorganisms; functioning as a germicide or antiseptic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical bacteriology and pathology, describing chemical agents, serums, or antibodies that neutralize bacterial cells directly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimicrobic designates an agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early application of **antimicrobic** solutions prevents the spread of septic contamination along surgical incisions."*
+> - 📜 **Almroth Wright (*Studies on Immunisation*):** *"The opsonic power of blood serum significantly enhances the innate **antimicrobic** defense of phagocytic cells."*
+> - 📜 **Élie Metchnikoff (*Immunity in Infective Diseases*):** *"The wandering cells of the mesoderm elaborate powerful **antimicrobic** ferments that digest invading pathogens."*

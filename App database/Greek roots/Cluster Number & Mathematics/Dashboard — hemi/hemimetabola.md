@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subclass of insects characterized by gradual and usually incomplete metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subclass of insects characterized by gradual and usually incomplete metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of insects that undergo incomplete or hemimetabolous metamorphosis, lacking a pupal stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomological classification, an informal or historical cohort encompassing orders such as Orthoptera, Hemiptera, and Odonata, whose nymphs resemble miniature adults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetabola designates subclass of insects characterized by gradual and usually incomplete metamorphosis."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"Insects belonging to **Hemimetabola** hatch as active nymphs possessing external wing-pads that expand with each molt."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Grasshoppers, cicadas, and true bugs belong to the **Hemimetabola**, escaping the dormant pupal chrysalis entirely."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The direct post-embryonic development of **Hemimetabola** contrasts sharply with the complete metamorphosis of beetles and butterflies."*

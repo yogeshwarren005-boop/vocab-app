@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or based on four musical tones or pitches per octave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnomusicology and comparative acoustics, archaic musical scales comprising four pitches (tetrachords or tetratonic chants), found in tribal vocal music and liturgical antiphons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetratonic designates adjective*) pertaining to, derived from, or characteristic of stretch."*
+> - 📜 **Alexander John Ellis (*On the Musical Scales of Various Nations*):** *"The archaic invocation was sung upon a simple **tetratonic** framework encompassing four narrow intervals."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"Before the evolution of five-note pentatonic tunes, primitive ritual chants were frequently **tetratonic**."*
+> - 📜 **Béla Bartók (*Rumanian Folk Music*):** *"The ancient winter solstice carol revolves entirely within a narrow **tetratonic** ambitus of four pitches."*

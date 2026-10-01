@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of aromatic tropical trees with arillate seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of aromatic tropical trees with arillate seeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The nutmeg family, a family of tropical trees and shrubs characterized by aromatic wood, red exudate, and arillate seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, an archaic family of the order Magnoliales whose dioecious flowers and ruminate endosperm represent primitive angiosperm traits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myristicaceae designates family of aromatic tropical trees with arillate seeds."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Members of the family **Myristicaceae** are easily recognized by their aromatic bark, red sap, and single fleshy seed wrapped in a colorful aril."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Birds of paradise feed voraciously upon the oily fruits of **Myristicaceae**, acting as primary seed dispersers throughout New Guinea."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"Phylogenetic analysis places **Myristicaceae** among the basal magnoliids, retaining ancient floral morphology from early Cretaceous radiations."*

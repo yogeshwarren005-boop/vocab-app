@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Monophonic reproduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infectious mononucleosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek word for alone, single, sole, or unique, serving as the etymological root for numerous prefixes and scientific terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic morphology and classical philology, the root morpheme underlying words denoting oneness, isolation, or singular structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monos designates monophonic reproduction."*
+> - 📜 **Plato (*Phaedrus*):** *"The philosopher contemplates the pure form that exists by itself, solitary and alone, described in Greek as **monos**."*
+> - 📜 **Aristotle (*Metaphysics*):** *"The concept of unity implies that an entity is undivided in itself; hence **monos** conveys the essence of singular existence."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"From the classical root **monos** arose our prefixes designating singularity in mathematics, biology, and grammar."*

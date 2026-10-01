@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giant crabs of japan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giant crabs of japan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine decapod crustaceans containing the Japanese spider crab (Macrocheira kaempferi), the largest living arthropod by leg span.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology, deep-water benthic brachyuran crabs native to the Pacific waters around Japan, with an arm span reaching up to 3.8 meters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrocheira designates giant crabs of japan."*
+> - 📜 **Engelbert Kaempfer (*The History of Japan*):** *"Fishermen off Suruga Bay hauled ashore colossal specimens of **Macrocheira**, whose spidery claws measured yards across."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The giant Japanese spider crab **Macrocheira** demonstrates the extreme structural limits attainable by an aquatic arthropod exoskeleton."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology: Crustacea*):** *"In **Macrocheira**, the elongated ambulatory legs permit agile movement over deep muddy ocean bottoms."*

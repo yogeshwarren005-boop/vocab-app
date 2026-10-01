@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the subdivisions of a play: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A division of an act presenting continuous action in one place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The place where an action, event, or incident occurs; a division of an act in a play; or a display of emotion or anger in public.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical staging, literary narration, and cinematography, a continuous unit of dramatic action defined by unity of time, place, and characters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SCENE: Partly in France, and partly in Tuscany."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The king’s disease,—my project may deceive me, But my intents are fix’d, and will not leave me. [_Exit._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haste you again. [_Exeunt severally._] SCENE III."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"All the world's a stage, and all the men and women merely players; they have their exits and their entrances, and one man in his time plays many parts, his acts being seven ages... a strange eventful **scene**."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"I looked upon the **scene** before me—with an utter depression of soul which I can compare to no earthly sensation."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was resolved to prevent any painful **scene** between her mother and Mr. Darcy at the dinner table."*

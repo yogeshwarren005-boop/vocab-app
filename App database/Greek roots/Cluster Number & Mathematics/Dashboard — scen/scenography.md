@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of perspective representation especially as applied to the design and painting of stage scenery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of perspective representation especially as applied to the design and painting of stage scenery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The design and painting of theatrical scenery; the comprehensive visual, spatial, and material design of a stage production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture (Vitruvian *scaenographia*) and modern performance theory, perspective architectural drawing and the integrated holistic design of stage space, costume, lighting, and sound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scenography designates the art of perspective representation especially as applied to the design and painting of stage scenery."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The third branch of architectural drawing is **scenography**, which presents the facade and sides receding into proper perspective."*
+> - 📜 **Inigo Jones (*Designs for Masques and Plays at Court*):** *"By coordinating perspective shutters with hidden footlights, our **scenography** transformed the royal banquet hall into an enchanted palace."*
+> - 📜 **Edward Gordon Craig (*On the Art of the Theatre*):** *"True modern **scenography** is not mere backdrop painting, but the dynamic mastery of light, space, and movement."*

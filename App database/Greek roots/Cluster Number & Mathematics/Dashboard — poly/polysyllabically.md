@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a polysyllabic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a polysyllabic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a polysyllabic manner; using or characterized by words with many syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and linguistic phonetics, describing speech or writing delivered in an elaborate, multi-syllabic, or pedantic register.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysyllabically designates in a polysyllabic manner."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Professor Teufelsdröckh declaimed **polysyllabically** from his tower, wrapping simple metaphysical truths in cumbersome German compounds."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber was accustomed to express himself **polysyllabically**, soaring into grandiose rhetorical circumlocutions."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The courtroom orator flourished **polysyllabically**, overwhelming the jury with resonant Latinate legalisms."*

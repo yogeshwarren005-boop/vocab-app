@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A systematic survey, compendium, or dictionary of universal knowledge; the study of all branches of science and human learning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century educational philosophy and bibliographical taxonomy, comprehensive encyclopedic classifications such as Roswell Park's Pantology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pantology designates a term designating an entity, condition, or phenomenon derived from greek pan."*
+> - 📜 **Roswell Park (*Pantology; or, A Systematic Survey of Human Knowledge*):** *"The aim of **pantology** is to arrange every department of science and art into an orderly and unified encyclopedia."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The ambitious schemes of early **pantology** attempted to synthesize the whole encyclopedic circle of human arts into a single system."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Before an authentic **pantology** can arise, each individual inductive science must establish its own foundational concepts."*

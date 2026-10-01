@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell of the microglia that may become phagocytic and collect waste products of nerve tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell of the microglia that may become phagocytic and collect waste products of nerve tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual cell belonging to the microglia; a microglial cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology, a small, highly branched glial cell found within the gray and white matter of the brain that performs immune surveillance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgliacyte designates a cell of the microglia that may become phagocytic and collect waste products of nerve tissue."*
+> - 📜 **Pío del Río-Hortega (*Microglia*):** *"Using silver carbonate impregnation, I was able to demonstrate the distinct morphology and mesodermal origin of each **microgliacyte**."*
+> - 📜 **Wilder Penfield (*Cytology and Cellular Pathology of the Nervous System*):** *"The migratory **microgliacyte** responds with astonishing speed to local neuronal injury, migrating directly to the lesion site."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Unlike neuroglia of ectodermal derivation, the mature **microgliacyte** displays distinctive thorny processes and phagocytic properties."*

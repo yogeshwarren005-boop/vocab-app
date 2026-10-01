@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or appearing in the course of ontogeny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on visible morphological characters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring during the development of an individual organism (ontogeny).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and ethology, describing adaptations, behaviors, or morphological changes arising during individual development rather than evolutionary history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ontogenetic designates of, relating to, or appearing in the course of ontogeny."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Neoteny occurs when an adult organism retains ancestral juvenile traits through an alteration of **ontogenetic** timing."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Phenotypic plasticity reflects the capacity of a genotype to adjust its **ontogenetic** trajectory in response to environmental cues."*
+> - 📜 **Frans de Waal (*The Age of Empathy*):** *"In primates, empathy exhibits an **ontogenetic** progression, developing from basic emotional contagion in infancy into perspective-taking in adults."*

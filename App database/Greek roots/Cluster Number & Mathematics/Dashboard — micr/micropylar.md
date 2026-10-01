@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a micropyle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a micropyle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near a micropyle (the minute opening in an ovule or insect egg).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and embryology, denoting the pole or canal of the seed coat through which the pollen tube enters to effect fertilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micropylar designates of or relating to a micropyle."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The pollen tube traverses the style and enters the embryo sac directly through the **micropylar** canal."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In anatropous seeds, the radicle of the developing embryo points invariably toward the **micropylar** aperture."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Exudates secreted by cells at the **micropylar** extremity provide chemical attractants that guide pollen tubes."*

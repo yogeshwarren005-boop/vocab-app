@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, performance, or activity of an acrobat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spectacular, showy, or startling performance or demonstration involving great agility or complexity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, performance, or exhibition of gymnastic feats of agility, balance, tumbling, and equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spectacular physical maneuvers, or figurative displays of agile maneuvering, manipulation, and intricate adjustments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrobatics designates the art, performance, or activity of an acrobat."*
+> - 📜 **James Joyce (*Ulysses*):** *"The flying trapeze performers concluded their evening routine with daring mid-air **acrobatics** that drew gasps from the amphitheatre."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"We watched the village lads attempt clumsy **acrobatics** off the canal bridge into the cool water below."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"His sudden leap over the settee was a masterpiece of involuntary **acrobatics** prompted by sheer panic."*

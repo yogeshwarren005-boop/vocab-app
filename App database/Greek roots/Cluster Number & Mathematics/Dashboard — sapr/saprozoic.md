@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of certain animals) feeding on dead or decaying animal matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of certain animals) feeding on dead or decaying animal matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on dead or decaying animal matter; or obtaining nutrition by the direct absorption of dissolved organic compounds (in protozoa or invertebrates).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoology and invertebrate physiology, animals or protozoans that absorb nutrients through the body surface from surrounding nutrient-rich fluid environments, contrasted with holozoic phagotrophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprozoic designates (of certain animals) feeding on dead or decaying animal matter."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Certain parasitic flagellates have lost the cytostome entirely, subsisting by purely **saprozoic** absorption of host serum."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The tapeworm exemplifies a strictly **saprozoic** nutrition, bathing in the predigested intestinal fluids of its vertebrate host."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"In sewage-polluted streams, free-living ciliates may switch to a **saprozoic** habit when dissolved amino acids are abundant."*

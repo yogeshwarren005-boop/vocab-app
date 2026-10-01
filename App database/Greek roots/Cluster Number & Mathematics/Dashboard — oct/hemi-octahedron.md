@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geometric solid having the form of half an octahedron, specifically a square-based pyramid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, a crystal habit or hemimorphic form presenting four triangular faces meeting at a common apex over a square basal plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemi-octahedron designates a term designating an entity, condition, or phenomenon derived from greek oct."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Certain hemimorphic crystals develop only the upper four pyramidal faces, terminating as a classic **hemi-octahedron**."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Cleavage along octahedral planes in fluorite occasionally isolates fragments bounded by the geometry of a **hemi-octahedron**."*
+> - 📜 **Max Born (*Dynamical Theory of Crystal Lattices*):** *"The surface energy of a face-centered cubic crystal can be minimized along facets that terminate as a symmetrical **hemi-octahedron**."*

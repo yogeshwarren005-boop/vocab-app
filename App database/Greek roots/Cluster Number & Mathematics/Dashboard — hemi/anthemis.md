@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dog fennel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dog fennel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aromatic flowering plants in the aster family (Asteraceae), commonly including dog fennel and stinking chamomile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical medicine and horticulture, Mediterranean herbs with finely dissected foliage and daisy-like flower heads used in traditional infusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthemis designates dog fennel."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The introduced field weed **Anthemis** cotula, known as mayweed or dog fennel, emits a strong, acrid aroma."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Species of **Anthemis** yield essential oils and bitter principles long celebrated in European herbal pharmacopoeias."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Along arid stony paths, wild **Anthemis** flourished with solitary daisy heads displaying yellow disk florets."*

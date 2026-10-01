@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A saprophytic organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saprophytic organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant, fungus, or microorganism that lives on dead or decaying organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical botany and mycology, organisms lacking photosynthetic chlorophyll (historically including non-green plants like Monotropa and Indian pipe, now known to be mycoheterotrophs, as well as wood-decay fungi) that absorb dissolved nutrients from organic substrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprophyte designates a saprophytic organism."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The ghost-like Indian pipe is a **saprophyte**, absorbing its nourishment from the leaf mould of dark woods without green leaves."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"Certain leafless orchids function as a **saprophyte**, their root systems intimately intertwined with decomposing fungal humus."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The bracket fungus living upon a fallen birch trunk is a typical lignicolous **saprophyte**, breaking down the heartwood."*

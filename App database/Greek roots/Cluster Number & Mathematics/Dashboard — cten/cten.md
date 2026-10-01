@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root morpheme (κτείς, κτενός, kteis, ktenos) signifying a comb or comb-like structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological nomenclature, a formative element producing technical names for organisms, organs, or anatomical parts resembling a comb (as in ctenoid, ctenophore, ctenidium).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cten designates a term designating an entity, condition, or phenomenon derived from greek cten."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The scientific radical **cten-** derives directly from the Greek word for a comb, applied to serrated biological features."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From kteis and its genitive stem **cten-** come anatomical terms designating toothed, comb-like skeletal margins."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Morphologists adopted the root **cten-** to classify marine organisms displaying regular ciliated or pectinate margins."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of nine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of nine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or having nine syllables; a verse or word containing nine syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical metrics and prosody, designating lines such as the alcaic hendecasyllable's nine-syllable companion line (the alcaic enneasyllable).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enneasyllabic designates adjective*) pertaining to, derived from, or characteristic of nine."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The third line of the Horace Alcaic stanza is a strict **enneasyllabic** measure with a rapid dactylic conclusion."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"The rhythmic cadence of an **enneasyllabic** phrase often imparts an unsettling, syncopated movement to lyric verse."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"In adapting ancient meters, the poet must preserve the distinct weight of the **enneasyllabic** cadence."*

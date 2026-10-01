@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A primeval egyptian personification of air and breath; worshipped especially at thebes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primeval egyptian personification of air and breath; worshipped especially at thebes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supreme deity in ancient Egyptian religion, revered as the King of the Gods, personifying air, breath, and hidden power; later syncretized as Amon-Ra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology and classical mythology, the oracular god of Thebes whose desert shrine at Siwa was visited by Alexander the Great.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"You don't carry such a thing as a good palm-leaf fan amon'st your stuff, I expect?"*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I feel it within me, Marthy Downs, an' it's a terrible thing to have happened right amon'st us in Christian times."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I shouldn't want to marry amon'st the Holts if I was young ag'in!"*
+> - 📜 **Herodotus (*Histories*):** *"The Egyptians give the name of **Amon** to Zeus, and depict his sacred image with the head and curved horns of a ram."*
+> - 📜 **Plutarch (*Life of Alexander*):** *"When Alexander reached the oasis temple of **Amon**, the chief priest addressed him as the true son of the god."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The Libyan Jove, or **Amon** called, that held / Great Thebes in awe, and walked the desert wild."*

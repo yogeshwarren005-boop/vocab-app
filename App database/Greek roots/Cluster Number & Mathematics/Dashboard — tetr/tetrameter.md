@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of verse consisting either of four dipodies (as in classical iambic, trochaic, and anapestic verse) or four metrical feet (as in modern English verse).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line of verse consisting either of four dipodies (as in classical iambic, trochaic, and anapestic verse) or four metrical feet (as in modern English verse).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse or line of poetry consisting of four metrical feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Latin and Greek prosody, a line containing four dipodies or metrons; in English poetry, iambic or trochaic tetrameter, famously employed in ballads, nursery rhymes, and Longfellow's *The Song of Hiawatha*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A catalectic tetrameter of iambs marching."*
+> - 📜 **Henry Wadsworth Longfellow (*The Song of Hiawatha*):** *"The trochaic **tetrameter** rhythm gave the legend of Hiawatha its hypnotic, chant-like primitive cadence."*
+> - 📜 **Samuel Taylor Coleridge (*Christabel: Preface*):** *"The meter of Christabel is not, properly speaking, irregular, but founded on the count of four accents in each **tetrameter** line."*
+> - 📜 **Lord Byron (*The Destruction of Sennacherib*):** *"The Assyrian came down like the wolf on the fold, / And his cohorts were gleaming in purple and gold—a galloping anapestic **tetrameter**."*

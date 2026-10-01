@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of one testes to descend into the scrotum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of one testes to descend into the scrotum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having only one testis descended or present in the scrotum (variant of monorchism).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urology and pediatric surgery, congenital unilateral testicular agenesis or failure of one testis to descend from the abdominal cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monorchidism designates failure of one testes to descend into the scrotum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical evaluation of the male infant revealed unilateral cryptorchidism presenting as apparent **monorchidism**."*
+> - 📜 **John Hunter (*A Treatise on the Venereal Disease*):** *"Dissection proved that the condition was true **monorchidism**, with complete congenital absence of the right spermatic vessel."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Developmental anomalies during embryonic gonadal ridge migration can result in unilateral agenesis or **monorchidism**."*

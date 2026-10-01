@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation of a single crop (on a farm or area or country).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultivation of a single crop (on a farm or area or country).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation or growth of a single crop or organism in a given area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and sociology, the dominance of a single species, agricultural variety, or cultural practice, leading to vulnerability and loss of diversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoculture designates the cultivation of a single crop (on a farm or area or country)."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Modern agricultural **monoculture** invites devastating insect infestations that nature's complex biodiversity once held in check."*
+> - 📜 **Michael Pollan (*The Omnivore's Dilemma*):** *"The vast industrial corn **monoculture** stretching across Iowa created a landscape of staggering biological uniformity."*
+> - 📜 **Jared Diamond (*Collapse*):** *"Over-reliance on a fragile potato **monoculture** left nineteenth-century Ireland tragically exposed to the blight."*

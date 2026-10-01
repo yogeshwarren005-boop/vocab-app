@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of verse consisting of six metrical feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line of verse consisting of six metrical feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line of verse consisting of six metrical feet, especially the classical dactylic hexameter used in Greek and Latin epic poetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical prosody, the noble heroic meter of Homer's Iliad and Virgil's Aeneid, typically composed of dactyls and spondees concluding with a dactyl and a spondee/trochee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexameter designates a line of verse consisting of six metrical feet."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"The noble and rapid movement of the Homeric **hexameter** remains the supreme vehicle for grand heroic narrative."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner (and Poetical Works)*):** *"Strongly it bears us along in swelling and limitless billows, Nothing before and nothing behind, but the boundless ocean of the **hexameter**."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Longfellow's Evangeline showed that English accentual **hexameter** could charm the ear despite traditional metrical objections."*

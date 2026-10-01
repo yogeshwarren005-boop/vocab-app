@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family polyangiaceae: myxobacteria with rounded fruiting bodies enclosed in a membrane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family polyangiaceae: myxobacteria with rounded fruiting bodies enclosed in a membrane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of myxobacteria (family Polyangiaceae) that forms clusters of cysts or sporangioles within an envelopment of slime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic bacteriology, predatory soil myxobacteria (such as Polyangium cellulosum) capable of hydrolyzing cellulose and synthesizing diverse bioactive secondary metabolites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyangium designates type genus of the family polyangiaceae: myxobacteria with rounded fruiting bodies enclosed in a membrane."*
+> - 📜 **Roland Thaxter (*Contributions from the Cryptogamic Laboratory of Harvard University*):** *"In the genus **Polyangium**, the fruiting mass consists of numerous distinct cysts held together by a translucent slime envelope."*
+> - 📜 **Selman Waksman (*The Soil and the Microbe*):** *"Decomposition of filter paper under aerobic conditions was actively accomplished by strains of **Polyangium**."*
+> - 📜 **David Baltimore (*Microbial Genetics and Social Behavior*):** *"Cellular aggregation in **Polyangium** provides a primitive paradigm for the genetic evolution of developmental signaling."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscular weakness or partial paralysis affecting one side of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a hallmark clinical sign of an ischemic stroke, intracerebral hemorrhage, or brain tumor localized to the contralateral motor cortex or internal capsule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiparesis designates a term designating an entity, condition, or phenomenon derived from greek hemi."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute onset of right **hemiparesis** accompanied by motor aphasia indicates occlusion of the left middle cerebral artery."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Gradual development of spastic **hemiparesis** over weeks suggests a growing expanding lesion in the contralateral hemisphere."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The physician watched the gradual recovery of voluntary movement in the patient's arm following the transient **hemiparesis**."*

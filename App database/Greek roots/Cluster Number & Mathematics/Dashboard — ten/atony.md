@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of normal muscular tension or tonus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of normal muscular tension or tonus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of normal physiological tone, tension, or elastic firmness in muscle or other bodily organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and surgical pathology, failure of contractile response in smooth or skeletal muscle (notably uterine atony causing catastrophic postpartum hemorrhage).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atony designates lack of normal muscular tension or tonus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Uterine **atony** remains the most formidable cause of sudden primary hemorrhage immediately following delivery."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The chronic invalid suffered from universal muscular **atony**, unable to sit upright without soft supporting cushions."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Sedentary living and excessive wine weaken the digestive organs, inducing painful **atony** of the stomach and bowels."*

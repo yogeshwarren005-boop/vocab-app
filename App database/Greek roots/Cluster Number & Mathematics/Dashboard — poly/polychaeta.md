@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine annelid worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine annelid worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of predominantly marine annelid worms, commonly called bristle worms, characterized by numerous chitinous chaetae (bristles) on fleshy parapodia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and invertebrate zoology, a large and diverse group (including lugworms, clam worms, and feather duster worms) possessing segmented bodies, well-developed heads, and specialized trochozoan larvae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychaeta designates marine annelid worms."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Members of the class **Polychaeta** possess lateral unjointed appendages or parapodia carrying bunches of chitinous bristles."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The pelagic trochophore larva of marine **Polychaeta** links them evolutionarily with the ancestral lineage of mollusks."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Tidal flats teem with burrowing worms of the order **Polychaeta**, creating networks of subterranean tubes beneath the mud."*

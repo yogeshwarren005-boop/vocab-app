@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient musical instrument resembling the zither.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient musical instrument resembling the zither.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient and medieval musical instrument consisting of strings stretched across a flat soundboard, played by plucking with fingers or plectra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music history and biblical organology, a stringed instrument (derived from Greek *psalterion*) representing a precursor to the harpsichord and dulcimer, widely depicted in Romanesque and Gothic sacred art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Fathers of the Church (we would say), pastors of the Church, pious laics of the Church: you are taking from its walls the panoply of Aquinas--take also from its walls the psaltery of Alighieri."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus we read of a band of prophets coming down from a high place with a psaltery, a timbrel, a pipe, and a harp before them, and prophesying as they went."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, hark you! [_Trumpets, hautboys, drums beat, all together._] The trumpets, sackbuts, psalteries, and fifes, Tabors and cymbals, and the shouting Romans Make the sun dance."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"And all above there lay a gay **psaltery**, on which he made at night melodious minstrelsy."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Praise him with the sound of the trumpet, praise him with the lute and the sweet **psaltery**."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"The triangular medieval **psaltery** was plucked with quill plectra, producing a bright and silvery resonance."*

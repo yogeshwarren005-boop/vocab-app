@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to alleles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to alleles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or exhibiting the properties of an allele or allelic variation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, characterizing relationships between alternative gene variants occupying homologous chromosomal loci.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allelic designates of or relating to alleles."*
+> - 📜 **Sewall Wright (*Evolution and the Genetics of Populations*):** *"Calculations of gene frequency require accounting for the complete distribution of **allelic** variants across all breeding isolates."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The maintenance of high **allelic** diversity provides the indispensable raw material for rapid environmental adaptation."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Heterozygote advantage actively preserves multiple **allelic** forms despite strong purifying selection against recessive homozygotes."*

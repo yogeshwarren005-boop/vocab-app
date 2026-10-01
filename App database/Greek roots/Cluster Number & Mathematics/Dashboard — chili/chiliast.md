@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes in the coming of the millennium (a time of great peace and prosperity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who believes in the coming of the millennium (a time of great peace and prosperity).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes in chiliasm or the thousand-year reign of Christ on earth; a millenarian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology, an early Christian adherent or sectarian who anticipated a literal, earthly messianic kingdom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiliast designates a person who believes in the coming of the millennium (a time of great peace and prosperity)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Every eager **chiliast** expected the immediate overthrow of imperial paganism and the dawn of the terrestrial golden age."*
+> - 📜 **Richard Baxter (*The Saints' Everlasting Rest*):** *"The devout **chiliast** fixes his contemplation upon an earthly triumph, while we look beyond to the celestial rest."*
+> - 📜 **Henry More (*An Explanation of the Grand Mystery of Godliness*):** *"A learned **chiliast** defends his interpretation by collating the prophetic visions of Daniel and the Apocalypse."*

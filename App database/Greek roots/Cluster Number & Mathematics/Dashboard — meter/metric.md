@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A standard of measurement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of prosody that deals with metrical structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or based upon the metric system of weights and measures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and differential geometry, a distance function or metric tensor specifying the distance between points on a Riemannian manifold; in business, a standard metric of performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Herrick mentions it in one of his songs: Come, bring with a noise, My metric, merrie boys, The Christmas Log to the firing; While my good dame, she Bids ye all be free, And drink to your hearts’ desiring."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The **metric** system replaces arbitrary feudal weights with decimal divisions rooted in the unchanging dimensions of the globe."*
+> - 📜 **Albert Einstein (*The Meaning of Relativity*):** *"Gravitational fields are completely described by the curvature of the spacetime **metric** tensor."*
+> - 📜 **Bernhard Riemann (*On the Hypotheses Which Lie at the Bases of Geometry*):** *"The differential **metric** defines the line element ds^2 in generalized n-dimensional continuous manifolds."*

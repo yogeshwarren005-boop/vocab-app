@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pto.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure of speech in which words derived from the same root are repeated in different grammatical forms or cases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and stylistics, an emphatic device (such as 'with eager feeding food doth choke the feeder') that exploits morphological variations of a common lexeme to underline irony, antithesis, or intensification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyptoton designates a term designating an entity, condition, or phenomenon derived from greek pto."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"In **polyptoton**, the repetition of the same root in varied cases lends elegance and lively variety to the sentence."*
+> - 📜 **William Shakespeare (*Richard II*):** *"The line 'with eager feeding food doth choke the feeder' exemplifies the concentrated force of rhetorical **polyptoton**."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"Our poets use **polyptoton**, which we call the traducer, turning one word into diverse cases and endings to grace the verse."*

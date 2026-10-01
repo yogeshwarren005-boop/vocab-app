@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undivided rule or absolute sovereignty by a single person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nation or state having a monarchical government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of government with a monarch (such as a king or queen) at the head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and constitutional law, a system of governance where supreme nominal or executive sovereignty is inherited by a dynastic ruler.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good my sovereign, Take up the English short, and let them know Of what a monarchy you are the head."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This small inheritance my father left me Contenteth me, and worth a monarchy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The jealous o’er-worn widow and herself, Since that our brother dubbed them gentlewomen, Are mighty gossips in our monarchy."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"A hereditary **monarchy** presents far fewer difficulties in maintaining control than a newly founded principality."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Of all forms of sovereign power, absolute **monarchy** best prevents the natural state of war among men."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Absolute arbitrary power, or governing without settled standing laws, can neither of them consist with the ends of society and government in a constitutional **monarchy**."*

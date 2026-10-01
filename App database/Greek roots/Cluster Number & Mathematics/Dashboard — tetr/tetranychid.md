@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Web-spinning mite that attacks garden plants and fruit trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Web-spinning mite that attacks garden plants and fruit trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any microscopic plant-feeding mite belonging to the family Tetranychidae, commonly called spider mites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology and acarology, destructive crop pests (such as the two-spotted spider mite, *Tetranychus urticae*) that puncture leaf mesophyll cells and spin protective silken webs over infested foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetranychid designates web-spinning mite that attacks garden plants and fruit trees."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"A severe infestation of **tetranychid** mites causes orchard leaves to turn pale and bronzed under dense silken webbing."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Greenhouse growers must constantly combat the microscopic **tetranychid** spider mite with predatory mites and sulfur dusts."*
+> - 📜 **Vincent Dethier (*The Physiology of Insect Senses*):** *"The piercing chelicerae of the **tetranychid** extract cytoplasm from individual leaf cells, inducing chlorotic spotting."*

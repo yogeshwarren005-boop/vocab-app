@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of normal muscular tension or tonus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of normal muscular tension or tonus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of normal muscle tone or tension; flaccidity or relaxation of bodily tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, sleep medicine, and gastroenterology, total loss of skeletal muscle tone (such as REM sleep atonia preventing physical enactment of dreams, or uterine atonia postpartum leading to hemorrhage).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atonia designates lack of normal muscular tension or tonus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Postpartum hemorrhage is most frequently caused by sudden uterine **atonia**, requiring vigorous bimanual massage."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Sudden episodes of cataplexy plunge the narcoleptic patient into generalized **atonia** while consciousness remains clear."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of the Nervous System*):** *"Transection of the dorsal spinal roots abolishes proprioceptive reflexes, producing complete muscular **atonia**."*

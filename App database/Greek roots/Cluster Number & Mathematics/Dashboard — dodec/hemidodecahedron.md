@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dodec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstract regular polyhedron or projective polyhedron possessing six pentagonal faces, representing half of a regular dodecahedron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher geometry and topology, a non-orientable surface obtained by identifying antipodal faces, edges, and vertices of a regular dodecahedron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemidodecahedron designates a term designating an entity, condition, or phenomenon derived from greek dodec."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"By identifying opposite faces of the Platonic dodecahedron in projective 3-space, one obtains the regular **hemidodecahedron**."*
+> - 📜 **Felix Klein (*Lectures on the Icosahedron*):** *"Projective transformations collapse antipodal points of polyhedral systems into symmetric configurations such as the **hemidodecahedron**."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"The topological properties of a **hemidodecahedron** correspond to six pentagonal domains mapped upon the real projective plane."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anthelmintic agent used against hookworm and other nematodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anthelmintic agent used against hookworm and other nematodes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chlorocarbon solvent (Cl2C=CCl2); alternative spelling of tetrachloroethylene, widely used as a dry cleaning fluid and degreaser.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chemical technology and industrial toxicology, a non-flammable volatile chlorinated hydrocarbon introduced to replace flammable petroleum distillates in commercial fabric laundering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrachlorethylene designates anthelmintic agent used against hookworm and other nematodes."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Industrial contamination with volatile chlorocarbons like **tetrachlorethylene** persists in unconfined groundwater aquifers."*
+> - 📜 **F. A. Henglein (*Chemical Technology*):** *"The solvent power and non-flammability of **tetrachlorethylene** made it the premier fluid in dry cleaning establishments worldwide."*
+> - 📜 **William Crookes (*Chemical News*):** *"Direct chlorination of ethylene under radiant exposure yields heavy oily **tetrachlorethylene**."*

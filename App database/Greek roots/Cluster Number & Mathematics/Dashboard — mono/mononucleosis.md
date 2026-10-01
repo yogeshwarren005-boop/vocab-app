@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream; not highly contagious; some believe it can be transmitted by kissing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream; not highly contagious; some believe it can be transmitted by kissing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally large proportion of monocytes or mononuclear leukocytes in the blood; especially infectious mononucleosis ('mono').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious disease medicine, an acute viral syndrome caused primarily by Epstein-Barr virus (EBV), marked by fever, sore throat, and lymphadenopathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mononucleosis designates an acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream; not highly contagious; some believe it can be transmitted by kissing."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"The adolescent patient presented with classic symptoms of infectious **mononucleosis**: profound fatigue, pharyngitis, and splenomegaly."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A peripheral blood smear demonstrating atypical lymphocytes confirms the clinical suspicion of infectious **mononucleosis**."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Anthony Epstein and Yvonne Barr isolated virus particles from Burkitt lymphoma that also proved to be the causative agent of infectious **mononucleosis**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow crystalline explosive solid that is used in detonators.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow crystalline explosive solid that is used in detonators.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow crystalline high explosive compound, 2,4,6-trinitrophenylmethylnitramine, used as a booster and detonator charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military explosives and ordnance engineering, a sensitive nitroamine explosive widely utilized during World Wars I and II as an intermediary booster to transmit detonation shock from mercury fulminate to less sensitive TNT charges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetryl designates a yellow crystalline explosive solid that is used in detonators."*
+> - 📜 **Tenney L. Davis (*The Chemistry of Powder and Explosives*):** *"Because of its sensitivity and high velocity of detonation, **tetryl** is universally employed as a booster explosive in artillery shells."*
+> - 📜 **William Crookes (*Chemical News*):** *"Nitration of dimethylaniline in concentrated sulfuric acid yields crystalline yellow needles of pure **tetryl**."*
+> - 📜 **F. A. Henglein (*Chemical Technology*):** *"Handling **tetryl** dust requires rigorous ventilation to prevent dermatitis and yellow staining among ordnance workers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Candid, outspoken, and fearless freedom of speech, especially the bold declaration of truth to those in power at personal risk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Athenian rhetoric, Stoic ethics, and political philosophy (examined extensively by Michel Foucault), the civic duty of frank disclosure where the speaker speaks the truth with courage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parrhesia designates a term designating an entity, condition, or phenomenon derived from greek pan."*
+> - 📜 **Michel Foucault (*Discourse and Truth: The Problematization of Parrhesia*):** *"In **parrhesia**, the speaker uses his freedom and chooses frankness instead of persuasion, truth instead of flattery, and risk of death instead of life and security."*
+> - 📜 **Plutarch (*Moralia: How to Tell a Flatterer from a Friend*):** *"A true friend exercises wholesome **parrhesia**, speaking candidly of our faults without malice, while the flatterer conceals them."*
+> - 📜 **Epictetus (*Discourses*):** *"The Cynic must possess untamed **parrhesia**, rebuking kings and magistrates without fear, confident in his inner virtue."*

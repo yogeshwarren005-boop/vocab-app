@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various minute cellular structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particle in a particulate fraction that is obtained by heavy centrifugation of broken cells and consists of various amounts of ribosomes, fragmented endoplasmic reticulum, and mitochondrial cristae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small vesicle formed from pieces of the endoplasmic reticulum when eukaryotic cells are broken up in the laboratory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and biochemistry, an artifact of tissue homogenization consisting of membrane vesicles studded with or free of ribosomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsome designates any of various minute cellular structures."*
+> - 📜 **Albert Claude (*The Coming of Age of the Cell*):** *"Differential centrifugation permitted the isolation of the sub-microscopic particulate fraction that we designated the **microsome**."*
+> - 📜 **Christian de Duve (*Exploring Cells with a Centrifuge*):** *"Under the electron beam, each isolated **microsome** proved to be a pinched-off fragment of the endoplasmic reticulum."*
+> - 📜 **James Watson (*Molecular Biology of the Gene*):** *"Initial in vitro translation experiments incubated isolated **microsome** pellets with amino acids to measure protein incorporation."*

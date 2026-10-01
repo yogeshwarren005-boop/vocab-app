@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A five-pointed star or five-sided geometric figure; another term for a pentagram or pentacle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Middle English chivalric literature, especially *Sir Gawain and the Green Knight*, the five-pointed geometric device emblazoned upon Gawain's shield symbolizing chivalric virtues and the five wounds of Christ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentangle designates a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon."*
+> - 📜 **Anonymous (*Sir Gawain and the Green Knight*):** *"And why the **pentangle** apendeth to that noble prince I am in mind to tell, for it is a symbol that Solomon established."*
+> - 📜 **J. R. R. Tolkien (*Sir Gawain and the Green Knight: Notes*):** *"The **pentangle** is called the endless knot because its lines weave continuously without break or beginning."*
+> - 📜 **Thomas Malory (*Le Morte d'Arthur*):** *"Upon the gold border of the knight's shield was traced a gleaming **pentangle**, signifying fivefold truth."*

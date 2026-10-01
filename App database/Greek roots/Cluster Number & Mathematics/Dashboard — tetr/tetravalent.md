@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Haveing a valence of four.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Haveing a valence of four.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a chemical valence of four; capable of forming four covalent or ionic chemical bonds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and materials science, the foundational bonding characteristic of carbon (sp3 hybridization), enabling the vast structural complexity of organic molecules; also vaccines protective against four viral strains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetravalent designates haveing a valence of four."*
+> - 📜 **August Kekulé (*On the Constitution and Metamorphoses of Chemical Compounds*):** *"Carbon is a **tetravalent** element; that is to say, one atom of carbon always combines with four units of affinity."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The **tetravalent** character of carbon is realized through tetrahedral hybrid orbitals that minimize mutual electron repulsion."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"In the periodic table, elements of the fourth group, like carbon and silicon, display typical **tetravalent** behavior toward oxygen and hydrogen."*

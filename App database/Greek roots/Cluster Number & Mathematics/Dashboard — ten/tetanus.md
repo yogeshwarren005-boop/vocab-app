@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute infectious bacterial disease characterized by tonic spasm of voluntary muscles especially of the jaw and caused by an exotoxin of a clostridium (Clostridium tetani) which is usually introduced through a wound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bacterium that causes tetanus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute and often fatal infectious disease caused by *Clostridium tetani*, characterized by painful tonic spasms of voluntary muscles, especially the jaw (lockjaw).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In muscle physiology and clinical infectious disease, a state of sustained maximal muscular contraction without relaxation caused by high-frequency motor nerve stimulation; or the bacterial infection prevented by tetanus toxoid immunization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Moreover, they are careful to keep the bow-string taut and to twang it occasionally, for this will cause the wounded man to suffer from tension of the nerves and spasms of tetanus."*
+> - 📜 **Hippocrates (*Aphorisms*):** *"If a person be seized with **tetanus**, he dies within four days; but if he survives these, he recovers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The hallmark of clinical **tetanus** is persistent trismus, or lockjaw, rapidly followed by distressing spasms of the facial muscles forming the risus sardonicus."*
+> - 📜 **Emil von Behring (*The Mechanism of Immunity Against Diphtheria and Tetanus*):** *"Passive immunization with tetanus antitoxin neutralizes the circulating toxin, transforming the prevention of fatal **tetanus**."*

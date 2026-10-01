@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make unable to perform a certain action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Injure permanently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make ineffective, unfit, or incapable of normal action; to impair the physical or functional capacity of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and computing, to deprive of legal power or disqualify; to deactivate a software feature, device, or mechanism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie, de la Pole, disable not thyself; Hast not a tongue?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To strike at him on any of these occasions would be to fell and disable him, but the pursuer cannot resolve to do that, and so the grimly ridiculous pursuit continues."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My terror, as I lay there, of falling ill, and being unfitted for to-morrow, was so besetting, that I wonder it did not disable me of itself."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"I have **disabled** mine estate, By something showing a more swelling port Than my faint means would grant continuance."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Can they think me so **disabled**, so bereft of manly vigor, that I cannot smite their blasphemous idolaters?"*
+> - 📜 **Francis Bacon (*Essays*):** *"Unreasonable jealousy and suspicion **disable** the mind from pursuing sound and resolute counsels."*

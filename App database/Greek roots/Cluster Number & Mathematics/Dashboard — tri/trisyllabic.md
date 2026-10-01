@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having three syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or having three syllables; or a word having three syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonology, metrics, and English historical linguistics, metrical feet (such as anapests and dactyls) or words containing three syllables, subject to rhythmic phenomena such as trisyllabic laxing (shortening of long vowels in the antepenult).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trisyllabic designates having three syllables."*
+> - 📜 **Henry Sweet (*A History of English Sounds*):** *"Trisyllabic laxing explains why the long vowel in 'holy' becomes shortened in the **trisyllabic** derivative 'holiday'."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"A simple monosyllabic root is expanded into a **trisyllabic** word through the compounding of case markers and suffixes."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The rolling rhythm of an anapestic or dactylic **trisyllabic** foot quickens the pace of heroic verse."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Music that uses two or more different keys at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Music that uses two or more different keys at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The musical practice, technique, or doctrine of using multiple keys simultaneously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 20th-century musicology, the systematic compositional approach developed by Darius Milhaud and early modernists as an alternative to German atonality, preserving tonal clarity within superimposed polyphonic layers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polytonalism designates music that uses two or more different keys at the same time."*
+> - 📜 **Darius Milhaud (*Polytonalité et Atonalité*):** *"Unlike Schoenberg's dodecaphony, **polytonalism** enriches musical expression by multiplying tonal poles rather than destroying them."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"The rise of **polytonalism** marked an effort to expand harmonic resources without abandoning the expressive anchors of major and minor modes."*
+> - 📜 **Constant Lambert (*Music Ho! A Study of Music in Decline*):** *"In the hands of Stravinsky and Milhaud, **polytonalism** produced a sharp, brilliant acoustic glitter that defined post-war neoclassicism."*

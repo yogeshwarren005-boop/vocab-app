@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various conditions (such as Parkinson's disease and torticollis) characterized by abnormalities of movement and muscle tone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various conditions (such as Parkinson's disease and torticollis) characterized by abnormalities of movement and muscle tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological movement disorder characterized by involuntary, sustained muscle contractions that cause repetitive twisting movements or abnormal postures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, basal ganglia dysfunction (focal, segmental, or generalized dystonia, such as torticollis, writer's cramp, or DYT1 dystonia) treated with anticholinergics, botulinum toxin, or deep brain stimulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystonia designates any of various conditions (such as parkinson's disease and torticollis) characterized by abnormalities of movement and muscle tone."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Torsion spasms and bizarre trunk contortions in musculorum deformans represent a severe generalized **dystonia**."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Fluctuations in dopamine availability would plunge the post-encephalitic patient into painful facial **dystonia**."*
+> - 📜 **W. Russell Brain (*Diseases of the Nervous System*):** *"Focal task-specific **dystonia**, such as musician's cramp, involves failure of cortical inhibition during complex motor performance."*

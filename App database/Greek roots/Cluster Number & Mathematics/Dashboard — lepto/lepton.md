@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former monetary unit equal to 1/100 drachma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a family of particles (such as electrons, muons, and neutrinos) that have spin quantum number ½ and that experience no strong forces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elementary subatomic particle of half-integer spin (fermion) that does not participate in the strong nuclear force, such as an electron, muon, tau, or neutrino.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics, an ancient Greek bronze coin of very small denomination, historically famous in the New Testament as the widow's mite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lepton designates a former monetary unit equal to 1/100 drachma."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"The electron was the first discovered member of the family of light particles that physicists call the **lepton**."*
+> - 📜 **Steven Weinberg (*The First Three Minutes*):** *"Weak nuclear reactions govern the transformations among the three generations of the **lepton** family."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The impoverished widow contributed her solitary **lepton** into the treasury, an offering celebrated above imperial wealth."*

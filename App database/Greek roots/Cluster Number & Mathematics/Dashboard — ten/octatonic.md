@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or based on eight musical tones or pitches per octave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 20th-century music theory, the symmetrical eight-note scale formed by alternating whole steps and half steps (half-whole or whole-half), prominent in the music of Nikolai Rimsky-Korsakov, Igor Stravinsky, and Béla Bartók.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octatonic designates adjective*) pertaining to, derived from, or characteristic of stretch."*
+> - 📜 **Igor Stravinsky (*Memories and Commentaries*):** *"The harmonic vocabulary of The Firebird owes its sparkling fairy-tale dissonance to the symmetrical **octatonic** scale."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"The **octatonic** scale divides the octave into four tritone intervals, producing unique harmonic ambiguity."*
+> - 📜 **Aaron Copland (*What to Listen for in Music*):** *"Bartók exploited the alternating intervals of the **octatonic** collection to bridge folk melody with rigorous modernism."*

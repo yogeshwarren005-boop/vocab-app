@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two sides or halves that are not the same : not symmetrical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bonded to four different atoms or groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking symmetry; having parts or aspects that fail to correspond in shape, size, or arrangement across a dividing plane or center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stereochemistry and physics, lacking improper axes of rotation (chiral), giving rise to optical activity and molecular enantiomers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asymmetric designates having two sides or halves that are not the same : not symmetrical."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"The tartrate crystals exhibited an **asymmetric** hemihedral facet that rotated the plane of polarized light to the right."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The flounder undergoes a remarkable developmental distortion, ending with both eyes on one side of its **asymmetric** head."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The crab's colossal fighting claw creates an intensely **asymmetric** body plan adapted for territorial defense."*

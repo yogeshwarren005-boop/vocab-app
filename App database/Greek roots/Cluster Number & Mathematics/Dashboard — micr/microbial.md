@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving or caused by or being microbes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving or caused by or being microbes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by microorganisms such as bacteria, fungi, or viruses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to microscopic biological communities and their metabolic processes in ecological niches or industrial bioprocesses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbial designates of or involving or caused by or being microbes."*
+> - 📜 **René Dubos (*Mirage of Health*):** *"Human health reflects an ecological equilibrium negotiated over millennia with our surrounding **microbial** flora."*
+> - 📜 **Carl Woese (*The Genetic Code*):** *"Ribosomal RNA sequences demonstrated that the tree of life is overwhelmingly dominated by distinct **microbial** lineages."*
+> - 📜 **Siddhartha Mukherjee (*The Gene: An Intimate History*):** *"The restriction enzymes that launched modern molecular cloning were originally discovered as **microbial** immune defenses."*

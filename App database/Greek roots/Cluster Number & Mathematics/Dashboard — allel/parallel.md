@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending in the same direction, everywhere equidistant, and not meeting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Everywhere equally distant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending in the same direction, equidistant at all points, and never converging or diverging, however far extended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a reciprocal correspondence, striking resemblance, or analogous course in structure, history, or development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, behold this ring, Whose high respect and rich validity Did lack a parallel; yet for all that He gave it to a commoner o’ the camp, If I be one."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When once he was mature for man, In Britain where was he That could stand up his parallel, Or fruitful object be In eye of Imogen, that best Could deem his dignity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My young remembrance cannot parallel A fellow to it."*
+> - 📜 **Euclid (*Elements*):** *"**Parallel** straight lines are straight lines which, being in the same plane and being produced indefinitely in both directions, do not meet one another."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The rays of sunlight, entering through the small pinhole, proceeded in strictly **parallel** trajectories toward the glass prism."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"There is a profound **parallel** between the physical laws of nature and the moral intuitions of the human spirit."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who promotes or exchanges goods or services for money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who promotes or exchanges goods or services for money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who deals or trades in something illegally, such as illicit drugs, weapons, or human beings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history, an archaic term for a merchant, trader, or commercial broker engaged in long-distance maritime barter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"No, "where is the likeness between the philosopher and the Christian? the disciple of Greece and of heaven? the trafficker in fame and in life? the friend and the foe of error?" (c. 46). {336} The Christian artisan knows God better than Plato did."*
+> - 📜 **Daniel Defoe (*Captain Singleton*):** *"He was a shrewd and unscrupulous **trafficker**, bargaining with coastal chieftains for ivory and gold dust."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The Malay **trafficker** unloaded bags of copra and rattan under the watchful eye of the harbor police."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The old buccaneer lived like a seasoned **trafficker** of illicit goods, suspicious of every sail that docked."*

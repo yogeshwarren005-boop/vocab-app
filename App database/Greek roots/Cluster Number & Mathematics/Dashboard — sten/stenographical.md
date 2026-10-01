@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or employing stenography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or employing stenography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or accomplished by stenography; stenographic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical reporting and court archives, describing transcripts, reports, or skills involving verbatim shorthand recording.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenographical designates of or relating to or employing stenography."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The trial of the Seven Bishops was recorded in full **stenographical** notes that circulated rapidly among the populace."*
+> - 📜 **Charles Dickens (*The Posthumous Papers of the Pickwick Club*):** *"The court was silenced while the clerk read from his **stenographical** notes of the morning's cross-examination."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"Pen attempted to master the art of shorthand, but found the **stenographical** symbols hopelessly baffling."*

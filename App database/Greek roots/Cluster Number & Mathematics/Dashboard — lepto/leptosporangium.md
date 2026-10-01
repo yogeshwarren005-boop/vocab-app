@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek speir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of sporangium in ferns that originates from a single surface cell, possesses a slender stalk, and has a wall only one cell thick.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and morphology, the specialized spore-producing capsule of modern ferns equipped with an annulus that tears open at the stomium to release spores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptosporangium designates a term designating an entity, condition, or phenomenon derived from greek speir."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The delicate **leptosporangium** represents an advanced evolutionary specialization for high-efficiency spore dispersal."*
+> - 📜 **Asa Gray (*First Lessons in Botany and Vegetable Physiology*):** *"Under the lens, each **leptosporangium** appears as a tiny brown capsule ringed by elastic, hygroscopic cells."*
+> - 📜 **Karl von Goebel (*Organography of Plants*):** *"Desiccation of the annulus cells creates negative tension within the **leptosporangium**, culminating in a sudden catapult release."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ennea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nine-electrode thermionic vacuum tube containing a cathode, anode, and seven intermediate grids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical electronics and radio engineering, a specialized multi-grid tube (nonode) designed for complex frequency conversion or pulse gating circuits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enneode designates a term designating an entity, condition, or phenomenon derived from greek ennea."*
+> - 📜 **Frederick Terman (*Radio Engineering*):** *"The multi-grid **enneode** provided exceptional shielding between input and mixer stages in specialized radar receivers."*
+> - 📜 **Lee de Forest (*Father of Radio: The Autobiography of Lee de Forest*):** *"From my simple three-electrode Audion, engineers gradually developed intricate tubes such as the **enneode** with seven grids."*
+> - 📜 **Hendrik van der Bijl (*The Thermionic Vacuum Tube*):** *"In high-frequency modulation circuits, an **enneode** combines the functions of several conventional triodes into a single envelope."*

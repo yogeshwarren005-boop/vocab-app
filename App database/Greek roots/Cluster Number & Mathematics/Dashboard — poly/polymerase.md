@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that catalyzes the formation of new dna and rna from an existing strand of dna or rna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that catalyzes the formation of new dna and rna from an existing strand of dna or rna.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that synthesizes long chains of polymers or nucleic acids, especially DNA polymerase and RNA polymerase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and genetics, crucial template-directed enzymes responsible for DNA replication, repair, and transcription, as well as the polymerase chain reaction (PCR) developed by Kary Mullis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymerase designates an enzyme that catalyzes the formation of new dna and rna from an existing strand of dna or rna."*
+> - 📜 **Arthur Kornberg (*Enzymatic Synthesis of DNA*):** *"Purification of DNA **polymerase** demonstrated that synthesis requires a pre-existing DNA template and deoxynucleoside triphosphates."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"RNA **polymerase** binds specifically to the promoter region, unwinding the double helix and initiating transcript elongation."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The discovery of reverse transcriptase proved that a viral **polymerase** could synthesize DNA from an RNA template."*

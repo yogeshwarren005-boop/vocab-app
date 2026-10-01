@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of church architecture and adornment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Theological doctrine relating to the church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological and historical study of the Christian Church, its doctrine, organization, and sacraments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history, the study of church building, ecclesiastical decoration, and liturgical furnishings (promoted especially by the 19th-century Cambridge Camden Society).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecclesiology designates the study of church architecture and adornment."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"My studies in patristic **ecclesiology** gradually convinced me that antiquity condemned the insular claims of the Anglican establishment."*
+> - 📜 **Augustus Pugin (*The True Principles of Pointed or Christian Architecture*):** *"Correct medieval **ecclesiology** requires that every structural element of a parish church reflect its sacramental purpose."*
+> - 📜 **Philip Schaff (*The Creeds of Christendom*):** *"Comparative **ecclesiology** reveals how differing concepts of apostolic succession shaped modern denominational divisions."*

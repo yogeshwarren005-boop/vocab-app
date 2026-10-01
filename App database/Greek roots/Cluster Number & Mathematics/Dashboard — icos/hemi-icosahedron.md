@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek icos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstract regular polyhedron possessing ten triangular faces, representing half of a regular icosahedron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In topological geometry and Coxeter's polytope theory, a non-orientable projective polyhedron obtained by identifying antipodal vertices, edges, and faces of the Platonic icosahedron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemi-icosahedron designates a term designating an entity, condition, or phenomenon derived from greek icos."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"The **hemi-icosahedron** is an abstract regular polyhedron of type {3,5}/2 consisting of ten faces in the projective plane."*
+> - 📜 **Felix Klein (*Lectures on the Icosahedron*):** *"Antipodal identification of the twenty triangular faces of the icosahedron yields the symmetric ten-faced **hemi-icosahedron**."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"In projective space, the topological configuration of the **hemi-icosahedron** displays remarkable group-theoretic properties."*

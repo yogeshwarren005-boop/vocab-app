@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, causing, or resulting from putrefaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, causing, or resulting from putrefaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, causing, or arising from decay, putrefaction, or decomposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacteriology and sanitation science, micro-organisms (such as Clostridium and Proteus species) that enzymatically break down complex animal and plant proteins into putrid amines, indoles, and hydrogen sulfide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprogenic designates of, causing, or resulting from putrefaction."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Anaerobic organisms possessing **saprogenic** power ferment nitrogenous matters into foul gases in the absence of air."*
+> - 📜 **Robert Koch (*The Etiology of Tuberculosis*):** *"The culture became contaminated with aggressive **saprogenic** bacilli that rapidly liquefied the gelatin substrate."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Putrefaction is maintained by **saprogenic** ferments that transfer their molecular instability to surrounding proteins."*

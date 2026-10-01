@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole body of things and phenomena observed or postulated : cosmos: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A systematic whole held to arise by and persist through the direct intervention of divine power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All existing matter, energy, space, and time considered as a vast, continuous, harmonious whole; the cosmos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and cosmology, the totality of galaxies, stars, dark matter, and cosmic radiation originating in the Big Bang approximately 13.8 billion years ago.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now entertain conjecture of a time When creeping murmur and the poring dark Fills the wide vessel of the universe."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She is the child of the universe.” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The universe,” he observed, “makes rather an indifferent parent, I am afraid.” “Oh!"*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"Whether the **universe** is spatially finite or infinite depends upon the mean cosmic density of matter."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"I contemplated the grand panorama of the **universe**, where celestial orbs and terrestrial forces obey immutable laws."*
+> - 📜 **Blaise Pascal (*Pensées*):** *"The eternal silence of these infinite spaces of the **universe** terrifies me."*

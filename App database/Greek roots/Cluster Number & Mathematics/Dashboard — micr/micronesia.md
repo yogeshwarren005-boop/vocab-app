@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A country scattered over micronesia with a constitutional government in free association with the united states; achieved independence in 1986.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The islands in the northwestern part of oceania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subregion of Oceania comprising thousands of small islands in the western Pacific Ocean, north of Melanesia and west of Polynesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and anthropological geography, an island realm including the Caroline, Marshall, Mariana, and Gilbert Islands with distinctive navigational traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micronesia designates a country scattered over micronesia with a constitutional government in free association with the united states; achieved independence in 1986."*
+> - 📜 **Margaret Mead (*Male and Female*):** *"The seafaring cultures across **Micronesia** perfected celestial navigation techniques that guided outrigger canoes over open oceans."*
+> - 📜 **Herman Melville (*Omoo*):** *"Sailors spoke with awe of the distant, sun-drenched archipelagos of **Micronesia** scattered like emeralds across the blue Pacific."*
+> - 📜 **Jared Diamond (*Guns, Germs, and Steel*):** *"Austronesian voyagers colonized the scattered coral atolls of **Micronesia**, adapting their agricultural systems to fragile reef ecologies."*

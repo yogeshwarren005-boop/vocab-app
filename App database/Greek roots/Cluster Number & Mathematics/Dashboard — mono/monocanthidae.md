@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filefishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filefishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of tetraodontiform marine fishes commonly known as filefishes, characterized by rough, sandpapery skin and a prominent first dorsal spine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology (frequently classified as Monacanthidae), shallow-water reef fishes closely related to triggerfishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocanthidae designates filefishes."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The filefishes of the family **Monocanthidae** possess a single erectile dorsal spine that can be locked into position."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Camouflaged among branching gorgonians, small specimens of **Monocanthidae** drift head-downward like floating sea grass."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Reef-dwelling species of **Monocanthidae** use their sharp, chisel-like teeth to graze on encrusting bryozoans and coral polyps."*

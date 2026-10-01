@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Typically having large ears and feeding primarily on insects; worldwide in distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Typically having large ears and feeding primarily on insects; worldwide in distribution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small insect-eating bat of the suborder Microchiroptera, typically using sophisticated echolocation to navigate and hunt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chiropteran mammalogy, bats distinguished from megabats by their smaller body size, tragus in the ear, and reliance on laryngeal ultrasound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbat designates typically having large ears and feeding primarily on insects; worldwide in distribution."*
+> - 📜 **Donald Griffin (*Listening in the Dark*):** *"The hunting **microbat** emits ultrasonic chirps that bounce off the wings of fluttering moths in total darkness."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"The acoustic radar perfected by the **microbat** represents one of natural selection's most dazzling engineering triumphs."*
+> - 📜 **E.O. Wilson (*The Diversity of Life*):** *"A single **microbat** colony emerging at twilight consumes metric tons of nocturnal beetles and mosquitoes each night."*

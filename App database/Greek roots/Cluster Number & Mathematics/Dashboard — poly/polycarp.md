@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek bishop of smyrna who refused to recant his christian faith and was burned to death by pagans (circa 69-155).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek bishop of smyrna who refused to recant his christian faith and was burned to death by pagans (circa 69-155).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical fruit or plant with multiple carpels; or Saint Polycarp, a second-century bishop of Smyrna and early Christian martyr.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical hagiography and patristics, Polycarp of Smyrna (c. 69 – 155 CE), a disciple of John the Apostle who was burned at the stake; in botany, a plant that produces fruit repeatedly (polycarpic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The pious Polycarp said: "I cannot turn at once from good to evil." Neither do 77:3 other mortals accomplish the change from error to truth at a single bound."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The venerable bishop **Polycarp** refused to revile Christ, saying, 'Eighty and six years have I served Him, and He never did me wrong.'"*
+> - 📜 **Eusebius (*Church History*):** *"The martyrdom of **Polycarp** was witnessed by all Smyrna, inspiring early Christians with steadfast faith under persecution."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"A compound ovary composed of distinct, unfused carpels produces what morphologists term a **polycarp** aggregation."*

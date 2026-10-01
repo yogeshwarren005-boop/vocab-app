@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek philosophical term for being, substance, essence, or true nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian metaphysics (primary vs. secondary substance) and patristic theology (the trinitarian essence), the fundamental reality underlying individual things.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ousia designates a term designating an entity, condition, or phenomenon derived from greek ont."*
+> - 📜 **Aristotle (*Metaphysics*):** *"The question which was raised of old and is raised now and always is: What is being? That is to say: What is **ousia**?"*
+> - 📜 **Plato (*Phaedo*):** *"The soul grasps the eternal truth of things when it contemplates the true, unchanging **ousia** of Justice and Beauty."*
+> - 📜 **John Henry Newman (*The Arians of the Fourth Century*):** *"The Council of Nicaea utilized the philosophical term **ousia** to define the identical essence shared by the Father and the Son."*

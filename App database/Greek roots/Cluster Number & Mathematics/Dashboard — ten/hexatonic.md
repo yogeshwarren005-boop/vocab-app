@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stretch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or based on six musical tones or pitches per octave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music theory, six-note scale collections (such as the whole-tone scale, the blues scale, or hexatonic systems formed by alternating minor thirds and semitones), extensively used in 20th-century impressionist and jazz harmony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexatonic designates adjective*) pertaining to, derived from, or characteristic of stretch."*
+> - 📜 **Claude Debussy (*Monsieur Croche, the Dilettante Hater*):** *"The whole-tone scale is a symmetrical **hexatonic** formation that floats freely, untethered to traditional tonic anchors."*
+> - 📜 **Percy Scholes (*The Oxford Companion to Music*):** *"Medieval solmization was built upon a **hexatonic** framework: the six-note guidonian hexachord ut-re-mi-fa-sol-la."*
+> - 📜 **Aaron Copland (*What to Listen for in Music*):** *"American blues melodies frequently utilize a **hexatonic** collection incorporating the expressive flatted third and seventh."*

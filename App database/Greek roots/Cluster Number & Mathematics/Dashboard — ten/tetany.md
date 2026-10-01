@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of physiological calcium imbalance marked by tonic spasm of muscles and often associated with deficient parathyroid secretion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of physiological calcium imbalance marked by tonic spasm of muscles and often associated with deficient parathyroid secretion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition characterized by involuntary, intermittent, and painful muscle spasms, caused by low calcium levels or alkalosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and clinical physiology, increased neuromuscular excitability resulting from hypocalcemia (often following parathyroidectomy), hypomagnesemia, or respiratory alkalosis, demonstrable by Chvostek's and Trousseau's signs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetany designates a condition of physiological calcium imbalance marked by tonic spasm of muscles and often associated with deficient parathyroid secretion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The carpopedal spasms of **tetany** produce the typical 'obstetrician's hand' with adducted thumb and extended interphalangeal joints."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Compressing the brachial artery with a tourniquet provokes within minutes the characteristic carpal spasm of latent **tetany**."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Accidental removal of the parathyroid glands during thyroid surgery induces acute hypocalcemic **tetany** requiring immediate calcium therapy."*

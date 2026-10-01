@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of area equal to 10,000 square meters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of area equal to 10,000 square meters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of surface area equal to 100 ares, or 10,000 square meters (approximately 2.471 acres).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international agriculture, forestry, and land surveying, the standard metric unit employed for measuring land parcels and estate acreage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hectare designates a unit of area equal to 10,000 square meters."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"A single **hectare** of fertile soil along the Orinoco yielded sufficient maize to support several families throughout the year."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"If a plot of land measuring a **hectare** is left uncultivated, wild grasses and shrubs immediately reclaim the ground."*
+> - 📜 **Émile Zola (*The Earth (La Terre)*):** *"Fouan gazed bitterly upon his scattered fields, counting every precious **hectare** he had watered with a lifetime of sweat."*

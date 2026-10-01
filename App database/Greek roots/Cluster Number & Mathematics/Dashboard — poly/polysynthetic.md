@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of the.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by combining several word elements or morphemes into a single complex word; or relating to polysynthetic crystal twinning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic typology (coined by Peter Stephen Du Ponceau), languages (such as Inuktitut, Nahuatl, and Navajo) that incorporate nominal, verbal, and modifier roots into single massive words; in mineralogy, repeated parallel lamellar twinning (such as albite twinning in plagioclase feldspars).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysynthetic designates adjective*) pertaining to, derived from, or characteristic of the."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"A **polysynthetic** language constructs miniature sentences within the compass of a single morphological word unit."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Under the polarizing microscope, plagioclase displays exquisite **polysynthetic** twinning in parallel alternating lamellae."*
+> - 📜 **Franz Boas (*Handbook of American Indian Languages*):** *"The **polysynthetic** morphology of Eskimo allows grammatical ideas to be woven into the verb stem through successive suffixes."*

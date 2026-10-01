@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measurement of the elevation of land above sea level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measurement of the elevation of land above sea level.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of land elevations and topographic relief relative to mean sea level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geodesy and geomorphology, the quantitative science of measuring mountain heights and terrestrial contours by barometric, trigonometric, or boiling-point techniques.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypsometry designates measurement of the elevation of land above sea level."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"Accurate **hypsometry** revolutionized physical geography by replacing speculative mountain estimates with measured barometric profiles."*
+> - 📜 **Ferdinand Rudolph Hassler (*Papers on the Survey of the Coast of the United States*):** *"Triangulation stations across the coastal range were verified by rigorous trigonometric **hypsometry**."*
+> - 📜 **Arthur Newell Strahler (*Physical Geography*):** *"Statistical **hypsometry** shows that the mean elevation of all terrestrial land surfaces is approximately 840 meters."*

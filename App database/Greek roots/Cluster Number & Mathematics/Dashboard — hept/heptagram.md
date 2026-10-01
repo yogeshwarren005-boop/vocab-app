@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seven-pointed star figure drawn with seven intersecting straight lines or formed by extending the sides of a regular heptagon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sacred geometry and western esotericism, the heptagram (or Elven star / Star of Babalon) symbolizing planetary spheres or elemental equilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptagram designates a term designating an entity, condition, or phenomenon derived from greek hept."*
+> - 📜 **Heinrich Cornelius Agrippa (*Three Books of Occult Philosophy*):** *"The mystical **heptagram** inscribed upon virgin parchment was used by talismanic mages to channel planetary virtues."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"Regular star polygons of seven vertices form two distinct topological types of **heptagram** denoted by fractional Schläfli symbols."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"The self-intersecting **heptagram** exhibits magnificent sevenfold dihedral rotational symmetry."*

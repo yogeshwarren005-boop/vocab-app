@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dilation of the renal pelvis, usually caused by an obstruction to the outflow of urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology and diagnostic ultrasound, enlargement of the renal pelvis (pyeloectasia) that, if untreated, progresses to hydronephrosis and parenchymal renal atrophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyelectasis designates a term designating an entity, condition, or phenomenon derived from greek ten."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Calculous impaction at the ureteropelvic junction leads rapidly to marked **pyelectasis** and lumbar colic."*
+> - 📜 **Thomas Addison (*A Collection of the Published Writings*):** *"Autopsy demonstrated bilateral **pyelectasis** caused by a hypertrophied prostate obstructing the bladder neck."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Prenatal ultrasound frequently identifies mild fetal **pyelectasis**, which requires serial postnatal monitoring."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amazon ants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amazon ants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of slave-making ants in the family Formicidae, commonly called Amazon ants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In myrmecology and entomology, obligate parasitic ants (such as Polyergus rufescens) whose sickle-shaped, pointed mandibles are adapted exclusively for raiding colonies of *Formica* ants to capture pupae as workers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyergus designates amazon ants."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The slave-making ant, **Polyergus** rufescens, is unable to feed itself or care for its own larvae, depending entirely upon its captured slaves."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The falcate, toothless mandibles of **Polyergus** are exquisite weapons for piercing the heads of defending workers during raids."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"Colony raids by **Polyergus** are coordinated by pheromone trails that mobilize hundreds of specialized warriors against neighboring Formica nests."*

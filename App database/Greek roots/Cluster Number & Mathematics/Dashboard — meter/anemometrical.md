@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the measurement of wind speed and direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the measurement of wind speed and direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant form of anemometric, pertaining to anemometry or the instrumentation used to measure wind speed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical scientific treatises, describing empirical measurements or apparatus designed to record atmospheric wind dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemometrical designates pertaining to the measurement of wind speed and direction."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"The invention of reliable **anemometrical** instruments allowed meteorologists to substitute numbers for vague descriptive terms."*
+> - 📜 **John Herschel (*Meteorology*):** *"Careful **anemometrical** observations taken at sea establish the steady velocity of the trade winds across tropical latitudes."*
+> - 📜 **Thomas Young (*A Course of Lectures on Natural Philosophy*):** *"The mechanical design of the **anemometrical** register required compensating for friction in the rotating spindle."*

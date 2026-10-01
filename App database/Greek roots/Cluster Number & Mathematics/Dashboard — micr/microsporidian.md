@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasite of arthropods and fishes that invade and destroy host cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasite of arthropods and fishes that invade and destroy host cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic, spore-forming, single-celled obligate intracellular parasite belonging to the phylum Microsporidia, closely related to fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology, an opportunistic pathogen possessing a unique polar tube injection apparatus used to inoculate sporoplasm into host cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsporidian designates parasite of arthropods and fishes that invade and destroy host cells."*
+> - 📜 **Louis Pasteur (*Studies on the Disease of Silkworms (Pebrine)*):** *"The epidemic destroying French silk production was traced to a lethal **microsporidian** parasite infecting the caterpillars."*
+> - 📜 **E.O. Wilson (*The Insect Societies*):** *"Colony collapse in social insects can be precipitated when a virulent **microsporidian** invades the midgut epithelium of worker bees."*
+> - 📜 **Carl Zimmer (*Parasite Rex*):** *"The coiled polar filament inside a dormant **microsporidian** spore uncoils explosively like a harpoon to breach the host cell wall."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arithm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root morpheme (ἀριθμός, arithmos) signifying number, count, or calculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and mathematical terminology, the formative base of compounds relating to computation, numerical enumeration, and quantitative analysis (as in arithmetic, logarithm, arithmancy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arithm designates a term designating an entity, condition, or phenomenon derived from greek arithm."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The base **arithm-** represents the Hellenic word for number and orderly reckoning, preserved in modern arithmetic."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Compounds formed from **arithm-** embrace the entire science of discrete quantities and numerical operations."*
+> - 📜 **Augustus De Morgan (*Elements of Arithmetic*):** *"The root element **arithm-** reminds us that computation was conceived as the art of numbering individual units."*

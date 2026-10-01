@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ontology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to ontology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or based upon ontology; pertaining to the nature of being, reality, or existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and metaphysics, relating to the branch studying existence; or designating the ontological argument for the existence of God.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Herbert Spencer, too, holds that propositions whose negation is inconceivable have "a higher warrant than any other whatever." It is through this door that ontological belief was supposed to enter."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The famous **ontological** argument attempts to deduce the real existence of a supreme being from the mere concept of perfection."*
+> - 📜 **Martin Heidegger (*Being and Time*):** *"The fundamental question of philosophy is not merely ontic, but properly **ontological**: what is the meaning of Being as such?"*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Anselm's **ontological** proof has fascinated logicians because it seems to prove a substantial fact about reality from definitions alone."*

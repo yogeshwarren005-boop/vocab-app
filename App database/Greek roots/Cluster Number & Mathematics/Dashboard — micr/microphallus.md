@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally small penis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally small penis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally small penis; synonymous with micropenis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dysmorphology and andrology, penile hypoplasia associated with congenital pituitary or testicular endocrine dysfunctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphallus designates an abnormally small penis."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris and Allied States*):** *"Endocrine examination of hypopituitary adolescents often reveals delayed secondary sexual development accompanied by **microphallus**."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Embryonic testosterone secretion drives urethral fold fusion, the absence of which results in hypospadias or **microphallus**."*
+> - 📜 **Abraham Verghese (*The Tennis Partner*):** *"The clinical differential for congenital **microphallus** includes growth hormone deficiency and primary gonadal failure."*

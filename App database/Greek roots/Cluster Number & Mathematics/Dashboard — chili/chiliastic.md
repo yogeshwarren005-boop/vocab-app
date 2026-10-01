@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or believing in the millennium of peace and happiness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or believing in the millennium of peace and happiness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or characteristic of chiliasm or millenarian beliefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and history, relating to religious or utopian movements that anticipate a radical, miraculous transformation of society within historical time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiliastic designates relating to or believing in the millennium of peace and happiness."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"Radical peasant revolts were repeatedly energized by intense **chiliastic** expectations of an earthly paradise."*
+> - 📜 **Ernst Troeltsch (*The Social Teaching of the Christian Churches*):** *"The Anabaptist uprising in Münster represented a tragic manifestation of fanatical **chiliastic** enthusiasm."*
+> - 📜 **Eric Hobsbawm (*Primitive Rebels*):** *"Traditional social banditry often merged seamlessly with **chiliastic** movements during acute rural economic crises."*

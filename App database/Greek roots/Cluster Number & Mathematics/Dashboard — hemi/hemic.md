@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing or affecting blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing or affecting blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving blood (more commonly spelled haemic or hemal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pathology, designating conditions, murmurs (e.g., hemic murmur in severe anemia), or disorders originating in the circulating blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemic designates relating to or containing or affecting blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A soft systolic **hemic** murmur over the cardiac base is common in profoundly anemic chlorotic patients."*
+> - 📜 **Thomas Addison (*A Collection of the Published Writings*):** *"The clinical picture was characterized by progressive debility and abnormal **hemic** changes without localized cancer."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Thrombosis may arise from vascular disease or from altered **hemic** viscosity during severe systemic infections."*

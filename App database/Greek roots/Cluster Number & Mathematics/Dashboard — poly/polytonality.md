@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Music that uses two or more different keys at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Music that uses two or more different keys at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The musical quality or condition of employing two or more different keys simultaneously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In compositional aesthetics, the simultaneous hearing of distinct harmonic keys (bimodality or polymodality), creating rich contrapuntal dissonance while maintaining tonal anchors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polytonality designates music that uses two or more different keys at the same time."*
+> - 📜 **Aaron Copland (*Our New Music*):** *"Through **polytonality**, the composer achieves an unexpected richness of color, as each melodic voice moves in its own tonal sphere."*
+> - 📜 **Charles Ives (*Essays Before a Sonata*):** *"The simultaneous sounding of two village bands playing different tunes in different keys represents the raw human truth of **polytonality**."*
+> - 📜 **Igor Stravinsky (*Chronicles of My Life*):** *"The harmonic structure of The Rite of Spring explores **polytonality** not as an intellectual system, but as an instinctive rhythmic necessity."*

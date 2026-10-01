@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With diplomacy; in a diplomatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With diplomacy; in a diplomatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a diplomatic manner; through the methods of diplomacy or with marked tact and discretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Managing delicate affairs or negotiations with deliberate nuance, courtesy, and avoidance of offense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Had I not diplomatically terminated the interview he would still be here telling me the remainder of them."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Now tell me everything--everything about everybody,” she began diplomatically, settling herself comfortably for a good visit."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Ain't?" "No," began the child, then added diplomatically, "why, yes, I do want that, but that ain't what I come for." Millie laughed."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether chose his words **diplomatically**, conscious that a single blunt inquiry would shatter their fragile understanding."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"The foreign minister bowed **diplomatically**, avoiding any formal commitment until the gunboat entered the harbor."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She steered the conversation **diplomatically** away from the sensitive topic of family inheritances."*

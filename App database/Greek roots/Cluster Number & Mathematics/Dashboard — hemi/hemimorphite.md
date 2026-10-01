@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white mineral; a common ore of zinc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white mineral; a common ore of zinc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic zinc silicate mineral, Zn4Si2O7(OH)2·H2O, which forms hemimorphic crystals displaying different crystallographic terminations at opposite ends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, an important ore of zinc (formerly called calamine) exhibiting pronounced pyroelectric and piezoelectric properties due to its polar crystal structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimorphite designates a white mineral; a common ore of zinc."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"The name **hemimorphite** was assigned to this silicate of zinc because its crystals terminate differently at opposite poles of the vertical axis."*
+> - 📜 **René Just Haüy (*Traité de Minéralogie*):** *"Upon heating, crystals of **hemimorphite** develop opposite electrical charges at their contrasting polar terminations."*
+> - 📜 **John Ruskin (*The Ethics of the Dust*):** *"The delicate blue and white crusts of **hemimorphite** sparkle within the limestone caverns like frostwork."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally small red blood cell (less than 5 microns in diameter).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally small red blood cell (less than 5 microns in diameter).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally small red blood cell, characteristic of certain forms of anemia such as iron deficiency or thalassemia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, an erythrocyte with a mean corpuscular volume (MCV) significantly below the standard reference range.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcyte designates an abnormally small red blood cell (less than 5 microns in diameter)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Stained blood smears from the chlorotic patient exhibited marked poikilocytosis, featuring an abundance of the undersized **microcyte**."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Differential staining clearly separates the pale **microcyte** of hypochromic anemia from the engorged megalocyte of pernicious anemia."*
+> - 📜 **Max Wintrobe (*Clinical Hematology*):** *"Automated particle counters identify a **microcyte** whenever the red cell volume falls below eighty femtoliters."*

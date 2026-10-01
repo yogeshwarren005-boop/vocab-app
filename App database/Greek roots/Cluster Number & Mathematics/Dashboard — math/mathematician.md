@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in mathematics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person skilled in mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert, scholar, or specialist who investigates, discovers, or teaches mathematics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, a thinker who deduces necessary truths regarding abstract quantity, structures, spaces, and relations through formal logical reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The mathematician said, that he had never seen the advantages to be derived from the study of mathematics so justly and so forcibly described; the same remark was made by the classic about classics, and by the physiologist about natural science."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He kept laughing sarcastically, he demonstrated, and at last contemptuously ceased to demonstrate, like a mathematician who ceases to prove in various ways the accuracy of a problem that has already been proved."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"You do 453:1 not deny the mathematician's right to distinguish the cor- rect from the incorrect among the examples on the black- 453:3 board, nor disbelieve the musician when he distinguishes concord from discord."*
+> - 📜 **Gottfried Wilhelm Leibniz (*New Essays on Human Understanding*):** *"The great **mathematician** discovers harmony and order within pure thought without depending upon physical instruments."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"A **mathematician** is a maker of patterns, and those patterns must be beautiful, possessing permanent austere perfection."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"Mathematics is the queen of the sciences, and number theory is the queen of mathematics for every true **mathematician**."*

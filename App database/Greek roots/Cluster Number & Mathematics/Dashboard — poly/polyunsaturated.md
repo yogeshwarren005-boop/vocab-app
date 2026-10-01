@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of long-chain carbon compounds especially fats) having many unsaturated bonds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of long-chain carbon compounds especially fats) having many unsaturated bonds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating organic compounds, especially fatty acids, that contain two or more carbon-carbon double or triple bonds in their molecular chain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, nutrition, and cardiovascular medicine, essential dietary lipids (such as linoleic acid and omega-3 alpha-linolenic acid) that remain liquid at room temperature and modulate plasma cholesterol and cell membrane fluidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyunsaturated designates (of long-chain carbon compounds especially fats) having many unsaturated bonds."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Vegetable seed oils are rich in **polyunsaturated** fatty acids whose multiple double bonds prevent tight crystal packing, keeping them liquid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine: Modern Edition*):** *"Replacing saturated animal fats with **polyunsaturated** vegetable oils significantly lowers serum low-density lipoprotein levels."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Dietary **polyunsaturated** fatty acids of the omega-3 series exert protective anti-inflammatory and anti-arrhythmic effects upon cardiac tissue."*

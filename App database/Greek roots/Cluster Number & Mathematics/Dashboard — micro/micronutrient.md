@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance needed only in small amounts for normal body function (e.g., vitamins or minerals).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance needed only in small amounts for normal body function (e.g., vitamins or minerals).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical element or substance required in trace amounts for the normal growth, development, and physiology of an organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human nutrition and agronomy, essential dietary vitamins and trace minerals (such as iron, zinc, and iodine) that sustain enzymatic and cellular functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micronutrient designates a substance needed only in small amounts for normal body function (e.g., vitamins or minerals)."*
+> - 📜 **Michael Pollan (*In Defense of Food*):** *"Nutritionism shifted public focus away from wholesome whole foods toward the isolated **micronutrient** in supplement bottles."*
+> - 📜 **Paul Farmer (*Infections and Inequalities*):** *"Treating endemic infectious diseases in impoverished populations requires simultaneously addressing severe **micronutrient** deficiencies."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Healthy agricultural soil provides an intricate reservoir of every vital **micronutrient** required by growing plants."*

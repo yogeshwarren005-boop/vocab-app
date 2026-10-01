@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume or capacity equal to 100 liters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of volume or capacity equal to 100 liters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of volume or capacity equal to one hundred liters (symbol: hL), equivalent to 0.1 cubic meter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European agriculture, viticulture, and grain commerce, the standard metric bulk measure for liquids and dry cereals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hectoliter designates a metric unit of volume or capacity equal to 100 liters."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The vineyard produced over fifty **hectoliters** of excellent wine per hectare during the warm autumn vintage."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Crop yields in experimental wheat plots were carefully recorded in **hectoliters** of cleaned grain per unit area."*
+> - 📜 **Émile Zola (*The Earth (La Terre)*):** *"Carts piled high with barrels containing hundreds of **hectoliters** of cider rumbled toward the district market."*

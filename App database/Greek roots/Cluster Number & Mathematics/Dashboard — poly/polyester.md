@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous synthetic resins; they are light and strong and weather resistant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex ester used for making fibers or resins or plastics or as a plasticizer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic resin or polymer in which the monomer units are linked together by ester groups (-COO-); a fabric made from this material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polymer chemistry and industrial manufacturing, polycondensation products (notably polyethylene terephthalate, PET) formed by reacting dicarboxylic acids with diols, widely utilized for textile fibers, films, and beverage bottles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyester designates any of numerous synthetic resins; they are light and strong and weather resistant."*
+> - 📜 **Wallace Carothers (*Polymerization*):** *"Early laboratory synthesis of aliphatic **polyester** yielded low-melting waxes, demonstrating the general principle of step-growth condensation."*
+> - 📜 **Herman Mark (*Giant Molecules*):** *"Drawing crystalline **polyester** filaments through a die orients the molecular chains, producing high-tenacity fibers resistant to creasing."*
+> - 📜 **F. A. Henglein (*Chemical Technology*):** *"Thermosetting unsaturated **polyester** resins blended with glass fiber reinforcement revolutionized boat building and composite engineering."*

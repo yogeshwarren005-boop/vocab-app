@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to microsomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to microsomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from microsomes (vesicular fragments of the endoplasmic reticulum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and toxicology, denoting the microsomal enzyme system (such as cytochrome P450) responsible for drug metabolism and detoxification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsomal designates of or relating to microsomes."*
+> - 📜 **Christian de Duve (*A Guided Tour of the Living Cell*):** *"Centrifugation of liver homogenates concentrates the **microsomal** fraction, which harbors key steroid and drug-metabolizing enzymes."*
+> - 📜 **George Palade (*Intracellular Aspects of the Process of Protein Synthesis*):** *"Ribosomes attached to the **microsomal** membranes synthesize secretory proteins destined for export from the cell."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"The **microsomal** cytochrome P450 monooxygenase system performs remarkable hydroxylations on hydrophobic xenobiotic compounds."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The two inner, delicate, vascular membranes enveloping the brain and spinal cord: the arachnoid mater and the pia mater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and pathology, the delicate meningeal coverings enclosing the subarachnoid space containing cerebrospinal fluid, distinguished from the pachymeninx (dura mater).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptomeninges designates a term designating an entity, condition, or phenomenon derived from greek mening."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Purulent exudates in acute bacterial meningitis accumulate primarily within the subarachnoid meshwork of the **leptomeninges**."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Cerebrospinal fluid circulates smoothly between the delicate trabeculae connecting the two layers of the **leptomeninges**."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Syphilitic inflammation of the **leptomeninges** frequently compromises emerging cranial nerve roots at the base of the brain."*

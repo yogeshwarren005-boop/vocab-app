@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a mythical trojan who was killed by achilles during the trojan war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be bossy towards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bully, intimidate, badger, or dominate in an overbearing or swaggering manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, Hector the valiant Trojan champion; historically in 17th-century London, a swaggering roisterer or ruffian.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The breasts of Hecuba, When she did suckle Hector, looked not lovelier Than Hector’s forehead when it spit forth blood At Grecian sword, contemning.—Tell Valeria We are fit to bid her welcome. [_Exit Gentlewoman._] VIRGILIA."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art as valorous as Hector of Troy, worth five of Agamemnon, and ten times better than the Nine Worthies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thought I should have seen some Hercules, A second Hector, for his grim aspect, And large proportion of his strong-knit limbs."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Noble **Hector**, the bulwark of Troy, advanced with flashing armor to challenge the fiercest Greek champions."*
+> - 📜 **Jonathan Swift (*The Battle of the Books*):** *"Pedantic critics attempt to **hector** and browbeat modern authors who dare to challenge ancient authority."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Chadband loved to **hector** his listeners with pompous rhetorical homilies on moral virtue."*

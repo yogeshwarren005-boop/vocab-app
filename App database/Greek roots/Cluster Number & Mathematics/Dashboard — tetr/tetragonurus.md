@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of stromateidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of stromateidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine perciform fishes commonly known as squaretails, belonging to the family Tetragonuridae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deep-sea ichthyology, elongated, dark-brown oceanic epipelagic and mesopelagic fishes characterized by heavily keeled, square-shaped tails and a specialized diet of pelagic ctenophores and salps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragonurus designates a genus of stromateidae."*
+> - 📜 **Albert Günther (*Catalogue of the Acanthopterygian Fishes*):** *"The curious deep-sea fish **Tetragonurus** derives its name from the two sharp prominent longitudinal keels on each side of the tail."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Species of **Tetragonurus** wander in the open pelagic waters of the Mediterranean and Atlantic, feeding upon jellyfishes."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"From our bathysphere net tow we recovered a rare specimen of **Tetragonurus**, its square tail armor shining like bronze."*

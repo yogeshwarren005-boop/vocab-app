@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of less.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of less.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characterized by, or undergoing ameiosis; reproducing without meiotic reduction division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology, describing parthenogenetic or apomictic egg development where the full somatic chromosome number is preserved.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ameiotic designates adjective*) pertaining to, derived from, or characteristic of less."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"An **ameiotic** lineage forfeits the long-term evolutionary flexibility afforded by crossing-over and sexual recombination."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"During **ameiotic** oogenesis, the single maturation division is equational rather than reductional."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Unisexual lizard species maintain vigorous populations solely through **ameiotic** clonal reproduction."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of the voice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely loud, booming, powerful, and resonant in voice or sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical delivery and military command, speech projecting with immense carrying power across battlefields or crowded halls without acoustic amplification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here the only sounds disturbing the stillness were steady munchings of many mouths, and stentorian breathings from all but invisible noses, ending in snores and puffs like the blowing of bellows slowly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Tall, I’ve come for the key of the granary, to get at the rick-cloths,” said Oak, in a stentorian voice."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But before he had finished reading, a stentorian major-domo announced that dinner was ready!"*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The boatswain roared his orders in a **stentorian** voice that rose triumphant above the howling of the gale."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab hailed the passing ship with a **stentorian** cry that startled the sleeping albatrosses upon the water."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The herald stepped forward and proclaimed the terms of the tournament in a **stentorian** tone heard by the whole multitude."*

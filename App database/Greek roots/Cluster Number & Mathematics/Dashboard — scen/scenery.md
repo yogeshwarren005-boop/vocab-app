@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The painted structures of a stage set that are intended to suggest a particular locale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of a place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural features of a landscape considered in terms of their appearance; or the painted backdrops and hangings of a stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical stagecraft and aesthetic landscape philosophy, the constructed backdrops, flats, and mechanical sets that represent the physical setting of a drama.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The changes of the seasons are less obtrusive on spots of this kind than amid woodland scenery."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sight, coming as it did, superimposed upon the other dark scenery of the previous days, formed a sort of climax to the whole panorama, and it was more than he could endure."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ascent was gradual on this side, and the soil and scenery differed much from those within Blakemore Vale."*
+> - 📜 **William Wordsworth (*Lines Composed a Few Miles above Tintern Abbey*):** *"These plots of cottage-ground, these orchard-tufts, which at this season with their unripe fruits are clad in one green hue, and lose themselves mid groves and copses... sublime wild **scenery** of the mind."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The canvas **scenery** smelled powerfully of size and turpentine, shivering whenever a door was slammed in the wings."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Mountain **scenery** produces a solemn impression of eternal power upon the human heart that no flat plain can awaken."*

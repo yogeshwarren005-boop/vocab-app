@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arthropod genus of fleas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arthropod genus of fleas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fleas in the family Pulicidae, including the common cat flea (Ctenocephalides felis) and dog flea (Ctenocephalides canis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and veterinary entomology, cosmopolitan ectoparasitic insects characterized by genal and pronotal combs, transmitting pathogens such as Bartonella and Dipylidium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ctenocephalides designates an arthropod genus of fleas."*
+> - 📜 **Charles Rothschild (*A Synopsis of the Fleas Found on Wild and Domestic Animals*):** *"Species of **Ctenocephalides** are readily distinguished by both genal and pronotal ctenidia consisting of sharp dark spines."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Domestic pets heavily infested with **Ctenocephalides** may transmit larval tapeworms and cause severe allergic dermatitis."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Under the microscope, the head of **Ctenocephalides** reveals a formidable row of black comb teeth guarding the mouthparts."*

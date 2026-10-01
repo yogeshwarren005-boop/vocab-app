@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monocotyledonous flowering plant; the stem grows by deposits on its inside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monocotyledonous flowering plant; the stem grows by deposits on its inside.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monocotyledonous plant; a flowering plant having an embryo with a single cotyledon (seed leaf).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and botany, a diverse clade comprising grasses, orchids, palms, and lilies, typically displaying parallel leaf venation and trimerous flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocot designates a monocotyledonous flowering plant; the stem grows by deposits on its inside."*
+> - 📜 **Michael Pollan (*The Botany of Desire*):** *"Modern human civilization is fundamentally built upon a single grass **monocot** known as Zea mays."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"Vascular bundles scattered throughout the stem immediately identify the seedling as a typical **monocot**."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Unlike the branching veins of broadleaf plants, every leaf of a **monocot** shows neat parallel venation."*

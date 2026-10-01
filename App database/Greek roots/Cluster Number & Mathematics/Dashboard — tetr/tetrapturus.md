@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of istiophoridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of istiophoridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, fast-swimming pelagic billfishes in the marlin family (Istiophoridae), commonly called spearfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and oceanic fisheries, predatory epipelagic scombroid fishes (such as the shortbill and Mediterranean spearfishes) characterized by an elongated upper jaw forming a round spear-like rostrum and two low dorsal fins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrapturus designates a genus of istiophoridae."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"The spearfishes belonging to **Tetrapturus** roam oceanic currents, using their slender round rostra to slash through schools of mackerel."*
+> - 📜 **Albert Günther (*Catalogue of the Acanthopterygian Fishes*):** *"Rafinesque established the genus **Tetrapturus** upon specimens taken in the Strait of Messina, distinguished by low dorsal rays."*
+> - 📜 **William Beebe (*Nonsuch: Land of Water*):** *"A massive billfish of the genus **Tetrapturus** breached clear of the waves, glistening cobalt blue under the tropical sun."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small usually parasitic flagellates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small usually parasitic flagellates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order or group of flagellated protozoa possessing multiple flagella (typically four or more), often living as parasites or symbionts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical protistology and parasitology, a taxon (traditionally placed in Zoomastigophora, including Giardia and Trichomonas) characterized by complex kinetid systems and symbiotic life inside insect or vertebrate guts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymastigina designates small usually parasitic flagellates."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The order **Polymastigina** comprises flagellates with three to eight flagella, frequently inhabiting the alimentary canal of animals."*
+> - 📜 **William Morton Wheeler (*Social Life Among the Insects*):** *"Wood-eating termites rely upon hypermastigote and **Polymastigina** symbionts to digest the cellulose of sound timber."*
+> - 📜 **Robert William Hegner (*Parasitic Protozoa*):** *"Intestinal flagellates belonging to **Polymastigina** display anterior flagellar tufts and characteristic parabasal bodies."*

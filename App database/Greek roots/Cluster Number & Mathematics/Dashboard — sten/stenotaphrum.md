@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lawn grasses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lawn grasses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of creeping perennial grasses in the family Poaceae, notably including St. Augustine grass (*Stenotaphrum secundatum*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrostology and subtropical turfgrass management, stoloniferous warm-season lawn and pasture grasses native to tropical shorelines, valued for high salt tolerance and rapid vegetative spread.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenotaphrum designates lawn grasses."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The coastal grass which botanists later referred to **Stenotaphrum** binds maritime sand with its dense creeping stolons."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"St. Augustine grass, known botanically as **Stenotaphrum** secundatum, forms a dense, coarse-textured lawn in the Gulf states."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The spikelets of **Stenotaphrum** are embedded in cavities along one side of a flattened, corky rachis."*

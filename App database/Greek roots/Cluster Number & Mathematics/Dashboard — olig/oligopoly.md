@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A market situation in which each of a few producers affects but does not control the market.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A market situation in which each of a few producers affects but does not control the market.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of limited competition, in which a market is shared by a small number of producers or sellers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microeconomics and industrial organization, a market structure characterized by strategic interdependence among dominant rival firms (as in Cournot or Bertrand models).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligopoly designates a market situation in which each of a few producers affects but does not control the market."*
+> - 📜 **Paul Samuelson (*Economics*):** *"Under conditions of **oligopoly**, each firm must anticipate the tactical countermoves of its few powerful rivals before setting price or output."*
+> - 📜 **John Kenneth Galbraith (*American Capitalism: The Concept of Countervailing Power*):** *"The modern industrial economy is dominated not by atomistic competition, but by tight corporate **oligopoly**."*
+> - 📜 **Joseph Stiglitz (*The Price of Inequality*):** *"When deregulation allows a market to consolidate into an **oligopoly**, prices rise and innovation often stagnates."*

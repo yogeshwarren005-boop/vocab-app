@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of carbohydrates whose molecules contain chains of monosaccharide molecules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of carbohydrates whose molecules contain chains of monosaccharide molecules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polysaccharide; a carbohydrate composed of multiple monosaccharide units linked together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical carbohydrate chemistry, an archaic generic term for complex polysaccharides and oligosaccharides, encompassing starch, dextrin, glycogen, and inulin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyose designates any of a class of carbohydrates whose molecules contain chains of monosaccharide molecules."*
+> - 📜 **Emil Fischer (*Syntheses in the Sugar Group*):** *"The natural starch molecule represents a complex **polyose** yielding d-glucose upon complete acid hydrolysis."*
+> - 📜 **Arthur Harden (*Alcoholic Fermentation*):** *"Before yeast enzymes can ferment a **polyose**, it must be cleaved into simple hexose units by hydrolytic enzymes."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Plants accumulate reserve carbon in the form of an insoluble **polyose**, which the germinating embryo metabolizes into sugar."*

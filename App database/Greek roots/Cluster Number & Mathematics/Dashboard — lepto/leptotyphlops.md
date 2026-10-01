@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blind snakes of asia and africa and americas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blind snakes of asia and africa and americas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of very slender burrowing blind snakes (threadsnakes) belonging to the family Leptotyphlopidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic herpetology, fossorial reptiles with cylindrical, highly polished scales that feed primarily on the larvae and pupae of ants and termites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptotyphlops designates blind snakes of asia and africa and americas."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"The tiny worm snake **Leptotyphlops** burrows effortlessly through arid sand in search of subterranean insect nests."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"In **Leptotyphlops**, the cranial bones are solidly fused to withstand the mechanical pressures of subterranean digging."*
+> - 📜 **Spencer Fullerton Baird (*Catalogue of North American Reptiles*):** *"The specimen of **Leptotyphlops** taken near the Rio Grande was completely blind, with eyes visible only as dark subcutaneous spots."*

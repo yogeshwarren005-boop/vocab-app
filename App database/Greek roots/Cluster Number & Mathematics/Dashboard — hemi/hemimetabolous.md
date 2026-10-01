@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing or characterized by incomplete metamorphosis without a quiescent pupal stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, describing insects such as mayflies, dragonflies, mantids, and cockroaches whose young are active nymphs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetabolous designates (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult."*
+> - 📜 **Alfred Russel Wallace (*Darwinism: An Exposition of the Theory of Natural Selection*):** *"Protective coloration and mimicry appear fully developed in many **hemimetabolous** insects even during their immature nymphal phases."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Grasshopper*):** *"The young locust is a **hemimetabolous** miniature of its parents, already equipped with voracious jaws and leaping legs."*
+> - 📜 **V. B. Wigglesworth (*The Physiology of Insect Metamorphosis*):** *"In **hemimetabolous** species like Rhodnius, decapitation after feeding arrests adult imaginal development."*

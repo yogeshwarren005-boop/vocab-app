@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tonic water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent (such as a drug) that increases body tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving a feeling of vigor or well-being; invigorating; relating to or denoting the first degree of a musical scale; or a medicinal or carbonated beverage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a restorative substance historically prescribed to promote health; in music theory, the foundational keynote (degree I) of a diatonic scale; in physiology, a sustained muscle contraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"And more needles were missing than it could be regarded as quite wholesome for a patient of such tender years either to apply externally or to take as a tonic."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"You must reach down your hands to them and draw them up to you," she answered in a tone of tonic inspiration."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"That is the reason I have chosen you to collect the data, Evelina," answered Jane, with another of those glorious tonic looks, issuing from my backbone in her back."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"We need the **tonic** of wildness—to wade sometimes in marshes where the bittern and the meadow-hen lurk."*
+> - 📜 **Leonard Bernstein (*The Joy of Music*):** *"The entire architecture of a classical sonata revolves around the departure from and triumphant return to the **tonic**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A **tonic** convulsion locks the limbs in unyielding extension, in sharp contrast to the rhythmic jerks of clonic seizures."*

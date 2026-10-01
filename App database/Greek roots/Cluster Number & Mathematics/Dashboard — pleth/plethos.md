@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pleth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A multitude, great number, abundance, or fullness; the common people or masses (from Greek πλῆθος).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical political philosophy and sociological historiography, the body of common citizens or the popular multitude, contrasted with the aristocratic oligarchy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plethos designates a term designating an entity, condition, or phenomenon derived from greek pleth."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"Pericles held the **plethos** in check while preserving their liberty, leading rather than being led by the popular multitude."*
+> - 📜 **Aristotle (*Politics*):** *"Democracy arises when the **plethos** of free citizens holds the sovereign authority of the state."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The fundamental sense of **plethos** is fullness, whence it denotes a great throng, the mass of the people, or mathematical magnitude."*

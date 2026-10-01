@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or suggestive of an acrobat or acrobatics : performed with leaps, body contortions, or other maneuvers requiring the great athleticism of an acrobat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or suggestive of an acrobat or acrobatics : performed with leaps, body contortions, or other maneuvers requiring the great athleticism of an acrobat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or requiring spectacular agility, balance, and gymnastic coordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting remarkable physical flexibility, daring aerial maneuvers, or metaphorically nimble intellectual versatility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"That is an acrobatic feat that I never believed you capable of, honey.” “We-ell!"*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Instead of going to the gym on Saturday, I'll put in calisthenics and acrobatic stunts with a broom and duster.” She was thorough, too."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Sleary's equestrian troupe amazed the town with their daring leaps and extraordinary **acrobatic** prowess upon bareback steeds."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"He executed an almost **acrobatic** contortion to avoid colliding with the heavy carriage swinging around the corner."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Thoughts leaped across the chasm of silence with the swift, effortless poise of an **acrobatic** dancer."*

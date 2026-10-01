@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to metrology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to metrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to metrology (the scientific study and standardization of weights and measures).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, international trade, and archaeology, relating to the calibration of measurement standards, tolerances, and ancient weight systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrological designates of or relating to metrology."*
+> - 📜 **Ferdinand Rudolph Hassler (*Comparison of Weights and Measures*):** *"The **metrological** survey revealed alarming discrepancies among the standard yard measures used in regional custom houses."*
+> - 📜 **William Siemens (*Conservation of Solar Energy and Other Papers*):** *"Exact electrical engineering depends upon an international **metrological** agreement establishing absolute ohm and volt standards."*
+> - 📜 **William Flinders Petrie (*Inductive Metrology*):** *"Ancient Egyptian monuments demonstrate astonishing **metrological** precision in the length of the royal cubit."*

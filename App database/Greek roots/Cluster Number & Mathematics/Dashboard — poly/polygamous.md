@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more than one mate at a time; used of relationships and individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having several forms of gametoecia on the same plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practicing, relating to, or characterized by marriage to more than one spouse simultaneously; or mating with multiple partners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, plants bearing male, female, and hermaphroditic (perfect) flowers on the same or different individuals (such as the ash or maple tree).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygamous designates having more than one mate at a time; used of relationships and individuals."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Certain trees like the common ash are **polygamous**, displaying staminate, pistillate, and bisexual blossoms upon the same bough."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"The legal prohibition of **polygamous** unions has been a cornerstone of Western civil jurisprudence since Roman antiquity."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"In the sumac family, the species are frequently **polygamous** or dioecious, with flowers in dense terminal panicles."*

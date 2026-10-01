@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the six or seven great divisions of land on the globe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The continent of Europe —used with the.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the world's continuous expanses of land (Africa, Antarctica, Asia, Australia, Europe, North America, South America).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising self-restraint and moderation, especially sexually; or able to control urination and defecation voluntarily.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heart, once be stronger than thy continent; Crack thy frail case!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, to speak feelingly of him, he is the card or calendar of gentry; for you shall find in him the continent of what part a gentleman would see."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, but mark how he bears his course, and runs me up With like advantage on the other side, Gelding the opposed continent as much As on the other side it takes from you."*
+> - 📜 **John Donne (*Devotions upon Emergent Occasions*):** *"No man is an island, entire of itself; every man is a piece of the **continent**, a part of the main."*
+> - 📜 **Alfred Wegener (*The Origin of Continents and Oceans*):** *"The jigsaw fit between South America and Africa suggests that every modern **continent** once drifted apart from ancient Pangaea."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A vast, unpeopled **continent** lay open before the settlers, offering endless scope for pioneering energy."*

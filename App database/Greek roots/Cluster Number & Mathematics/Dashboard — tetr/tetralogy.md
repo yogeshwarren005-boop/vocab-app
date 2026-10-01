@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of four connected works (such as operas or novels).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of four dramatic pieces presented consecutively on the Attic stage at the Dionysiac festival.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or series of four related works of art, literature, drama, or music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Athenian drama, a set of four plays (three tragedies and one satyr play) performed in sequence at the festival of Dionysus; in cardiology, Tetralogy of Fallot, a congenital heart defect comprising four anatomical abnormalities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetralogy designates a series of four connected works (such as operas or novels)."*
+> - 📜 **Aristotle (*Poetics*):** *"Aeschylus competed at the Great Dionysia with a tragic **tetralogy**, concluding with a lively satyr play."*
+> - 📜 **George Bernard Shaw (*The Perfect Wagnerite: A Commentary on the Niblung's Ring*):** *"Wagner's immense operatic **tetralogy**, Der Ring des Nibelungen, transformed the epic mythological scale of modern music drama."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The congenital **tetralogy** of Fallot unites pulmonary stenosis, ventricular septal defect, dextroposition of the aorta, and right ventricular hypertrophy."*

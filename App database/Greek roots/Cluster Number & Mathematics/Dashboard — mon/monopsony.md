@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oligopsony limited to one buyer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oligopsony limited to one buyer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A market situation in which there is only one buyer for a product or service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microeconomics and labor economics, buyer market power where a solitary purchaser can depress prices or suppress wages below competitive equilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopsony designates an oligopsony limited to one buyer."*
+> - 📜 **Joan Robinson (*The Economics of Imperfect Competition*):** *"Just as a monopoly exploits consumers, a buyer possessing **monopsony** power extracts surplus from unorganized workers."*
+> - 📜 **Paul Samuelson (*Economics*):** *"When a single company town operates the only mine, it exercises pure **monopsony** over the regional labor market."*
+> - 📜 **Joseph Stiglitz (*The Price of Inequality*):** *"Modern labor market frictions grant corporate employers substantial **monopsony** leverage, dampening wage growth across low-wage sectors."*

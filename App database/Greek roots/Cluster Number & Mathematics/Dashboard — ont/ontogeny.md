@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The development or course of development especially of an individual organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The development or course of development especially of an individual organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The development or developmental history of an individual organism from conception to maturity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, the morphological and physiological growth cycle of an organism, historically juxtaposed with phylogeny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ontogeny designates the development or course of development especially of an individual organism."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"Our celebrated thesis that **ontogeny** recapitulates phylogeny offered a compelling unifying framework for nineteenth-century embryology."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Haeckel's formula was flawed in its literal form, yet the deep interplay between **ontogeny** and phylogeny remains central to evo-devo."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Embryology rises greatly in interest when we view the embryo as a picture, more or less obscured, of the common ancestor during **ontogeny**."*

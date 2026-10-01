@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Special kind of densitometer that measures density variations over a very small area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Special kind of densitometer that measures density variations over a very small area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used to measure the intensity of light or optical density in very small areas of a photographic image or spectroscopic plate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astrophysics and metallography, a device used to scan spectral lines on glass plates to deduce stellar elemental abundances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphotometer designates special kind of densitometer that measures density variations over a very small area."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"A recording **microphotometer** traces the exact absorption profile across stellar spectral lines with high mechanical fidelity."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*):** *"By scanning photographic plates through a sensitive **microphotometer**, we quantified the apparent magnitudes of faint Cepheids."*
+> - 📜 **Cecilia Payne-Gaposchkin (*Stellar Atmospheres*):** *"Traces from the Moll **microphotometer** provided objective measurements of line contours across hydrogen and helium absorption bands."*

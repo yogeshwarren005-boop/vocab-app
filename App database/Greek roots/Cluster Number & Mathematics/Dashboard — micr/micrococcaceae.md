@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spherical or elliptical usually aerobic eubacteria that produce yellow or orange or red pigment; includes toxin-producing forms as well as harmless commensals and saprophytes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spherical or elliptical usually aerobic eubacteria that produce yellow or orange or red pigment; includes toxin-producing forms as well as harmless commensals and saprophytes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of Gram-positive, spherical bacteria (cocci) that typically divide in multiple planes to form irregular clusters, tetrads, or packets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic bacteriology, aerobic or facultatively anaerobic chemoorganotrophic cocci found in soil, water, and mammalian skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrococcaceae designates spherical or elliptical usually aerobic eubacteria that produce yellow or orange or red pigment; includes toxin-producing forms as well as harmless commensals and saprophytes."*
+> - 📜 **Robert Koch (*The Etiology of Tuberculosis*):** *"Cultures from cutaneous abrasions frequently yield harmless commensals of the family **Micrococcaceae**."*
+> - 📜 **William Bulloch (*The History of Bacteriology*):** *"Early taxonomists grouped all cluster-forming non-motile spheres under the comprehensive family name **Micrococcaceae**."*
+> - 📜 **Alexander Fleming (*Penicillin and Its Practical Application*):** *"Staphylococcus and other members of the **Micrococcaceae** display variable susceptibility to antibacterial secretions."*

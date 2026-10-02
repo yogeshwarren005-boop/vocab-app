@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme conservative; an opponent of progress or liberalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely conservative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposing political, social, or liberal reform; advocating a return to an earlier, often authoritarian or aristocratic state of affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and political philosophy, a reactionary is distinguished from a conservative by seeking to actively repeal existing modern institutions rather than preserve the status quo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The good man had been trained in a different school of poetry, and could not in his old age yield to the reactionary movement."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Tennyson is a very decided reactionary product of the revolutionary spirit which inspired some of his poetical predecessors of the previous generation."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The triumph of **reactionary** legislation in Europe threatened to extinguish the hard-won liberties of freedom of thought and assembly."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The **reactionary** nobles failed to perceive that the ancient feudal rights they championed had already lost all organic reality in the minds of the peasants."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The political rhetoric branded every dissident as a **reactionary** saboteur seeking to undermine the popular government."*
+

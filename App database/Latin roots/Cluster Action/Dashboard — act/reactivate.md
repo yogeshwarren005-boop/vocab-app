@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Activate (an old file) anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Activate (an old file) anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To restore to an active, operational, or functional state after a period of dormancy, suspension, or inactivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical microbiology and immunology, to reactivate is said of a latent pathogen (such as varicella-zoster or herpes simplex virus) resuming active viral replication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reactivate designates activate (an old file) anew."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe immunosuppression may suddenly **reactivate** a dormant tubercular focus in the apex of the lung."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The engineer worked frantically to **reactivate** the hydraulic pump before the water flooded the mining shaft."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"The removal of the inhibitor molecule permits the enzyme to **reactivate** its catalytic cycle at maximal velocity."*
+

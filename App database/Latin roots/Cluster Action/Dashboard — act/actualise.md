@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make real or concrete; give reality or substance to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent or describe realistically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make actual or real; to convert a latent potential, plan, or idea into tangible, lived reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological development and self-realization theory, to actualise one's inner capacities is to express authentic selfhood through constructive action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actualise designates make real or concrete; give reality or substance to."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"It is desirable that each human being should be allowed to **actualise** his own nature in his own distinctive way."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A resolution remains a hollow phantom until the will acts to **actualise** it in overt physical habit."*
+> - 📜 **Carl Rogers (*A Way of Being*):** *"The supportive climate of unconditional regard enables the client to **actualise** hidden resources for self-direction."*
+

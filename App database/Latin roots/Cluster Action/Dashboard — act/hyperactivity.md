@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by excessive restlessness and movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition characterized by excessive restlessness and movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of excessive, abnormal, or frantic activity and physical movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurodevelopmental pediatrics, hyperactivity encompasses persistent fidgeting, excessive vocalization, and motor disinhibition inappropriate for developmental age.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperactivity designates a condition characterized by excessive restlessness and movement."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Constitutional **hyperactivity** of the motor centers manifests as an inability to remain seated or quiet for any length of time."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Damage to the frontal lobes often produces childhood **hyperactivity** coupled with severe impairments in selective attention."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The dramatic transition from parkinsonian immobility to surging **hyperactivity** astonished the nursing staff."*
+

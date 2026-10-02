@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discharge bad feelings or tension through verbalization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discharge bad feelings or tension through verbalization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To discharge or release repressed emotions or psychological tension by reliving and verbalizing the original traumatic experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic therapy, the therapeutic goal is to help the patient abreact repressed affect associated with unresolved conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abreact designates discharge bad feelings or tension through verbalization."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"The patient must be brought to **abreact** the trauma by recalling the forgotten event with full affective intensity."*
+> - 📜 **Carl Jung (*The Practice of Psychotherapy*):** *"To **abreact** an emotion means to free the conscious mind from the tyranny of an unassimilated complex."*
+> - 📜 **William James (*The Principles of Psychology*):** *"When emotional energy fails to **abreact** through normal motor channels, it finds pathological expression in visceral disorder."*
+

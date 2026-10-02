@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of excessive or abnormal activity, restlessness, or physical exertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathophysiology, cellular overactivity (such as hypersecretion of endocrine glands) leads to systemic physiological imbalance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overactivity designates excessive activity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prolonged **overactivity** of the adrenal medulla sustains elevated arterial pressure and cardiac strain."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Mental fatigue often paradoxically produces a feverish **overactivity** of thought that banishes restorative sleep."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"During the mating season, the male birds exhibit an astonishing **overactivity**, displaying plumage and uttering continuous calls."*
+

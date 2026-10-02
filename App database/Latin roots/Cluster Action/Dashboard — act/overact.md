@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerate one's acting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerate one's acting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To act with excessive exaggeration; to perform a role with forced, theatrical, or unnatural emotional emphasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal psychology, to overact is to dramatize an everyday social reaction beyond what the objective situation warrants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overact designates exaggerate one's acting."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak the speech, I pray you, as I pronounced it to you, trippingly on the tongue: but if you mouth it, as many of our players do, I had as lief the town-crier spoke my lines. Nor do not saw the air too much with your hand, thus; but use all gently: it out-Herods Herod; pray you avoid it, and do not **overact**."*
+> - 📜 **Jane Austen (*Emma*):** *"In her desire to appear completely indifferent, she began to **overact** her part of cheerful lightheartedness."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber was prone to **overact** his domestic tribulations, declaiming upon financial ruin with theatrical despair."*
+

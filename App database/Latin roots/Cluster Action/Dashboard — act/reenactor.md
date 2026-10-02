@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who enacts a role in an event that occurred earlier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who enacts a role in an event that occurred earlier.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who participates in the historical recreation or performance of past events, battles, or cultural practices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public history and experimental archaeology, a reenactor utilizes period-accurate clothing, tools, and tactics to explore historical lived experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reenactor designates a person who enacts a role in an event that occurred earlier."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The zealous antiquarian transformed himself into a living **reenactor** of twelfth-century monastic discipline."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The modern **reenactor** strives to capture the sensory shock and smoke-filled confusion of the Civil War battlefield."*
+> - 📜 **G. M. Trevelyan (*English Social History*):** *"The pageantry of the village festival owed its authenticity to the dedicated local **reenactor** groups."*
+

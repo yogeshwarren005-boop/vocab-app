@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of rendering inactive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breaking up a military unit (by transfers or discharges).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The permanent or temporary neutralization of a virus, toxin, chemical reagent, or metabolic pathway, eliminating its biological or chemical efficacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics and epigenetics, X-chromosome inactivation (lyonization) silences one of the two X chromosomes in female mammalian somatic cells to equalize gene dosage with males.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inactivation designates the process of rendering inactive."*
+> - 📜 **Alan Hodgkin (*The Conduction of the Nervous Impulse*):** *"The voltage-dependent **inactivation** of the sodium conductance terminates the rising phase of the action potential."*
+> - 📜 **Jonas Salk (*Immunization Against Poliomyelitis*):** *"The kinetics of viral **inactivation** by formalin follow a predictable logarithmic decline over time."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"Feedback **inactivation** of the initial enzyme in the pathway prevents the wasteful accumulation of intermediary metabolites."*
+

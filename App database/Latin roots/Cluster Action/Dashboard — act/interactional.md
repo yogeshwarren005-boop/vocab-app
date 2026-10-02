@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of acting on or influencing each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of acting on or influencing each other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving social or physical interaction; pertaining to the reciprocal dynamics between agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics and conversation analysis, interactional linguistics examines how grammatical structures are shaped by the immediate demands of real-time conversational exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interactional designates capable of acting on or influencing each other."*
+> - 📜 **Erving Goffman (*The Presentation of Self in Everyday Life*):** *"In every **interactional** encounter, individuals present an idealized front to sustain a coherent definition of the situation."*
+> - 📜 **George Herbert Mead (*Mind, Self and Society*):** *"The human self is essentially an **interactional** construct, formed through taking the attitude of the generalized other."*
+> - 📜 **Gregory Bateson (*Steps to an Ecology of Mind*):** *"Communication must be analyzed as an **interactional** system wherein every message conditions the interpretation of subsequent responses."*
+

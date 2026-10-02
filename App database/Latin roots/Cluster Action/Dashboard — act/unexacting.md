@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not rigorous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not rigorous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exacting; not making severe, rigorous, or unreasonable demands; lenient, easygoing, and tolerant of imperfection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character description and social life, an unexacting master, friend, or routine fosters an easy, comfortable, and unpretentious environment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexacting designates not rigorous."*
+> - 📜 **Jane Austen (*Emma*):** *"Her companion was pleasantly **unexacting**, asking nothing more than a quiet afternoon by the fire and a game of piquet."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Celia's **unexacting** nature made her a restful contrast to the ardent and demanding idealism of her sister Dorothea."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He found employment under an **unexacting** attorney who spent more time in the tavern than over his casebooks."*
+

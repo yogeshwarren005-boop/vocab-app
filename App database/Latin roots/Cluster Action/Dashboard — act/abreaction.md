@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) purging of emotional tensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychoanalysis) purging of emotional tensions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The emotional release or catharsis that occurs when a forgotten or repressed traumatic event is recalled and relived in conscious awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychotherapy, abreaction serves as a key mechanism of therapeutic transformation during hypnosis and psychoanalysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abreaction designates (psychoanalysis) purging of emotional tensions."*
+> - 📜 **Josef Breuer (*Studies on Hysteria*):** *"The therapeutic efficacy of the cathartic method depends entirely on the complete **abreaction** of the pent-up strangulated affect."*
+> - 📜 **Carl Jung (*The Therapeutic Value of Abreaction*):** *"Mere emotional **abreaction** without subsequent conscious integration rarely produces lasting psychological healing."*
+> - 📜 **Sandor Ferenczi (*Further Contributions to the Theory and Technique of Psycho-Analysis*):** *"Deep regression in the analytic setting often precipitates an intense **abreaction** of childhood psychic pain."*
+

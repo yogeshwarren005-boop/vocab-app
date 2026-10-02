@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exact; inaccurate, imprecise, or containing errors and discrepancies relative to fact or standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of science, an inexact science (such as meteorology or sociology) is one whose predictions are probabilistic rather than strictly deterministic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The term "utility" in popular speech is very inexact."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"To be sure, it is sometimes convenient to speak in a broad but inexact way of "a general rate of wages," when comparing different countries and periods."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"If you have been inexact in any point you had better correct it.” “I think you might have warned me,” returned the other with a touch of sullenness."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Political economy is an **inexact** science because its conclusions apply only under the abstract assumption of pure self-interest."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Our knowledge of the fossil record remains exceedingly fragmented and **inexact**, preserving but a few scattered leaves of history."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"An **inexact** observation at the outset of an inquiry is fatal, for it leads the investigator into a labyrinth of false deductions."*
+

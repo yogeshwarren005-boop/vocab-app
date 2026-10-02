@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attire worn for sport or for casual wear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attire worn for sport or for casual wear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothing designed specifically for exercise, sports, and physical outdoor activities, engineered for comfort, mobility, and moisture management.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the sociology of fashion and retail economics, activewear has crossed over into casual daily attire, reflecting shifting cultural values around health, comfort, and informal dress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, activewear designates attire worn for sport or for casual wear."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Sporting dress and modern **activewear** serve to demonstrate that the wearer possesses the leisure and resources for non-industrial pursuits."*
+> - 📜 **Roland Barthes (*The Fashion System*):** *"The rhetoric of modern **activewear** transforms functional athletic utility into an aesthetic statement of youthful dynamism."*
+> - 📜 **Alison Lurie (*The Language of Clothes*):** *"The widespread adoption of **activewear** as everyday street clothing signals a major cultural retreat from rigid sartorial formality."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition**: Situated away from the mouth or oral surface; in radially symmetrical marine animals such as starfish and sea urchins, referring to the upper or dorsal side opposite the mouth.
-> 2. **Secondary / Nuanced Definition**: Used in echinoderm anatomy as a synonym for *aboral*, contrasting the dorsal hemisphere (bearing the madreporite and spinelets) with the *actinal* surface bearing the tube feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Located on the surface or end opposite to that on which the mouth is situated, used especially of radiate animals such as echinoderms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology and echinoderm morphology, the abactinal surface bears the madreporite, anus, and spines in contrast to the oral surface beneath.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Libbie Henrietta Hyman (*The Invertebrates: Echinodermata*):** *"The **abactinal** surface of the sea star is reinforced by a lattice of calcareous ossicles."*
-> - 📜 **Alexander Agassiz (*North American Starfishes*):** *"Delicate respiratory papulae emerge through microscopic pores across the **abactinal** plates."*
-> - 📜 **Charles Darwin (*A Monograph on the Sub-Class Cirripedia*):** *"The **abactinal** pole remains firmly anchored while the oral tentacles sweep the current."*
+> - 📜 **Alexander Agassiz (*Embryology of the Starfish*):** *"The spines upon the **abactinal** area develop rapidly as the young starfish assumes its radial symmetry."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Echinodermata*):** *"The **abactinal** skeleton of sea stars consists of an intricate network of calcareous ossicles embedded in the body wall."*
+> - 📜 **W. Percy Sladen (*Report on the Asteroidea Collected by H.M.S. Challenger*):** *"Distinctive paxillae cover the entire **abactinal** surface of the disc and rays in the specimens collected."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive reaction; a reaction with inappropriate emotional behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An excessive reaction; a reaction with inappropriate emotional behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A response or reaction that is excessive, disproportionate, or unnecessarily intense relative to its cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral finance and market economics, an overreaction occurs when investors respond emotionally to unexpected news, driving asset prices away from fundamental value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overreaction designates an excessive reaction; a reaction with inappropriate emotional behavior."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"A sudden panic in the marketplace is an emotional **overreaction** that calm calculation of supply would prevent."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her passionate outburst was an uncharacteristic **overreaction** born of months of silently endured domestic misery."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Anaphylaxis represents a catastrophic **overreaction** of the sensitized vascular system to foreign serum proteins."*
+

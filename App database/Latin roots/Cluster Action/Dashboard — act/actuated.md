@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in motion or move to act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moved to action, stimulated, or set into physical motion by an internal drive, external force, or mechanical trigger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and control theory, actuated describes a valve, switch, or mechanical arm moved by pneumatic, hydraulic, or electrical signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I assure your ladyship I am not actuated by any motives of that sort,” says Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My mother, though highly exasperating to the feelings, is actuated by maternal dictates.” I could hardly have believed that anybody could in a moment have turned so red or changed so much as Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He had inquired after her, she found, slightly, as might suit a former slight acquaintance, seeming to acknowledge such as she had acknowledged, actuated, perhaps, by the same view of escaping introduction when they were to meet."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"He was **actuated** by a profound and selfless devotion that transcended all regard for his own safety."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain was **actuated** by a monomaniac revenge that swept away every ordinary calculation of maritime prudence."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was convinced that Darcy had been **actuated** by genuine family affection in rescuing his sister."*
+

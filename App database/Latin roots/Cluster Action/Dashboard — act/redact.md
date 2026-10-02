@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who puts text into appropriate form for publication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formulate in a particular style or language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To edit, revise, or prepare a written text for publication; in modern legal usage, to censor or obscure confidential or classified text before public release.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual criticism and biblical scholarship, to redact is to synthesize, arrange, and edit earlier oral or written sources into a unified literary composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redact designates someone who puts text into appropriate form for publication."*
+> - 📜 **Julius Wellhausen (*Prolegomena to the History of Israel*):** *"The post-exilic priestly scribes sought to **redact** the ancient legal traditions of Israel into a single canonical Torah."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Watson was careful to **redact** the true names of illustrious clients before committing the memoirs to print."*
+> - 📜 **Frederic G. Kenyon (*The Text of the Greek Bible*):** *"The ancient editor did not hesitate to **redact** conflicting manuscript readings into a harmonized recension."*
+

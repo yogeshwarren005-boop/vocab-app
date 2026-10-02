@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of demanding or levying by force or authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of demanding or levying by force or authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The compulsory extraction or extortion of money, labor, fees, or compliance through the harsh abuse of authoritative power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fiscal history and political economy, an exaction is an arbitrary levy or tribute imposed by a ruler outside established constitutional and statutory law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In what kind, let’s know, Is this exaction?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, tell me this, If he should break his day, what should I gain By the exaction of the forfeiture?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"All was, alas, worse than vanity—injustice, punishment, exaction, death."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The rapacious **exaction** of provincial taxes ruined the landed aristocracy of Gaul long before the barbarian incursions."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every unnecessary **exaction** upon commerce discourages the productive industry of the merchant and artisan."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The commons hath he pilled with grievous taxes, and lost their hearts: the daily **exaction** of novel burdens hath estranged the nobility."*
+

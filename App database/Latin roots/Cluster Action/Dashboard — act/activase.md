@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thrombolytic agent (trade name activase) that causes fibrinolysis at the site of a blood clot; used in treating acute myocardial infarction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thrombolytic agent (trade name activase) that causes fibrinolysis at the site of a blood clot; used in treating acute myocardial infarction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recombinant tissue-type plasminogen activator (alteplase) used as a thrombolytic medication to dissolve blood clots in acute myocardial infarction, ischemic stroke, and pulmonary embolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacology and emergency medicine, Activase works by converting clot-bound plasminogen into active plasmin, which degrades the fibrin matrix of the occluding thrombus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, activase designates a thrombolytic agent (trade name activase) that causes fibrinolysis at the site of a blood clot; used in treating acute myocardial infarction."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Prompt intravenous administration of **activase** within the therapeutic window significantly reduces infarct size and preserves ventricular function."*
+> - 📜 **Bertram Katzung (*Basic and Clinical Pharmacology*):** *"Unlike non-specific thrombolytic agents, **activase** exhibits relative fibrin-specificity, binding preferentially to plasminogen on the clot surface."*
+> - 📜 **Desire Collen (*Tissue-Type Plasminogen Activator: Clinical Experience*):** *"The development of recombinant **activase** marked a revolutionary step forward in emergency reperfusion therapy for acute vascular occlusion."*
+

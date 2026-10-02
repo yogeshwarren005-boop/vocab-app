@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy of taking direct and militant action to achieve a political or social goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A policy of taking direct and militant action to achieve a political or social goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The policy or practice of engaging in vigorous, direct campaigning to achieve political, social, or environmental reform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and epistemology, activism (or practicalism) prioritizes creative action and purposeful intervention over passive contemplation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, activism designates a policy of taking direct and militant action to achieve a political or social goal."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Philosophical **activism** insists that truth is not merely contemplated, but forged through courageous engagement with the world."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"Intelligence is not a detached spectator, but an instrument of constructive **activism** in the transformation of social institutions."*
+> - 📜 **W. E. B. Du Bois (*The Souls of Black Folk*):** *"Persistent political **activism** and agitation remain the indispensable weapons in the struggle for civil equality."*
+

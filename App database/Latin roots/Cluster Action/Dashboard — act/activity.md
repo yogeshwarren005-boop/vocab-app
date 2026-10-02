@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any specific behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being active.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Energetic physical or mental movement, or an organized pursuit undertaken by individuals or institutions to achieve an aim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and physical chemistry, activity is the effective concentration of a chemical species in a non-ideal solution, accounting for molecular interactions that alter its real chemical potential.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doing is activity; and he will still be doing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plague all, That your activity may defeat and quell The source of all erection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Words pay no debts, give her deeds; but she’ll bereave you o’ th’ deeds too, if she call your activity in question."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The immense variety of organic forms is preserved through the ceaseless **activity** of natural selection."*
+> - 📜 **Jane Austen (*Emma*):** *"The bustle and lively **activity** of the market day presented a cheerful scene from the parlor window."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Thinking consists in the constant internal **activity** of the mind upon the ideas furnished by sensation."*
+

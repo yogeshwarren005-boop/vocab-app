@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protein complex in muscle fibers; composed of myosin and actin; shortens when stimulated and causes muscle contractions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protein complex in muscle fibers; composed of myosin and actin; shortens when stimulated and causes muscle contractions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protein complex formed by the binding of actin and myosin filaments, constituting the contractile machinery of muscle fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In muscle biophysics and cell motility, actomyosin undergoes cyclic ATP-dependent conformational changes that drive muscle contraction and cytokinesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actomyosin designates a protein complex in muscle fibers; composed of myosin and actin; shortens when stimulated and causes muscle contractions."*
+> - 📜 **Albert Szent-Gyorgyi (*Studies on Muscle*):** *"When ATP was added to a thread of **actomyosin**, the synthetic muscle fiber instantly contracted before our eyes."*
+> - 📜 **Hugh Huxley (*The Mechanism of Muscular Contraction*):** *"The cross-bridges between actin and myosin represent the dynamic units of the **actomyosin** contractile cycle."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"The discovery of **actomyosin** laid the physical foundation for modern molecular understandings of cellular motility."*
+

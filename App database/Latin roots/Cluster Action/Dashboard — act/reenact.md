@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enact or perform again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enact again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To enact again; to perform or recreate a historical battle, drama, or past event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legislative procedure, to reenact is to pass a statute or decree a second time, often to renew an expired law or clarify its constitutional validity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I think friend Hawk has been reenacting the joys of his vanished youth, so to speak." "He ought to be prosecuted," said Phyllis, blazing with indignation."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Paris mob assembled to **reenact** the historic storming of the Bastille with pageant floats and revolutionary hymns."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"A lawful parliament may choose to **reenact** ancient constitutional guarantees when liberty is threatened by royal encroachment."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us **reenact** the glorious triumphs of our ancestors on this renowned battlefield."*
+

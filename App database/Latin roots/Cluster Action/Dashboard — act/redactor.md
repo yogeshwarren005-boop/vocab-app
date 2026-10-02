@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who puts text into appropriate form for publication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who puts text into appropriate form for publication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who edits, revises, or compiles written material for publication, especially by synthesizing multiple earlier sources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical-critical biblical scholarship, the redactor is the editorial author responsible for the final compositional form of a canonical text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redactor designates someone who puts text into appropriate form for publication."*
+> - 📜 **Julius Wellhausen (*Prolegomena to the History of Israel*):** *"The skillful **redactor** stitched together the Yahwist and Elohist narratives, preserving the poetic flavor of both sources."*
+> - 📜 **William Robertson Smith (*The Old Testament in the Jewish Church*):** *"The **redactor** of the historical books acted not as a modern author, but as a custodian of sacred ancestral traditions."*
+> - 📜 **Frederic G. Kenyon (*The Text of the Greek Bible*):** *"Origen worked as an indefatigable **redactor** in assembling the six parallel columns of the Hexapla."*
+

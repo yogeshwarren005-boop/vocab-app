@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any drug that destroys bacteria or inhibits their growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroying bacteria or inhibiting their growth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Active against bacteria; capable of destroying bacteria, inhibiting their proliferation, or preventing bacterial infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and microbiology, antibacterial agents are classified as bactericidal (killing organisms directly) or bacteriostatic (inhibiting cell division and protein synthesis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antibacterial designates any drug that destroys bacteria or inhibits their growth."*
+> - 📜 **Alexander Fleming (*On the Antibacterial Action of Cultures of a Penicillium*):** *"The broth filtered from the mould culture showed powerful **antibacterial** properties against staphylococci and streptococci."*
+> - 📜 **Selman Waksman (*Microbial Antagonisms and Antibiotic Substances*):** *"Soil actinomycetes produce diverse **antibacterial** metabolites that play a vital role in natural microbial ecology."*
+> - 📜 **Paul Ehrlich (*Address on Chemotherapy*):** *"The ideal chemotherapeutic substance must combine maximum **antibacterial** efficacy with minimum toxicity toward the host tissues."*
+

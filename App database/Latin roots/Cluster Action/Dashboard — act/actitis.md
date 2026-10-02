@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of scolopacidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of scolopacidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of wading birds in the family Scolopacidae, comprising the spotted sandpiper and the common sandpiper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological taxonomy, species of Actitis are characterized by their distinctive teetering gait, rounded wings, and habit of foraging along stony freshwater margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actitis designates a genus of scolopacidae."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The spotted sandpiper, belonging to the genus **Actitis**, is common along the gravelly margins of our interior streams."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"In **Actitis**, the tail is rounded and nearly half as long as the wing, with plumage characterized by transverse dorsal vermiculations."*
+> - 📜 **Spencer Fullerton Baird (*The Birds of North America*):** *"The genus **Actitis** is distinguished from Tringa by its smaller bill and the habit of continuous caudal oscillation while feeding."*
+

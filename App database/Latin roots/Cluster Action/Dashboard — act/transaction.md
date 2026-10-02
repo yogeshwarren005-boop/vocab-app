@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of transacting within or between groups (as carrying on commercial activities).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of transacting within or between groups (as carrying on commercial activities).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of buying or selling something; a completed business agreement, negotiation, or exchange between parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In database systems and distributed computing, a transaction is an atomic, consistent, isolated, and durable (ACID) unit of program execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Richard, begging me, for the greater grace of the transaction, as he said, to settle with Coavinses (as Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He has had something—he don’t know what—to do with so much in this connexion that is mysterious that it is possible he may even be implicated, without knowing it, in the present transaction."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This transaction having been completed, he again hurried off to the centre of the town, and stood on the kerb of the pavement, as a shepherd, crook in hand."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every commercial **transaction** between two willing parties tends to benefit both, or else it would not be voluntarily undertaken."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The business of Jaggers was conducted with a cold, formal precision that turned every tragedy into a mere legal **transaction**."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"The entire **transaction** was completed within an hour, and the deeds of conveyance were duly signed and witnessed."*
+

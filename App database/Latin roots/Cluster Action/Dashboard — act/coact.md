@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act together, as of organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act together, as of organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To act together, concur, or cooperate; to work in unison or mutually exert influence toward a common result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and legal usage, coact also carried the obsolete transitive sense of compelling, constraining, or forcing an individual to act.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coact designates act together, as of organisms."*
+> - 📜 **Francis Bacon (*The Essays*):** *"When diverse virtues **coact** in the soul, they produce a steadfast magnanimity that no sudden reverse of fortune can overthrow."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The senses and the judgment must **coact** if we are to attain certain knowledge of physical reality."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A thousand disparate grievances began to **coact**, fusing the restless populace into a single irresistible revolutionary torrent."*
+

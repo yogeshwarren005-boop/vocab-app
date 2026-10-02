@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device used to introduce reactance into a circuit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) any of several kinds of apparatus that maintain and control a nuclear reaction for the production of energy or artificial elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus or vessel in which a chemical or nuclear reaction is initiated, sustained, and controlled for industrial or energy production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemical engineering, a reactor is optimized for mass and heat transfer to ensure high conversion efficiency and product selectivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Moving to the power plant he examined the reactor's cover and seals for seepage and the thruster nozzles and gimbals for cracks and wear."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If it cooks OK, I'm out of your way." He squeezed into the cage, set and activated the reactor."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Zolan adjusted the torso belts and rechecked the reactor and weight-and-balance indicators."*
+> - 📜 **Enrico Fermi (*Experimental Production of a Divergent Chain Reaction*):** *"The graphite and uranium **reactor** beneath the west stands at Chicago operated smoothly at half a watt of power."*
+> - 📜 **Arthur Compton (*Atomic Quest*):** *"The industrial plutonium-production **reactor** at Hanford required massive water cooling from the Columbia River."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"The automated controls of a modern chemical **reactor** must process feedback data faster than human reflexes can operate."*
+

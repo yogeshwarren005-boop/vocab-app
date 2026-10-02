@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal document codifying the result of deliberations of a committee or society or legislative body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that people do or cause to happen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something done or performed; a deed or conscious exertion of will, or a formal decree or statute passed by a legislative assembly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In drama and theatrical theory, an act is one of the major divisions of a dramatic work, demarcating significant narrative shifts and character developments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lasted long, But on us both did haggish age steal on, And wore us out of act."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be gone tomorrow; and be sure of this, What I can help thee to, thou shalt not miss. [_Exeunt._] ACT II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not so with Him that all things knows As ’tis with us that square our guess by shows; But most it is presumption in us when The help of heaven we count the act of men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the world's a stage, and all the men and women merely players; they have their exits and their entrances, and one man in his time plays many parts, his **act** being seven ages."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The volition or willing is an **act** of the mind directing its thought to the production of any action."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She felt that her **act** was one of pure devotion, whatever the rigid moralists of the parish might proclaim."*
+

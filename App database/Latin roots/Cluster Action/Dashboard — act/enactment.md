@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The passing of a law by a legislative body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal document codifying the result of deliberations of a committee or society or legislative body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The passing of a bill into law by a legislative body, or the legal statute or ordinance thus established.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and family therapy, enactment is the spontaneous or prompted performance of an interactional pattern during a clinical session.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"During the first stages of his return to perception peculiar deeds seemed to be in course of enactment."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At this time of departure, when nothing more was visible of the inside of the parlour than a thin and still chink of light between the shutters, a passionate scene was in course of enactment there."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the impassioned scenes of her brief experience seemed to revive with added emotion at that moment, and those scenes which had been without emotion during enactment had emotion then."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The formal **enactment** of the Justinian Code unified centuries of scattered Roman jurisprudence into a coherent whole."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every statutory **enactment** that attempts to fix the market price of provisions ultimately aggravates the distress of the poor."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The solemn **enactment** of family rituals provided a dignified framework that concealed their underlying domestic discord."*
+

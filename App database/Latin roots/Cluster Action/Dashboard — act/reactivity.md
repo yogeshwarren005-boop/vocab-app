@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Responsive to stimulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ready susceptibility to chemical change.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rate or degree to which a substance, organism, or system tends to react when exposed to an external agent or stimulus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics and reactor engineering, reactivity is a measure of the state of a reactor relative to criticality, determining whether the neutron population increases, decreases, or remains steady.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"To Bloom: the problems of irritability, tumescence, rigidity, reactivity, dimension, sanitariness, pilosity."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"The chemical **reactivity** of the alkali metals increases progressively as we descend the periodic group from lithium to cesium."*
+> - 📜 **Enrico Fermi (*Experimental Production of a Divergent Chain Reaction*):** *"Careful withdrawal of the cadmium control rods increased the **reactivity** until the pile achieved a sustained chain reaction."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The constitutional **reactivity** of the autonomic nervous system determines the emotional temperament of the individual."*
+

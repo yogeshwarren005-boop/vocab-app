@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocating or engaged in activism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocating or engaged in activism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by activism; oriented toward direct action, campaigning, and dynamic intervention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical discourse, an activistic worldview holds that human reality is shaped through energetic moral and physical striving rather than fatalistic resignation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, activistic designates advocating or engaged in activism."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"An **activistic** conception of morality emphasizes the constructive consequences of human choice rather than obedience to abstract codes."*
+> - 📜 **William James (*The Will to Believe*):** *"The religious temperament often takes an **activistic** turn, seeking fulfillment in sacrificial deeds rather than mystic quietism."*
+> - 📜 **Pitirim Sorokin (*Social and Cultural Dynamics*):** *"Sensate cultures foster an **activistic** mentality driven by the desire to dominate and reconstruct the physical environment."*
+

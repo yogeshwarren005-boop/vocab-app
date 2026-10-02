@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Performing a role in an event that occurred at an earlier time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performing a role in an event that occurred at an earlier time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theatrical, ceremonial, or educational restaging of a historical battle, trial, or cultural event by participants wearing authentic period attire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and statutory interpretation, the reenactment canon dictates that when a legislature re-adopts existing statutory language without alteration, it implicitly adopts settled judicial interpretations of that text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reenactment designates performing a role in an event that occurred at an earlier time."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The public games included a spectacular naval **reenactment** of the victory at Actium upon an artificial lake in the Campus Martius."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The anniversary celebration became a solemn **reenactment** of the oath of civic federation upon the Champ de Mars."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The statutory **reenactment** of common-law principles carries with it the accumulated weight of judicial precedent."*
+

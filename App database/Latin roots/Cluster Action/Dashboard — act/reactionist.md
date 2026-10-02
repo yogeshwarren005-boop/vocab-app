@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely conservative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely conservative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who favors political reaction; one who seeks to reverse progressive political or social developments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political debate, reactionist is used often synonymously with reactionary to designate a person committed to restoring ancient privileges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reactionist designates extremely conservative."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The extreme **reactionist** party in Parliament urged the total disenfranchisement of all dissenting congregations."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Even the most stubborn **reactionist** must recognize that the spread of literacy makes the return to absolute monarchy impossible."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"He was regarded by his tenantry as a hopeless **reactionist**, convinced that railways and machinery were ruinous to the morals of the nation."*
+

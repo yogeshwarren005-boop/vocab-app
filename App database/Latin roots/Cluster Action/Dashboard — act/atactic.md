@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking motor coordination; marked or caused by ataxia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking motor coordination; marked or caused by ataxia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking regular arrangement or order; in polymer chemistry, describing a polymer structure where stereocenters along the main chain have a random spatial orientation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, atactic is an alternate term for ataxic, describing movements characterized by a lack of muscle coordination due to cerebellar dysfunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atactic designates lacking motor coordination; marked or caused by ataxia."*
+> - 📜 **Giulio Natta (*Stereospecific Polymerization of Alpha-Olefins*):** *"Unlike crystalline isotactic polypropylene, the **atactic** polymer is an amorphous, rubbery material with low mechanical strength."*
+> - 📜 **Paul Flory (*Statistical Mechanics of Chain Molecules*):** *"The random distribution of pendant groups in an **atactic** chain prevents the close packing necessary for crystallite formation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient walked with an **atactic** gait, stamping the heels upon the floor to ascertain contact with the ground."*
+

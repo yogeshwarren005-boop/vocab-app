@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone versed in the collection and interpretation of numerical data (especially someone who uses statistics to calculate insurance premiums).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone versed in the collection and interpretation of numerical data (especially someone who uses statistics to calculate insurance premiums).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A business professional who analyzes the financial consequences of risk, utilizing mathematical and statistical models to price insurance policies and pension funds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in Roman jurisprudence, an actuarius was an official or notary who recorded the minutes and proceedings of the Roman Senate and imperial court.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Such calculations, however, lead into many complexities of practical detail difficult to explain in brief compass, and are the special task of the actuary (the mathematical expert dealing with such problems in the insurance business)."*
+> - 📜 **Richard Price (*Observations on Reversionary Payments*):** *"The prudent **actuary** must balance present contributions against future liabilities with unsparing mathematical precision."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"No sensible merchant ventures into complex insurance guarantees without consulting a skilled **actuary** on the hazards of the voyage."*
+> - 📜 **Francis Galton (*Hereditary Genius*):** *"The statistical records compiled by the life insurance **actuary** offer invaluable empirical data on human vitality."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an active manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an active manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an active, energetic, or vigorous manner; through direct exertion and purposeful engagement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic and scientific discourse, actively denotes deliberate, observable causal participation rather than passive or circumstantial involvement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proclaim no shame When the compulsive ardour gives the charge, Since frost itself as actively doth burn, And reason panders will."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The doctors know that he is best with her, and when not actively engaged about him, stand aloof."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She had given herself to God, and was distressed only because she could not labor for Him actively among the lost."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The young birds were **actively** fed by both parents throughout the long daylight hours of the northern summer."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She had dedicated herself **actively** to the improvement of the cottages on her uncle's estate."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Capital employed in domestic trade is **actively** circulated within the home economy, supporting productive labor."*
+

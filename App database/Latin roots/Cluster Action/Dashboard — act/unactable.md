@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not actable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not actable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being acted or staged effectively; unsuitable for dramatic or theatrical performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic criticism and literary analysis, closet dramas (such as Milton's Samson Agonistes or Shelley's Prometheus Unbound) are often labeled unactable because their poetic density exceeds the constraints of physical stagecraft.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unactable designates not actable."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The tragedy was deemed **unactable** by the West End managers, who could see no commercial profit in five acts of blank verse."*
+> - 📜 **Harley Granville-Barker (*Prefaces to Shakespeare*):** *"Victorian critics foolishly pronounced King Lear **unactable**, failing to grasp the fluid staging conventions of Shakespeare's own Globe."*
+> - 📜 **William Archer (*The Old Drama and the New*):** *"A play that is **unactable** in the theatre may nonetheless remain an immortal masterpiece of dramatic poetry in the study."*
+

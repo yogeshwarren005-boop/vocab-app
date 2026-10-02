@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant reformer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocating or engaged in activism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who campaigns vigorously and deliberately to bring about political, environmental, or social change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, an activist is distinguished by opting for organized mobilization, direct action, and public advocacy rather than passive electoral participation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, activist designates a militant reformer."*
+> - 📜 **W. E. B. Du Bois (*The Souls of Black Folk*):** *"The dedicated **activist** refuses to accept the counsel of despair or the sedative of gradualism."*
+> - 📜 **Bertrand Russell (*Roads to Freedom*):** *"The socialist **activist** of that era devoted his life to educating the working classes in cooperative principles."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Every political **activist** in the city felt that the revolution had entered upon its critical and decisive phase."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of propelling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of propelling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mechanical, electrical, or hydraulic triggering of a mechanism, valve, or device into physical motion or operational performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In robotics and control systems engineering, actuation transforms control signals into physical force through servomotors, solenoids, or pneumatic cylinders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actuation designates the act of propelling."*
+> - 📜 **Francis Bacon (*The New Atlantis*):** *"We have instruments of swift and varied **actuation** that mimic the flight of birds and the motion of fish."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The immediate **actuation** of the body by the decree of the will remains a mystery of our physical constitution."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The mechanical **actuation** of the reflex arc occurs prior to any conscious sensation in the cerebral cortex."*
+

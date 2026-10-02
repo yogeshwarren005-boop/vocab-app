@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being exact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being exact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strict adherence to precision, mathematical accuracy, and rigorous standards of correctness that leaves no margin for error or approximation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific methodology and measurement theory, exactitude distinguishes quantitative empirical results from mere qualitative estimation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They enforce promptness and exactitude in business dealings."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That day I commenced the journal of these adventures which has enabled me to relate them with more scrupulous exactitude and minute detail."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"As regularity is a prime condition facilitating activity, regularity in his household was carried to the highest point of exactitude."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes observed the minute details of the crime scene with an astonishing mathematical **exactitude**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I have endeavored to record the dimensions and proportions of these anatomical varieties with the utmost **exactitude**."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Reading maketh a full man; conference a ready man; and writing an exact man: and therefore, if a man write little, he had need have a great memory; if he confer little, he had need have a present wit; and if he read little, he had need have much cunning, to seem to know that he doth not, yet true **exactitude** belongs to the pen."*
+

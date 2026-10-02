@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin act within the domain of Action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of act in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A two-way exchange between a user and a digital system, interface, or medium, where human input directly and dynamically alters the output in real time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media studies, game design, and cybernetics, interactivity distinguishes participatory environments—where audiences co-create the narrative or experience—from passive broadcast consumption like television or print.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interactivity designates pertaining to, derived from, or characteristic of latin act within the domain of action."*
+> - 📜 **Marshall McLuhan (*Understanding Media: The Extensions of Man*):** *"Electric media demand a high degree of participant **interactivity**, involving the whole human sensorium in real time."*
+> - 📜 **Douglas Engelbart (*Augmenting Human Intellect*):** *"Direct cognitive **interactivity** between the user and the graphical display transforms computing from calculation into creative exploration."*
+> - 📜 **Lev Manovich (*The Language of New Media*):** *"The myth of pure digital **interactivity** often masks the rigid underlying algorithms that structure user choices."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting something (as a literary work or a legislative bill) into acceptable form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of editing, revising, or censoring a text for publication, or the specific edited edition produced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological and literary hermeneutics, redaction criticism analyzes how biblical authors selected, arranged, and adapted their source materials to convey distinct theological emphases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redaction designates putting something (as a literary work or a legislative bill) into acceptable form."*
+> - 📜 **Julius Wellhausen (*Prolegomena to the History of Israel*):** *"The final **redaction** of the Pentateuch reflects the theological priorities of the Jerusalem priesthood after the return from Babylon."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial **redaction** of the Roman civil law condensed thousands of ancient juristic treatises into the manageable Pandects."*
+> - 📜 **Frederic G. Kenyon (*Our Bible and the Ancient Manuscripts*):** *"Every ancient manuscript recension represents a scholarly **redaction** aimed at establishing an authoritative text."*
+

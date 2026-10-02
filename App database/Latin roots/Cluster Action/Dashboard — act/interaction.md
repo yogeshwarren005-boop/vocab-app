@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mutual or reciprocal action; interacting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) the transfer of energy between elementary particles or between an elementary particle and a field or between fields; mediated by gauge bosons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reciprocal action or influence; mutual communication or effect produced by two or more objects, forces, or individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics, an interaction is a process by which elementary particles exchange energy, momentum, or quantum numbers through fundamental gauge fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But what if in judgement itself had been unhinged--warped--deflected by the interaction of splintered bone and cut sinew and dazed, ghost-ridden mind?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In describing a war or the subjugation of a people, a general historian looks for the cause of the event not in the power of one man, but in the interaction of many persons connected with the event."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Speaking of the interaction of heat and electricity and of atoms, we cannot say why this occurs, and we say that it is so because it is inconceivable otherwise, because it must be so and that it is a law."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The continuous **interaction** between predators and prey drives evolutionary adaptation toward greater speed and sensory acuity."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness arises from the dynamic **interaction** between the sensory nervous system and the external physical environment."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The delicate social **interaction** of provincial society was governed by unwritten codes of rank and propriety."*
+

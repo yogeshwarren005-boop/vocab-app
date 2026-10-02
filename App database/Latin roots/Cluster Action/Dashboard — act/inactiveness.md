@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being inactive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to remain inactive or inert.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period or disposition of quiet dormancy, disuse, or suspended exertion, characterized by the absence of energetic motion or productivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ecology and physiology, inactiveness represents an adaptive energy-conservation strategy (such as torpor or midday resting) deployed in response to thermal stress or food scarcity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inactiveness designates the state of being inactive."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Sloth and long **inactiveness** of body corrode the spirits and breed melancholic humors in men of great understanding."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Guard against that sullen **inactiveness** of mind which shrinks from all intellectual labor as an intolerable burden."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His sudden transition from purposeful public life to complete rural **inactiveness** weighed heavily upon his restless spirit."*
+

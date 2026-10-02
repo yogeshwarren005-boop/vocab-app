@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in motion or move to act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make active or more active.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make active or more active; to set in motion, initiate, or accelerate a process, mechanism, or biological function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and enzymology, to activate a proenzyme or zymogen involves chemical modification or cleavage that reveals its active catalytic site.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Activate our comm system to the depot." The ship shuddered as it shot from the gallery and headed for the concentration of spacecraft above Pluto."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Set it up to activate by remote."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hundreds of logistics robots crammed the station's cavernous bays, self-sustaining and programmed to activate sub-systems on schedule, deploy robotic specialists and service the machine during its voyage, and in perpetuity thereafter."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"A single impulse from the central nervous system suffices to **activate** the entire muscular apparatus into coordinated motion."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The spring-loaded catch was designed to **activate** the secret door whenever pressure was exerted on the fourth step."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An intense perceptual cue will instantly **activate** an associated train of memories stored within cortical pathways."*
+

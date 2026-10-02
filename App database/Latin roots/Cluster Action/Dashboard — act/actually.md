@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In actual fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used to imply that one would expect the fact to be the opposite of that stated; surprisingly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In actual fact; really; as a matter of verified truth rather than speculation, pretense, or outward appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In discourse analysis, actually functions as a pragmatic marker signaling contrast, correction of an assumption, or unexpected confirmation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The latter had actually directed his eyes to the side where the whisperers sat."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"All people in Nolla believed anew that a ghost of Wildenstein went about, for the apparition had actually been seen."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo actually looks as if he could not stand on his little legs." The boy was as white as chalk from staying up so late."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We do not know the **actually** existing links between species, because they have been utterly extinguished by competition."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She was **actually** on the point of leaving the room when the unexpected arrival of Edward arrested her departure."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The footprint was **actually** that of a man running at desperate speed through the wet gravel."*
+

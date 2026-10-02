@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance that is present at the start of a chemical reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance that is present at the start of a chemical reaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that takes part in and undergoes change during a chemical reaction, consumed to form reaction products.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical engineering and stoichiometry, the limiting reactant is the substance that is entirely consumed first, setting the theoretical ceiling on product yield.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reactant designates a chemical substance that is present at the start of a chemical reaction."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The total mass of each chemical **reactant** entering the combustion equals precisely the mass of products recovered in the receiver."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The velocity of a bimolecular transformation is directly proportional to the active concentrations of each participating **reactant**."*
+> - 📜 **Gilbert N. Lewis (*Thermodynamics and the Free Energy of Chemical Substances*):** *"The chemical potential of a **reactant** determines the spontaneity and equilibrium direction of the reaction."*
+

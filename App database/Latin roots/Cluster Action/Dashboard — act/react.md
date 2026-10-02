@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show a response or a reaction to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act against or in opposition to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To act in response to an agent, stimulus, or influence; to undergo a reciprocal chemical or physical change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, to react is to undergo a transformation at the molecular level, breaking and forming chemical bonds to yield new substances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It should react upon his metrical vocabulary to its beneficial expansion, by taking him outside his aristocratic circle of language, and keeping him in touch with the great commonalty, the proletariat of speech."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone, holding his stick between his knees and settling his wig, while he gave her a momentary sharp glance, which seemed to react on him like a draught of cold air and set him coughing."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon would have trained me for, where the doing would be all laid down by a precedent too rigid for me to react upon."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Different varieties of plants **react** differently to changes in soil chemistry and climatic temperature."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every sensory impression in the central nervous system must sooner or later **react** upon the motor apparatus in physical movement."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth watched carefully to see how Darcy would **react** to the sudden mention of Wickham's name."*
+

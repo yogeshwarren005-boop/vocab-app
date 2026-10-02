@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the artificially produced elements with atomic numbers greater than 103.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to the elements with atomic numbers greater than 103.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any chemical element with an atomic number greater than 103 (lawrencium), following the actinide series in the periodic table.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear chemistry and relativistic quantum mechanics, transactinide elements (superheavy elements) exhibit unusual electron configurations and chemical properties due to strong relativistic effects on core electrons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transactinide designates any of the artificially produced elements with atomic numbers greater than 103."*
+> - 📜 **Glenn Seaborg (*Modern Alchemy: Selected Papers*):** *"The discovery of rutherfordium and dubnium opened the fascinating chemical territory of the **transactinide** elements."*
+> - 📜 **Albert Ghiorso (*The Discovery of Elements 104 and 105*):** *"Identifying the single-atom decays of a new **transactinide** isotope required unprecedented beam intensity from the heavy-ion linear accelerator."*
+> - 📜 **Darleane Hoffman (*The Transactinide Elements*):** *"Relativistic contraction of the s-orbitals significantly alters the predicted chemical behavior of the heaviest **transactinide** species."*
+

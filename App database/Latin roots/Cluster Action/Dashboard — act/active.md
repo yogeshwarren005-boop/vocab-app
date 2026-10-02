@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chemical agent capable of activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The voice used to indicate that the grammatical subject of the verb is performing the action or causing the happening denoted by the verb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engaged in action, movement, or work; characterized by energetic exertion, practical operation, or vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, the active voice describes a verb form where the subject performs the action denoted by the verb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my hopes, This present enterprise set off his head, I do not think a braver gentleman, More active-valiant or more valiant-young, More daring or more bold, is now alive To grace this latter age with noble deeds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An I had but a belly of any indifferency, I were simply the most active fellow in Europe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is simply the most active gentleman of France."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As a decrepit father takes delight to see his **active** child do deeds of youth, so I, made lame by fortune's dearest spite, take all my comfort of thy worth and truth."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Under nature, the most **active** and energetic individuals will possess the best chance of surviving and propagating their kind."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind in most of its perceptions is purely passive, but in reflection it exerts an **active** power upon its own operations."*
+

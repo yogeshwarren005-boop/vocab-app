@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female actor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female actor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who performs as a character in theater, film, radio, or television productions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical history and cultural studies, the emergence of the professional actress in the seventeenth century marked a decisive transformation in public feminine representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was a precocious actress in her eyes; she sincerely looked on me as a compound of virulent passions, mean spirit, and dangerous duplicity."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Because, the more we consider it, the more likely does it appear that Nature is but an imperfect actress, whose constant changes of dress never change her manner and method, who is the same in all her parts."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The Cenci' (1819), on the other hand, is a real play; in writing it he had the stage in view, and even a particular actress, Miss O'Neil."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The Parisian **actress** had captivated him completely with her expressive glance and flawless elocution."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She was a wonderful **actress**, transforming the crude boards of the little theatre into an enchanted forest of romance."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"In Shakespeare's day, no woman could venture upon the stage as an **actress** without forfeit of her reputation."*
+

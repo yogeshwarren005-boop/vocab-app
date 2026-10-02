@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the work of an actuary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the work of an actuary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to actuaries, or the statistical calculations of risk, mortality, and life expectancy used in insurance and pension management.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In risk management and financial mathematics, actuarial science integrates probability, compound interest theory, and demographic modeling to price annuity policies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most useful actuarial equivalent of the single premium is the level annual premium for any period (term or life)."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In "scientific" insurance the insured pays its full actuarial cost for each additional feature of the policy that he buys."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To this end there should be interstate comity and coöperation, so that the insured could at any time transfer his actuarial equity from one state to another. § 17. #The contributory principle#."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The chance of loss in maritime ventures requires careful **actuarial** estimation before an equitable premium can be settled."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"The mathematical foundation of **actuarial** tables rests upon the regular statistical distribution of human longevity."*
+> - 📜 **Richard Price (*Observations on Reversionary Payments*):** *"Without rigorous **actuarial** principles, the most benevolent pension society inevitably drifts toward financial insolvency."*
+

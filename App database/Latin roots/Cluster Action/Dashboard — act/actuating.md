@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in motion or move to act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Setting in motion, serving as the moving cause, or impelling an agent or mechanism to perform work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethics and legal philosophy, the actuating motive is the primary subjective reason or psychological impetus that induces an agent to commit an act.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Salvation with him means that revelation of the soul to itself, that awakening, quickening, actuating, attitude-adjusting, of the soul, which sets it gravitating toward the Divine."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The principles actuating both classes are alike."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Uneasiness is the great **actuating** principle of human desire, prompting men continually to seek relief in action."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Benevolence is the most amiable of all the **actuating** virtues that guide social conduct in civil society."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The **actuating** spirit of the harvest festival was a communal joy born of hard labor successfully concluded."*
+

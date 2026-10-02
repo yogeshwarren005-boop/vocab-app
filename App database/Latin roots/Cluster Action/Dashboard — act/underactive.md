@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally inactive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally inactive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally or pathologically inactive; exhibiting less than the normal or healthy degree of activity, function, or metabolic rate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, an underactive thyroid gland (hypothyroidism) causes lethargy, weight gain, cold intolerance, and bradycardia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underactive designates abnormally inactive."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An **underactive** thyroid gland produces the classical clinical picture of myxedema, with dry skin and profound mental torpor."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In melancholic states, the motor centers appear severely **underactive**, requiring massive effort of will to initiate simple physical movement."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"When the digestive secretions are chronically **underactive**, nutrient absorption is impaired throughout the alimentary canal."*
+

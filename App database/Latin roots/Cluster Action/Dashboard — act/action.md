@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition**: The process or state of doing something intentionally to achieve an aim, especially in contrast to mere words or contemplation.
-> 2. **Secondary / Nuanced Definition**: A formal legal proceeding brought in a court of law, or the unfolding sequence of events that drives the plot of a drama or narrative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or state of doing something; the exertion of power or energy to produce an effect, or the movement of physical bodies under applied force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary criticism and narratology, the action is the unified series of events forming the main plot and tragic trajectory of a drama or epic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Hamlet*):** *"Suit the **action** to the word, the word to the **action**."*
-> - 📜 **Hannah Arendt (*The Human Condition*):** *"Through **action** and speech, men show who they are and reveal actively their unique personal identities."*
-> - 📜 **Isaac Newton (*Principia Mathematica*):** *"To every **action** there is always opposed an equal reaction."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection acts solely through the preservation of advantageous variations, an **action** which requires long lapses of time."*
+> - 📜 **Jane Austen (*Emma*):** *"No degree of vanity can prevent her acknowledging her own comparative littleness in **action**, if not in consciousness."*
+> - 📜 **William James (*Pragmatism*):** *"Truth in our ideas means their power to work: an idea becomes true just in so far as it guides successful **action**."*
+

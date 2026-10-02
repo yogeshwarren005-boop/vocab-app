@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim as due or just.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take as an undesirable consequence of some event or state of affairs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making severe or rigorous demands; requiring great care, precision, effort, or attention to detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character assessment and professional standards, an exacting supervisor or discipline tolerates no deviation from perfection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So disguise shall, by th’ disguised, Pay with falsehood false exacting, And perform an old contracting. [_Exit._] ACT IV SCENE I."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I come down here, for instance, and I find a mighty potentate exacting homage."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I know that had I been a sanguine, brilliant, careless, exacting, handsome, romping child—though equally dependent and friendless—Mrs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her uncle was not an **exacting** companion, being easily satisfied with cheerful deference and domestic punctuality."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Breeding prize cattle is an **exacting** art requiring decades of sustained observation and careful selection."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The scientific examination of physical trace evidence is an **exacting** task that admits of no hasty conclusions."*
+

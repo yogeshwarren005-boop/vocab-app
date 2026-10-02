@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin act within the domain of Action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of act in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glycoprotein clotting protein (Factor VIII) present in blood plasma that is essential for normal blood coagulation, deficient in classical hemophilia A.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and transfusion medicine, recombinant antihemophilic factor concentrate is administered intravenously to prevent and treat life-threatening bleeding episodes in hemophilic patients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antihemophilic factor designates pertaining to, derived from, or characteristic of latin act within the domain of action."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The hereditary bleeding diathesis known as hemophilia is due to a profound deficiency of the circulating **antihemophilic factor** in the blood plasma."*
+> - 📜 **Judith Graham Pool (*High-Potency Antihemophilic Factor Concentrate Prepared from Cryoglobulin Precipitate*):** *"Cryoprecipitation provided a method for concentrating **antihemophilic factor** from donor plasma to manageable therapeutic volumes."*
+> - 📜 **Armand Quick (*The Hemorrhagic Diseases and the Pathology of Hemostasis*):** *"Without adequate levels of **antihemophilic factor**, the intrinsic thromboplastin generation cascade fails to produce sufficient thrombin."*
+

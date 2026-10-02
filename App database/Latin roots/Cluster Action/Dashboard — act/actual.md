@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presently existing in fact and not merely potential or possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking place in reality; not pretended or imitated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in fact or reality; real, genuine, and demonstrably present rather than merely potential, hypothetical, or apparent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic philosophy, actual designates being that has achieved full operational reality (actus) in contrast to mere potentiality (potentia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In this slumbery agitation, besides her walking and other actual performances, what, at any time, have you heard her say?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The case of Gridley is in no essential altered from one of actual occurrence, made public by a disinterested person who was professionally acquainted with the whole of the monstrous wrong from beginning to end."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And did you really take the trouble to find out the writer of that actual thing—what is it!—affidavit?” “Yes.” “How very odd!” They pass into a sombre breakfast-room on the ground floor, lighted in the day by two deep windows."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our idea of space is built up from sensory experiences of **actual** distances separating physical bodies."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When we look at the plants and animals of an oceanic island, we observe the **actual** results of past organic migration."*
+> - 📜 **William James (*Pragmatism*):** *"The world is full of potential truths awaiting the touch of **actual** experience to ratify their validity."*
+

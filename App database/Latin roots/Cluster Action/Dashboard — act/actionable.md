@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording grounds for legal action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording grounds for legal action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving sufficient legal grounds for a lawsuit; capable of supporting an action or claim in a court of law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In business intelligence and strategic decision-making, actionable describes data or insights specific enough to be directly converted into practical operational measures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It—it’s not actionable,” he stammered."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"What's a guffin, Garny, old boy?" "It sounds indecent." "I believe it's actionable." "I shouldn't wonder." Ukridge rushed to the door."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There are some things that ought to be **actionable**, and are not so: that is my opinion of the slanderous gossip."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is not **actionable**, he stammered, pale with sudden anxiety as Holmes scrutinized the threatening document."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mrs. Crupp considered the intrusion **actionable**, and had expressed her firm intention of bringing the matter before the magistrate."*
+

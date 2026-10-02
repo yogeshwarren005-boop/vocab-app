@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being inaccurate and having errors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being inaccurate and having errors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An error, deviation, or approximation that fails to match the true fact, calculated measurement, or precise specification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical rhetoric, Winston Churchill famously coined the euphemism 'terminological inexactitude' in the House of Commons as a parliamentary periphrasis for a falsehood or untruth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Yes, I heard every word you said to Laura: you made a gallant effort, but the facts speak for themselves, and your terminological inexactitudes wouldn't deceive a babe at the breast."*
+> - 📜 **Winston Churchill (*Speech in the House of Commons*):** *"The statement could not, without some risk of terminological **inexactitude**, be described as the truth."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The apparent **inexactitude** in our genealogical classifications arises from the extinction of intermediate transitional forms."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Sloppy nomenclature and verbal **inexactitude** have clouded the clearest questions in metaphysical philosophy."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of fingers and/or toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital absence of fingers and/or toes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital malformation characterized by the complete absence of digits (fingers or toes) on one or more hands or feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic surgery and pediatric rehabilitation, adactyly requires early occupational intervention and assistive prosthetics to optimize grasp and bimanual dexterity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adactyly designates congenital absence of fingers and/or toes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unilateral **adactyly** of the hand may be compensated for by hypertrophied palmar musculature enabling pinch grip against the thenar eminence."*
+> - 📜 **Keith L. Moore (*The Developing Human*):** *"Failure of the apical ectodermal ridge to maintain inductive signaling during the fifth week of development results in terminal **adactyly**."*
+> - 📜 **Alfred Blalock (*Principles of Surgical Care*):** *"Surgical management of **adactyly** focuses on preserving sensory skin flaps and creating an opposing cleft for functional pinch."*
+

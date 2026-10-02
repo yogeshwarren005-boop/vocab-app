@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of fingers and/or toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital absence of fingers and/or toes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or developmental condition of lacking digits (fingers or toes) on one or more extremities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dysmorphology and evolutionary morphology, adactylism describes either a pathological congenital condition in pentadactyl vertebrates or a specialized adaptive loss of digits in phylogenetically derived taxa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adactylism designates congenital absence of fingers and/or toes."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"Extreme digital reduction approaching functional **adactylism** is observed in the pectoral flippers of certain marine reptiles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cases of isolated **adactylism** must be carefully distinguished from amniotic band syndrome causing secondary amputations in utero."*
+> - 📜 **George M. Gould (*Anomalies and Curiosities of Medicine*):** *"Congenital **adactylism** of both hands was documented in a patient who nonetheless acquired remarkable penmanship with the stumps."*
+

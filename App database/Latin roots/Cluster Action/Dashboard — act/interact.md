@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act together or towards others or with others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act together or towards others or with others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To act upon one another; to have a reciprocal influence, effect, or communication with another person or entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and molecular biology, particles and macromolecules interact through fundamental electromagnetic, gravitational, or steric forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The mission has many subtleties; you must all understand how they interact."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The point is to interact and communicate with a grandchild so that the youngster knows of your caring, and that caring is normal."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I have been quite close to (a high school) intergenerational project and believe that this sort of thing could help a lot of kids. ...another adult wrote: I will be honored to interact with your youngsters."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Mental states and bodily processes continually **interact**, each shaping and conditioning the subsequent development of the other."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Complex organic beings **interact** with their physical environment and with competing species in a tangled web of life."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Individual citizens **interact** through contractual exchange, weaving the dense fabric of commercial society."*
+

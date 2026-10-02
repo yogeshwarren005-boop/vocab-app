@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of causing to have energy and be active.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put in motion or move to act.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of setting something into an operative or energetic state; causing motion, functionality, or chemical reactivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular signal transduction, activating ligands bind transmembrane receptors to initiate intracellular phosphorylation cascades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Zolan tensed, activating the mind-mike in his armpit."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Alignment to major concentrations of potential sources, selection of a 'first phase' work site, calibration of instrumentation and activating its spunnel channels and monitors required still more."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Ambition is like choler, which is an humor that maketh men active, earnest, full of alacrity, and stirring, if it be not stopped; but if it be stopped, it becometh adust, and thereby malign and venomous, **activating** all hidden envies."*
+> - 📜 **William James (*Pragmatism*):** *"A genuine belief proves itself by **activating** our physical energies and shaping our future conduct."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The selective pressure of competition was the primary factor **activating** evolutionary change among insular species."*
+

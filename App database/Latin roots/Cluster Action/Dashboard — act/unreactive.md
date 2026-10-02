@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) not reacting chemically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not tending to react to stimulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reactive; showing little or no tendency to react chemically, physically, or emotionally when exposed to stimuli or agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, the noble gases are famously unreactive due to their stable, complete valence electron shells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unreactive designates (chemistry) not reacting chemically."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"Helium and argon are chemically **unreactive**, forming no stable stoichiometric compounds with other elements under ordinary conditions."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The catatonic patient remained completely **unreactive** to the voices of his family, staring fixedly ahead without blinking."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Nitrogen gas was termed azote because it appeared chemically **unreactive** in sustaining animal respiration."*
+

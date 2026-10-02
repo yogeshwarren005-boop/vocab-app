@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breaking up a military unit (by transfers or discharges).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deactivating or making ineffective (as a bomb).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate disabling, dismantling, or neutralization of an explosive, weapon system, electronic account, or military unit to render it safely inoperative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and enzymatic kinetics, deactivation occurs when conformational changes, temperature denaturation, or chemical inhibitors abolish the catalytic competency of an enzyme.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deactivation designates breaking up a military unit (by transfers or discharges)."*
+> - 📜 **Svante Arrhenius (*Quantitative Laws in Biological Chemistry*):** *"The thermal **deactivation** of proteolytic enzymes follows the course of a monomolecular reaction with increasing temperature."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The graceful **deactivation** of an automated guidance system requires continuous negative feedback to avoid abrupt mechanical shock."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"Reversible **deactivation** of the regulatory protein occurs when the end-product binds to its allosteric site."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of actually existing objectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of actually existing objectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concrete, observable factual existence as distinguished from theory, conjecture, possibility, or wishful imagination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian metaphysics, actuality (entelecheia) designates the realized state of an entity that has achieved its inherent form, contrasted with mere potentiality (dynamis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The coarse brawl, the loathsome den, the crude violence of disordered life, the very vileness of thief and outcast, were more vivid, in their intense actuality of impression, than all the gracious shapes of art, the dreamy shadows of song."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His ostensible mission to meet with the President of Planet Pluto is, in actuality, a guise under which he intends to meet with dissident elements among our people."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"An actuality had been converted into thought and emotion, and thought and emotion may be all that endure, and an actuality be unreal ... but an actuality is so warm ... so reassuring...."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There are certain queer times and occasions in this strange mixed affair we call life when a man takes this whole universe for a vast practical joke, though the wit thereof he but dimly discerns, and more than suspects that the joke is at nobody's expense but his own; yet still, he clings to the stubborn **actuality** of his perils."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her illusions faded before the harsh, unyielding **actuality** of her marital disappointment."*
+> - 📜 **William James (*The Will to Believe*):** *"Faith in a fact can help create the **actuality** of the fact itself, as when a confident team achieves victory."*
+

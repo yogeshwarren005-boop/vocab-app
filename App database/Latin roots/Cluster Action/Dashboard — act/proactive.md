@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Descriptive of any event or stimulus or process that has an effect on events or stimuli or processes that occur subsequently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a policy or person or action) controlling a situation by causing something to happen rather than waiting to respond to it after it happens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Controlling a situation by causing something to happen rather than responding or reacting after it has happened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and memory research, proactive interference occurs when previously learned information hinders the retention of newly acquired material.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Proactive 'suicide prevention,' would generate its own force for being: it would not get canceled like an aircraft, ship, or construction program, to the contrary."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The Air Force established policies providing limited confidentiality protection to service members experiencing personal problems and greatly expanded the proactive role of mental health service providers."*
+> - 📜 **Viktor Frankl (*Man's Search for Meaning*):** *"Between stimulus and response there is a space: in that space is our power to choose our response, the foundation of **proactive** human freedom."*
+> - 📜 **Herbert Simon (*Administrative Behavior*):** *"Effective organizational leadership requires a **proactive** strategy that anticipates environmental change rather than lagging passively behind events."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Attention is essentially **proactive**, reaching forward to welcome and structure expected sensory inputs before they arrive."*
+

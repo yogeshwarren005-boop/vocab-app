@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conduct business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conduct business.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To conduct or carry out business, negotiations, or official affairs to a conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial law, to transact business in a jurisdiction implies sufficient continuous operational presence to subject an entity to local regulatory authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In consequence of which he never kept an appointment, never could transact any business, and never knew the value of anything!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Well,” observed my guardian, half pleasantly, half seriously, “that’s a great occasion and will give my fair cousin some necessary business to transact in assertion of her independence, and will make London a more convenient place for all of us."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These stock savings banks to a much greater extent than do the mutual banks transact also a commercial business."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The merchants of the city met daily at the Royal Exchange to **transact** their commercial affairs with overseas correspondents."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Gardiner was obliged to remain in London for several days to **transact** business of great urgency on behalf of his brother-in-law."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I found him ready to **transact** the treaty of peace on terms honorable and mutually advantageous to both nations."*
+

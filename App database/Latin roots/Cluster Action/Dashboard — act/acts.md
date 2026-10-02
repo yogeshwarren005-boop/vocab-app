@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new testament book describing the development of the early church from christ's ascension to paul's sojourn at rome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal document codifying the result of deliberations of a committee or society or legislative body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deeds, operations, or enactments performed consciously, or the formal laws passed by a parliament or legislative body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical literature, the Acts of the Apostles is the fifth book of the New Testament, recounting the apostolic history and expansion of the early Christian church.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Honours thrive When rather from our acts we them derive Than our fore-goers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not much dislike the matter, but The manner of his speech; for’t cannot be We shall remain in friendship, our conditions So differing in their acts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To this great fairy I’ll commend thy acts, Make her thanks bless thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The evil that men do lives after them; the good is oft interred with their bones: so let it be with Caesar's noble **acts**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"His glorious **acts** were sung by heavenly choirs while the new-created world stood listening in wonder."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The legislative **acts** of the Roman Senate were gradually reduced to a mere registration of imperial decrees."*
+

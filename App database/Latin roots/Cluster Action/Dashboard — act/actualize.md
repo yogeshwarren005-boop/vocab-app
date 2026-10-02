@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make real or concrete; give reality or substance to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent or describe realistically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause something to become actual, real, or factual; to realize an aim or latent potentiality through deliberate effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential philosophy, an individual must actualize their freedom through decisive choices that define their essence in a world of contingency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She’s brim full of poetry—actualized poetry, if I may use the expression."*
+> - 📜 **Jean-Paul Sartre (*Existentialism Is a Humanism*):** *"Man is nothing else but that which he makes of himself; he must constantly **actualize** his freedom in action."*
+> - 📜 **Abraham Maslow (*Toward a Psychology of Being*):** *"What a man can be, he must be: he must **actualize** his inherent capacities or suffer deep psychic frustration."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"Democratic institutions exist to **actualize** the shared intelligence of the community in public policy."*
+

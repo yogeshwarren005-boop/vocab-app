@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of working jointly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of working jointly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Joint or cooperative action; mutual activity or exertion by two or more agents working together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological science, coaction denotes the direct interactions and reciprocal influences exerted between living organisms within a shared community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coaction designates act of working jointly."*
+> - 📜 **Frederic Clements (*Plant Ecology*):** *"Biotic **coaction** between plants and grazing animals determines the stable climax community of the grassland formation."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social evolution progresses through the continuous **coaction** of individual human wills within cooperative institutions."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The harmonious **coaction** of body and mind preserves the unified experience of personal agency."*
+

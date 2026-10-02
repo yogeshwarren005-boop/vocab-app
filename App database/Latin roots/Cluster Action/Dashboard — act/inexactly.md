@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imprecise manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imprecise manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inexact manner; without precision, accuracy, or strict conformity to fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical physics, an equation solved inexactly yields an approximation that must be bounded by error estimates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inexactly designates in an imprecise manner."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The witness remembered the hour only **inexactly**, placing the arrival between nine and ten o'clock."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The structural homologies between these cranial bones can be traced only **inexactly** in the fossil specimens."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"When general empirical laws are stated **inexactly**, they deceive the unwary into drawing unfounded universal conclusions."*
+

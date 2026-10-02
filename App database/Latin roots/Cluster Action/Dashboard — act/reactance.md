@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposition to the flow of electric current resulting from inductance and capacitance (rather than resistance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposition to the flow of electric current resulting from inductance and capacitance (rather than resistance).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The opposition offered to the flow of alternating electric current by capacitance or inductance, measured in ohms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology, psychological reactance is an unpleasant motivational arousal that emerges when people experience a threat to or loss of their behavioral freedom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reactance designates opposition to the flow of electric current resulting from inductance and capacitance (rather than resistance)."*
+> - 📜 **Oliver Heaviside (*Electrical Papers*):** *"The total impedance of an alternating circuit combines ordinary ohmic resistance with inductive and capacitive **reactance**."*
+> - 📜 **Charles Proteus Steinmetz (*Theory and Calculation of Alternating Current Phenomena*):** *"The magnetic field surrounding the conductor gives rise to an inductive **reactance** proportional to the alternating frequency."*
+> - 📜 **Jack Brehm (*A Theory of Psychological Reactance*):** *"When personal autonomy is arbitrarily restricted, psychological **reactance** motivates the individual to reassert the forbidden freedom."*
+

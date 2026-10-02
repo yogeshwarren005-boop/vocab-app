@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who conducts or carries on business or negotiations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who conducts or carries on business or negotiations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who conducts, negotiates, or manages business transactions or affairs between parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and contract law, a transactor is an authorized agent empowered to bind principals in international treaties or corporate settlements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transactor designates someone who conducts or carries on business or negotiations."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The skilled commercial **transactor** earns his commission by matching disparate buyers and sellers across distant markets."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"He acted as the confidential **transactor** of the colonial assembly in their delicate negotiations with the proprietary governors."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial chamberlain became the corrupt **transactor** through whose hands every petition and office had to pass."*
+

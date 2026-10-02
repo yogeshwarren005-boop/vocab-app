@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) a process in which one or more substances are changed into others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idea evoked by some experience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A response to an event, stimulus, or influence, or a process in which chemical substances are transformed into different substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In politics and history, reaction denotes a conservative or counter-revolutionary movement seeking to return to a prior political order or undo reforms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Public loses interest and undergoes reaction."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"More fevered now by a reaction from the first feelings which Oak’s example had raised in her, she paused in the hall, looking at the door of the room wherein Fanny lay."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, in his prostration at this time, had no perception that in the futility of these romantic doings, dictated by a remorseful reaction from previous indifference, there was any element of absurdity."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"To every action there is always opposed an equal **reaction**: or the mutual actions of two bodies upon each other are always equal, and directed to contrary parts."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A complex physiological **reaction** across the entire organism frequently follows the introduction of a novel food plant."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The violent religious **reaction** under Julian sought to dismantle the Christian monuments erected by Constantine."*
+

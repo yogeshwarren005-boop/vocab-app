@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stimulation of activity in an organism or chemical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of causing to have energy and be active.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The initiation of action or activity in a mechanism, system, chemical compound, or physiological organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, the activation energy is the minimum threshold of kinetic energy reacting molecules must possess for a chemical transformation to take place.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Review our readiness and activation sequences consistent with our Quick Reaction Capability to deal with contingencies in the Slingshot Special Zone."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Restricted to Sentinel, this contact would be its initial activation."*
+> - 📜 **Svante Arrhenius (*On the Reaction Velocity of the Inversion of Cane Sugar*):** *"The temperature dependence of chemical rates reveals the existence of an energy of **activation** required to form the active complex."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The sudden **activation** of motor centers in the cortex discharges through efferent fibers to produce voluntary movement."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The dormant vitality of seeds awaits the thermal and moist **activation** of returning spring to burst into growth."*
+

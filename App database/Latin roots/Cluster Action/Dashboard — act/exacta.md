@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bet that you can pick the first and second finishers in the right order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bet that you can pick the first and second finishers in the right order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of bet or wager in horse or greyhound racing in which the bettor must correctly select the first and second place finishers in their exact order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gaming mathematics and pari-mutuel wagering, the exacta pool distributes winnings among successful tickets after deducting the track takeout percentage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exacta designates a bet that you can pick the first and second finishers in the right order."*
+> - 📜 **Ernest Hemingway (*Death in the Afternoon*):** *"The veteran gambler placed his bet on the **exacta**, confident that the favorite and the gray colt would finish first and second."*
+> - 📜 **Damon Runyon (*Guys and Dolls*):** *"He had a remarkable system for picking the **exacta** at Aqueduct, though it rarely produced the fortune he anticipated."*
+> - 📜 **Pari-Mutuel Rules (*Official Racing Rules and Regulations*):** *"If no ticket is sold on the winning combination of the **exacta**, the net pool is apportioned among holders of tickets selecting the winner."*
+

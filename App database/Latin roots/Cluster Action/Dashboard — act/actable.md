@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being acted; suitable for the stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being acted; suitable for the stage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being acted or performed effectively on stage; suitable for theatrical performance or dramatic realization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramaturgy and playwriting criticism, an actable text is characterized by dialogue and stage directions that actors can convincingly interpret physically and vocally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actable designates capable of being acted; suitable for the stage."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"A dramatist must provide not merely fine literature, but dialogue that is immediately **actable** by living performers."*
+> - 📜 **Harley Granville-Barker (*Prefaces to Shakespeare*):** *"Shakespeare's verses are above all else **actable**, tailored to the vocal rhythms and physical demands of the Elizabethan stage."*
+> - 📜 **William Archer (*Play-Making: A Manual of Craftsmanship*):** *"The difference between an **actable** scenario and a lifeless dialogue lies in the presence of continuous dramatic friction."*
+

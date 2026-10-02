@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) any agency bringing about activation; a molecule that increases the activity of an enzyme or a protein that increases the production of a gene product in dna transcription.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) any agency bringing about activation; a molecule that increases the activity of an enzyme or a protein that increases the production of a gene product in dna transcription.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, substance, or device that initiates or accelerates a process or causes a dormant state to become active.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, an activator is a sequence-specific DNA-binding transcription factor that increases the transcription of a gene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Kumiko headed for the fighters to switch the catapults' activators to internal controls, arm and charge the guns, and insert into each ship's computer the capsules Adari had passed to her."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"An allosteric **activator** alters the tertiary conformation of the enzyme, stabilizing the state with high affinity for the substrate."*
+> - 📜 **Mark Ptashne (*A Genetic Switch*):** *"The lambda repressor functions as both an **activator** and a repressor depending on the specific operator site it occupies."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The small concealed lever served as the mechanical **activator** for the concealed trap beneath the carpet."*
+

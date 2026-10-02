@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Participating readily in reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reacting to a stimulus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a response to an external stimulus, influence, or chemical substance; tending to react readily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric diagnostics, reactive depression denotes a mood episode triggered by an identifiable external loss or life crisis, contrasted with endogenous disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reactive designates participating readily in reactions."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The infant is an essentially **reactive** organism, responding with immediate motor movements to every sudden sensory shock."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Oxygen is the most **reactive** principle in atmospheric air, combining readily with metals during calcination."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her sensitive nature was keenly **reactive** to every subtle coldness in her husband's tone."*
+

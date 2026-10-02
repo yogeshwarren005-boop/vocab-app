@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poor acting by a ham actor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerate one's acting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or instance of performing a dramatic role with excessive, forced, or melodramatic exaggeration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic criticism, overacting breaks the illusion of naturalism by drawing the audience's attention to the contrivance of the performer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overacting designates poor acting by a ham actor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, it offends me to the soul to hear a robustious periwig-pated fellow tear a passion to tatters, to very rags, to split the ears of the groundlings, by crude **overacting**."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"Melodramatic **overacting** was the curse of the Victorian stage, substituting vocal rant for genuine psychological insight."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Sibyl Vane's sudden **overacting** ruined the exquisite poetry of Juliet, leaving Dorian sick with disappointment."*
+

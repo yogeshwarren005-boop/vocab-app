@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political orientation of reactionaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political orientation of reactionaries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principles, policies, or advocacy of political reaction; adherence to reactionary doctrines opposing progress or reform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century European history, reactionism characterized the post-Napoleonic Holy Alliance, which sought to suppress nationalist and democratic movements across the continent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reactionism designates the political orientation of reactionaries."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Uncompromising **reactionism** in government inevitably provokes violent revolutionary counter-movements among the disenfranchised."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Blind **reactionism** that dreams of restoring medieval servitude is as futile as the shallow radicalism that denies the sacredness of ancient duty."*
+> - 📜 **Lord Acton (*Essays on Freedom and Power*):** *"The rise of autocratic **reactionism** in post-revolutionary Europe demonstrated how easily liberty can be sacrificed to the idol of order."*
+

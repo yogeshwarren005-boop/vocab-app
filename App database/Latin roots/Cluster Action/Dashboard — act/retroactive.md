@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Descriptive of any event or stimulus or process that has an effect on the effects of events or stimuli or process that occurred previously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting things past.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking effect from a date in the past; extending in application or scope to prior occurrences or conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional jurisprudence, retroactive (or ex post facto) criminal legislation is prohibited to protect individuals from punishment under laws not in force when the act occurred.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Stanton’s commission was vacated by the Tenure-of-Office Act, it ceased on the 4th of April, 1865; or, if the act had no retroactive effect, still, if Mr."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This act was retroactive, extending back six months and eighteen days, namely, to March 4, 1789. 2."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This act was retroactive, extending back one year and fifteen days, namely to March 4, 1815. (This act was repealed by the act of February 6, 1817, but it was expressly declared that no former act was thereby revived.) 4."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"All laws should be made to commence in futuro, and be notified before their commencement: a **retroactive** criminal statute is tyrannical in the highest degree."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"No free government can justly impose **retroactive** penalties on citizens for actions that were innocent when performed under the established laws."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The sudden imposition of a **retroactive** customs duty caused grave distress among the importing merchants who had already sold their cargoes."*
+

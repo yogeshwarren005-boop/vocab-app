@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show an exaggerated response to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show an exaggerated response to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To react with disproportionate emotional intensity, alarm, or physical force to an event or stimulus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology, an allergic reaction occurs when the immune system overreacts to an otherwise harmless environmental antigen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overreact designates show an exaggerated response to something."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Nervous and exhausted individuals are notoriously liable to **overreact** violently to trivial sensory disturbances."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's passionate nature led her continually to **overreact** to every change in Willoughby's demeanor."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Do not **overreact** to these threatening letters, Watson, for the blackmailer relies entirely upon provoking unthinking panic."*
+

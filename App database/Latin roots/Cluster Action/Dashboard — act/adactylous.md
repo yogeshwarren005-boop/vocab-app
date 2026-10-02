@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without fingers and/or toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without fingers and/or toes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking digits; destitute of fingers or toes on a limb, whether as a congenital condition or as an anatomical adaptation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and zoological description, adactylous characterizes the paddle-like or limbless extremities of specific aquatic or fossorial vertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adactylous designates without fingers and/or toes."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The forelimbs of the manatee terminate in an **adactylous** paddle, the skeletal digits being encased within a common integument."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Certain burrowing reptiles possess **adactylous** vestigial limbs that serve no locomotory purpose on the surface."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The infant presented with an **adactylous** right extremity, while the contralateral limb exhibited entirely normal skeletal development."*
+

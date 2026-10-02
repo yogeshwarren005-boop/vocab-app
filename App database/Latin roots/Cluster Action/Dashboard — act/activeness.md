@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being active.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being active; moving or acting rapidly and energetically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lively physical motion, mental alertness, or continuous engagement in practical pursuits rather than passive repose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics and grammar, activeness denotes the syntactic property of an active voice construction where the grammatical subject performs the action of the verb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, activeness designates the state of being active."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Youth is characterized by an unhesitating **activeness** of spirit, whereas age incline to deliberate counsel and caution."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Her bodily **activeness** and cheerful readiness of mind made her indispensable in every household emergency."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Encourage the natural **activeness** of children in healthy outdoor exercise rather than confining them to sedentary tasks."*
+

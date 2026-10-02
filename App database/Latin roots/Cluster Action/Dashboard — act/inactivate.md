@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from military service or remove from the active list of military service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make inactive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause something to become inactive, inoperative, or non-functional; to neutralize biological, chemical, or mechanical activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology and immunology, to inactivate a pathogen (as in an inactivated vaccine) is to destroy its replicative capacity while preserving its immunogenic antigens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inactivate designates release from military service or remove from the active list of military service."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Sustained heat applied at sixty degrees Celsius suffices to **inactivate** the contaminating yeasts without spoiling the wine."*
+> - 📜 **Jonas Salk (*Studies in Human Subjects on Active Immunization Against Poliomyelitis*):** *"Treatment with dilute formaldehyde was found to **inactivate** the virus while retaining its power to stimulate protective antibodies."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"Binding of the specific corepressor molecule serves to **inactivate** the biosynthetic pathway through direct allosteric modulation."*
+

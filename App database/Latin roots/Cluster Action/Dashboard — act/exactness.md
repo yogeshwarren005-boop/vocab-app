@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being exact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being exact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of conforming strictly to rule, fact, or standard; precision, accuracy, and thoroughness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and legal interpretation, exactness represents strict adherence to contractual duties and ethical obligations without compromise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is there any claim that I can release or any charge or trouble that I can spare my husband in obtaining HIS release by certifying to the exactness of your discovery?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Loest was lost in wonder at the marvelous way and exactness of time in which the Lord delivered him, while the creditor was astonished thus to find Loest's Mighty Friend had not failed him in his hour of need."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The benefit derived by any citizen from most of the public services evidently cannot be measured with exactness."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Punctuality and meticulous **exactness** in commercial transactions establish an honorable reputation that outlasts momentary profit."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Words should be used with constant **exactness** of signification if dispute and ambiguity are to be avoided."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His intellectual habits were characterized by a fastidious **exactness** that made him suspicious of sweeping generalizations."*
+

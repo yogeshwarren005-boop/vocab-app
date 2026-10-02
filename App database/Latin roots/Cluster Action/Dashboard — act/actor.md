@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theatrical performer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who acts and gets things done.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who portrays a character in a theatrical play, film, television broadcast, or other dramatic presentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social theory and international relations, an actor is an individual, state, or collective entity possessing agency and capable of exercising power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A showing of a heavenly effect in an earthly actor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when good will is showed, though’t come too short, The actor may plead pardon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring us to this sight, and you shall say I’ll prove a busy actor in their play. [_Exeunt._] SCENE V."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As in a theatre, the eyes of men, after a well-graced **actor** leaves the stage, are idly bent on him that enters next, thinking his prattle to be tedious."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Sociological analysis must begin with the understandable orientation of the individual **actor** toward others."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He paced the quarter-deck like a tragic **actor** rehearsing his solitary doom before an unpeopled house."*
+

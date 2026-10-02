@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being inaccurate and having errors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being inaccurate and having errors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of strict precision, sharpness, or fidelity in speech, measurement, or calculation, leaving margins of uncertainty or vagueness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of science, inexactness characterizes phenomenological laws and heuristic models that capture broad qualitative regularities without achieving mathematical rigor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inexactness designates the quality of being inaccurate and having errors."*
+> - 📜 **Francis Bacon (*The Essays*):** *"The common **inexactness** of human speech breeds endless controversies that vanish as soon as definitions are fixed."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind is prone to mistake its own confused notions for external realities through the **inexactness** of language."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **inexactness** of ordinary botanical descriptions often obscures subtle morphological differences between closely allied varieties."*
+

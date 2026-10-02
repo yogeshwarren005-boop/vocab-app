@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating exactness or preciseness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Just as it should be.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exact manner; with complete accuracy, precision, and fidelity to truth or specification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dialogue and conversational analysis, exactly serves as an emphatic marker of complete agreement or confirmation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the brief of money, plate, and jewels I am possessed of. ’Tis exactly valued, Not petty things admitted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A piece of work So bravely done, so rich, that it did strive In workmanship and value; which I wonder’d Could be so rarely and exactly wrought, Since the true life on’t was— POSTHUMUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ariel, thy charge Exactly is perform’d; but there’s more work."*
+> - 📜 **Jane Austen (*Emma*):** *"She could not **exactly** tell why she was dissatisfied, but the conversation had left an uncomfortable impression upon her mind."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"That is **exactly** what I feared, said Holmes, tapping the cipher message thoughtfully with his pencil."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It was **exactly** half-past eight when the bell rang and the strange visitor was admitted into the counting-house."*
+

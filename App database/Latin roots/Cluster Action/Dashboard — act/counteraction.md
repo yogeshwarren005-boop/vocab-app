@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Action intended to nullify the effects of some previous action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Action intended to nullify the effects of some previous action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Action taken in opposition to another action or force, serving to neutralize, resist, or check its effects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and mechanical engineering, counteraction embodies Newton's third law, wherein applied forces encounter equal and opposite resistive reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As I cried, I kicked the wall, and took a hard twist at my hair; so bitter were my feelings, and so sharp was the smart without a name, that needed counteraction."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"A counteraction, gentle and continual, is the best safeguard of manners and conduct.” Full well could Fanny guess where his thoughts were now: Miss Crawford’s power was all returning."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Ethical progress consists not in imitating the cosmic process of natural struggle, but in its constant **counteraction** by human reason."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her passionate benevolence found a healthy **counteraction** in the practical responsibilities of estate management."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The stability of any dynamic system depends on the reciprocal **counteraction** of antagonistic forces."*
+

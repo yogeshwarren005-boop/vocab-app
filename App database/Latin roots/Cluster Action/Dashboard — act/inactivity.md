@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being inactive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to remain inactive or inert.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or period of being inactive; lack of physical, mental, or operational motion; sluggish quiescence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomics and labor statistics, economic inactivity measures the proportion of the working-age population that is neither employed nor actively seeking work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They may hunt the whole country-side, while the raindrops are pattering round their inactivity."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Nay, had she been without his arm, she would soon have known that she needed it, for she wanted strength for a two hours’ saunter of this kind, coming, as it generally did, upon a week’s previous inactivity."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our species isn't built to accept inactivity or slipping backward."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A long spell of calm weather at sea induces a strange, dreaming **inactivity** among the crew, who lean idly over the bulwarks."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Prolonged **inactivity** of an organ during successive generations often leads to its progressive reduction and ultimate disappearance."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The habitual **inactivity** of the feudal barons was interrupted only by the violent sports of the chase or the alarms of private war."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim as due or just.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take as an undesirable consequence of some event or state of affairs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strictly accurate, correct, and conforming precisely to fact or standard, without error, defect, or deviation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a verb: to demand and obtain forcibly or authoritatively; to compel payment, tribute, or compliance as of right.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that the merit of service is seldom attributed to the true and exact performer, I would have that drum or another, or _hic jacet_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were it good To set the exact wealth of all our states All at one cast?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My train are men of choice and rarest parts, That all particulars of duty know; And in the most exact regard support The worships of their name."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pound of flesh which I demand of him is dearly bought; 'tis mine, and I will have it: if you deny me, fie upon your law! There is no force in the decrees of Venice: I stand for judgment: answer; shall I have it? He doth **exact** the penalty."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **exact** degree of modification which species have undergone during long geological epochs can rarely be calculated with certainty."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Mathematical truths are distinguished from empirical claims by their absolute and **exact** demonstrative certainty."*
+

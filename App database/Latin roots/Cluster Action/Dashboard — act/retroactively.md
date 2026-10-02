@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After the fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After the fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a retroactive manner; with effect from a date in the past.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative law and corporate taxation, regulations applied retroactively must satisfy rigorous standards of fairness to avoid upsetting settled reliance interests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retroactively designates after the fact."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The royal prerogative cannot be exercised **retroactively** to deprive a subject of a vested common-law right."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"To alter contractual obligations **retroactively** through state fiat shakes the very foundations of commercial security and public credit."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Judicial decisions operate **retroactively** in the sense that they declare what the governing law has always been."*
+

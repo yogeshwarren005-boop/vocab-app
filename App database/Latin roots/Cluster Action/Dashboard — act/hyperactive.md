@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More active than normal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More active than normal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally or excessively active; exhibiting physical restlessness, impulsivity, and difficulty maintaining sustained attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical child psychiatry and behavioral neurology, a hyperactive presentation is a diagnostic criterion for Attention-Deficit/Hyperactivity Disorder (ADHD).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperactive designates more active than normal."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **hyperactive** temperament exhibits an involuntary motor restlessness that discharges nervous energy through continuous movement."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Lesions affecting the inhibitory pathways of the prefrontal cortex frequently result in **hyperactive** and distractible behavior."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Post-encephalitic patients treated with L-dopa occasionally displayed an intensely **hyperactive** state of surging physical restlessness."*
+

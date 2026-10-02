@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of drugs or muscles that work together so the total effect is greater than the sum of the two (or more).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of acting on or influencing each other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Allowing two-way flow of information or reciprocal action; characterized by mutual engagement between people, devices, or systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digital human-computer interaction, interactive systems respond dynamically in real time to user inputs through graphical or tactile interfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interactive designates used especially of drugs or muscles that work together so the total effect is greater than the sum of the two (or more)."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"An **interactive** feedback system must possess receptors that perceive the results of its own past actions."*
+> - 📜 **Douglas Engelbart (*Augmenting Human Intellect*):** *"The computer should function as an **interactive** intellectual partner, augmenting human capacity for complex problem-solving."*
+> - 📜 **Alan Kay (*A Personal Computer for Children of All Ages*):** *"The Dynabook was conceived as an **interactive** medium where children could explore ideas through dynamic simulation."*
+

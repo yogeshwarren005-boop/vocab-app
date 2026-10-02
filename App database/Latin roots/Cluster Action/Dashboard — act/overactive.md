@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More active than normal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More active than normal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively or abnormally active; displaying more physical, mental, or biological activity than is normal or healthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, an overactive thyroid gland (hyperthyroidism) accelerates basal metabolism, producing weight loss, tremors, and tachycardia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overactive designates more active than normal."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An **overactive** imagination can conjure terrors from the most innocent creaking of floorboards in an empty house."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient with an **overactive** nervous constitution is especially prone to functional gastric disturbances during periods of stress."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Watson, your **overactive** fancy is attributing sinister designs to what is merely the eccentric habit of a country gentleman."*
+

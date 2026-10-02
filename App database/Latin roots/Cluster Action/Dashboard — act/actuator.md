@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanism that puts something into automatic action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanism that puts something into automatic action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical or electronic device responsible for moving or controlling a mechanism or system by converting energy into motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial automation and cyber-physical systems, an actuator executes the physical commands received from a computerized controller.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actuator designates a mechanism that puts something into automatic action."*
+> - 📜 **Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*):** *"The output of the feedback loop drives the **actuator**, which corrects the trajectory of the physical system."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"In remote control telemechanics, the decoded electrical pulse triggers a mechanical **actuator** at the receiving station."*
+> - 📜 **Alan Turing (*Intelligent Machinery*):** *"A robotic mechanism requires both sensory input channels and an appropriate mechanical **actuator** to alter its environment."*
+

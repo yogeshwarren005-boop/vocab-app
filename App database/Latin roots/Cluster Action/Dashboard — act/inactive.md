@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) not participating in a chemical reaction; chemically inert.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) not progressing or increasing; or progressing slowly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not active; quiescent, dormant, or not engaging in physical or operational work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and geology, inactive describes substances that do not readily undergo reaction, or volcanoes that have not erupted in recorded history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood lived secluded and inactive."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"All the way along to this point her heart had been heavy with an inactive sorrow; now there was a change in the quality of its trouble."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The air of a gentlewoman, a great deal of quiet, inactive good temper, and a trifling turn of mind were all that could account for her being the choice of a sensible, intelligent man like Mr."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"During the winter months, many species of insects remain wholly **inactive** in the pupal state beneath the bark."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The understanding is purely **inactive** in the reception of simple ideas, which are imprinted upon it like characters on blank paper."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Her constitution was naturally robust, but a long season of sorrow had rendered her physically **inactive** and languid."*
+

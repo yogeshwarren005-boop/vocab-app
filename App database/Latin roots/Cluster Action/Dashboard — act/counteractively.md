@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a counteractive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a counteractive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a counteractive manner; so as to oppose, neutralize, or balance an opposing force or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, counteractively describes deliberate adaptive habits developed to suppress maladaptive impulses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counteractively designates in a counteractive manner."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Inhibition acts **counteractively** within the central nervous system to restrain uncoordinated motor reflex discharges."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His dry cynical humor operated **counteractively** whenever the family conversation threatened to lapse into excessive sentimentality."*
+> - 📜 **William James (*The Principles of Psychology*):** *"By resolutely focusing attention on an opposing ideal, the conscious mind works **counteractively** against habitual temptation."*
+

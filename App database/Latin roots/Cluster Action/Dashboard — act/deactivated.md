@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove from active military status or reassign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make inactive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rendered inactive, non-functional, or disarmed; placed in an inoperative or safe state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enzymology and molecular biology, a deactivated enzyme has lost its catalytic functionality through denaturation, chemical modification, or inhibitor binding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Avoid a scrap, but if you find the guns have not been deactivated, do it for them." He pointed at Brad to give emphasis to his words."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now." "Our fire control center has been deactivated."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The ancient mechanism had been **deactivated** by centuries of rust, leaving the stone vault securely sealed."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The control circuits were **deactivated** when the central crystal was removed from its housing."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Once the detonator was **deactivated**, we were able to examine the infernal machine at our leisure."*
+

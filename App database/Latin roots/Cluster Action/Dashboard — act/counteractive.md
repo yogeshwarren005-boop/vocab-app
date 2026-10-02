@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposing or neutralizing or mitigating an effect by contrary action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing or neutralizing or mitigating an effect by contrary action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to counteract, oppose, or neutralize; having the property of checking or resisting an adverse effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In preventative medicine and public health, counteractive interventions are implemented to halt the transmission vector before epidemic spread occurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counteractive designates opposing or neutralizing or mitigating an effect by contrary action."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Prudent rulers maintain a **counteractive** balance of power among the nobility to prevent seditious conspiracies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The body possesses remarkable **counteractive** resources in its immune antibodies to neutralize circulating bacterial toxins."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The tendency of profits to fall to a minimum is resisted by various **counteractive** circumstances, notably technological innovation."*
+

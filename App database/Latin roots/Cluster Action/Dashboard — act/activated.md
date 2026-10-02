@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in motion or move to act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make active or more active.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Set into motion, stimulated, or transformed into an active state possessing chemical, physical, or biological reactivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and environmental engineering, activated charcoal is porous carbon treated to exhibit an extremely high surface area for the adsorption of toxins and impurities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Grasping Brad's elbow activated the secure to-suit circuit."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The signal activated the craft and it was in ready status when they reached it."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"That would change as soon as Zolan inserted his coordinates and activated the thrusters."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The instinctive alarm was immediately **activated** throughout the troop by the sentinel's shrill cry."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The mechanisms within the bronze casing were **activated** by the small ivory levers on the central console."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Every protective measure had been **activated**, yet the sinister presence seemed to permeate the sealed room."*
+

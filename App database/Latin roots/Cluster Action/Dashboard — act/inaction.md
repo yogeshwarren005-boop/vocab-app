@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being inactive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being inactive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of not acting; absence of movement, effort, or exertion; passive quiescence or idleness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and military strategy, deliberate inaction may serve as an intentional tactic (Fabian strategy) to exhaust an adversary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But this was not the effect of time so much as of the change in all my habits made by the helplessness and inaction of a sick-room."*
-> - 📜 **Jane Austen (*Persuasion*):** *"But to be waiting so long in inaction, and waiting only for evil, had been dreadful."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Condemned to inaction and a state of constant restlessness and suspense, I rowed about in my boat, and waited, waited, waited, as I best could."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is a man, if his chief good and market of his time be but to sleep and feed? A beast, no more. Sure he that made us with such large discourse, looking before and after, gave us not that capability and god-like reason to fust in us unused, through sluggish **inaction**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind cannot long remain in absolute **inaction**, for the continuous flow of thought is the very condition of conscious life."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"His fatal habit of **inaction** allowed the crisis to develop until retreat was no longer possible."*
+

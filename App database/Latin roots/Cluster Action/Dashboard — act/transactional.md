@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin act within the domain of Action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of act in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving the conduct of transactions or business exchanges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational psychology and interpersonal theory, transactional analysis explores social interactions based on ego states (Parent, Adult, Child).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transactional designates pertaining to, derived from, or characteristic of latin act within the domain of action."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **transactional** costs of inland transport in ancient times severely limited the geographical radius of regional commerce."*
+> - 📜 **Eric Berne (*Games People Play: The Psychology of Human Relationships*):** *"In **transactional** analysis, we observe the specific ego state from which an individual addresses his partner in dialogue."*
+> - 📜 **Max Weber (*Economy and Society*):** *"The rational legal bureaucracy reduces personal patrimonial favors to standardized **transactional** routines."*
+

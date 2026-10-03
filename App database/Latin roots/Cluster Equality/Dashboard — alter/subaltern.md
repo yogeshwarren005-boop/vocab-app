@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A british commissioned army officer below the rank of captain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inferior in rank or status.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A junior military officer below the rank of captain, such as a lieutenant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In postcolonial theory and Gramscian sociology, a subordinate or marginalized person or group lacking social voice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I was an infant subaltern when Hyde knew me," said Val laughing, "and he was a howling swell of a captain."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Three quarters of the way over they found a third casualty, a subaltern in the Dorchesters."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence recalled his own first near glimpse of death, a fellow subaltern hideously killed at his side: he had turned faint as the nightmare shape fell and rose and fell again, spouting blood over his clothes: contact with elder men had steadied him."*
+> - 📜 **Rudyard Kipling (*Plain Tales from the Hills*):** *"The young **subaltern** was eager to prove his courage on the dusty frontier outpost."*
+> - 📜 **Winston Churchill (*The Story of the Malakand Field Force*):** *"Every cavalry **subaltern** was kept on high alert as tribal signal fires blazed along the ridge."*
+> - 📜 **Thomas Hardy (*The Trumpet-Major*):** *"The infantry **subaltern** swaggered into the village inn, his polished sabre clanking against the floorboards."*

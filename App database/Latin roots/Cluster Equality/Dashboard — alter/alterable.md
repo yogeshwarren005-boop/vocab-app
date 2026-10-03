@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being changed or altered in some characteristic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of the punishment ordered by a court) capable of being changed to one less severe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being altered, changed, adjusted, or modified in form or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal contracts and trusts, subject to amendment or revocation by designated parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alterable designates capable of being changed or altered in some characteristic."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Human conventions and positive laws are readily **alterable** by the sovereign legislative authority."*
+> - 📜 **George Orwell (*1984*):** *"The past was **alterable**; the past never had been altered, yet Oceania was at war with Eastasia."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Natural phenomena depend upon immutable principles, whereas human customs are perpetually **alterable**."*

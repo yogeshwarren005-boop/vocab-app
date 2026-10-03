@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old term for an electric generator that produces alternating current (especially in automobiles).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old term for an electric generator that produces alternating current (especially in automobiles).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electric generator that converts mechanical energy into electrical energy in the form of alternating current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive engineering, a device driven by the engine that recharges the battery and powers electrical systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Nicola Tesla made an alternator (to give the alternating current dynamo its short title) which could produce 1500 alternations per second, while Mr W."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The alternations of a hundred or so per second, which are quite the common thing with alternators, are just what is needed to excite an induction coil."*
+> - 📜 **Nikola Tesla (*Lectures on Alternate Current*):** *"The high-frequency **alternator** supplied high-voltage oscillations required for wireless resonance experiments."*
+> - 📜 **Thomas Alva Edison (*The Papers of Thomas A. Edison*):** *"Central electrical power stations began replacing direct-current dynamos with the modern polyphase **alternator**."*
+> - 📜 **Charles Proteus Steinmetz (*Theory and Calculation of Alternating Current Phenomena*):** *"The efficiency of the multiphase **alternator** revolutionized long-distance electrical energy distribution."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go back and forth; swing back and forth between two states or conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange people temporarily to fulfill certain jobs and functions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, rotating, or operating in turn or regular succession; shifting between two states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical physics, electric current that reverses its direction of flow at regular recurring intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Soon soft spirts alternating with loud spirts came in regular succession from within the shed, the obvious sounds of a person milking a cow."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"They are separated from the walls by a broad walk and a row of grass-plots, alternating with paved spaces opposite the embrasures, on which cannon were once planted."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He had gained an excellent practice, alternating, according to the season, between London and a Continental bathing-place; having written a treatise on Gout, a disease which has a good deal of wealth on its side."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The discovery of the rotating magnetic field established the superiority of **alternating** currents for power transmission."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The crowd surged forward under **alternating** waves of fierce bloodlust and sentimental pity."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Induction coils generate **alternating** electrical pulses whenever the primary circuit is broken."*

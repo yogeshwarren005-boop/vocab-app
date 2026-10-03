@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being alterable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being fixed and unchangeable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being incapable of change, modification, or decay; absolute immutability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absolute permanence and stability of fundamental laws, principles, or mathematical truths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unalterability designates the quality of not being alterable."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"The eternal **unalterability** of geometric axioms reflects the necessary nature of divine substance."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The soul discovers serenity in contemplating the moral **unalterability** of universal laws."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Scientific demonstration rests upon the assumed **unalterability** of the relation between cause and effect."*

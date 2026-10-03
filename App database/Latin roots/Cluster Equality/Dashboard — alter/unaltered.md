@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in an original state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining in an original state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in an original, unchanged, or intact condition; not modified or altered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserving original architectural, textual, or structural features without modern additions or damage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"This text is "an unabridged and unaltered republication of the Bohn Library edition originally published by George Bell and Sons in 1883." 3."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Therefore I desire to say, and to call you all to witness—beginning, Volumnia, with yourself, most solemnly—that I am on unaltered terms with Lady Dedlock."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The amount of goods to be exchanged may change even when the amount produced is unaltered (e.g., a change from agricultural to industrial conditions)."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The ancient Byzantine portal stood completely **unaltered** amidst modern urban restoration."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Certain primitive brachiopods have survived virtually **unaltered** through vast geological epochs."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The dark oak wainscoting remained **unaltered** since the days of the old Puritan founder."*

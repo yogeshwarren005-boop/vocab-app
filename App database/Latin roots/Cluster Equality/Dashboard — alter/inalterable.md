@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being changed or altered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being changed or altered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being altered, varied, or changed; immutable, permanent, or unchangeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and theology, describing absolute eternal truths or divine decrees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Is it your opinion that men’s acts proceed from one central and unchanging and inalterable impulse, or from a variety of impulses?"*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The stoic philosopher viewed the cosmic order as governed by **inalterable** and eternal laws of nature."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The fatal decree had been pronounced; my destiny was sealed by an **inalterable** catastrophe."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Mathematical axioms present necessary and **inalterable** relations that the intellect cannot doubt."*

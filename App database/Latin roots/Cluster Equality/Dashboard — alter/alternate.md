@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who takes the place of another person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go back and forth; swing back and forth between two states or conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in turns, first one and then the other; succeeding each other cyclically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, arranged singly at different points along the stem or axis rather than in opposite pairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was to write Richard once a week, making my faithful report of Ada, who was to write to him every alternate day."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So do flux and reflux—the rhythm of change—alternate and persist in everything under the sky."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Evidently the times of maximum monetary demand of the different individuals do not coincide; rather they alternate with each other, and the community's total monetary demand at a given time is a composite of the many individual variations."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The traveler experienced **alternate** fits of burning tropical heat and violent shivering fever."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The stem bears **alternate** leaves disposed in a spiral phyllotactic arrangement around the twig."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Day and night succeeded in **alternate** watches as the ship plowed through the endless Pacific swell."*

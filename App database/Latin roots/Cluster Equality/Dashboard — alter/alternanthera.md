@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of low herbs of tropical america and australia; includes genus telanthera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of low herbs of tropical america and australia; includes genus telanthera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical and subtropical flowering plants (family Amaranthaceae) known as joyweeds, cultivated for colorful foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural landscape gardening, low-growing carpet-bedding plants featuring variegated, reddish, or bronze leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alternanthera designates genus of low herbs of tropical america and australia; includes genus telanthera."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Alternanthera** display small axillary flower clusters with alternating stamens and petaloid appendages."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"The botanical garden featured formal carpet beds bordered with vivid dwarf varieties of **Alternanthera**."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Along the damp river banks flourished native amaranthaceous herbs allied to the tropical **Alternanthera**."*

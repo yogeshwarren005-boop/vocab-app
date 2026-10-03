@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cure or restore to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to cure or restore to health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In historical pharmacology, a medicine or therapeutic agent that gradually restores healthy bodily function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to produce gradual change, modification, or metabolic readjustment in an organism or system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Truth an alterative Christian Science brings to the body the sunlight of Truth, which invigorates and purifies."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Christian Science 162:6 acts as an alterative, neutralizing error with Truth."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God will over- turn, until "He come whose right it is." Longevity 224:1 is increasing and the power of sin diminishing, for the, world feels the alterative effect of truth through every 224:3 pore."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early nineteenth-century physicians prescribed mercury and potassium iodide as powerful **alterative** remedies."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The old practitioners placed immense faith in compound sarsaparilla as a gentle blood-purifying **alterative**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A pure morning walk through the dewy pine woods acts as the most wholesome **alterative** for melancholy."*

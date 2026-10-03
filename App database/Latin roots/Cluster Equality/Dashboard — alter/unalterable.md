@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being changed or altered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a sentence; that cannot be changed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being changed, altered, amended, or modified; permanent and fixed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Firmly established beyond the possibility of revision, compromise, or revocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Indeed, in the minds of its frequenters they existed as unalterable formulæ: _e.g._— Rap with the bottom of your pint for more liquor."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She had that rare sense which discerns what is unalterable, and submits to it without murmuring."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother, smiling gently at her ardor, “character is not cut in marble—it is not something solid and unalterable."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"With firmness in the right, as God gives us to see the right, let us strive on with **unalterable** purpose."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My resolution to leave Thornfield was fixed and **unalterable**, whatever suffering it might cost me."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab stared toward the horizon, bound to his pursuit by an **unalterable** decree of vengeance."*

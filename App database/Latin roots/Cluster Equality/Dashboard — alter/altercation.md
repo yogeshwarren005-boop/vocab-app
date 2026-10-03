@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noisy quarrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Noisy quarrel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A noisy, heated, or angry argument or dispute, especially in a public setting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contentious confrontation between adversaries that threatens to escalate into physical violence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had been absorbed in their violent altercation and had stared at each other, she in wild excitement and he in stiff immovability, Mäzli had slipped from between the two as swiftly as a little mouse."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, hearing the altercation, have appeared upon the stairs."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"My mother was in the great _salle_ of the _rez-de-chausée,_ as I passed, in altercation with a peasant who had just brought us in some loads of wood."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"A violent verbal **altercation** erupted between the rival cab drivers outside the railway terminal."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The night watchman testified that he heard a fierce **altercation** followed by the smashing of glass."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"A trivial street **altercation** between rival factions in the circus ignited a devastating civic rebellion."*

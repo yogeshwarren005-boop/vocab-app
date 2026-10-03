@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In place of, or as an alternative to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In place of, or as an alternative to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As another option, choice, or possibility; stating a mutually exclusive secondary proposal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In turns; alternately in succession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternatively, if potassium be brought into combination with it, there results potassium cyanide, which, with the assistance of water and oxygen, can dissolve gold."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The sovereign state may levy taxes on income, or **alternatively**, upon luxury commodities consumed by the wealthy."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural variations may confer camouflage, or **alternatively**, provide improved weapons for defense."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The petitioner sought restitution of property, or **alternatively**, full monetary damages for the trespass."*

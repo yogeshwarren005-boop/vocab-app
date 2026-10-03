@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a disagreement over something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a disagreement over something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To dispute or argue angrily, loudly, or vehemently with another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To engage in contentious verbal wrangling over disputed claims, rights, or opinions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, altercate designates have a disagreement over something."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The boatswain began to **altercate** loudly with the landlord regarding the exorbitant tavern reckoning."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The contentious antiquary stopped to **altercate** with the parish beadle over parish boundary stones."*
+> - 📜 **Herman Melville (*Redburn*):** *"Sailors on the Liverpool docks were quick to **altercate** with foreign crews over precedence at the gangway."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being alterable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being alterable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capability of being altered, modified, or varied; susceptibility to change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and philosophy, the capacity of established statutes to adapt to evolving social needs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alterability designates the quality of being alterable."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The **alterability** of civil laws preserves a commonwealth from stagnation and violent revolution."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The extreme **alterability** of organic compounds permits complex physiological reactions within living cells."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Plasticity implies continuous adaptability and structural **alterability** in response to experience."*

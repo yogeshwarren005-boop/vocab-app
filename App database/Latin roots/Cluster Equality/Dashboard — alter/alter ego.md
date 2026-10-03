@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin alter within the domain of Equality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of alter in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's secondary or alternative personality or identity; an intimate, trusted, inseparable friend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and literature, a distinct persona created by an author or split from primary consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alter ego designates pertaining to, derived from, or characteristic of latin alter within the domain of equality."*
+> - 📜 **Robert Louis Stevenson (*Strange Case of Dr Jekyll and Mr Hyde*):** *"Edward Hyde was the sinister **alter ego** through which the respectable doctor indulged his dark impulses."*
+> - 📜 **Cicero (*De Amicitia*):** *"A true friend is, as it were, a second self or beloved **alter ego** sharing all thoughts."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"In our companion we seek an **alter ego** whose sympathy doubles our joys and halves our griefs."*

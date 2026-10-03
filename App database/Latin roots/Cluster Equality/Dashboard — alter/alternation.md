@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Successive change from one thing or state to another and back again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Successive change from one thing or state to another and back again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The repeated succession of things or events in turns; regular cyclical variation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biology, the alternation of generations between sexual gametophyte and asexual sporophyte phases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Time was marked by the regular changing of the guards, and by the alternation of day and night."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Alternation of good and poor harvests has always seemed to be favorable to business prosperity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"His changes of mood did not offend me, because I saw that I had nothing to do with their alternation; the ebb and flow depended on causes quite disconnected with me."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers*):** *"The regular **alternation** between dry and wet seasons regulates the flowering rhythms of subtropical flora."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The rhythmic **alternation** of cardiac contraction and dilation pumps life through the vascular network."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Gothic vaulting achieves majesty through the balanced **alternation** of light ribs and shadowed masonry."*

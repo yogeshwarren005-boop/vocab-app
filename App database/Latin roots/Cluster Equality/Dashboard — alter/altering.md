@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sterilization of an animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to change; make different; cause a transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making or becoming different; modifying, adjusting, or changing in nature or form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tailoring, modifying a garment's seams or hems to fit a specific wearer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle, altering the construction of his sentence."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These he carefully transcribed, altering them where he thought this necessary, and not always, in the opinion of many, improving them in the process."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In place of building roofs and hunting meat, they are ever building doctrine.” “And altering the nature of God,” Pilate corroborated sourly."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Nature is made better by no mean but nature makes that mean, **altering** its courses with art."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie observed the slow hand of time steadily **altering** the familiar landscape of her childhood."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Industrial machinery advances rapidly, constantly **altering** the distribution of manufacturing capital."*

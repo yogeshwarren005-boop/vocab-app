@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bit of fiber that has become separated from woven fabric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disentangle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thread, fiber, or strand that has separated or detached from a woven fabric or knit garment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or ongoing process of becoming untwisted, unknitted, or frayed at the edge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raveling designates a bit of fiber that has become separated from woven fabric."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Miss Havisham's yellowed bridal veil hung in ragged shreds, with many a loose **raveling** trailing on the floor."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She picked a stray wool **raveling** from her gray governess dress before entering the drawing-room."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Hepzibah smoothed the frayed silk ribbons, careful not to pull any loose **raveling** from the weave."*

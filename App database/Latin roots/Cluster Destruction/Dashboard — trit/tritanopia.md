@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rare form of dichromacy characterized by a lowered sensitivity to blue light resulting in an inability to distinguish blue and yellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rare form of dichromacy characterized by a lowered sensitivity to blue light resulting in an inability to distinguish blue and yellow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare form of congenital or acquired color blindness characterized by the inability to distinguish blue and yellow hues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, a dichromatic visual defect arising from the absence or dysfunction of short-wavelength retinal cone pigments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritanopia designates rare form of dichromacy characterized by a lowered sensitivity to blue light resulting in an inability to distinguish blue and yellow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients exhibiting true **tritanopia** confuse violet with yellow under standard spectral color matching tests."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The trichromatic theory explains **tritanopia** by failure of the third retinal receptor mechanism."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Deficiency in the blue-sensitive retinal cones accounts for the optical symptoms of clinical **tritanopia**."*

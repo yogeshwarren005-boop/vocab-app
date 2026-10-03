@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive desire to eat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive desire to eat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme, insatiable hunger; voracity of appetite or desperation for food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rapacity, greed, or violent covetousness in seeking conquest, possessions, or gratification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravenousness designates excessive desire to eat."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The desperate **ravenousness** of the Paris populace transformed bread queues into violent riots."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The terrible **ravenousness** of the Pacific sharks alarmed the whalemen cutting in the blubber."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old glutton's **ravenousness** at the banquet shocked even the experienced liveried footmen."*

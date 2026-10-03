@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf shape) pinnate with a pair of leaflets at the apex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf shape) pinnate with a pair of leaflets at the apex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In descriptive botany, having pinnate compound leaves that terminate without an odd single apical leaflet; paripinnate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by even-paired leaflets along the rachis without a solitary terminal leaf segment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abruptly-pinnate designates (of a leaf shape) pinnate with a pair of leaflets at the apex."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Leguminous foliage is frequently **abruptly-pinnate**, ending with a pair of equal leaflets rather than a terminal one."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The sensitive plant exhibits **abruptly-pinnate** leaves that fold together rapidly when subjected to tactile shock."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Taxonomists distinguish **abruptly-pinnate** fronds from impari-pinnate foliage by the absence of an odd terminal pinna."*

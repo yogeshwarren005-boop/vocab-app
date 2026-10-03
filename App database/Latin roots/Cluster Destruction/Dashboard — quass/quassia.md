@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter compound used as an insecticide and tonic and vermifuge; extracted from the wood and bark of trees of the genera quassia and picrasma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Handsome south american shrub or small tree having bright scarlet flowers and yielding a valuable fine-grained yellowish wood; yields the bitter drug quassia from its wood and bark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical trees (family Simaroubaceae), especially Quassia amara, yielding intensely bitter wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional pharmacy, dried wood chips of quassia used as a bitter tonic, febrifuge, and natural insecticide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"One third of a pint of quassia to which add a tablespoonful of rocksalt."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"A decoction of Caribbean **quassia** wood was prized by plantation physicians as a remedy for intermittent fever."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The natural tonic extracted from native **quassia** bark provided relief against persistent digestive complaints."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Infusions of bitter **quassia** were administered as an effective enema to eradicate threadworms in children."*

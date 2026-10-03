@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely hungry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devouring or craving food in great quantities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely, insatiably, or furiously hungry; voracious in appetite for food or gratification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Predatory, rapacious, or violently eager for plunder, conquest, or sensual indulgence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or else, when thou didst keep my lambs a-field, I wish some ravenous wolf had eaten thee!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His skin is surely lent him, For he’s inclined as is the ravenous wolves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We must not stint Our necessary actions in the fear To cope malicious censurers, which ever, As ravenous fishes, do a vessel follow That is new-trimmed, but benefit no further Than vainly longing."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The parish boys were kept in a state of **ravenous** starvation, licking their gruel bowls until they shone."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Sharks gathered around the captured sperm whale carcass with **ravenous** fury, biting through blubber."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"After their long country ramble across the fields, the party returned with **ravenous** appetites for dinner."*

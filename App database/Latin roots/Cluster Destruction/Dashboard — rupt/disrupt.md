@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a break in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throw into disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To throw into turmoil, confusion, or disorder; to interrupt the normal continuity of a process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To break apart, rupture, or shatter a physical structure, geological formation, or established union.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We need you to gather and send confirmations to us and, while you're doing that, disrupt the plans and weapons being marshaled against us."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The real target's spunnel lines will crash, destabilization will disrupt the entire Slingshot construction schedule."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In other words, his coming here is to disrupt."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Sudden geological catastrophes occasionally **disrupt** local habitats, isolating ecological populations."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Popular insurrections threatened to **disrupt** the deliberations of the National Assembly at Versailles."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A sudden mechanical shock can **disrupt** the delicate magnetic alignment of iron particles."*

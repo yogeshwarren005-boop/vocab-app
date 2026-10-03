@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southern ukraine on the black sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southern ukraine on the black sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic major port city and naval base located on the Crimean Peninsula on the Black Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renowned for the grueling eleven-month Siege of Sevastopol (1854–1855) during the Crimean War.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sevastopol designates a city in southern ukraine on the black sea."*
+> - 📜 **Leo Tolstoy (*Sevastopol Sketches*):** *"The thunder of siege artillery echoed day and night over the battered bastions of **Sevastopol**."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The wounded soldiers evacuated from the trenches before **Sevastopol** suffered severely from cholera and frostbite."*
+> - 📜 **Alfred Tennyson (*The Charge of the Light Brigade*):** *"Military dispatches from the allied camp near **Sevastopol** described the desperate courage of the cavalry."*

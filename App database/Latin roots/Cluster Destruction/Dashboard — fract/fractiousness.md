@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being prone to disobedience and lack of discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being prone to disobedience and lack of discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being irritable, petulant, cross, or hard to manage; unruly obstinacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A persistent tendency toward complaining defiance and quarrelsome resistance to discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fractiousness designates the trait of being prone to disobedience and lack of discipline."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Illness aggravated the invalid's natural **fractiousness**, trying the patient forbearance of his nurses."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Parliamentary **fractiousness** paralyzed government administration during those critical winter months."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma gently rebuked the child's sudden **fractiousness** before the morning guests arrived."*

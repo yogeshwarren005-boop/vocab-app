@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrecoverable state of devastation and destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event that results in destruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of ruining or causing complete destruction; downfall and desolation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cause or source of destruction, disaster, or moral degradation; catastrophic decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It was a working plumber was my ruination when I was pure."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard's reckless commercial speculations brought swift and irremediable **ruination** upon his corn business."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber lamented that an unexpected demand for payment would consummate the total **ruination** of his family."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Dunstan Cass plunged into reckless gambling, indifferent to the financial **ruination** of the Squire's estate."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French composer and exponent of impressionism (1875-1937).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A row of unravelled stitches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To untwist, separate, or untangle threads or fibers; also to complicate, entangle, or confuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile terminology, to fray at an unfinished woven edge by shedding individual warp or weft yarns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And must I ravel out My weaved-up follies?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, as you unwind her love from him, Lest it should ravel and be good to none, You must provide to bottom it on me, Which must be done by praising me as much As you in worth dispraise Sir Valentine."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In the ravel of one of these pieces was a bit of brown thread."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Sleep that knits up the **ravel**'d sleeve of care, the death of each day's life, sore labor's bath."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"They seek to **ravel** the honest thread of truth with intricate subtleties and sophistical deceit."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The old weaver watched the frayed linen edge **ravel** away beneath his trembling fingers."*

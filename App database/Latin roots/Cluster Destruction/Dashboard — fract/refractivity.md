@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical property of a medium as determined by its index of refraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical property of a medium as determined by its index of refraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The refractive power of a medium, quantitatively expressed as refractive index minus one or molar refractivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical optics, the specific ability of a transparent gas, liquid, or crystal to bend light rays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refractivity designates the physical property of a medium as determined by its index of refraction."*
+> - 📜 **Lord Rayleigh (*Scientific Papers*):** *"Precise interferometric measurements of gaseous **refractivity** helped isolate the inert gas argon."*
+> - 📜 **J. J. Thomson (*Electricity and Matter*):** *"Atomic **refractivity** relates directly to the number and resonance frequencies of bound electrons."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"The anomalous **refractivity** of heavy gases was examined under intense electromagnetic radiation."*

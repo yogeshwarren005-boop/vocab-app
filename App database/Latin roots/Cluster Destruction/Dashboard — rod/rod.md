@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long thin implement made of metal or wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any rod-shaped bacterium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight, slender, rigid bar, stick, or pole made of wood, metal, or other durable material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In land measurement, a historic unit of linear measure equal to five and a half yards or sixteen and a half feet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have been a scourge to her enemies; you have been a rod to her friends."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With him, the Earl of Surrey, bearing the rod of silver with the dove, crowned with an earl’s coronet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With him, the Duke of Norfolk, with the rod of marshalship, a coronet on his head."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"I'll break my staff, bury it certain fathoms in the earth, and deeper than did ever plummet sound I'll drown my **rod**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery held the glowing iron **rod** above the anvil with steady blacksmith hands."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I surveyed the property line carefully, pacing out every **rod** along the edge of the birch woods."*

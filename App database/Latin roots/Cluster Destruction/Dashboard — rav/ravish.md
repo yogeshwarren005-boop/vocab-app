@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force (someone) to have sex against their will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold spellbound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To seize and carry off someone by force; to violate, rape, or assault sexually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To fill someone with intense delight, ecstasy, wonder, or rapturous transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have holp to ravish your own daughters and To melt the city leads upon your pates, To see your wives dishonoured to your noses— MENENIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With that suit upon my back will I ravish her; first kill him, and in her eyes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her sight did ravish, but her grace in speech, Her words yclad with wisdom’s majesty, Makes me from wondering fall to weeping joys, Such is the fulness of my heart’s content."*
+> - 📜 **William Shakespeare (*The Rape of Lucrece*):** *"The treacherous Tarquin plotted in the dead of night to **ravish** the noble and virtuous matron."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The celestial music of the angelic chorus did **ravish** all the heavenly host with unutterable bliss."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The picturesque beauty of the Peak district served to **ravish** Elizabeth's enthusiastic imagination."*

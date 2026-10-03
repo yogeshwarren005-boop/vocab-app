@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being truncated or short.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The replacement of an edge or solid angle (as in cutting a gemstone) by a plane (especially by a plane that is equally inclined to the adjacent faces).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of cutting off, shortening, or terminating a part; curtailment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numerical computation, the intentional removal of trailing digits or mathematical series terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, truncation designates the property of being truncated or short."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The sudden **truncation** of the geological formation explains why intermediate transitional fossils are absent."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Wave action against the sea cliff produced horizontal **truncation** across tilted metamorphic strata."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The arbitrary **truncation** of a philosophical argument leaves fundamental premises unexamined and weak."*

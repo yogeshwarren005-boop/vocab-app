@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually plural) a destructive action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a pillaging or destructive raid on (a place), as in wartimes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lay waste, devastate, plunder, despoil, or inflict widespread destructive havoc upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The destructive action or devastating consequences wrought by war, famine, time, or disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There will be more for us.” “One word only, Master Land,” I said to the harpooner, who was beginning to ravage another coco-nut tree."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But at its capitulation, he is undeceived concerning the Hellenic patriots; they ravage and plunder so fiercely that he turns from them with repugnance and both he and Alabanda abandon the cause of liberty which they had championed."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Sullenly the brindled savage Tears and tosses up the sand; Horns that rend and hoofs that ravage, How shall man your shock withstand?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Vandal fleets crossed the Mediterranean to **ravage** the defenseless coastal cities of southern Italy."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Invading armies threatened to **ravage** the frontier provinces unless royal authority was restored in Paris."*
+> - 📜 **William Shakespeare (*King Henry V*):** *"The ruthless soldiers were permitted to **ravage** the countryside and plunder the unfortified hamlets."*

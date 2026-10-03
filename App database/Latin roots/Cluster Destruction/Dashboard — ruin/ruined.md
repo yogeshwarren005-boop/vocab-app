@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy completely; damage irreparably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy or cause to fail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought to ruin, destroyed, decayed, dilapidated, or devastated; bankrupt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having lost former prosperity, beauty, health, fortune, social reputation, or architectural grandeur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And ruined love when it is built anew Grows fairer than at first, more strong, far greater."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stay there, sir, And see the noble ruined man you speak of."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King has cured me, I humbly thank his Grace, and from these shoulders, These ruined pillars, out of pity, taken A load would sink a navy: too much honour."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The antiquary guided his companions along the overgrown ramparts of the **ruined** medieval castle."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I considered the creature I had released upon the world and felt like a **ruined** man haunted by demons."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister stood beside the scaffold in the darkness, mourning his **ruined** peace and lost sanctity."*

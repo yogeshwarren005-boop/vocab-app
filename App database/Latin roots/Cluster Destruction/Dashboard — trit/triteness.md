@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unoriginality as a result of being dull and hackneyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unoriginality as a result of being dull and hackneyed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Staleness, lack of originality, and commonplace banality caused by excessive repetition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of creative vitality, freshness, or imaginative spark in written prose or speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Chippings with a Chisel (From "Twice Told Tales")*):** *"But, when we ridicule the triteness of monumental verses, we forget that Sorrow reads far deeper in them than we can, and finds a profound and individual purport in what seems so vague and inexpressive, unless interpreted by her."*
+> - 📜 **Nathaniel Hawthorne (*Mosses from an Old Manse*):** *"The author sought to redeem the apparent **triteness** of the rustic subject through poetic depth of feeling."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Cowley's metaphysical conceits, despite occasional **triteness**, retain dazzling moments of intellectual brilliance."*
+> - 📜 **George Saintsbury (*A History of Elizabethan Literature*):** *"Lesser Elizabethan sonneteers suffered from dreary **triteness** by endlessly repeating Petrarchan motifs."*

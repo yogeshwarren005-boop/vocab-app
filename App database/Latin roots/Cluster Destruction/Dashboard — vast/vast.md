@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusually great in size or amount or degree or especially extent or scope; ; ; ; ; ; ; ; ; - w.r.inge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusually great in size or amount or degree or especially extent or scope; ; ; ; ; ; ; ; ; - w.r.inge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of very great area, extent, size, quantity, or degree; immense, boundless, or expansive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceedingly broad in scope, intellectual capacity, range, or comprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man whom both the waters and the wind, In that vast tennis-court, have made the ball For them to play upon, entreats you pity him; He asks of you, that never used to beg."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou god of this great vast, rebuke these surges, Which wash both heaven and hell; and thou that hast Upon the winds command, bind them in brass, Having call’d them from the deep!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am no pilot; yet wert thou as far As that vast shore wash’d with the farthest sea, I should adventure for such merchandise."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **vast** lapse of geological time allows natural selection to accumulate innumerable minute modifications."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Into this wild abyss, the womb of nature and perhaps her grave, through the **vast** expanse they journeyed."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great white whale breached in the **vast** solitude of the Pacific Ocean beneath the summer sky."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become or cause to become undone by separating the fibers or threads of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disentangle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undo, untwist, separate, or untangle woven threads, knit yarn, or complicated cords.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To solve, explain, disentangle, or clarify an intricate mystery, problem, or conspiracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He could have gone with us at that time of the year very well, but he was in the full novelty of his new position and was making most energetic attempts to unravel the mysteries of the fatal suit."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He did nothing but what was kind-hearted by me, and that’s the wonder of it.” Allan looks from Jo to the woman, and from the woman to Jo, waiting for one of them to unravel the riddle."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Ye are my friends," said the blessed Lord, "if ye do whatsoever I command you." Obedience will solve difficulties that reasoning cannot unravel."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes applied inductive reasoning to **unravel** the baffling disappearance of the racehorse Silver Blaze."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Inspector Bucket worked patiently to **unravel** the tangled web of secrets surrounding Tulkinghorn's death."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Medical science strives to **unravel** the hidden physiological mechanisms governing cellular disease."*

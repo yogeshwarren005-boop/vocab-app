@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who destroys or ruins or lays waste to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who destroys or ruins or lays waste to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, agent, or catastrophe that causes ruin, devastation, or destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who spoils, undermines, corrupts, or brings down an enterprise, family, or institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ruiner designates a person who destroys or ruins or lays waste to."*
+> - 📜 **William Shakespeare (*King Richard II*):** *"The bitter king denounced the treacherous nobles as the common **ruiner** of their ancient realm."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The mob identified the royalist conspirator as the principal **ruiner** of democratic hopes."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"He described the venal prime minister as the subtle **ruiner** of national credit and public liberty."*

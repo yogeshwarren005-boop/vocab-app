@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Erosion by friction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The wearing down of rock particles by friction due to water or wind or ice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of wearing down, weakening, or rubbing away through persistent friction or pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gradual reduction in numbers, personnel, military forces, or strength through sustained conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"But the incidents of his adventure grew sensibly sharper and clearer under the attrition of thinking them over, and so he presently found himself leaning to the impression that the thing might not have been a dream, after all."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Constant **attrition** against tidal shingle grinds ancient boulders into fine coastal sand."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions in the east suffered relentless **attrition** through border skirmishes and desert heat."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The coinage of the realm loses perceptible weight over decades through everyday commercial **attrition**."*

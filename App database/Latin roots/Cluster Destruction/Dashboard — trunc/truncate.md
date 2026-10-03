@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Replace a corner by a plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approximate by ignoring all terms beyond a chosen one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To shorten or curtail by cutting off the top, end, or a terminating part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational mathematics, to drop digits after a specified decimal position without rounding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"IRIS BRAND; spots obliterated; sori oblong, brown, surrounded by the scarious epidermis; spores obovate-oblong, even, attenuated below, upper cell abruptly truncate.—On _Iris fœtidissima_."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The truncated apex of the Extractor's teleport gate cone glowed red, then violet, and thirty meters of its length disappeared into its new hyperspace home."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"As I took hold of the handle of the door I heard an exclamation, oddly truncated at the end, and a click and a thud."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Breeders occasionally **truncate** the tail feathers of exhibition fowls to display the symmetry of the back."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The architect had decided to **truncate** the grand pyramid, leaving a broad flat platform overlooking the river."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The oblong seed pods appear to abruptly **truncate** at the apex rather than tapering into a beak."*

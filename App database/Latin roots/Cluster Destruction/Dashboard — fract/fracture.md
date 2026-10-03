@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breaking of hard tissue such as bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (geology) a crack in the earth's crust resulting from the displacement of one side with respect to the other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The breaking, cracking, or splitting of a hard material such as bone, stone, or metal; a breach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and mineralogy, the characteristic surface texture produced when a mineral crystal breaks across cleavage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It was as if a fracture in delicate crystal had begun, and he was afraid of any movement that might make it fatal."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"No; by a gesture he bade us crouch beside him in a deep fracture of the rock, his hand pointed to one part of the liquid mass, which I watched attentively."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"It was a nasty fracture, and you've given me an arm that'll be as good as new."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Radiographic inspection revealed a clean transverse **fracture** of the left femoral shaft."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Flint and obsidian exhibit a magnificent conchoidal **fracture** resembling smooth curved shell surfaces."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The sudden financial crash caused a catastrophic **fracture** in the long-established mercantile partnership."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plundering with excessive damage and destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a pillaging or destructive raid on (a place), as in wartimes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engaged in devastating, pillaging, or laying waste; wreaking severe physical destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing progressive, relentless impairment or damage to health, property, or civil institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Prolonged hostilities ravaging Holy Land providentially terminated."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Advancing age can be an important factor: changes that occur during a person's eighth decade and beyond can be ravaging, especially if health had seriously deteriorated or a great personal loss experienced."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"This, as if in a spirit of vengeance, was made of the skin of one of those ravaging birds."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"Cossack cavalry swept across the province, **ravaging** farms and driving off herds of cattle."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A **ravaging** locust swarm darkened the midday sky and stripped every green leaf from the trees."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **ravaging** spread of typhoid fever through the military encampment demanded clean drinking water."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a corrupt manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a corrupt manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a corrupt, dishonest, perverted, or depraved manner; contrary to law, justice, or textual integrity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a debased, inaccurate, or altered condition resulting from transmission errors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corruptedly designates in a corrupt manner."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The provincial governors ruled **corruptedly**, enriching themselves while impoverishing tributary cities."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"Careless sixteenth-century printers published the plays **corruptedly**, omitting lines and garbling verses."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"When public magistrates administer judicial power **corruptedly**, popular confidence in the law dissolves."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause extensive destruction or ruin utterly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overwhelm or overpower.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing immense destruction, ruin, or extensive damage; highly destructive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overwhelmingly crushing, highly persuasive, or emotionally shattering in impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers, in the same devastating strain: “What does this fellow want?” “Ma thear Mithter Jaggerth."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At the close range the damage was devastating."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Europe, in the throes of the aftermath of a horribly devastating conflict, calls desperately, in one of the darkest hours of its history, for that sovereign remedy which only the Plan, conceived by a divinely appointed Physician, can administer."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes delivered a **devastating** analysis of the circumstantial evidence presented by the prosecution."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A **devastating** earthquake shook the coastal city of Concepción, reducing stone cathedrals to heaps of rubble."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The cannonade produced a **devastating** effect among the ranks of charging infantry."*

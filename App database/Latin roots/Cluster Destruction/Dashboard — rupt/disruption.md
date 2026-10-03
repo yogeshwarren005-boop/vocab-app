@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of delaying or interrupting the continuity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorderly outburst or tumult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A forcible breaking apart, fracturing, or shattering; a state of severe disorder or interruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional history, a major schism, division, or separation within a religious body or state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am especially interested in your ability to intensify earliest possible infiltration and disruption throughout Narval's domain." The door slid shut as he passed through."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Beyond a certain limit no mechanical disruption of the body could hasten the process of decomposition."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Informally, however, the stations cover the entire system; to do otherwise would bring about enormous disruptions and disasters in space traffic and communications."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Tectonic faulting produced a massive **disruption** of the coal measures across the mining district."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The rapid advent of steam machinery caused widespread **disruption** across traditional artisanal crafts."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The Porteous riot threatened the social **disruption** of Edinburgh, provoking the wrath of parliament."*

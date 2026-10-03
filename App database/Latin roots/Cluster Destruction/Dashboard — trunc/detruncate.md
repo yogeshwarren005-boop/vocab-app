@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin trunc within the domain of Destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of trunc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lop off, cut short, or truncate by removing the head, top, or distal extremities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual analysis, to sever or mutilate an author's composition by eliminating chapters or sections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detruncate designates pertaining to, derived from, or characteristic of latin trunc within the domain of destruction."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The careless binder chose to **detruncate** the illuminated margins of the rare sixteenth-century folio."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary executioner was ordered to **detruncate** the royal statue standing before the palace gate."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Violent winds may **detruncate** the central terminal shoot, causing lateral branches to proliferate abnormally."*

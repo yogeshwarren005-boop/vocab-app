@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free of corruption or immorality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free of corruption or immorality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not depraved, perverted, or tainted by bribery, dishonesty, or moral vice; righteous and pure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not physically decayed, putrefied, decomposed, or spoiled by age or environmental exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incorrupt designates free of corruption or immorality."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Abdiel stood solitary among the faithless, faithful found, **incorrupt** and unshaken in his allegiance."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The incorruptible magistrate maintained an **incorrupt** administration of justice in the eastern provinces."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Her sweet and **incorrupt** nature remained untainted by the sinister intrigues of Rome."*

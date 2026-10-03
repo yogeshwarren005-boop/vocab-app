@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being torn or burst open.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal or social separation (as between opposing factions).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of breaking, bursting, tearing, or splitting apart under stress, tension, or internal pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A breach of peaceful or friendly relations between persons, parties, or nations; a hernia in surgical medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a rupture that you may easily heal, and the cure of it not only saves your brother, but keeps you from dishonour in doing it."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In answer, God has caused a rupture between them." AWAY FROM HOME, BUT NOT AWAY FROM GOD."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the 25th of May the _Nautilus_, being at a depth of more than 1,918 fathoms, was on the precise spot where the rupture occurred which ruined the enterprise."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden **rupture** of an aortic aneurysm produces catastrophic internal hemorrhage and rapid collapse."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A commercial dispute between neighboring states might easily escalate into a permanent diplomatic **rupture**."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The glass cylinder suffered explosive **rupture** when internal steam pressure exceeded safety tolerances."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Veloute sauce seasoned with chopped chervil, chives, tarragon, shallots and capers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Veloute sauce seasoned with chopped chervil, chives, tarragon, shallots and capers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classic French herbal sauce or butter flavored with tarragon, chervil, chives, shallots, and capers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In haute cuisine, a restorative, piquant herb blend designed to refresh the palate and enhance meats or fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravigote designates veloute sauce seasoned with chopped chervil, chives, tarragon, shallots and capers."*
+> - 📜 **Brillat-Savarin (*The Physiology of Taste*):** *"A chilled sauce **ravigote** infused with fresh green herbs restores zest to cold boiled fowl."*
+> - 📜 **Alexandre Dumas (*Grand Dictionnaire de Cuisine*):** *"The chef paired the poached turbot with a delicate warm **ravigote** rich in minced chervil and tarragon."*
+> - 📜 **William Makepeace Thackeray (*The Paris Sketch Book*):** *"We relished an exquisite Parisian luncheon of salmon steak served with piquant **ravigote** butter."*

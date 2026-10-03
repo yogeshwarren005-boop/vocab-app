@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of sudden interruption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of sudden interruption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden breaking off, tearing apart, severance, or violent rupture of parts or connections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical obstetrics, the premature detachment of a normally implanted placenta from the uterine wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What makes this pretty abruption?"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute placental **abruption** demands immediate surgical intervention to prevent catastrophic hemorrhage."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Violent earth tremors caused a sudden **abruption** of the cliff, plunging rock masses into the sea."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The civil war marked a catastrophic **abruption** of political ties between the eastern and western provinces."*

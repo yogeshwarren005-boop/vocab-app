@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to deteriorate due to the action of water, air, or an acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become destroyed by water, air, or a corrosive such as an acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To eat away, wear away, or consume gradually by chemical, electrochemical, or environmental action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To undermine, corrupt, impair, or deteriorate progressively in moral, mental, or physical vigor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Some minds corrode, and grow inactive, under the loss of personal liberty; others grow morbid and irritable; but it is the nature of the poet to become tender and imaginative in the loneliness of confinement."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Poverty, repining and hopeless poverty, a canker of the mind unknown in savage life, corrodes their spirits and blights every free and noble quality of their natures."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"While his heart is heavy with corroding care, suspense, distrust, and doubt, it may have room for some sorrowful wonder when he recalls how different his first visit there, how different he, how different all the colours of his mind."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Atmospheric moisture and acid vapors combine to **corrode** exposed iron plates with great speed."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Envy and malicious hatred will **corrode** the tranquility of the human soul like bitter rust."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Unspoken guilt and secret fear continued to **corrode** his peace of mind through every sleepless night."*

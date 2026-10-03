@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or capable of refraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or capable of refraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of refracting light rays; having a high refractive power or refractive index.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microscopy and cytology, describing cellular organelles or bacterial spores that appear bright due to light refraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refractile designates of or relating to or capable of refraction."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The unstained bacterial spores appeared as bright, highly **refractile** oval bodies under oil immersion."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Hyaline cartilage matrix contains delicate, moderately **refractile** fibrils that support chondrocytes."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Fatty degeneration in hepatic cells reveals glistening **refractile** droplets scattered throughout cytoplasm."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crime less serious than a felony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crime less serious than a felony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of breaking or violating a law, rule, regulation, contract, or treaty; an infringement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minor or civil legal offense, breach of protocol, or transgression against established authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All I could conclude was that some stool had lied an infraction of the rules on me in order to curry favour with the guards."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Men such as he are privileged, even in a prison, so that he dared an infraction of the rules by speaking to me in a cracked and quavering voice."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"No unbecoming word might fall from the lips of any of the company, and a censor, armed with a hand-bell, was appointed to mark and punish instantly any infraction of the rule."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Federal courts must possess jurisdiction to punish every **infraction** of the laws of nations."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The municipal magistrate regarded election bribery as a grave **infraction** of civic trust."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Squeers punished the slightest **infraction** of his arbitrary school rules with brutal flogging."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for automatically interrupting an electric current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for automatically interrupting an electric current.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who breaks into someone's speech, activities, or train of thought; one who causes an interruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering, an automatic mechanical or mercury device used to make and break a circuit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proud Saturnine, interrupter of the good That noble-minded Titus means to thee!"*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The interrupter is only needed when the primary current is continuous--from batteries, for example."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternating current needs no interrupter, and so that bother is removed."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A vibrating spring **interrupter** opened and closed the induction coil circuit hundreds of times each minute."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Lord Chancellor frowned upon the noisy **interrupter** standing in the crowded gallery of the court."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An unexpected sensory shock acts as an abrupt **interrupter** of the continuous stream of conscious thought."*

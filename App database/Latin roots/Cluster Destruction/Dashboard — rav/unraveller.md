@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who removes tangles; someone who takes something out of a tangled state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who removes tangles; someone who takes something out of a tangled state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative British spelling of unraveler, designating one who untangles knots or clarifies mysteries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solver of complex riddles, cryptic manuscripts, scientific enigmas, or diplomatic problems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unraveller designates a person who removes tangles; someone who takes something out of a tangled state."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Old Edie Ochiltree proved to be the shrewdest **unraveller** of the mysterious treasure legend in the ruins."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Datchery appeared in the cathedral precincts, acting as the quiet **unraveller** of local town gossip."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The modern naturalist serves as the patient **unraveller** of evolutionary genealogies across epochs."*

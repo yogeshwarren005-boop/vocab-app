@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or capable of refraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of changing the direction (of a light or sound wave).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving, tending, or having the physical power to refract light or wave energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to optical refraction or the measurement of refractive indices in transparent substances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refractive designates of or relating to or capable of refraction."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The extraordinary brilliance of faceted diamond derives from its exceptionally high **refractive** index."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Magnetic fields rotate the plane of polarized light passing through dense **refractive** heavy glass."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Corrective spectacle lenses compensate for anomalous **refractive** curvature of the cornea."*

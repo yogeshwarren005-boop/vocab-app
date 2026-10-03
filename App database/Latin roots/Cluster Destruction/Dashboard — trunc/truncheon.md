@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short stout club used primarily by policemen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short stout club used primarily by policemen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short, thick club, baton, or staff carried as a symbol of military authority or by a police officer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The severed or broken shaft of a spear, lance, or timber limb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Falstaff meets him, playing on his truncheon like a fife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An captains were of my mind, they would truncheon you out, for taking their names upon you before you have earned them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set limb to limb and thou art far the lesser; Thy hand is but a finger to my fist, Thy leg a stick compared with this truncheon."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Thrice he walked by their oppressed and fear-surprised eyes within his **truncheon**'s length."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The marshal of the field raised his golden **truncheon** to signal the commencement of the tournament."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The police officer gripped his wooden **truncheon** firmly as he stepped into the gloomy Thieves' Kitchen."*

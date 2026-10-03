@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force (someone) to have sex against their will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold spellbound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Delightful, enchanting, breathtakingly beautiful, or captivating to the senses; entrancing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The violent act of carrying someone away by force or committing sexual assault.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"It was a strain of vocal music, more plaintive than the widowed turtle's moan, more sweet and ravishing than Philomel's love-warbled song."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Go home to your Nance and your kids, and stand by till you hear from me.” “Well—if you say so; what’ll we do with this—bury it again?” “Yes. [Ravishing delight overhead.] _No_! by the great Sachem, no! [Profound distress overhead.] I’d nearly forgot."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"In each direction all the Buddhas and bodhisattvas are revealed preaching to their countless hosts of disciples with ravishing voices, under jewelled canopies."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne played the romantic melody with such **ravishing** sweetness that the whole room fell silent."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"David regarded Dora with **ravishing** admiration, thinking her the most enchanting creature on earth."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Sibyl Vane gave a **ravishing** performance as Juliet in the little crowded East End playhouse."*

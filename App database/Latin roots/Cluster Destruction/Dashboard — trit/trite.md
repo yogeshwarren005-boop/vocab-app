@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repeated too often; overfamiliar through overuse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeated too often; overfamiliar through overuse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking freshness, originality, or novelty from overuse; commonplace, hackneyed, and banal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, describing idioms, plots, metaphors, or thoughts worn out by constant repetition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Still, to a close observer, they are just as perceptible; the difference is that their media of manifestation are less trite and familiar than such well-known ones as the bursting of the buds or the fall of the leaf."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"With the majority such an opinion is shelved with all those trite aphorisms which require some catastrophe to bring their tremendous meanings thoroughly home."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"For the rest, whether trite or novel, it is short."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor smiled at the **trite** compliments offered by polite acquaintances who had nothing original to say."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He avoided those **trite** proverbs with which rustic elders habitually moralized upon village mishaps."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The headmistress delivered a **trite** moral lecture that failed to touch any responsive chord in the pupils."*

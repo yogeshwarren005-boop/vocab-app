@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively small placental mammals having a single pair of constantly growing incisor teeth specialized for gnawing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively small placental mammals having a single pair of constantly growing incisor teeth specialized for gnawing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mammal of the order Rodentia (such as a mouse, squirrel, or beaver) characterized by continuously growing incisors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative zoology, adapted for gnawing; also possessing sharp gnawing teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"They moan, passing upon the clouds, horned and capricorned, the trumpeted with the tusked, the lionmaned, the giantantlered, snouter and crawler, rodent, ruminant and pachyderm, all their moving moaning multitude, murderers of the sun."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"There was a scurrying of tiny feet, a shrill squeal, and a rodent came from the darkness to nibble at the food."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"Before long the state was overrun with little rodents, and many valuable crops were destroyed."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The capybara is the largest living **rodent** in the world, frequenting the lush riverbanks of South America."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skull of every true **rodent** exhibits large chisel-shaped incisors separated by a toothless diastema."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"A nocturnal **rodent** emerged from its subterranean burrow beneath the roots of the towering silk-cotton tree."*

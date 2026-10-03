@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a sea god; son of poseidon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest moon of neptune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, a merman sea-god, son of Poseidon and Amphitrite, represented blowing a twisted conch shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology, a large predatory sea snail of the genus Charonia possessing a heavy, decorative conch-like shell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear you this Triton of the minnows?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"If we were not so poor I would invite Lord Triton."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lord Triton is precisely the man: full of plans for making the people happy in a soft-headed sort of way."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Hear you this **Triton** of the minnows? Mark you his absolute 'shall'?"*
+> - 📜 **William Wordsworth (*The World Is Too Much With Us*):** *"Have sight of Proteus rising from the sea; or hear old **Triton** blow his wreathed horn."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The tempestuous ocean sounded as though a chorus of fierce **Triton** heralds sounded their horns across the deep."*

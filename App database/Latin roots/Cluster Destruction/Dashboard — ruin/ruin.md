@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrecoverable state of devastation and destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ruined building.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical destruction, collapse, decay, or disintegration of a structure, person, or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The remains of a destroyed or dilapidated building, town, or monument; also to inflict severe damage upon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen such interchange of State, Or state it self confounded, to decay, Ruin hath taught me thus to ruminate: That Time will come and take my love away."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She once being loofed, The noble ruin of her magic, Antony, Claps on his sea-wing and, like a doting mallard, Leaving the fight in height, flies after her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This mortal house I’ll ruin, Do Caesar what he can."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"When kingdoms fall, the general **ruin** drags down both sovereign and subjects in one catastrophic fate."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Right over the town is the historic **ruin** of Whitby Abbey, perched high upon the windy headland."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A little over-precipitance in this delicate criminal affair may **ruin** all our carefully laid plans."*

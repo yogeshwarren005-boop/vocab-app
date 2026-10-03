@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worthy of notice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not worthy of notice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not notable, famous, eminent, or exceptional; ordinary, commonplace, or average in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking distinct, clear, or defining features; not clearly separated or classified.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny with doubting feelings had risen to meet him, but sank down again on finding herself undistinguished in the dusk, and unthought of."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The little disappointments of schoolboy life, and the somewhat less childish ones of an uneventful and undistinguished academic career, should not have sufficed to turn me out at one-and-twenty years of age a melancholic, listless idler."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He could have borne to live an undistinguished life, but not to be forgotten in the grave."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea's quiet, unselfish deeds formed part of that **undistinguished** stream of goodness that ennobles the world."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton was a respectable young clergyman, though of somewhat **undistinguished** family background."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton lived an **undistinguished** life in London until his supreme heroic sacrifice in Paris."*

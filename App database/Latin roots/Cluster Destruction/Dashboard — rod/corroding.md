@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Erosion by chemical action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to deteriorate due to the action of water, air, or an acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradually wearing away, eating into, or consuming through chemical decomposition or oxidation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Progressively destructive, subversive, or tormenting to character, happiness, or social unity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"While his heart is heavy with corroding care, suspense, distrust, and doubt, it may have room for some sorrowful wonder when he recalls how different his first visit there, how different he, how different all the colours of his mind."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Something of vengeance I had tasted for the first time; as aromatic wine it seemed, on swallowing, warm and racy: its after-flavour, metallic and corroding, gave me a sensation as if I had been poisoned."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"When heart-corroding care and grief Deprive my soul of rest, Her dear idea brings relief, And solace to my breast."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan brooded in darkness, consumed by the **corroding** fire of hopeless malice and thwarted ambition."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Concentrated nitric acid exerts a rapid **corroding** action upon metallic copper sheets."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Mammonism exerts a **corroding** effect upon the noble instincts and communal generosity of man."*

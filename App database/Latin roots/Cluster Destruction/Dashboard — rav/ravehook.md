@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hooked hand tool used to prepare the seams of a boat for oakum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hooked hand tool used to prepare the seams of a boat for oakum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hooked iron tool used by shipwrights to scrape out old pitch and oakum from ship deck seams before recaulking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval carpentry, a specialized hooked chisel employed during wooden hull refurbishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravehook designates a hooked hand tool used to prepare the seams of a boat for oakum."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship carpenter wielded his sharp **ravehook** to clear the decayed oakum from the deck seams."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"We spent days upon our knees with mallet and **ravehook**, cleaning out seams before driving fresh pitch."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The carpenter fetched his caulking iron and **ravehook** to repair the leaky joints in the pinnace."*

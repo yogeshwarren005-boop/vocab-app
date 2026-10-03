@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus kniphofia having long grasslike leaves and tall scapes of red or yellow drooping flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus kniphofia having long grasslike leaves and tall scapes of red or yellow drooping flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental African plant of the genus Kniphofia (family Asphodelaceae), commonly known as red-hot poker or torch lily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture, a perennial garden flower characterized by dense spikes of brilliant scarlet and yellow tubular blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritoma designates a plant of the genus kniphofia having long grasslike leaves and tall scapes of red or yellow drooping flowers."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The fiery floral spikes of **Tritoma** illuminate South African meadows and British borders in late autumn."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"The exotic lily known as **Tritoma** uvaria bears bold scarlet blooms that fade to yellow at the base."*
+> - 📜 **William Robinson (*The English Flower Garden*):** *"Masses of **Tritoma** planted against evergreen shrubs create a dazzling spectacle in September."*

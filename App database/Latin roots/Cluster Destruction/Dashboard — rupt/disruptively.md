@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disruptive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disruptive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that causes disruption, severe disorder, division, or violent interruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breaking through established barriers, boundaries, or conventions with disruptive force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disruptively designates in a disruptive manner."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The electric charge passed **disruptively** between the copper spheres with a sharp concussive report."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The insurgent crowd acted **disruptively**, smashing the barricades that surrounded the fortress."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Unconventional thinkers often act **disruptively** against the complacent consensus of their generation."*

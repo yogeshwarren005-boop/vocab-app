@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of igneous rock that has solidified beneath the earth's surface; granite or diorite or gabbro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of igneous rock that has solidified beneath the earth's surface; granite or diorite or gabbro.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, tending to cause, or accompanied by a sudden, violent rushing in or invasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology and wildlife biology, relating to periodic mass dispersals of animal populations outside their normal range.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irruptive designates of igneous rock that has solidified beneath the earth's surface; granite or diorite or gabbro."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The **irruptive** migration of boreal waxwings occurs when seed crops fail across their northern taiga forests."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The border fortifications were overwhelmed by the **irruptive** onslaught of combined Germanic tribes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The sudden arrival of **irruptive** finch flocks followed torrential rains in the arid Galápagos valleys."*

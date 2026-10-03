@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter uninvited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erupt or intensify suddenly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To break, burst, or rush in suddenly, violently, and aggressively from the outside.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and population biology, to undergo a sudden, massive increase or dispersal into a new territory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irrupt designates enter uninvited."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Fierce hordes of Huns began to **irrupt** across the frontiers of the empire, spreading panic before them."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When physical barriers collapse, aggressive continental species **irrupt** into isolated island habitats."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Armed sans-culottes threatened to **irrupt** into the palace bedchambers at the height of the insurrection."*

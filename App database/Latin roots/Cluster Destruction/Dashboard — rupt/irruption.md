@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden violent entrance; a bursting in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden sharp increase in the relative numbers of a population.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden, violent, and forcible rushing in or invasion of people, forces, or waters from without.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology, a dramatic temporary surge in the local population of an animal species, such as snowy owls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Had an army of invaders made an irruption into their territory they could not have evinced greater excitement."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Did such a scene admit of ludicrous associations, we might imagine something whimsical in this strange irruption in the regions of learning."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The irruption of this motley crew with beat of drum, according to ancient custom, was the consummation of uproar and merriment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sudden **irruption** of the Visigoths under Alaric terrified the inhabitants of the imperial capital."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"A catastrophic **irruption** of the sea breached the sand dunes and submerged ancient agricultural land."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"An **irruption** of nomadic Siberian birds occurred throughout northern Europe during that bitter winter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo diffraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo diffraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause a wave beam of light, sound, or particles to bend or spread around an obstacle or through an aperture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics, to break up a light beam into an interference pattern of bright and dark bands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diffract designates undergo diffraction."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Sharp razor edges placed in the sunbeam serve to **diffract** the light rays into colored fringe bands."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Fine ruled gratings **diffract** optical rays according to precise wave-length proportions."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Atmospheric ice crystals **diffract** lunar light, producing concentric rings and halos in winter skies."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being corrupt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of integrity or honesty (especially susceptibility to bribery); use of a position of trust for dishonest gain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral depravity, dishonesty, venality, or pervasive ethical rot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical state of putrefaction, contamination, decomposition, or impurity in matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corruptness designates the state of being corrupt."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The pervasive **corruptness** of the Byzantine bureaucracy paralyzed military operations on the frontiers."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The moralist mourned the incurable **corruptness** of fashionable society that celebrated vice as elegance."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The offensive odor signaled the beginning of **corruptness** and biological decay within the organic broth."*

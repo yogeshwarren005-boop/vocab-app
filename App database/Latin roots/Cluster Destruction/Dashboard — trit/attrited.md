@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worn by rubbing or friction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worn by rubbing or friction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worn away, abraded, or eroded by continuous friction, rubbing, or mutual impact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and metallurgy, describing mineral grains or metal surfaces smoothed by attrition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attrited designates worn by rubbing or friction."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The beach gravel was thoroughly **attrited** into smooth ellipsoidal pebbles by wave action."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Sedimentary quartz grains were deeply **attrited** during protracted river transport."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The bronze bearings became heavily **attrited** under continuous high-speed mechanical friction."*

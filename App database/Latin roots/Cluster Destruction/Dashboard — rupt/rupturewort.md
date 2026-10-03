@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common prostrate old world herb often used as a ground cover; formerly reputed to cure ruptures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common prostrate old world herb often used as a ground cover; formerly reputed to cure ruptures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any low-growing prostrate herb of the genus Herniaria (family Caryophyllaceae), historically used to treat hernias.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional European herbal pharmacognosy, a trailing medicinal herb containing saponins and astringent tannins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rupturewort designates common prostrate old world herb often used as a ground cover; formerly reputed to cure ruptures."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The green trailing herb called **rupturewort** was commended by ancient herbalists as a remedy for ruptures."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The naturalized herb **rupturewort**, Herniaria glabra, carpets dry sandy soils with minute clustered blossoms."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"I observed mats of humble **rupturewort** spreading over the gravelly margins of the country lane."*

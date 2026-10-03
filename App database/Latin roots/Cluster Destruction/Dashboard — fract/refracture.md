@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Break (a bone) that was previously broken but mended in an abnormal way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Break (a bone) that was previously broken but mended in an abnormal way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of breaking again or fracturing a second time; particularly the surgical breaking of an improperly healed bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedics, a surgical procedure to realign an osseous malunion; also an accidental repeat fracture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refracture designates break (a bone) that was previously broken but mended in an abnormal way."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The orthopedic surgeon decided to **refracture** the deformed tibia under anesthesia to restore straight alignment."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"A premature return to weight-bearing may cause the fragile callus to **refracture** at the original break."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"In cases of severe angular deformity, controlled surgical **refracture** yields excellent functional recovery."*

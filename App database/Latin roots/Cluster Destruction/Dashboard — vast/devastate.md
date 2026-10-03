@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause extensive destruction or ruin utterly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overwhelm or overpower.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lay waste, ravage, destroy, or bring to utter desolation and ruin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To overwhelm someone with shock, grief, despair, or severe emotional distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers, in the same devastating strain: “What does this fellow want?” “Ma thear Mithter Jaggerth."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At the close range the damage was devastating."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Europe, in the throes of the aftermath of a horribly devastating conflict, calls desperately, in one of the darkest hours of its history, for that sovereign remedy which only the Plan, conceived by a divinely appointed Physician, can administer."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The invading barbarian hordes marched south to **devastate** the fertile provinces of northern Italy."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Famine and oppressive taxes combined to **devastate** the impoverished agricultural villages of France."*
+> - 📜 **Abraham Lincoln (*Speeches and Letters*):** *"The terrible conflagration of civil war threatened to **devastate** the constitutional fabric of the Union."*

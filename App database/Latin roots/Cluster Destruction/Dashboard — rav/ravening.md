@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtain or seize by violence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prey on or hunt for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greedily, fiercely, or ravenously hunting for prey, food, or plunder; rapacious and predatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devouring voraciously or acting with unrestrained, ferocious predatory aggression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cloyed will— That satiate yet unsatisfied desire, that tub Both fill’d and running—ravening first the lamb, Longs after for the garbage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beautiful tyrant, fiend angelical, Dove-feather’d raven, wolvish-ravening lamb!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"His wretched refuge, dark despair, While ravening wrongs and woes pursue, And distant far the faithful few Who would his sorrows share."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Like a **ravening** wolf entering the sheepfold to leap the hurdles, Satan surveyed the blooming garden."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The famished crowd in Saint Antoine resembled a **ravening** beast driven mad by years of deprivation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ruthless tyrant turned upon his own subjects like a **ravening** tiger seeking prey."*

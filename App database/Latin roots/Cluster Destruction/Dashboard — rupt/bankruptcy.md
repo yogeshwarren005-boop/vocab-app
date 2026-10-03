@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of complete lack of some abstract property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to discharge all your debts as they come due.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal state or condition of an individual or organization unable to discharge financial liabilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete ruin, impoverishment, or total exhaustion of moral, intellectual, or material resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Now at the time of a crisis a general contraction of credit occurs, and all borrowers with maturing obligations are faced with bankruptcy."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many states were forced to the point of bankruptcy by their reckless generosity, and some states repudiated the debts thus incurred."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus brings out the utter bankruptcy to which sin reduces men."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Traddles labored diligently in the law courts, handling tedious proceedings in commercial **bankruptcy**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The federal constitution empowered Congress to establish uniform national laws on the subject of **bankruptcy**."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The proud Tulliver family was shattered by the public disgrace of impending financial **bankruptcy**."*

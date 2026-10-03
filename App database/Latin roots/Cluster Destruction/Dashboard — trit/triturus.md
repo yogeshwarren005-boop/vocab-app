@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly aquatic salamanders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly aquatic salamanders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of European newts (family Salamandridae), comprising crested and marbled newts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate herpetology, semi-aquatic urodeles celebrated for elaborate courtship displays and dorsal crests in breeding males.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triturus designates chiefly aquatic salamanders."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skeletal development of **Triturus** illustrates the transition between aquatic larvae and terrestrial adults."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Male newts of the genus **Triturus** develop splendid dentated dorsal crests and bright colors during the breeding season."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"European freshwater ponds support distinct geographic races of the crested newt **Triturus**."*

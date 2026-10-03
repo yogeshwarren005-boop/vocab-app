@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a rod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a rod.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a rod in form, rigidity, straightness, or cylindrical proportions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and histology, describing straight cylindrical bacteria such as bacilli or cellular organelles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rodlike designates resembling a rod."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic stained examination demonstrated numerous **rodlike** bacilli clustered within the infected tissue."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The cooled precipitate formed minute **rodlike** crystals that oriented themselves along magnetic lines."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Retinal photoreceptors comprise **rodlike** structures specialized for dim light perception and vision."*

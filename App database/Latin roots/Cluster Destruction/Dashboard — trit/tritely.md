@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a trite manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a trite manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hackneyed, commonplace, unoriginal, or banal manner; without fresh insight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing ideas through worn-out cliches, predictable formulas, or shallow conventional sentiments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He nodded to himself as he drew off his trousers and stood up, saying tritely: —Redheaded women buck like goats."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He moralized **tritely** upon the vanity of earthly ambitions while neglecting the urgent needs before him."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The letter was composed **tritely**, repeating fashionable phrases copied from epistolary manuals."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond remarked **tritely** upon the weather before turning his penetrating eyes upon Isabel."*

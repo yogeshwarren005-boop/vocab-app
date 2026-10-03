@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A raucous gathering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A raucous gathering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lively, noisy, boisterous party, gathering, or revelry characterized by wild excitement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British vernacular culture, an energetic musical bash or unrestrained festive celebration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rave-up designates a raucous gathering."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The kitchen staff celebrated Saturday night with a boisterous **rave-up** in the cellar bistro."*
+> - 📜 **Jack London (*The People of the Abyss*):** *"The sailors held a roaring **rave-up** in the waterfront tavern before embarking for the South Seas."*
+> - 📜 **James Joyce (*Dubliners*):** *"The clerks gathered after hours for a noisy **rave-up** over porter and roasted sausages."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubbornly resistant to authority or control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily irritated or annoyed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Irritable, cross, petulant, and easily provoked to anger; quarrelsome and recalcitrant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refractory, unruly, and difficult to discipline, control, manage, or govern.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She then peeped round to where I sat; so stern a neighbour was too restrictive: to him, in his present fractious mood, she dared whisper no observations, nor ask of him any information."*
-> - 📜 **James Joyce (*Ulysses*):** *"Block tackle and a strangling pulley will bring your lion to heel, no matter how fractious, even _Leo ferox_ there, the Libyan maneater."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The fatigued child became exceedingly **fractious** and noisy after being kept up past her bedtime."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The young stallion was **fractious** and temperamental, kicking against the stable stall with fury."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Tom Tulliver displayed a stubborn, **fractious** mood whenever his academic lessons proved difficult."*

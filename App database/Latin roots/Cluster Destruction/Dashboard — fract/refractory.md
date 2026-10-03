@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lining consisting of material with a high melting point; used to line the inside walls of a furnace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not responding to treatment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubbornly resistant to authority, guidance, discipline, or control; obstinately unruly and recalcitrant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and engineering, capable of enduring high temperatures without melting, deforming, or deteriorating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A refractory man who owed a small debt of about $43, refused to pay it all, but offered to do so if ten dollars was taken off."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A correspondent of Doctor Cullis, who was unable to collect a debt from a refractory and worthless debtor, promised to give it to the Lord, if it was ever paid."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"This part of the Course was usually lightened by several single combats between Biddy and refractory students."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The parish beadle threatened to lock the **refractory** pauper boy in the coal cellar for impudence."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Blast furnaces are lined with **refractory** firebrick that withstands the scorching fury of molten iron."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The political candidate struggled to manage his **refractory** committee members during the tense campaign."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of australian ladybugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of australian ladybugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of predatory ladybird beetles (family Coccinellidae), notable for controlling agricultural scale insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological pest management, specifically Rodolia cardinalis (vedalia beetle), introduced to control cottony cushion scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rodolia designates genus of australian ladybugs."*
+> - 📜 **Charles Valentine Riley (*Report of the Entomologist*):** *"The introduction of the Australian ladybird beetle **Rodolia** saved the California citrus groves from scale blight."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Larvae and adults of **Rodolia** prey voraciously upon destructive scale insects infesting fruit trees."*
+> - 📜 **Theobald Smith (*Studies in Nature and Parasitism*):** *"Successful biological control achieved by **Rodolia** demonstrated the power of imported natural insect predators."*

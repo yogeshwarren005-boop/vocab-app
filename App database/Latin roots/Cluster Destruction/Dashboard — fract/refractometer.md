@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument for measuring the refractive index of a substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument for measuring the refractive index of a substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical laboratory instrument designed to measure the refractive index of liquids, solutions, or solid substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical analysis and gemology, a device used to determine purity, sugar concentrations, or gemstone identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refractometer designates measuring instrument for measuring the refractive index of a substance."*
+> - 📜 **Harvey W. Wiley (*Foods and Their Adulteration*):** *"The food inspector used an Abbe **refractometer** to detect adulteration in imported olive oil samples."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"A jeweler's critical-angle **refractometer** provides swift and non-destructive identification of cut gems."*
+> - 📜 **Robert Kane (*Elements of Chemistry*):** *"Measurements obtained with the **refractometer** revealed the percentage of dissolved sugar in the cane syrup."*

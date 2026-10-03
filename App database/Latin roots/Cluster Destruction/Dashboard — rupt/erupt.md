@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Start abruptly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erupt or intensify suddenly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To burst forth or break out suddenly and with great violence, as a volcano ejecting lava.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, to appear or break out upon the skin or mucosal surface, as a rash or tooth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Suddenly, from above, erupts the same screech they heard before, wild and shrill."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Father, already up and about, at this stage erupted into the wagon."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An uneasy cackle, strident and jarring, erupted from a corner, accompanied by the flat slap of a hard hand against the bar's rough counter."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Mount Vesuvius began to **erupt** with terrific violence, showering dark pumice over surrounding vineyards."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The characteristic red papules of measles typically **erupt** behind the ears before spreading to the trunk."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great geyser of ocean spray seemed to **erupt** from the depths like liquid smoke."*

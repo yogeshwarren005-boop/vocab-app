@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a raving manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a raving manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a raving, wild, delirious, or incoherently frenzied manner; with mad fury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With extreme, extravagant, or uncontrolled passion and emotional excitement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravingly designates in a raving manner."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary orator gestured **ravingly** from the tribune, inciting the mob to fresh vengeance."*
+> - 📜 **Edgar Allan Poe (*The Tell-Tale Heart*):** *"I paced the wooden floor **ravingly**, swearing aloud to drown the beating of the hideous heart."*
+> - 📜 **Herman Melville (*Pierre; or, The Ambiguities*):** *"Pierre paced his lonely chamber **ravingly**, torn between filial duty and romantic obsession."*

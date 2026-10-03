@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to biting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to biting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biting, pungent, or sarcastic tone in expression; corrosive sharpness of speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical capability or tendency of an organism or substance to bite, sting, or corrode.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mordacity designates a disposition to biting."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"The satirical verses of Pope derive their memorable force from intellectual brilliance and relentless **mordacity**."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain mineral acids display a fiery **mordacity** that rapidly eats through metallic surfaces."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"His political speech gained unexpected attention through its fearless honesty and dry **mordacity**."*

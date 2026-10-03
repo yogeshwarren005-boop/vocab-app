@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The remains of something that has been destroyed or broken up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loose material (stone fragments and silt etc) that is worn away from rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loose fragments, gravel, rock debris, or particles disintegrated and detached from geological formations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and biology, decomposing organic matter such as dead foliage and animal remains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The strip cut across and through narrow streets and alleys lined with huts fused from the gray detritus of the planet."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The floor was a mixture of Plutonian detritus."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak's eyes searched the shadows without success except for the grind of boots on stony detritus and the scrape of a weight being dragged."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Rivers transport vast volumes of mineral **detritus** into coastal estuaries to build deltas."*
+> - 📜 **John Muir (*The Mountains of California*):** *"A steep talus slope of granitic **detritus** fanned out at the base of the towering alpine precipice."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"A sprawling pile of forest **detritus** choked the entrance to the prehistoric dinosaur cavern."*

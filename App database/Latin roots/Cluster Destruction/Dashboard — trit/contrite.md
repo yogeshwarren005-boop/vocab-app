@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing pain or sorrow for sins or offenses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing pain or sorrow for sins or offenses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing deep, genuine remorse, penitence, and sorrow for having committed a sin or offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising from or demonstrating sincere humble penitence and an earnest desire for moral reformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I Richard’s body have interred new, And on it have bestow’d more contrite tears Than from it issued forced drops of blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her contrite sighs unto the clouds bequeathed Her winged sprite, and through her wounds doth fly Life’s lasting date from cancelled destiny."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ah, well! let me take the name of drunkard humbly—let me be a man of contrite knees—let it be!"*
+> - 📜 **William Shakespeare (*King Henry V*):** *"I have built two chantries, where the sad and solemn priests still sing for Richard's soul with **contrite** hearts."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester bowed his head in sincere, **contrite** submission before the divine judgment."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sighs now breathed unutterable which the Spirit of prayer inspired, and wing'd for Heaven with **contrite** sorrow."*

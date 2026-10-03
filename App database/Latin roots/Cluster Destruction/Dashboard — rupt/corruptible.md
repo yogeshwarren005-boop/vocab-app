@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being corrupted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being corrupted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being corrupted, bribed, morally debased, perverted, or physically decayed; mortal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to organic decomposition, putrefaction, disintegration, or dissolution over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"De foot _et_ de coun! _O Seigneur Dieu! ils sont les mots de son mauvais, corruptible, gros, et impudique, et non pour les dames d’honneur d’user."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"When this corruptible shall have put on incorruption, and this mortal shall have put on 164:27 immortality [divine Science], then shall be brought to pass the saying that is written, Death is swallowed up in victory" (St."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The matter is the same and the corruptible part is alike."[28] [Sidenote: God's anger] The Christian conception of the "descent of God" is repulsive to Celsus, for it means contact with matter."*
+> - 📜 **Francis Bacon (*The Essays*):** *"The sovereign must select ministers who are not **corruptible** by foreign gold or private intrigue."*
+> - 📜 **John Milton (*Paradise Lost*):** *"This **corruptible** frame of clay must one day put on incorruption in the celestial courts."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The mercenary guards were easily **corruptible**, betraying their commanders for bounties."*

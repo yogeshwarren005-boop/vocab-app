@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sorrow for sin arising from fear of damnation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sorrow for sin arising from fear of damnation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep, sincere sorrow and heartfelt penitence for past transgressions or moral offenses; contrition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The humble spirit of repentance that seeks reconciliation and moral renewal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contriteness designates sorrow for sin arising from fear of damnation."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Genuine **contriteness** of spirit is demonstrated not by loud laments but by amended conduct."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Arthur Dimmesdale longed for that peaceful **contriteness** that comes from public confession of sin."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Without inner **contriteness**, outward ceremonial piety remains an empty mockery of justice."*

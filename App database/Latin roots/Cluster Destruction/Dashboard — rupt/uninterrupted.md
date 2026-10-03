@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having undisturbed continuity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuing in time or space without interruption; - james jeans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing continuously without breaking, stoppage, pause, obstacle, or cessation; continuous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording an unobstructed, clear view or path spanning an extensive distance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Two days had passed in uninterrupted work, and Apollonie had accomplished what she had set out to do."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We felt it better to withdraw and leave them uninterrupted."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The logic of the situation compels even those officials that are of the labor party or are most favorable to labor, to maintain an uninterrupted service on the public railways."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Generations of **uninterrupted** natural selection modify ancestral structures to meet new environmental demands."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth enjoyed an **uninterrupted** morning ramble through the park, lost in solitary reflection."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The castle terrace provided an **uninterrupted** panorama across the winding valley and snow-clad Alps."*

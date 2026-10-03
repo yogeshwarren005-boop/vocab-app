@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt discourteous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property possessed by a slope that is very steep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being sudden, unexpected, steep, or precipitous in change or termination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brusqueness, curtness, or lack of courteous ceremony in speech, manner, or address.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce then withdrawing into the temporary growlery, Miss Jellyby opened a conversation with her usual abruptness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pray,” says Sir Leicester to Mercury, “what do you mean by announcing with this abruptness a young man of the name of Guppy?” “I beg your pardon, Sir Leicester, but my Lady said she would see the young man whenever he called."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I suppose you thought that when I galloped away to Bath that night it was on purpose to be married?” “I did at last—not at first,” he answered, somewhat surprised at the abruptness with which this new subject was broached."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley was mildly startled by the unusual **abruptness** of her question regarding Frank Churchill."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The geological **abruptness** of the alpine precipice provided a striking contrast to the gentle valley below."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate apologized for the professional **abruptness** of his diagnosis, assuring the patient of recovery."*

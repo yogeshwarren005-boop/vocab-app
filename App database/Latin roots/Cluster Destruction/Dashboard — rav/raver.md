@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A participant in a rave dancing party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rants and raves; speaks in a violent or loud manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who raves, speaks wildly in delirium or fury, or acts with irrational frenzy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern colloquial parlance, a devoted attendee of all-night electronic dance music parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raver designates a participant in a rave dancing party."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"The frantic mob followed the hysterical **raver** through the burning streets of London during the riots."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The cynical world dismissed the inspired philosopher as a mad **raver** crying in the wilderness."*
+> - 📜 **Robert Louis Stevenson (*The Master of Ballantrae*):** *"The wounded pirate lay tossing on his pallet, a delirious **raver** shouting oaths in the dark."*

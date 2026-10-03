@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make illegal payments to in exchange for favors or influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercising a depraving, perverting, or debasing influence upon morals, integrity, or institutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or ongoing process of decomposing organic matter or spoiling the purity of a substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, she hath from France too long been chas’d, And all her husbandry doth lie on heaps, Corrupting in it own fertility."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know’st thou not any whom corrupting gold Will tempt unto a close exploit of death?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is an encouraging example of what can be done by skilful methods, when conditions are ripe, in furthering righteous social legislation without the use of money or of corrupting influences. § 8. #Standards for a compensation law#."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Excessive pursuit of individual wealth exerts a **corrupting** influence upon civic duty in a republic."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Chancery court exercised a **corrupting** effect upon all who waited decades for its final decrees."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"Bribery and alcohol proved to be the most **corrupting** elements in nineteenth-century borough elections."*

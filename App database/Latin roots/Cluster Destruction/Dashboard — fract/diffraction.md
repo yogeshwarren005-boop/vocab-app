@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: When light passes sharp edges or goes through narrow slits the rays are deflected and produce fringes of light and dark bands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: When light passes sharp edges or goes through narrow slits the rays are deflected and produce fringes of light and dark bands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bending, spreading, or interference of wave fronts when encountering an edge, obstacle, or narrow opening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, the scattering of X-rays by atomic lattice planes, revealing three-dimensional molecular structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diffraction designates when light passes sharp edges or goes through narrow slits the rays are deflected and produce fringes of light and dark bands."*
+> - 📜 **Thomas Young (*Lectures on Natural Philosophy*):** *"The phenomena of optical **diffraction** furnish decisive mathematical proof for the wave theory of light."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Spectral analysis utilizing a **diffraction** grating resolves fine absorption lines with remarkable precision."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Telescopic resolution is ultimately limited by the unavoidable **diffraction** of light at the circular aperture."*

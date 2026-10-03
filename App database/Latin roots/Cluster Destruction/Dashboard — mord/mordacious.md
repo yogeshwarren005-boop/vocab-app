@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of wounding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biting or given to biting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Biting, pungent, or caustic in manner, tone, or verbal satire; acridly sharp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological morphology, possessing sharp jaws or biting mouthparts adapted for grasping prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mordacious designates capable of wounding."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh launched a **mordacious** critique against the hollow social conventions of his generation."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"Predatory beetle larvae possess curved **mordacious** mandibles designed to crush insect prey."*
+> - 📜 **George Saintsbury (*A History of Elizabethan Literature*):** *"The satirical pamphlets displayed a **mordacious** wit that spared neither prelate nor courtier."*

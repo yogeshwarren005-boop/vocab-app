@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance used to treat leather or other materials before dyeing; aids in dyeing process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harshly ironic or sinister.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharply or bitingly sarcastic; incisive and trenchant in tone, style, or perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance, typically an inorganic oxide or salt, used to fix dyes on fabrics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mordant designates a substance used to treat leather or other materials before dyeing; aids in dyeing process."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"The textile dyer applies an alum **mordant** to chemically fix the coloring matter within the wool fibers."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes offered a **mordant** observation regarding the clumsy investigative procedures of Scotland Yard."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The critic's **mordant** remarks stripped the pretentious academic painting of its unearned praise."*

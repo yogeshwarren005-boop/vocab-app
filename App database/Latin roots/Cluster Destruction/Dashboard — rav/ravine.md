@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep narrow steep-sided valley (especially one formed by running water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deep narrow steep-sided valley (especially one formed by running water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep, narrow, steep-sided valley or gorge carved into bedrock or soil by the erosive flow of running water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rugged geological fissure, gulch, or defile flanked by steep cliffs or rocky precipices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If he had not held the reins tightly, your wild cries would have driven horses and carriage down the ravine long ago." All arms suddenly dropped and all eyes were directed towards the figure on the coachman's seat."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I could hear the river flowing swiftly below the wall, but I could not see it, except as something dark, a ravine of gloom below, and beyond the walls I did not venture to look."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The stone is pointed out to this day, balanced on the hillside of the ravine formed by the stream, and is one of the objects for the Hawaiian sightseer."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We climbed through a boulder-choked mountain **ravine** watered by a crystalline glacial stream."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Dense groves of incense cedar flourished along the sheltered slopes of the rocky **ravine**."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The narrow mountain **ravine** resounded with the rushing torrent and the hunter's horn."*

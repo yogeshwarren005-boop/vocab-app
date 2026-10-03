@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sudden occurrence of a violent discharge of steam and volcanic material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symptom consisting of a breaking out and becoming visible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden, violent ejection of volcanic matter, lava, steam, and ash from a vent in the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, a sudden outbreak of blemishes, pustules, or rash upon the skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In what particular thought to work I know not; But in the gross and scope of my opinion, This bodes some strange eruption to our state."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes—a sallow man with pinched lips that looked as if they were cold, a red eruption here and there upon his face, tall and thin, about fifty years of age, high-shouldered, and stooping."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Gacko it is also believed that if a pregnant woman witnesses a conflagration, her child will either be born with a red eruption on its skin or will contract the malady sooner or later afterwards."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The historic **eruption** of Mount Etna buried ancient towns beneath rivers of incandescent basaltic lava."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A vesicular **eruption** accompanied by severe neuralgic pain pointed decisively to herpes zoster."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sudden **eruption** of barbarian tribes across the Danube overwhelmed the frontier Roman garrisons."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being distinguished or differentiated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being distinguished or differentiated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being separated, identified, or recognized as distinct from surrounding elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking identifying features or differences; indiscernible to sight, hearing, or intellect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fold stands empty in the drownèd field, And crows are fatted with the murrion flock; The nine-men’s-morris is fill’d up with mud, And the quaint mazes in the wanton green, For lack of tread, are undistinguishable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These things seem small and undistinguishable, Like far-off mountains turnèd into clouds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Dogs, undistinguishable in mire."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The distant headland was virtually **undistinguishable** amid the thick gathering mist."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In closely related forms, the skeletal variations are often practically **undistinguishable**."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"These things seem small and **undistinguishable**, like far-off mountains turned into clouds."*

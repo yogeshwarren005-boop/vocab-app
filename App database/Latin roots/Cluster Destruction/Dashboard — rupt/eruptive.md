@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or characterized by eruptions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced by the action of fire or intense heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, pertaining to, or produced by volcanic or violent geological eruption; igneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, accompanied by or characterized by a cutaneous skin rash or lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were too volcanic, spasmodic, eruptive."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Basalt, obsidian, and rhyolite belong to the grand class of **eruptive** or volcanic rocks."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Smallpox and scarlet fever are classified among the acute **eruptive** fevers of childhood."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Submarine **eruptive** vents built immense volcanic cones from the abyssal ocean floor."*

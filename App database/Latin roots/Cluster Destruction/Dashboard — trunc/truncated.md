@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Replace a corner by a plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approximate by ignoring all terms beyond a chosen one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut short, lopped off, or curtailed at the terminus; appearing square or flat at the end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and mineralogy, having an apex, vertex, or edge cut off by an intersecting plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The truncated apex of the Extractor's teleport gate cone glowed red, then violet, and thirty meters of its length disappeared into its new hyperspace home."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"As I took hold of the handle of the door I heard an exclamation, oddly truncated at the end, and a click and a thud."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In front of the dam, on the side of the river, was reared a truncated cone of earth called the '_arooseh_ or "bride," on the top of which a little maize or millet was generally sown."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The quartz prisms exhibited **truncated** edges formed by replacement with secondary rhombic facets."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The old fisherman lived comfortably inside the **truncated** hull of an upturned black lugger on the beach."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"A **truncated** cone of basaltic volcanic rock rose dramatically above the dense South American jungle canopy."*

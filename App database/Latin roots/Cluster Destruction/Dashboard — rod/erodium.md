@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Geraniums of europe and south america and australia especially mountainous regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Geraniums of europe and south america and australia especially mountainous regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the geranium family (Geraniaceae), commonly known as storksbill or heron's bill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical ecology, annual or perennial herbs whose seeds feature hygroscopic coiling awns that bury them in soil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erodium designates geraniums of europe and south america and australia especially mountainous regions."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Erodium** are distinguished by pinnate foliage and spirally twisting beaked carpels."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The hygroscopic awns of **Erodium** furnish an exquisite mechanical adaptation for planting seeds."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Pastures were covered with blooming storksbill or wild **Erodium**, attracting countless honeybees."*

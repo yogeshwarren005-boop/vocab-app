@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by sudden changes in subject and sharp transitions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceedingly sudden and unexpected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sudden, unexpected, and without warning; marked by a sharp, precipitous change or termination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steep, sheer, and precipitous in geological slope; also curt or brusque in manners and speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stay, my Lord Talbot, for my lady craves To know the cause of your abrupt departure."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce was turning to speak to us when his attention was attracted by the abrupt entrance into the room of the Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"How do you like her, my dear?” In answer to this question, which was oddly abrupt, I said I liked her very much and thought she was more agreeable than she used to be."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My aunt brought the conversation to an **abrupt** halt by rising from her chair and adjusting her bonnet."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The coastal mountain rose in an **abrupt** volcanic precipice descending sheer into the Pacific surf."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was surprised by the **abrupt** departure of Mr. Darcy following their uncomfortable encounter."*

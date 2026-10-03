@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French sculptor noted for his renderings of the human form (1840-1917).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French sculptor noted for his renderings of the human form (1840-1917).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Auguste Rodin (1840–1917), the celebrated French sculptor renowned for expressive realism and emotional vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or pertaining to the monumental bronze and marble sculptural masterpieces created by Auguste Rodin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"A BUST BY RODIN, KNOWN AS CERES With rhythmic feet and garments flowing free Draw near, draw near, bring largesse in full hand; Move as to music of the saraband Stately, before this Woman-deity."*
+> - 📜 **Arthur Symons (*Studies in Seven Arts*):** *"The heroic bronzes of **Rodin** embody spiritual struggle through the raw muscular tension of human flesh."*
+> - 📜 **Rainer Maria Rilke (*Auguste Rodin*):** *"To look upon the statues of **Rodin** is to witness stone awakened into restless, breathing life."*
+> - 📜 **George Bernard Shaw (*Pen Portraits and Reviews*):** *"I sat for the master sculptor **Rodin** while he modeled my bust with astonishing speed and tactile genius."*

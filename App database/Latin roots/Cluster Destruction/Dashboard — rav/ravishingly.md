@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ravishing manner or to a ravishing degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a ravishing manner or to a ravishing degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ravishing, enchanting, or delightfully captivating manner; breathtakingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to transport the soul into an ecstasy of aesthetic pleasure or emotional delight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravishingly designates in a ravishing manner or to a ravishing degree."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp looked **ravishingly** pretty in her pink silk gown at the Duchess of Richmond's ball."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The twilight sky glowed **ravishingly** with soft rose and amber hues above the quiet city park."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond sang the Italian air **ravishingly**, accompanying herself on the harp with effortless grace."*

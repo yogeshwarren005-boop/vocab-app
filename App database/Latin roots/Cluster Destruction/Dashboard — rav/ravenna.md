@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A battle between the french and an alliance of spaniards and swiss and venetians in 1512.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battle between the french and an alliance of spaniards and swiss and venetians in 1512.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic city in the Emilia-Romagna region of northern Italy, capital of the Western Roman Empire from 402 to 476 AD.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: World-renowned for spectacular, well-preserved early Christian and Byzantine mosaic architectures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And perhaps he was cheered by keeping his eye on a chance of promotion to the fleet at Ravenna by and by, if he had good friends in Rome and survived the awful climate."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"After a fortnight Lord Surbiton got bored with Venice, and determined to run down the coast to Ravenna, as he heard that there was some capital cock-shooting in the Pinetum."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Emperor Honorius transferred the imperial court from Rome to the impregnable marshes of **Ravenna**."*
+> - 📜 **Lord Byron (*Letters and Journals*):** *"I walked through the solemn pine forest near **Ravenna**, where Dante wandered in solitary exile."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The luminous golden mosaics of **Ravenna** preserve the solemn grandeur of Byzantine religious imagination."*

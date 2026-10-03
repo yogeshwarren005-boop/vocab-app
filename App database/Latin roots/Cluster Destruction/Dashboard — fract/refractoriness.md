@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being unmanageable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being unmanageable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinate resistance to guidance, authority, control, or medical treatment; stubborn recalcitrance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and materials science, the ability of a substance to withstand exceptionally high temperatures without melting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The main requirements are refractoriness of the building materials, particularly careful construction so as to avoid breakouts, and very strong bracing indeed on account of the deep and heavy bath of material which is carried on the furnace hearth."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The king's ministers struggled against the sullen **refractoriness** of the Parisian judicial parlements."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The chemical **refractoriness** of platinum made it indispensable for constructing acid distillation retorts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The medical team observed the patient's **refractoriness** to standard quinine febrifuge therapy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of being corrupted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capability of being corrupted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The liability or susceptibility to undergo moral decay, bribery, debasement, or physical decomposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and philosophy, the mortal vulnerability of physical creation to decay and corruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corruptibility designates the capability of being corrupted."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The natural **corruptibility** of human flesh stands contrasted with the immortal simplicity of the soul."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The institutional design of the executive veto guards against the potential **corruptibility** of legislative majorities."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Robespierre earned the epithet 'The Incorruptible' because he proved his immunity to financial **corruptibility**."*

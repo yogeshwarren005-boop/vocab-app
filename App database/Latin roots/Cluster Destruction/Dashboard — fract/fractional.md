@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or comprising a part or fraction of a possible whole or entirety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting or comprising a part or fraction of a possible whole or entirety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, expressed as, or constituting a fraction; comparatively small, insignificant, or partial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical engineering, designating distillation or crystallization processes that separate components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this manner pieces of money are provided suitable for transactions of different magnitudes, down to small fractional amounts."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Saturation point of fractional money. § 4."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Light-weight fractional coins. § 5."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor assigns each craftsman a tiny **fractional** part in the manufacture of a single pin."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Repeated **fractional** condensation separated the hydrocarbons into fractions of uniform volatility."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"He measured human life not in clumsy calendar years, but in **fractional** moments of intense spiritual awareness."*

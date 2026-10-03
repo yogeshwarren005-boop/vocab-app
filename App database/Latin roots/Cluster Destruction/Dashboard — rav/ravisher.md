@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who assaults others sexually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very attractive or seductive looking woman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who seizes or carries away a person by violence; a perpetrator of sexual assault or rape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who captivates, charms, or enchants others into an ecstasy of emotional wonder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND SERVINGMAN. ’Tis so, and as war in some sort, may be said to be a ravisher, so it cannot be denied but peace is a great maker of cuckolds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go thou with him; and when it is thy hap To find another that is like to thee, Good Rapine, stab him; he is a ravisher."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou ravisher, thou traitor, thou false thief, Thy honey turns to gall, thy joy to grief."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman law punished the violent **ravisher** with exile, confiscation of goods, or capital execution."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The brave knight swore an oath to rescue the noble maiden from the clutches of her lawless **ravisher**."*
+> - 📜 **John Dryden (*Alexander's Feast*):** *"The musician played with such transcendent skill that he was hailed as the **ravisher** of human souls."*

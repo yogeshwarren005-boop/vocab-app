@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a break in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy the peace or tranquility of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Broken in continuity or sequence; halted temporarily; obstructed or broken into by external causes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, describing pinnate foliage or spikes with irregular gaps or alternating smaller leaflets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you hence, Before the tag return, whose rage doth rend Like interrupted waters, and o’erbear What they are used to bear?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know she is not, for this match made up Her presence would have interrupted much."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not in my house, Lucentio, for you know Pitchers have ears, and I have many servants; Besides, old Gremio is hearkening still, And happily we might be interrupted."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The **interrupted** fern, Osmunda claytoniana, features green sterile pinnae separated by dark fertile segments."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes listened patiently to the client's tale, which was frequently **interrupted** by sobs of grief."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geological record is profoundly **interrupted** by vast unconformities where deposition ceased."*

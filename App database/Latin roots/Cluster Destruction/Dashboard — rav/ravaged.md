@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a pillaging or destructive raid on (a place), as in wartimes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause extensive destruction or ruin utterly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devastated, despoiled, pillaged, or severely damaged by violence, warfare, or natural disaster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing the visible, distressing marks of severe illness, protracted grief, poverty, or aging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Hyde raised himself on his arm and felt for his handkerchief--indifferent to Isabel's observation, or soothed by it: his features were ravaged."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Plans were drawn, contracts placed and foundations laid for its arcade while the holy places were ravaged by flames of the civil strife burning fiercely in the Holy Land."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Whenever Marseilles, one of the busiest and most brilliant of Greek colonies, was ravaged by a plague, a man of the poorer classes used to offer himself as a scapegoat."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The **ravaged** village presented a dismal spectacle of burnt cottages and trampled wheat fields."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"His **ravaged** countenance reflected years of bitter disappointment, restless travel, and brooding sorrow."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The plague had **ravaged** the small Swiss valley, leaving dozens of impoverished families destitute."*

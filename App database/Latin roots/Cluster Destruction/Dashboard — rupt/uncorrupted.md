@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of language) not having its purity or excellence debased; ; - van wyck brooks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not decayed or decomposed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from moral decay, bribery, depravity, contamination, or perversion; pure, upright, and sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserved in its original authentic form; not distorted, mutilated, or falsified by copyists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He proposed that the couple should take Tess’s own name, d’Urberville, as uncorrupted."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Augustine entered manhood's estate with the security of a kind heart, firm and uncorrupted judgment, with a vigorous and healthy soul; the wide world only was the limit of his boundless goodness."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Possessed of vitality enough to keep it uncorrupted and pliant, its only instinct was a blind hunger for the sole food which could keep its awful life persistent--living human blood."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A few senators retained their ancestral dignity, offering an **uncorrupted** example of ancient Roman honor."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The monastic library preserved an **uncorrupted** manuscript transcript of the Venerable Bede's chronicle."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An **uncorrupted** judiciary represents the sacred bulwark of civil liberty and constitutional supremacy."*

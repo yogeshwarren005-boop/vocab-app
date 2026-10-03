@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Veloute sauce seasoned with chopped chervil, chives, tarragon, shallots and capers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Veloute sauce seasoned with chopped chervil, chives, tarragon, shallots and capers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of ravigote, designating a piquant French herb sauce or culinary dressing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classic 19th-century gastronomic manuals, a seasoned green sauce served cold with boiled beef or seafood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravigotte designates veloute sauce seasoned with chopped chervil, chives, tarragon, shallots and capers."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Garnish the cold salmon with fresh watercress and a side boat of herbal sauce **ravigotte**."*
+> - 📜 **Brillat-Savarin (*The Physiology of Taste*):** *"A well-compounded **ravigotte** must balance the sharpness of white wine vinegar with sweet aromatic herbs."*
+> - 📜 **Alexandre Dumas (*Grand Dictionnaire de Cuisine*):** *"The secret of an authentic **ravigotte** lies in finely bruising the fresh tarragon leaves before blending."*

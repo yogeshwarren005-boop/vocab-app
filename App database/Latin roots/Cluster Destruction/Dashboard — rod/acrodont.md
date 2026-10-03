@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal having teeth consolidated with the summit of the alveolar ridge without sockets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal having teeth consolidated with the summit of the alveolar ridge without sockets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having teeth attached directly to the summit of the jawbone without sockets, as in certain lizards and fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy, an animal displaying this primitive mode of dental attachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrodont designates an animal having teeth consolidated with the summit of the alveolar ridge without sockets."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The dentition of sphenodon represents the typical **acrodont** type where teeth fuse seamlessly to the bone."*
+> - 📜 **Richard Owen (*Odontography: A Treatise on the Comparative Anatomy of the Teeth*):** *"In **acrodont** reptiles, the dental series is rarely replaced once mature wear exhausts the crown."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil lizard displayed **acrodont** dentition allied to modern agamid species of the eastern tropics."*

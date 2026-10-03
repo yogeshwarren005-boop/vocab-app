@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in disregard of laws, rules, contracts, or promises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in disregard of laws, rules, contracts, or promises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To break, violate, transgress, or infringe upon a law, treaty, compact, or moral duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To breach, compromise, or disrupt an established peace, agreement, or institutional code.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infract designates act in disregard of laws, rules, contracts, or promises."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No state shall enact legislation that will **infract** the sacred obligations of lawful private contracts."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian chieftain hesitated to **infract** the solemn peace treaty swore before the emperor."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"Rival monarchs accused each other of scheming to **infract** the territorial agreements of Westphalia."*

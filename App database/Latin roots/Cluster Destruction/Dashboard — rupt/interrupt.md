@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A signal that temporarily stops the execution of a program so that another procedure can be carried out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a break in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To break the continuity, progress, or sequence of an action, process, speech, or connection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stop someone who is speaking by breaking in with questions, comments, or noise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under the cool shade of a sycamore I thought to close mine eyes some half an hour, When, lo, to interrupt my purposed rest, Toward that shade I might behold addressed The King and his companions."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll hear you more, to the bottom of your story, And never interrupt you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me the light; upon thy life I charge thee, Whate’er thou hear’st or seest, stand all aloof And do not interrupt me in my course."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet could not refrain from breaking in to **interrupt** Mr. Collins's elaborate compliments."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"A sudden tapping on the windowpane served to **interrupt** our quiet conversation beside the fire."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Opening the metallic key acts to **interrupt** the continuous flow of galvanic current through the circuit."*

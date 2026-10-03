@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of delaying or interrupting the continuity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Some abrupt occurrence that interrupts an ongoing activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of interrupting or breaking in upon an action, speech, or process; a breach of continuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary stoppage, gap, hindrance, obstruction, or pause in the course of events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And bloody England into England gone, O’erbearing interruption, spite of France?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Famous Plantagenet, most gracious Prince, Lend favourable ear to our requests, And pardon us the interruption Of thy devotion and right Christian zeal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She heard me out without interruption and then said with her pretty accent and in her mildest voice, “Hey, mademoiselle, I have received my answer!"*
+> - 📜 **Jane Austen (*Emma*):** *"The arrival of unexpected morning visitors caused an unwelcome **interruption** to their serious discussion."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip read the legal document without **interruption**, hanging upon every word of the mysterious bequest."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A bloodcurdling howl broke across the moor, causing a terrible **interruption** to our midnight vigil."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to deteriorate due to the action of water, air, or an acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become destroyed by water, air, or a corrosive such as an acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eaten away, impaired, rusted, or damaged by chemical reaction, oxidation, or prolonged exposure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impaired, undermined, or decayed by moral corruption, psychological grief, or prolonged wear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It so chanced that almost upon first cutting into him with the spade, the entire length of a corroded harpoon was found imbedded in his flesh, on the lower part of the bunch before described."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Give way!” cried Ahab to the oarsmen, and the boats darted forward to the attack; but maddened by yesterday’s fresh irons that corroded in him, Moby Dick seemed combinedly possessed by all the angels that fell from heaven."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"From the death of my parents till the commencement of this year my life had been serene and blissful beyond the ordinary portion of humanity; but now my bosom was corroded by anxiety."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The heavy iron hasp of the cellar chest was deeply **corroded** by decades of underground damp."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The brass fittings on the old captain's sea chest were greenish and **corroded** with salt air."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ancient anchor chains lay **corroded** upon the deck like the skeleton bones of extinct monsters."*

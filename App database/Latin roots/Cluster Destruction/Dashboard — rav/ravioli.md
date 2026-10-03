@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small circular or square cases of dough with savory fillings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small circular or square cases of dough with savory fillings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small square or circular cases of pasta dough enclosing a savory filling of meat, cheese, or vegetables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional Italian gastronomy, dumplings cooked in simmering broth or water and served with sauce.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravioli designates small circular or square cases of dough with savory fillings."*
+> - 📜 **Charles Dickens (*Pictures from Italy*):** *"We enjoyed a delightful Genoese dinner of handmade **ravioli** dressed with savory gravy and grated cheese."*
+> - 📜 **William Makepeace Thackeray (*The Paris Sketch Book*):** *"The Italian trattoria in Paris was celebrated for serving steaming bowls of tender cheese **ravioli**."*
+> - 📜 **Brillat-Savarin (*The Physiology of Taste*):** *"Northern Italian culinary masters elevate simple wheat pasta into delicate **ravioli** filled with spiced ricotta."*

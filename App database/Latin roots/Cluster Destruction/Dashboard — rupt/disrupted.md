@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a break in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throw into disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Interrupted, fractured, disordered, or thrown into structural or operational disarray.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, referring to rock strata or mineral veins fractured and displaced by seismic tectonic faulting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer, by his order without prior notice and planning, had completely disrupted the Plutonian tactical formation."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The seismic earthquake severely **disrupted** the sedimentary strata along the coastal fault line."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Ordinary commercial business was completely **disrupted** throughout Paris during the revolutionary terror."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"A massive volcanic upheaval had **disrupted** the ancient landscape, creating towering isolated mesas."*

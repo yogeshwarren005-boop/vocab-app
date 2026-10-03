@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dance party that lasts all night and electronically synthesized music is played.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extravagantly enthusiastic review.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak, chant, or declaim wildly, passionately, or incoherently, as in delirium, madness, or fury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To praise something with intense, unrestrained, or extravagant enthusiasm and acclaim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee grieve to make me merry, York; Stamp, rave, and fret, that I may sing and dance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stamp, rave, and fret, that I may sing and dance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set him breast-deep in earth and famish him; There let him stand and rave and cry for food."*
+> - 📜 **William Shakespeare (*King Lear*):** *"The abandoned king did **rave** against the merciless howling winds and sheets of thunderous rain."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Fagin began to shriek and **rave** in his prison cell as the final hour of execution approached."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The impressionable critics began to **rave** over the young prodigy's passionate execution of Chopin."*

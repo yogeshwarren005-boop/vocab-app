@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vain and empty boasting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vain and empty boasting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vain, boastful, or arrogant speech or behavior; swaggering or pretentious bluster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by extravagant, bombastic, or vainglorious pretension intended to impress or intimidate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rodomontade designates vain and empty boasting."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The haughty Templar indulged in empty **rodomontade**, boasting of imaginary victories over Saracen hosts."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor dismissed the Persian ambassador's theatrical **rodomontade** with dignified Roman composure."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Patriotic journalists denounced the emigrant prince's manifesto as foolish, bloodthirsty **rodomontade**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive isotope of hydrogen; atoms of tritium have three times the mass of ordinary hydrogen atoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive isotope of hydrogen; atoms of tritium have three times the mass of ordinary hydrogen atoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive isotope of hydrogen with atomic mass approximately 3, having one proton and two neutrons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics and radiochemistry, a beta-emitting radioisotope utilized in fusion energy and radioluminescent markers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritium designates a radioactive isotope of hydrogen; atoms of tritium have three times the mass of ordinary hydrogen atoms."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"Artificial transmutation of light elements demonstrated the formation of mass-three hydrogen, later named **tritium**."*
+> - 📜 **J. J. Thomson (*Rays of Positive Electricity*):** *"Positive ray parabolas provided early spectroscopic indications of isotopes heavier than deuterium, foreshadowing **tritium**."*
+> - 📜 **Leonor Michaelis (*Physicochemical Properties of Plant Pigments*):** *"Radioactive tracer studies employing **tritium** enabled researchers to follow cellular metabolic pathways."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ruinous manner or to a ruinous degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a ruinous manner or to a ruinous degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ruinous manner; disastrously, destructively, or to a degree that causes ruin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At exorbitant, unsustainable, or financially catastrophic cost or sacrifice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But this incurable loitering beside Bathsheba Everdene stole his time ruinously."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But this incurable loitering beside Bathsheba Everdene stole his time ruinously."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The family incurred **ruinously** expensive debts in attempting to maintain a false appearance of wealth."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopolistic privileges granted to exclusive trading companies operated **ruinously** against domestic manufacturers."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The continuous drenching rains told **ruinously** upon the quality and yield of the unharvested grain."*

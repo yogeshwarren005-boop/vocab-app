@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark as different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detect with the senses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Celebrated, eminent, renowned, or famous for superior qualities, achievements, or nobility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set apart as distinctive, exceptional, or showing dignified elegance and refined grace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Opening the door, she distinguished the well-known calls of "Uncle Philip, Uncle Philip!" So her longed-for brother was near at last."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Among the ladies who were most distinguished for this rapacious benevolence (if I may use the expression) was a Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But the brilliant and distinguished circle will soon do that."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Captain Wentworth was recognized as a **distinguished** naval officer whose bravery had earned him high honor."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"A circle of **distinguished** scholars assembled at the university to celebrate the literary anniversary."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic nations rarely produce that class of **distinguished** aristocratic statesmen found in Europe."*

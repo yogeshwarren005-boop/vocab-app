@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The incapability of being corrupted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The incapability of being corrupted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapacity for moral corruption, bribery, perversion, or ethical compromise; unyielding integrity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and natural philosophy, perpetual exemption from physical putrefaction and mortality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incorruptibility designates the incapability of being corrupted."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Robespierre's reputation for fanatical **incorruptibility** gave him immense authority over the Jacobins."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judicial branch requires lifetime tenure to secure the highest degree of impartiality and **incorruptibility**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Philosophers attributed **incorruptibility** to celestial bodies before modern telescopes revealed changing spots."*

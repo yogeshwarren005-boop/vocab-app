@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rueful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rueful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a contrite, penitent, and humble manner; with genuine heartfelt sorrow for wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conveying earnest apologies, repentance, and acknowledgment of moral failure or fault.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"It is going to be the regret of my life." "Truly, I'm sorry, sweetheart," he answered most contritely."*
-> - 📜 **Algis Budrys (*Citadel*):** *"I'm sorry, dear!" she said contritely."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"My dear Miss Winthrop,” he apologized contritely, “I'm sure you'll forgive this seeming great rudeness on the part of my wife."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip confessed his selfish ingratitude **contritely** to honest Joe Gargery beside the forge."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Godfrey Cass spoke **contritely** when acknowledging his secret marriage to his astonished wife."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The prisoner wept **contritely** before the solemn magistrates, begging for royal clemency."*

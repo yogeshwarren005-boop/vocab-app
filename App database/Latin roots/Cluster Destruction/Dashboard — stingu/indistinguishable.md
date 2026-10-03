@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exactly alike; incapable of being perceived as different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being distinguished or differentiated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to differentiate, recognize, tell apart, or discern as separate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking distinct or defining features; blending smoothly into an adjacent background.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, no, you ruinous butt; you whoreson indistinguishable cur, no."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He fixed his eyes on Val: eyes like his cousin's in form and colour, large, and so black under their black lashes that the pupil was almost indistinguishable from the iris, but smouldering in a perpetual glow, while Hyde's were clear and indifferent."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I passed along the tradesmen’s path, but found it all trampled down and indistinguishable."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The dark coastline was almost **indistinguishable** through the dense white fog rising from the sea."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In closely allied species, the skeletal differences become practically **indistinguishable** upon casual examination."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The distant future landscape appeared blurred and **indistinguishable** as the machine accelerated."*

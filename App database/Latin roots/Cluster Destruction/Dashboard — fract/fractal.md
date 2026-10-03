@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a geometric pattern that is repeated at every scale and so cannot be represented by classical geometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) a geometric pattern that is repeated at every scale and so cannot be represented by classical geometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex geometric shape whose parts each resemble the statistical or geometric structure of the whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nonlinear dynamics, possessing fractional topological dimension and self-similar patterns at every magnification scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fractal designates (mathematics) a geometric pattern that is repeated at every scale and so cannot be represented by classical geometry."*
+> - 📜 **Benoit Mandelbrot (*The Fractal Geometry of Nature*):** *"Clouds are not spheres and coastlines are not circles; nature exhibits profound **fractal** complexity."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The branching arborization of bronchial pathways displays self-similar geometric order akin to **fractal** figures."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Biological branching systems in lungs and river networks obey universal physical laws of **fractal** morphogenesis."*

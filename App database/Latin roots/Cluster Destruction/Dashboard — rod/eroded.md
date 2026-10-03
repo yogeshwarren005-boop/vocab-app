@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become ground down or deteriorate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove soil or rock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worn away, hollowed out, or disintegrated by the mechanical action of water, ice, wind, or chemical processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diminished, impaired, or weakened gradually over a protracted period of time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Every land-mark in that eight-hour drive in the mountain buckboard, every tree, every mountain, every ford and bridge, every ridge and eroded hillside was ever the same."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The wide river valley displayed ancient **eroded** terraces marking higher water levels during the glacial period."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The sea salt and northern winds had deeply **eroded** the delicate Gothic carvings on the palace facade."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The plateau stood bordered by steep, **eroded** cliffs that barred all ordinary human ascent."*

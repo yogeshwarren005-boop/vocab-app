@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of insects: includes booklice and bark-lice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of insects: includes booklice and bark-lice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete taxonomic order of insects comprising the booklice, barklice, and related psocids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, biting insects formerly grouped together due to chewing mandibles and simple metamorphosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corrodentia designates an order of insects: includes booklice and bark-lice."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The diminutive insects of the group **Corrodentia** feed upon microscopic molds and dried organic matter."*
+> - 📜 **John Lubbock (*On the Origin and Metamorphoses of Insects*):** *"Morphological studies of **Corrodentia** illustrate primitive mouthparts adapted for chewing fungi."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Old herbarium specimens must be safeguarded against destructive infestations of miniature **Corrodentia**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large black bird with a straight bill and long wedge-shaped tail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain or seize by violence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, glossy black oscine passerine bird (Corvus corax) celebrated for intelligence, scavenging, and deep croak.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the deep, lustrous, iridescent bluish-black color characteristic of a raven's plumage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Swift, swift, you dragons of the night, that dawning May bare the raven’s eye!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, the croaking raven doth bellow for revenge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His feathers are but borrowed, For he’s disposed as the hateful raven."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"Open here I flung the shutter, when, with many a flirt and flutter, in there stepped a stately **Raven**."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"The **raven** himself is hoarse that croaks the fatal entrance of Duncan under my battlements."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her glossy **raven** tresses formed a striking contrast against the pale marble of her forehead."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by integrity or probity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by integrity or probity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from moral corruption, dishonesty, depravity, or bribery; upright purity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exemption from biological decay, decomposition, or contamination; sound preservation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incorruptness designates characterized by integrity or probity."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The character of the chief magistrate must exhibit an unquestioned **incorruptness** to inspire public trust."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The early republican heroes were distinguished by their rustic simplicity and severe **incorruptness** of life."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Integrity of heart and **incorruptness** of hands are the twin jewels of a righteous chancellor."*

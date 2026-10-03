@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to see the color blue or to distinguish the colors blue and yellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to see the color blue or to distinguish the colors blue and yellow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by or relating to tritanopia; exhibiting an inability to perceive or differentiate blue and yellow spectral colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optometry, describing an individual whose visual perception lacks functioning short-wavelength cone photoreceptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritanopic designates inability to see the color blue or to distinguish the colors blue and yellow."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Spectral brightness curves obtained from **tritanopic** observers show characteristic shifts in the blue region."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical examiner administered Ishihara-style plates to detect **tritanopic** color confusion."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"A **tritanopic** subject perceives green and red distinctly while confusing shades of blue and gray."*

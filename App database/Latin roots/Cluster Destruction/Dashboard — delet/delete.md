@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove or make invisible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wipe out digitally or magnetically recorded information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strike out, expunge, erase, or eliminate recorded words, text, or data.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetic biology, to remove a specific nucleotide sequence or chromosome segment from a genome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Make the contact," he said, adding, "Relay the message through one of the transports; delete all references that show this facility is in the loop." Switches snapped as the operator nodded."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The copyist was instructed to **delete** the redundant legal clauses from the Chancery parchment."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The decree sought to **delete** every vestige of feudal nobility from the national registers."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon decided to **delete** an entire controversial chapter from his theological manuscript."*

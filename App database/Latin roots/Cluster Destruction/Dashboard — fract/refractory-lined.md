@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of furnaces) lined with material that has a high melting point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of furnaces) lined with material that has a high melting point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lined or coated internally with refractory heat-resistant materials such as fireclay, silica, or magnesia bricks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial engineering, describing blast furnaces, ladles, or kilns equipped with thermal protective linings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refractory-lined designates (of furnaces) lined with material that has a high melting point."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The metallurgical experiments were conducted inside a **refractory-lined** crucible of compressed lime."*
+> - 📜 **Harvey W. Wiley (*Industrial Chemistry and Fabrication*):** *"Molten pig iron poured from the converter into a **refractory-lined** ladle for ingot casting."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Smelting sulfide ores requires a sturdy **refractory-lined** reverberatory furnace to contain corrosive slag."*

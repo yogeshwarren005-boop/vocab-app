@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to refraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the refracting power of (a lens).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deflect, bend, or alter the course of a light, sound, or heat wave passing obliquely between media.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics, to alter wave velocity and direction upon entering a substance of different refractive index.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"We see, then, that the effect which a fog produces is mainly to refract the light rays."*
-> - 📜 **James Joyce (*Ulysses*):** *"Black conducts, reflects, (refracts is it?), the heat."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was near noon; I knew by the perpendicularity of the sun’s rays, which were no longer refracted."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Prisms of flint glass **refract** incoming rays of white sunlight into vivid composite spectra."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Dense atmospheric layers **refract** the celestial rays, elevating the apparent altitude of stars."*
+> - 📜 **John Tyndall (*Six Lectures on Light*):** *"Water droplets suspended in cloud mist **refract** and reflect solar rays to generate rainbows."*

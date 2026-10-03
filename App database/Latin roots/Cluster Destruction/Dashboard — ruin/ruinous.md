@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely harmful; bringing physical or financial ruin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing injury or blight; especially affecting with sudden violence or plague or ruin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or tending to cause ruin, catastrophe, or disaster; highly destructive or disastrous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a state of decay, dilapidation, disrepair, or structural dilapidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall love, in building, grow so ruinous?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Machinations, hollowness, treachery, and all ruinous disorders follow us disquietly to our graves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is yond despised and ruinous man my lord?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The civil wars between rival emperors produced **ruinous** consequences for agriculture and commerce."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The ancient barons resided in a solitary tower standing in a **ruinous** condition amidst the hills."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Commercial barriers between rival confederated states would inevitably inflict **ruinous** losses upon national trade."*

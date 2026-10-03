@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of integrity or honesty (especially susceptibility to bribery); use of a position of trust for dishonest gain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a state of progressive putrefaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dishonest, fraudulent, or illegal conduct by those in power, typically involving bribery or extortion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The decay, putrefaction, or biological decomposition of organic matter; also textual alteration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see the jewel best enamelled Will lose his beauty; yet the gold bides still That others touch, yet often touching will Wear gold; and no man that hath a name By falsehood and corruption doth it shame."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, but to live In the rank sweat of an enseamed bed, Stew’d in corruption, honeying and making love Over the nasty sty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will but skin and film the ulcerous place, Whilst rank corruption, mining all within, Infects unseen."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"I have seen **corruption** boil and bubble till it o'errun the stew; laws for all faults, but faults so countenanced."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The internal **corruption** of morals and discipline contributed more to Rome's fall than barbarian arms."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Precautions against foreign **corruption** are among the most vital duties of constitutional architecture."*

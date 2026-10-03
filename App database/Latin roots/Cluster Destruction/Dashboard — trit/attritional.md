@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by attrition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or caused by attrition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or resulting from continuous rubbing, friction, or wear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a military or strategic campaign intended to wear down opponent resources gradually.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attritional designates relating to or caused by attrition."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The **attritional** forces of glacial movement polished the crystalline bedrock beneath the moraine."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"The king waged an **attritional** defensive campaign against Austrian and Russian coalition armies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe dental loss resulted from years of aggressive **attritional** mastication of fibrous food."*

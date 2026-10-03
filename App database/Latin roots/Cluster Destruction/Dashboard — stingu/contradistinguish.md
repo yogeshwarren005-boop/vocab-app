@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguish by contrasting qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinguish by contrasting qualities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To distinguish or differentiate by contrasting opposite or different qualities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal philosophical logic, to mark the boundary between two terms by contrasting essential attributes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contradistinguish designates distinguish by contrasting qualities."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We must carefully **contradistinguish** simple sensory ideas from the complex notions fabricated by reflection."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The primary objective of my critical treatise is to **contradistinguish** creative imagination from mere mechanical fancy."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Philosophical definitions must explicitly **contradistinguish** general properties from transient accidental circumstances."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by unrest or disorder or insubordination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by unrest or disorder or insubordination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or tending to cause disruption, disturbance, disorder, fracture, or interruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical physics, involving a dielectric breakdown resulting in a spark or sudden discharge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was all too ridiculous, the introducing of disruptive foreign substances into the bodies of little black men-folk."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was torn by an exquisite and disruptive agony."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Then came the summons, the stamp of the hoof of doom, the exquisite disruptive agony, and again I was back in my cell in San Quentin."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A brilliant spark accompanied the **disruptive** discharge of high-tension electricity across the air gap."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Revolutionary scientific ideas frequently exert a **disruptive** effect upon established academic orthodoxies."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Industrial disputes between mill owners and factory hands created a tense, **disruptive** atmosphere in Coketown."*

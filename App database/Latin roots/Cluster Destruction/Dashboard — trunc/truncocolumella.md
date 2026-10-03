@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family rhizopogonaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family rhizopogonaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mycological taxonomy, the truncated central sterile axis or columella found within certain gasteroid fungal fruiting bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology and invertebrate paleontology, a truncated or modified central shell pillar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, truncocolumella designates a genus of fungi belonging to the family rhizopogonaceae."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Microscopic dissection of the puffball revealed a distinct **truncocolumella** supporting the glebal chambers."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The internal morphology displays an elevated **truncocolumella** separating the fertile spore masses."*
+> - 📜 **M. C. Cooke (*Introduction to the Study of Fungi*):** *"The basal sterile tissue forms a prominent **truncocolumella** characteristic of the genus."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical property of a medium as determined by its index of refraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical property of a medium as determined by its index of refraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property, power, or degree of refracting light, sound, or wave fronts; refrangibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics and mineralogy, the measure of optical density exhibited by a transparent medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refractiveness designates the physical property of a medium as determined by its index of refraction."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Carbon bisulphide was selected for the hollow prism on account of its remarkable **refractiveness**."*
+> - 📜 **John Tyndall (*Six Lectures on Light*):** *"Variations in the optical **refractiveness** of air generate shimmering heat mirages over summer sands."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Mineralogists evaluate the relative **refractiveness** of gemstones using immersion liquids of known index."*

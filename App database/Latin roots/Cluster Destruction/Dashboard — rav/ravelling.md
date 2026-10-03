@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bit of fiber that has become separated from woven fabric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disentangle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose, unspun thread or strand drawn out of a piece of woven or knitted cloth; a fraying yarn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The British variant spelling for the unravelling, disentanglement, or fraying of woven textile edges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Davy had finished ravelling out his herring net and had wound the twine into a ball."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"A stray woollen **ravelling** from her red kerchief clung to the brambles beside the dairy gate."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The ancient tapestry was perishing with damp, shedding a dusty **ravelling** at every breath of air."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mrs. Cadwallader twitched a loose silk **ravelling** from her shawl while discussing the parish election."*

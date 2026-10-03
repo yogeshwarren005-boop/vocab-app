@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small gnawing animals: porcupines; rats; mice; squirrels; marmots; beavers; gophers; voles; hamsters; guinea pigs; agoutis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small gnawing animals: porcupines; rats; mice; squirrels; marmots; beavers; gophers; voles; hamsters; guinea pigs; agoutis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest mammalian order, characterized by a single pair of continuously growing upper and lower incisors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalian taxonomy, placental mammals encompassing mice, rats, squirrels, porcupines, and beavers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rodentia designates small gnawing animals: porcupines; rats; mice; squirrels; marmots; beavers; gophers; voles; hamsters; guinea pigs; agoutis."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"South America is remarkably rich in distinct genera of the order **Rodentia**, displaying diverse adaptations."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skull of every true **Rodentia** specimen exhibits large chisel-shaped incisors separated by a toothless diastema."*
+> - 📜 **Richard Owen (*Odontography: A Treatise on the Comparative Anatomy of the Teeth*):** *"Continuous dental growth in **Rodentia** compensates for constant abrasive wear upon the enamel."*

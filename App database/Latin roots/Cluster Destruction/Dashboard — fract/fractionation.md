@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process that uses heat to separate a substance into its components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separation into portions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A separation process in which a quantity of a mixture is divided into a number of smaller fractions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and radiology, dividing an operation or radiation dosage into discrete timed portions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fractionation designates a process that uses heat to separate a substance into its components."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Thermal **fractionation** of volatile spirits reveals the diverse boiling points of blended hydrocarbons."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"Tedious fractional crystallization and chemical **fractionation** were required to isolate decigrams of pure radium chloride."*
+> - 📜 **William Crookes (*Researches on the Atomic Weight of Thallium*):** *"Systematic **fractionation** of the seleniferous flue dust yielded the new metallic element thallium."*

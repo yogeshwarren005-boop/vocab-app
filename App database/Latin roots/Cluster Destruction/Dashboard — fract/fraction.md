@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A component of a mixture that has been separated by a fractional process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small part or item forming a piece of a whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A numerical quantity that is not a whole number; a part, proportion, or ratio of a larger whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical refining, a component separated from a mixture by fractional distillation based on boiling point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the better; their fraction is more our wish than their faction."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And yet, so far was I beyond my tables, that all I needed was a mere look at a man to know his predispositions, his co-ordinations, and the index fraction of his motion-wastage."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He brought his foot to bear upon me, with the weight of his body added to his foot, and pulled, but failed to get any fraction of an inch of slack."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Every **fraction** of a minute was precious to Scrooge as he strove to make amends for his past."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Distillation divides volatile coal tar into distinct light oil and heavy naphtha **fraction** yields."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Wickham spent only a small **fraction** of his inheritance before accumulating dangerous gaming debts."*

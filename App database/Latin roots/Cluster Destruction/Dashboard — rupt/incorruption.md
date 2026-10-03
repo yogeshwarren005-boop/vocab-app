@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by integrity or probity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by integrity or probity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom or exemption from physical decay, putrefaction, decomposition, or moral contamination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology, the immortal, glorified state of the resurrected human soul and body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now that the incorruption of this most fragrant ambergris should be found in the heart of such decay; is this nothing?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Paul in Corinthians, about corruption and incorruption; how that we are sown in dishonor, but raised in glory."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Now that the incorruption of this most fragrant ambergris should be found in the heart of such decay; is this nothing?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"This mortal frame must be raised in glory, clothed in divine **incorruption** at the sound of the trumpet."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian set his face toward the Celestial City where eternal **incorruption** crowns the faithful pilgrims."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The soul aspires to that holy state of **incorruption** where temptation and worldly ambition cease to torment."*

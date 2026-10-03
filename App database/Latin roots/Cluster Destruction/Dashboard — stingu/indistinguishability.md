@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exact sameness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exact sameness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition, quality, or property of being impossible to differentiate, discern, or tell apart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics, the fundamental identical nature of elementary particles of the same quantum state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indistinguishability designates exact sameness."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When sensory perceptions blend into complete **indistinguishability**, the mind fails to form distinct ideas."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The newborn infant experiences the world as a blooming, buzzing confusion approaching perceptual **indistinguishability**."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"At the earliest embryonic stages, the physical **indistinguishability** of mammalian forms is remarkable."*

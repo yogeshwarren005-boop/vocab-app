@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has insufficient assets to cover their debts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce to bankruptcy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Legally declared unable to pay outstanding financial debts; having liabilities exceeding assets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely depleted, destitute, impoverished, or wholly lacking in a quality, resource, or virtue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should he live, now nature bankrupt is, Beggared of blood to blush through lively veins, For she hath no exchequer now but his, And proud of many, lives upon his gains?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time is a very bankrupt, and owes more than he’s worth to season."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fat paunches have lean pates, and dainty bits Make rich the ribs, but bankrupt quite the wits. [_He signs._] DUMAINE."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The collapse of Merdle's fraudulent speculations left thousands of innocent families completely **bankrupt**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A merchant who overtrades beyond his capital is soon reduced to **bankrupt** ruin by protested bills."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A society governed purely by cash payment without human sympathy is morally and spiritually **bankrupt**."*

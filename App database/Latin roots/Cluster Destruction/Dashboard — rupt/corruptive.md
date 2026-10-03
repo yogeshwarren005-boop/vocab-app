@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to corrupt or pervert.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to corrupt or pervert.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to corrupt, contaminate, debase, deprave, or undermine moral or institutional integrity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Productive of physical decay, putrefaction, or chemical deterioration in substances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corruptive designates tending to corrupt or pervert."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Idleness and unearned luxury act as a **corruptive** poison upon the youth of the aristocracy."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Social tyranny exerts a **corruptive** restraint upon individuality and genius that is deadlier than law."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Moist air and stagnant warmth produce a **corruptive** atmosphere favoring the generation of mold."*

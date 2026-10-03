@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mordacious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a mordacious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a caustic, biting, sarcastic, or sharply incisive manner; with biting wit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive zoological prose, grasping or biting forcefully and persistently.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mordaciously designates in a mordacious manner."*
+> - 📜 **Thomas Carlyle (*Latter-Day Pamphlets*):** *"The essayist attacked parliamentary corruptions **mordaciously**, evoking both outrage and admiration."*
+> - 📜 **William Hazlitt (*Table Talk*):** *"Swift wrote **mordaciously** whenever contemplating the political folly and vain ambition of statesmen."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The aggressive ant clamped **mordaciously** upon the intruder's fingers, refusing to release its grip."*

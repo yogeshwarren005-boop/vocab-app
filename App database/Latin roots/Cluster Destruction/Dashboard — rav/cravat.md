@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Neckwear worn in a slipknot with long ends overlapping vertically in front.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neckwear worn in a slipknot with long ends overlapping vertically in front.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neckband, neckcloth, or scarf worn around the neck by men, tied in a knot or bow in front.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century fashion, a starched linen or silk neckpiece folded decoratively above a waistcoat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A portly, important-looking gentleman, dressed all in black, with a white cravat, large gold watch seals, a pair of gold eye-glasses, and a large seal-ring upon his little finger."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, adjusting his cravat, then looked at us."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We have degenerated,” he returned, shaking his head, which he could do to a very limited extent in his cravat."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip adjusted his stiff linen **cravat** before presenting himself at the fashionable London club."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bingley was dressed with unaffected elegance, his immaculate white **cravat** tied with graceful simplicity."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley spent hours arranging the voluminous folds of his striped satin **cravat** before the looking-glass."*

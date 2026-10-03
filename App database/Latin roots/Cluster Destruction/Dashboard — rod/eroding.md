@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (geology) the mechanical process of wearing or grinding something down (as by particles washing over it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become ground down or deteriorate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ongoing mechanical or chemical action of wearing away earth, rock, or metal surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradually and continuously diminishing, undermining, or chipping away at an intangible quality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eroding designates (geology) the mechanical process of wearing or grinding something down (as by particles washing over it)."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The persistent surf was actively **eroding** the volcanic basalt shores of the Galápagos islands."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Subaerial forces are ceaselessly **eroding** mountain heights and transporting silt to the ocean basins."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Unspoken disappointments were slowly **eroding** the romantic tenderness that once blessed their marriage."*

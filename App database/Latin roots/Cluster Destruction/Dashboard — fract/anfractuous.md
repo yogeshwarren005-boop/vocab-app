@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of twists and turns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of twists and turns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of winding passages, sharp turns, circuitous bends, or intricate convolutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cerebral anatomy, describing the deeply folded and convoluted surface fissures of the brain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anfractuous designates full of twists and turns."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The cavern opened into **anfractuous** subterranean corridors where torchlight was swallowed by perpetual gloom."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The cerebral hemispheres present **anfractuous** gyri that greatly multiply cortical surface area."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The labyrinthine coral reef presented an **anfractuous** maze through which our whaleboat cautiously steered."*

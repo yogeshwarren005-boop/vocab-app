@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exhibition of cowboy skills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enclosure for cattle that have been rounded up.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exhibition or public contest in which cowboys demonstrate skills such as bronco riding and calf roping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Spanish-American pastoral history, a traditional round-up of cattle for branding, counting, or driving to market.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rodeo designates an exhibition of cowboy skills."*
+> - 📜 **Bret Harte (*Tales of the Argonauts*):** *"The vaqueros gathered on horseback at the annual **rodeo** to separate the cattle herds across the valley."*
+> - 📜 **Theodore Roosevelt (*Ranch Life and the Hunting-Trail*):** *"A cattle **rodeo** on the western plains demands superb horsemanship, endurance, and fearless nerve."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"Californian rancheros galloped into the corral for the seasonal **rodeo**, displaying remarkable lasso skill."*

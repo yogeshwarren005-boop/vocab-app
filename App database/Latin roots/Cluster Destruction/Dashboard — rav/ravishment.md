@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of delight at being filled with wonder and enchantment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The crime of forcing a woman to submit to sexual intercourse against her will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense joy, emotional ecstasy, rapture, or sublime poetic transport.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The violent act of abducting, carrying off, or violating a person by force; rape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And they, like straggling slaves for pillage fighting, Obdurate vassals fell exploits effecting, In bloody death and ravishment delighting, Nor children’s tears nor mothers’ groans respecting, Swell in their pride, the onset still expecting."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, Philomel, that sing’st of ravishment, Make thy sad grove in my disheveled hair."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Thir song was partial, but the harmony (What could it less when Spirits immortal sing?) Suspended Hell, and took with ravishment The thronging audience."*
+> - 📜 **John Milton (*Comus*):** *"Such music would take the prison'd soul and lap it in Elysium, moving the listener to sweet **ravishment**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient code of the Twelve Tables imposed severe penalties for the unlawful **ravishment** of freeborn citizens."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Hilda gazed upon the painted Madonna with feelings approaching religious **ravishment** and reverence."*

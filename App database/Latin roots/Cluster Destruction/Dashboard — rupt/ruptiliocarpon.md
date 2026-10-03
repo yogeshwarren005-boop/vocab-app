@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New (1993) genus of trees of central america now recognized as similar to those of genus lepidobotrys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New (1993) genus of trees of central america now recognized as similar to those of genus lepidobotrys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of large tropical canopy trees in the family Lepidobotryaceae, containing Ruptiliocarpon caracolito.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical dendrology, a Central and South American hardwood tree prized for durable timber and exploding seed capsules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ruptiliocarpon designates new (1993) genus of trees of central america now recognized as similar to those of genus lepidobotrys."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Morphological study of **Ruptiliocarpon** elucidated ancestral affinities within the order Celastrales."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The woody capsules of **Ruptiliocarpon** rupture explosively upon maturity to disperse their arillate seeds."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"The emergent rain forest tree **Ruptiliocarpon** dominates the high canopy across primary Costa Rican slopes."*

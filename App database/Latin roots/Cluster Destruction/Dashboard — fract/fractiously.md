@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a peevish manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fractious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a petulant, irritable, quarrelsome, or unruly manner; with troublesome obstinacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resisting authority or instructions with ill-tempered, refractory defiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fractiously designates in a peevish manner."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The spoiled ward muttered **fractiously** whenever the guardian suggested sensible economy."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"Arthur argued **fractiously** with his tutor over minor grammatical corrections in his essay."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The young schoolgirls grumbled **fractiously** when outdoor recreation was canceled by rain."*

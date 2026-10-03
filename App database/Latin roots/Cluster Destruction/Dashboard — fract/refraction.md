@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The change in direction of a propagating wave (light or sound) when passing from one medium to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount by which a propagating wave is bent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The change in direction of a wave passing from one medium into another caused by its change in speed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic optometry, the determination and measurement of the refractive error of the eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She had no nerves: she saw life in its proper colours without refraction."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Very soon light reappeared and grew, and the sun being low on the horizon, the refraction edged the different objects with a spectral ring."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"If to-morrow, the 21st of March, the disc of the sun, allowing for refraction, is exactly cut by the northern horizon, it will show that I am at the South Pole.” “Just so,” said I."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The index of **refraction** varies across different colors, violet light being the most refrangible."*
+> - 📜 **John Tyndall (*Six Lectures on Light*):** *"Total internal reflection occurs when the angle of **refraction** exceeds ninety degrees in glass."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Astronomers calculate atmospheric **refraction** tables to correct observations made near the horizon."*

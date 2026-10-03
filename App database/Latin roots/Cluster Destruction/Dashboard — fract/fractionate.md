@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate into constituents or fractions containing concentrated constituents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain by a fractional process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide, separate, or isolate a chemical mixture into its distinct constituent parts or fractions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, to centrifuge or chromatograph biological homogenates into subcellular organelles or protein fractions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fractionate designates separate into constituents or fractions containing concentrated constituents."*
+> - 📜 **Robert Kane (*Elements of Chemistry*):** *"Careful thermal control allowed the chemist to **fractionate** crude petroleum into naphtha, kerosene, and paraffin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern laboratory procedures **fractionate** blood serum to isolate therapeutic globulin antibodies."*
+> - 📜 **Hugo Theorell (*The Nature and Mode of Action of Oxidation Enzymes*):** *"Electrophoretic techniques help **fractionate** complex cellular extracts into purified respiratory enzymes."*

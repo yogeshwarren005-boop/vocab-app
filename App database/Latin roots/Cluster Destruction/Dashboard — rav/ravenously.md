@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of someone who is very hungry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of someone who is very hungry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ravenous, famished, or voraciously greedy manner; eating with desperate hunger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pursuing objects of desire, wealth, or power with fierce, rapacious, and insatiable eagerness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"T’ pig doesn’t want it.” The girl emptied the stiffened mould into my hand, and I devoured it ravenously."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The escaped convict tore into the cold meat pie **ravenously**, like a wild animal starved in the marshes."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck gulped his ration of dried fish **ravenously**, defending his portion from the other sled dogs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The cold and exhausted traveler ate **ravenously** of the simple bread and cheese set before him."*

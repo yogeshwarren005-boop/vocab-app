@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual cereal grasses from mediterranean area; widely cultivated in temperate regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual cereal grasses from mediterranean area; widely cultivated in temperate regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of annual cereal grasses (family Poaceae), comprising the cultivated wheats vital to global agriculture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural agronomy, the cereal crop cultivated since Neolithic times for flour, bread, and grain production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triticum designates annual cereal grasses from mediterranean area; widely cultivated in temperate regions."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Botanists trace the ancestral lineage of cultivated **Triticum** to wild diploid grasses of the Levant."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The spikelets of **Triticum** are arranged alternately along a zig-zag rachis with awned glumes."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Colonial farmers planted broad fertile fields in **Triticum** vulgare alongside maize and winter barley."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a corrupt manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a corrupt manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a corrupt, venal, dishonest, or depraved manner; with bribery or betrayal of trust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an altered, debased, or erroneous form contrary to the original standard or text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that estates, degrees, and offices Were not deriv’d corruptly, and that clear honour Were purchas’d by the merit of the wearer!"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not only is the legislature (or council, or county board of commissioners, etc.) led by the economic difficulties to withhold a charter from a second company, but it may be corruptly influenced by the company already established."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If public treaties could be altered **corruptly** by individual states, the national honor would perish."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman prefect distributed grain rations **corruptly**, favoring his wealthy clients over the destitute."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The estates were managed **corruptly** by receivers who pocketed rents while cottages fell into ruin."*

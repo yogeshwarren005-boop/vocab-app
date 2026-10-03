@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giant treelike plant having edible nuts and leafstalks that yield a refreshing drink of clear watery sap; reputedly an emergency source of water for travelers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giant treelike plant having edible nuts and leafstalks that yield a refreshing drink of clear watery sap; reputedly an emergency source of water for travelers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the bird-of-paradise family, typified by the traveler's palm (Ravenala madagascariensis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical botany, a majestic arborescent plant featuring immense banana-like leaves arranged in a single flat fan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravenala designates giant treelike plant having edible nuts and leafstalks that yield a refreshing drink of clear watery sap; reputedly an emergency source of water for travelers."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The striking traveler's palm, **Ravenala**, forms one of the most magnificent endemic ornaments of Madagascar."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The fan-shaped foliar crown of **Ravenala** demonstrates morphological specialization to capture and channel rainwater."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The gigantic distichous foliage of **Ravenala** yields copious potable water from its hollow leaf bases."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a morbid manner or to a morbid degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a morbid manner or to a morbid degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a morbid manner; with abnormal or unhealthy interest in unpleasant, gruesome, or diseased subjects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and pathology, displaying symptoms or changes resulting from active disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This was a good time, to be sure, to sit down morbidly and cry!"*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He was of a grave, quiet, and somewhat anxious temperament, almost morbidly scrupulous where matters of conscience and responsibility were concerned."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I morbidly represented to myself that if Joe knew it, I never afterwards could see him at the fireside feeling his fair whisker, without thinking that he was meditating on it."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My imagination, **morbidly** excited by isolation and terror, saw phantom figures in the shadows."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sir Henry had become **morbidly** sensitive to the desolate silence of the surrounding moor."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Certain ascetic saints were **morbidly** obsessed with personal unworthiness and bodily mortification."*

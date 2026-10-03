@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of growing into a youth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of growing into a youth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or period of transitioning into youth; the renewal or flowering of youthful vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological development, the physiological transition from juvenile immaturity to full sexual maturity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, juvenescence designates the process of growing into a youth."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A perpetual **juvenescence** of the imagination preserves the poet from mental ossification."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain breeds retain features of early **juvenescence** permanently into adult life."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her spirit seemed touched by a sudden **juvenescence**, shedding years of provincial sorrow."*

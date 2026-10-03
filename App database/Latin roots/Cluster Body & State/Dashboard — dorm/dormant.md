@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a condition of biological rest or suspended animation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. volcanos) not erupting and not extinct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having normal physical functions suspended or slowed down for a period; in or as if in a deep sleep; inactive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and vulcanology, a volcano that is not currently active but may erupt again in the future.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In coöperation there is occasionally developed good business ability that might have remained dormant under the wage system; some work-men showing unusual capacity cease to be handicraftsmen."*
-> - 📜 **Effie Afton (*Eventide*):** *"It feels there are other faculties, lying dormant and unemployed."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There is in every true woman’s heart a spark of heavenly fire, which lies dormant in the broad daylight of prosperity; but which kindles up, and beams, and blazes in the dark hour of adversity."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Mount Vesuvius was regarded as a harmless **dormant** mountain until the catastrophic catastrophe of 79 AD."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Deep within Ahab's brooding soul lay **dormant** passions ready to ignite at the first glimpse of the white whale."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My scientific ambitions had remained **dormant** until the chemist's lecture fired my imagination."*

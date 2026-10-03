@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to cause disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to cause disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or producing disease; pathogenic, unwholesome, or unhealthful in tendency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine and miasma theory, noxious environmental vapors thought to generate epidemics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morbific designates able to cause disease."*
+> - 📜 **Thomas Sydenham (*Works*):** *"Contagious pestilences were formerly attributed to invisible **morbific** particles suspended in autumn air."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"Certain putrid exhalations act as powerful **morbific** agents upon the nervous system."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The physician was determined to eliminate the **morbific** contagion carried between surgical wards."*

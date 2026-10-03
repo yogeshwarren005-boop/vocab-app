@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tireless determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tireless determination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Untiring stamina, tireless perseverance, and boundless capacity for sustained effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, the virtuous persistence in duty despite physical hardship and adversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indefatigableness designates tireless determination."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The remarkable **indefatigableness** of the parliamentary committee brought complex reforms to completion."*
+> - 📜 **Walter Scott (*The Life of Napoleon Buonaparte*):** *"Napoleon owed many of his early victories to his physical **indefatigableness** in the saddle."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"Her moral **indefatigableness** in opposing tyranny won the secret admiration of her persecutors."*

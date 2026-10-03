@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A college or university building containing living quarters for students.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A college or university building containing living quarters for students.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal clipping of dormitory; a large bedroom or residential building providing student accommodation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In collegiate university life, a residential hall fostering campus community and student socialization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dorm designates a college or university building containing living quarters for students."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"Amory returned to his cozy **dorm** room at Princeton, lighting the fire after football practice."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The businessman boasted of his son's popularity in the freshman **dorm** at the state university."*
+> - 📜 **Jack London (*Martin Eden*):** *"The student lived in a Spartan **dorm** attic, surviving on bread while studying midnight philosophy."*

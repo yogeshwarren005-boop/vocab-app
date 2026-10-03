@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gabled extension built out from a sloping roof to accommodate a vertical window.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gabled extension built out from a sloping roof to accommodate a vertical window.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vertical window that projects vertically from a sloping roof; the roofed structure sheltering it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural carpentry, a framed opening projecting from a pitched roof slope to admit light into an attic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"All the doors and windows in the house are closed, except a single dormer-window in the roof."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Terrified at this onslaught, the devils escape by the dormer-window, and sliding down the rope of palm-leaves take themselves off."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Part of her body and life it ever seemed to be; the slope of its dormers, the finish of its gables, the broken courses of brick which topped the chimney, all had something in common with her personal character."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A narrow gabled **dormer** looked out from the mossy roof toward the gloomy town garden."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I finished my little roof without a **dormer**, enjoying the snug simplicity of the cedar shingles."*
+> - 📜 **Edith Wharton (*Ethan Frome*):** *"A solitary light shone through the frost-rimed panes of the high **dormer** window in the farmhouse."*

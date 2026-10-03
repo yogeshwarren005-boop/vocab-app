@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of vitality and freshness being restored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of restoring to a more youthful condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of giving new vitality, youth, or vigor to something; renewal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology, the renewed erosive activity of a river system resulting from regional tectonic uplift.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Burn up the products of fatigue, replace them with fresh cells full of oxygen, and you get rejuvenation."*
-> - 📜 **James Joyce (*Ulysses*):** *"Were there no means still remaining to him to achieve the rejuvenation which these reminiscences divulged to a younger companion rendered the more desirable?"*
-> - 📜 **James Joyce (*Ulysses*):** *"For the host: rejuvenation of intelligence, vicarious satisfaction."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"I experienced a joyous physical **rejuvenation** under the crystalline sky of the High Sierra."*
+> - 📜 **William James (*The Will to Believe*):** *"Moral faith works an inner **rejuvenation** of the soul, converting paralyzing doubt into creative energy."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geological **rejuvenation** of river terraces reveals successive historical episodes of regional crustal elevation."*

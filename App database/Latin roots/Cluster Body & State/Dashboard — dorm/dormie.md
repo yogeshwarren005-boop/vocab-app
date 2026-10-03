@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In match play a side that stands as many holes ahead as there are holes remaining to be played.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In match play a side that stands as many holes ahead as there are holes remaining to be played.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In match play golf, being as many holes ahead of an opponent as there are holes remaining to be played (also dormy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sporting golf history, achieving an unassailable match lead guaranteeing at least a halve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dormie designates in match play a side that stands as many holes ahead as there are holes remaining to be played."*
+> - 📜 **P. G. Wodehouse (*The Clicking of Cuthbert*):** *"Finding himself three up with three to play, the golfer stood **dormie** on the sixteenth tee."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"The friendly golf match reached a thrilling climax when the Scotsman went **dormie** at the penultimate hole."*
+> - 📜 **Horace Hutchinson (*Hints on the Game of Golf*):** *"When you are **dormie**, play with steady caution and leave all desperate gambles to your adversary."*

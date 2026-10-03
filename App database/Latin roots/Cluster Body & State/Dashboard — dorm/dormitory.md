@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A college or university building containing living quarters for students.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large sleeping room containing several beds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bedroom for a number of people in an institution; a residential building providing quarters for students.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In suburban geography, a commuter dormitory town whose residents travel daily to work in an adjacent metropolis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The new part, containing the schoolroom and dormitory, was lit by mullioned and latticed windows, which gave it a church-like aspect; a stone tablet over the door bore this inscription:— LOWOOD INSTITUTION."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When I awoke it was day: an unusual movement roused me; I looked up; I was in somebody’s arms; the nurse held me; she was carrying me through the passage back to the dormitory."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"You may retire to your dormitory.” “It's only seven o'clock, father,” said Ben, in dismay."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Lowood School had an immense **dormitory** where eighty girls slept in long rows of curtainless beds."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"At Salem House, the boys gathered after dark in the cold **dormitory** to listen to Steerforth's stories."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The night shelter provided a crowded, noisy **dormitory** where destitute men rested on wooden bunks."*

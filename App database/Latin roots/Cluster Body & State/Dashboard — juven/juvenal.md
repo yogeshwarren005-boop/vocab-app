@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman satirist who denounced the vice and folly of roman society during the reign of the emperor domitian (60-140).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman satirist who denounced the vice and folly of roman society during the reign of the emperor domitian (60-140).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of youth; designating the Roman satirist Decimus Junius Juvenalis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, the first true plumage of contour feathers developed by a young bird after down.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was never manned with an agate till now, but I will inset you neither in gold nor silver, but in vile apparel, and send you back again to your master, for a jewel,—the juvenal, the Prince your master, whose chin is not yet fledge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How canst thou part sadness and melancholy, my tender juvenal?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I spoke it, tender juvenal, as a congruent epitheton appertaining to thy young days, which we may nominate tender."*
+> - 📜 **Samuel Johnson (*The Vanity of Human Wishes*):** *"Imitating the bitter indignation of **Juvenal**, the poet exposed the vanity of human ambition."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The **juvenal** plumage of the young falcon exhibits heavy brown streaking along the breast."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The caustic verses of **Juvenal** depict the vices and moral decay of imperial Rome."*

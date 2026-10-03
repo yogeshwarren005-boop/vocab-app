@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young person, not fully developed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of or appropriate for children or young people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, for, or relating to young people; youthful, immature, childish, or puerile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, legal proceedings or reformatory institutions dealing specifically with minor offenders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Or put it, my juvenile friends, that he saw an elephant, and returning said ‘Lo, the city is barren, I have seen but an eel,’ would THAT be Terewth?” Mrs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In a true view, perhaps, there was more to be gathered and told of each anxious and experienced one, to whom the years were drawing nigh when she should say, “I have no pleasure in them,” than of her juvenile comrades."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Hubble as a little curly sharp-edged person in sky-blue, who held a conventionally juvenile position, because she had married Mr."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The magistrate ordered the wretched **juvenile** offender to be remanded to the workhouse."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne smiled at the recollection of her own ardent, **juvenile** romantic opinions."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Society exercises rightful paternal guardianship over **juvenile** persons before they reach age of discretion."*

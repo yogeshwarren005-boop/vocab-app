@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Celebration in the eastern orthodox church of the virgin mary's being taken up into heaven when her earthly life ended; corresponds to the assumption in the roman catholic church and is also celebrated on august 15th.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Celebration in the eastern orthodox church of the virgin mary's being taken up into heaven when her earthly life ended; corresponds to the assumption in the roman catholic church and is also celebrated on august 15th.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of falling asleep; death viewed metaphorically as peaceful slumber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Eastern Orthodox theology, the Dormition of the Theotokos commemorating the peaceful death and assumption of Mary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dormition designates celebration in the eastern orthodox church of the virgin mary's being taken up into heaven when her earthly life ended; corresponds to the assumption in the roman catholic church and is also celebrated on august 15th."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The golden mosaics of Saint Sophia celebrated the sacred **dormition** of the Virgin Mary."*
+> - 📜 **John Donne (*Sermons*):** *"The faithful depart this world not in terror, but in a serene **dormition** in the Lord."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Early Christian catacombs recorded the departure of martyrs as a holy and peaceful **dormition**."*

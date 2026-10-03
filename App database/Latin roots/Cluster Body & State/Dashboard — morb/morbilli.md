@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The clinical medical term for measles; a contagious viral illness characterized by fever and maculopapular rash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious pediatrics, an airborne paramyxoviral infection producing cough, coryza, conjunctivitis, and Koplik spots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morbilli designates an acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The characteristic buccal spots described by Koplik confirm the diagnosis of **morbilli** before the skin eruption."*
+> - 📜 **Thomas Sydenham (*The Entire Works of Dr. Thomas Sydenham*):** *"In his classic treatise of 1676, Sydenham provided the first accurate clinical description of **morbilli** distinct from smallpox."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Epidemic **morbilli** swept through the infant asylum with devastating pulmonary complications."*

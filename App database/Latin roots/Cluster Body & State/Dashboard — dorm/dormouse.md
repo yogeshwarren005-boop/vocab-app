@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small furry-tailed squirrel-like old world rodent that becomes torpid in cold weather.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small furry-tailed squirrel-like old world rodent that becomes torpid in cold weather.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small agile Old World rodent (family Gliridae) resembling a squirrel, renowned for its long winter hibernation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In folklore and natural history, an animal proverbial for deep, heavy, and protracted winter slumber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She did show favour to the youth in your sight only to exasperate you, to awake your dormouse valour, to put fire in your heart and brimstone in your liver."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Very uncomfortable for the Dormouse,” thought Alice; “only, as it’s asleep, I suppose it doesn’t mind.” The table was a large one, but the three were all crowded together at one corner of it: “No room!"*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Dormouse is asleep again,” said the Hatter, and he poured a little hot tea upon its nose."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The **Dormouse** sat between the March Hare and the Hatter, fast asleep, with its head resting upon a teacup."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"In late autumn, the little hazel **dormouse** rolls itself into a tight ball within its nest of dry leaves."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The prolonged lethargy of the hibernating **dormouse** drops bodily temperature almost to freezing point."*

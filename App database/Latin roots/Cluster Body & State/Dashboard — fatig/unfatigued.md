@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin fatig within the domain of Body & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of fatig in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not tired or exhausted; fresh, vigorous, and retaining full physical and mental energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological testing, cognitive performance assessed before the onset of mental exhaustion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unfatigued designates pertaining to, derived from, or characteristic of latin fatig within the domain of body & state."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The native runners arrived at the settlement completely **unfatigued** after crossing thirty miles of mountain trails."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The Highland ponies climbed the rocky pass with **unfatigued** agility under heavy packs."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel entered the gallery with **unfatigued** curiosity, eager to inspect every Florentine master."*

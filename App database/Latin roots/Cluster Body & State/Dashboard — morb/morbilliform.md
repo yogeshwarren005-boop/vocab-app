@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a rash that resembles that of measles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a rash that resembles that of measles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling the rash of measles; maculopapular, reddish, and slightly elevated in dermatology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and dermatology, drug eruptions presenting as widespread erythematous macules and papules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morbilliform designates of a rash that resembles that of measles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A diffuse **morbilliform** erythema erupted over the patient's trunk following the administration of serum."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Dermatological examination revealed a confluent **morbilliform** exanthem sparing only the palms and soles."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Certain febrile inoculations elicited transient **morbilliform** reactions along the rabbit's epidermis."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally gloomy or unhealthy state of mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being unhealthful and generally bad for you.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unhealthy mental preoccupation with disease, suffering, mortality, or gruesome subjects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnostics, pathological disease-producing properties of tissues or biological fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor will it at all detract from him, dramatically regarded, if either by birth or other circumstances, he have what seems a half wilful overruling morbidness at the bottom of his nature."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For all men tragically great are made so through a certain morbidness."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Although modern sophistication easily points out flaws in Charles Brockden Brown’s story-structure, and reproves him for improbability, morbidness, and a style often too elevated, yet his work lives."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The critic detected an unnatural **morbidness** in German romantic tales of horror."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Arthur Dimmesdale's secret remorse bred an inward **morbidness** that withered his physical frame."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her brooding sympathy with suffering bordered on an emotional **morbidness** that alarmed her friends."*

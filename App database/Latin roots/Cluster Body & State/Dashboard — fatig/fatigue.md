@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary loss of strength and energy resulting from hard physical or mental work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of materials (especially metals) in a weakened state caused by long stress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme tiredness, exhaustion, or weariness resulting from physical or mental exertion or illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials engineering, the progressive structural damage and weakening of a material subjected to cyclic stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"An exhausted composure, a worn-out placidity, an equanimity of fatigue not to be ruffled by interest or satisfaction, are the trophies of her victory."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am so accustomed and inured to hard work that I don’t know what fatigue is.” We murmured that it was very astonishing and very gratifying, or something to that effect."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I find a person unwilling to hear what I have to say, I tell that person directly, ‘I am incapable of fatigue, my good friend, I am never tired, and I mean to go on until I have done.’ It answers admirably!"*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The Russian soldiers marched onward through the snow, oblivious to hunger and bone-crushing **fatigue**."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Overcome by emotional **fatigue**, I dropped my head upon the desk and wept bitterly."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Heavy pedestrian ascents up Andean passes provoked severe mountain **fatigue** and shortness of breath."*

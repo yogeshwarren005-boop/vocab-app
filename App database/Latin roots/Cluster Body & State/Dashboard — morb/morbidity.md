@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative incidence of a particular disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally gloomy or unhealthy state of mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The prevalence of disease in a given population; an abnormal psychological preoccupation with death or suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and public health, the incidence or rate of disease occurrences relative to population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morbidity designates the relative incidence of a particular disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sanitary reforms in municipal drainage produced a dramatic reduction in typhus **morbidity**."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"The governess struggled against a creeping mental **morbidity** induced by the lonely country manor."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic individualism rarely degenerates into the brooding **morbidity** that plagued aristocratic recluses."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tireless determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tireless determination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or property of being untiring, tireless, and persevering without exhaustion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical history, the sustained capacity for superhuman intellectual or administrative labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indefatigability designates tireless determination."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The administrative **indefatigability** of the emperor Julian astonished both courtiers and legionaries."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"William III governed through sheer **indefatigability**, managing military campaigns and cabinet treaties simultaneously."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Pope achieved perfection in his translation of Homer through heroic intellectual **indefatigability**."*

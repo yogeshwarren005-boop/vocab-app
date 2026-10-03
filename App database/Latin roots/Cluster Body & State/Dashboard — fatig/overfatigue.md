@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tire excessively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tire excessively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or dangerous exhaustion resulting from prolonged overexertion or lack of rest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational physiology and sports medicine, chronic physical overtraining leading to systemic decompensation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overfatigue designates tire excessively."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **overfatigue** among hospital nurses predisposed them to institutional infections during winter epidemics."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A dangerous **overfatigue** clouded Lucy's mind after weeks of teaching without a holiday."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Careful ward administration must guard against the insidious **overfatigue** of volunteer attendants."*

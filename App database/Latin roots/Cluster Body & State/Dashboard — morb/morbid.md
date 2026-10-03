@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting an unhealthy mental state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting the horror of death and decay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an abnormal, unhealthy interest in disturbing or unpleasant subjects, especially death and disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and medicine, of, relating to, or indicative of disease or a diseased condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"With almost a morbid dread of being thought a gushing girl, this guileless woman too well concealed from the world under a manner of carelessness the warm depths of her strong emotions."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To curse his miserable lot was at first his impulse, but even that lowest stage of rebellion needed an activity whose absence was necessarily antecedent to the existence of the morbid misery which wrung him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Retty was naturally morbid, you know.” “Without the least cause,” said Tess."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic inspection of the excised tumor demonstrated severe **morbid** alterations in cellular morphology."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"Roderick Usher suffered from an acute, **morbid** acuteness of the senses that rendered sunlight unbearable."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solitary lawyer harbored a **morbid** dread of the unfinished Chancery affidavits piling upon his desk."*

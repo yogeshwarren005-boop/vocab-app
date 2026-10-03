@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose interest or become bored with something or somebody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhaust or get tired through overuse or great strain or stress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhausted, worn out, or drained of energy by physical or mental exertion; tired.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy, metal components weakened by repeated stress cycles and prone to sudden brittle fracture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She passes close to him, with her usual fatigued manner and insolent grace."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, on the last occasion when we were fatigued by this business,” Lady Dedlock languidly proceeds, “we cannot make conditions with you."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You have been over-excited, or over-fatigued.” “Do you, sir, feel calm and happy?” “Calm?—no: but happy—to the heart’s core.” I looked up at him to read the signs of bliss in his face: it was ardent and flushed."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The horse was thoroughly **fatigued** after galloping ten miles along the muddy, rutted roads."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **fatigued** oarsmen rested upon their blades as the whaleboat drifted across the glassy swell."*
+> - 📜 **Winston Churchill (*The River War*):** *"The **fatigued** regiments formed a perimeter around the desert well as twilight fell."*

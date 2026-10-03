@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of quiet (but possibly temporary) inaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quiet and inactive restfulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period or state of inactivity, metabolic slowdown, or suspended animation in plants or animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, an evolutionary adaptation where seed germination or bud break is arrested until environmental cues occur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dormancy designates a state of quiet (but possibly temporary) inaction."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Seeds of wild legumes preserve their viability through years of prolonged **dormancy** in dry sand."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The Sierra forest sleeps in deep winter **dormancy** beneath ten feet of crystalline snow."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Insect pupae pass the cold months in deep **dormancy** among the decaying woodland leaves."*

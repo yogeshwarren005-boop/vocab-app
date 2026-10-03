@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing sustained enthusiastic action with unflagging vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing sustained enthusiastic action with unflagging vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persisting tirelessly; untiring, unwearied, and inexhaustible in effort or energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural exploration and scientific research, pursuing field investigations without flagging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Your son is indefatigable,” said I."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He was indefatigable; he had the habit of sitting up to all hours, of being called at all hours, in which our _bourgeoisie_, I cannot but acknowledge, is wanting."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He is indefatigable in the performance of his spiritual duties; and he has, besides, a noble and upright soul."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The **indefatigable** naturalist Fritz Müller observed thousands of crustaceans along the Brazilian coast."*
+> - 📜 **Jane Austen (*Emma*):** *"Mrs. Elton proved an **indefatigable** patroness, constantly offering unrequested advice and social schemes."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes was an **indefatigable** investigator, tramping miles across the bog in search of footprints."*

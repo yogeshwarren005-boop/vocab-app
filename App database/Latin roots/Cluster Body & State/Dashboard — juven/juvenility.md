@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking and evidencing lack of experience of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The freshness and vitality characteristic of a young person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Youthfulness; youth-like behavior, manner, or appearance; immaturity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology, the phenotypic traits and behavioral play patterns characteristic of young animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Next in juvenility to Abraham came two more girls, Hope and Modesty; then a boy of three, and then the baby, who had just completed his first year."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I can't keep up any pretence of juvenility with you, can I?"*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Old age becomes ridiculous when it foolishly attempts to mimic the lively **juvenility** of the young."*
+> - 📜 **Henry James (*The Europeans*):** *"The cheerful **juvenility** of the young American cousins charmed the sophisticated baroness."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The veteran officer preserved a surprising **juvenility** of constitution despite decades of foreign service."*

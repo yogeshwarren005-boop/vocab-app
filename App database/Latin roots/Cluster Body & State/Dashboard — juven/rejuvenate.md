@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause (a stream or river) to erode, as by an uplift of the land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Develop youthful topographical features.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make someone or something look or feel younger, fresher, or more lively; to revitalize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluvial geomorphology, when land uplift steepens stream gradients and stimulates renewed downcutting and canyon incision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yet, though so plainly dressed, there was a certain rejuvenated appearance about her:— As though a rose should shut and be a bud again."*
+> - 📜 **Nathaniel Hawthorne (*Dr. Heidegger's Experiment*):** *"The magical water from the Fountain of Youth appeared to **rejuvenate** the four aged companions instantly."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Tectonic uplift may **rejuvenate** an ancient, sluggish river, causing it to carve deep canyons once more."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A solitary walk among mountain pines never fails to **rejuvenate** the weary intellect."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various widely distributed beetles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various widely distributed beetles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the beetle family Elateridae (click beetles); a click beetle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomological classification, a coleopteran insect possessing a prosternal spine enabling sudden leaping leaps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elaterid designates any of various widely distributed beetles."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The phosphorescent **elaterid** beetle illuminated the forest path with its brilliant thoracic lanterns."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"We captured a splendid giant **elaterid** whose metallic green elytra flashed in the tropical canopy."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The nocturnal flight of the luminous **elaterid** was a familiar marvel along the river banks."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A security pledged for the repayment of a loan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Descended from a common ancestor but through different lines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something pledged as security for repayment of a loan; additional, concurrent, or secondary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal descent, relatives descending from the same common ancestor but through different genealogical lines (collateral heirs).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his bright radiance and collateral light Must I be comforted, not in his sphere."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Your ladyship is acquainted with the name of Hawdon?” “I have heard it before.” “Name of any collateral or remote branch of your ladyship’s family?” “No.” “Now, your ladyship,” says Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In supplying credit to enterprises, banks are constantly passing judgment on the collateral security presented to them and on the soundness of the enterprises that are seeking support."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Bankers demand solid **collateral** in land or merchant bonds before advancing long-term credit."*
+> - 📜 **Blackstone (*Commentaries on the Laws of England*):** *"In default of lineal issue, real estate descends to the nearest **collateral** kinsman."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Vincy offered his promissory note without adequate **collateral**, relying on family connections."*

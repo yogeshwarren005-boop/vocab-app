@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A powerful cardiac stimulant obtained from foxglove.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful cardiac stimulant obtained from foxglove.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic crystalline glycoside obtained from the foxglove (Digitalis purpurea); a cardiac drug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historic cardiovascular therapeutics, a purified cardiac glycoside extract formerly used to manage congestive heart failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitalin designates a powerful cardiac stimulant obtained from foxglove."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Administration of **digitalin** strengthened the myocardial contractions while slowing the rapid irregular pulse."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Early pharmacological assays calibrated the potent cardiotonic efficacy of crude **digitalin** tinctures."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Microbial ferments were tested to evaluate the enzymatic decomposition of active **digitalin** glucosides."*

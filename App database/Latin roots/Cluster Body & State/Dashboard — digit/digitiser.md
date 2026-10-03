@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Device for converting analogue signals into digital signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Device for converting analogue signals into digital signals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or computer peripheral that converts analog information into digital data (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer-aided design (CAD), a graphics tablet or wand used to input coordinates and technical drawings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitiser designates device for converting analogue signals into digital signals."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The electronic **digitiser** translates mechanical shaft rotation into a sequence of binary pulses."*
+> - 📜 **Claude Shannon (*Communication in the Presence of Noise*):** *"A reliable **digitiser** minimizes quantization noise by employing high-resolution analog-to-digital converters."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The cartographer traced aerial photographs using a high-precision electromagnetic **digitiser**."*

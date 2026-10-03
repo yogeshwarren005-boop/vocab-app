@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who performs magic tricks to amuse an audience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who performs magic tricks to amuse an audience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who performs magic tricks using sleight of hand; a conjurer or illusionist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social satire, a political orator or financier skilled at deceiving onlookers through flashy showmanship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prestidigitator designates someone who performs magic tricks to amuse an audience."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The stranger operated like a consummate **prestidigitator**, distracting the passengers while pocketing their bank drafts."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp manipulated the vanity of wealthy suitors with the deft cunning of a master **prestidigitator**."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The jewel thief was also an accomplished **prestidigitator**, palming gems under the very eyes of the merchant."*

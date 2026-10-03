@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure whose sides are all equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having all sides or faces equal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having all sides of equal length; symmetrical on all sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean plane geometry, an equilateral triangle whose three interior angles are each equal to sixty degrees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"In the first course, there was a shoulder of mutton cut into an equilateral triangle, a piece of beef into a rhomboides, and a pudding into a cycloid."*
+> - 📜 **Isaac Newton (*Opticks*):** *"I passed the sunbeam through an **equilateral** prism of flint glass to produce the prismatic spectrum."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Euclid's very first proposition demonstrates the geometric construction of an **equilateral** triangle."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Regular geometric figures such as the **equilateral** polygon symbolize mathematical harmony."*

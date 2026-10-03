@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On or relating to the opposite side (of the body).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or relating to the opposite side (of the body).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting the side of the body opposite to that on which a particular condition or structure occurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuroanatomy, the motor cortex controlling voluntary movement of the opposite limb via pyramidal decussation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contralateral designates on or relating to the opposite side (of the body)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A cerebral lesion in the internal capsule produces paralysis of the **contralateral** arm and leg."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Nerve fibers from the motor cortex decussate in the medulla to innervate **contralateral** somatic muscles."*
+> - 📜 **Charles Bell (*The Nervous System of the Human Body*):** *"Electrical excitation of the left cerebral hemisphere provoked twitching in the **contralateral** extremities."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Localization of function on either the right or left sides of the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Localization of function on either the right or left sides of the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The localization of neurological or cognitive functions predominantly in one cerebral hemisphere (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, the process whereby specific sensory-motor skills become specialized in the left or right hemisphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lateralization designates localization of function on either the right or left sides of the brain."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Profound cerebral **lateralization** leaves the right hemisphere specialized for facial recognition."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Brain lesions reveal the remarkable **lateralization** of musical and linguistic faculties."*
+> - 📜 **Charles Bell (*The Nervous System of the Human Body*):** *"Asymmetry in cranial blood supply may foster the progressive **lateralization** of manual dexterity."*

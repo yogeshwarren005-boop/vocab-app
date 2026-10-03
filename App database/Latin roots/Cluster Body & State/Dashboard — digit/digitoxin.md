@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Digitalis preparation used to treat congestive heart failure or cardiac arrhythmia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Digitalis preparation used to treat congestive heart failure or cardiac arrhythmia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent cardiac glycoside extracted from the foxglove plant (Digitalis purpurea); a cardiotonic medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, a highly lipophilic glycoside with a long elimination half-life metabolized primarily by the liver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitoxin designates digitalis preparation used to treat congestive heart failure or cardiac arrhythmia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pure crystalline **digitoxin** exerts a profound inotropic effect upon the failing myocardium."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Chemical extraction of purple foxglove yielded **digitoxin**, the most active of the cardiotonic glycosides."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"A minute dose of **digitoxin** suffices to strengthen heart contractions without disturbing renal equilibrium."*

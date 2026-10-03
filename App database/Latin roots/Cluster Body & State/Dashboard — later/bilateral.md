@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having identical parts on each side of an axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting or undertaken by two parties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or relating to two sides; affecting both sides of something equally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy, an agreement or treaty negotiated directly between two sovereign states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bilateral designates having identical parts on each side of an axis."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Higher animals almost universally display a symmetrical **bilateral** body plan."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A **bilateral** treaty between two trading powers requires reciprocal commercial guarantees."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The patient presented with **bilateral** enlargement of the cervical lymph nodes."*

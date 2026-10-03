@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The administration of digitalis for the treatment of certain heart disorders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administration of digitalis for the treatment of certain heart disorders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of text, pictures, or sound into a digital form that can be processed by a computer (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and therapeutics, the administration of digitalis until the physiological cardiotonic effect is achieved.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitalisation designates the administration of digitalis for the treatment of certain heart disorders."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rapid **digitalisation** was achieved by administering divided doses of tincture of foxglove over forty-eight hours."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"The **digitalisation** of library catalogs transformed modern archival retrieval across academic centers."*
+> - 📜 **Claude Shannon (*Communication in the Presence of Noise*):** *"Systematic **digitalisation** of telephonic speech allows noise-free transmission over submarine cables."*

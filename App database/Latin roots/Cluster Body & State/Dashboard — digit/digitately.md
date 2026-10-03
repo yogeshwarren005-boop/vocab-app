@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a digitate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a digitate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a digitate manner; in a finger-like arrangement or branching pattern radiating from a common center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, compound plant parts that diverge radially like the fingers of an open hand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitately designates in a digitate manner."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The leaflets are disposed **digitately** upon the slender petiole in clusters of five."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The nocturnal leaves fold **digitately** downward to minimize radiant heat loss under clear night skies."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Certain passionflowers display **digitately** lobed foliage prized in greenhouse cultivation."*

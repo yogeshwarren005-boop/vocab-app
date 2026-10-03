@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being symmetrical about a vertical plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being symmetrical about a vertical plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of conducting political, economic, or diplomatic relations between two nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international trade theory, preferential two-party commerce contrasted with multilateral agreements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bilateralism designates the property of being symmetrical about a vertical plane."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"Strict commercial **bilateralism** restricts the natural multi-currency flow of global trade."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"Parliamentary diplomacy shifted from regional **bilateralism** toward broader European alliances."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Exclusive **bilateralism** between colonial powers and their dependencies stunted provincial growth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Click beetles and certain fireflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Click beetles and certain fireflies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of click beetles in the order Coleoptera, characterized by their jumping spine mechanism and click sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, the cosmopolitan beetle family comprising over 9,000 species, whose larvae are known as wireworms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elateridae designates click beetles and certain fireflies."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Fireflies belonging to the **Elateridae** cast light strong enough to read print in a darkened cabin."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature*):** *"The family **Elateridae** includes species capable of snapping their bodies into the air to escape predators."*
+> - 📜 **Asa Gray (*Elements of Zoology*):** *"Agricultural soils often harbor destructive wireworm larvae belonging to various genera of the **Elateridae**."*

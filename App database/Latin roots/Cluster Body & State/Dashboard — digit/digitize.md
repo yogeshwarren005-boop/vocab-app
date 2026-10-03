@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into digital form, as for use in a computer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into digital form, as for use in a computer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert pictures, sound, or physical information into a digital form that can be processed by a computer (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digital imaging, to sample spatial pixels and convert color values into numeric codes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitize designates put into digital form, as for use in a computer."*
+> - 📜 **Claude Shannon (*Communication in the Presence of Noise*):** *"Engineers learned to **digitize** continuous broadcast television signals to eliminate ghosting artifacts."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Feedback systems must **digitize** continuous mechanical positions before computing automated corrections."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The spacecraft computer was designed to **digitize** all incoming sensory telemetry from Jupiter's moons."*

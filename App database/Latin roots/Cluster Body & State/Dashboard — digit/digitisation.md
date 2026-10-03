@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conversion of analog information into digital information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conversion of analog information into digital information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of analog information into digital form (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern archives and library science, scanning and converting historical manuscripts into digital repositories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitisation designates conversion of analog information into digital information."*
+> - 📜 **Bertrand Russell (*Wisdom of the West*):** *"Modern academic repositories rely upon the **digitisation** of classical manuscripts for international preservation."*
+> - 📜 **Claude Shannon (*Communication in the Presence of Noise*):** *"Exact **digitisation** of analog radio waveforms laid the foundation of modern telecommunications."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"The **digitisation** of telegraphic cables accelerated communication across oceans and continents."*

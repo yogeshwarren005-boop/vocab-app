@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of the fingers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of integers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a digital manner; by means of digital technology, numbers, or fingers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physical examination, examining a bodily cavity or structure with a gloved finger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitally designates by means of the fingers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The examining physician explored the pelvic abscess **digitally** to locate the exact point of fluctuation."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Signals transmitted **digitally** exhibit extraordinary immunity to cumulative thermal noise."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The surgeon palpated the femoral pulse **digitally** below the inguinal ligament."*

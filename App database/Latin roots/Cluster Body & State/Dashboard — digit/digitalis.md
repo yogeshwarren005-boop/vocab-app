@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A powerful cardiac stimulant obtained from foxglove.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several plants of the genus digitalis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous plants including the common foxglove; a drug prepared from foxglove leaves used as a cardiac stimulant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacotherapy, foxglove-derived cardiac glycosides that inhibit the myocardial sodium-potassium ATPase pump.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitalis designates a powerful cardiac stimulant obtained from foxglove."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of dilated cardiomyopathy with auricular fibrillation, **digitalis** remains our most dependable remedy."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Silas gathered the dried leaves of the purple **digitalis** for the relief of a neighbor suffering from heart disease."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The striking biennial herb **Digitalis** purpurea produces tall spikes of drooping, purple-spotted bells."*

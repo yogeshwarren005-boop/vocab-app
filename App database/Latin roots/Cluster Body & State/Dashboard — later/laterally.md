@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To or by or from the side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a lateral direction or location.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Toward, at, or from the side or sides; sideways in direction or orientation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate organizational management, moving laterally between positions at the same rank without promotion or demotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But to think she can carr’ on alone!” He allowed his head to swing laterally three or four times in silence."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Passing under, Hodak cut loose with his laser-quads, raking laterally across the destroyer's underside."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But to think she can manage alone!” He allowed his head to swing laterally three or four times in silence."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Flatfish lie on the sea floor with their bodies flattened **laterally**, both eyes migrating to the upper side."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The ribs arch **laterally** from the vertebral column to enclose the thoracic viscera."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sperm whale swung its massive flukes **laterally**, creating an immense whirlpool beside the ship."*

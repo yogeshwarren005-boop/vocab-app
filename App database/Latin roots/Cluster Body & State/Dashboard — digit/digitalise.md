@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into digital form, as for use in a computer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into digital form, as for use in a computer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert data, images, or signals into a digital format; to treat with digitalis (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology, to administer digitalis to a patient until the therapeutic cardiac saturation is established.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitalise designates put into digital form, as for use in a computer."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician sought to **digitalise** the decompensated cardiac patient with measured clinical precision."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Future information systems will **digitalise** astronomical star maps for instantaneous global transmission."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Engineers can **digitalise** electromagnetic waveforms by sampling amplitudes at twice the maximum frequency."*

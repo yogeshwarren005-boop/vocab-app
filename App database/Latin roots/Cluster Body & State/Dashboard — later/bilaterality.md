@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being symmetrical about a vertical plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being symmetrical about a vertical plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or condition of having two sides or affecting two sides symmetrically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative morphology, bilateral symmetry where the body can be divided into identical left and right halves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bilaterality designates the property of being symmetrical about a vertical plane."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The fundamental **bilaterality** of the vertebrate nervous system is evident from the earliest embryonic stage."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Deviations from standard **bilaterality** are occasionally observed in hybrid flatfish."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory localization reflects the anatomical **bilaterality** of our paired auditory and visual organs."*

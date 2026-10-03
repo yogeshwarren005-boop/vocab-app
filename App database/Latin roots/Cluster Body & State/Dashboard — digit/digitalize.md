@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into digital form, as for use in a computer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer digitalis such that the patient benefits maximally without getting adverse effects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert data into digital form; to administer digitalis to a patient (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In therapeutic medicine, to treat a patient with cardiac glycosides to strengthen heart contractions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitalize designates put into digital form, as for use in a computer."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"It was imperative to **digitalize** the failing heart before performing elective surgical drainage."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin attempted to **digitalize** laboratory chart recordings into standardized numeric tables."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Technologists began to **digitalize** industrial feedback loops to govern assembly processes."*

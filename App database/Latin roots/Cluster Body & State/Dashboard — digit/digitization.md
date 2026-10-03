@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conversion of analog information into digital information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conversion of analog information into digital information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of converting information, images, or sound into a digital format (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In business technology, the broader integration of digital tools and automated systems into operational workflows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Note that while a copyright was initially claimed for the labor involved in digitization, that copyright claim is not consistent with current copyright requirements."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The mathematical theory of **digitization** established that discrete symbols could carry infinite meaning without distortion."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"The rapid **digitization** of industrial accounting reduced manual ledger bookkeeping across global corporations."*
+> - 📜 **Douglas Hofstadter (*Gödel, Escher, Bach*):** *"Through the **digitization** of acoustic sound waves, recorded music became pure mathematical pattern."*

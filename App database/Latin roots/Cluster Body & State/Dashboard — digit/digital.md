@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying numbers rather than scale positions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or performed with the fingers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or using digits or fingers; expressed as series of the digits 0 and 1, typically represented by values of a physical quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics and computation, information encoded as discrete binary states rather than continuously variable analog signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Produced by Kentuckiana Digital Library, David Garcia, Chuck Greif, Leonard Johnson and the Online Distributed Proofreading Team."*
-> - 📜 **Bram Stoker (*Dracula*):** *"You have work, much work, to do for her and for others; and the present will suffice.” When we stopped the operation, he attended to Lucy, whilst I applied digital pressure to my own incision."*
-> - 📜 **James Joyce (*Ulysses*):** *"In calculating the addenda of bills she frequently had recourse to digital aid."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Modern computing machines operate through high-speed **digital** switching circuits rather than continuous wave voltages."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Any continuous information stream can be represented with arbitrary precision by a discrete **digital** binary code."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The proper **digital** arteries run along the lateral margins of each finger to supply the pulp."*

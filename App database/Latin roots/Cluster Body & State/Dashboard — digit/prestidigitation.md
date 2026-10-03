@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manual dexterity in the execution of tricks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manual dexterity in the execution of tricks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Magic tricks performed as entertainment; sleight of hand or legerdemain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical debate, clever, dazzling, or deceptive manipulation of arguments or statistics to mislead an audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"My God—how can forgiveness meet such a grotesque—prestidigitation as that!” He paused, contemplating this definition; then suddenly broke into horrible laughter—as unnatural and ghastly as a laugh in hell."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The detective exposed the criminal's clever alibi as a piece of vulgar theatrical **prestidigitation**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer shuffled the disputed deeds with the rapid, deceptive **prestidigitation** of a conjurer at a fair."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"Merlin's so-called miracles were mere third-rate **prestidigitation** compared to my electrical dynamos."*

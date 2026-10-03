@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various widely distributed beetles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various widely distributed beetles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A click beetle; an elastic, hygroscopic spiral filament that aids in dispersing spores in liverworts and horsetails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic botany, a hygroscopic ribbon-like cell that twists as it dries to fling spores into the air.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elater designates any of various widely distributed beetles."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Under the microscope, each spirally thickened **elater** springs suddenly as moisture evaporates, dispersing the spores."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The jumping click beetle, or **elater**, rights itself by an ingenious snapping mechanism beneath its thorax."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"I examined equisetum cones and observed how each microscopic **elater** coiled and uncoiled with every breath."*

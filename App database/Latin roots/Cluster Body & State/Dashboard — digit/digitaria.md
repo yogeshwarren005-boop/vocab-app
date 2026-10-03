@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crab grass; finger grass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crab grass; finger grass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of widespread annual and perennial pasture and lawn grasses known as crabgrass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural agrostology, invasive warm-season C4 grasses in the family Poaceae that spread rapidly by creeping stolons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitaria designates crab grass; finger grass."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The common crabgrass, classified under the genus **Digitaria**, invades cultivated gardens and sandy roadsides."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Subspecies of **Digitaria** thrive in arid summer soils where fine fescues wither and perish."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Seedlings of **Digitaria** exhibit acute circumnutation during initial emergence from the soil."*

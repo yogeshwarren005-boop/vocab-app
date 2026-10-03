@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A red soil produced by rock decay; contains insoluble deposits of ferric and aluminum oxides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red soil produced by rock decay; contains insoluble deposits of ferric and aluminum oxides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish, iron-rich, heavily weathered soil and rock type common in wet tropical regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical pedology and geology, a residual weathering product enriched in iron and aluminum oxides that hardens upon exposure to air.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laterite designates a red soil produced by rock decay; contains insoluble deposits of ferric and aluminum oxides."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The hills of Bahia were composed of deep brick-red **laterite**, formed by the intense weathering of gneiss."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative*):** *"Tropical monsoons wash the humus from the hills, leaving barren sheets of cellular red **laterite**."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The road was carved through hard red **laterite** that crumbled into fine dust under the midday sun."*

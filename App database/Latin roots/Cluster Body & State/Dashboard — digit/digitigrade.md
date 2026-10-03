@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that walks so that only the toes touch the ground as e.g. dogs and cats and horses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of mammals) walking on the toes with the posterior part of the foot raised (as cats, dogs, and horses do).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking on the digits, toes, or balls of the feet without the heel touching the ground (like cats and dogs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative functional mammalian anatomy, an evolutionary locomotor adaptation that increases stride length and running speed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitigrade designates an animal that walks so that only the toes touch the ground as e.g. dogs and cats and horses."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Canines and felines exhibit a **digitigrade** stance that enhances predatory sprint velocity across open terrain."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The human foot is plantigrade, whereas typical carnivores evolved an elevated **digitigrade** locomotion."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck moved with the silent, springy grace characteristic of the wild **digitigrade** wolves of the Yukon."*

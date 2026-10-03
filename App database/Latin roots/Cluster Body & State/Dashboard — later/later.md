@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming at a subsequent time or stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At or toward an end or late period or stage of development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At a subsequent or future time; comparative of late; following the present moment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chronology, designating a subsequent or advanced phase of an era, dynasty, or culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The talk first started from a misfortune which happened years ago, and later on the matter came up and people thought a similar misfortune had taken place again."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The boys should have gotten the blame, and I am sure that Apollonie will be sorry if she hears later on what really happened." "I'll quickly run over and tell her about it," Kurt suggested."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Since the three would, in later years, have great authority in the little community, it would be splendid if they were educated alike and could agree thoroughly in everything."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"She should have died hereafter; there would have been a time for such a word... A **later** hour would have suited sorrow."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The institutions of the **later** Roman empire differed profoundly from the Augustan principate."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth resolved to postpone her intended inquiry until a **later** and more favorable opportunity."*

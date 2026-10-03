@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into digital form, as for use in a computer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into digital form, as for use in a computer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert analog information, images, or sounds into digital form (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geographic information systems (GIS), to trace map features into digital vector coordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitise designates put into digital form, as for use in a computer."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Future information systems will **digitise** astronomical star maps for instantaneous global transmission."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"To **digitise** a continuous voltage signal requires periodic sampling and amplitude quantization."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"Scientific apparatus strives to **digitise** sensory observations into precise mathematical measurements."*

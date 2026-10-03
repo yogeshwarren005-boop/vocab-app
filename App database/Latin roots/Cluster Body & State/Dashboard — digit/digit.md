@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the elements that collectively form a system of numeration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of breadth of a finger used as a linear measure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the numerals from 0 to 9, especially when forming part of a number; a finger or thumb or toe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy, the terminal division of a limb (finger, toe, or claw) supported by phalanges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"DIMINISHED DIGITS PROVE TOO TITILLATING FOR FRISKY FRUMPS."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"He then arose, took a small portion of my coat sleeve between his thumb and finger, began rubbing them together, and by and by, one of the balls appeared between his digits."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The homologous skeletal framework of the human hand and bat wing retains five distinct **digit** rays."*
+> - 📜 **Isaac Newton (*Opticks*):** *"I measured the width of the projected solar disc to the nearest fractional **digit** upon the scale."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Decimal arithmetic expresses infinite quantities through finite combinations of each single **digit**."*

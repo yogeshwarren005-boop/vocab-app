@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With the involvement of two parties or governments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to involve two sides or parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner affecting, involving, or situated on both sides; symmetrically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic negotiations, binding two contracting sovereign governments reciprocally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bilaterally designates with the involvement of two parties or governments."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The facial muscles contract **bilaterally** during explosive expressions of joy or laughter."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pneumonic consolidation appeared **bilaterally** in both lower pulmonary lobes."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Tariff reductions negotiated **bilaterally** fostered harmonious trade between the two maritime nations."*

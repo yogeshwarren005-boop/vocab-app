@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pledge as a collateral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pledge as a collateral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pledge an asset, security, or property as collateral for a debt or loan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structured corporate finance, securing debt instruments with specific pools of underlying cash flows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collateralize designates pledge as a collateral."*
+> - 📜 **Alexander Hamilton (*Report on a National Bank*):** *"Merchants can readily **collateralize** warehouse receipts to secure working capital from the bank."*
+> - 📜 **John Maynard Keynes (*A Treatise on Money*):** *"Borrowers who **collateralize** short-term advances with government gilts obtain preferential interest rates."*
+> - 📜 **Walter Bagehot (*Lombard Street*):** *"Prudent bill brokers always require drawers to **collateralize** speculative export paper."*

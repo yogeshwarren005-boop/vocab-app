@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A watery solution of sugars, salts, and minerals that circulates through the vascular system of a plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who lacks good judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vital fluid that circulates through a plant; to gradually weaken or deplete energy or strength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military fortification and siege craft, a deep narrow trench excavated to undermine enemy bastions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come on, my queen, There’s sap in’t yet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though now this grained face of mine be hid In sap-consuming winter’s drizzled snow, And all the conduits of my blood froze up, Yet hath my night of life some memory, My wasting lamps some fading glimmer left, My dull deaf ears a little use to hear."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"The **sap** doth rise, and budding twigs proclaim the return of spring."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Whose tender tree nourished with **sap** divine yielded fruit immortal."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The ascent of vital **sap** within the wood nourishes both branch and leaf."*

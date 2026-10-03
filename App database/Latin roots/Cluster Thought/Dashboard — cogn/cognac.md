@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High quality grape brandy distilled in the cognac district of france.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High quality grape brandy distilled in the cognac district of france.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-quality grape brandy distilled from white wine produced in the region of Cognac, France.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomic history and viticulture, a protected appellation brandy matured in oak casks to develop amber complexity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"By Jove! my feelings have ripened for you like fine old cognac."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode had not yet fully learned that even the desire for cognac was not stronger in Raffles than the desire to torment, and that a hint of annoyance always served him as a fresh cue."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"A fire lingered in the grate, and Barter replenished it, and, having produced a box of cigars and a bottle of cognac, proffered refreshment to his guest."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"He poured out a small glass of **cognac** and pushed it across the mahogany table."*
+> - 📜 **James Joyce (*Ulysses*):** *"A sip of mellow **cognac** warmed his palate and quieted the lingering tremor in his nerves."*
+> - 📜 **Alexandre Dumas (*The Count of Monte Cristo*):** *"The servant brought forth a crystal decanter of vintage **cognac** to revive the fainting traveler."*

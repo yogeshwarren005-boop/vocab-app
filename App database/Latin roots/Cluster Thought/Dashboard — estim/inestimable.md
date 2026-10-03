@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond calculation or measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond calculation or measure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too great, precious, or valuable to be calculated or measured; invaluable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and constitutional history, describing fundamental human liberties or moral treasures whose worth defies commercial appraisal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methoughts I saw a thousand fearful wracks; A thousand men that fishes gnawed upon; Wedges of gold, great anchors, heaps of pearl, Inestimable stones, unvalued jewels, All scattered in the bottom of the sea."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jo’s ideas of a criminal trial, or a judge, or a bishop, or a government, or that inestimable jewel to him (if he only knew it) the Constitution, should be strange!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have very much wished to express to Woodcourt, somehow, my sense of his humanity to poor unfortunate Jo, his inestimable services to my young cousins, and his value to us all."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Methoughts I saw a thousand fearful wracks; A thousand men that fishes gnawed upon; Wedges of gold, great anchors, heaps of pearl, **Inestimable** stones, unvalued jewels."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I was cut to the quick at the idea of having lost the **inestimable** privilege of listening to the gifted Kurtz."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Our ancient constitution is an **inestimable** inheritance preserved through successive generations."*

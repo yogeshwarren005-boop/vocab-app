@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being thought about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being thought about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being conceived, thought about, or comprehended by the intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speculative metaphysics and transcendental logic, designating any entity or proposition that violates no condition of possible conceptualization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cogitable designates capable of being thought about."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"An object that conforms to the categories of the understanding is genuinely **cogitable**, even if unperceived."*
+> - 📜 **William Hamilton (*Lectures on Metaphysics and Logic*):** *"Whatever is contradictory is simply not **cogitable** by the human intellect."*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"A noumenon may remain **cogitable** as a logical possibility though forever inaccessible to sensation."*

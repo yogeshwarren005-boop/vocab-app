@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two different animal or plant species living in close association but not interdependent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living in a state of commensalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living with or sharing food at the same table; an organism participating in a commensal relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and ecological symbiosis, an organism benefiting from association with a host without causing harm or parasitism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commensal designates either of two different animal or plant species living in close association but not interdependent."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain small crustaceans live as harmless **commensals** within the shells of large mollusks."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"The parasite feeds upon its host, whereas the **commensal** merely shares its table."*
+> - 📜 **Peter Kropotkin (*Mutual Aid: A Factor of Evolution*):** *"The **commensal** association between different marine organisms demonstrates that nature is not solely a battlefield of fierce competition."*

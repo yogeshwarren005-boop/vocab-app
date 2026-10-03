@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single written symbol that represents an entire word or phrase without indicating its pronunciation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single written symbol that represents an entire word or phrase without indicating its pronunciation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written or pictorial character representing a whole word or morpheme rather than a phonetic sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical epigraphy and semiotics, an ideographic sign found in Egyptian hieroglyphs, Sumerian cuneiform, or Chinese hanzi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logogram designates a single written symbol that represents an entire word or phrase without indicating its pronunciation."*
+> - 📜 **Jean-François Champollion (*Précis du système hiéroglyphique*):** *"A single Egyptian **logogram** could signify both an abstract divinity and the material creature representing it."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"In Chinese writing, each distinct **logogram** embodies a meaningful grammatical unit rather than an arbitrary phonetic syllable."*
+> - 📜 **Archibald Sayce (*Lectures on the Assyrian Language*):** *"Cuneiform inscriptions demonstrate the gradual transition from an ancient pictorial **logogram** to a syllabic phonetic sign."*

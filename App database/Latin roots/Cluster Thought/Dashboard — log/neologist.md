@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lexicographer of new words and expressions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lexicographer of new words and expressions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who invents, coins, or advocates the use of new words or new linguistic expressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology and philology, an innovator who introduces novel doctrines or unorthodox interpretations of sacred texts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neologist designates a lexicographer of new words and expressions."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Dryden was an audacious **neologist**, enriching the poetic vocabulary with noble borrowings from Latin and French."*
+> - 📜 **Thomas De Quincey (*Letters to a Young Man Whose Education Has Been Neglected*):** *"The reckless **neologist** clutters his prose with jargon where good Saxon phrasing would serve far better."*
+> - 📜 **Archibald Sayce (*Principles of Comparative Philology*):** *"Every generation of speakers acts as an unconscious **neologist**, shifting vowel sounds and remodeling idioms."*

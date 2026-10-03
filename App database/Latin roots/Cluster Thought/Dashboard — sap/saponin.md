@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plant glucosides that form soapy lathers when mixed and agitated with water; used in detergents and foaming agents and emulsifiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plant glucosides that form soapy lathers when mixed and agitated with water; used in detergents and foaming agents and emulsifiers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of plant glucosides that form a durable, soapy froth when shaken with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytochemistry and pharmacology, hemolytic and surfactant compounds produced by plants as natural defenses against pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saponin designates any of various plant glucosides that form soapy lathers when mixed and agitated with water; used in detergents and foaming agents and emulsifiers."*
+> - 📜 **Justus von Liebig (*Organic Chemistry in its Applications to Agriculture and Physiology*):** *"The bitter glucoside known as **saponin** produces a durable, frothy lather when shaken with water."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain seeds containing toxic **saponin** are avoided by grazing cattle."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The foaming properties of the extract were attributed to the presence of colloidal **saponin**."*

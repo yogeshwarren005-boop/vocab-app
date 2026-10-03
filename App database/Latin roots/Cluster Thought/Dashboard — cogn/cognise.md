@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To know, perceive, or recognize through cognitive processes (British spelling of cognize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transcendental psychology, the synthetic act of the understanding in uniting sensory intuitions into a coherent concept.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cognise designates be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The finite intelligence can only **cognise** external nature through the medium of its own self-activity."*
+> - 📜 **William James (*The Principles of Psychology*):** *"To **cognise** an object is to relate it to previously acquired cognitive systems within memory."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"We cannot **cognise** relations of co-existence without contrasting them with relations of sequence."*

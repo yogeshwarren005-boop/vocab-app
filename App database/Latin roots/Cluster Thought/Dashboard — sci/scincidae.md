@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skinks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skinks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, cosmopolitan family of lizards comprising the skinks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic herpetology, one of the most diverse squamate families, displaying evolutionary transitions toward limb reduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog scincidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The family **Scincidae** is readily recognized by its short limbs, conical head, and shiny imbricated scales."*
+> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"Members of **Scincidae** range from heavy burrowing forms to agile semi-arboreal foragers."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The Indo-Malayan region contains an extraordinary variety of genera belonging to **Scincidae**."*

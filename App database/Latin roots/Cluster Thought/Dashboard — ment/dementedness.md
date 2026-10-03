@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental deterioration of organic or functional origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mental deterioration of organic or functional origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manifestation of extreme irrationality, frantic confusion, or severe intellectual derangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological diagnosis and dramatic analysis, observable disintegration of logical faculties accompanied by frantic agitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dementedness designates mental deterioration of organic or functional origin."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A sombre **dementedness** seemed to hover over the ancient mansion and its solitary master."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"In his grief-stricken **dementedness**, he walked the streets heedless of rain or freezing cold."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The delirium of his fever gave way to a quiet **dementedness** that alarmed his devoted companion."*

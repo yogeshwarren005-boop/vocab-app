@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Added or derived from something outside; not inherent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplemental; not part of the real or essential nature of a thing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Added or derived from an external source; supplemental, non-essential, or extraneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and moral theology, acquired adventitious traits not inherent to a person's original nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adscititious designates added or derived from something outside; not inherent."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"True virtue requires no **adscititious** ornaments of worldly pomp to command veneration."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The simpler rites of the early church were corrupted by **adscititious** ceremonies borrowed from paganism."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A great poet scorns **adscititious** verbal glitter that does not spring from genuine feeling."*

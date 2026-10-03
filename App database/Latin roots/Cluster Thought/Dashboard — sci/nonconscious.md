@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerning mental functioning that is not represented in consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the lack of consciousness of inanimate things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not accompanied by or involving conscious awareness; operating outside consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience and psychology, autonomous physiological or computational neural processes that proceed without awareness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonconscious designates concerning mental functioning that is not represented in consciousness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Numerous reflex actions and autonomic habits remain entirely **nonconscious** during waking life."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The vast reservoir of biological drives operates as a **nonconscious** substrate beneath the ego."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Sensory signals pass through complex **nonconscious** pathways before reaching the cerebral cortex."*

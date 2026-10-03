@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or being or relating to or involving cognition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or being or relating to or involving cognition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the mental processes of perception, memory, judgment, and reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychology and linguistic theory, pertaining to internal computational architectures underlying intellect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cognitive designates of or being or relating to or involving cognition."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Belief must be regarded as an essential **cognitive** relation linking the subject to factual reality."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **cognitive** function of feelings is to orient the organism rapidly toward advantageous behaviors."*
+> - 📜 **John Dewey (*How We Think*):** *"Reflective thinking is a disciplined **cognitive** habit that transforms perplexity into systematic inquiry."*

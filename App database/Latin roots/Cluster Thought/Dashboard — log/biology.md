@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science that studies living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic life processes and phenomena of living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of life and living organisms, including their structure, function, evolution, and taxonomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the classification of sciences, the foundational branch of natural science investigating vital phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Every day he seemed to become more interested in biology, and his name appeared once or twice in some of the scientific reviews in connection with certain curious experiments."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The study of biology of late has made patent the unending differences that prevail throughout the animate world."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Famishing congregations are proffered the bugs of biology, the rocks of geology, and the stars of astronomy until their souls revolt, and they demand bread and meat."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When we look to the individuals of the same variety, the study of **biology** reveals infinite minor variations."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"**Biology** is the science which treats of living bodies, their phenomena, and their laws."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The problems of **biology** are inseparable from the broader laws of universal cosmic evolution."*

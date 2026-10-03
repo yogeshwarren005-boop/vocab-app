@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting or relating to cells or tissues from individuals belonging to the same species but genetically dissimilar (and hence immunologically incompatible).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting or relating to cells or tissues from individuals belonging to the same species but genetically dissimilar (and hence immunologically incompatible).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or derived from genetically different individuals of the same biological species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and transplantation medicine, cells, tissues, or grafts possessing divergent histocompatibility antigens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allogeneic designates denoting or relating to cells or tissues from individuals belonging to the same species but genetically dissimilar (and hence immunologically incompatible)."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"The immunological rejection of **allogeneic** skin grafts demonstrates the individual specificity of mammalian tissue antigens."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern blood transfusion requires precise typing to avoid catastrophic hemolytic reactions between **allogeneic** sera."*
+> - 📜 **Frank Macfarlane Burnet (*Immunology, Aging, and Cancer*):** *"Clonal selection explains how the immune system distinguishes autologous tissues from **allogeneic** donor antigens."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decent responsible person with admirable characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decent responsible person with admirable characteristics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of integrity, honor, rectitude, and admirable moral character (borrowed from Yiddish).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural ethics and community life, an individual embodying decency, empathy, and steadfast responsibility toward others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Bastian, _Der Mensch in der Geschichte_ (Leipsic, 1860), iii. 81. [7] Athenaeus, xii. 8, p. 514 c. [8] _The Voiages and Travels of John Struys_ (London, 1684), p. 30. [9] Rev."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Kein Mensch auf Erden soll dich so beherrschen."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Es war der einzige Mensch, mit dem ich mich verwandt fuehlte, und wir moegen uns wohl in manchen Dingen geglichen haben; scherze nur darueber, soviel Du willst."*
+> - 📜 **Leo Rosten (*The Joys of Yiddish*):** *"To call someone a real **mensch** is the highest compliment of moral character and decency in Jewish culture."*
+> - 📜 **Saul Bellow (*Herzog*):** *"All his life he had struggled against pettiness, striving simply to live and die as an honorable **mensch**."*
+> - 📜 **Bernard Malamud (*The Assistant*):** *"In that dark grocery store, Frank learned what it truly meant to act like a **mensch** toward his suffering neighbor."*

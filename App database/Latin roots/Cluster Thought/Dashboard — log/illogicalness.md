@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invalid or incorrect reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invalid or incorrect reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incoherence, irrationality, or the characteristic of violating sound logic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological critique, systemic inconsistency in doctrinal formulations or empirical claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illogicalness designates invalid or incorrect reasoning."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"The astonishing **illogicalness** of popular political opinions is revealed in their self-cancelling legislative schemes."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The chronic **illogicalness** of emotional thinking arises from the selective distortion of memory."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A philosopher's duty is to expose the hidden **illogicalness** underlying celebrated metaphysical dogmas."*

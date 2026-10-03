@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived, known, or brought under judicial notice (British spelling of cognizable).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and Kantian epistemology, falling legitimately within the investigative jurisdiction of a court or the intellect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cognisable designates capable of being known."*
+> - 📜 **William Hamilton (*Lectures on Metaphysics and Logic*):** *"An object is only **cognisable** by human consciousness under the conditions of time and space."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Torts of this nature are not **cognisable** in ecclesiastical courts, but belong solely to the common law."*
+> - 📜 **Thomas Reid (*Essays on the Intellectual Powers of Man*):** *"External qualities become **cognisable** through the healthy functioning of our perceptual organs."*

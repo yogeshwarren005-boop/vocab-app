@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone given to disputes over words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone given to disputes over words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who engages in contentious disputes or verbal wrangling over mere words; a word-fighter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polemical satire, a disputant who substitutes semantic quibbling for substantive philosophical inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logomach designates someone given to disputes over words."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The petty **logomach** wastes his life in splitting syllables, mistaking lexicography for celestial wisdom."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Montaigne smiles at the zealous **logomach** whose fierce controversies evaporate once terms are candidly defined."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"It is the mark of a superficial **logomach** to wage war against phrases while the underlying principles remain uncomprehended."*

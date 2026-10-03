@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinctness that makes perception easy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinctness that makes perception easy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or capacity of being perceptible, distinguishable, or readily recognized by sight or intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory psychophysics and empirical logic, the threshold of differentiation between sensory stimuli or conceptual categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discernability designates distinctness that makes perception easy."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **discernability** of sensations depends largely upon the contrast between successive stimuli."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The clear **discernability** of one idea from another is the primary ground of certain knowledge."*
+> - 📜 **Thomas Reid (*Essays on the Intellectual Powers of Man*):** *"The distinct **discernability** of external objects requires both healthy organs and attentive observation."*

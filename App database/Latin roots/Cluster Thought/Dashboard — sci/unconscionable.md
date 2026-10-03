@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a conscience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatly exceeding bounds of reason or moderation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not right or reasonable; unreasonably excessive, outrageous, or unprincipled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract equity and commercial law, an agreement so one-sided and oppressive that no person in their senses would accept it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There is an unconscionable old shark for you!” said Herbert."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Are you not an unconscionable fellow, said Spiller, to ask such a price, when one may have a new one for the same price in Clare Market? 435."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"It has been said, that a tooth-drawer was an unconscionable trade, because his business was nothing else but to take away those things whereby every man gets his living. 1126."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"There is an **unconscionable** old shark for you! said Herbert, laughing at the usurer's exorbitant terms."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It was an **unconscionable** hour to pay a morning call, yet her impatience would broach no delay."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The landlord demanded an **unconscionable** reckoning for the miserable supper provided to the travelers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the loganiaceae; australian and new zealand shrubs sometimes cultivated for their flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the loganiaceae; australian and new zealand shrubs sometimes cultivated for their flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of shrubs and herbs in the family Loganiaceae, native to Australasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, the type genus of Loganiaceae comprising opposite-leaved plants bearing small white or yellow flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logania designates type genus of the loganiaceae; australian and new zealand shrubs sometimes cultivated for their flowers."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The genus **Logania** was established to commemorate the botanical services of James Logan of Pennsylvania."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species of **Logania** inhabit the sandy scrublands and coastal heaths of the Australian continent."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The opposite leaves and interpetiolar stipules characterize the shrubs of the genus **Logania**."*

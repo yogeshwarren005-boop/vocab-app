@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer secretly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confer secretly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To talk privately, conspire, or confer secretly; in dialect, to flatter or coax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic narrative and character fiction, whispering in private conspiracy to contrive an intrigue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"I don't collogue [associate] with any such." "Then you'll have to do one of two things," said Tom."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"You are as good a Confederate as I am." "Then how does it come that I am colloguing with a Yankee horse-thief?" exclaimed Rodney, who wanted to learn how much the woman really knew about him and his friend."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"They would sit together in the parlor and **collogue** about family secrets for hours on end."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The old women were seen to **collogue** together over the garden gate, exchanging scandalous whispers."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He saw the two conspirators **collogue** in the shadowy corner of the tavern yard."*

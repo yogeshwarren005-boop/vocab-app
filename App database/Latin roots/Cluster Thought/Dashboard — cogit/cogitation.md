@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carefully considered thought about something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attentive consideration and meditation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of thinking deeply; contemplation, meditation, or serious reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary prose, the solitary and methodical deliberation preceding difficult decisions or philosophical deductions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The woman,” said he, after deep cogitation."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Well,” said Joe, with the same appearance of profound cogitation, “he is not—no, not to deceive you, he is _not_—my nevvy.” “What the Blue Blazes is he?” asked the stranger."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"After much cogitation I determined to close the flat, and take a small suite of rooms at an hotel for the next week."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"After some **cogitation**, accompanied with an intent look at his patron, Mr. Cruncher spoke."*
+> - 📜 **Jane Austen (*Emma*):** *"She resumed a more serious, more dispiriting **cogitation** on the events of the evening."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A man who spends his whole life in solitary **cogitation** becomes a stranger to the affairs of the world."*

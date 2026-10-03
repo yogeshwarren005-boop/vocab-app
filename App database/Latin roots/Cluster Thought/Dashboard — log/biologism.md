@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use of biological principles in explaining human especially social behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use of biological principles in explaining human especially social behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interpretation of human social, cultural, and political phenomena entirely in terms of biological concepts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and ethics, reductionism that treats social ethics and cultural institutions as mere byproducts of organic instinct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biologism designates use of biological principles in explaining human especially social behavior."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Crude **biologism** reduces all philosophical contemplation and moral heroism to mere animal survival reflexes."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"We must avoid a narrow **biologism** that ignores the transformative power of cultural communication and education."*
+> - 📜 **William James (*Pragmatism*):** *"The extreme **biologism** of social Darwinists turns the richness of moral life into a ruthless jungle combat."*

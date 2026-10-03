@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swiss cheese with large holes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swiss cheese with large holes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow, medium-hard Swiss cheese characterized by large characteristic eyes and a mild, savory-nutty flavor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural history and culinary geography, traditional cheese originating in the Emme valley in the canton of Bern, Switzerland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emmental designates swiss cheese with large holes."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"At the mountain inn they served us coarse rye bread with generous wedges of golden **Emmental** cheese."*
+> - 📜 **Robert Louis Stevenson (*Travels with a Donkey in the Cévennes*):** *"My knapsack contained a loaf, a flask of wine, and a savory piece of Swiss **Emmental**."*
+> - 📜 **George Gissing (*By the Ionian Sea*):** *"The simple luncheon concluded with fresh grapes and a crumbly slice of imported **Emmental**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recognized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being recognized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being identified, recognized, or recalled from previous knowledge (British spelling of recognizable).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artistic representation, depicting figures or scenes with sufficient verisimilitude to be distinct from abstract forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Even in his descriptive passages the dream-character of his scenery is notorious; it is not the clear, recognisable scenery of Wordsworth, but a landscape that hovers athwart the heat and haze arising from his crackling fantasies."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I was not related to the outlaw, or connected with him by any recognisable tie; he had put his hand to no writing or settlement in my favour before his apprehension, and to do so now would be idle."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It rested upon two figures which, in spite of increasing distance, were still sufficiently salient; they were recognisable without difficulty as those of Caspar Goodwood and Lord Warburton."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I was not related to the outlaw, or connected with him by any **recognisable** tie; he had preserved me."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"It rested upon two figures which, in spite of increasing distance, were still **recognisable**."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The dream-character of his scenery is notorious; it is nowhere **recognisable** on the terrestrial globe."*

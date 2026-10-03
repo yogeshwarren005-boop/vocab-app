@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by conscience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected by conscience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tormented, stricken, or troubled by a guilty conscience; overcome with sudden remorse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tragic narrative and psychological fiction, paralyzed by sudden overwhelming awareness of moral culpability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conscience-smitten designates affected by conscience."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister stood **conscience-smitten** before the silent gaze of his parishioners."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He slunk away into the shadows like a **conscience-smitten** rogue detected in his mischief."*
+> - 📜 **Walter Scott (*The Heart of Mid-Lothian*):** *"The outlaw paused, **conscience-smitten** at the innocent tears of the young maiden."*

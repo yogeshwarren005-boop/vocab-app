@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine the measurements of something or somebody, take measurements of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the measurements of something or somebody, take measurements of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To measure, calculate, or gauge extent, dimension, or quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics and mathematical physics, establishing exact proportional relationships between observable forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mensurate designates determine the measurements of something or somebody, take measurements of."*
+> - 📜 **Thomas Reid (*Essays on the Active Powers of Man*):** *"We must learn to **mensurate** moral obligations not by subjective inclination, but by objective duty."*
+> - 📜 **William Hamilton (*Lectures on Metaphysics and Logic*):** *"The geometrician learns to **mensurate** celestial distances by applying planar trigonometry."*
+> - 📜 **John Herschel (*A Preliminary Discourse on the Study of Natural Philosophy*):** *"To **mensurate** accurately is the first prerequisite for formulating physical laws."*

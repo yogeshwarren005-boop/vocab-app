@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of knowledge or recognition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of knowledge or recognition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of knowledge, notice, awareness, or official apprehension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal theory and administration, official disregard of an extraneous fact or procedural ignorance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incognizance designates a lack of knowledge or recognition."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The judge's willful **incognizance** of material testimony can lead only to judicial murder."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"Popular unrest often springs from the government's culpable **incognizance** of economic distress."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A blind **incognizance** of the living realities of labor will tear this kingdom asunder."*

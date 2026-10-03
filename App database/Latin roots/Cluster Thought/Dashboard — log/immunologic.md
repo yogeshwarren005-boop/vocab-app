@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to immunology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to immunology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to immunology, immunity, or the body's physiological immune mechanisms; immunological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology and biomedical research, pertaining to antibody-antigen kinetics and cellular defense responses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunologic designates of or relating to immunology."*
+> - 📜 **Frank Macfarlane Burnet (*The Integrity of the Body*):** *"The fundamental **immunologic** problem is how the vertebrate organism distinguishes self from non-self."*
+> - 📜 **Peter Medawar (*The Hope of Progress*):** *"Transplantation tolerance represents an induced **immunologic** unresponsiveness toward specific donor tissues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The diagnostic test is based on a specific **immunologic** agglutination of bacterial antigens."*

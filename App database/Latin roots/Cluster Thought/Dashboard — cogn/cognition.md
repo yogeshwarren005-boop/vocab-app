@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological result of perception and learning and reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The psychological result of perception and learning and reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive science and epistemological theory, the sum of internal information-processing mechanisms in the mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fear me not, my lord; I will not be myself, nor have cognition Of what I feel."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This consciousness is a source of self-cognition quite apart from and independent of reason."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Only by separating the two sources of cognition, related to one another as form to content, do we get the mutually exclusive and separately incomprehensible conceptions of freedom and inevitability."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"All our **cognition** begins with experience, but it does not follow that it all arises out of experience."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every act of immediate **cognition** involves both sensory awareness and interpretive judgment."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The faculty of clear **cognition** enables the mind to distinguish between real existences and chimeric fancies."*

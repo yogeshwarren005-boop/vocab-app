@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not recognized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a secure reputation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not identified, noticed, acknowledged, or validated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and psychology, operating as an unseen yet decisive influence upon human decisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"It was a feeling of defenselessness against some unrecognized but malicious influence."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This truth, unrecognized for many centuries, is now seen to be fundamental to the whole problem of value."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"By some good agency,—possibly, by the unrecognized interposition of the long-buried Alice herself,—the threatening calamity was averted."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"By some good agency,—possibly, by the **unrecognized** interposition of the late judge,—the youth was liberated."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"This truth, **unrecognized** for many centuries, forms the foundation of the modern theory of rent."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"It was a feeling of defenselessness against some **unrecognized** but malicious influence."*

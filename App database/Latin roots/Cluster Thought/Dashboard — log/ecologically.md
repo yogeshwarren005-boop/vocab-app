@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to ecology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to ecology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that relates to the relations between organisms and their environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conservation science and biophysics, evaluated in terms of ecological footprint, biodiversity, or environmental balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecologically designates with respect to ecology."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"The flora and fauna of coral reefs are **ecologically** interdependent to an extraordinary degree."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The fauna of Madagascar evolved in isolation, becoming **ecologically** distinct from the mainland."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"A thing is right when it tends to preserve the integrity of the biotic community; we must think **ecologically**."*

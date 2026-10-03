@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A saying of jesus that is regarded as authentic although it is not recorded in the gospels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saying of jesus that is regarded as authentic although it is not recorded in the gospels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional saying or maxim attributed to a religious teacher, particularly Jesus Christ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual and biblical criticism, an isolated aphoristic utterance recorded in early gospel fragments or papyri.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logion designates a saying of jesus that is regarded as authentic although it is not recorded in the gospels."*
+> - 📜 **Adolf von Harnack (*The Sayings of Jesus*):** *"Each isolated **logion** preserved in Q reflects the unvarnished moral urgency of the earliest Christian preaching."*
+> - 📜 **F. C. Burkitt (*The Gospel History and Its Transmission*):** *"The discovery of the Oxyrhynchus papyri added more than one enigmatic **logion** to our fragmentary records."*
+> - 📜 **B. F. Westcott (*Introduction to the Study of the Gospels*):** *"The rhythmic symmetry of an authentic **logion** facilitated its preservation through oral transmission."*

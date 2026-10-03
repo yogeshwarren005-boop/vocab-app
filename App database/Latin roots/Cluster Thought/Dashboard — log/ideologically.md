@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to ideology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to ideology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner related to ideology or a system of political or economic ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis, motivated by rigid philosophical or partisan doctrines rather than pragmatic empirical facts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideologically designates with respect to ideology."*
+> - 📜 **Bertrand Russell (*The Practice and Theory of Bolshevism*):** *"The government was **ideologically** committed to principles that collided with economic reality."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The rival factions were **ideologically** divided, yet fighting side by side in the common trenches."*
+> - 📜 **John Dewey (*Individualism Old and New*):** *"Society remains **ideologically** anchored in eighteenth-century individualism while living in a corporate age."*

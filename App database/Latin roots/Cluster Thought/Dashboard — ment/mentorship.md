@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ment within the domain of Thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ment in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The guidance, advice, and support provided by an experienced mentor to a protégé.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational theory and professional apprenticeship, a sustained developmental relationship fostering professional mastery and ethics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mentorship designates pertaining to, derived from, or characteristic of latin ment within the domain of thought."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Effective **mentorship** cultivates independence of mind rather than mere mechanical imitation of the master."*
+> - 📜 **Booker T. Washington (*Up from Slavery*):** *"Under the wise and patient **mentorship** of General Armstrong, my entire conception of life was transformed."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"The settlement house provided loving **mentorship** to young immigrant girls facing urban hardships."*

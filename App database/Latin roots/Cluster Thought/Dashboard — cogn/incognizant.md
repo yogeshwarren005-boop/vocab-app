@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `of') not aware.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') not aware.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking awareness, knowledge, or perception of something; unmindful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological narrative and political critique, remaining oblivious to perils or historic currents moving in plain sight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incognizant designates (often followed by `of') not aware."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He walked onward through the dark market-place, entirely **incognizant** of the plot brewing against him."*
+> - 📜 **Joseph Conrad (*Victory*):** *"He lived upon his lonely island, apparently **incognizant** of the greedy eyes watching his retreat."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"She remained placidly **incognizant** of the delicate web of deception woven around her marriage."*

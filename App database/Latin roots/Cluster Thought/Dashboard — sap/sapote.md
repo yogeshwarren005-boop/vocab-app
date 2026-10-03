@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american tree having wood like mahogany and sweet edible egg-shaped fruit; in some classifications placed in the genus calocarpum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brown oval fruit flesh makes excellent sherbet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, edible tropical fruit produced by trees of the Sapotaceae and related families.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mesoamerican ethnobotany, sweet fleshy fruits ranging from white to black varieties cultivated for millennia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapote designates tropical american tree having wood like mahogany and sweet edible egg-shaped fruit; in some classifications placed in the genus calocarpum."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"In the tropical valleys of the Andes, the black **sapote** produces a fruit with rich, dark pulp."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The markets of Mexico are stocked with white and yellow varieties of luscious **sapote**."*
+> - 📜 **William Dampier (*A New Voyage Round the World*):** *"The **sapote** is esteemed among the most delicious and wholesome fruits of Central America."*

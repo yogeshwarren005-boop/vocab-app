@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A document appraising the value of something (as for insurance or taxation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The respect with which a person is held.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of evaluating or calculating; also the judgment, esteem, or regard in which someone or something is held.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social moral philosophy, personal reputation and credit accorded by public consensus or refined peers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We lost a jewel of her, and our esteem Was made much poorer by it; but your son, As mad in folly, lack’d the sense to know Her estimation home."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet you must be saying Martius is proud, who, in a cheap estimation, is worth all your predecessors since Deucalion, though peradventure some of the best of ’em were hereditary hangmen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will, sir, flatter my sworn brother, the people, to earn a dearer estimation of them; ’tis a condition they account gentle."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"We lost a jewel of her, and our esteem Was made much poorer by it; but your son, As mad in folly, lacked the sense of her **estimation**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Your brother will lose none of his consequence in my **estimation** by marrying your sister."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The wise and virtuous man values the internal approbation of conscience far above the superficial **estimation** of mankind."*

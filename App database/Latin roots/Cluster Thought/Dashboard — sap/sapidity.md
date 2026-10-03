@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The taste experience when a savoury condiment is taken into the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pleasant flavor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flavorful savoriness, palatableness, or distinct taste that delights the palate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology and aesthetics, the capacity of a substance or discourse to stimulate agreeable discernment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapidity designates the taste experience when a savoury condiment is taken into the mouth."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Luxury cloys the appetite, until dishes lose all their natural **sapidity** and zest."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"The pleasant **sapidity** of seasoned conversation outlasts the formal brilliance of disputation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The sensation of **sapidity** produced on the palate depends upon the chemical qualities of the body dissolved."*

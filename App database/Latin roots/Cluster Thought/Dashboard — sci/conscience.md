@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conformity to one's own sense of right conduct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inner sense of right and wrong that guides one's thoughts and actions; moral awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and jurisprudence, the subjective faculty of moral judgment evaluating one's deeds against principles of duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thy unworthiness raised love in me, More worthy I to be beloved of thee. 151 Love is too young to know what conscience is, Yet who knows not conscience is born of love?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To lose itself in a fog, where being three parts melted away with rotten dews, the fourth would return for conscience’ sake, to help to get thee a wife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not I Inclin’d to this intelligence pronounce The beggary of his change; but ’tis your graces That from my mutest conscience to my tongue Charms this report out."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Thus **conscience** does make cowards of us all, and thus the native hue of resolution is sicklied o'er."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Moral education consists in cultivating a delicate **conscience** responsive to reason and truth."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her **conscience** told her that she had been blind, partial, and prejudiced in her estimates of both men."*

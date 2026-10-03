@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insane manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an insane manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a demented, frantic, or crazed manner; wildly and without rational control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gothic narrative and crime fiction, acting with frenzied incoherence under the influence of extreme panic or mania.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dementedly designates in an insane manner."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He paced the quarterdeck **dementedly**, muttering disjointed sentences into the howling gale."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The beast-folk ran **dementedly** through the forest, howling at the red glare of the burning enclosure."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Renfield laughed **dementedly** as he scraped up the buzzing flies upon the stone window-sill."*

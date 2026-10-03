@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of logograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of logograms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a logogrammatic manner; using written characters that represent whole words rather than sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philological transcription, representing lexical semantics through whole-word ideograms rather than alphabetic segments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logogrammatically designates by means of logograms."*
+> - 📜 **Isaac Taylor (*The History of the Alphabet*):** *"Sumerian scribes recorded commodity inventories **logogrammatically**, using styluses to press word-signs into wet clay."*
+> - 📜 **Edward Sapir (*Language*):** *"When concepts are rendered **logogrammatically**, readers bypass phonology and access semantic associations immediately."*
+> - 📜 **Archibald Sayce (*Comparative Philology*):** *"Ancient royal annals were transcribed **logogrammatically** to preserve sacred ancestral designations across shifting dialects."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of some ideology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of some ideology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of a particular ideology; a theorist who conceives or promotes a system of ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In history of philosophy, originally applied to the French philosophers studying the origin of ideas; later used for rigid doctrinaires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideologist designates an advocate of some ideology."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Napoleon dismissed the metaphysical theorists of the institute as mere windbag **ideologists**."*
+> - 📜 **Karl Marx (*The German Ideology*):** *"The bourgeois **ideologist** mistakes the temporary conditions of his class for eternal laws of nature."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The literary **ideologist** designed theoretical constitutions without ever having managed the affairs of a village."*

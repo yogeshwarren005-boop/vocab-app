@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With awareness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With awareness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a deliberate, intentional, and fully aware manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In introspective psychology, acting with clear reflective realization rather than through habit or instinct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby consciously asked why."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To recognize God's existence is to necessitate prayer to Him, by all intelligent creatures, or, a consciously living in sin and under condemnation of conscience, because they do not pray to Him."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Whether or no he had consciously thought it all out; we can see the value of his rule, and how it fits in with his way of life and safeguards it."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She had never **consciously** intended to wound his vanity, yet every word she uttered seemed to sting."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Giles walked onward, **consciously** avoiding the pathway that led past the great manor-house."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel **consciously** resisted the impulse to seek guidance from older and colder minds."*

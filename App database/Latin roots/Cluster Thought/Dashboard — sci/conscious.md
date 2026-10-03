@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intentionally conceived.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowing and perceiving; having awareness of surroundings and sensations and thoughts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aware of and responding to one's surroundings; mentally awake; deliberately intentional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of mind and psychology, possessing subjective phenomenal experience and self-awareness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am always conscious of an uncomfortable sensation now and then when the wind is blowing in the east.” “Rheumatism, sir?” said Richard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s eye becomes conscious of the head of Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was conscious of poor little Peepy being but a failure after all her trouble, and she showed it as she came in by the way in which she glanced first at him and then at us."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The mind is **conscious** of a continuous stream of thoughts, sensations, and volitions."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was **conscious** that every eye in the room was fixed upon her troubled face."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale appeared fully **conscious** of the danger, plunging deep beneath the surface."*

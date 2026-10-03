@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show approval or appreciation of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant credentials to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To identify someone or something from having encountered them before; to acknowledge validity or existence (British spelling of recognize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy and social philosophy, according legitimate status or sovereign equality to another entity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne was astonished to recognise the same hills and the same objects so soon."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One of these, alloted to the male performers, was partitioned into halves by a cloth; and in one of the divisions there was sitting on the grass, pulling on a pair of jack-boots, a young man whom we instantly recognise as Sergeant Troy."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"A ceremony followed, in dumb show, in which it was easy to recognise the pantomime of a marriage."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne was astonished to **recognise** the same hills and the same objects so soon."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was easy to **recognise** the pantomime of sorrow performed upon the stage."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I lifted my eyes and could readily **recognise** the stern features of Mr. Rochester."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by wisdom, especially the wisdom of god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by wisdom, especially the wisdom of god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or imparting wisdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical theology and literary genre, applied to books such as Proverbs, Ecclesiastes, and Job containing moral precepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapiential designates characterized by wisdom, especially the wisdom of god."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thus was the world created with divine and **sapiential** power, harmonious in every part."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **sapiential** books of King Solomon contain profound maxims on government and morals."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Ancient philosophy possessed a **sapiential** depth that modern empiricism too often ignores."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without scruples or principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without scruples or principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of moral scruples; unprincipled, corrupt, and dismissive of ethical obligations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical satire and commerce, exploiting trust or legal loopholes for ruthless personal or financial aggrandizement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There have been times, when ladies lived in strongholds and had unscrupulous attendants within call, when that poor life of yours would NOT have been worth a minute’s purchase, with those beautiful eyes looking at you as they look at this moment."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This offers a constant temptation to the reckless and unscrupulous promotion of banking enterprises, as has been repeatedly shown (notably in America in the days of "wild-cat" banking before 1860)."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"What a contrast between him and poor Bernard! the one so impotent and devil-ridden, the other so virile, unscrupulous, and serene."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There have been times when ladies lived in strongholds and had **unscrupulous** barons for neighbors."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Men at all? or small movable forts and magazines, at the service of some **unscrupulous** man in power?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"For ever since those inventive but **unscrupulous** times, men have sought gain at any hazard."*

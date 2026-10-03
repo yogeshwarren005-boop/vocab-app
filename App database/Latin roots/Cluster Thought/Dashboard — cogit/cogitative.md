@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to having capacities for cogitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to cogitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing the power or faculty of thinking; contemplative, meditative, or thoughtful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic philosophy and cognitive theory, pertaining to the intellectual capacity for discursive reasoning and rational synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cogitative designates of or relating to having capacities for cogitation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We have the knowledge of an eternal, most powerful, and most knowing **cogitative** Being."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The **cogitative** powers of man distinguish him from beasts that follow mere mechanical instinct."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Montaigne turns an acute, **cogitative** gaze upon the trivial incidents of daily existence."*

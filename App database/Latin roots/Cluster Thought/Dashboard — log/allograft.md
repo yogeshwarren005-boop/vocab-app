@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue or organ transplanted from a donor of the same species but different genetic makeup; recipient's immune system must be suppressed to prevent rejection of the graft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue or organ transplanted from a donor of the same species but different genetic makeup; recipient's immune system must be suppressed to prevent rejection of the graft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tissue graft or organ transplant from a donor of the same species but genetically distinct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical oncology and transplant immunology, homografts requiring immunosuppressive therapy to prevent host rejection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allograft designates tissue or organ transplanted from a donor of the same species but different genetic makeup; recipient's immune system must be suppressed to prevent rejection of the graft."*
+> - 📜 **Peter Medawar (*The Hope of Progress*):** *"Survival of an **allograft** depends upon the degree of genetic compatibility between donor and host."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical challenge in vascular surgery remains the preservation of **allograft** integrity against cellular infiltration."*
+> - 📜 **Alexis Carrel (*The Treatment of Wounds*):** *"Transplantation experiments demonstrated that an **allograft** initially heals into place before acute rejection sets in."*

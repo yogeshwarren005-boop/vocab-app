@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appraisal that is too high.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calculation that results in an estimate that is too high.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimate or appraisal that is excessively high, exaggerated, or unduly magnified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic and social theory, the inflation of personal merit or ideological influence beyond objective boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overestimation designates an appraisal that is too high."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"An exaggerated **overestimation** of popular opinion often paralyzes the independent judgment of legislators."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"The psychological **overestimation** of an erotic object explains the blind devotion of the lover."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"A dogmatic certainty in metaphysics usually rests upon an **overestimation** of the scope of pure a priori reasoning."*

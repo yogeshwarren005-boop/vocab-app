@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark as different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark as different.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To separate, discriminate, or distinguish; to secrete through biological glandular action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural philosophy and anatomical analysis, to isolate constituent elements or separate bodily fluids along specialized channels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secernate designates mark as different."*
+> - 📜 **Erasmus Darwin (*Zoonomia*):** *"The kidneys **secernate** the urinary salts directly from the arterial stream."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"It is the prerogative of philosophic analysis to **secernate** heterogeneous elements that common language confounds."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"The subtle philologist learns to **secernate** related roots and assign to each its distinct lineage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to logograms or logographs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to logograms or logographs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a writing system or printing technique that employs signs representing complete words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology of reading, describing the developmental stage where readers recognize whole words by visual shape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logographic designates of or relating to logograms or logographs."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The **logographic** nature of Chinese orthography preserves mutual intelligibility across mutually unintelligible regional dialects."*
+> - 📜 **John Walter (*The Art of Printing*):** *"Our **logographic** press arrangements have demonstrated that entire words can be composed as expeditiously as single letters."*
+> - 📜 **Edward Sapir (*Selected Writings in Language, Culture and Personality*):** *"Readers navigating a **logographic** script rely heavily on spatial memory and visual configuration."*

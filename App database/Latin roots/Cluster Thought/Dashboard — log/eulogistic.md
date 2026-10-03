@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally expressing praise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formally expressing praise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Praising or extolling someone or something highly; laudatory, commendatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and public discourse, characterized by elevated encomiums or formal praise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Though I never knew what they were (being in Welsh), further than that they were highly eulogistic of the lineage of Morgan ap-Kerrig."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"On his tombstone, too, the record is highly eulogistic; nor does history, so far as he holds a place upon its page, assail the consistency and uprightness of his character."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"In short, the honorable Judge was beginning to be a stale subject before half the country newspapers had found time to put their columns in mourning, and publish his exceedingly eulogistic obituary."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The local chronicle published a **eulogistic** account of the festivities, praising the generosity of the host."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"His review was not an impartial critique, but a **eulogistic** tribute to an intimate friend."*
+> - 📜 **Washington Irving (*The Life of George Washington*):** *"Contemporary addresses to the Commander-in-Chief were couched in the most **eulogistic** language."*

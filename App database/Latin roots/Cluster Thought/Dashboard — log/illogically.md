@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an illogical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an illogical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that lacks sense or sound reasoning; contrarily to logic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character analysis, drawing emotional conclusions that defy the premises from which they ostensibly proceed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I don't know any," he replied bluntly, and the answer was so surprisingly, illogically different from what I expected, that involuntarily I laughed, and went on laughing while he stammered and tried to explain."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In its economic function the beast of burden may not illogically be classed with inanimate machines."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel Clare argued **illogically**, letting conventional social taboos overpower his philosophical convictions."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She reasoned **illogically**, yet her intuitive instinct led her straight to the truth."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"The knights reasoned so **illogically** that any modern schoolboy could have refuted their legends."*

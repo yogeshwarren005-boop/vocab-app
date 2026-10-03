@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily perceived; easy to become aware of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being recognized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be identified or known from previous acquaintance or inherent characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In portraiture and architectural history, possessing distinctive traits that preserve individual identity across stylistic variations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The embossed design is merely to make the coins easily recognizable and difficult to counterfeit; and milled or lettered edges are to prevent clipping and otherwise abstracting metal from the coins. 10. #Seigniorage defined#."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The story a man invents about another has to be true in some recognizable way to character--as a little experiment in this direction will show."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Even if words travel along that wire, there is so much "buzzing" that they are hardly recognizable."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The embossed design is merely to make the coins easily **recognizable** to merchants."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The story a man invents about another has to be true in some **recognizable** way to character."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Every bend, snag, and timber-head on the river was **recognizable** to the veteran pilot by night or day."*

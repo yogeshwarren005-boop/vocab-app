@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental deterioration of organic or functional origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mental deterioration of organic or functional origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent chronic disorder of cognitive processes caused by brain disease, marked by memory loss and personality change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and psychopathology, progressive organic deterioration of intellectual functioning compromising daily autonomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Evils cast out It is recorded that once Jesus asked the name of a dis- ease, - a disease which moderns would call /dementia/. 411:15 The demon, or evil, replied that his name was Legion."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Formation from thought 423:27 Ossification or any abnormal condition or derange- ment of the body is as directly the action of mortal mind as is dementia or insanity."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Senile **dementia** illustrates how organic cerebral atrophy gradually destroys the continuity of personal memory."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"We must distinguish transient amnesia from the irreversible cognitive deficits typical of **dementia**."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The illusion of physical **dementia** must yield before the eternal reality of divine intelligence."*

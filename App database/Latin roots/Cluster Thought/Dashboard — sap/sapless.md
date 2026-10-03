@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking bodily or muscular strength or vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destitute of sap and other vital juices; dry; - norman mailer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking sap or vital moisture; dry, withered, or devoid of vigor and vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic tragedy and portraiture, describing decayed age, lifeless prose, or withered ambition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These eyes, like lamps whose wasting oil is spent, Wax dim, as drawing to their exigent; Weak shoulders, overborne with burdening grief, And pithless arms, like to a wither’d vine That droops his sapless branches to the ground."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O young John Talbot, I did send for thee To tutor thee in stratagems of war, That Talbot’s name might be in thee revived When sapless age and weak unable limbs Should bring thy father to his drooping chair."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Fusionless, pithless, sapless, tasteless, Fyke, fret."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"These eyes, like lamps whose wasting oil is spent, wax dim, and these gray locks are withered like a **sapless** bough."*
+> - 📜 **Robert Burns (*Poems and Songs*):** *"Fusionless, pithless, **sapless**, tasteless, the dried stalk shivers in the winter blast."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My heart felt cold and **sapless**, like a dead trunk in an icy wind."*

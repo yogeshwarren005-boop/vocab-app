@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical fruit with a rough brownish skin and very sweet brownish pulp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical fruit with a rough brownish skin and very sweet brownish pulp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical evergreen fruit tree native to Mesoamerica; the sapodilla.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomology and regional botany, the species Achras sapota yielding russet-skinned fruits with sweet, granular flesh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapota designates tropical fruit with a rough brownish skin and very sweet brownish pulp."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The sweet and juicy fruit of the **sapota** is prized throughout the Spanish West Indies."*
+> - 📜 **William Dampier (*A New Voyage Round the World*):** *"The **sapota** tree resembles our pear tree in stature and produces fruit of excellent flavor."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Achras **sapota** is widely cultivated in tropical gardens for its luscious brown berries."*

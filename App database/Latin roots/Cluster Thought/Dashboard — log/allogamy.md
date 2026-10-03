@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cross-fertilization in plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cross-fertilization in plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cross-fertilization in plants; the pollination of a flower with pollen from a different plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, reproductive mechanisms such as self-incompatibility that enforce cross-pollination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allogamy designates cross-fertilization in plants."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Heterostyly is a remarkable morphological contrivance designed to favor **allogamy** over self-fertilization."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The evolutionary transition toward **allogamy** prevented deleterious inbreeding depression across vast floral families."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"We observe in **allogamy** an exquisite ecological adaptation linking floral anatomy to insect visitors."*

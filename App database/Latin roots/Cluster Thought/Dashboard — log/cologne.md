@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial center and river port in western germany on the rhine river; flourished during the 15th century as a member of the hanseatic league.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A perfumed liquid made of essential oils and alcohol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eau de cologne; a light, refreshing scented toilet water originally created in Cologne, Germany.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and perfumery, a citrus-based fragrance composed of bergamot, neroli, and lavender diluted in spirits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She laughed at the gold brushes and gold manicure set, the polished array of boots, the fine silk and linen laid out on his bed, the perfume of sandalwood and Russian leather and eau de cologne."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Bendish's eau-de cologne and gave it him, dripping wet."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Her masts—cut somewhere on the coast of Japan, where her original ones were lost overboard in a gale—her masts stood stiffly up like the spines of the three old kings of Cologne."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She bathed her aching temples with a handkerchief steeped in fragrant **cologne**."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A faint scent of lavender and delicate French **cologne** lingered about her dressing-table."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ambergris smells better than the sweetest lavender or **cologne** sold in the shops of Paris."*

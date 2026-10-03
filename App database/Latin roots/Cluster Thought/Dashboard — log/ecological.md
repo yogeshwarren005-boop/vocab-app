@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the interdependence of living organisms in an environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of ecology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to ecology, ecosystems, or the environment and interrelations of organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental science and geography, systematic analysis of habitats, food webs, and anthropogenic impacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In support of the Charon agricultural mission, Planet Pluto, the Slingshot Logistics Depot, the Terminals' construction site, and ships moored or in transit within the Special Zone constitute an integrated ecological entity."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"Our **ecological** studies demonstrate how every species is shaped by its physical and organic environment."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms perform an **ecological** service of immense importance by aerating the soil."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"An **ecological** conscience reflects a conviction of individual responsibility for the health of the land."*

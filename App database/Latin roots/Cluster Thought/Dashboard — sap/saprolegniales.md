@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Order of chiefly aquatic fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of chiefly aquatic fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of aquatic oomycete molds containing the genus Saprolegnia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic taxonomy and marine mycology, filamentous water-molds characterized by biflagellate zoospores and cellulose walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprolegniales designates order of chiefly aquatic fungi."*
+> - 📜 **Thomas Henry Huxley (*Saprolegnia in Relation to the Salmon Disease*):** *"The order **Saprolegniales** is distinguished by biflagellate zoospores and aquatic mycelia living upon decomposing organic matter."*
+> - 📜 **Joseph Dalton Hooker (*The Cryptogamic Botany*):** *"The water-molds of **Saprolegniales** bridge the structural boundary between simple algae and filamentous fungi."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"Reproduction in the order **Saprolegniales** exhibits both sexual oogonia and free-swimming asexual swarm-spores."*

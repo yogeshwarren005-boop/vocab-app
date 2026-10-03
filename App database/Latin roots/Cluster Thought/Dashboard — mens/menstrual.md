@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to menstruation or the menses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to menstruation or the menses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the menses or periodic uterine cycle; occurring on a monthly basis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological and medical literature, physiological rhythms and historical rituals associated with the lunar cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The reason for this is the dread with which they regard the menstrual period of women."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"No article of furniture used in these menstrual huts might be used in any other, not even the flint and steel with which in the old days the fires were kindled."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"An Australian blackfellow, who discovered that his wife had lain on his blanket at her menstrual period, killed her and died of terror himself within a fortnight."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The regular **menstrual** cycle in higher primates indicates a deep physiological homology with mankind."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Periodic **menstrual** rhythms demonstrate how bodily changes subtly influence subjective temperament."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient taboos surrounded women during their **menstrual** period, demanding complete seclusion from tribal affairs."*

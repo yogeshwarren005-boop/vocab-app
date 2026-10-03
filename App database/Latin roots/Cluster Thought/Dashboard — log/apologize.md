@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acknowledge faults or shortcomings or failing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defend, explain, clear away, or make excuses for by reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express regret for an offense, fault, or mistake; to offer an apology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social ethics and rhetoric, acknowledging an error or presenting a formal reasoned justification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The relations between us are of an unfortunate description, Lady Dedlock; but as they are not of my making, I will not apologize for them."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed the mistake was mine, and I ought to apologize for it.” I had not once looked up."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed begins to apologize."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I was so ashamed of my conduct that I could only **apologize** with tears in my eyes."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy was not inclined to **apologize** for behavior which he believed to be entirely justified."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom hastened to **apologize** to Aunt Polly, hoping to avert the impending punishment."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cancel officially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cancel officially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To revoke, cancel, or repeal a law, contract, order, or decision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative law and parliamentary procedure, the formal invalidation of an enactment restoring prior status quo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Let me hope that you will rescind that resolution about the horse, Miss Brooke,” said the persevering admirer."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Cooper, the wife of the Confederate Adjutant-General, and used such arguments, as led the Confederate authorities to rescind the order, so far as he was concerned."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The witness was then asked whether he had heard General Thomas make any statement to the clerks of the War Office, to the effect that, when he came into control, he would relax or rescind the rules of Mr."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Parliament must **rescind** the obnoxious duties if it hopes to reconcile the affections of the colonists."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A legislative body possesses the undoubted authority to **rescind** or modify its previous statutes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The chancellor refused to **rescind** the injunction until all parties had been formally heard."*

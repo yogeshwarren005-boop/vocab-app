@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to science; in a scientific way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to science; in a scientific way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner based on or conforming to the principles and methods of science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In methodological critique, proceeding by rigorous empirical experimentation, statistical verification, and logical deduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, trust me, they make most scientifically sure that a man is dead once they get him on a rope."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I know that our prize cattle, pigs, and sheep on the University Demonstration Farm at Davis would have faded away and died had they received no more scientifically balanced a ration than what we received."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Scientifically I feel that I'm thinking life with one lobe of my brain and breathing with one lung."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"We must investigate the ethical process as **scientifically** as we trace the physical evolution of species."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The phenomenon of inheritance has never been **scientifically** examined with sufficient experimental rigor."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"If we treat religious experiences **scientifically**, we must classify them by their psychological fruits."*

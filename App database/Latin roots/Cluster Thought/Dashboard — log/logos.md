@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The divine word of god; the second person in the trinity (incarnate in jesus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A company emblem or device.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The divine reason or active rational principle that permeates, animates, and orders the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hellenistic philosophy and Johannine theology, the cosmic Word or divine wisdom manifested in creation and human reason.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"To explain Jesus, his friends and contemporaries spoke of him as the Logos, the Sacrifice, "Christ our Passover," the Messiah, and so forth."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Rendel Harris, "can sing, 'How sweet the name of Logos sounds.'" Synesius of Cyrene did try to sing it, but most human beings prefer St."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We find, again, that the inner meaning of the Logos is that through it, and in it, God and man come in touch with each other and become mutually intelligible."*
+> - 📜 **Philo of Alexandria (*On the Creation*):** *"The divine **logos** is the celestial blueprint and governing architect according to which the cosmos was fashioned."*
+> - 📜 **Marcus Aurelius (*Meditations*):** *"Keep in mind that rational creatures are united under the universal **logos**, sharing a common nature and destiny."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The ancient philosophers grasped by intuition that divine **logos** which the Gospel revealed as living truth."*

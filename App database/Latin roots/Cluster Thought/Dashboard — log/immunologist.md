@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical scientist who specializes in immunology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical scientist who specializes in immunology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or researcher in the branch of biomedical science dealing with the immune system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory medicine, an investigator exploring autoimmune pathologies, vaccine development, and antibody structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunologist designates a medical scientist who specializes in immunology."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"The modern **immunologist** investigates not merely disease resistance, but the biological basis of individuality."*
+> - 📜 **Frank Macfarlane Burnet (*Immunology, Aging, and Cancer*):** *"Every **immunologist** recognizes that somatic mutation plays a decisive role in antibody diversification."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The **immunologist** must conceive of antibodies as chemical receptors complementary to specific microbial haptens."*

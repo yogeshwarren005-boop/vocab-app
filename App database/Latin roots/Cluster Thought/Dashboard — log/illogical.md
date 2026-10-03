@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in correct logical relation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking orderly continuity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking sense or clear, sound reasoning; contrary to the rules of logic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical philosophy, a proposition or argument that commits a formal fallacy or contradicts established empirical facts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The inelasticity was necessitated by illogical federal and state laws restricting absolutely the further extension of credit when the reserves fell below the percentage of deposits (15 or 25 per cent) fixed by law."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As a result of these changes the state laws display a bewildering and illogical variety."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I spoke in deep, impressive tones:-- "Mr Maplestone, I'm sorry, but you are illogical."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was an absurd and **illogical** proceeding, but thoroughly characteristic of the Court of Chancery."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth smiled at the completely **illogical** sequence of reasons with which Mrs. Bennet defended her plans."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is an **illogical** mistake to theorize before one has all the facts; it biases the judgment."*

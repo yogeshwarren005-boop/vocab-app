@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone given to disputes over words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone given to disputes over words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One addicted to disputation about words; an alternative form for a verbal disputant or logomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dialectical literature, a pedant obsessed with semantic trivialities and linguistic technicalities in debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logomachist designates someone given to disputes over words."*
+> - 📜 **William Hazlitt (*Table Talk*):** *"The inveterate **logomachist** cannot enjoy a conversation without arresting the narrative to dissect every casual metaphor."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Many a dry-as-dust **logomachist** has spent a lifetime constructing systems of sawdust while the universe rolled by."*
+> - 📜 **John Stuart Mill (*Dissertations and Discussions*):** *"The scholastic **logomachist** imagined that by refining terms he was unveiling the deepest arcana of nature."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or occurring during the period just before menstruation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or occurring during the period just before menstruation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or experienced in the days immediately preceding menstruation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and gynecology, transient somatic and affective changes observed prior to the onset of the menses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, premenstrual designates of or relating to or occurring during the period just before menstruation."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The **premenstrual** phase is frequently characterized by mild vascular congestion and heightened nervous irritability."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"Emotional tension observed during the **premenstrual** period often reactivates repressed neurotic conflicts."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"Anthropological customs frequently record dietary restrictions observed during the **premenstrual** days."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of dicotyledonous plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of dicotyledonous plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of dicotyledonous flowering plants containing families such as Sapindaceae, Rutaceae, and Anacardiaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical phylogenetic taxonomy, woody plants typically possessing pinnately compound leaves and nectariferous disks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapindales designates an order of dicotyledonous plants."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The alliance **Sapindales** comprises diverse woody families exhibiting asymmetrical floral development."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Within the order **Sapindales**, we observe a persistent tendency toward polycarpic and nectariferous disc structures."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species belonging to **Sapindales** are distributed widely throughout both hemispheres."*

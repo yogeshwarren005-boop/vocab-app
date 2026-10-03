@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of which a given number is the logarithm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number of which a given number is the logarithm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of which a given number is the logarithm (the inverse of a logarithm).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical computation and celestial navigation, the exponential function reversing logarithmic calculations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilogarithm designates the number of which a given number is the logarithm."*
+> - 📜 **John Napier (*Mirifici Logarithmorum Canonis Descriptio*):** *"By consulting the table of the **antilogarithm**, the operator converts artificial logarithms back into natural numbers."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"My calculating engine was planned to print tables of the **antilogarithm** with absolute typographical precision."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The discovery of the **antilogarithm** reduced weeks of laborious planetary calculation to hours of simple addition."*

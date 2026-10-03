@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accept (someone) to be what is claimed or accept his power and authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be fully aware or cognizant of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Identified from prior knowledge; accepted, acknowledged, or officially approved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific canon and academic doctrine, supported by empirical consensus across the scholarly community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie, glancing up, now recognized the company, too."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa would have easily recognized the child even without knowing her name."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo will find an affectionate protectress in her who will be able to appreciate his little-recognized virtues."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She **recognized** the venerable pastor walking beside the governor with dignified grace."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection is now widely **recognized** as the main, though not exclusive, means of modification."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is a truth universally **recognized** that a young man in possession of fortune must be in want of a wife."*

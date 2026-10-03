@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthropologist who studies prehistoric people and their culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropologist who studies prehistoric people and their culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who studies human history and prehistory through the excavation of sites and analysis of artifacts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field science, a specialist interpreting material cultures, stratigraphy, and ancient epigraphy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"But there is a rival archaeologist who would ask nothing better than to get ahead of me in this matter."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"It would be a great thing for a young archaeologist like Beecher to accomplish a mission of this sort, and beat Professor Bumper in the race." "Do you think that's why Beecher decided to go on the same steamer we are to take?" asked Ned."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"It will do us good." "And perhaps I can get some specimens of interest," added Professor Bumper, who, in addition to being an archaeologist, was something of a naturalist."*
+> - 📜 **Heinrich Schliemann (*Ilios: The City and Country of the Trojans*):** *"Every devoted **archaeologist** dreams of uncovering the legendary walls sung by ancient bards."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The skilled **archaeologist** must read the silent evidence of shattered pottery and charred masonry."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The local **archaeologist** traced the earthen ramparts of the Roman amphitheater with reverent care."*

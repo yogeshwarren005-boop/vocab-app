@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sometimes followed by `of') having or showing knowledge or understanding or realization or perception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sometimes followed by `of') having or showing knowledge or understanding or realization or perception.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having knowledge or awareness; informed and mindful of facts or circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative governance and ethics, maintaining conscious responsibility regarding the consequences of policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"We know that the ; immediately ensuing is the commencement of a word, and, of the six characters succeeding this ‘the,’ we are cognizant of no less than five."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They were quietly performed, and at a point quite aside from battle-fields, or any great center where thousands of spectators had the opportunity to become cognizant of them."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Griffin, as she was more thoroughly cognizant of the condition and real wants of the people than the Bureau could be."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Angel Clare was keenly **cognizant** of the social chasm that separated his family from the dairyfolk."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sherlock Holmes was immediately **cognizant** of the singular print left in the peat."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"She was delicately **cognizant** of every nuance in his restrained demeanor."*

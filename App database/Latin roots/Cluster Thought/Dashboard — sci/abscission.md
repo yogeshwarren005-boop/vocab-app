@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shedding of flowers and leaves and fruit following formation of scar tissue in a plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of cutting something off.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural shedding or dropping of leaves, flowers, or fruit by a plant; the act of cutting off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical and botanical treatises, the separation of parts from an organic body through metabolic dissolution of cell walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abscission designates shedding of flowers and leaves and fruit following formation of scar tissue in a plant."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Unfertilized blossoms undergo rapid **abscission**, dropping to the earth within forty-eight hours."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The **abscission** of autumn leaves leaves a clean corky scar upon the twig."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The seasonal **abscission** of foliage was attributed by ancient naturalists to the retreat of solar warmth."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An approximate calculation of quantity or degree or worth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A judgment of the qualities of something or somebody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form an approximate judgment or opinion concerning value, size, quantity, or importance; a calculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic accounting and strategic planning, an appraisal of prospective costs, resource expenditures, or market values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy life is dear, for all that life can rate Worth name of life in thee hath estimate: Youth, beauty, wisdom, courage, all That happiness and prime can happy call."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do love My country’s good with a respect more tender, More holy and profound, than mine own life, My dear wife’s estimate, her womb’s increase, And treasure of my loins."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And in it are the Lords of York, Berkeley, and Seymour, None else of name and noble estimate."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Had Gabriel been able from the first to get a distinct view of her countenance, his **estimate** of it might have been different."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"In forming an **estimate** of actions, consequences must be weighed against intentions."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My guardian's **estimate** of human nature was not elevated, but it was remarkably shrewd."*

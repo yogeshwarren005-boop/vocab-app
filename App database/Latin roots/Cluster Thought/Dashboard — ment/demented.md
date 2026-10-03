@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with madness or insanity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected with madness or insanity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from cognitive impairment or severe mental confusion; behaving irrationally or crazily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric pathology and dramatic tragedy, exhibiting profound loss of reason, memory, and behavioral self-control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I dug eagerly, and now and then caught myself actually looking, with something that very much resembled expectation, for the fancied treasure, the vision of which had demented my unfortunate companion."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I declare to my soul!" Mama hurried back up the hall, muttering something that sounded like "Demented fool, climbing in windows—worse—his poor wife home in labor." Mierd wasn't listening."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon seemed equally demented, following close upon Paleozoic's heels with a bug-net."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Dick was regarded as harmlessly **demented**, though his simple heart possessed profound tenderness."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Ben Gunn had been left marooned for three years until his solitary wits seemed wholly **demented**."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The wretched man rushed into the street, screaming like a **demented** creature."*

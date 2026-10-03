@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus of the genus discina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus of the genus discina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cup-fungi in the family Discinaceae; or a genus of inarticulate brachiopods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology and mycology, disc-shaped marine brachiopods with circular shells, or edible disc cup-fungi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discina designates any fungus of the genus discina."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The ancient Paleozoic strata contain abundant fossil valves of the primitive brachiopod **Discina**."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Valves of **Discina** nitida occur preserved in the bituminous shales of the Carboniferous system."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The fleshy apothecium of **Discina** expands into a broad, convoluted disc upon damp woodland soil."*

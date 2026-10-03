@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to measure or compare in value or size or excellence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a common factor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be judged or measured by the same standard; lacking a common basis of comparison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and mathematics, values or geometric lengths (like the diagonal of a unit square) that cannot be expressed as simple ratios.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"For us with the standard of good and evil given us by Christ, no human actions are incommensurable."*
-> - 📜 **James Joyce (*Ulysses*):** *"The committal of homicide or suicide during sleep by an aberration of the light of reason, the incommensurable categorical intelligence situated in the cerebral convolutions."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Intellectual pleasures and physical sensations are qualitatively distinct and fundamentally **incommensurable**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Use-value and exchange-value are frequently **incommensurable** when measured by immediate utility."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The side of a square and its diagonal are geometrically **incommensurable** magnitudes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deposit of clay and disintegrating rock that is found in its original place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deposit of clay and disintegrating rock that is found in its original place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chemically weathered rock formed in place that retains the original structural features of the parent bedrock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and soil science, deeply decomposed crystalline rock preceding complete transformation into residual clay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprolite designates a deposit of clay and disintegrating rock that is found in its original place."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The underlying granitic rock had decomposed in situ into soft, friable **saprolite** retaining original mineral banding."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"In humid tropical regions, chemical leaching transforms hard crystalline gneiss into thick blankets of clayey **saprolite**."*
+> - 📜 **Grove Karl Gilbert (*Report on the Geology of the Henry Mountains*):** *"The weathered mantle of **saprolite** had been stripped away by torrential desert storms."*

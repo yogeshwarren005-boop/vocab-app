@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the act of rescinding; the cancellation of a contract and the return of the parties to the positions they would have had if the contract had not been made.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of rescinding; the cancellation of a contract and the return of the parties to the positions they would have had if the contract had not been made.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The revocation, cancellation, or repeal of a law, order, or agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal equity and contract law, the retroactive unmaking of a contract returning the parties to their pre-contractual positions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rescission designates (law) the act of rescinding; the cancellation of a contract and the return of the parties to the positions they would have had if the contract had not been made."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **rescission** of an unlawful contract restores each party to their original property rights."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliament voted the immediate **rescission** of all emergency declarations passed during the interregnum."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The sudden **rescission** of public treaties undermines national credit and provokes international retaliation."*

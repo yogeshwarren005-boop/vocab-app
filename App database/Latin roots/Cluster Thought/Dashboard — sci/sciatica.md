@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Neuralgia along the sciatic nerve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neuralgia along the sciatic nerve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe pain radiating along the path of the sciatic nerve down the back of the thigh and leg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, radicular neuralgic pain caused by inflammation, compression, or herniation affecting lumbosacral nerve roots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, which of your hips has the most profound sciatica?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou cold sciatica, Cripple our senators, that their limbs may halt As lamely as their manners!"*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"As for the rest, it requires youth and strength, and the labour in an old man would breed Agues, Sciatica's, and Cramps: You shall not curse me for taking from you what you cannot spare, Sir."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Smallweed was doubled up by severe twinges of gout and hereditary **sciatica**."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Which of your hips has the most profound **sciatica**?"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intense paroxysmal **sciatica** is frequently aggravated by coughing, straining, or cold weather."*

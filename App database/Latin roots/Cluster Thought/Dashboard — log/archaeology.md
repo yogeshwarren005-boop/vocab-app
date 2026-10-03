@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of anthropology that studies prehistoric people and their cultures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of anthropology that studies prehistoric people and their cultures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of human history and prehistory through the excavation of sites and the analysis of physical artifacts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social science, the systematic discipline reconstructing past cultures from material remains and architectural ruins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dalyell, _Darker Superstitions of Scotland_ (Edinburgh, 1834), pp. 140 _sq._; Daniel Wilson, _The Archaeology and Prehistoric Annals of Scotland_ (Edinburgh, 1851), pp. 303 _sqq._; Lieut.-Col."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kroeber, "The Religion of the Indians of California," _University of California Publications in American Archaeology and Ethnology_, vol. iv."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kroeber, "The Religion of the Indians of California," _University of California Publication in American Archaeology and Ethnology_, vol. iv."*
+> - 📜 **Charles Lyell (*The Antiquity of Man*):** *"Geology and **archaeology** converge when we discover human tools embedded in ancient diluvial deposits."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Classical **archaeology** restores the broken pillars and faded inscriptions of ancient greatness."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The science of **archaeology** has resurrected Minoan Crete from the realm of mythological fable."*

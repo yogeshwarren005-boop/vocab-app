@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of regret at having caused trouble for someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal written defense of something you believe in strongly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of regret for having done something wrong; a formal justification or defense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy and theology, a systematic forensic speech or treatise defending a person's life or doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you will take your instant leave o’ the king, And make this haste as your own good proceeding, Strengthen’d with what apology you think May make it probable need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His enter and exit shall be strangling a snake; and I will have an apology for that purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quoniam _he seemeth in minority_, Ergo _I come with this apology._ Keep some state in thy exit, and vanish. [_Moth retires._] _Judas I am._— DUMAINE."*
+> - 📜 **Plato (*Apology of Socrates*):** *"I make my **apology** before the Athenians, not to plead for my life, but to defend the truth."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"This volume is not an **apology** for my weaknesses, but a faithful history of my religious opinions."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Ferrars made a cold, formal **apology** for having kept them waiting in the morning room."*

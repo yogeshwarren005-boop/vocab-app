@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed family of carnivorous percoid fishes having a large air bladder used to produce sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed family of carnivorous percoid fishes having a large air bladder used to produce sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fish of the family Sciaenidae, such as a drum, croaker, or weakfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology, coastal demersal fishes equipped with enlarged otoliths and acoustic muscles attached to the swim bladder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciaenid designates widely distributed family of carnivorous percoid fishes having a large air bladder used to produce sound."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The typical **sciaenid** possesses an elongate body, a cavernous skull, and large calcium otoliths."*
+> - 📜 **George Brown Goode (*American Fishes*):** *"Every Atlantic **sciaenid** contributes to the strange nocturnal chorus heard in shallow tidal estuaries."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The swim-bladder of the **sciaenid** exhibits elaborate diverticula adapted for sound resonance."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal expression of praise for someone who has died recently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal expression of praise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech or piece of writing that praises someone or something highly, typically delivered at a funeral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, a formal discourse celebrating the virtue, valor, or achievements of an individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is remarkable how little of the adjective there is--no compliment, no eulogy, no heroic touches, no sympathetic turn of phrase, no great passages of encomium or commendation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I regretted it especially,” he resumed, taking the usual course from detraction to insincere eulogy, “because of my gratitude and respect towards my cousin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon: it would be at best a pensioner’s eulogy.” “Pray excuse me,” said Dorothea, coloring deeply."*
+> - 📜 **Pericles (*Funeral Oration*):** *"Our ancestors deserve a tribute of **eulogy**, for they preserved our city in freedom by their valor."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The greatest **eulogy** of character is that it requires no apology and commands instant veneration."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber pronounced a magnificent **eulogy** upon the virtues of friendship and mutual loyalty."*

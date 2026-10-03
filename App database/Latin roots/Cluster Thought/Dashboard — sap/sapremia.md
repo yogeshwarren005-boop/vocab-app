@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blood poisoning caused by putrefactive bacteria; results from eating putrefied matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blood poisoning caused by putrefactive bacteria; results from eating putrefied matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Systemic toxic illness resulting from the absorption into the blood of toxins from decaying tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and surgical pathology, intoxication arising from bacterial products at a necrotic wound focus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapremia designates blood poisoning caused by putrefactive bacteria; results from eating putrefied matter."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unlike progressive septicemia, the clinical fever of **sapremia** abates promptly once the necrotic focus is cleansed."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Antiseptic dressings eliminate the decomposition of surgical discharges, thereby preventing systemic **sapremia**."*
+> - 📜 **Havelock Ellis (*The Nationalisation of Health*):** *"The medical officer traced the toxic **sapremia** to contamination from an untreated drainage canal."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of scincidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of scincidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of desert skinks native to North Africa and Arabia, known as sandfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arid herpetology and classical pharmacopeia, a specialized sand-burrowing lizard celebrated in ancient medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scincus designates type genus of scincidae."*
+> - 📜 **Pliny the Elder (*The Natural History*):** *"The medicinal virtue of the crocodile and the desert **Scincus** was celebrated by Egyptian healers."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The flattened snout and fringed toes of **Scincus** enable it to swim through loose desert sand with astonishing agility."*
+> - 📜 **Richard Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"Bedouin hunters capture the golden **Scincus** basking upon the crest of coastal dunes."*

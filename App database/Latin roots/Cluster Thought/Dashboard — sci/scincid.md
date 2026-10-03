@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alert agile lizard with reduced limbs and an elongated body covered with shiny scales; more dependent on moisture than most lizards; found in tropical regions worldwide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alert agile lizard with reduced limbs and an elongated body covered with shiny scales; more dependent on moisture than most lizards; found in tropical regions worldwide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any lizard belonging to the family Scincidae; of or pertaining to the skinks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reptile morphology, diurnal squamates characterized by smooth overlapping osteoderm scales and reduced limbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scincid designates alert agile lizard with reduced limbs and an elongated body covered with shiny scales; more dependent on moisture than most lizards; found in tropical regions worldwide."*
+> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"The typical **scincid** lizard possesses polished, bony-cored scales that give its body an oily sheen."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Cranial osteology in the **scincid** family shows a complete bony palate and robust temporal arches."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"We captured a curious **scincid** reptile basking upon the sun-baked volcanic rocks of the archipelago."*

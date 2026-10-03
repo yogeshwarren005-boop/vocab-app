@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing disapproval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing disapproval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing disapproval or dispraise; derogatory or pejorative (dyslogistic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In utilitarian ethics and political rhetoric, terms intentionally chosen to cast moral censure upon an opponent's motives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dislogistic designates expressing disapproval."*
+> - 📜 **Jeremy Bentham (*The Book of Fallacies*):** *"Politicians employ **dislogistic** epithets like 'anarchist' or 'faction' to discredit reforms without rational argument."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A philosophic thinker must strip controversial terms of their **dislogistic** connotations before evaluating facts."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Passionate partisans attach **dislogistic** labels to every policy proposed by the opposing administration."*

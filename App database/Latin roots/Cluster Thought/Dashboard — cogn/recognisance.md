@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bond or obligation entered into before a court of record to perform a legal act (British spelling of recognizance).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval chivalry, an emblem, crest, or token acknowledging fealty or military service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"He offered to deposit a sum equal to the recognisance of the knight's bail; but this was rejected, as an expedient contrary to the practice of the courts."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Obdurately.)_ Sirs, take notice that by the law of torts you are bound over in your own recognisances for six months in the sum of five pounds."*
+> - 📜 **Tobias Smollett (*The Adventures of Sir Launcelot Greaves*):** *"He offered to deposit a sum equal to the **recognisance** of the knight's bail."*
+> - 📜 **James Joyce (*Ulysses*):** *"Bloom: Sirs, take notice that by the law of torts you are bound over in your own **recognisance**."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The bailiff insisted that the accused should enter into a formal **recognisance** to keep the King's peace."*

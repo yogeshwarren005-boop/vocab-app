@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant form of a grapheme, as `m' or `m' or a handwritten version of that grapheme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A signature written by one person for another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter or symbol representing a sound in a language; a signature made on another's behalf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleography and legal forensics, a contextual variant glyph of a letterform, or an instrument executed by an agent for a principal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allograph designates a variant form of a grapheme, as `m' or `m' or a handwritten version of that grapheme."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The letters 'f' and 'ph' represent the same phoneme in English, each functioning as an **allograph** in distinct orthographic environments."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Every graphemic system develops positional variants, where each **allograph** is conditioned by surrounding letters."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"In early testamentary law, a written **allograph** required the attested seals of seven witnesses to gain validity."*

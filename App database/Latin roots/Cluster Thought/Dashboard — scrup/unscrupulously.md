@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without scruples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without scruples.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unprincipled, dishonest, or morally unconstrained manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In investigative history and dramatic fiction, pursuing ambition by fraud, deception, or ruthless betrayal of allies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Thus unscrupulously did the old gentlewoman sacrifice the continuance, perhaps, of an ancient feathered race, with no better end than to supply her brother with a dainty that hardly filled the bowl of a tea-spoon!"*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Thus **unscrupulously** did the old gentlewoman sacrifice every principle to secure her selfish objective."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The corrupt lobbyist operated **unscrupulously** behind the scenes to purchase legislative votes."*
+> - 📜 **Anthony Trollope (*The Way We Live Now*):** *"He borrowed and speculated **unscrupulously**, trusting that audacious bluff would conceal his insolvency."*

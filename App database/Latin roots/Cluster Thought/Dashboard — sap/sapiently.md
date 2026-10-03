@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shrewd manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a shrewd manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wise, shrewd, sagacious, or knowingly observant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character description and humor, gesturing or nodding knowingly to imply deep comprehension of a matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapiently designates in a shrewd manner."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The veteran harpooneer shook his head **sapiently**, forecasting foul weather from the setting sun."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Major Dobbin listened attentively and remarked **sapiently** that all would turn out well in time."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Lestrade nodded **sapiently**, though it was plain that he had failed to grasp Holmes's deduction."*

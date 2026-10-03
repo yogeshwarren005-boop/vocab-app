@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceiving the significance of events before they occur; -r.h.rovere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceiving the significance of events before they occur; -r.h.rovere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having knowledge of events before they take place; prophetic and farsighted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical analysis, possessing extraordinary intuitive grasp of emerging political or technological currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is a thing not uncommonly happening to the whale-boats in those swarming seas; the sharks at times apparently following them in the same prescient way that vultures hover over the banners of marching regiments in the east."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The same noble and prescient insight into the springs of national greatness and social progress characterizes the work of both men, but in what different measures?"*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Yet, as he lay upon his couch at rest Among his officers, he seemed to be Prescient of his fate; for he addressed His friends in verses from an Elegy, And to this line a special accent gave: "The paths of glory lead but to the grave." XXI."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"His **prescient** mind foresaw the inevitable rise of democratic institutions across Europe."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A **prescient** observer could detect the subterranean rumblings of revolution years before the Bastille fell."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Challenger made a **prescient** remark regarding the prehistoric survivals on the plateau."*

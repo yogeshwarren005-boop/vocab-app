@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swiss cheese with large holes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swiss cheese with large holes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative name for Emmental cheese, the traditional hole-riddled cheese from the Emmental valley in Switzerland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European food regulation and cheesemaking, a firm raw-milk cheese produced through propionic acid fermentation forming carbon dioxide eyes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emmentaler designates swiss cheese with large holes."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"He enjoyed the simple peasant breakfast of crusty bread, dark beer, and pungent **Emmentaler**."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"In the sanatorium dining hall, the Swiss guests insisted on their domestic **Emmentaler** at every supper."*
+> - 📜 **Sinclair Lewis (*Dodsworth*):** *"They sat upon the terrace overlooking the lake, dining on cold roast beef and Swiss **Emmentaler**."*

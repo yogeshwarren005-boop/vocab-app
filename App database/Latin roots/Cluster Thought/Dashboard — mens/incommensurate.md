@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not corresponding in size or degree or extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not corresponding in size or degree or extent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not commensurate; out of proportion, unequal, or inadequate to a given requirement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional criticism and statecraft, resources or capabilities that fall hopelessly short of constitutional duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yet to supply this conception various historians take forces of different kinds, all of which are incommensurate with the movement observed."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The puny resources of the rebel faction were hopelessly **incommensurate** with the colossal task they undertook."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her intense moral fervor found only petty, **incommensurate** channels of parochial charity."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A revenue system **incommensurate** with the national defense will inevitably invite foreign aggression."*

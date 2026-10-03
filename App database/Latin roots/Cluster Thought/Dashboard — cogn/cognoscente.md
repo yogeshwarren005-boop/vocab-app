@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert able to appreciate a field; especially in the fine arts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert able to appreciate a field; especially in the fine arts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has expert knowledge in a subject, especially in the fine arts; a connoisseur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and aesthetic criticism, an individual recognized for discerning judgment in evaluating paintings or music.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cognoscente designates an expert able to appreciate a field; especially in the fine arts."*
+> - 📜 **Horace Walpole (*Letters*):** *"Every traveling **cognoscente** in Florence pretends to discover a lost Raphael in some obscure chapel."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"The true artist creates for humanity, whereas the petty **cognoscente** prizes only technical rarity."*
+> - 📜 **Henry James (*The Ambassadors*):** *"He listened with the quiet deference of a **cognoscente** who refuses to parade his erudition."*

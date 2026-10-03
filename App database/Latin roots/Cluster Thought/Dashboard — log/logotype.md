@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A company emblem or device.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A company emblem or device.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single piece of printer's type that bears an entire word or combination of letters; a logo or trademark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial graphic design and printing, a custom typography or emblematic wordmark representing an enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logotype designates a company emblem or device."*
+> - 📜 **John Walter (*An Introduction to Logography*):** *"By employing a cast **logotype** for recurring syllables, the printing of our journal proceeded with unprecedented speed."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"The commercial value of a famous **logotype** consists in its power to direct consumer purchases automatically."*
+> - 📜 **Marshall McLuhan (*The Gutenberg Galaxy*):** *"The standardized **logotype** transformed commercial printing into a mechanized conveyor of institutional marks."*

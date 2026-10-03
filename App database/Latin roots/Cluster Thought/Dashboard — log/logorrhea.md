@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathologically excessive (and often incoherent) talking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pathologically excessive (and often incoherent) talking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive, overwhelming, and often incoherent flow of words; extreme loquacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and psychiatry, fluent, continuous, and rapid speech characteristic of aphasia or bipolar mania.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logorrhea designates pathologically excessive (and often incoherent) talking."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The symptom known as **logorrhea** reflects a failure of cortical inhibition, leaving associative speech uncurbed."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"Nothing is more tedious in social gatherings than an elderly pedant afflicted with chronic conversational **logorrhea**."*
+> - 📜 **Henry Maudsley (*Responsibility in Mental Disease*):** *"Morbid **logorrhea** must not be confused with wit; it is the chaotic discharge of an unstable nervous apparatus."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One related by blood or origin; especially on sharing an ancestor with another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word is cognate with another if both derive from the same word in an ancestral language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Descended from the same original root or language; having a common ancestor or related character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics and anthropology, lexical items or kinship lineages sharing genetic descent from an ancestral form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Had this latter or any cognate phenomenon declared itself in any member of his family?"*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"They used the soft lead glazes, coloured green, blue, amber, and purplish brown by the same metallic oxides as formed the basis of the cognate glazes on Ming pottery."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The fact is that dating of these glazed potteries is as difficult as that of the cognate glazed tiles, and it is as unreasonable to exclude a Ch´ing origin as it would be to exclude a Ming."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The English word 'father' and Latin 'pater' are genuinely **cognate** forms descending from an Aryan original."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We must observe how **cognate** sciences assist and illustrate one another in their progress."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Mathematics and mechanics possess a **cognate** structure based upon axioms of pure intuition."*

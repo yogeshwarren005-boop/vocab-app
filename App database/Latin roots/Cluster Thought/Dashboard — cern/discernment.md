@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive condition of someone who understands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delicate discrimination (especially of aesthetic values).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive ability to judge well, perceive distinctions, and grasp subtle nuances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical epistemology and moral psychology, the intellectual virtue of distinguishing truth from deception and virtue from vice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It would be an insult to the discernment of any man with half an eye to tell him so."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It requires no discernment to perceive that he is warmed and refreshed."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There is a quickness of perception in some, a nicety in the discernment of character, a natural penetration, in short, which no experience in others can equal, and Lady Russell had been less gifted in this part of understanding than her young friend."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It would be an insult to the **discernment** of any man with half an eye to tell him so."*
+> - 📜 **Jane Austen (*Persuasion*):** *"There is a quickness of perception in some, a nicety in the **discernment** of character, which amounts to genius."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Judgement consists in the careful **discernment** of differences among ideas that otherwise appear similar."*

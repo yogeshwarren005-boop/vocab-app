@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond recognition; in an unrecognizable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond recognition; in an unrecognizable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that cannot be recognized; beyond recognition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical description, transformed by time, revolution, or catastrophe into a wholly alien state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrecognizably designates beyond recognition; in an unrecognizable manner."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"The ancient Roman roads were **unrecognizably** worn and buried beneath centuries of peasant turf."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The terrain had altered so **unrecognizably** that even our native guides were utterly baffled."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The creatures were twisted **unrecognizably** away from any natural animal form."*

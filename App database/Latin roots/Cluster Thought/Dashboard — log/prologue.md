@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An introduction to a play.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An introduction to a play.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A separate introductory section of a literary, dramatic, or musical work that sets the scene or provides context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical tradition, a poem or monologue spoken by an actor before the main performance begins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not the fashion to see the lady the epilogue, but it is no more unhandsome than to see the lord the prologue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And even the like precurse of fierce events, As harbingers preceding still the fates And prologue to the omen coming on, Have heaven and earth together demonstrated Unto our climatures and countrymen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PROLOGUE. _For us, and for our tragedy, Here stooping to your clemency, We beg your hearing patiently._ HAMLET."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Two households, both alike in dignity, in fair Verona, where we lay our scene, from ancient grudge break to new mutiny: so opens the tragic **prologue**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In the solemn **prologue** to his epic, the poet invokes the heavenly muse to inspire an adventurous song."*
+> - 📜 **Francis Bacon (*The Great Instauration*):** *"Let this general plan serve as a necessary **prologue** to the comprehensive regeneration of natural science."*

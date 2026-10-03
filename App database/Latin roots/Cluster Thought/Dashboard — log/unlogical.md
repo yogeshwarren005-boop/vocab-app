@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in correct logical relation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in correct logical relation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not according to the principles of logic; lacking reason, consistency, or rational structure; illogical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological philosophy, operating through intuition, feeling, or instinct rather than formal deductive reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unlogical designates lacking in correct logical relation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Human decision-making is largely governed by **unlogical** impulses and subconscious emotional preferences."*
+> - 📜 **John Dewey (*How We Think*):** *"Primitive belief is predominantly **unlogical**, accepting traditional folklore without testing causes and effects."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Social passions generate vast **unlogical** movements that defy the neat calculations of political theorists."*

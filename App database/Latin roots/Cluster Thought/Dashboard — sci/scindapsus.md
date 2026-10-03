@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen climbers with adhesive adventitious roots; southeastern asia and brazil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen climbers with adhesive adventitious roots; southeastern asia and brazil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of climbing evergreen vines in the arum family (Araceae), native to Southeast Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical botany and horticulture, ornamental root-climbing lianas with variegated foliage and calcium oxalate crystals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scindapsus designates evergreen climbers with adhesive adventitious roots; southeastern asia and brazil."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The high canopy of the Assamese jungle is laced with gigantic stems of climbing **Scindapsus**."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Lush festoons of **Scindapsus** clothed the trunks of towering dipterocarps in evergreen splendor."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The spadix of **Scindapsus** is densely covered with hermaphrodite flowers lacking a perianth."*

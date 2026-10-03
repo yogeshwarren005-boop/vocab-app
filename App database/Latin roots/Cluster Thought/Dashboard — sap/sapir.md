@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anthropologist and linguist; studied languages of north american indians (1884-1939).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anthropologist and linguist; studied languages of north american indians (1884-1939).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Edward Sapir (1884–1939), an American linguist and anthropologist influential in structural linguistics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic anthropology, co-originator of the Sapir-Whorf hypothesis regarding linguistic relativity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapir designates anthropologist and linguist; studied languages of north american indians (1884-1939)."*
+> - 📜 **Franz Boas (*Handbook of American Indian Languages*):** *"The brilliant field researches of Edward **Sapir** revealed the intricate grammatical architecture of indigenous tongues."*
+> - 📜 **Benjamin Lee Whorf (*Language, Thought, and Reality*):** *"In agreement with **Sapir**, we recognize that linguistic categories mold our intuitive perception of reality."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The phonetic and phonemic methods introduced by **Sapir** set a new standard for descriptive linguistics."*

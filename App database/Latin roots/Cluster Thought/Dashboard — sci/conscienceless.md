@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a conscience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a conscience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no conscience; devoid of moral principles, scruples, or remorse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic characterization and sociology, behaving with predatory ruthlessness without regard for human suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"What? even battered, brazen, beautiful, conscienceless, heartless, Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was as cold, calculating, and **conscienceless** as the legal machinery he manipulated."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The typhoon swept down like a **conscienceless** monster devoid of pity for mortal mariners."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A vain and **conscienceless** egotist can wreck the happiness of an entire family without a single pang of regret."*

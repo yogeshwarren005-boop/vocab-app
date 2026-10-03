@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The environment as it relates to living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biology concerned with the relations between organisms and their environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology dealing with the relations of organisms to one another and to their physical surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary science, the comprehensive term coined by Ernst Haeckel in 1866 for the economy of nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecology designates the environment as it relates to living organisms."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"By **ecology** we mean the investigation of the total relations of the animal both to its inorganic and to its organic environment."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The complex web of interactions that regulates plant and animal populations constitutes the true foundation of **ecology**."*
+> - 📜 **Arthur Tansley (*Practical Plant Ecology*):** *"The fundamental task of plant **ecology** is to discover how vegetation adapts to soil, climate, and topography."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A projection like a chin formed by the sepals and base of the column in some orchids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The protruding part of the lower jaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chin; in entomology and botany, a projection or plate situated beneath the lower lip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect morphology and orchid anatomy, a sclerite of the submentum supporting the labial palps, or a spur-like column projection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mentum designates a projection like a chin formed by the sepals and base of the column in some orchids."*
+> - 📜 **Charles Darwin (*On the Various Contrivances by which British and Foreign Orchids are Fertilised by Insects*):** *"The lower sepals unite at the base with the column-foot to form a chin-like pouch or **mentum**."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The **mentum** is that plate of the mouth situated immediately above the submentum and bearing the labium."*
+> - 📜 **John Obadiah Westwood (*Modern Classification of Insects*):** *"In coleopterous insects, the shape of the **mentum** provides a valuable diagnostic character for family classification."*

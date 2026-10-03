@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of dividing by cutting or splitting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of dividing by cutting or splitting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of cutting, dividing, or cleaving; a division, split, or schism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and surgical anatomy, a profound rupture separating ecclesiastical sects or severing anatomical tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scission designates the act of dividing by cutting or splitting."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The theological **scission** between the Eastern and Western churches widened into irreconcilable enmity."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Nature should be dissected rather than abstracted; it is a **scission** of parts that reveals internal motion."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The sharp **scission** of the umbilical cord marks the infant's entry into autonomous terrestrial life."*

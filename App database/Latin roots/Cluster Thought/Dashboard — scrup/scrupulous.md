@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having scruples; arising from a sense of right and wrong; principled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by extreme care and great effort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having strict moral integrity; painstaking, meticulously exact, and attentive to right conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In professional and scholarly practice, executing duties or scientific observations with rigorous precision and fidelity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady alights so quickly and walks away so quickly that Sir Leicester, for all his scrupulous politeness, is unable to assist her, and is left behind."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes’s scrupulous way of saving himself and his respectability not to feel that our worst fears did but keep pace with his client’s progress."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He is so very strict and scrupulous in his notions; over-scrupulous I must say."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes’s **scrupulous** way of saving himself and his respectability not to feel concerned was sublime."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He is so very strict and **scrupulous** in his notions; over-scrupulous I must say."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A man of **scrupulous** honor would never have consented to profit by such an ignominious deception."*

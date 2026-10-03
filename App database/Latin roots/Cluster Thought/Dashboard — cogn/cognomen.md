@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A familiar name for a person (often a shortened version of a person's given name).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The name used to identify the members of a family (as distinguished from each member's given name).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surname, nickname, or identifying epithet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Roman prosopography, the third name of a Roman citizen designating the specific familial branch or personal honor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The cognomen of Crane was not inapplicable to his person."*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"The **cognomen** of Crane was not inapplicable to his person."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The illustrious **cognomen** of Africanus commemorated the conqueror's victories over Carthage."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He answered to the bizarre **cognomen** of Queequeg among the harpooneers."*

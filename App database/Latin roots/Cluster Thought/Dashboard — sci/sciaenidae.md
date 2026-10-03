@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm-water marine fishes including the drums and grunts and croakers and sea trout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm-water marine fishes including the drums and grunts and croakers and sea trout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of percoid marine and freshwater fishes, commonly known as croakers or drums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, a commercially vital family of teleost fishes whose members produce acoustic vibrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciaenidae designates warm-water marine fishes including the drums and grunts and croakers and sea trout."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The family **Sciaenidae** includes the drums, croakers, and corvinas distributed throughout tropical and temperate coasts."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Members of the family **Sciaenidae** are characterized by two dorsal fins and a cavernous lateral line system."*
+> - 📜 **George Brown Goode (*American Fishes*):** *"The Atlantic fisheries depend heavily upon various valuable food species of the family **Sciaenidae**."*

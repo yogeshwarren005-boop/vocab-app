@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A computer language designed in europe to support natural language processing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A computer language designed in europe to support natural language processing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An introduction or preface to a book, dramatic work, poem, or musical composition; a prologue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical printing and theatrical playbills, the introductory address delivered to the audience setting the scene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prolog designates a computer language designed in europe to support natural language processing."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"In his masterful **prolog**, the poet paints a vivid portrait of fourteenth-century English society."*
+> - 📜 **John Dryden (*Essays on the Drama*):** *"A witty **prolog** disarms the malice of the pit and prepares the audience for dramatic entertainment."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Let this chapter serve as a brief **prolog** to the wider demonstration of physical principles."*

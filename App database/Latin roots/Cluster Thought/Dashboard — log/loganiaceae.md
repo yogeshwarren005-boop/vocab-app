@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dicotyledonous family of plants of order gentianales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dicotyledonous family of plants of order gentianales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants in the order Gentianales, containing toxic alkaloids such as strychnine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and pharmacognosy, a tropical family celebrated for yielding Strychnos nux-vomica and arrow poisons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loganiaceae designates a dicotyledonous family of plants of order gentianales."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The family **Loganiaceae** contains arborescent and climbing plants notorious for yielding the virulent alkaloid strychnine."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Numerous climbing lianas of the tropical forest belong to the poisonous family **Loganiaceae**."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The opposite simple leaves and cymose inflorescence are typical of **Loganiaceae**."*

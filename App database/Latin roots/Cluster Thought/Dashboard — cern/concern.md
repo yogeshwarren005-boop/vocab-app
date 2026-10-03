@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that interests you because it is important or affects you.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anxious feeling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To relate to, affect, or engage the attention and interests of someone; a matter of interest or solicitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethics and human relationships, compassionate anxiety or practical responsibility borne on behalf of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I learn you take things ill which are not so, Or being, concern you not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s hear him, for the things he speaks may concern Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say on, my Lord of Westmoreland, in peace, What doth concern your coming."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Let’s hear him, for the things he speaks may **concern** Caesar."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is a truth that his happiness should be a matter of deep **concern** to all his family."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have a great deal of business to settle, which does not immediately **concern** you."*

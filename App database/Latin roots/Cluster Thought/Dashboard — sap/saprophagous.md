@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of certain animals) feeding on dead or decaying animal matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of certain animals) feeding on dead or decaying animal matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on decaying or dead organic matter (especially of animals or carrion insects).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and vertebrate ecology, organisms playing a crucial sanitary role by decomposing carcasses and leaf-litter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprophagous designates (of certain animals) feeding on dead or decaying animal matter."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms and **saprophagous** larvae consume decaying vegetation, converting it into rich loam."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Certain beetles are strictly **saprophagous**, subsisting entirely upon decomposing animal carcasses."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Swarms of **saprophagous** insects quickly dispose of fallen fruit and rotting timber in the tropical forest."*

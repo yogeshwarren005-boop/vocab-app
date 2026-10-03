@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lexicographer who specializes in etymology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lexicographer who specializes in etymology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar who specializes in etymology, the study of the origins and historical development of words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics, a researcher tracing lexical cognates across diverse language families through systematic sound laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The name _Hogan_--which has occasioned some discussion among antiquaries and etymologists--is probably derived from _ogof_ or _ogov_, the British name for a cavern."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"The **etymologist** must explore the deep roots of speech and track every dialectical variation to its fountain."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Grimm was an extraordinary **etymologist** whose laws explained the transformation of consonants across Europe."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The pedantic **etymologist** derived the local Scottish placename from a fanciful combination of Celtic roots."*

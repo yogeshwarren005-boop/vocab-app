@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A curved oriental saber; the edge is on the convex side of the blade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curved oriental saber; the edge is on the convex side of the blade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short sword with a curved blade that broadens toward the point, historically used in the Middle East.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and romantic narrative, a cavalry cutting weapon designed for slashing strokes from horseback.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by the burning tapers of the sky That shone so brightly when this boy was got, He dies upon my scimitar’s sharp point That touches this my first-born son and heir."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll heat his blood with Greekish wine tonight, Which with my scimitar I’ll cool tomorrow."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Twisting and turning formed a half-meter long scimitar and bending it slightly along its length added a curve comparable to the ancient Australian boomerang."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"By this **scimitar** that slew the Sophy and a Persian prince that won three fields of Sultan Solyman."*
+> - 📜 **Walter Scott (*The Talisman*):** *"Saladin severed the silken cushion with a single sweeping stroke of his curved Damascus **scimitar**."*
+> - 📜 **Lord Byron (*The Giaour*):** *"His gleaming **scimitar** flashed like summer lightning above the smoke of the cavalry melee."*

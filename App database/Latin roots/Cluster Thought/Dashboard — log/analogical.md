@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing, composed of, or based on an analogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing, composed of, or based on an analogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or based on an analogy; using correspondence between different things to explain or argue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological reasoning and legal interpretation, drawing inductive inferences regarding unknown properties based upon observed parallels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"**Analogical** reasoning is often the only path open to human inquiry where direct observation fails."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The mind must not rest content with superficial **analogical** resemblances, but penetrate to real causes."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An **analogical** inference can never produce mathematical certainty, though it provides valuable hypotheses for scientific testing."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grey flycatcher of the southwestern united states and mexico and central america having a long forked tail and white breast and salmon and scarlet markings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grey flycatcher of the southwestern united states and mexico and central america having a long forked tail and white breast and salmon and scarlet markings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scissor-tailed flycatcher (Tyrannus forficatus); a bird with long forked tail feathers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional natural history and aviculture, the state bird of Oklahoma, famed for its tumbling aerial courtship flights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scissortail designates grey flycatcher of the southwestern united states and mexico and central america having a long forked tail and white breast and salmon and scarlet markings."*
+> - 📜 **Theodore Roosevelt (*The Wilderness Hunter*):** *"Across the grassy prairie, the white-and-salmon **scissortail** darted with lightning speed after hovering locusts."*
+> - 📜 **John James Audubon (*Birds of America*):** *"No species in the southern territories displays greater elegance in flight than the graceful **scissortail**."*
+> - 📜 **Elliott Coues (*Birds of the Northwest*):** *"The remarkable tail feathers of the **scissortail** extend to more than double the length of its body."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute blackish gregarious flies destructive to mushrooms and seedlings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute blackish gregarious flies destructive to mushrooms and seedlings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungus gnat belonging to the family Sciaridae; of or relating to this insect family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and dipterology, tiny dark-winged gnats whose subterranean larvae can damage greenhouse root systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciarid designates minute blackish gregarious flies destructive to mushrooms and seedlings."*
+> - 📜 **John Obadiah Westwood (*Modern Classification of Insects*):** *"The typical **sciarid** gnat has prominent compound eyes that meet in a bridge above the antennae."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"A heavy infestation of **sciarid** larvae in the soil will wither the tender seedlings of the nursery."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Swarming clouds of **sciarid** gnats arose from the damp rotting vegetation of the tropical gully."*

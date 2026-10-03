@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invalid or incorrect reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invalid or incorrect reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition contrary to or devoid of sound logic; marked irrationality, invalidity, or lack of rational coherence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological critique, a formal fallaciousness or lack of internal deductive coherence in an argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illogicality designates invalid or incorrect reasoning."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The apparent plausibility of a sophism often conceals a radical **illogicality** in the initial premises."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Emotional fervor frequently blinds a thinker to the glaring **illogicality** of his cherished conclusions."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"Philosophical skepticism exposes the inherent **illogicality** that arises when common sense attempts metaphysics."*

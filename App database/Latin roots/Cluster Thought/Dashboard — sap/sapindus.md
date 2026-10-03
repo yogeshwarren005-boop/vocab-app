@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the sapindaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the sapindaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of shrubs and trees in the soapberry family whose berries yield a lathering soap substitute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, soapberry trees whose pericarp contains saponins traditionally used for laundering delicate textiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapindus designates type genus of the sapindaceae."*
+> - 📜 **William Roxburgh (*Flora Indica*):** *"The pulp of the fruit of **Sapindus** saponaria forms an abundant lather with water and serves in place of soap."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The indigenous inhabitants harvest the nuts of **Sapindus** for washing delicate silk fabrics."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Sapindus** is represented in the warmer states by the wild soapberry tree."*

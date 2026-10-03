@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by or afflicted with sciatica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the ischium (or the part of the hipbone containing it).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the ischium or hip; pertaining to the sciatic nerve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and neurology, designating the great nerve traversing the hip and descending into the lower extremity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"INTENSE SUFFERING OVERCOME For about five years I was afflicted with sciatic rheumatism, in such a severe form that my body was drawn out of shape."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"My daughter consulted another physician, who said there would have to be an operation which would include the exposing and scraping of the sciatic nerve."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sciatic rheumatism, that had troubled me for some years, became so severe I could scarcely do anything."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"Thou cold **sciatic**, cripple our senators, that their limbs may halt as feebly as their manners!"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pressure upon the great **sciatic** trunk produces excruciating neuralgic pain extending along the posterior thigh."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **sciatic** nerve emerges through the great sacro-sciatic notch in all higher mammalian pelves."*

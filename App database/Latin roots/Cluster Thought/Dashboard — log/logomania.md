@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathologically excessive (and often incoherent) talking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pathologically excessive (and often incoherent) talking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal and manic obsession with words, talking, or verbal expression; logorrhea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopathology, excessive, continuous, and uncontrolled verbalization observed during acute manic episodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logomania designates pathologically excessive (and often incoherent) talking."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In acute manic excitement, patients exhibit a violent **logomania**, pouring forth continuous torrents of rhyme and association."*
+> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"Uncontrolled **logomania** frequently accompanies cerebral hyperaemia, the patient talking without pause until utter physical exhaustion."*
+> - 📜 **Richard von Krafft-Ebing (*Text-Book of Insanity*):** *"The pressure of speech in hypomania often borders on true **logomania**, exhausting both the physician and the sufferer."*

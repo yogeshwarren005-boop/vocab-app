@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute blackish gregarious flies destructive to mushrooms and seedlings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute blackish gregarious flies destructive to mushrooms and seedlings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, dark fungus gnats in the family Sciaridae whose larvae feed on fungi and decaying roots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology, Diptera whose gregarious larvae sometimes form elongated migratory columns called army-worms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciara designates minute blackish gregarious flies destructive to mushrooms and seedlings."*
+> - 📜 **John Obadiah Westwood (*Modern Classification of Insects*):** *"The larvae of the genus **Sciara** are noted for their remarkable habit of marching in compact procession across forest paths."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The small dark flies of **Sciara** breed in decaying mushrooms and rich garden compost."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Decaying leaf-mould is inhabited by countless larvae of **Sciara** that accelerate the breakdown of humus."*

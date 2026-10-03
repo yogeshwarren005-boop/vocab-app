@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A history of a word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the sources and development of words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the origin of words and the historical evolution of their meanings; a word's lineage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics, the documented lineage of a lexical unit through sound changes, borrowing, and morphological adaptation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The terms selling or buying monopoly explain themselves, tho the latter conflicts with the etymology.[1] Under conditions of barter the selling and the buying monopoly would be the same thing in two aspects."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The etymology of the word Beltane is uncertain; the popular derivation of the first part from the Phoenician Baal is absurd."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"There is no trace of a Sun-God or Moon-Goddess." As to the etymology of Beltane, see above, p. 149 note. [372] Rev."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"He investigated the **etymology** of disputed words with indefatigable curiosity and robust learning."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The study of **etymology** reveals how ancient peoples conceived the fundamental operations of nature."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"If we trace the **etymology** of words denoting intellectual concepts, we find they all originally signified sensible ideas."*

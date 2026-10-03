@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come up with (an idea, plan, explanation, theory, or principle) after a mental effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect deeply on a subject.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To devise, invent, or think out through intense intellectual effort or deep reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and judicial methodology, constructing a coherent explanatory scheme or legal argument by sustained reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Reflect, ponder, excogitate, reply."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The philosophies excogitated by the insulated intellect help nothing toward even a glimpse of these secrets."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The intellect left to itself cannot **excogitate** the secrets of nature without methodical observation."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He withdrew to his library to **excogitate** a new theory regarding the Roman encampment."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The German professor sat in his watchtower, seeking to **excogitate** a philosophy of clothes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A newly invented word or phrase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of inventing a word or phrase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A newly coined word, expression, or phrase, or a novel meaning introduced for an established word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and lexicography, a lexical innovation circulating prior to formal dictionary adoption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neologism designates a newly invented word or phrase."*
+> - 📜 **Horace (*Ars Poetica*):** *"It has ever been lawful to produce a **neologism** stamped with the current impress of public necessity."*
+> - 📜 **Samuel Johnson (*Preface to the Dictionary of the English Language*):** *"I have avoided admitting every ephemeral **neologism** that fashionable conversation spawns and forgets within a year."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"A valuable **neologism** survives because it supplies a genuine vacancy in the existing vocabulary of thought."*

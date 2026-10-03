@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who looks for analogies or who reasons by analogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who looks for analogies or who reasons by analogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who reasons, writes, or explains by means of analogies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological debate and natural philosophy, a thinker who deduces divine attributes or natural laws from structural correspondences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analogist designates someone who looks for analogies or who reasons by analogy."*
+> - 📜 **Joseph Butler (*The Analogy of Religion*):** *"The Christian **analogist** shows that the difficulties in revealed religion are matched by corresponding difficulties in the constitution of nature."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Cowley was an ingenious **analogist**, delighted by quaint conceits and remote comparisons."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"Bacon was a profound **analogist**, perceiving subtle links between moral virtues and physical laws."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptable to your conscience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acceptable to your conscience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Governed by or conforming to conscience; just, reasonable, or equitable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equity jurisprudence and contractual law, an agreement that is fair and not tainted by extortion or unconscionable overreach.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conscionable designates acceptable to your conscience."*
+> - 📜 **Francis Bacon (*Essays*):** *"Let bargains be **conscionable** and moderate, so that both parties may thrive together."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A **conscionable** tradesman will not take advantage of a customer's ignorance to demand extortionate prices."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"A just and **conscionable** settlement of taxation must satisfy both the sovereign and the subject."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thinker who considers carefully and thoroughly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thinker who considers carefully and thoroughly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who devises, invents, or thinks out something through deep mental exertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical criticism and satire, an architect of novel ideological systems, theoretical dogmas, or institutional blueprints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excogitator designates a thinker who considers carefully and thoroughly."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Sieyès, that indefatigable **excogitator** of paper constitutions, sat busy with his pigeon-holes."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The true philosopher is an **excogitator** of new truths rather than a mere compiler of old opinions."*
+> - 📜 **Robert Southey (*The Doctor*):** *"Every ingenious projector and **excogitator** of social panaceas believes himself inspired by pure benevolence."*

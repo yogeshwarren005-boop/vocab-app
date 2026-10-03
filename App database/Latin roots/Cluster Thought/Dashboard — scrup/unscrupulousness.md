@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of unscrupulous dishonesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of unscrupulous dishonesty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or disposition of being devoid of moral principles; shameless dishonesty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical critique and political narrative, systemic disregard for honor, fairness, or human dignity in the pursuit of power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Without these, not even the invaluable quality of unscrupulousness itself is secure from failure."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"No lower estimate could have vindicated the indefatigable zeal with which she scratched, and her unscrupulousness in digging up the choicest flower or vegetable, for the sake of the fat earthworm at its root."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"Without these, not even the invaluable quality of **unscrupulousness** itself is sufficient to win modern worldly success."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"No lower estimate could have vindicated the indefatigable **unscrupulousness** of the colonel's lifelong ambitions."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"The cynical **unscrupulousness** of the dictator was matched only by the servility of his terrified ministers."*

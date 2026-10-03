@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or suggestive of ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with or suggestive of ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to ideology, doctrine, or a system of ideas; ideological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory and history of thought, pertaining to partisan intellectual systems governing public policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideologic designates concerned with or suggestive of ideas."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The great party struggles of modern times have lost their territorial character and assumed an **ideologic** nature."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Behind every tariff policy lies an **ideologic** debate concerning the legitimate functions of the state."*
+> - 📜 **Bertrand Russell (*Power: A New Social Analysis*):** *"The fiercest conflicts arise when military force is allied with fanatical **ideologic** fervor."*

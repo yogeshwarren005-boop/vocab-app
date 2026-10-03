@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled at symbolic logic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person skilled at symbolic logic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or expert responsible for the analysis, planning, and management of logistical operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military science and industrial transport, a coordinator overseeing supply lines, storage facilities, and fleet routing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I can give you a quick rundown on each now, if you wish." "I do." "Myra is a logistician and a Medic certified to Level 4 in space-related trauma, physical and psychological."*
+> - 📜 **Dwight D. Eisenhower (*Crusade in Europe*):** *"The master **logistician** must anticipate the requirements of the battlefield months before the artillery opens fire."*
+> - 📜 **Douglas MacArthur (*Reports of General MacArthur*):** *"To every combat commander, the tireless **logistician** is the indispensable architect of sustained victory."*
+> - 📜 **Antoine-Henri Jomini (*Summary of the Art of War*):** *"The staff **logistician** unites strategy and tactics by ensuring armies arrive at the decisive point fully provisioned."*

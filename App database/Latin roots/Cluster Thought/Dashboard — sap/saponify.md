@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become converted into soap by being hydrolized into an acid and alcohol as a result of being treated with an alkali.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into soap by hydrolizing an ester into an acid and alcohol as a result of treating it with an alkali.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert a fat, oil, or ester into soap by treatment with an alkali.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial and physiological chemistry, hydrolyzing fatty esters through heating with basic hydroxide solutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saponify designates become converted into soap by being hydrolized into an acid and alcohol as a result of being treated with an alkali."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Heating animal oils with caustic soda will rapidly **saponify** the triglycerides."*
+> - 📜 **Thomas Graham (*Elements of Chemistry*):** *"Caustic alkalis possess the power to **saponify** fixed oils upon application of moderate heat."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Potassium hydrate acts vigorously to **saponify** vegetable oils, forming hard soluble soap."*

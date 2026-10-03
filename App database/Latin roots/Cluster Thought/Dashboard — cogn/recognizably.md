@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a recognizable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a recognizable degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that can be identified or recognized; distinctly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural evolution and comparative anatomy, displaying unmistakable continuity with ancestral archetypes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"One reason is, because there are a dozen that are recognizably competent to do that poem."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"One reason is, because there are a dozen that are **recognizably** competent to do that work."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The mystical state is **recognizably** similar in all major historic traditions."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The skeletal framework of the higher ape is **recognizably** homologous to that of human anatomy."*

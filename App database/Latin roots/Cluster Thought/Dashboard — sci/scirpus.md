@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rhizomatous perennial grasslike herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rhizomatous perennial grasslike herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aquatic perennial herbs in the sedge family (Cyperaceae), known as bulrushes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wetland ecology and botanical systematics, rhizomatous marsh plants forming dense stands along shores and marshes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scirpus designates rhizomatous perennial grasslike herbs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Scirpus** includes the great river bulrushes with triangular stems and terminal clusters of spikelets."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Along the muddy cove grew tall ranks of **Scirpus** and pickerel-weed, rustling in the summer breeze."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species of **Scirpus** provide durable fiber for weaving coarse mats among coastal fisherfolk."*

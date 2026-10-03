@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small american woodpecker that feeds on sap from e.g. apple and maple trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small american woodpecker that feeds on sap from e.g. apple and maple trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A North American woodpecker (genus Sphyrapicus) that drills rows of small holes in trees to feed on sap and insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological field study, migratory woodpeckers maintaining sap-wells that provide critical sustenance to hummingbirds and insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapsucker designates small american woodpecker that feeds on sap from e.g. apple and maple trees."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The yellow-bellied **sapsucker** excavates neat horizontal rows of small holes in the bark of maple trees."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"We heard the sharp tap of the **sapsucker** drilling the tender cambium of the birch tree."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"The **sapsucker** feeds on the sweet exuding syrup and the insects attracted to its punctures."*

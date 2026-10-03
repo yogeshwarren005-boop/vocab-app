@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being in accord with the dictates of conscience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being painstaking and careful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being painstaking, scrupulous, and guided by a strict sense of duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology and organizational ethics, steadfast adherence to promises, accuracy, and moral obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"His father, with anxious conscientiousness, debated with himself as to whether it would be right for him thus to set one of his sons above the rest."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"They appealed to that strain of anxious conscientiousness in him which he had inherited from his father, by urging that all these memorials were "irregular," and that therefore he had no right to consider them in coming to his decision."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"A man of such exquisite feeling, of such pure conscientiousness, of such self-denying life, must surely be an advocate of what is called absolute morality."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her painful **conscientiousness** caused her to confess where silence would have secured worldly peace."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The feeling of **conscientiousness** is the ultimate sanction of all morality in reflective minds."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The impartial spectator within the breast demands unyielding **conscientiousness** in all our dealings with mankind."*

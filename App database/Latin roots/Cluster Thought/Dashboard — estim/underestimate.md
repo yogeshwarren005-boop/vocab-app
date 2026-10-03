@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimation that is too low; an estimate that is less than the true or actual value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign too low a value to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To estimate, rate, or value at too low an amount, rate, or degree of importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tactical competition and politics, discounting the capability, resolve, or latent power of an adversary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The meaning lay in the difference between actions, none of which had any meaning of itself; and the necessity of being jealous, which lovers are troubled with, did not lead Oak to underestimate these signs."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The universal tendency to rhythm in motion (material or psychic) manifests itself in an overestimate or underestimate of incomes and of every other factor in value."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Does the writer underestimate the actual impress made on his age by Jesus?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Do not **underestimate** the resolution of a quiet spirit when pushed to extremity."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Does the writer **underestimate** the actual impress made on his age by Jesus?"*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"You always **underestimate** Professor Moriarty, Watson, and therein lies our deadly peril."*

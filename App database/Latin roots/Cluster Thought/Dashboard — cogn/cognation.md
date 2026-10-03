@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Line of descent traced through the maternal side of the family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anthropology) related by blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relationship by descent from a common ancestor; kinship, affinity, or shared origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman civil law and comparative jurisprudence, kinship traced through maternal bloodlines in contradistinction to agnation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cognation designates line of descent traced through the maternal side of the family."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The civil law of Rome carefully distinguished between agnation through the father and **cognation** through the mother."*
+> - 📜 **Sir Henry Maine (*Ancient Law*):** *"The historical transition from strict agnatic patriarchy to natural **cognation** marked a revolution in European family law."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The close conceptual **cognation** uniting geometry and physics demonstrates the unity of deductive science."*

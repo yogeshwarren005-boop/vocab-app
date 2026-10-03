@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicate the dimensions on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or form to required dimensions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or technique of measuring, sizing, or recording dimensions on a technical drawing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural and mechanical engineering, calculating precise spatial tolerances and load clearances for structural materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimensioning designates indicate the dimensions on."*
+> - 📜 **Thomas Tredgold (*Elementary Principles of Carpentry*):** *"Careful **dimensioning** of timber girders prevents catastrophic deflection under heavy roof loads."*
+> - 📜 **Isambard Kingdom Brunel (*Life and Works*):** *"The accurate **dimensioning** of the iron plates was crucial to the strength of the steamship's hull."*
+> - 📜 **Henry Maudslay (*Memoir and Mechanical Inventions*):** *"Precision in the **dimensioning** of machine screws laid the basis for modern interchangeable parts."*

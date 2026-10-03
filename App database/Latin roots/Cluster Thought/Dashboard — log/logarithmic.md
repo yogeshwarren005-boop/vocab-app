@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or using logarithms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or using logarithms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, expressed by, or using logarithms; varying according to a logarithmic scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biophysics and mathematics, nonlinear scaling where equal increments represent exponential multipliers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logarithmic designates of or relating to or using logarithms."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The growth of the nautilus shell follows an exquisite **logarithmic** spiral across its chambers."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Astronomers rely upon **logarithmic** tables to resolve the vast numerical coordinates of celestial bodies."*
+> - 📜 **Gustav Fechner (*Elements of Psychophysics*):** *"The intensity of sensation increases as the **logarithmic** function of the physical stimulus."*

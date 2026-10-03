@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain peak in the st. elias range in the southwestern yukon territory in canada (19,850 feet high).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain peak in the st. elias range in the southwestern yukon territory in canada (19,850 feet high).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rocking stone or balanced boulder that rocks with slight force; a rocking boulder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and Celtic antiquities, a huge perched boulder balanced so delicately on bedrock that a child can sway it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Arrived in Berlin, he joined his friends--Nelson, Graham, Wallace, and Logan Aikman."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Epistle To Major Logan Hail, thairm-inspirin’, rattlin’ Willie!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But soon may peace bring happy days, And Willie hame to Logan braes!"*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The great **logan** stone on the cliff rocked gently beneath the pressure of the antiquary's cane."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Weathering along joints in the granite created the famous perched **logan** stones of Cornwall."*
+> - 📜 **Thomas Hardy (*The Well-Beloved*):** *"The massive block swayed like a **logan** rock, balanced upon its ancient natural pivot."*

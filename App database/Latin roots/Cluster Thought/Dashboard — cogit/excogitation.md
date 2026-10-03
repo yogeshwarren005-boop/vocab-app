@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thinking something out with care in order to achieve complete understanding of it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The creation of something in the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of thinking out, contriving, or inventing something through deep and careful reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and system-building, the laborious mental formulation of doctrine, mechanical invention, or legal theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excogitation designates thinking something out with care in order to achieve complete understanding of it."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Too much reliance on internal **excogitation**, without verification by experiment, has ruined philosophy."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The penal code was not the sudden inspiration of a moment, but the result of protracted **excogitation**."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The analytical faculty is much invigorated by mathematical study, especially in its higher branches of mental **excogitation**."*

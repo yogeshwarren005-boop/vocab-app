@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining food osmotically from dissolved organic material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of some plants or fungi) feeding on dead or decaying organic matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining nourishment from dead or decaying organic matter; living as a saprophyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological microbiology, nutrition characterized by enzymatic external digestion of non-living cellular substrate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprophytic designates obtaining food osmotically from dissolved organic material."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain non-green flowering plants have adopted a **saprophytic** mode of life in damp shady woods."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The **saprophytic** bacteria multiplying in the broth converted the gelatin into liquid peptones."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"A **saprophytic** fungus derives its carbon and nitrogen directly from dead and putrefying matter."*

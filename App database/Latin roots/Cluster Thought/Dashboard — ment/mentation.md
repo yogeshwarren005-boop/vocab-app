@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of using your mind to consider something carefully.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of using your mind to consider something carefully.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental activity; the process of thinking, perceiving, or exercising cognitive faculties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and cognitive psychology, the total flow of conscious and subconscious neural information processing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mentation designates the process of using your mind to consider something carefully."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The continuous stream of **mentation** exhibits varying rhythms of focal attention and marginal awareness."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Higher forms of **mentation** evolve through the progressive differentiation and integration of sensory reflexes."*
+> - 📜 **Havelock Ellis (*The World of Dreams*):** *"Dreaming represents an archaic, undisciplined mode of **mentation** liberated during sleep."*

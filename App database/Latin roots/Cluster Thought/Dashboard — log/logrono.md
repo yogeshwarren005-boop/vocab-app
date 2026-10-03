@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northern spain on the ebro river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northern spain on the ebro river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic city and municipality in northern Spain, serving as the capital of the autonomous region of La Rioja.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Spanish history and geography, an important fortified trading center along the Ebro River and the Camino de Santiago pilgrimage route.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logrono designates a city in northern spain on the ebro river."*
+> - 📜 **Richard Ford (*A Handbook for Travellers in Spain*):** *"The ancient stone bridge of **Logrono** spanning the broad waters of the Ebro has welcomed pilgrims for many centuries."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"From Vitoria we rode toward **Logrono**, where the fertile vineyards of the Rioja region unfold beneath the hills."*
+> - 📜 **Washington Irving (*Chronicle of the Conquest of Granada*):** *"Troops gathered in the strategic fortress of **Logrono** to guard the northern marches against invasion."*

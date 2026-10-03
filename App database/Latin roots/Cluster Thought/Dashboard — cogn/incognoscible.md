@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being perceived or known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being perceived or known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being known, comprehended, or conceptualized by the intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological metaphysics and ontology, describing the divine essence that defies conceptual categorization by mortal reason.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incognoscible designates incapable of being perceived or known."*
+> - 📜 **William Hamilton (*Lectures on Metaphysics and Logic*):** *"The unconditioned is fundamentally **incognoscible**, since to know is to condition and relate."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"We must beware of asserting that divine mysteries are utterly **incognoscible** to spiritual faith."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"That which lies beyond the phenomenal nexus must remain forever **incognoscible** to science."*

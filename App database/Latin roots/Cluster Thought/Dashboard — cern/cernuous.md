@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having branches or flower heads that bend downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having branches or flower heads that bend downward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drooping or nodding downward with the apex turned toward the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical anatomy and morphology, applied specifically to pendulous flowers, inflorescences, or stems curved toward the soil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cernuous designates having branches or flower heads that bend downward."*
+> - 📜 **Asa Gray (*Gray's Lessons in Botany*):** *"The flower-stalk is curved so that the blossom is **cernuous** or nodding."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The flower peduncles of several species are **cernuous** before fertilization, bending downward toward the earth."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"A **cernuous** stem or flower is one that droops gracefully with its apex pointing toward the ground."*

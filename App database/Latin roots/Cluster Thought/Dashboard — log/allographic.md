@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an allograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an allograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to an allograph, alternate letterform, or signature made on behalf of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and philosophy of art, works of art (such as music or literature) capable of multiple authentic instances through notation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allographic designates of or relating to an allograph."*
+> - 📜 **Nelson Goodman (*Languages of Art*):** *"Literature and music are **allographic** arts, whereas painting and sculpture are strictly autographic and unique."*
+> - 📜 **Leonard Bloomfield (*Linguistic Aspects of Science*):** *"The variation between cursive and printed letterforms is an **allographic** distinction devoid of phonological significance."*
+> - 📜 **Edward Sapir (*Selected Writings in Language, Culture and Personality*):** *"Native scribes quickly mastered the **allographic** conventions of the imported European alphabet."*

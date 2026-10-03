@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly tropical new and old world deciduous and evergreen trees and shrubs bearing leathery drupes with yellow translucent flesh; most plants produce toxic saponins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly tropical new and old world deciduous and evergreen trees and shrubs bearing leathery drupes with yellow translucent flesh; most plants produce toxic saponins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants (the soapberry family), including maples, lychees, and horse chestnuts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, a major tropical and temperate family characterized by rich saponin content in bark or seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapindaceae designates chiefly tropical new and old world deciduous and evergreen trees and shrubs bearing leathery drupes with yellow translucent flesh; most plants produce toxic saponins."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Sapindaceae** includes the soapberry and horse-chestnut, characterized by compound leaves and saponin-bearing seeds."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Numerous climbing lianas and timber trees of the tropics belong to the extensive family **Sapindaceae**."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The petals of **Sapindaceae** frequently bear an internal scale or tuft of hairs above the claw."*

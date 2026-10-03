@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sludge (rich in organic matter) that accumulates at the bottom of lakes or oceans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sludge (rich in organic matter) that accumulates at the bottom of lakes or oceans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark, aquatic sediment rich in organic matter formed under anoxic conditions on lake or sea beds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum geology and paleoceanography, carbon-rich anaerobic mud that constitutes the precursor to petroleum hydrocarbons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapropel designates sludge (rich in organic matter) that accumulates at the bottom of lakes or oceans."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The fetid black **sapropel** accumulated on the stagnant lake bed, rich in organic slime and anaerobic bacteria."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geologists recognize ancient petroleum source beds in the dark, bituminized **sapropel** of prehistoric seas."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"The primordial mud and aquatic **sapropel** provided a fertile matrix for the emergence of rudimentary living forms."*

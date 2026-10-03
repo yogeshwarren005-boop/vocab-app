@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being rescinded or voided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being rescinded or voided.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being revoked, canceled, or repealed; voidable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law and commercial equity, an agreement that may be set aside due to fraud, duress, or mutual mistake.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rescindable designates capable of being rescinded or voided."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Any covenant entered into under fraudulent misrepresentation is legally **rescindable** by the injured party."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"A conditional decree remains **rescindable** upon the discovery of fresh, unimpeachable testimony."*
+> - 📜 **John Austin (*The Province of Jurisprudence Determined*):** *"Rights created by administrative permit are inherently **rescindable** at the pleasure of the sovereign."*

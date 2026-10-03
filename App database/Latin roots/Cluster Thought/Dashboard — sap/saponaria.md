@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly perennial old world herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly perennial old world herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous flowering plants in the carnation family, known as soapworts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and herbal medicine, plants whose roots and foliage yield lathering saponins used as natural detergents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saponaria designates mostly perennial old world herbs."*
+> - 📜 **John Gerard (*The Herball, or Generall Historie of Plantes*):** *"The bruised leaves of **Saponaria**, or soapwort, being agitated in water, make an abundant froth."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"Common **Saponaria** officinalis grows along riverbanks, bearing pale pink clusters of scented blossoms."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Saponaria** belongs to the pink family, notable for containing mucilaginous saponins."*

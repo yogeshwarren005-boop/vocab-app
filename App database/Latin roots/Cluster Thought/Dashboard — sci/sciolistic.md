@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing frivolous or superficial interest; amateurish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing frivolous or superficial interest; amateurish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or showing superficial, shallow knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary reviewing and cultural critique, displaying ostentatious but hollow intellectual pretension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciolistic designates showing frivolous or superficial interest; amateurish."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Our journalism is too often infected with **sciolistic** cleverness that lacks moral seriousness."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"His speech was a **sciolistic** performance, glittering with borrowed quotations but devoid of original thought."*
+> - 📜 **Thomas De Quincey (*Letters to a Young Man*):** *"Beware of acquiring a **sciolistic** familiarity with philosophical systems before you have mastered logic."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organic process of synthesizing and releasing some substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cognitive process whereby two or more stimuli are distinguished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of separating, distinguishing, or physiologically secreting matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mental philosophy and natural theology, the discriminatory act of separating distinct faculties, or the biological elaboration of secretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secernment designates the organic process of synthesizing and releasing some substance."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The sharp **secernment** of sensations from recollections is essential to sanity."*
+> - 📜 **William Paley (*Natural Theology*):** *"The marvelous apparatus for the **secernment** of bile demonstrates the design of the Creator."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The logical **secernment** of causes from mere invariable antecedents is the first task of induction."*

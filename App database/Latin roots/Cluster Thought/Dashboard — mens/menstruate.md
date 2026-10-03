@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo menstruation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo menstruation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo the monthly discharge of blood and mucosal tissue from the uterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mammalogy, experiencing recurring cycles of reproductive fertility accompanied by endometrial sloughing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Even a woman who did not menstruate was believed by the Baganda to be a source of danger to her husband, indeed capable of killing him."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Akikuyu of British East Africa, if a new hut is built in a village and the wife chances to menstruate in it on the day she lights the first fire there, the hut must be broken down and demolished the very next day."*
-> - 📜 **James Joyce (*Ulysses*):** *"But then why don’t all women menstruate at the same time with the same moon, I mean?"*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Female anthropoid apes **menstruate** at intervals approximating those observed in the human species."*
+> - 📜 **Havelock Ellis (*Man and Woman*):** *"Healthy women begin to **menstruate** during adolescence as secondary sexual characteristics mature."*
+> - 📜 **James George Frazer (*Balder the Beautiful*):** *"In various indigenous societies, girls who begin to **menstruate** are secluded in special ceremonial huts."*

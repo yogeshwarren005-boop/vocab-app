@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect brightly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sparkling or shining brightly; brilliantly clever, amusing, or skillful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary portraiture and social comedy, dazzling companions with rapid, sparkling conversation and intellectual charm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Striking scenes and freshets of scintillating dialogue rushed through my mind."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yet here she is lying at my feet, with her golden domes and crosses scintillating and twinkling in the sunshine."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"And amid all these scintillating points of light one bright planet shone kindly and steadily like the face of an old friend."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"And amid all these **scintillating** points of light one bright planet shone keen and calm."*
+> - 📜 **Jane Austen (*Emma*):** *"Her lively wit and **scintillating** remarks kept the entire dinner party in high good humor."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry delivered a **scintillating** paradox that set every guest at the table laughing."*

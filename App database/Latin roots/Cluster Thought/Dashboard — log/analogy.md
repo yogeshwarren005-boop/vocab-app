@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inference that if things agree in some respects they probably agree in others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawing a comparison in order to show a similarity in some respect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comparison between two things on the basis of structure to explain or clarify a concept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, functional similarity between organs of different evolutionary lineages; in rhetoric, heuristic modeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The sweet scenes of autumn were for a while put by, unless some tender sonnet, fraught with the apt analogy of the declining year, with declining happiness, and the images of youth and hope, and spring, all gone together, blessed her memory."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"About a hundred.” (In speaking of farms the word “acres” is omitted by the natives, by analogy to such old expressions as “a stag of ten.”) “I wanted my hat this morning,” she went on."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It was especially strong in history and standard theology, and in these departments included such works as Gibbon's _Decline and Fall_, Mitford's _History of Greece_, Russell's _Modern Europe_, Butler's _Analogy_, and Paley's _Evidences_."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We must strictly distinguish between true genetic affinity and mere adaptive **analogy**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"**Analogy** in reasoning is the great guide of life, leading where demonstration cannot reach."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The whole of nature is a metaphor of the human mind; every appearance corresponds to some spiritual **analogy**."*

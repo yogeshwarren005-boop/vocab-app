@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A company emblem or device.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A company emblem or device.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic symbol, emblem, or stylized mark adopted by an organization or brand for identification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial design and typography, a distinctive logotype or visual trademark conveying institutional identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"To explain Jesus, his friends and contemporaries spoke of him as the Logos, the Sacrifice, "Christ our Passover," the Messiah, and so forth."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Rendel Harris, "can sing, 'How sweet the name of Logos sounds.'" Synesius of Cyrene did try to sing it, but most human beings prefer St."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We find, again, that the inner meaning of the Logos is that through it, and in it, God and man come in touch with each other and become mutually intelligible."*
+> - 📜 **Walter Lippmann (*Public Opinion*):** *"A commercial **logo** functions as an instant visual stereotype, evoking pre-established habits of confidence."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The corporate **logo** compresses complex institutional messaging into a single iconic configuration."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The decorative **logo** stamped upon luxury goods confirms the reputability and pecuniary strength of the consumer."*

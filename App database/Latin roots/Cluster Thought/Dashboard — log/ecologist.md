@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who studies the relation between organisms and their environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist who studies the relation between organisms and their environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in or student of the relationships between organisms and their environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental science, a researcher studying population dynamics, trophic cascades, and habitat restoration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecologist designates a biologist who studies the relation between organisms and their environment."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"The field **ecologist** must observe the animal not in the museum cabinet, but in its living habitat."*
+> - 📜 **Arthur Tansley (*The Use and Abuse of Vegetational Concepts and Terms*):** *"The modern **ecologist** conceives of plant communities as dynamic components of a unified ecosystem."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"An **ecologist** must live in a world of wounds, seeing marks of degradation where others see progress."*

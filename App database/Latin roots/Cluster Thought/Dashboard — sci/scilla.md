@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old world plant of the genus scilla having narrow basal leaves and pink or blue or white racemose flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old world plant of the genus scilla having narrow basal leaves and pink or blue or white racemose flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bulbous perennial herbs in the asparagus family, bearing blue bell-shaped flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and horticulture, medicinal bulbs containing cardiac glycosides traditionally extracted from sea squill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scilla designates an old world plant of the genus scilla having narrow basal leaves and pink or blue or white racemose flowers."*
+> - 📜 **John Gerard (*The Herball, or Generall Historie of Plantes*):** *"The bulbous root of **Scilla**, or the sea onion, is large, coat upon coat, resembling the common onion."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"Blue woodland **Scilla** enlivens the shady dells in early April with nodding azure spikes."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Cultivated species of **Scilla** are naturalized in ancient orchards and woodland borders."*

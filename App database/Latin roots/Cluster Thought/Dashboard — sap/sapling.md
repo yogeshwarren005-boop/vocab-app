@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Young tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Young tree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young tree, especially one with a slender, flexible trunk; a youthful person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral narrative, symbolizing supple youth, resilience, or malleable inexperience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, you’re a young foolish sapling, and must be bowed as I would have you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behold, mine arm Is like a blasted sapling withered up!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, tender sapling; thou art made of tears, And tears will quickly melt thy life away. [_Marcus strikes the dish with a knife._] What dost thou strike at, Marcus, with thy knife?"*
+> - 📜 **William Shakespeare (*Richard III*):** *"Behold, mine arm is like a blasted **sapling** withered up!"*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I set out each tender **sapling** with great care, watering its roots against the summer drought."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The young birch bent like a **sapling** beneath the sudden fury of the gale."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judge incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calculate incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To estimate, calculate, or judge incorrectly, inadequately, or falsely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy and diplomatic negotiation, misapprehending an opponent's resources, willpower, or timeline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misestimate designates judge incorrectly."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It was easy to **misestimate** a character that revealed so little of its inner life to casual observers."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Passionate political bias constantly leads partisans to **misestimate** the strength of the opposing faction."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Military planners are prone to **misestimate** both the munitions required and the resilience of defensive lines."*

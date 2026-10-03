@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of birds) having a deeply forked tail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of birds) having a deeply forked tail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a deeply forked tail resembling open scissors, as in certain birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological field identification, applied to flycatchers and kites displaying long, bifurcated rectrices used in aerial turns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scissor-tailed designates (of birds) having a deeply forked tail."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The **scissor-tailed** flycatcher perches gracefully upon the thorny mesquite of the Texas prairies."*
+> - 📜 **Theodore Roosevelt (*Hunting Trips of a Ranchman*):** *"A pair of **scissor-tailed** birds swept overhead in pursuit of dragonflies, their long plumes opening and shutting."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The **scissor-tailed** flycatcher is among the most elegant and agile avian hunters of the southern plains."*

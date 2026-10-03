@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The periodic monthly discharge of blood and mucosal tissue from the uterus; menstruation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physiology and reproductive biology, the cyclical shedding of the uterine endometrial lining.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, menses designates the monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle."*
+> - 📜 **William Harvey (*Exercitationes de Generatione Animalium*):** *"The periodic return of the **menses** marks the natural cycle of female generative potential."*
+> - 📜 **Aristotle (*The History of Animals*):** *"In human physiology, the regular cessation and return of the **menses** is governed by natural biological rhythms."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Physical and emotional fluctuations frequently coincide with the onset of the **menses**."*

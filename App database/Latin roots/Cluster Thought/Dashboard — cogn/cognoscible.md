@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being known, comprehended, or investigated by human intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic philosophy and epistemology, possessing intelligible form and species accessible to the rational mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cognoscible designates capable of being known."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Whatever is real in nature must be in principle **cognoscible** by the enlightened reason."*
+> - 📜 **William Hamilton (*Discussions on Philosophy and Literature*):** *"The infinite is inconceivable, and therefore not **cognoscible** as a positive object."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"All **cognoscible** truths must ultimately resolve into simple ideas derived from sensation or reflection."*

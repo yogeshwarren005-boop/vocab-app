@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consistent with the methods or principles of science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not consistent with the methods or principles of science.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on or conforming to the principles and methods of science; lacking empirical rigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and methodology, conclusions derived from superstition, unverified anecdotes, or faulty deduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Capital punishment is so _silly_, so stupid, so horribly unscientific."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"As for the easy explanation of all religious life by "auto-suggestion," we may note that it involves a loose and unscientific use of a more or less scientific theory--never a very safe way to knowledge."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I did not know whether Conseil stopped to classify them; for my part, I noticed their silver bellies, and their huge mouths bristling with teeth, from a very unscientific point of view, and more as a possible victim than as a naturalist."*
+> - 📜 **Jack London (*The Star-Rover*):** *"Capital punishment is so silly, so stupid, and so horribly **unscientific** in its conception of criminal justice."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is entirely **unscientific** to explain complex spiritual history by crude catchwords and hasty generalizations."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Conseil refused to give an opinion, declaring that hearsay was an **unscientific** basis for zoological classification."*

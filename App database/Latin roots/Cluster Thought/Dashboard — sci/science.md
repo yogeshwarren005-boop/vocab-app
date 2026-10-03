@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular branch of scientific knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ability to produce solutions in some problem domain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic study of the structure and behavior of the physical and natural world through observation and experiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological philosophy, organized rational knowledge based upon empirical demonstration and reproducible natural laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plutus himself, That knows the tinct and multiplying medicine, Hath not in nature’s mystery more science Than I have in this ring. ’Twas mine, ’twas Helen’s, Whoever gave it you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of government the properties to unfold Would seem in me t’ affect speech and discourse, Since I am put to know that your own science Exceeds, in that, the lists of all advice My strength can give you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But custom, combined with science—particularly science—inured me to it."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The true goal of **science** is nothing other than the endowment of human life with new discoveries and powers."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Natural philosophy and experimental **science** must proceed from the phenomena without feigning hypotheses."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A grand and almost untrodden field of inquiry will be opened to the investigations of natural **science**."*

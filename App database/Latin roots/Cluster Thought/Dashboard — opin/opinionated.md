@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinate in your opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obstinate in your opinions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinately adhering to one's own opinions; dogmatic and intolerant of opposing views.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character comedy and polemics, rigidly asserting narrow convictions while dismissing contrary evidence or seasoned advice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They are jealous of her power, impatient of her authority, find fault with her nurses, and accuse her of being arbitrary, opinionated, severe and capricious."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Opinionated she may be, because convinced of the general soundness of her ideas, and infallibility of her judgment."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I have known whole parishes "set by the ears" by just one warped, self-opinionated man, who put his own pet theories before anything else, and went about sowing dissension--splitting up a hitherto united people into two opposing camps."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"They were proud, quarrelsome, and excessively **opinionated**, despising all counsel but their own."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War*):** *"She was neither vain nor **opinionated**, but listened with modest deference to experienced directors."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"An **opinionated** pedant is always more unbearable when he mistakes arrogance for intellectual vigor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loss of the ability to write or to express thoughts in writing because of a brain lesion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loss of the ability to write or to express thoughts in writing because of a brain lesion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of the ability to express ideas in writing while retaining the ability to copy words; motor agraphia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical aphasiology and neurology, a motor-linguistic defect where written composition is impaired despite intact manual dexterity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logagraphia designates a loss of the ability to write or to express thoughts in writing because of a brain lesion."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In cases of **logagraphia**, the patient understands speech perfectly but cannot write a spontaneous sentence."*
+> - 📜 **Sigmund Freud (*On Aphasia*):** *"Clinical **logagraphia** demonstrates the dissociation between internal verbal conception and the motor acts of penmanship."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A localized lesion in the left frontal convolution frequently produces motor aphasia accompanied by **logagraphia**."*

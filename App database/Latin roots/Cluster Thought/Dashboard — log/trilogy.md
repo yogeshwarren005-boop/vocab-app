@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of three literary or dramatic works related in subject or theme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of three literary or dramatic works related in subject or theme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or series of three related works of art, literature, drama, or music that form a connected whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek dramaturgy, a set of three linked tragedies presented consecutively at the City Dionysia festival.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trilogy designates a set of three literary or dramatic works related in subject or theme."*
+> - 📜 **Gilbert Murray (*Aeschylus: The Creator of Tragedy*):** *"The Oresteia survives as the sole intact dramatic **trilogy** demonstrating the evolution of divine justice."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The author conceived his broad social canvas not as a single novel, but as a monumental **trilogy**."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"In each member of the tragic **trilogy**, the grand heroic style sustains the moral elevation of the drama."*

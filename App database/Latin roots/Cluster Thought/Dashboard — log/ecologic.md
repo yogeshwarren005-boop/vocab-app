@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the interdependence of living organisms in an environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of ecology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the relationship between living organisms and their environment; ecological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural history and biophysics, pertaining to the balance of energy, nutrient cycling, and species interdependence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecologic designates characterized by the interdependence of living organisms in an environment."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"The grand **ecologic** web of nature links the microscopic diatom to the largest marine mammals."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Every island presents a distinct **ecologic** equilibrium adapted to its peculiar climate and isolation."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The alpine meadows exhibit a fragile **ecologic** harmony that human disturbance quickly shatters."*

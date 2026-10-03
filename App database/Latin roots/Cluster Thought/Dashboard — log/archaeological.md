@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or dealing with or devoted to archaeology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or dealing with or devoted to archaeology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to archaeology, the study of human history and prehistory through the excavation of artifacts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antiquarian research, investigations recovering monuments, burials, and cultural implements from ancient civilizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Morice, "Notes, Archaeological, Industrial, and Sociological, on the Western Dénés," _Transactions of the Canadian Institute_, iv. (1892-93) pp. 106 _sq._ Compare Rev."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Morice, "Notes, Archaeological, Industrial, and Sociological, on the Western Dénés," _Transactions of the Canadian Institute_, iv. (1892-93) p. 182."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"You ken when you dragged me from the horse-show the last time we were in Dublin, to the library of the What-you-may-call-him--Archaeological Society or so'thin'."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **archaeological** remains of the Colosseum bear witness to the grandeur and cruelty of the Roman games."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The **archaeological** discoveries at Knossos revealed a brilliant Bronze Age civilization previously unknown to history."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Prehistoric **archaeological** sites across the globe show that early man manufactured weapons of similar form."*

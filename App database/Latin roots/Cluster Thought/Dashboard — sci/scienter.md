@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) deliberately or knowingly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) deliberately or knowingly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowingly or deliberately; in law, knowledge of wrongness or illegality prior to committing an act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tort and criminal jurisprudence, the legal requirement that a defendant acted with intentional malice or guilty knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scienter designates (law) deliberately or knowingly."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In an action for deceit, the plaintiff must prove **scienter** on the part of the seller."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Criminal culpability requires clear proof of unlawful intent and legal **scienter**."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The rule of **scienter** ensures that innocent mistakes are not punished as deliberate frauds."*

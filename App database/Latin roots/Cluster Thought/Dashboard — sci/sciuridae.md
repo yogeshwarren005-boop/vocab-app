@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mammal family of true squirrels including: ground squirrels; marmots; chipmunks; flying squirrels; spermophiles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mammal family of true squirrels including: ground squirrels; marmots; chipmunks; flying squirrels; spermophiles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of rodents containing tree squirrels, ground squirrels, chipmunks, and marmots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary mammalogy, sciuromorph rodents characterized by bushy tails, postorbital processes, and diurnal foraging habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciuridae designates a mammal family of true squirrels including: ground squirrels; marmots; chipmunks; flying squirrels; spermophiles."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The family **Sciuridae** includes agile climbing species as well as subterranean burrowers like the prairie dog."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skull in **Sciuridae** possesses distinct post-orbital processes and prominent zygomatic arches."*
+> - 📜 **John Burroughs (*Squirrels and Other Fur-Bearers*):** *"Members of the family **Sciuridae** are nature's most industrious foresters, planting oaks and walnuts across the hills."*

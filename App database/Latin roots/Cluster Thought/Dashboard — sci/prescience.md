@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to foresee the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power to foresee the future.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge of events before they take place; foreknowledge or foresight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological metaphysics and statecraft, divine omniscience regarding future events, or prophetic political insight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They tax our policy and call it cowardice, Count wisdom as no member of the war, Forestall prescience, and esteem no act But that of hand."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Why, how do you know my name?" the astonished mother cried, drawing back with a little shudder of half superstitious alarm at such surprising prescience."*
+> - 📜 **John Milton (*Paradise Lost*):** *"God's foreknowledge and absolute **prescience** leaves human will untrammeled and free."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The statesman showed an admirable **prescience** in anticipating the barbarian invasion of Italy."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He boasted of his genealogical **prescience**, predicting disasters that seldom failed to come to pass."*

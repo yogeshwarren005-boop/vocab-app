@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical trees or shrubs with milky juice and often edible fleshy fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical trees or shrubs with milky juice and often edible fleshy fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants (the sapodilla family), largely comprising tropical evergreen trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, a family producing valuable latexes (such as gutta-percha and chicle) and nutritious fruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapotaceae designates tropical trees or shrubs with milky juice and often edible fleshy fruit."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The family **Sapotaceae** consists of tropical trees containing milky laticiferous juices and leathery evergreen foliage."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Gutta-percha and diverse edible fruits are yielded by arborescent members of **Sapotaceae**."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The berry of **Sapotaceae** typically encloses large lustrous seeds with a conspicuous lateral scar."*

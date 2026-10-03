@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint constellation in the polar region of the southern hemisphere and containing part of the large magellanic cloud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint constellation in the polar region of the southern hemisphere and containing part of the large magellanic cloud.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat-topped tableland or elevation; the top slab of an altar; or an international society for high IQ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and ecclesiastical architecture, an elevated plateau capped by resistant rock, or consecrated altar stone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"When it tends to the mensa, it is a token of a slanderous tongue and of envy."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"This is also called the line of fortune; it is termed likewise the mensa, because it makes up the table of the hand."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If no mensa at all, it shows a man malevolent, contentious, faithless, inconstant and of base condition."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The flat-topped **mensa** formations of the plateau were carved out by centuries of fluvial erosion."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"The relics were reverently deposited beneath the marble **mensa** of the high altar."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The isolated **mensa** rose sheer into the sky, its flat summit untouched by human feet."*

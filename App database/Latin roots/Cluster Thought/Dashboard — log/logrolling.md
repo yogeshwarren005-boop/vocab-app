@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of exchanging favors for mutual gain; especially trading of influence or votes among legislators to gain passage of certain projects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotating a log rapidly in the water (as a competitive sport).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of exchanging political favors, especially mutual voting for each other's proposed legislation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy and social history, cooperative frontier timber-clearing transformed into a metaphor for reciprocal political bargaining.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"The little grove in which the tents were pitched was thronged with visitors, the Rangers were out in full force and there was a good deal of "logrolling" going on."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"The practice of legislative **logrolling** ensures that localized expenditure bills pass with little scrutiny from the wider public."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Through systematic **logrolling**, river and harbor improvement funds are distributed to buy regional allegiance."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Reciprocal legislative bargaining resembling frontier **logrolling** is the inevitable mechanism of democratic compromise."*

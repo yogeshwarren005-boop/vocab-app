@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long narrow opening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long narrow opening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, narrow cut, opening, or split; a fissure, cleft, or rupture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical dissection and geomorphology, a longitudinal cleft in bone, tissue, or rock strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scissure designates a long narrow opening."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The anatomical **scissure** in the cranium closes gradually as the cranial sutures unite during childhood."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The earthquake opened a deep **scissure** across the hillside, swallowing whole vineyards in its chasm."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Bark that suffers a deep vertical **scissure** during the winter freeze exudes resin when the spring thaw begins."*

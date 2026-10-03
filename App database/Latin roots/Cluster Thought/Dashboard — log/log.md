@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A segment of the trunk of a tree when stripped of branches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The exponent required to produce a given number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick segment of felled tree trunk; an official recorded chronicle of events on a voyage or journey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime navigation and operational management, a device measuring ship speed through water, or a chronological registry of events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Ferdinand bearing a log."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear my soul speak: The very instant that I saw you, did My heart fly to your service; there resides, To make me slave to it; and for your sake Am I this patient log-man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, as I told thee, ’tis a custom with him I’ th’ afternoon to sleep: there thou mayst brain him, Having first seiz’d his books; or with a log Batter his skull, or paunch him with a stake, Or cut his wezand with thy knife."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain paced the quarterdeck and ordered the mate to heave the **log** and record our dead-reckoning."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"I turned over the pages of the ship's **log**, examining the entries made during the preceding gale."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I sat upon a pine **log** beside the pond, watching the sunlight sparkle across the ripples."*

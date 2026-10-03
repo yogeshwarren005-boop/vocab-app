@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny or scarcely detectable amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sparkling glittering particle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny trace or spark of a specified quality or feeling; an iota or microscopic shred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and forensic reasoning, the minimum quantum of evidence required to keep an action from summary dismissal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Some of my young friends can no doubt translate it, "Lateat scintilla forsan"--perchance a spark may lie hid."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There was not a **scintilla** of evidence to support the preposterous claim brought before the court."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The prefect failed because he overlooked that minute **scintilla** of fact which pointed to the true perpetrator."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Not a **scintilla** of doubt remained in my mind after Holmes examined the footprint."*

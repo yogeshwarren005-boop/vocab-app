@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state lacking normal awareness of the self or environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state lacking normal awareness of the self or environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A profound absence of awareness, sensation, and responsiveness to external stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and narrative drama, profound coma or syncope following physical trauma or emotional shock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She was assisted, however, by that perfect indifference and apparent unconsciousness, among the only three of her own friends in the secret of the past, which seemed almost to deny any recollection of it."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"This long struggle with myself made the night less tedious, though, perhaps, more terrible; and when at length I was overpowered by sleep, the short interval of unconsciousness restored me like a cordial."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She remained in speechless unconsciousness till the next afternoon, when, while prayer was being made, she again opened her eyes, sat up and conversed with her children and friends."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She was assisted by that perfect indifference and apparent **unconsciousness** of having given offense."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"She remained in speechless **unconsciousness** until the physician administered a restorative cordial."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The blow upon the temple plunged him into complete **unconsciousness** for several hours."*

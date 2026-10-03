@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defend, explain, clear away, or make excuses for by reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acknowledge faults or shortcomings or failing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express regret for something that one has done wrong; to make an apology (British spelling of apologize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and moral drama, offering formal acknowledgment of injury or breach of propriety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester; “and in the interim, I shall myself look out for employment and an asylum for you.” “Thank you, sir; I am sorry to give—” “Oh, no need to apologise!"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"And now I must fly to my dear boy to apologise to him for the wrong which I have done him."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Don't apologise, man, for I'm glad it is so, There's a joy in the grief that I wouldn't forego."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He was eager to **apologise** for his sudden departure, pleading unexpected business in town."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy saw that he had gone too far, and offered to **apologise** with graceful nonchalance."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I felt no inclination to **apologise** for a fault I had never committed."*

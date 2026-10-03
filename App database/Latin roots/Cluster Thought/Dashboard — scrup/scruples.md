@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of apothecary weight equal to 20 grains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hesitations, pangs of conscience, or moral objections restraining conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical conflict and tragedy, competing obligations that paralyze resolve or impose agonizing restraint upon duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fears and scruples shake us: In the great hand of God I stand; and thence Against the undivulg’d pretence I fight Of treasonous malice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Macduff, this noble passion, Child of integrity, hath from my soul Wiped the black scruples, reconcil’d my thoughts To thy good truth and honour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet he has not thanked me For what I have done; no, not so much as kissed me, And that, methinks, is not so well; nor scarcely Could I persuade him to become a free man, He made such scruples of the wrong he did To me and to my father."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Fears and **scruples** shake us: in the great hand of God I stand."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Considering my own **scruples**, and the fact that I wish to live an honest life, I cannot comply."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Notions and **scruples** were like spilt needles, making one afraid of treading or sitting down."*

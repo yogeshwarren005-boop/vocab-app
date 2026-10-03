@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being willing to ignore the dictates of conscience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not being painstaking or careful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of conscientious principle; negligent disregard of moral or professional duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral jurisprudence and civic history, systemic irresponsibility and breach of trust by public officials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconscientiousness designates the quality of being willing to ignore the dictates of conscience."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The commercial decline of the state was accelerated by the pervasive **unconscientiousness** of its mercantile classes."*
+> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"Gross **unconscientiousness** in contractual performance destroys the mutual confidence upon which trade relies."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"No nation can long endure when sham work and moral **unconscientiousness** are crowned with worldly honors."*

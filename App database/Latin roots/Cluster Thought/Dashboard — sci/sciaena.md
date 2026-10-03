@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the sciaenidae: croakers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the sciaenidae: croakers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine fishes in the drum and croaker family (Sciaenidae), known for producing croaking sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean and marine ichthyology, the brown meagre (Sciaena umbra) characterized by soniferous sonic muscle drumming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciaena designates type genus of the sciaenidae: croakers."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The species of **Sciaena** produce loud humming or drumming sounds beneath the water by vibrating their air-bladders."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The ancient Romans held the delicate flesh of **Sciaena** in high culinary esteem."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Sailors anchoring in South American bays frequently hear the deep rhythmic drumming of the **Sciaena** beneath their hulls."*

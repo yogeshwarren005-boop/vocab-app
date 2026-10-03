@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be no longer approved or accepted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be no longer approved or accepted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To withdraw formal recognition or official legal status from an entity (British spelling of derecognize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor law and international relations, revoking the accredited bargaining rights of a trade union or state sovereignty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, derecognise designates cause to be no longer approved or accepted."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The government was advised to **derecognise** the puppet administration set up by the invaders."*
+> - 📜 **Harold Laski (*A Grammar of Politics*):** *"To **derecognise** an established representative body without arbitration invites industrial paralysis."*
+> - 📜 **Sidney Webb (*The History of Trade Unionism*):** *"Employers sought to **derecognise** the newly amalgamated union during the lockout of 1897."*

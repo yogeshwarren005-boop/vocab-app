@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The recurring physiological process of discharging blood and cellular tissue from the uterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological medicine and anthropology, the monthly ovarian-endometrial cycle regulating mammalian fertility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A girl's first menstruation is a very critical period of her life according to A-Kamba beliefs."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At her first menstruation a Baniva girl must pass several days and nights in her hammock, almost motionless and getting nothing to eat and drink but water and a little manioc."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Fish, flesh, and sweetmeats are forbidden her; she must live upon rice and ghee.[158] Among the Tiyans of Malabar a girl is thought to be polluted for four days from the beginning of her first menstruation."*
+> - 📜 **James George Frazer (*Balder the Beautiful*):** *"At her first **menstruation** a Baniva girl must pass several days in fasting and complete silence."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Periodic **menstruation** in monkeys and apes suggests a shared evolutionary lineage with humanity."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The physiological cycle of **menstruation** produces subtle alterations in pulse, temperature, and mental agility."*

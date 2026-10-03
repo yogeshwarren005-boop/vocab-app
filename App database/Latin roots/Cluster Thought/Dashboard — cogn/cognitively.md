@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to cognition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to cognition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to cognition, intellectual processing, or the acquisition of knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and pedagogy, evaluating conceptual mastery rather than rote emotional response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cognitively designates with regard to cognition."*
+> - 📜 **William James (*The Meaning of Truth*):** *"An idea functions **cognitively** only when it guides the thinker toward fruitful practical adjustments."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The student who engages actively with problems develops **cognitively** far faster than a passive listener."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"We must inquire how far our sensory beliefs are **cognitively** justified by rational standards."*

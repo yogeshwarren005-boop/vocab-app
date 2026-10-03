@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conscientious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conscientious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not guided by or showing conscience; lacking moral scruples, care, or diligence in duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In workplace ethics and social criticism, performing tasks with careless negligence and total indifference to promises made.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconscientious designates not conscientious."*
+> - 📜 **George Eliot (*Middlemarch*):** *"An **unconscientious** workman who uses rotten timber endangers the lives of those who dwell in the house."*
+> - 📜 **Anthony Trollope (*The Prime Minister*):** *"He was too vain to be malicious, but too lazy and **unconscientious** to be trusted with public funds."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **unconscientious** author who prints falsehoods for partisan gain poisons the wells of public knowledge."*

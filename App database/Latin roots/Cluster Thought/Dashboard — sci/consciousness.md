@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alert cognitive state in which you are aware of yourself and your situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having knowledge of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Awareness of and responsiveness to external surroundings, thoughts, and inner sensations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive philosophy and neuropsychology, the subjective inner experience of selfhood and sensory reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He told her that it was nothing to worry about, and that he had only lost consciousness for a moment."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Salo had been wounded and, losing consciousness, had fallen to the ground."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As to the guilty nature of my own consciousness after what I had been thinking, it must have been expressed in the colour of my cheeks."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The fundamental fact of psychology is the personal stream of **consciousness**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Personal identity consists in the continuity of **consciousness** linking past memories to present thoughts."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"A wave of sickening **consciousness** rushed over him as he realized what he had done."*

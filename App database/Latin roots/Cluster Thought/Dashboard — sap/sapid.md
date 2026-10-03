@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of flavor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of flavor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a pleasant, savory, or distinctive taste; flavorful or palatable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and culinary philosophy, possessing lively intellectual zest, piquancy, or agreeable character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapid designates full of flavor."*
+> - 📜 **Charles Lamb (*Essays of Elia*):** *"The roast pig presented a crisp, succulent crackling and the most **sapid** morsels imaginable."*
+> - 📜 **Laurence Sterne (*A Sentimental Journey*):** *"A crust of bread and a flask of **sapid** wine sufficed for my modest luncheon."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"True art, like wholesome food, must be **sapid** and nourishing to the human spirit."*

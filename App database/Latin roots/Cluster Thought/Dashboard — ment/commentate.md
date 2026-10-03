@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a commentary on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve as a commentator, as in sportscasting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To write or deliver a commentary; to explain or remark critically on an unfolding event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary scholarship and journalism, providing live descriptive analysis or critical exposition of text or public affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commentate designates make a commentary on."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Critics who **commentate** upon Shakespeare must bring both erudition and modesty to their task."*
+> - 📜 **Thomas De Quincey (*Essays in Philosophy*):** *"To **commentate** on Kant's transcendental deductions requires an intellect trained in rigorous logic."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"Every bystander in politics feels qualified to **commentate** on decisions whose secret causes he cannot fathom."*

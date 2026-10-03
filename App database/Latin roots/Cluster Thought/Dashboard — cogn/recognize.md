@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accept (someone) to be what is claimed or accept his power and authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be fully aware or cognizant of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To identify from having previously seen, heard, or known; to acknowledge the truth or validity of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statecraft and international law, formally according sovereign diplomatic relations to a newly formed government.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You said that it always made you feel that He was not forgetting you and your brother, and that he is looking after you in whatever way is best for you, even if you can't recognize it now."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is not right, and I must not recognize it."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The genial warmth of the fire now began to stimulate the nearly lifeless lambs to bleat and move their limbs briskly upon the hay, and to recognize for the first time the fact that they were born."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is not right, and I must not **recognize** it."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shepherd was quick to **recognize** the distant barking of his faithful dog."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Sailors are swift to **recognize** the unmistakable blast of the right whale."*

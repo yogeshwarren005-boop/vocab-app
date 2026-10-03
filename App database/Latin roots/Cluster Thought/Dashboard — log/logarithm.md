@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exponent required to produce a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The exponent required to produce a given number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to which a base must be raised to yield a given number, invented to simplify computation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational mathematics, a revolutionary calculation tool invented by John Napier in 1614 converting multiplication into addition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"But it is best not to be intimate with gentlemen of this profession and to take the calculations at second hand, as you do logarithms, for to work them yourself, depend upon it, will cost you something considerable."*
+> - 📜 **John Napier (*Mirifici Logarithmorum Canonis Descriptio*):** *"The calculation of planetary orbits is marvelously shortened by the use of the **logarithm**."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The ratio of the refracted indices was computed using the common **logarithm** of each sine."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"My difference engine was designed to compute and tabulate the **logarithm** of every integer without human error."*

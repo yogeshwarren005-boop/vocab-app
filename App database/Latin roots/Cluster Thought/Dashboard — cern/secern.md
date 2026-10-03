@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark as different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark as different.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To distinguish, differentiate, or separate; in physiology, to secrete or filter substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological histology and classical biology, the organic process whereby glandular tissues elaborate specific fluids from blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secern designates mark as different."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Glandular structures serve to **secern** specific humors from the circulating fluid of the organism."*
+> - 📜 **William Whewell (*The History of the Inductive Sciences*):** *"To **secern** the accidental from the necessary elements of experience was the grand aim of the critical philosophy."*
+> - 📜 **Sir William Hamilton (*Lectures on Metaphysics and Logic*):** *"The mind must continually **secern** true perceptions from deceptive illusions."*

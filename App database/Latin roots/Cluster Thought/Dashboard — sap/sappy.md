@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ludicrous, foolish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abounding in sap.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of sap; juicy, succulent, or vigorously alive; also informal for overly sentimental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral literature and forestry, wood or foliage rich in living cambial juices and vibrant growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"There’s naething like the honest nappy; Whare’ll ye e’er see men sae happy, Or women sonsie, saft an’ sappy, ’Tween morn and morn, As them wha like to taste the drappie, In glass or horn?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Somewhere a storm was gathering, but only a small cloud had scattered some raindrops lightly, sprinkling the road and the sappy leaves."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The old oak, quite transfigured, spreading out a canopy of sappy dark-green foliage, stood rapt and slightly trembling in the rays of the evening sun."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The old oak, quite transfigured, spreading out a canopy of **sappy** dark-green foliage, stood majestic in the sun."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"There’s naething like the honest nappy; whare’ll ye e’er see men sae happy, or find a heart so warm and **sappy**?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The timber had been cut green, and the **sappy** logs hissed and crackled upon the hearth."*

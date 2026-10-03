@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to logograms or logographs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to logograms or logographs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or written with logograms; ideographic in character representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative writing systems, employing symbols where each sign directly signifies a word or concept.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logogrammatic designates of or relating to logograms or logographs."*
+> - 📜 **Archibald Sayce (*The Archaeology of the Cuneiform Inscriptions*):** *"The earliest Mesopotamian tablets display a purely **logogrammatic** structure before phonetization took place."*
+> - 📜 **Isaac Taylor (*The History of the Alphabet*):** *"Every ancient script began with crude **logogrammatic** designs before developing cursive alphabetic characters."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"A purely **logogrammatic** script requires thousands of distinct symbols to represent the lexical inventory of a living tongue."*

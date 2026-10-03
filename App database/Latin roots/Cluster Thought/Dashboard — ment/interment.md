@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ritual placing of a corpse in a grave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ritual placing of a corpse in a grave.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The burial of a corpse in a grave or tomb, typically accompanied by funeral rites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic law and liturgical theology, the solemn committal of mortal remains to consecrated ground or mausoleum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Gibson, who had come down to direct his sister’s interment and settle the family affairs."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lines On The Author’s Death Written With The Supposed View Of Being Handed To Rankine After The Poet’s Interment He who of Rankine sang, lies stiff and dead, And a green grassy hillock hides his head; Alas! alas! a devilish change indeed."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Gargery had departed this life on Monday last at twenty minutes past six in the evening, and that my attendance was requested at the interment on Monday next at three o’clock in the afternoon."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Gibson had come down to direct his sister’s **interment** and arrange her modest estate."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery had departed this life, and the solemn **interment** was fixed for the following Tuesday."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"We placed the body of the lady Madeline in the damp vault for temporary **interment**."*

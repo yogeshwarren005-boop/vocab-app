@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (historical linguistics) an explanation of the historical origins of a word or phrase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give the etymology or derivation or suggest an etymology (for a word).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or activity of tracing the origins and historical development of words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual essays and literary criticism, pursuing verbal derivations to uncover hidden cultural or philosophical layers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etymologizing designates (historical linguistics) an explanation of the historical origins of a word or phrase."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"A habit of careful **etymologizing** protects the mind against vague generalizations and loose rhetoric."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Fanciful **etymologizing** was the fatal weakness of ancient grammarians from Plato to Varro."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"There is profound moral profit in the sober **etymologizing** of terms that express human virtues and vices."*

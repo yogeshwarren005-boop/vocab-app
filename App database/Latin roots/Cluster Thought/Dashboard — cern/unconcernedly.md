@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unconcerned manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unconcerned manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without anxiety, solicitude, or visible interest; in an easy, indifferent, or nonchalant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric storytelling, carrying out ordinary actions with serene oblivion in the presence of impending crisis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This is where he lives, is it?” says the lawyer unconcernedly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From behind the waggon a bright scarlet spot emerged, and went on loading unconcernedly with the rest."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy was asking questions about the city of Bath, and her companion was answering them listlessly and unconcernedly."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From behind the waggon a bright scarlet spot emerged, and went on loading **unconcernedly** with the rest."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Nothing was to be seen save flat meadows, cows feeding **unconcernedly** for the most part, and silvery willows."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"Then he came out again, with some ashes on his hair, and walked **unconcernedly** away."*

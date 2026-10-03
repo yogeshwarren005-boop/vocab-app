@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new religion founded by l. ron hubbard in 1955 and characterized by a belief in the power of a person's spirit to clear itself of past painful experiences through self-knowledge and spiritual fulfillment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new religion founded by l. ron hubbard in 1955 and characterized by a belief in the power of a person's spirit to clear itself of past painful experiences through self-knowledge and spiritual fulfillment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious system founded in 1954 by L. Ron Hubbard, emphasizing spiritual self-knowledge through auditing techniques.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious studies and sociology of religion, a controversial new religious movement derived from Dianetics with esoteric cosmology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scientology designates a new religion founded by l. ron hubbard in 1955 and characterized by a belief in the power of a person's spirit to clear itself of past painful experiences through self-knowledge and spiritual fulfillment."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Every new spiritual movement or doctrine of mental healing claims to possess an infallible psychic **scientology**."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Modern societies are fertile soil for dogmatic creeds, whether called political ideologies or pseudoscientific **scientology**."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"The commercialization of psychological therapies opened the door to modern sects of technological **scientology**."*

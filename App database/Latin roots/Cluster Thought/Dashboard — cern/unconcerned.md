@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in interest or care or feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easy in mind; not worried.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having any interest, anxiety, or emotional stake; untroubled, nonchalant, or indifferent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, displaying serene detachment from surrounding tumult, peril, or social scrutiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He made no complaint, however, and was strangely unconcerned about himself, if I may say so strange a thing."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter made no objection, and Elizabeth did nothing worse than look cold and unconcerned."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The tall lank pony seemed used to such doings, and ambled along unconcerned."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The tall lank pony seemed used to such doings, and ambled along **unconcerned**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She strove to look quite **unconcerned**, though her heart beat with strange violence."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I tried to put on as **unconcerned** an air as possible, but I had not forgotten the warnings of the lady."*

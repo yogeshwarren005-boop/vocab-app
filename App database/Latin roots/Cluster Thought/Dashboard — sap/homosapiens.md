@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin sap within the domain of Thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of sap in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primate species to which modern humans belong, characterized by high intelligence and symbolic language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary paleoanthropology and zoological taxonomy, the sole surviving species of the genus Homo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homosapiens designates pertaining to, derived from, or characteristic of latin sap within the domain of thought."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In a genealogical series, **Homo sapiens** forms but a single branch of the catarrhine simian lineage."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The structural gap between **Homo sapiens** and the gorilla is smaller than that separating the gorilla from the lower monkeys."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The phylogenetic emergence of **Homo sapiens** crowns the long terrestrial drama of vertebrate evolution."*

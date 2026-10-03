@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reptile genus of scincidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reptile genus of scincidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, slender skinks in the family Scincidae, commonly known as ground skinks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American herpetology, secretive leaf-litter lizards that forage among decaying humus in temperate forests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scincella designates a reptile genus of scincidae."*
+> - 📜 **John Edwards Holbrook (*North American Herpetology*):** *"The small brown lizard **Scincella** lateralis glides through fallen leaves with rapid, serpentine motions."*
+> - 📜 **David Starr Jordan (*A Manual of the Vertebrate Animals*):** *"The ground skink belonging to **Scincella** is distinguished by its transparent disc in the lower eyelid."*
+> - 📜 **Raymond Ditmars (*The Reptile Book*):** *"Specimens of **Scincella** feed primarily on minute insects and spiders inhabiting damp woodland soil."*

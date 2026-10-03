@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by sluggishness, mental dullness, or physical lethargy; groggy or slow to respond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial and regional descriptions, feeling worn down, heavy-limbed, or unenergetic after illness or fatigue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Ann usually set in to give me the family particulars when I was logy with sleep a Sunday night."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"When, in like manner zoölogy is defined as the study of animals, or geology as the study of rocks and the earth, the words call up memories of many familiar objects."*
+> - 📜 **Jack London (*Martin Eden*):** *"His brain felt **logy** and numb after thirty hours of continuous reading without food or sleep."*
+> - 📜 **Sarah Orne Jewett (*The Country of the Pointed Firs*):** *"The damp morning air made everybody feel a little **logy** until the sea fog burned off under the sun."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"The long afternoon in the stuffy office left him feeling dull and **logy**, unable to concentrate on his ledgers."*

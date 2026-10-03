@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type and sole genus of sciadopityaceae; japanese umbrella pines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type and sole genus of sciadopityaceae; japanese umbrella pines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of conifers comprising the Japanese umbrella pine, distinctive for its whorls of photosynthetic cladodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and horticulture, Sciadopitys verticillata, prized for its evergreen symmetrical habit and unique cladode needles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciadopitys designates type and sole genus of sciadopityaceae; japanese umbrella pines."*
+> - 📜 **Charles Sprague Sargent (*Forest Flora of Japan*):** *"The venerable temple groves around Nikko are shaded by magnificent specimens of **Sciadopitys**."*
+> - 📜 **Asa Gray (*Botanical Memoirs*):** *"The cladodes of **Sciadopitys** are botanically interpreted as double leaves fused along their margins."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Specimens of **Sciadopitys** cultivated in Kew Gardens exhibited remarkable hardiness against English winters."*

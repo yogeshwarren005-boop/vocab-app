@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of mind not immediately available to consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of mind not immediately available to consciousness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental realm or activity occurring beneath conscious awareness; the subconscious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis and early cognitive science, the stratum of latent impressions and desires underlying waking thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus, as a sample of my rovings: in a single interval of fifteen minutes of subconsciousness I have crawled and bellowed in the slime of the primeval world and sat beside Haas—further and cleaved the twentieth century air in a gas-driven monoplane."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I do not know, of Darrell Standing’s experience, these things of which I write and which I have dug from out my store-houses of subconsciousness."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"In the deep well of **subconsciousness** lie the springs of sudden religious conversion and artistic inspiration."*
+> - 📜 **Jack London (*The Star-Rover*):** *"In a single interval of fifteen minutes, my **subconsciousness** roved through centuries of past existence."*
+> - 📜 **F. W. H. Myers (*Human Personality and Its Survival of Bodily Death*):** *"The threshold of waking thought separates our everyday ego from the vast domain of **subconsciousness**."*

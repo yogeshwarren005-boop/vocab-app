@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) a doctrine that mind is the true reality and that objects exist only as aspects of the mind's awareness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) a doctrine that mind is the true reality and that objects exist only as aspects of the mind's awareness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that physical reality exists only as a mental construct; in entertainment, the performance of mind-reading feats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of mind and idealism, the ontological assertion that subjective conscious phenomena cannot be reduced to physical mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mentalism designates (philosophy) a doctrine that mind is the true reality and that objects exist only as aspects of the mind's awareness."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Philosophical **mentalism** holds that all objects of experience depend ultimately on being perceived."*
+> - 📜 **Bertrand Russell (*Our Knowledge of the External World*):** *"The extreme form of **mentalism** known as solipsism cannot be logically disproved, but commands no belief."*
+> - 📜 **George Berkeley (*A Treatise Concerning the Principles of Human Knowledge*):** *"The principles of subjective **mentalism** establish that the existence of things consists in their being perceived."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to biologism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to biologism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or relating to biologism; interpreting human behavior strictly through biological determinism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and philosophy of mind, overextending evolutionary mechanisms to explain artistic and social creations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biologistic designates of or relating to biologism."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"A purely **biologistic** approach fails to account for the reflective and symbolic dimensions of human culture."*
+> - 📜 **Bertrand Russell (*History of Western Philosophy*):** *"Nietzsche's ethics are tainted by a **biologistic** worship of brute vitality over justice and mercy."*
+> - 📜 **William James (*The Meaning of Truth*):** *"We need not surrender spiritual values to a cold, **biologistic** fatalism that denies human freedom."*

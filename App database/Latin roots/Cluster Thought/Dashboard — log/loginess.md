@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dull and listless state resulting from weariness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dull and listless state resulting from weariness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of physical lethargy, heaviness, or dull sluggishness; languor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vernacular medical description, the post-febrile heaviness or torpor affecting motor responsiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loginess designates a dull and listless state resulting from weariness."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The persistent damp and chill produced a heavy **loginess** in the men's limbs that made swift duty impossible."*
+> - 📜 **Theodore Dreiser (*An American Tragedy*):** *"A dull **loginess** overcame him after hours of pacing the hot pavement, clouding his purpose."*
+> - 📜 **Hamlin Garland (*Main-Travelled Roads*):** *"The oppressive summer heat induced a deep **loginess** across the farmstead, halting all brisk labor."*

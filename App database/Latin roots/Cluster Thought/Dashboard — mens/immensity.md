@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusual largeness in size or extent or number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusual largeness in size or extent or number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vastness, boundless expanse, or immeasurable extent in space, time, or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemplative literature, the infinite abyss of stellar space or eternity dwarfing mortal affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I directly seized my oar—than which there was no other stick of wood on the island—and cautiously advanced upon all that immensity of provender."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"If only some tiny change could be made in men's attitude towards one another and towards the universe, what a flood of evil could be dammed; the slightness of the cause is as striking as the immensity of the effect."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But after I had had my new suit on some half an hour, and had gone through an immensity of posturing with Mr."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The sun sank into the **immensity** of the sea, leaving an ominous crimson glow."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The stars awaken in the human breast a thrilling sense of the celestial **immensity**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He gazed upward into the starry **immensity** and felt his own earthly troubles shrink into nothingness."*

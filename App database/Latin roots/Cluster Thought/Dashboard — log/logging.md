@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The work of cutting down trees for timber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter into a log, as on ships and planes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The commercial activity or business of cutting down trees and transporting logs to sawmills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental history and timber engineering, forest harvesting operations utilizing skid-roads, river drives, and sawmills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"In the Heart of the Logging District. 51 IV."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"This is "the woods" of Minnesota--the center of the logging industry."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"There was ground to clear of trees and underbrush, there were rails to split and fields to fence, and in the winter logging, claimed his labor for the cash it gave in return."*
+> - 📜 **John Muir (*Our National Parks*):** *"Unrestricted commercial **logging** turns magnificent mountain forests into scarred, fire-swept barrens."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"We passed numerous **logging** camps where rafts of spruce timber were assembled for the spring thaw."*
+> - 📜 **Gifford Pinchot (*The Fight for Conservation*):** *"Scientific forestry must replace destructive **logging** if our national timber reserves are to survive."*

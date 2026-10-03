@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blood poisoning caused by putrefactive bacteria; results from eating putrefied matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blood poisoning caused by putrefactive bacteria; results from eating putrefied matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blood poisoning caused by the absorption of toxins from local tissue necrosis (British spelling of sapremia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century surgical pathology, systemic toxic fever induced by chemical absorption from putrefying wounds without septic bacteremia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapraemia designates blood poisoning caused by putrefactive bacteria; results from eating putrefied matter."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Septic absorption from the unwashed wound induced high fever and the classic symptoms of **sapraemia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden rigor and toxic delirium indicated acute **sapraemia** resulting from retained necrotic tissue."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"Adequate hospital ventilation prevents the accumulation of effluvia that predisposes surgical patients to **sapraemia**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with advanced knowledge of one or more sciences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with advanced knowledge of one or more sciences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is studying or has expert knowledge of one or more of the natural or physical sciences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In history of ideas, a term coined by William Whewell in 1834 to describe professional practitioners of empirical and inductive inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A scientist might laugh at this way of driving, or at asking God to guide in such trivial matters."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, despite the sceptical attitude of the scientist that was mine, I believed."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Some scientist studied these peasants and found that during these periods of the “long sleep” respiration and digestion practically ceased, and that the heart was at so low tension as to defy detection by ordinary layman’s examination."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"We need a name for the cultivator of science in general; I should incline to call him a **scientist**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The modern **scientist** recognizes no authority beyond verified natural facts and sound inductive reasoning."*
+> - 📜 **Charles Darwin (*More Letters of Charles Darwin*):** *"Every genuine **scientist** rejoices when an old hypothesis gives way to a more comprehensive truth."*

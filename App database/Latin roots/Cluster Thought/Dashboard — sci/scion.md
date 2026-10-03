@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A descendent or heir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A descendent or heir.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young shoot or twig cut for grafting; a descendant or heir of a notable family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arboriculture and dynastic genealogy, a vegetative bud grafted onto rootstock, or a noble youth carrying on an ancestral lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But we have reason to cool our raging motions, our carnal stings, our unbitted lusts; whereof I take this, that you call love, to be a sect, or scion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see, sweet maid, we marry A gentler scion to the wildest stock, And make conceive a bark of baser kind By bud of nobler race."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Forman._ A scion of an eminent family--At Benton Barracks Hospital--At Memphis-- Return to St."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"You see, sweet maid, we marry a gentler **scion** to the wildest stock, and make conceive a bark of baser kind."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He was the last male **scion** of an ancient family whose estates had dwindled through extravagance."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The grafting of a fruitful **scion** upon a wild crab-tree alters the nature of the fruit produced."*

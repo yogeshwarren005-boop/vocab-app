@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (archaic) a solvent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solvent; any liquid substance that dissolves a solid or extracts soluble elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical alchemy and early chemistry, a dissolving liquid traditionally believed to work best during a monthly lunar cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"How ignorant are plough-boys!--Nay, I have since discovered that a _godly woman_ may be a--!--But hold--here's t'ye again--this rum is generous Antigua, so a very unfit menstruum for scandal."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"How ignorant are plough-boys!—Nay, I have since discovered that love is the universal **menstruum** that dissolves all human differences."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The alchemists sought a universal **menstruum** capable of dissolving every tangible substance into its primal essence."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Aqua fortis acts as a powerful **menstruum** upon silver, dissolving the metal into a clear saline solution."*

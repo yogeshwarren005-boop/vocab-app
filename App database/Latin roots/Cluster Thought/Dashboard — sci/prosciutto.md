@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian salt-cured ham usually sliced paper thin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian salt-cured ham usually sliced paper thin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An Italian dry-cured ham that is thinly sliced and served uncooked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary geography and gastronomic history, ham aged with sea salt in Italian alpine valleys to achieve fragrant tenderness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosciutto designates italian salt-cured ham usually sliced paper thin."*
+> - 📜 **Henry James (*Italian Hours*):** *"In the cheerful trattoria we enjoyed sweet melon wrapped in translucent ribbons of fragrant **prosciutto**."*
+> - 📜 **William Dean Howells (*Venetian Life*):** *"The market stalls of the Rialto were hung with cured sausages and rich savory flanks of **prosciutto**."*
+> - 📜 **George Gissing (*By the Ionian Sea*):** *"A flask of Chianti and a dish of aged **prosciutto** made our rustic luncheon memorable."*

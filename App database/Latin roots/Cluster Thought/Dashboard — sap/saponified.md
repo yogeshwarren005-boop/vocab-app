@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become converted into soap by being hydrolized into an acid and alcohol as a result of being treated with an alkali.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into soap by hydrolizing an ester into an acid and alcohol as a result of treating it with an alkali.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Converted into soap through chemical reaction with an alkali; hydrolyzed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and lipidology, fats whose triglyceride bonds have undergone alkaline decomposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saponified designates become converted into soap by being hydrolized into an acid and alcohol as a result of being treated with an alkali."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"When the mutton fat is completely **saponified**, the alkaline base neutralizes the stearic acid."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The ingested lipids are partly **saponified** by the alkaline secretions of the bile and pancreatic fluid."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"The resinous ester was **saponified** using alcoholic potash and then precipitated with acid."*

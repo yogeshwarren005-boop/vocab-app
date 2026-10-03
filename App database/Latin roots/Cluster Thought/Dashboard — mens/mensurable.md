@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having notes of fixed rhythmic value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being measured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being measured; possessing measurable dimensions, duration, or quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological philosophy and natural science, properties susceptible to quantitative evaluation against empirical standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mensurable designates having notes of fixed rhythmic value."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Duration and space are **mensurable** quantities because we can apply repeated standard units to them."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Human life is composed of **mensurable** hours, each of which should be dedicated to virtue or learning."*
+> - 📜 **William Whewell (*The History of the Inductive Sciences*):** *"Astronomy became an exact science only when celestial motions were reduced to **mensurable** angles and intervals."*

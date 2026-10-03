@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal obligation recorded in court whereby a person promises to perform a duty, such as appearing for trial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Shakespearean drama and feudal law, a badge, token, or pledge of faith and honorable submission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet Iago knows That she with Cassio hath the act of shame A thousand times committed; Cassio confess’d it, And she did gratify his amorous works With that recognizance and pledge of love Which I first gave her; I saw it in his hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This fellow might be in’s time a great buyer of land, with his statutes, his recognizances, his fines, his double vouchers, his recoveries."*
+> - 📜 **William Shakespeare (*Othello*):** *"And she did gratify his amorous works with that **recognizance** and pledge of love which I first gave her."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrate remanded the prisoner under heavy **recognizance** to answer at the next general court."*
+> - 📜 **Tobias Smollett (*The Adventures of Sir Launcelot Greaves*):** *"He offered to deposit a sum equal to the **recognizance** of the knight's bail."*

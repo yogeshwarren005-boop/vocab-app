@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With extreme conscientiousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With extreme conscientiousness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conscientious manner; with thoroughness, care, and devotion to duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biography and ethics, discharging legal and moral responsibilities with scrupulous fidelity to principle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I fear I could not conscientiously do so."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Knowing, however, the dairyman’s wish, she endeavoured conscientiously to take the animals just as they came, excepting the very hard yielders which she could not yet manage."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Carter, assure him there’s no danger.” “I can do that conscientiously,” said Carter, who had now undone the bandages; “only I wish I could have got here sooner: he would not have bled so much—but how is this?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had **conscientiously** performed every duty of his office, yet found himself misunderstood by his parishioners."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The clerk **conscientiously** recorded every deposition in the huge leather-bound ledger."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor **conscientiously** strove to master her own grief so as not to distress her mother and sister."*

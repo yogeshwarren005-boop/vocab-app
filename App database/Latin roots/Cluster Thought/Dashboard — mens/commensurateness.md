@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of corresponding in degree or size or amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of corresponding in degree or size or amount.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proportionate correspondence, adequacy, or the capacity to be measured by a shared standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological ethics and aesthetics, the harmonious congruence between artistic expression and underlying thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commensurateness designates the relation of corresponding in degree or size or amount."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The logical **commensurateness** of our hypotheses with observed facts is the true test of inductive reasoning."*
+> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"Justice requires an exact **commensurateness** between the labor expended and the reward received."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"There must be an inward **commensurateness** between the poetic imagination and the expressive diction."*

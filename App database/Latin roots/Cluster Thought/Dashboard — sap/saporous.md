@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of flavor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of flavor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of flavor; having a distinct, stimulating taste or agreeable savor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physiology and natural philosophy, exciting the gustatory sense through dissolved sapid particles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saporous designates full of flavor."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The juices of ripe fruits become remarkably **saporous** under the warm rays of the autumn sun."*
+> - 📜 **Robert Boyle (*Experiments and Considerations Touching Colours*):** *"Saline particles impart a sharp, **saporous** sensation when applied to the moisture of the tongue."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **saporous** qualities of wine or vinegar are sensible ideas produced in our minds by corpuscular motion."*

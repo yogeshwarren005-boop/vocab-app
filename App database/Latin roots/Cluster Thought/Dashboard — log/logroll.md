@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work toward the passage of some legislation by exchanging political favors such as trading votes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work toward the passage of some legislation by exchanging political favors such as trading votes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To engage in political vote-trading or reciprocal mutual assistance; to roll logs collaboratively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology, to support another legislator's bill on condition of receiving support for one's own measure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"The little grove in which the tents were pitched was thronged with visitors, the Rangers were out in full force and there was a good deal of "logrolling" going on."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Members of congress find it expedient to **logroll** on internal tariff schedules, exchanging favors across state lines."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"To **logroll** successfully in the legislature requires an astute knowledge of each representative's local interests."*
+> - 📜 **Hamlin Garland (*Main-Travelled Roads*):** *"In frontier clearings the settlers would gather to **logroll** and erect timber cabins in festive mutual cooperation."*

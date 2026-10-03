@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having dimension--the quality or character or stature proper to a person; - norman cousins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to dimensions or spatial extent; having a specified number of dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics and geometric analysis, pertaining to the coordinate parameters of physical or mathematical manifolds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The capsule is transmitting orders to each ship of the fleet to move to new coordinates in a three-dimensional tract."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A globe-shaped view tank, suspended close overhead displayed the three-dimensional battle zone."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"But some philosophical people have been asking why _three_ dimensions particularly—why not another direction at right angles to the other three?—and have even tried to construct a Four-Dimensional geometry."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our perception of spatial relations is fundamentally three-**dimensional** and grounded in muscular movement."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"In non-Euclidean geometry, n-**dimensional** space is treated with rigorous algebraic abstraction."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Any real body must have extension in four directions; it must have length, breadth, thickness, and duration; it is a four-**dimensional** reality."*

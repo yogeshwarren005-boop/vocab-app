@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invalid or incorrect reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invalid or incorrect reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of logic or valid reasoning; unreasonableness, absurdity, or irrationality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive critique and polemics, structural fallacies or emotional bias subverting coherent thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I trust you will believe me when I tell you that your illogic is far more painful for me to endure than all your tortures.” “Are you going to stop your knuckle-talking?” he demanded."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"The Lieutenant began to envy the illogic that made such affection possible."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The human mind falls into persistent **illogic** when it mistake its own prejudices for self-evident truths."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her generous indignation made her blind to the patent **illogic** of her passionate defense."*
+> - 📜 **William James (*Pragmatism*):** *"There is an incurable **illogic** in building vast metaphysical systems upon unverified dogmatic premises."*

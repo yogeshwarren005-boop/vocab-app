@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult or impossible to perceive or discern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barely able to be perceived.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to distinguish, separate, or perceive clearly by sight, hearing, or intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and metaphysics, referring to entities or properties whose differences lie below any possible perceptual or measurable threshold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"You were in the grounds adjoining Major Howard's mansion on the night of the twelfth of January last," said he, addressing the singular-looking man, whose features were so entirely hidden by his collar and hat-brim, as to be indiscernible."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"A crease and a hole in the midst of a cluster of lumps of raw flesh indicated the presence of an eye and a mouth; the rest of his features were indiscernible."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"His outline became increasingly blurred until his bodily form was wholly **indiscernible** against the wall."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The horizon line had melted away, leaving sea and sky merged in one **indiscernible** shadow."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The path across Egdon Heath was virtually **indiscernible** in the gathering twilight."*

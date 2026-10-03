@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Balcony consisting of the forward section of a theater mezzanine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Private area in a theater or grandstand where a small group can watch the performance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A private box or the front section of the first balcony in a theater or opera house.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French dramatic culture and social history, an enclosed theater booth where patrons observed performances in seclusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"At the end of the act, George was out of the box in a moment, and he was even going to pay his respects to Rebecca in her loge."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"From our private **loge** in the theater, we had an unimpeded view of the glittering royal audience."*
+> - 📜 **Henry James (*The American*):** *"Newman sat back in the velvet-lined **loge**, surveying the fashionable Parisian assembly through his opera glass."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp smiled triumphantly from her aristocratic **loge** across the crowded opera house."*

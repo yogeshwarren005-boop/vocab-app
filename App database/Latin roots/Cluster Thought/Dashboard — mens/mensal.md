@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dining table.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dining table.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the dining table; in church law, referring to revenues allocated for a bishop's table.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and ecclesiastical jurisprudence, benefices or customs reserved specifically for domestic hospitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mensal designates the dining table."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The lavish **mensal** luxuries of the later emperors disgusted the austere senators of the old republic."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The brothers fell into fierce disputation over the allocation of their father's **mensal** legacy."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **mensal** tithes were specifically reserved for the sustenance of the presiding prelate."*

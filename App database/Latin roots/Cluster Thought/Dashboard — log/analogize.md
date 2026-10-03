@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an analogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make an analogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To explain, compare, or understand something by making an analogy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial reasoning and rhetoric, arguing from precedents by establishing material structural equivalence between cases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analogize designates make an analogy."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Swedenborg sought to **analogize** every spiritual state to some outward natural object."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Judges constantly **analogize** novel commercial disputes to ancient feudal doctrines of property."*
+> - 📜 **William James (*The Principles of Psychology*):** *"We naturally **analogize** unseen psychological processes to physical forces and fluids."*

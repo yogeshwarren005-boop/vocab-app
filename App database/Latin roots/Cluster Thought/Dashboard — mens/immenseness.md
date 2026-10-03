@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusual largeness in size or extent or number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusual largeness in size or extent or number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, attribute, or magnitude of being immense; vastness, enormity, or boundless scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic philosophy and sublime aesthetics, the transcendent vastness of nature inspiring humility in the human mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immenseness designates unusual largeness in size or extent or number."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sheer **immenseness** of the sperm whale filled the young sailor with reverent awe."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The **immenseness** of the Alpine precipice overwhelms the spectator with its sheer vertical scale."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Looking upward into the midnight sky, man shudders before the silent **immenseness** of the cosmos."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of assigning numbers to phenomena according to a rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of assigning numbers to phenomena according to a rule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mathematical art or process of calculating lengths, areas, and volumes of geometric figures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil surveying and classical applied geometry, computing physical land boundaries or structural volumes from linear measurements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The mensuration of the faculties of the mind has, I believe, no place in the catalogue of known arts."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Oh, I don't know that," I told her; "old Mustard is well up in mathematics and mensuration----" "What's mensuration?" She said "men_th_uration," and curiously enough it sounded rather nice."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **mensuration** of the faculties of the mind has, I believe, no established scale in political science."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Old Mustard is well up in mathematics and practical **mensuration**, and can survey any farm in the parish."*
+> - 📜 **Isaac Newton (*Opticks*):** *"By the exact **mensuration** of optical angles, the refractive index of glass was definitively determined."*

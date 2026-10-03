@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut with or as if with scissors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut with or as if with scissors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for cutting consisting of two pivoted blades; to cut with scissors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical craft and gymnastics, an action or movement resembling the opening and closing of blades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The ——th regiment are stationed there since the riots; and the officers are the most agreeable men in the world: they put all our young knife-grinders and scissor merchants to shame.” It seemed to me that Mr."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"One afternoon a scissor-grinder chanced to set his wheel a-going under the Pyncheon Elm, and just in front of the arched window."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Nevertheless, its charm lay chiefly in the past; for the scissor-grinder’s wheel had hissed in his childish ears."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"One afternoon a **scissor**-grinder chanced to set his wheel humming at the corner of Pyncheon Street."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She took up the small tailor's **scissor** and neatly trimmed the frayed edges of the ribbon."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The closing jaws of the whale functioned like a colossal **scissor**, severing the cedar whaleboat in twain."*

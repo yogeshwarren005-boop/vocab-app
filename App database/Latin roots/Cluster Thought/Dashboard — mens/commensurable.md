@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being measured by a common standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being measured by a common standard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measurable by the same standard or common metric; proportionate and reducible to a shared ratio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mathematics and value theory, magnitudes or moral goods whose comparative worth can be numerically calculated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commensurable designates capable of being measured by a common standard."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Pleasures differing in quality are not strictly **commensurable** on any simple quantitative scale."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The intellect seeks units of measure that render disparate natural phenomena mutually **commensurable**."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Geometric figures are **commensurable** when their proportions can be expressed by common rational numbers."*

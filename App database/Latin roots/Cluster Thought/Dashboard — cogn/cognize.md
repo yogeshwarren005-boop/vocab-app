@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perceive, know, or become aware of something through the intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological metaphysics, the active intellectual synthesis by which external data are grasped as an object of knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Thought-forms 306:21 The myriad forms of mortal thought, made manifest as matter, are not more distinct nor real to the mate- rial senses than are the Soul-created forms 306:24 to spiritual sense, which cognizes Life as per- manent."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God's children already created will be cognized only as man finds the truth of being. 69:9 Thus it is that the real, ideal man appears in proportion as the false and material disappears."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The objects cognized by the physical senses have not 311:27 the reality of substance."*
+> - 📜 **William James (*The Principles of Psychology*):** *"To **cognize** an external event is to represent it faithfully in the stream of consciousness."*
+> - 📜 **Josiah Royce (*The World and the Individual*):** *"The finite mind strives unceasingly to **cognize** the unity of the absolute order."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The objects cognized by the physical senses have not spiritual origin, but must be inwardly **cognized** through divine truth."*

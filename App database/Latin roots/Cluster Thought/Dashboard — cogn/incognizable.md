@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being perceived or known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being perceived or known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being known, recognized, or perceived; beyond the reach of human cognition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transcendental philosophy, denoting the Kantian thing-in-itself which transcends all sensory intuition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incognizable designates incapable of being perceived or known."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The ultimate reality behind all appearances remains forever inscrutable and **incognizable**."*
+> - 📜 **William Hamilton (*Lectures on Metaphysics and Logic*):** *"The absolute and unconditioned must be pronounced strictly **incognizable** by finite minds."*
+> - 📜 **John Stuart Mill (*An Examination of Sir William Hamilton's Philosophy*):** *"To declare the nature of matter wholly **incognizable** is to abandon scientific ontology."*

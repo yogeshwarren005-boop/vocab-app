@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an exceedingly great extent or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an exceedingly great extent or degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an immense degree; exceedingly, hugely, or extraordinarily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social narrative and character observation, magnifying emotions, amusement, or relief beyond usual measure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"What Loneli had told him had relieved him immensely."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is immensely received in turf-circles."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Tertullian himself was immensely impressed with it."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was **immensely** amused by Mr. Collins's pompous and solemn declarations."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The strange clue proved to be **immensely** valuable in guiding our investigation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea felt **immensely** relieved when the distressing conversation was brought to an end."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speech you make to yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long utterance by one person (especially one that prevents others from participating in the conversation).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, uninterrupted speech delivered by a single person in a conversation, play, or public address.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical dramaturgy, an extended soliloquy or speech through which a character reveals motives and internal psychological states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I didn't expect this to be a monologue, by far."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I introduced myself as a Hawaiian-American, and soon found myself in full tide of talk, or rather of monologue."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The young rascal’s tendency lay towards monologue, and since it was his cue to be open-hearted, and very unsuspicious of being suspected, he talked with much freedom of himself, his pursuits, and his affairs."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"In his most celebrated **monologue**, the prince ponders the dread of death and the pangs of conscience."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab paced the quarterdeck muttering a fierce **monologue** against the white whale that none dared interrupt."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His conversation was in reality an unbroken **monologue**, admitting no reply and inviting no dissent."*

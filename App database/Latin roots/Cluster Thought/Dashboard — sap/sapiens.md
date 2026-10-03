@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of homo sapiens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of homo sapiens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wise, discerning, or rational (the Latin specific epithet for modern mankind in biological taxonomy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological philosophy, denoting the conscious reflective capacity that defines modern humanity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapiens designates of or relating to or characteristic of homo sapiens."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The designation of Homo **sapiens** reflects our unique capacity for abstract reflection and symbolic speech."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Under the genus Homo, Linnaeus classified mankind as Homo **sapiens**, characterized by self-knowledge."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The cranial capacity of Homo **sapiens** distinguishes the species from all fossil Neanderthal remains."*

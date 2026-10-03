@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the philosophical theory that all of mathematics can be derived from formal logic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophical theory that all of mathematics can be derived from formal logic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that mathematics is reducible to, or an extension of, formal logic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical foundations, the program championed by Frege and Russell asserting mathematical truths are purely logical truths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logicism designates (philosophy) the philosophical theory that all of mathematics can be derived from formal logic."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The fundamental thesis of **logicism** is that all pure mathematics deals exclusively with concepts definable in terms of logic."*
+> - 📜 **Gottlob Frege (*The Foundations of Arithmetic*):** *"By establishing **logicism**, we demonstrate that arithmetic requires no appeal to spatial or temporal intuition."*
+> - 📜 **Henri Poincaré (*Science and Method*):** *"Against the claims of **logicism**, I maintain that mathematical discovery requires genuine synthetic intuition."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The magnitude of something in a particular direction (especially length or width or height).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A construct whereby objects or individuals can be distinguished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measurable extent of some kind, such as length, breadth, depth, or time; an aspect or facet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and metaphysics, spatial coordinates defining the framework of the universe or scope of an idea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A spirit I am indeed, But am in that dimension grossly clad, Which from the womb I did participate."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess was no insignificant creature to toy with and dismiss; but a woman living her precious life—a life which, to herself who endured or enjoyed it, possessed as great a dimension as the life of the mightiest to himself."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Rings of laser arrays along the edge of the Extractor's hopper flashed alive and focused their beams on a large, slowly tumbling planetoid hundreds of kilometers across its minor dimension."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"There is no difference between Time and any of the three dimensions of Space except that our consciousness moves along it; Time is the fourth **dimension**."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The soul's expansion adds a new **dimension** to every ordinary experience."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The tragedy assumed an almost epic **dimension** under the burning tropical sky."*

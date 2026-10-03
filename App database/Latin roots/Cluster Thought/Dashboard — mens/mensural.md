@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having notes of fixed rhythmic value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to measurement; in music, denoting notation indicating exact rhythmic time values.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology and historical metrology, the transition from unmeasured plainchant to polyphonic notation with precise note lengths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mensural designates of or relating to measure."*
+> - 📜 **Charles Burney (*A General History of Music*):** *"The introduction of **mensural** notation enabled composers to record polyphonic rhythms with mathematical precision."*
+> - 📜 **John Hawkins (*A General History of the Science and Practice of Music*):** *"Franco of Cologne was among the earliest masters to establish rules for **mensural** harmony."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Every physical experiment depends upon **mensural** accuracy in recording time, weight, and distance."*

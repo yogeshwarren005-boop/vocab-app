@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a logarithmic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a logarithmic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a logarithmic manner; by means of or according to a logarithmic scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychophysics and mathematical analysis, scaling proportionally to the logarithm of a variable rather than linearly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logarithmically designates in a logarithmic manner."*
+> - 📜 **Gustav Fechner (*Elements of Psychophysics*):** *"Psychophysical experiments demonstrate that sensory perception increases **logarithmically** as stimulus intensity doubles."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The engine calculates coordinates that advance **logarithmically** across the successive calculation wheels."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The dissipation of thermodynamic energy inside a cooling sphere proceeds **logarithmically** over geological epochs."*

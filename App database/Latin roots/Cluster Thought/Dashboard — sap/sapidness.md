@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pleasant flavor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pleasant flavor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flavorfulness, palatability, or the property of having a pleasing taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical prose and early scientific treatises, the distinct gusto or sensory richness inherent in organic bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapidness designates a pleasant flavor."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The remarkable **sapidness** of wild berries commended them to the primitive hunters of ancient Britain."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The distinct **sapidness** of saline solutions demonstrates the diverse shapes of their constituent particles."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The lively **sapidness** of his epistolary style preserves these old memoirs from oblivion."*

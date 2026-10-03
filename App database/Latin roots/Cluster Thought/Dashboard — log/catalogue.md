@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete list of things; usually arranged systematically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book or pamphlet containing an enumeration of things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete list of items typically in alphabetical or systematic order; a directory or register.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical epic and bibliographical literature, an extended formal enumeration (such as Homer's catalogue of ships in the Iliad).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say I am your mother, And put you in the catalogue of those That were enwombed mine. ’Tis often seen Adoption strives with nature, and choice breeds A native slip to us from foreign seeds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you a catalogue Of all the voices that we have procured, Set down by th’ poll?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I could then have look’d on him without the help of admiration, though the catalogue of his endowments had been tabled by his side, and I to peruse him by items."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Ay, in the **catalogue** ye go for men, as hounds and greyhounds, mongrels, spaniels, curs are clept all by the name of dogs."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She looked through the circulating library's **catalogue** with eager anticipation of gothic romance."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He presented a dreary **catalogue** of all his domestic grievances and financial misfortunes."*

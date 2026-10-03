@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect brightly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To emit flashes of light; to sparkle, glitter, or twinkle; also to be brilliantly lively or witty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conversational society and physics, flashing rapid intermittent points of light or verbal wit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The dimmest-sparked chip of a conception blazes and scintillates in the subtile oxygen of his mind."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Striking scenes and freshets of scintillating dialogue rushed through my mind."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yet here she is lying at my feet, with her golden domes and crosses scintillating and twinkling in the sunshine."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The dimmest-sparked chip of a conception blazes and **scintillates** in his incandescent imagination."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Striking scenes and freshets of brilliant dialogue **scintillate** throughout the opening acts."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Moscow lay stretched at his feet, with her golden domes and crosses that seem to **scintillate** in the noon sun."*

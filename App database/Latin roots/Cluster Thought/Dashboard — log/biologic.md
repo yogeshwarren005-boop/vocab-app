@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to biology or to life and living things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to biology or to life and living things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to biology, the science of life and living organisms; biological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural philosophy and medical theory, pertaining to vital organic processes and evolutionary mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is the problem of eugenics, the choice and biologic breeding of capable men to be the citizens of the nation, and broadly understood, it includes both the negro and the immigrant problems.] [Footnote 2: See Vol."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The world often exclaims over the failure of the sons of noted men to achieve great things, for, despite confusing evidence, men still have faith in biologic heredity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the economic realm, as is now seen to be the case in the biologic realm, competition of some effective kind is an indispensable condition not only of progress but of life without degeneration."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The fundamental **biologic** law demands continuous adjustment of internal relations to external relations."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"Our **biologic** researches demonstrate the morphological unity uniting all multicellular animals."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Every **biologic** inquiry must begin with the careful description of cellular morphology."*

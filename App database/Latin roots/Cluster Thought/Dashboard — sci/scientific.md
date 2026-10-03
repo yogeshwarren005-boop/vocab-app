@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the practice of science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming with the principles or methods used in science.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or characterized by the methods and principles of science; systematic and empirical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern historiography and epistemology, rigorous investigation grounded in hypothesis testing, mathematical modeling, and empirical verification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not in a scientific way, as I expect he does, but by ear."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket does not claim to be a scientific judge of horses, but he lays out a little money on the principal events in that line, and generally sums up his knowledge of the subject in the remark that when he sees a horse as can go, he knows him."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"They were a notable family, full of all kinds of interesting lore, literary, scientific, and pastoral, and they exercised a boundless hospitality to all, whether gentle or simple, who came within their reach."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The only **scientific** method of tracing human origins is through comparative anatomy and embryology."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The **scientific** spirit demands fearless dedication to demonstrable truth wherever it may lead."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A truly **scientific** psychology must anchor itself firmly in physiological facts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With foresight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With foresight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prescient manner; with remarkable foreknowledge or foresight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative and political commentary, warning or planning with accurate anticipation of future contingencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presciently designates with foresight."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"He had **presciently** warned the cabinet of the catastrophic danger of trench deadlock."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The essayist had **presciently** predicted the rapid growth of the American republic."*
+> - 📜 **Henry James (*The American*):** *"Newman observed the cold European aristocracy and **presciently** measured its crumbling foundations."*

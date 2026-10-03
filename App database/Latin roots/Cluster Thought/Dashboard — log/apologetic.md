@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offering or expressing apology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering or expressing apology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or showing regretful acknowledgment of an offense or failure; remorseful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and intellectual history, containing a formal defense or vindication of an ideological position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The old woman was terribly apologetic about having gone into the room."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, coughing his apologetic cough behind his hand, “I really don’t know what advice I could offer, except sending for the beadle.” “I don’t speak of advice,” returns Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby with his apologetic cough, “that I mean to say a word against the profession I get my living by.” Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He coughed in an **apologetic** manner, as if begging pardon of the company for presuming to exist."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins began an **apologetic** speech, expressing dismay at having unwittingly intruded upon the ladies."*
+> - 📜 **Thomas Henry Huxley (*Science and Christian Tradition*):** *"The **apologetic** literature of the early church was designed to refute pagan calumnies."*

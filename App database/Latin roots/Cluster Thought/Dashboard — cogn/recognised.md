@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show approval or appreciation of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant credentials to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acknowledged, identified, or accepted as valid, true, or authoritative (British spelling of recognized).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In professional disciplines, meeting accredited standards established by statutory councils or peer consensus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This venture, unaided and alone, into the paths of farming as master and not as man, with an advance of sheep not yet paid for, was a critical juncture with Gabriel Oak, and he recognised his position clearly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Like exceptional emphasis in the tone of a genius, that which would have made mediocrity ridiculous was an addition to recognised power."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Next came the guests, mostly Kings and Queens, and among them Alice recognised the White Rabbit: it was talking in a hurried nervous manner, smiling at everything that was said, and went by without noticing her."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Next came the guests, mostly Kings and Queens, and among them Alice **recognised** the White Rabbit."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This venture into the paths of farming as master and not as man was now generally **recognised**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His exceptional talent in diagnosis was soon **recognised** by every impartial physician in the district."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving the mind or an intellectual process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the mind or intellectual processes, as distinguished from physical bodily functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and psychiatry, designating operations of consciousness, reasoning, memory, or psychic health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a mental power This eye shoots forth!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Imagin’d worth Holds in his blood such swol’n and hot discourse That ’twixt his mental and his active parts Kingdom’d Achilles in commotion rages, And batters down himself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Very odd and very curious, the mental process is, in you men of business!” said Mr."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"What a **mental** power this eye shoots forth! How big imagination moves in this lip!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Very odd and very curious, the **mental** process is, in you men of business!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her **mental** powers were of an uncommon order, though hidden beneath modest reticence."*

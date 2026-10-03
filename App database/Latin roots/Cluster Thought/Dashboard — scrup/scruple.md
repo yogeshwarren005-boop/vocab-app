@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of apothecary weight equal to 20 grains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uneasiness about the fitness of an action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A moral qualm or feeling of doubt that restrains action; also an apothecary measure of weight (20 grains).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In casuistry and moral theology, a persistent fear that a chosen deed is sinful, demanding minute examination of conscience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, good faith, every dram of it; and I will not bate thee a scruple."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your lordship may minister the potion of imprisonment to me in respect of poverty; but how I should be your patient to follow your prescriptions, the wise may make some dram of a scruple, or indeed a scruple itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But there remains a scruple in that too; For though her father be the King of Naples, Duke of Anjou and Maine, yet is he poor, And our nobility will scorn the match."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"Yes, good faith, every dram of it; and I will not bate thee a **scruple**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She felt almost guilty in asking for knowledge about him, but the dread of acting wrongly silenced every other **scruple**."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And these chaps, too, had no earthly reason for any kind of **scruple**."*

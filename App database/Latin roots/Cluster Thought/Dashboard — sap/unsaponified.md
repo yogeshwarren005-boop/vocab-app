@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted into soap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not converted into soap.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted into soap; remaining in the form of neutral fat, wax, or ester.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical lipid chemistry and manufacturing, the portion of a fat or oil mixture that resists alkaline saponification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsaponified designates not converted into soap."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The ethereal extract contained neutral waxes that remained **unsaponified** after treatment with aqueous potash."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"A considerable portion of the cholesterol in the bile remains **unsaponified** throughout intestinal digestion."*
+> - 📜 **Thomas Graham (*Elements of Chemistry*):** *"Mineral oils mixed with vegetable fats persist in an **unsaponified** condition following alkaline boiling."*

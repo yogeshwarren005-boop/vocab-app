@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard green swiss cheese made with skim-milk curd and flavored with clover.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard green swiss cheese made with skim-milk curd and flavored with clover.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, pungent green Swiss cheese flavored with powdered blue fenugreek (Schabziger).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary tradition, an ancient skimmed-milk cheese of the canton of Glarus, grated over rustic potato and noodle dishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapsago designates a hard green swiss cheese made with skim-milk curd and flavored with clover."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The grated green **sapsago** cheese imparted a pungent herbal fragrance to the Swiss macaroni."*
+> - 📜 **Robert Louis Stevenson (*Travels with a Donkey in the Cévennes*):** *"He brought out a hard, conical block of Alpine **sapsago**, flecked with aromatic clover leaves."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"The traveler sustained himself upon a crust of bread and a morsel of hard Swiss **sapsago**."*

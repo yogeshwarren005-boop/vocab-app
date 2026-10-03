@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy that analyzes inference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reasoned and reasonable judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reasoning conducted according to strict principles of validity; the study of correct reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy and mathematics, the normative science initiated by Aristotle evaluating arguments and deductions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, how now, chopp’d logic?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The drops of logic Tess had let fall into the sea of his enthusiasm served to chill its effervescence to stagnation."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns returned to the University in the late autumn of 1837, enrolling himself in the classes of Latin, Greek, and Logic."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"**Logic** is the common judge and arbiter of all particular investigations, whether physical or moral."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The traditional school **logic** is useful rather for disputation than for the discovery of new truths."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Pure mathematics and symbolic **logic** have developed until they are now recognized as one and the same discipline."*

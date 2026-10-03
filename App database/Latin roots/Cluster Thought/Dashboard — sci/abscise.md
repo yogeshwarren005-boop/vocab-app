@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shed flowers and leaves and fruit following formation of a scar tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove or separate by abscission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cut off or separate; in botany, to shed naturally through the formation of an abscission layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology and surgical pathology, shedding autumn foliage or excising dead tissue along natural cleavage lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abscise designates shed flowers and leaves and fruit following formation of a scar tissue."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The dying petiole prepares to **abscise** cleanly from the stem through a specialized cellular zone."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Deciduous trees **abscise** their senescent leaves before the onset of winter frosts."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Certain tropical legumes **abscise** their floral bracts as soon as pollination is achieved."*

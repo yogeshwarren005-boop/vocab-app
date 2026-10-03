@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property of having dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property of having dimensions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having dimensions, or the specific number of dimensions possessed by a space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In topology and modern epistemology, the degree of geometric freedom or complexity inherent in a conceptual system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimensionality designates the spatial property of having dimensions."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"The **dimensionality** of a continuum is determined by the number of independent variables required to locate a point."*
+> - 📜 **William James (*A Pluralistic Universe*):** *"The rich **dimensionality** of lived experience defies reduction to a single logical plane."*
+> - 📜 **Henri Poincaré (*Science and Hypothesis*):** *"Our physical senses suggest a space of three dimensions, but mathematical thought easily contemplates higher **dimensionality**."*

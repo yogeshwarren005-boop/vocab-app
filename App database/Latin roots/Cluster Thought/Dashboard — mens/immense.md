@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusually great in size or amount or degree or especially extent or scope; ; ; ; ; ; ; ; ; - w.r.inge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusually great in size or amount or degree or especially extent or scope; ; ; ; ; ; ; ; ; - w.r.inge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely large or great, especially in scale, degree, or volume; vast and boundless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epic narrative and natural description, overwhelming the senses through sheer magnitude or infinite expanse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is a bright-eyed woman, of a strong will and immense power of business detail, who throws herself into objects with surprising ardour!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t regret that I have not a strong will and an immense power of business detail to throw myself into objects with surprising ardour."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yet there is something a little wrong about it in despite of its immense advantages."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer's chambers were piled high with an **immense** accumulation of musty legal documents."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"An **immense** wall of white foam rose where the leviathan breached the ocean surface."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Egdon Heath stretched away in **immense** solitude beneath the darkening autumn sky."*

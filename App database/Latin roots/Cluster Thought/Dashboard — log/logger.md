@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who fells trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who fells trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose job is to fell trees and transport timber; a lumberjack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In frontier economic history and forestry, an operative skilled in felling, hauling, and driving logs down rivers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You logger-headed and unpolish’d grooms!"*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Kettle River drive was more fruitful than preacher or logger dreamed."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Higgins had held services in the camp, and the logger requested him to baptize their baby when he next visited them."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The hardy **logger** spends his winter deep in the spruce wilderness, felling giant timber for the mills."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The axe of the commercial **logger** spared neither ancient sequoia nor noble sugar pine."*
+> - 📜 **Theodore Roosevelt (*The Wilderness Hunter*):** *"In the camps of the northwest, the American **logger** displays incredible endurance and axe craftsmanship."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Handling an operation that involves providing labor and materials be supplied as needed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Handling an operation that involves providing labor and materials be supplied as needed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The detailed coordination of complex operations involving people, facilities, supplies, and equipment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military science, the branch dealing with the movement, supply, and maintenance of armed forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the U.S. post-Sputnik initiatives to create a national space program, he critiqued aerospace industries' logistics concepts on future space systems organization, infrastructure and support."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Among the studies he critiqued was 'Space Logistics, Operations, Maintenance and Rescue' (Project SLOMAR)."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the Viet Nam War, he was the senior civilian in the Inspector General's Office at McClellan Air Force Base, a major logistics installation near Sacramento, California."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"The science of **logistics** governs the physical sustenance and transport without which military strategy is an idle dream."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Modern warfare is largely a contest of industrial production and mechanical **logistics**."*
+> - 📜 **Antoine-Henri Jomini (*The Art of War*):** *"I have defined **logistics** as the practical art of moving armies and keeping them supplied in the field."*

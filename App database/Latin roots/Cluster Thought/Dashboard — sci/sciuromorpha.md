@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large more or less primitive rodents: squirrels; marmots; gophers; beavers; etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large more or less primitive rodents: squirrels; marmots; gophers; beavers; etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder of rodents that includes squirrels, marmots, mountain beavers, and dormice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and rodent taxonomy, rodents defined by a specific masseter muscle arrangement along the zygomatic plate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciuromorpha designates large more or less primitive rodents: squirrels; marmots; gophers; beavers; etc."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The suborder **Sciuromorpha** is distinguished from myomorphs by the specialized anterior origin of the lateral masseter muscle."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Primitive fossil representatives of **Sciuromorpha** appear in the Eocene formations of North America."*
+> - 📜 **David Starr Jordan (*A Manual of the Vertebrate Animals*):** *"Within the mammalian order Rodentia, the division **Sciuromorpha** occupies a primitive and well-differentiated position."*

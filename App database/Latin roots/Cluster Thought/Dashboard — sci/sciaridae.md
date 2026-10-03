@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungus gnats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungus gnats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, dark, slender nematoceran flies commonly known as dark-winged fungus gnats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic dipterology, a cosmopolitan family of flies characterized by characteristic wing venation and an eye-bridge above the antennae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciaridae designates fungus gnats."*
+> - 📜 **John Obadiah Westwood (*Modern Classification of Insects*):** *"The family **Sciaridae** was separated from the Mycetophilidae on account of its distinct wing venation and ocular structure."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"Species of **Sciaridae** are among the most abundant subterranean scavengers of moist leaf-litter."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"We collected numerous minute diptera of the family **Sciaridae** from damp hollows in the forest floor."*

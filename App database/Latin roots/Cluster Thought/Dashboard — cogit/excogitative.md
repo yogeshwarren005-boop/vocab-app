@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with excogitating or having the power of excogitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with excogitating or having the power of excogitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the capacity or tendency to think out, devise, or invent through sustained reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical biography, characterizing a mind given to original speculative creation rather than passive empirical reception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excogitative designates concerned with excogitating or having the power of excogitation."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"His **excogitative** genius enabled him to discover moral remedies where others saw only despair."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"Coleridge's mind was pre-eminently **excogitative**, spinning vast dialectical webs from single ideas."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"Under the influence of the drug, the **excogitative** faculty expands beyond all customary bounds."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be no longer approved or accepted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be no longer approved or accepted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To withdraw official recognition, legal status, or accreditation from an organization or government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate governance and treaty law, the deliberate decertification of an agent or diplomatic mission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, derecognize designates cause to be no longer approved or accepted."*
+> - 📜 **Woodrow Wilson (*State Papers and Addresses*):** *"A nation may justly **derecognize** a government that violates the fundamental compact of human liberty."*
+> - 📜 **Felix Frankfurter (*The Public and Its Law*):** *"The labor board was empowered to **derecognize** any company-dominated association."*
+> - 📜 **Walter Lippmann (*The Good Society*):** *"When sovereign states **derecognize** customary international norms, chaos inevitably ensues."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to measure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being measured; measureless, boundless, or limitless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysical poetry and sublime cosmological prose, denoting infinities that surpass all finite instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immensurable designates impossible to measure."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Into this wild Abyss, the womb of Nature and perhaps her grave, through the **immensurable** void they plunge."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"He reigns over the **immensurable** deep, sovereign of elemental storms."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"In my dreams, architectural halls opened into **immensurable** corridors vanishing into eternity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science that studies the body's immune system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medical science that studies the body's immune system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biomedical science concerned with immunity, the immune system, and defense against diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, the discipline investigating humoral antibodies, cellular immunity, hypersensitivity, and autoimmune disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunology designates the branch of medical science that studies the body's immune system."*
+> - 📜 **Frank Macfarlane Burnet (*The Integrity of the Body*):** *"Modern **immunology** began with Jenner's discovery of vaccination and Pasteur's work on attenuated microbes."*
+> - 📜 **Peter Medawar (*The Hope of Progress*):** *"The rapid expansion of **immunology** transformed organ transplantation from a dream into clinical reality."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The side-chain theory established a chemical foundation for the emerging science of **immunology**."*

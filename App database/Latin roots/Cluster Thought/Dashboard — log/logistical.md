@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to logistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to logistics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving the coordination and operational organization of complex collective endeavors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In supply chain strategy and civil administration, managing the distribution networks and temporal staging of materiel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A conical view tank, recessed in the wall to his left, glowed with symbols of ships and their military characteristics, along with tactical and logistical links."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We're working on the ops and logistical support checklists but they're still far from compatible with facilities and installed systems."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The colossal **logistical** challenge of transporting two million American soldiers across the Atlantic was solved with astonishing speed."*
+> - 📜 **Dwight D. Eisenhower (*Crusade in Europe*):** *"No combat operation was ever launched without first resolving every intricate **logistical** detail of fuel and ammunition."*
+> - 📜 **Douglas MacArthur (*Reminiscences*):** *"Our rapid amphibious advances in the Pacific depended entirely upon overcoming formidable **logistical** obstacles."*

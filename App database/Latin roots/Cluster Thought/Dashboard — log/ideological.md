@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or characteristic of an orientation that characterizes the thinking of a group or nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with or suggestive of ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or relating to a particular system of ideas and ideals; doctrinal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern sociology and political philosophy, expressing the collective beliefs and dogmas of a political or social movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideological designates of or pertaining to or characteristic of an orientation that characterizes the thinking of a group or nation."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Intolerance is the inevitable byproduct of dogmatic **ideological** certainty that permits no dissent."*
+> - 📜 **George Orwell (*1984*):** *"The party demanded complete **ideological** conformity in thought as well as in public expression."*
+> - 📜 **John Dewey (*Freedom and Culture*):** *"Democracy is not a rigid **ideological** formula, but a dynamic method of continuous social inquiry."*

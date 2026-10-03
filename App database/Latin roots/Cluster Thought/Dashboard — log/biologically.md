@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to biology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to biology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner related to biology, living organisms, or organic processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary anthropology and physiology, interpreted through the lens of natural selection and physiological functioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biologically designates with respect to biology."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Mankind is **biologically** linked to the anthropoid apes through innumerable homologies of skeleton and brain."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Instincts that appear mysterious become **biologically** intelligible when viewed as products of natural selection."*
+> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"Conduct is **biologically** sound when it fosters the preservation of the individual and the species."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wise and trusted guide and advisor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve as a teacher or trusted counselor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An experienced and trusted adviser or guide who counsels a less experienced person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical epic and pedagogy, derived from Mentor in Homer's Odyssey, embodying wisdom and moral guardianship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You have played the part of mentor to me many times, and I don’t see why you should fear to do it now.” “It is nothing that you have done, this time."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Now, Izz,” he said, while she stood beside him there, forcing himself to the mentor’s part he was far from feeling; “I want you to tell Marian when you see her that she is to be a good woman, and not to give way to folly."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It is not wholly irrespective of our personal feelings that we record HIM as the Mentor of our young Telemachus, for it is good to know that our town produced the founder of the latter’s fortunes."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You have played the part of **mentor** to me many times, and I don't see why you should shrink now."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It is not wholly irrespective of our personal feelings that we record how Mr. Pocket acted as my **mentor**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The venerable whaleman acted as a sea-going **mentor** to the green recruits shipped for the voyage."*

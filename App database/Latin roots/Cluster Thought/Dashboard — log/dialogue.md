@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conversation between two persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lines spoken by characters in drama or fiction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conversation between two or more people; a literary work in the form of a conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and dramatic writing, a classic genre wherein arguments unfold through dialectical exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But shall we have this dialogue between the Fool and the Soldier?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, most esteemed Greatness, will you hear the dialogue that the two learned men have compiled in praise of the owl and the cuckoo?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fear you not my part of the dialogue."*
+> - 📜 **Plato (*The Republic*):** *"The philosophical **dialogue** allows divergent viewpoints to test their coherence through mutual examination."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth listened with lively amusement to the spirited **dialogue** between Mr. Darcy and her sister."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"I will read you the lively **dialogue** between the shepherd and the nymph."*

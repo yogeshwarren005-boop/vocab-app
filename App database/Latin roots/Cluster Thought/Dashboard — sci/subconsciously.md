@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From the subconscious mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the subconscious mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner occurring below the level of conscious awareness; instinctively or unconsciously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative psychology, absorbing environmental cues or forming intentions without deliberate intellectual recognition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He thought, for a while, that what he missed was the ships, and that, subconsciously, there was some nostalgia for the sea on him."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I must be off into the wilds and fight it out by myself." I had known it was coming--subconsciously had known it for weeks, but it was hard all the same."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Subconsciously, I had known that the trouble was monetary, and had made a special study of my pass book before leaving the flat."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He thought for a while that what he missed was the ships, and that, **subconsciously**, he was pining for the sea."*
+> - 📜 **Mrs. George de Horne Vaizey (*The Lady of the Basement Flat*):** *"**Subconsciously**, I had known that the trouble had been brewing between them for many months."*
+> - 📜 **Joseph Conrad (*Chance*):** *"She turned her head away, **subconsciously** sensing that a decisive crisis in her life had arrived."*

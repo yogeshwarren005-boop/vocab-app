@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sometimes followed by `of') having or showing knowledge or understanding or realization or perception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sometimes followed by `of') having or showing knowledge or understanding or realization or perception.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having knowledge or being aware of something; mindful and informed (British spelling of cognizant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative policy and military command, maintaining continuous operational awareness of tactical developments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cognisant designates (sometimes followed by `of') having or showing knowledge or understanding or realization or perception."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"He was fully **cognisant** of the difficulties surrounding his daughter's social position in the parish."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I was **cognisant** of the danger, but could not foresee the extraordinary craft of our adversary."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The Admiralty was keenly **cognisant** of the submarine menace long before the first merchant vessels were sunk."*

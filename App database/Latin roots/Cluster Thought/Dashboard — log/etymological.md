@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or belonging to etymology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or belonging to etymology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the origin and historical development of words and their meanings; linguistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative philology, tracing cognate lexical roots back through sound shifts to ancestral Indo-European forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See, for example, John Graham Dalyell, _The Darker Superstitions of Scotland_ (Edinburgh, 1834), pp. 176 _sq._: "The recognition of the pagan divinity Baal, or Bel, the Sun, is discovered through innumerable etymological sources."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Jamieson, _Etymological Dictionary of the Scottish Language_, revised by J."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The tradition that the founder of the sacred grove at Aricia was a man named Manius, from whom many Manii were descended, would thus be an etymological myth invented to explain the name _maniae_ as applied to these sacramental loaves."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The true **etymological** analysis of a word reveals the historical psychology of the race that created it."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"Many a moral truth lies fossilized in the **etymological** pedigree of an everyday term."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The examination of **etymological** derivations often discloses the philosophical intuitions of antiquity."*

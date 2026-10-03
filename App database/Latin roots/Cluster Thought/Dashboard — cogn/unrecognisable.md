@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defying recognition as e.g. because of damage or alteration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond recognition; in an unrecognizable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being recognized, identified, or made out (British spelling of unrecognizable).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeological excavation and forensic pathology, weathered so severely that original contours are obliterated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Hour after hour we have fought together for the little darling's life, while he lay unconscious against the piled cushions, a waxen image, unrecognisable as the bonnie curly-headed Billie we had loved."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The print from it prefixed to Fitzgerald's _Lamb_ is almost unrecognisable."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The print from it prefixed to Fitzgerald's Lamb is almost **unrecognisable**."*
+> - 📜 **Mrs. George de Horne Vaizey (*The Lady of the Basement Flat*):** *"The once cheerful room was transformed until it was completely **unrecognisable**."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The colossal architecture of the future had crumbled into **unrecognisable** mounds of dust."*

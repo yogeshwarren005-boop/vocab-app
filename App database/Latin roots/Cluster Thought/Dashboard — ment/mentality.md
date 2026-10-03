@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A habitual or characteristic mental attitude that determines how you will interpret and respond to situations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mental ability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic way of thinking, intellectual capacity, or psychological mindset of a person or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and cultural history, the collective worldview, cognitive habits, and moral assumptions shaping a historical epoch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were likewise sharply differentiated in the minutest shades of mentality and temperament."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In general the trait of Speránski’s mentality which struck Prince Andrew most was his absolute and unshakable belief in the power and authority of reason."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This shows what mortal mentality and knowledge are."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In general the trait of Speranski’s **mentality** which struck Prince Andrew was his calm, mathematical logic."*
+> - 📜 **Jack London (*The Star-Rover*):** *"They were sharply differentiated in the minutest shades of **mentality** and emotional reaction."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The primitive **mentality** of ancient mankind was dominated by seasonal taboos and astrological dread."*

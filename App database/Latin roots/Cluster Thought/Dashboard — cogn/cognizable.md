@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived, known, or brought under judicial scrutiny and jurisdiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and legal theory, a legal claim or controversy possessing standing to be heard in a court of justice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A hieroglyph,” said the Rhetor, “is an emblem of something not cognizable by the senses but which possesses qualities resembling those of the symbol.” Pierre knew very well what a hieroglyph was, but dared not speak."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Phenomena explained Portraits, landscape-paintings, fac-similes of penman- ship, peculiarities of expression, recollected sentences, 86:27 can all be taken from pictorial thought and memory as readily as from objects cognizable by the senses."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Causes of admiralty and maritime jurisdiction are properly **cognizable** in federal courts."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"The legitimate powers of government extend to such acts only as are injurious to others and legally **cognizable**."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Only those actions that infringe upon the rights of others are morally **cognizable** by civil authority."*

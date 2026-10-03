@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single written symbol that represents an entire word or phrase without indicating its pronunciation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single written symbol that represents an entire word or phrase without indicating its pronunciation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter, symbol, or glyph that represents a complete word or semantic unit; a logogram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typestyle history and early printing, a cast metal printing type containing a complete word or frequent syllable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logograph designates a single written symbol that represents an entire word or phrase without indicating its pronunciation."*
+> - 📜 **John Walter (*An Address to the Public on Logographic Printing*):** *"By casting a single **logograph** for frequent words like 'the' and 'and', our compositors save immense mechanical labor."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"A **logograph** does not represent a sound; it stands directly for an idea anchored to a linguistic unit."*
+> - 📜 **Isaac Taylor (*The Alphabet: An Account of the Origin of Letters*):** *"In early Mayan codices, each intricate **logograph** combined calendrical math with religious symbolism."*

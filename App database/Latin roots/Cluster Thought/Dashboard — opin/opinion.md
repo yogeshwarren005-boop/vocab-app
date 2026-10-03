@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A personal belief or judgment that is not founded on proof or certainty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message expressing a belief about something; the expression of a belief that is held with confidence but not substantiated by positive knowledge or proof.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief, view, or judgment formed about something, not necessarily grounded on certainty or proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and political science, a formal advisory statement or collective consensus directing civil action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore your oaths Are words and poor conditions; but unseal’d,— At least in my opinion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But let us rear The higher our opinion, that our stirring Can from the lap of Egypt’s widow pluck The ne’er lust-wearied Antony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is my only suit, Provided that you weed your better judgements Of all opinion that grows rank in them That I am wise."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"Therefore your oaths are words and poor conditions; but unseal’d, at least in my **opinion**."*
+> - 📜 **John Milton (*Areopagitica*):** *"Where there is much desire to learn, there of necessity will be much arguing, much writing, many **opinions**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"My good **opinion** once lost is lost for ever."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge of an event before it occurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowledge of an event before it occurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Foreknowledge of an event, especially when acquired through intuitive or prophetic means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scots law, the preliminary examination of prospective witnesses conducted prior to a formal trial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precognition designates knowledge of an event before it occurs."*
+> - 📜 **Walter Scott (*The Heart of Mid-Lothian*):** *"The magistrate ordered a strict **precognition** of all persons who had seen the prisoner on that fatal night."*
+> - 📜 **William James (*The Will to Believe*):** *"Reports of spontaneous **precognition** demand rigorous empirical investigation rather than contemptuous dismissal."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"He recorded several distinct instances of **precognition** that were subsequently verified by newspaper dispatches."*

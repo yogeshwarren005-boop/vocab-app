@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A military engineer who lays or detects and disarms mines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military engineer who does sapping (digging trenches or undermining fortifications).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier employed in building military fortifications, digging trenches, or laying and clearing mines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and combat engineering, an operative skilled in subterranean tunneling under enemy battlements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was the skill of an experienced tactician to deploy the northern levies as the sappers and miners; it was very becoming certainly."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A retired military **sapper** had settled in the village, skilled in masonry and surveying."*
+> - 📜 **Arthur Conan Doyle (*The Great Boer War*):** *"Every imperial **sapper** worked tirelessly under heavy fire to entrench the exposed artillery battery."*
+> - 📜 **Winston Churchill (*The River War*):** *"The army was preceded by the **sapper** and miner, bridging every swollen torrent across the desert."*

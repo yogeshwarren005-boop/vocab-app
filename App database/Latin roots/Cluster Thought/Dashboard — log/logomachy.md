@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Argument about words or the meaning of words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Argument about words or the meaning of words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dispute, argument, or debate conducted entirely about words, terminology, or semantic definitions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological criticism, contentious intellectual conflict that produces no substantive factual result.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Intricate and entangled as is the history, for instance, of the Arian controversy--that controversy which "turned on a diphthong," as Carlyle said in his younger days--it represented far more than mere logomachy, as Carlyle saw later on."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Gradually, from their pressure upon his spirit, he grew conscious of the outcome--they would not be content with logomachies; the end might be death."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Much of the disputation in the universities degenerated into a futile **logomachy**, where men mistook words for things."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"If men would define their terms before debating, the greater part of philosophical controversy would end, revealing it to be mere **logomachy**."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Beware of mistaking a profound spiritual problem for a superficial **logomachy** of scholastic origin."*

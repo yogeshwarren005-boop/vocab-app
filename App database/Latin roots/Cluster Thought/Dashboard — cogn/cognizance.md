@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having knowledge of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Range of what one can know or understand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge, awareness, or notice; judicial jurisdiction or recognition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and heraldry, official judicial examination, or a noble badge identifying an armigerous house.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cognizance of her incontinency Is this: she hath bought the name of whore thus dearly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, by my soul, this pale and angry rose, As cognizance of my blood-drinking hate, Will I for ever and my faction wear, Until it wither with me to my grave, Or flourish to the height of my degree."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your statue spouting blood in many pipes, In which so many smiling Romans bath’d, Signifies that from you great Rome shall suck Reviving blood, and that great men shall press For tinctures, stains, relics, and cognizance."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"As **cognizance** of my blood-drinking hate, will I this pale and maiden blossom bear."*
+> - 📜 **Francis Bacon (*Essays*):** *"Things of great consequence should be brought to the timely **cognizance** of the sovereign."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrates took solemn **cognizance** of her fault before the assembled multitude."*

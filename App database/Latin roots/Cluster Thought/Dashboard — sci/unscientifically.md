@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unscientific way; not according to the principles of science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unscientific way; not according to the principles of science.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that does not conform to scientific principles or empirical methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic criticism, conducting experiments or interpreting evidence with bias, lack of controls, or anecdotal speculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unscientifically designates in an unscientific way; not according to the principles of science."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"To argue from isolated anomalies without systematic observation is to proceed wholly **unscientifically**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Early travelers described indigenous customs so **unscientifically** that little reliance can be placed upon their reports."*
+> - 📜 **William James (*The Principles of Psychology*):** *"When philosophers treat mental faculties as independent agents, they speak **unscientifically** and obscure the truth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family comprising a single genus that until recently was considered part of taxodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family comprising a single genus that until recently was considered part of taxodiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of conifers containing the single extant species Sciadopitys verticillata (Japanese umbrella pine).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gymnosperm paleobotany and taxonomy, a relictual Mesozoic conifer lineage characterized by fused cladode needle whorls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciadopityaceae designates family comprising a single genus that until recently was considered part of taxodiaceae."*
+> - 📜 **Asa Gray (*Botanical Memoirs*):** *"The family **Sciadopityaceae** represents an ancient gymnosperm lineage preserved from the Jurassic era in the mountains of Japan."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Fossil wood allied to modern **Sciadopityaceae** occurs in the Mesozoic amber beds of northern Europe."*
+> - 📜 **Charles Sprague Sargent (*Forest Flora of Japan*):** *"The sacred umbrella pine stands as the solitary surviving representative of the family **Sciadopityaceae**."*

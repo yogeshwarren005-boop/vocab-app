@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinate in your opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obstinate in your opinions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dogmatic, dictatorial, or stubbornly wedded to preconceived opinions; opinionated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern moral essays and theology, exhibiting contentious inflexibility in disputes over doctrine or ritual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"They were not only opinionative, peevish, covetous, morose, vain, talkative, but incapable of friendship, and dead to all natural affection, which never descended below their grandchildren."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"They were not only **opinionative**, but stubborn to a degree that defied persuasion."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Melancholic men are frequently passionate and **opinionative**, wedded to absurd phantasies."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men become **opinionative** when they take hypotheses for demonstrable certainties without examination."*

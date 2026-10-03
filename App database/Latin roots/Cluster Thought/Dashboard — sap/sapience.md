@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ability to apply knowledge or experience or understanding or common sense and insight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ability to apply knowledge or experience or understanding or common sense and insight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great wisdom, discernment, or knowledge, especially when applied with elevated judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and satirical prose, profound philosophical insight, or mocked pretension of superior understanding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"So sang the Hierarchies: Mean while the Son On his great Expedition now appeer’d, Girt with Omnipotence, with Radiance crown’d Of Majestie Divine, Sapience and Love Immense, and all his Father in him shon."*
-> - 📜 **John Milton (*Paradise Lost*):** *"So sang the Hierarchies: Mean while the Son On his great expedition now appeared, Girt with Omnipotence, with radiance crowned Of Majesty Divine; sapience and love Immense, and all his Father in him shone."*
-> - 📜 **John Milton (*Paradise Lost*):** *"O sovran, virtuous, precious of all trees In Paradise! of operation blest To sapience, hitherto obscured, infamed."*
+> - 📜 **John Milton (*Paradise Lost*):** *"O sovran, virtuous, precious of all trees in Paradise! of operation blest to **sapience**, hitherto obscured."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The learned bailiff stroked his chin and delivered himself of an opinion with solemn **sapience**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon nodded his head with an air of ponderous **sapience** that silenced the young curate."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of sciaenidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of sciaenidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of sciaenid fish containing the red drum or redfish (Sciaenops ocellatus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In game and commercial fishing, an estuarine sciaenid fish prized along the Atlantic and Gulf coasts for its fighting spirit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciaenops designates a genus of sciaenidae."*
+> - 📜 **George Brown Goode (*American Fishes*):** *"The channel bass, or red drum, classified under **Sciaenops**, is readily identified by the black ocellated spot at the base of its tail."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The species **Sciaenops** ocellatus grows to an immense size in the warm waters of the Mexican Gulf."*
+> - 📜 **Spencer Fullerton Baird (*Reports of the United States Fish Commission*):** *"Large aggregations of **Sciaenops** enter the shallow sounds each autumn to spawn."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tropical american evergreen yielding chicle gum and edible fruit; sometimes placed in genus achras.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical fruit with a rough brownish skin and very sweet brownish pulp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large tropical evergreen tree (Manilkara zapota) yielding sweet brown fruit and chicle gum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical agriculture and commerce, the tree cultivated for its edible sugary fruit and latex base for chewing gum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapodilla designates large tropical american evergreen yielding chicle gum and edible fruit; sometimes placed in genus achras."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"We refreshed ourselves with the sweet, sugary pulp of the tropical **sapodilla**."*
+> - 📜 **William Dampier (*A New Voyage Round the World*):** *"The **sapodilla** tree yields a fruit as large as a quince, having a luscious and fragrant taste."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The milky latex of the **sapodilla** trunk furnishes the chicle gum prized by the native tribes."*

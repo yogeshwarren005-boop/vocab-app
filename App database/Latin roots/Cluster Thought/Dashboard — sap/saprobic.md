@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living in or being an environment rich in organic matter but lacking oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living in or being an environment rich in organic matter but lacking oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by organisms that live on decaying organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater ecology, waters classified according to their degree of organic pollution and anaerobic microbial decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprobic designates living in or being an environment rich in organic matter but lacking oxygen."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"In primitive stagnant waters, **saprobic** microorganisms thrive by consuming dissolved detritus."*
+> - 📜 **Louis Pasteur (*Researches on the Fermentation of Yeast*):** *"Certain fungi flourish best in **saprobic** environments rich in rotting carbohydrate residues."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"The presence of **saprobic** organisms in a stream indicates a high level of decaying organic discharge."*

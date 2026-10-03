@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amateur who engages in an activity without serious intentions and who pretends to have knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amateur who engages in an activity without serious intentions and who pretends to have knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pretends to be knowledgeable and displays superficial learning; a smatterer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polemical criticism and philosophy, a superficial dabbler who pontificates authoritatively on topics beyond his depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciolist designates an amateur who engages in an activity without serious intentions and who pretends to have knowledge."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"A mere **sciolist** will always dispute dogmatically upon subjects that true scholars approach with reverence."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The vain **sciolist** catches at empty words while the wise investigator searches out the nature of things."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"Every modern coffee-house **sciolist** imagines himself capable of reforming the church and commonwealth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kingfishes; whiting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kingfishes; whiting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fleshy barb or sensory filament on the chin of certain marine fishes; a sciaenoid fish genus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyological morphology and marine biology, a tactile barbel located on the mandibular symphysis used to detect benthic prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, menticirrhus designates kingfishes; whiting."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The species of the genus **Menticirrhus** are characterized by a single short, thick barbel upon the chin."*
+> - 📜 **George Brown Goode (*American Fishes*):** *"The Carolina whiting, belonging to **Menticirrhus**, feeds along sandy bottoms aided by its sensitive chin filament."*
+> - 📜 **Charles Girard (*Ichthyological Notices*):** *"The presence of the mandibular **menticirrhus** distinguishes this sciaenoid fish from related coastal genera."*

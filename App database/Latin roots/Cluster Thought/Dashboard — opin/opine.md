@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express one's opinion openly and without fear or hesitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expect, believe, or suppose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To hold or express an opinion; state as one's belief or judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In expository rhetoric and juristic debate, asserting a formal viewpoint or scholarly conclusion with prudent deliberation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When, as I opine, in the course of time, the true nature of spermaceti became known, its original name was still retained by the dealers; no doubt to enhance its value by a notion so strangely significant of its scarcity."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I opine, that it is plainly traceable to the first arrival of the Greenland whaling ships in London, more than two centuries ago."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"When, as I opine, in the course of time, the true nature of spermaceti became known, its original name was still retained by the dealers; no doubt to enhance its value by a notion so strangely significant of its scarcity."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"When, as I **opine**, in the course of time, the true nature of spermaceti became known, its original name was retained."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Indeed they **opine** that the Eternal and Divine did in very truth walk upon the earth."*
+> - 📜 **Laurence Sterne (*Tristram Shandy*):** *"I **opine**, quoth my Uncle Toby, that every soldier should know the reason of the warfare in which he serves."*

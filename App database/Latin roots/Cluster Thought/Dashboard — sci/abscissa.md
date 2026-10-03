@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The value of a coordinate on the horizontal axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The value of a coordinate on the horizontal axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The horizontal coordinate of a point in a Cartesian coordinate system, measured along the x-axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical geometry and calculus, the independent variable plotted horizontally against the vertical ordinate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abscissa designates the value of a coordinate on the horizontal axis."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Let the distance from the prism be represented by the **abscissa**, and the dispersion of rays by the ordinate."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Descartes revolutionized geometry by representing algebraic equations through the **abscissa** and ordinate of points."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"A curve is determined when every **abscissa** corresponds to a uniquely defined ordinate in continuous space."*

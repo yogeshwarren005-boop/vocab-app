@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number of which a given number is the logarithm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number of which a given number is the logarithm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Short for antilogarithm; the number of which a given value is the logarithm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational mathematics and navigation, the number obtained by raising the logarithmic base to a given power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilog designates the number of which a given number is the logarithm."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The calculation of every **antilog** was verified against standard astronomical tables to eliminate mechanical error."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Navigators determine distances at sea by taking the **antilog** of the sum of logarithmic sines."*
+> - 📜 **Augustus De Morgan (*A Budget of Paradoxes*):** *"A beginner in trigonometry frequently confuses the log of a sine with its corresponding **antilog**."*

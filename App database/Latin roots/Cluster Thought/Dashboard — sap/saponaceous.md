@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the qualities of soap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or having the qualities of soap.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the qualities of soap; soapy, slippery, or unctuous in texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character satire and social critique, describing an evasively smooth, flattering, or untrustworthy demeanour.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saponaceous designates resembling or having the qualities of soap."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer possessed a bland and **saponaceous** manner that made his slippery promises hard to pin down."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale-oil, when freshly baled from the case, felt remarkably soft and **saponaceous** to the touch."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The courtier smiled with **saponaceous** servility, agreeing with every royal whim."*

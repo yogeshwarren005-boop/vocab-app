@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving of respect or high regard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving of esteem and respect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of high regard, esteem, or admiration; also capable of being estimated or calculated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social ethics and character portraiture, possessing enduring integrity, benevolence, and civic virtue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pound of man’s flesh, taken from a man, Is not so estimable, profitable neither, As flesh of muttons, beefs, or goats."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But though I could not with such estimable wonder overfar believe that, yet thus far I will boldly publish her, she bore a mind that envy could not but call fair."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I found estimable characters amongst them—characters desirous of information and disposed for improvement—with whom I passed many a pleasant evening hour in their own homes."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"A pound of man’s flesh, taken from a man, Is not so **estimable**, profitable neither, As flesh of muttons, beefs, or goats."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Such a theory of life excites in many minds, and among them in some of the most **estimable** in feelings and purpose, the deepest aversion."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"He is a very **estimable** young man, with principles and conduct that must secure him friends."*

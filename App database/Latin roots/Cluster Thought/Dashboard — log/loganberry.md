@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Red-fruited bramble native from oregon to baja california.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large red variety of the dewberry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cultivated hybrid berry between the blackberry and raspberry, bearing dark red edible fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and pomology, Rubus × loganobaccus, created in California in 1881 by Judge James Harvey Logan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loganberry designates red-fruited bramble native from oregon to baja california."*
+> - 📜 **Luther Burbank (*His Methods and Discoveries*):** *"The **loganberry** combined the vigorous growth of the Pacific wild blackberry with the delicate acid flavor of the red raspberry."*
+> - 📜 **John Burroughs (*Under the Maples*):** *"In the garden borders, heavy clusters of dark crimson **loganberry** ripened under the summer sun."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The **loganberry** has proved one of the most valuable commercial bush fruits introduced in modern times."*

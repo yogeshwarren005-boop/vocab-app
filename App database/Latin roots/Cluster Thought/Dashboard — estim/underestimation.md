@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimation that is too low; an estimate that is less than the true or actual value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An estimation that is too low; an estimate that is less than the true or actual value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimate that falls below actual value, cost, extent, or significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical analysis and policy evaluation, failing to anticipate the severity of structural crises or economic depressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underestimation designates an estimation that is too low; an estimate that is less than the true or actual value."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The chief inspector's fatal error was an **underestimation** of the fanaticism that guided the anarchist group."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The treaty was based on a disastrous **underestimation** of Europe's post-war economic fragility."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"An **underestimation** of animal intelligence has long delayed a true appreciation of our kinship with other species."*

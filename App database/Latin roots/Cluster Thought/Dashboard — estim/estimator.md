@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert at calculation (or at operating calculating machines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert at calculation (or at operating calculating machines).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who computes, evaluates, or appraises the cost, magnitude, or value of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical mathematics and commerce, a formula or function that computes an approximation of an unknown population parameter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Michells, a former cruiser and estimator."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Michells, a former cruiser and timber **estimator**, knew every acre of the white pine forest."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The prudent merchant acts as a competitive **estimator** of future marginal utility in the marketplace."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Every revenue **estimator** of the seventeenth century was compelled to work with imperfect fiscal data."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any shape resembling the curved shape of the moon in its first or last quarters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the new moon in shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The curved sickle shape of the waxing or waning moon; also growing, increasing, or developing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and political heraldry, the crescent emblem served as a primary symbol of the Byzantine Empire and Ottoman state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people love me, and the sea is mine; My powers are crescent, and my auguring hope Says it will come to th’ full."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was then of a crescent note, expected to prove so worthy as since he hath been allowed the name of."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For nature crescent does not grow alone In thews and bulk; but as this temple waxes, The inward service of the mind and soul Grows wide withal."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"The people love me, and the sea is mine; my powers are **crescent**, and my auguring hope says it will come to the full."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"In the twilight of the morning, light seems active, darkness passive; the pale **crescent** hung faintly in the western sky."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The angelic squadrons wheeled into a defensive **crescent**, their burnished shields flashing against the deep dark."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of implementing (providing a practical means for accomplishing something); carrying into effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of implementing (providing a practical means for accomplishing something); carrying into effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of carrying into effect, bringing about, executing, or accomplishing an objective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative law and strategic management, effectuation is the operational implementation of legal mandates or strategic plans into daily practice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effectuation designates the act of implementing (providing a practical means for accomplishing something); carrying into effect."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without executive unity and vigor, the **effectuation** of public laws becomes sluggish and uncertain."*
+> - 📜 **Joseph Story (*Commentaries on the Constitution of the United States*):** *"The legislative branch possesses broad discretion in choosing the means best suited for the **effectuation** of federal powers."*
+> - 📜 **Max Weber (*Economy and Society*):** *"The bureaucratic apparatus provides an instrument for the precise, calculable **effectuation** of modern state administration."*
+

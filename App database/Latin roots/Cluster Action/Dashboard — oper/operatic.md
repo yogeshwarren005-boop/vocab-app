@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of opera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of opera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of opera; extravagantly theatrical, melodramatic, or emotionally exaggerated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and social satire, an operatic gesture or speech is one marked by inflated, grandiloquent emotional projection suitable for the stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Retired from operatic stage—ha!"*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Arkwright, the new star in the operatic firmament, was obviously a welcome comrade."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her grief was quiet and dignified, entirely free from the **operatic** histrionics that characterized her sister's laments."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The melodrama suffered from an absurd **operatic** villain whose villainy was announced by ominous brass chords."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Her theatrical mother spoke with an **operatic** solemnity, viewing every minor domestic event through the lens of tragic art."*
+

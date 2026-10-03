@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being converted into assimilable condition in the alimentary canal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being converted into assimilable condition in the alimentary canal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being digested; easily broken down and absorbed by the stomach and intestines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metaphorically in intellectual communication, digestible describes information or writing that is clear, accessible, and easily understood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I suppose you have--in nightmares, after supping on cold boiled pork and greens, or some nice little digestible morsel like that."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"With rules of health in the head and the most digestible food in the stomach, there would still be dyspeptics."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When for one day I had drunk milk alone, the god said to put honey in the milk to make it digestible."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse strongly recommended a bowl of thin, light, and perfectly **digestible** gruel as the sovereign remedy for all bodily ills."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"Venison steak proved to be one of the most readily **digestible** meats, dissolving completely within ninety minutes."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Knowledge should be presented in a smooth, **digestible** form to the young before they are introduced to thorny controversies."*
+

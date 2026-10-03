@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a superficial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a superficial manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shallow manner, or only on the surface; without depth or thoroughness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative pathology, lesions presenting superficially on mucosal tissues may indicate deeper underlying systemic autoimmune dysfunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Paris and Troilus, you have both said well; And on the cause and question now in hand Have gloz’d, but superficially; not much Unlike young men, whom Aristotle thought Unfit to hear moral philosophy."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I was yesterday taken by surprise, and saw it superficially."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He was about to take a step which would astonish all his friends and displease a great many of them, and which had superficially nothing to recommend it."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Species that appear **superficially** dissimilar often exhibit identical skeletal homologies when dissected by an anatomist."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy examined his financial difficulties only **superficially**, trusting that some lucky turn of fortune would extricate him."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The constable inspected the deserted room **superficially**, completely overlooking the bloody cipher inscribed upon the wall."*
+

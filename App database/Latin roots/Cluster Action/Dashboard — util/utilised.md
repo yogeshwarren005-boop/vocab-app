@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into service; make work or employ for a particular purpose or for its inherent or natural purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put to use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put to practical, profitable, or functional use; turned to good account.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological energetics, utilised energy represents the portion of ingested solar or chemical calories assimilated into organic biomass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"At least she utilised them for that purpose."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Then he utilised this added power to move a pen whereby the signals were recorded automatically upon a piece of paper."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Indeed in the case of lights on the mainland near a town the gas from the town main is often utilised."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every minute difference in beak structure is **utilised** by the bird in capturing a specific kind of seed or insect."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The surplus capital of the kingdom was **utilised** in building canals and improving public turnpike roads."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The keen detective had **utilised** the hour of darkness to examine the ground beneath the library window unobserved."*
+

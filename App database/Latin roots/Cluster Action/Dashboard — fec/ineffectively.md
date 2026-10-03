@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ineffective manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ineffective manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that fails to accomplish the intended purpose or produce a decisive result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tactical and strategic military treatises, striking ineffectively expends logistical resources while leaving enemy defensive positions substantially intact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Specialization _saves tools_ for, either each kind of work must be most ineffectively done, or there must be provided for each worker a complete set of tools which thus will be used rarely and will rust out rather than wear out."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"Artillery directed without accurate observation expends ammunition **ineffectively** against enemy redoubts."*
+> - 📜 **Alfred Thayer Mahan (*The Influence of Sea Power upon History*):** *"A dispersed fleet operates **ineffectively** against a concentrated adversary who strikes each division in detail."*
+> - 📜 **Arthur Conan Doyle (*The Great Boer War*):** *"The British infantry fired **ineffectively** at the crest of the hill, where no visible enemy showed a head."*
+

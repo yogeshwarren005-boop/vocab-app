@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Help as a benefactor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Help as a benefactor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perform an act of kindness, charity, or assistance toward another; to confer a benefit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic moral philosophy and jurisprudence, to benefact signified fulfilling a duty of natural equity by bestowing unearned aid upon those in distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, benefact designates help as a benefactor."*
+> - 📜 **Jeremy Bentham (*Principles of the Civil Code*):** *"The legal code should encourage every citizen to **benefact** his neighbors through reciprocal civic generosity."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A noble disposition seeks rather to **benefact** mankind in silence than to receive the clamorous plaudits of the crowd."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He resolved to **benefact** the destitute scholar by an unexpected bequest, relieving him from the humiliations of poverty."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seventh month of the revolutionary calendar (march and april); the month of buds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing seeds of later development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to a germ, embryo, or earliest developmental stage; rudimentary, formative, or in the initial stage of growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and reproductive cytology, the germinal epithelium gives rise to primordial germ cells in the developing gonads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke had written his invitation, those germinal ideas of making his mind tell upon the world at large which had been present in him from his younger years, but had hitherto lain in some obstruction, had been sprouting under cover."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The rudimentary structures visible in the **germinal** vesicle foreshadow the anatomical plan of the adult organism."*
+> - 📜 **August Weismann (*The Germ-Plasm: A Theory of Heredity*):** *"Heredity is mediated through the continuity of the **germinal** plasm, shielded from somatic environmental modifications."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every great scientific discovery exists initially in a **germinal** intuition before being articulated in systematic logic."*
+

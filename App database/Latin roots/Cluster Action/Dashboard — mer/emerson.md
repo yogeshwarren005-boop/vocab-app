@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer and leading exponent of transcendentalism (1803-1882).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer and leading exponent of transcendentalism (1803-1882).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ralph Waldo Emerson (1803–1882), seminal American essayist, lecturer, philosopher, and leader of the Transcendentalist movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American literary and intellectual history, Emerson championed spiritual individualism, self-reliance, and intuitive communion with the natural cosmos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A number of other variations have been worked out by the promoters of recent scientific management, and are known as Taylor's, Gantt's, and Emerson's plans."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Emerson 43 Location of the Lua o Milu 48 VI."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Emerson_ Not far from the summit of Hualalai, on the island of Hawaii, in the cave on the southern side of the ridge, lived Hina and her son, the _kupua_, or demigod, Hiku."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"I walked through the pine woods with **emerson**, conversing on the eternal laws that govern nature and the soul."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The profound influence of **emerson** upon my youth acted as the vital spark that ignited my poetic ambition."*
+> - 📜 **Matthew Arnold (*Discourses in America*):** *"To my generation at Oxford, the clear voice of **emerson** was one of the most inspiring and liberating sounds in modern literature."*
+

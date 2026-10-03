@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A numbered list.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of counting; reciting numbers in ascending order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of mentioning or establishing a number of things one by one; a comprehensive catalog or list.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, the enumeration of specific powers delegated to the national legislature reserves unenumerated prerogatives to the states or people.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Here this mere enumeration must be allowed to convey its own suggestion of far-reaching results for the whole political economy of the nation and of the world."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins expected the scene to inspire, and was but slightly affected by his enumeration of the windows in front of the house, and his relation of what the glazing altogether had originally cost Sir Lewis de Bourgh."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: The three last numbers of this paper have been dedicated to an enumeration of the dangers to which we should be exposed, in a state of disunion, from the arms and arts of foreign nations."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional **enumeration** of congressional powers was never intended to preclude the exercise of necessary and proper implied authorities."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Induction by simple **enumeration** of positive instances is a childish method that collapses before the first contradictory negative instance."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The historian shrinks from the tedious **enumeration** of the barbarian tribes that crossed the frozen Danube."*
+

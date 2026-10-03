@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being effaced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being effaced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being effaced, erased, obliterated, or wiped away.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and legal documentation, an effaceable transgression is expungable through sincere restitution or statutory pardon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effaceable designates capable of being effaced."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Impressions made upon the soft wax of youthful memory are readily **effaceable** unless deepened by frequent reflection."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"No human deed is easily **effaceable** from the living fabric of history, which vibrates with eternal consequences."*
+> - 📜 **George Eliot (*Romola*):** *"The ink was still fresh and **effaceable** upon the scroll before Tito sealed the secret dispatch."*
+

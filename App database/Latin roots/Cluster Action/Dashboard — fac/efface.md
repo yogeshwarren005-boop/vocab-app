@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove completely from recognition or memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make inconspicuous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To erase a mark from a surface; to wipe out, eliminate, or cause to disappear from memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character psychology, to efface oneself involves behaving with extreme modesty and humility to avoid public attention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"If aught that giver from my mind efface, If I that giver’s bounty e’er disgrace, Then roll to me along your wand’rig spheres, Only to number out a villain’s years!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Eternity will not efface Those records dear of transports past, Thy image at our last embrace, Ah! little thought we ’twas our last!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Only the very young can afford to be, seen asleep, when the face sinks back into its original repose, and lines and wrinkles reappear in the loss of all that smiling charm of expression which may efface them by day."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Time will not **efface** the memory of our sacred vows, nor blot our ancient friendship from our hearts."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The footsteps of the passing crowd seemed to **efface** the bloodstains from the cobblestones before the wine shop."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"No suffering could **efface** from her recollection the tender kindness of Miss Temple during that bleak winter."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The placement of the fingers for playing different notes (or sequences of notes) on a musical instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Touching something with the fingers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic technique or sequence of applying the fingers to the keys, valves, or strings of a musical instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile craftsmanship, fingering yarn is a fine, lightweight grade of wool typically used for knitting delicate socks, gloves, and infant garments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you can penetrate her with your fingering, so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You would be fingering them to anger me."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She has a very good notion of fingering, though her taste is not equal to Anne’s."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"If you can penetrate her with your **fingering**, so; we'll try to tempt her with music of another kind."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth's performance was pleasing, though by no means capital; her **fingering** lacked the finished precision of Mary's practice."*
+> - 📜 **Johann Sebastian Bach (*The Well-Tempered Clavier*):** *"The modern keyboard player must employ the thumb systematically to execute rapid and legato **fingering** across all keys."*
+

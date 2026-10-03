@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Whitings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whitings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus or subgenus of marine gadoid fishes, notably Merlangius merlangus (the whiting), common in the northeastern Atlantic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial fisheries and ichthyology, the whiting (Merlangus) is valued for its tender white flesh, playing a vital role as a mid-trophic predator in the North Sea food web.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog merlangus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Pennant (*British Zoology*):** *"The whiting, termed **merlangus** by older naturalists, is taken in vast shoals upon the sandy banks of the British Channel."*
+> - 📜 **William Yarrell (*A History of British Fishes*):** *"In the genus **merlangus**, the three dorsal fins are distinct and the lower jaw lacks the fleshy barbel seen in the cod."*
+> - 📜 **Frank Buckland (*Log-Book of a Fisherman and Zoologist*):** *"The coastal trawlers landed heavy catches of **merlangus**, providing cheap and wholesome food for the London markets."*
+

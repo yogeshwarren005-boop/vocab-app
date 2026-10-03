@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an effective manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an effective manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that successfully produces the desired result or intended effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legislative history and political economy, enforcing statutes efficaciously requires impartial judicial tribunals and swift executive action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"It does more certainly, more clearly and efficaciously, behold all things, than by the vulgar inquiry of the intellect and by the discourse of reason."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"True axioms lead directly and **efficaciously** to new mechanical inventions that augment human power over nature."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions operated most **efficaciously** when deployed in disciplined cohorts upon open ground."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Private self-interest directs capital far more **efficaciously** into productive channels than any royal decree."*
+

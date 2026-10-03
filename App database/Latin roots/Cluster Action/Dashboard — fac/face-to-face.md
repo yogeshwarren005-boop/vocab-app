@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In each other's presence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Within each other's presence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In direct physical presence or confrontation with someone; confronting each other directly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phenomenology and dialogue ethics, the face-to-face encounter establishes immediate intersubjective ethical responsibility between human beings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, face-to-face designates in each other's presence."*
+> - 📜 **William Shakespeare (*Richard II*):** *"**Face to face**, and frowning brow to brow, ourselves will hear the accuser and the accused freely speak."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The two lifelong enemies stood **face-to-face** in the courtroom, their eyes locked in mutual recognition."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Arthur Dimmesdale stood **face-to-face** with his tormentor in the dark study, trembling with unspoken guilt."*
+

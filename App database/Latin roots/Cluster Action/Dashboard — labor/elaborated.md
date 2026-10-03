@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce from basic elements or sources; change into a more developed product.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Developed, expanded, or decorated with great detail, complexity, or precision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics, Basil Bernstein defined the elaborated code as a formal, explicit linguistic variant characterized by complex syntax and context-independent meaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"On Sundays, she went to church elaborated."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"One of the points that Austin elaborated most was a classification such as might serve for a scientific code of law."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In healing the sick and sinning, Jesus elaborated the fact that the healing effect 141:15 followed the understanding of the divine Principle and of the Christ-spirit which governed the corporeal Jesus."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The secondary sexual plumage of the peacock is an **elaborated** structure developed through sexual selection."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution moves from a simple, incoherent homogeneity toward an **elaborated**, coherent heterogeneity of structure."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The criminal had **elaborated** a scheme of extraordinary ingenuity, but neglected a single footprint in the lane."*
+

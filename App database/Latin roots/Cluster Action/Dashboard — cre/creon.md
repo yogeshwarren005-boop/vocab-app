@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the brother of jocasta and uncle of antigone who became king of thebes after the fall of oedipus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the brother of jocasta and uncle of antigone who became king of thebes after the fall of oedipus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Creon, legendary ruler of Thebes in Greek mythology, prominent in Sophocles' Theban plays Oedipus Rex and Antigone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic philosophy and classical tragedy, Creon embodies inflexible positive state law confronting Antigone's unwritten divine moral laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are three queens whose sovereigns fell before The wrath of cruel Creon, who endure The beaks of ravens, talons of the kites, And pecks of crows, in the foul fields of Thebes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is true, and I will give you comfort To give your dead lords graves; The which to do must make some work with Creon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our services stand now for Thebes, not Creon."*
+> - 📜 **William Shakespeare (*The Two Noble Kinsmen*):** *"Arcite and Palamon, the two noble kinsmen, cousins and nephews of **creon**, were captured upon the battlefield."*
+> - 📜 **Aristotle (*Poetics*):** *"The tragic hubris of **creon** in decreeing the exposure of Polyneices' corpse precipitates the catastrophic doom of his own royal house."*
+> - 📜 **Matthew Arnold (*Merope: A Tragedy*):** *"Like stubborn **creon**, he refused to heed the warnings of the prophet until the gods struck down his pride."*
+

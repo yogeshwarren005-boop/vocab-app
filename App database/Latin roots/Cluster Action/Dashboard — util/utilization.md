@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of using.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having been made use of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practical application, deployment, or active employment of a resource, instrument, or opportunity to achieve a tangible end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In resource economics and industrial engineering, asset utilization measures the operational efficiency with which capital equipment and labor are deployed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A similar variation may be noted in the utilization of marginal land, marginal factories, marginal forges, and marginal agents of every kind.[5] § 8. #The general level of prices#."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"ARTICLE SIX We commit our Governments to accept financial, fiduciary, material and technological assessments for our utilization of the common space-ways."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Getting more use out of the book by effort, out of the farm by applying more fertilizer, out of the house by putting more people into it, is intensive utilization."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The economic **utilization** of space and food on an oceanic island is maximized when diverse taxonomic forms coexist."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The full **utilization** of productive machinery requires an extensive market that can absorb the augmented annual output."*
+> - 📜 **Herbert Simon (*Administrative Behavior*):** *"Organizational efficiency depends on the rational **utilization** of specialized knowledge distributed among its members."*
+

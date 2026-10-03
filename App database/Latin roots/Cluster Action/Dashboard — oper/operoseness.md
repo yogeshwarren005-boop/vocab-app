@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of requiring extended effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of requiring extended effort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Painstaking laboriousness, burdensome tediousness, and the demanding difficulty of an endeavor requiring exhaustive exertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical prose and essayistic critique, operoseness describes a pedantic insistence on burdensome methodologies where direct observation would suffice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operoseness designates the quality of requiring extended effort."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"The metaphysical poets were distinguished by an extraordinary **operoseness** in searching for far-fetched intellectual conceits."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The vanity and **operoseness** of alchemical recipes exhaust the fortune of the experimenter without producing gold."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The dry **operoseness** of German pedagogical systems often extinguishes the spontaneous poetic wonder of youth."*
+

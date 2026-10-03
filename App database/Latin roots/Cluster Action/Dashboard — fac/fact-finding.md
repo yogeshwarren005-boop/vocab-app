@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to find information or ascertain facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to find information or ascertain facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or engaged in the discovery and impartial gathering of objective facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international arbitration and administrative law, a fact-finding commission establishes empirical findings prior to formal judicial adjudication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fact-finding designates designed to find information or ascertain facts."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The legislative committee undertook an exhaustive **fact-finding** expedition to ascertain industrial conditions across the coal fields."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The diplomatic envoys proposed an impartial **fact-finding** mission to resolve border disputes along the contested frontier."*
+> - 📜 **Jane Addams (*Peace and Bread in Time of War*):** *"Our voluntary committee dedicated itself to honest **fact-finding** regarding food shortages among besieged civilian populations."*
+

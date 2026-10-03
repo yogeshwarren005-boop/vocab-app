@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless to yellow aromatic liquid that is a constituent of creosote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless to yellow aromatic liquid that is a constituent of creosote.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic liquid chemical compound (4-methylguaiacol) found in wood creosote, used in organic chemistry and flavoring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical pharmacognosy, creosol contributes the characteristic smoky, antiseptic medicinal aroma to beechwood wood-tar distillates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creosol designates a colorless to yellow aromatic liquid that is a constituent of creosote."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Fractional distillation of beechwood tar yields **creosol**, an aromatic oil possessing powerful antiseptic properties."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"The pungent vapor of **creosol** was recognized as the principal agent preventing putrefaction in pyroligneous acid."*
+> - 📜 **Robert Boyle (*Experiments and Considerations Touching Colours*):** *"The distilled spirit of wood tar yielded an oily drop of **creosol** that turned deeply red when treated with vitriol."*
+

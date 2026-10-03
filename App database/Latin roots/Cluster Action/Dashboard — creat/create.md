@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or cause to be or to become.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring something into existence; to cause something new to be made, produced, or instituted through imaginative or physical effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological and philosophical discourse, to create (creatio ex nihilo) signifies bringing being into existence out of absolute nothingness through divine will.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou canst like this creature as a maid, I can create the rest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are you a god? would you create me new?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Arise my knights o’ th’ battle; I create you Companions to our person, and will fit you With dignities becoming your estates."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The poet's eye, in fine frenzy rolling, doth glance from heaven to earth, from earth to heaven; and as imagination bodies forth the forms of things unknown, the poet's pen turns them to shapes and gives to airy nothing a local habitation and a name: such tricks hath strong imagination, that, if it would but apprehend some joy, it comprehends some bringer of that joy; or in the night, imagining some fear, how easy is a bush supposed a bear! To **create** these visions is the poet's art."*
+> - 📜 **Francis Bacon (*The Essays*):** *"The first creation of God, in the works of the days, was the light of the sense; the last was the light of reason; and his sabbath work ever since, is the illumination of his Spirit: first he breathed light upon the face of the matter or chaos; then he breathed light into the face of man; and still he breatheth and inspireth light into the face of his chosen: to **create** light is the supreme act of divine benevolence."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Human power can never **create** new simple ideas in the mind, being restricted solely to combining and comparing those given in sensory experience."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of veneridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of veneridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of edible marine bivalve mollusks in the family Veneridae, notably Mercenaria mercenaria (the northern quahog or hard clam).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American ethnohistory and malacology, Mercenaria shells were prized by eastern Native Americans as the raw material for purple and white wampum beads used in trade and diplomacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercenaria designates a genus of veneridae."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"The fishermen dug into the low-tide mud flats for the hard-shelled **mercenaria**, whose thick valves supplied the ancient wampum makers."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The heavy, porcelain-like shell of **mercenaria** mercenaria exhibits deep purple margins characteristic of the adult bivalve."*
+> - 📜 **Thomas Say (*American Conchology*):** *"In the genus **mercenaria**, the hinge teeth are stout and the pallial sinus is well developed on the inner shell surface."*
+

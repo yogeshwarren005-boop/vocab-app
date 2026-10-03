@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating opposition or resistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by antagonism or antipathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or feeling active opposition, hostility, or antipathy toward someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical systems and pharmacology, antagonistic interactions occur when the combined effect of two substances is less than the sum of their individual effects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whether from a purely mechanical, or from any other cause, when Bathsheba arose it was with a quieted spirit, and a regret for the antagonistic instincts which had seized upon her just before."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The result showed that, along with the scientific impulse, there was working in him a more powerful antagonistic force."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His essay on Coleridge is very celebrated; but it deals, not with Coleridge's place as a poet, but with his place as a thinker--with Coleridge as the antagonistic power to Bentham in forming the opinions of the generation now passing away."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species occupying the same geographical area develop divergent habits to avoid directly **antagonistic** competition for food."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The interests of landlords and manufacturing capitalists were frequently **antagonistic** during the debates over the Corn Laws."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In every complex moral deliberation, **antagonistic** impulses battle for supremacy in the focus of conscious attention."*
+

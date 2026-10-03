@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make perfect or complete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having all the required or desirable elements, qualities, or characteristics; entirely without flaw or defect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, a perfect flower possesses both functional stamens and carpels within the same floral structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you may well perceive I have not wrong’d you One of the greatest in the Christian world Shall be my surety; fore whose throne ’tis needful, Ere I can perfect mine intents, to kneel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good now, play one scene Of excellent dissembling, and let it look Like perfect honour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So holy and so perfect is my love, And I in such a poverty of grace, That I shall think it a most plenteous crop To glean the broken ears after the man That the main harvest reaps."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will return **perfect** courtier; in the which my instruction shall serve to naturalize my foreign tongue."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The night was in a state of **perfect** calm, and the brilliant stars shone with frost-like brilliance."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"In the more precise language of philosophic jurists, duties of **perfect** obligation are those to which there corresponds a respective right."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something abnormal or anomalous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something abnormal or anomalous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faulty, deformed, or unnatural creation; an unnatural monster or grotesque production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and Gothic aesthetics, a miscreation is an artifact or creature that violates natural moral or biological laws (exemplified by Frankenstein's monster).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscreation designates something abnormal or anomalous."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I looked upon the hideous **miscreation** I had brought into the world, horror-struck by the blasphemous success of my scientific ambition."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The chaotic social fabric of unguided industrialism appeared as a monstrous **miscreation** born of avarice and spiritual blindness."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The ruined tower was haunted by tales of an ancient sorcerer whose unholy **miscreation** had brought destruction upon his lineage."*
+

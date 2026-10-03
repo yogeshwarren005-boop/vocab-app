@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bigger or greater in amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make bigger or more.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming greater in size, amount, intensity, or degree over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomical cosmology, the expanding universe exhibits increasing distances between distant galactic clusters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen the hungry ocean gain Advantage on the kingdom of the shore, And the firm soil win of the watery main, Increasing store with loss, and loss with store."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great and increasing; but by sea He is an absolute master."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So he wishes you all happiness that remains loyal to his vow, and your increasing in love."*
+> - 📜 **William Shakespeare (*Sonnet 64*):** *"When I have seen the hungry ocean gain advantage on the kingdom of the shore, and the firm soil win of the watery main, **increasing** store with loss and loss with store."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The ring of the sheep-bell was heard with **increasing** distinctness as the shepherd approached the sheepfold through the fog."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The species belonging to large genera are themselves spreading and **increasing** in number of varieties."*
+

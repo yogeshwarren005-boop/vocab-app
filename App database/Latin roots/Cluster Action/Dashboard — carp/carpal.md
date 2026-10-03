@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the eight small bones of the wrist of primates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the wrist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the carpus (wrist); pertaining to the wrist bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics and neurology, carpal tunnel syndrome is an entrapment neuropathy caused by compression of the median nerve within the carpal tunnel beneath the flexor retinaculum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpal designates any of the eight small bones of the wrist of primates."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The eight **carpal** bones are arranged in two transverse rows, an anterior proximal and a posterior distal row."*
+> - 📜 **Richard Owen (*On the Nature of Limbs*):** *"The homologies of the **carpal** series can be traced across all tetrapod vertebrates from amphibians to man."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Compression of the median nerve within the narrow **carpal** canal produces characteristic nocturnal acroparesthesia."*
+

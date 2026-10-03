@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans); boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans); boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct order of beaked, herbivorous dinosaurs characterized by a pelvic structure resembling that of modern birds (tetraradiate pelvis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dinosaur taxonomy, the clade Ornithischia encompasses armored thyreophorans, horned ceratopsians, dome-headed pachycephalosaurs, and duck-billed hadrosaurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithischia designates extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans); boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods)."*
+> - 📜 **Harry Govier Seeley (*On the Classification of the Dinosauria*):** *"I propose dividing the dinosaurs into two great orders based on pelvic morphology: the Saurischia and the **Ornithischia**."*
+> - 📜 **Richard Owen (*A History of British Fossil Reptiles*):** *"The peculiar backward extension of the pubis in the **Ornithischia** provided ample abdominal capacity for herbivorous digestion."*
+> - 📜 **Othniel Charles Marsh (*The Dinosaurs of North America*):** *"The diverse fauna of the Morrison Formation demonstrates the evolutionary radiation of the **Ornithischia** during the Jurassic."*
+

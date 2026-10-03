@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widespread genus of herbs or softwood arborescent shrubs cultivated for their showy flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widespread genus of herbs or softwood arborescent shrubs cultivated for their showy flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the mallow family (Malvaceae), commonly called tree mallows, bearing large hibiscus-like flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coastal botany and horticulture, Lavatera arborea (sea tree mallow) thrives on maritime cliffs and islands, tolerating salt spray and providing nectar for bees and butterflies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lavatera designates widespread genus of herbs or softwood arborescent shrubs cultivated for their showy flowers."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The genus **Lavatera** is closely allied to Malva, differing in the union of its outer calyx lobes into a three-cleft cupule."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"**Lavatera** trimestris is a favorite hardy annual in cottage borders, blooming profusely with satiny rose-pink flowers."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"On maritime cliffs along the Mediterranean, **Lavatera** forms woody thickets enduring the strongest winter gales."*
+

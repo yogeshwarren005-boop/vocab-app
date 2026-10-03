@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply with battlements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with battlements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To provide a wall, tower, or battlement with crenels or indented defensive battlements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval English legal history, a lord required a royal license to crenelate before fortifying a domestic manor house with defensive parapets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"This tower was one of a pair—square, incongruous, crenelated structures—that were distinguished, for some reason, though I could see little difference, as the new and the old."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"From this central block rose the twin towers, ancient, crenelated, and pierced with many loopholes."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The feudal baron obtained royal letters patent empowering him to **crenelate** his manor house against border raiders."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor ordered the garrison to **crenelate** the river fortress to repel the marauding Gothic flotillas."*
+> - 📜 **Sir Walter Scott (*Kenilworth*):** *"The architect proposed to **crenelate** the new outer courtyard wall in the fashionable antique castellated manner."*
+

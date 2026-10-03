@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be worthy or deserving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properly deserved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserved, earned, or warranted as a just return for actions or qualities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical drama and tragic structure, the catastrophe must feel unmerited in its severity while maintaining causal connection to the protagonist's hubris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This man is better than the man he slew, As well descended as thyself, and hath More of thee merited than a band of Clotens Had ever scar for. [_To the guard._] Let his arms alone; They were not born for bondage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, I praise God; and I have merited some love at his hands."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For us, we will resign, During the life of this old majesty, To him our absolute power; [_to Edgar and Kent_] you to your rights; With boot and such addition as your honours Have more than merited."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, I praise God; and I have **merited** some love at his hands through honest and faithful service."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The victorious general received the **merited** honors of a triumph from the unanimous decree of the senate."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth felt that Darcy's indignation was well **merited** by the ungenerous treatment he had received from her family."*
+

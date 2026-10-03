@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of german americans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of german americans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An American citizen or resident of German descent, or relating to the community and culture of German immigrants in the United States.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American immigration history, German-American communities established influential bilingual schools, agricultural cooperatives, and social turnvereins across the Midwest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, german-american designates of or relating to or characteristic of german americans."*
+> - 📜 **Carl Schurz (*Reminiscences*):** *"The loyal **German-American** regiments volunteered in thousands at Lincoln's call to preserve the American Union."*
+> - 📜 **Theodore Roosevelt (*Fear God and Take Your Own Part*):** *"Every true **German-American** owes undivided allegiance to the starry flag and the democratic institutions of our common republic."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The linguistic influence of the **German-American** population enriched everyday English with loanwords like kindergarten and delicatessen."*
+

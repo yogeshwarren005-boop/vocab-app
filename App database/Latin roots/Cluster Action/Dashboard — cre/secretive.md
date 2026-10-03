@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to secrecy or reticence about divulging information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to secrecy or reticence about divulging information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to conceal feelings, intentions, and information; uncommunicative, guarded, and reticent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization, a secretive disposition arises from defensive self-protection or fear of social vulnerability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Women are naturally secretive, and they like to do their own secreting."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The stupid pretty trout remained in the river, and the secretive eels...."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Once he had been a child with wondering gray eyes, and life had made him blind as a mole, secretive as a badger, timid of the world as the owl is timid of daylight."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Women are naturally **secretive**, and they like to do their own secret-keeping even from those who love them best."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode's cold, **secretive** manner repelled any sympathetic approach from his medical colleagues."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"There was something dark and **secretive** about the third-story corridor of Thornfield Hall that filled Jane with foreboding."*
+

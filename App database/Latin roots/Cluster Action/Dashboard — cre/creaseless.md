@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of fabrics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used especially of fabrics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Entirely free of creases, folds, or wrinkles; perfectly smooth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive portraiture, a creaseless countenance suggests unlined youth, emotional impassivity, or careful personal grooming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creaseless designates used especially of fabrics."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"His immaculate frock coat was **creaseless**, fitting his slender frame with mathematical tailoring precision."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Lily inspected the **creaseless** expanse of her silk ball gown, determined to look radiant for the assembly."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His youthful face remained **creaseless** and serene, untouched by the dark debaucheries that corrupted his painted soul."*
+

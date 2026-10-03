@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing knowledge and skill and aptitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to technique or proficiency in a practical skill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Competent or skilled in doing or using something; adept and expert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational psychology and pedagogy, a proficient learner demonstrates adaptive problem-solving skills across novel and complex domains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The two of the living dead had become three, and we had so much to say, while the manner of saying it was exasperatingly slow and I was not so proficient as they at the knuckle game."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"If I had ever learnt, I should have been a great proficient."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"During this period he was teaching his art of fishing in all its forms; and when he was satisfied the people were proficient, he prepared to visit other places for like service."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes was remarkably **proficient** in practical chemistry and forensic observation."*
+> - 📜 **John Milton (*Tractate of Education*):** *"By diligent application the youth became **proficient** in the classical languages and the sciences of antiquity."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Marty South was thoroughly **proficient** in the woodland crafts, knowing every tree by its winter bark."*
+

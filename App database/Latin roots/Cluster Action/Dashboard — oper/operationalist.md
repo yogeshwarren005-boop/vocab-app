@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or espousing operationalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or espousing operationalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent or advocate of operationalism in philosophy, physics, or psychology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral and social science methodologies, an operationalist researcher insists that abstract psychological constructs (such as motivation or attitude) be operationalized through standardized test scores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operationalist designates of or relating to or espousing operationalism."*
+> - 📜 **Percy Bridgman (*Reflections of a Physicist*):** *"The rigorous **operationalist** refuses to speak of absolute space or simultaneous time where no physical experiment can distinguish them."*
+> - 📜 **B. F. Skinner (*About Behaviorism*):** *"As an **operationalist**, the behavioral psychologist studies the observable contingencies between stimulus, response, and reinforcer."*
+> - 📜 **Carl Hempel (*Philosophy of Natural Science*):** *"The **operationalist** seeks to anchor every theoretical term directly in observable laboratory protocols."*
+

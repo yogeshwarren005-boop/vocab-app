@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without a face or identity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without a face or identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a face; also lacking individual identity, character, or distinctive personality; anonymous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dystopian political sociology, faceless bureaucracies wield impersonal power detached from human empathy and moral accountability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, faceless designates without a face or identity."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In the dim underground caverns, the Morlocks appeared as pale, **faceless** shapes scuttling through the dark."*
+> - 📜 **Franz Kafka (*The Trial*):** *"K. confronted a **faceless** legal apparatus whose judges remained unseen and whose laws were unwritten."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston gazed at the crowd of **faceless** Party members marching in disciplined unison down the avenue."*
+

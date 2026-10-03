@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to feces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to feces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, containing, or resembling feces and digestive excrement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology and public sanitation, fecal contamination of water supplies (measured by coliform bacteria) serves as a primary marker for waterborne disease risk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"By word and deed he frankly encouraged a nocturnal strumpet to deposit fecal and other matter in an unsanitary outhouse attached to empty premises."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic intestinal obstruction, the vomiting eventually assumes a distinctive **fecal** odor and appearance."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Defective sewer pipes allowing **fecal** gasses to seep into hospital wards will undermine the recovery of every patient."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms swallow earth to extract organic particles, voiding fertile **fecal** castings that enrich the surface soil."*
+

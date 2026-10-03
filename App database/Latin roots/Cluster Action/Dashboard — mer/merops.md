@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the meropidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the meropidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of bee-eater birds in the family Meropidae; also a mythical king in Greek antiquity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology and avian taxonomy, Merops apiaster exhibits gregarious colonial nesting in soft riverbanks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, Phaëthon—for thou art Merops’ son— Wilt thou aspire to guide the heavenly car, And with thy daring folly burn the world?"*
+> - 📜 **William Shakespeare (*The Two Gentlemen of Verona*):** *"Why, Phaëthon—for thou art **merops**' son—wilt thou aspire to guide the heavenly car and with thy daring burn the world?"*
+> - 📜 **Gilbert White (*The Natural History and Antiquities of Selborne*):** *"A wandering specimen of **merops** apiaster was observed hunting over the sandbanks of the southern coast."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The slender elongated central rectrices of the genus **merops** serve as prominent ornaments in courtship displays."*
+

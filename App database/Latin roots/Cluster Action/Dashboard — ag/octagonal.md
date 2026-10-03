@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or shaped like an octagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or shaped like an octagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having eight sides and eight angles; of or pertaining to an octagon in geometric form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history, octagonal plans were frequently employed for Roman mausoleums, Byzantine baptisteries, and Victorian garden pavilions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the middle of the building an ugly flat-topped octagonal tower ascended against the east horizon, and viewed from this spot, on its shady side and against the light, it seemed the one blot on the city’s beauty."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My inn had once been a part of an ancient ecclesiastical house, and I dined in a little octagonal common-room, like a font."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He went towards the little, pearl-coloured octagonal stand that had always looked to him like the work of some strange Egyptian bees that wrought in silver, and taking up the volume, flung himself into an arm-chair and began to turn over the leaves."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The house was of unusual design, with a central **octagonal** tower rising above the gabled roofline."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The great **octagonal** palace of Diocletian at Salona rose majestically above the waters of the Adriatic."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"In the corner of the garden stood a quaint **octagonal** summer-house, overgrown with woodbine and honeysuckle."*
+

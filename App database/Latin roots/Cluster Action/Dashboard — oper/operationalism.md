@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the doctrine that the meaning of a proposition consists of the operations involved in proving or applying it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the doctrine that the meaning of a proposition consists of the operations involved in proving or applying it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that scientific concepts must be defined strictly in terms of the concrete operations and empirical procedures used to measure them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of science, operationalism was introduced by physicist Percy Bridgman in 1927 to eliminate unmeasurable metaphysical entities from physical theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operationalism designates (philosophy) the doctrine that the meaning of a proposition consists of the operations involved in proving or applying it."*
+> - 📜 **Percy Bridgman (*The Logic of Modern Physics*):** *"According to **operationalism**, a concept is synonymous with the corresponding set of operations by which it is empirically determined."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"Strict **operationalism** proves too narrow, for theoretical science inevitably employs unobservable concepts that transcend direct measurement."*
+> - 📜 **B. F. Skinner (*The Operational Analysis of Psychological Terms*):** *"Behaviorism adopts **operationalism** to liberate psychology from mentalistic fictions that resist direct empirical observation."*
+

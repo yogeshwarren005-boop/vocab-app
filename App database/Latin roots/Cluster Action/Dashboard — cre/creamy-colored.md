@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the color of fresh cream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the color of fresh cream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a pale, yellowish-white tint reminiscent of dairy cream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical descriptions, creamy-colored petals distinguish cultivars from those possessing stark chalky white or vivid golden corollas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creamy-colored designates having the color of fresh cream."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The nocturnal hawk-moths visited the **creamy-colored** flowers that gleamed visibly in the moonlit garden."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The umbel is composed of numerous small, **creamy-colored** florets emitting a faint almond fragrance."*
+> - 📜 **Joseph Dalton Hooker (*The Student's Flora of the British Islands*):** *"The damp meadows were filled with the **creamy-colored** plumes of meadowsweet fluttering in the breeze."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of information about circumstances that exist or events that have occurred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement or assertion of verified information about something that is the case or has happened.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing that is indisputably known or proven to be true; an objective, verifiable reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evidentiary jurisprudence, a fact in issue refers to any substantive occurrence, transaction, or physical trace subject to judicial proof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why then tonight Let us assay our plot; which, if it speed, Is wicked meaning in a lawful deed, And lawful meaning in a lawful act, Where both not sin, and yet a sinful fact."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How look I That I should seem to lack humanity So much as this fact comes to? [_Reads._] ‘Do’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To say the truth, this fact was infamous And ill beseeming any common man, Much more a knight, a captain, and a leader."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why then tonight let us assay our plot; which, if it speed, is wicked meaning in a lawful deed, and lawful meaning in a lawful act, where both not sin, and yet a sinful **fact**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I am firmly convinced that the succession of types on the same continent is a significant **fact** pointing toward gradual modification."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In **fact**, his superiority was marked enough to lead several ruddy peasants standing by to speak to him inquiringly."*
+

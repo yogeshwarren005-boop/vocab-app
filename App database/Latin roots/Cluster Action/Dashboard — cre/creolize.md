@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Develop into a creole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Develop into a creole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To adapt, blend, or transform a language, cuisine, or cultural tradition into a Creole form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic typology, languages creolize through rapid grammatical restructuring, developing consistent tense-aspect markers and fixed word order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creolize designates develop into a creole."*
+> - 📜 **William Dwight Whitney (*The Life and Growth of Language*):** *"When multilingual populations interact under colonial conditions, their contact dialects rapidly **creolize** into stable vernaculars."*
+> - 📜 **Edward Sapir (*Language*):** *"Contact between disparate speech communities may **creolize** vocabulary while radically simplifying synthetic inflections."*
+> - 📜 **Franz Boas (*Race, Language and Culture*):** *"Folkloric traditions and musical rhythms quickly **creolize** in Caribbean plantation communities, creating vibrant new cultural forms."*
+

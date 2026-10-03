@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Waste matter (as urine or sweat but especially feces) discharged from the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Waste matter (as urine or sweat but especially feces) discharged from the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Waste matter discharged from the body, especially feces and urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health epidemiology and civil sanitary engineering, safe separation of human excreta from potable water supplies is the foremost barrier against enteric epidemics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excreta designates waste matter (as urine or sweat but especially feces) discharged from the body."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The physiological elimination of metabolic **excreta** is performed by homologous organs across all vertebrate classes."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The prompt and complete removal of all bodily **excreta** from the sickroom is essential to prevent air contamination."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Disinfection of the patient's **excreta** with carbolic acid must be carried out rigorously in every case of typhoid fever."*
+

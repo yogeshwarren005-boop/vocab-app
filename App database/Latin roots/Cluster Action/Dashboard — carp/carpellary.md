@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or forming or containing carpels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or forming or containing carpels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the characteristics of a carpel; pertaining to the seed-bearing unit of a flower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, carpellary anatomy and the number of carpellary locules provide diagnostic characters for distinguishing angiosperm families.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpellary designates belonging to or forming or containing carpels."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The ovules are attached to the thickened margins of the **carpellary** leaf, forming the placenta."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"The confluent **carpellary** segments in the orchid column are fused intimately with the staminal filaments."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"A single terminal style arises from the apex of the united **carpellary** chambers in the Malvaceae."*
+

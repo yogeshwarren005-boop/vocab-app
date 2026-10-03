@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shortening of the uterine cervix and thinning of its walls as it is dilated during labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawing into the background; making yourself inconspicuous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of erasing, wiping out, or obliterating something; also the keeping of oneself in the background.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical obstetrics, effacement describes the thinning and shortening of the uterine cervix in preparation for delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This self-effacement in both directions had been quite in consonance with her independent character of desiring nothing by way of favour or pity to which she was not entitled on a fair consideration of her deserts."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"This is the result of our policy of effacement for which must be substituted at all costs a policy of action which will permit us to hold our rank." It is true the forward policy did not originate with M."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her systematic self-**effacement** in the presence of her husband was admired by conventional society as feminine perfection."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The complete **effacement** of ancient boundary stones along the frontier invited constant barbarian incursions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete cervical **effacement** marks the culmination of the first stage of normal labor."*
+

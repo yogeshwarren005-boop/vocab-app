@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very great or intense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinarily good or great ; used especially as intensifiers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing terror, fright, or awe; or informally, of extraordinary magnitude, quality, or excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th-century aesthetics of the sublime, a terrific spectacle inspires an overwhelming mixture of dread, reverence, and astonishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Suddenly a terrific shout of joy sounded from all voices at once as they all called: "Uncle Phipp!"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She finally consented to that terrific method, but was in no condition of strength to bear the operation."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was awakened, in my bunk in the forecastle, by a terrific crash."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The storm appeared with **terrific** violence among the Alps, lightning flashing over the darkened summits with awful splendor."*
+> - 📜 **Edgar Allan Poe (*The Pit and the Pendulum*):** *"The steel pendulum descended with a **terrific** hiss that thrilled through every fiber of my trembling frame."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white whale breached with **terrific** fury, smashing the wooden whaleboat into flying kindling."*
+

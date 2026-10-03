@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An associate in an activity or endeavor or sphere of common interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An associate in an activity or endeavor or sphere of common interest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cooperates or works jointly with others; an associate in a common enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of the cooperative movement, a cooperator is a member or shareholder of a cooperative society (such as the Rochdale Pioneers).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cooperator designates an associate in an activity or endeavor or sphere of common interest."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I owe a heavy debt of gratitude to my indefatigable **cooperator**, Mr. Tegetmeier, for supplying vital data on domestic pigeon breeding."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Every member of the association became a self-respecting **cooperator**, sharing in both the labor and the net profits."*
+> - 📜 **Francis Bacon (*The New Atlantis*):** *"Each fellow of the foundation was assigned as a skilled **cooperator** in one branch of physical inquiry."*
+

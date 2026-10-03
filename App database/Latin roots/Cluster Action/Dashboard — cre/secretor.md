@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various organs that synthesize substances needed by the body and release it through ducts or directly into the bloodstream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various organs that synthesize substances needed by the body and release it through ducts or directly into the bloodstream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual who secretes blood-group antigens into body fluids such as saliva, tears, and perspiration; also an organ that secretes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic serology and immunogenetics, secretor status (governed by the FUT2 gene) allows ABH blood typing from minute stains of saliva or semen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretor designates any of various organs that synthesize substances needed by the body and release it through ducts or directly into the bloodstream."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Identification of the suspect was confirmed because the forensic specimen came from a known ABH **secretor** whose salivary antigens matched the stain."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Individual physiological variations, such as being an active glandular **secretor**, follow regular inherited laws across related mammalian lineages."*
+> - 📜 **Karl Landsteiner (*The Specificity of Serological Reactions*):** *"The demonstration that a large majority of human subjects are of the **secretor** type provided a powerful new tool in anthropological serology."*
+

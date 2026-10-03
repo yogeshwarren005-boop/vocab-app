@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being contrary to fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being contrary to fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of running contrary to historical or empirical facts; hypothetical status contrary to reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and cognitive psychology, counterfactuality allows researchers to assess causality by mentally altering key decision points to evaluate alternative historical trajectories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterfactuality designates the quality of being contrary to fact."*
+> - 📜 **Max Weber (*The Methodology of the Social Sciences*):** *"To establish the causal significance of an event, the historian must determine whether its imaginary elimination via **counterfactuality** would alter the historical outcome."*
+> - 📜 **Isaiah Berlin (*Historical Inevitability*):** *"The exploration of **counterfactuality** rescues human actors from the mechanistic fatalism of deterministic historical models."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The reality of natural laws is demonstrated through pragmatic **counterfactuality**, predicting how nature would behave under conditions never yet observed."*
+

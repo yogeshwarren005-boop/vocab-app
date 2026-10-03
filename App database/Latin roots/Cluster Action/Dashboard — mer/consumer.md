@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses goods or services.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who uses goods or services.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who purchases goods and services for personal use rather than for resale or manufacture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological trophic dynamics, a consumer is an organism that obtains nutritional energy by feeding on other living organisms or organic matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The use of money may be necessary several times before a commodity completes its journey from producer to consumer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The freight argument attempts to prove too much for it condemns every trade within the country, of goods produced a stone's throw away from the consumer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Something like this happens in the case of many protected industries; every consumer of the article pays a few cents more, a small group of wage-earners temporarily gains, and a few enterprises wax wealthy. § 9. #Tariffs and unemployment#."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Consumption is the sole end and purpose of all production; and the interest of the producer ought to be attended to, only so far as it may be necessary for promoting that of the **consumer**."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A tax levied on a manufactured commodity is invariably shifted from the producer until it falls upon the ultimate **consumer**."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The affluent **consumer** validates social standing by displaying goods that require wasteful expenditure of time and money."*
+

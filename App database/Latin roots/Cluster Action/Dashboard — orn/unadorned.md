@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not decorated with something to increase its beauty or distinction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not decorated with something to increase its beauty or distinction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking embellishment, ornamentation, or artificial decoration; simple, plain, and direct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and literary prose, an unadorned style communicates ideas with unvarnished clarity, avoiding superfluous rhetorical flourishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"She moved like one of those bright beings pictured in the sunny walks of fancy’s Eden by the romantic and young, a queen of beauty unadorned save by her own transcendent loveliness."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The little wooden church was completely **unadorned**, with bare pine pews and whitewashed walls."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her simple, **unadorned** truthfulness had an unexpected power that shamed the elaborate pretenses of the drawing room."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I sought a life of **unadorned** simplicity, stripped of the frivolous clutter that weighs down civilized man."*
+

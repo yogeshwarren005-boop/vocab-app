@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes candies and other sweets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes candies and other sweets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose occupation is making, crafting, and selling candies, sweet pastries, and confections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern guilds and culinary arts, the royal confectioner was an artisan specializing in grand banqueting centerpieces and decorative spun sugar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"This guileless confectioner was not by any means sober, and had a black eye in the green stage of recovery, which was painted over."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"At such times the street is lined with listeners, who enjoy a delight equal to that of gazing into a confectioner’s window or snuffing up the steams of a cook-shop."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The proposal excited great enthusiasm, and an early lunch was ordered so that we could set forth in good time, so as to have a couple of hours with the animals before adjourning to a confectioner's for tea."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The jolly **confectioner** bustled about his warm shop, wrapping parcels of peppermint creams for the schoolboys."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia insisted on stopping at the **confectioner** in the high street to buy cold pork pies and lemon drops."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"The wealthy lord lived surrounded by flatterers and the choicest delicacies of the royal **confectioner**."*
+

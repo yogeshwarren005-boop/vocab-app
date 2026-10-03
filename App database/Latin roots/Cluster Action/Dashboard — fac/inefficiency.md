@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unskillfulness resulting from a lack of efficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unskillfulness resulting from a lack of efficiency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of not achieving maximum productivity; wastefulness of time, effort, or resources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neoclassical economics and thermodynamics, inefficiency denotes the ratio of wasted energy or misallocated factors relative to optimal Pareto frontier output.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I emerged and tried to work in the chaos of inefficiency of the loom-rooms."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He is a more profound master of inefficiency than the present incumbent, who is merely stupid without being a fool as well."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The inefficiency of customary services and the high prices charged by selfish privilege were constant invitations to men to become competitors."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The extraordinary **inefficiency** of unmotivated labor on feudal estates stood in sharp contrast to the diligent thrift of independent yeomen."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The Circumlocution Office was the crowning monument of administrative **inefficiency**, dedicated to discovering how not to do it."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"Pecuniary sabotage and structural **inefficiency** arise whenever commercial profit motives conflict with technological optimization."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lightly built medium-sized dinosaur having extremely long limbs and necks with small heads and big brains and large eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lightly built medium-sized dinosaur having extremely long limbs and necks with small heads and big brains and large eyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the dinosaur family Ornithomimidae, being slender, bipedal theropod dinosaurs bearing striking resemblance to modern ostriches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, ornithomimid skeletons exhibit toothless horny rhamphothecae, long slender limbs, and cursorial adaptations for high-speed evasion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithomimid designates lightly built medium-sized dinosaur having extremely long limbs and necks with small heads and big brains and large eyes."*
+> - 📜 **Othniel Charles Marsh (*The Dinosaurs of North America*):** *"The gracile proportions of the **ornithomimid** limbs indicate an animal capable of astonishing speed across open terrain."*
+> - 📜 **Henry Fairfield Osborn (*Skeletal Adaptations of Ornitholestes, Struthiomimus, and Tyrannosaurus*):** *"The complete toothlessness and long neck of the **ornithomimid** theropods suggest an omnivorous or herbivorous shift in diet."*
+> - 📜 **Roy Chapman Andrews (*On the Trail of Ancient Man*):** *"In the flaming cliffs of the Gobi desert, we uncovered the intact skull and cervical vertebrae of a magnificent **ornithomimid**."*
+

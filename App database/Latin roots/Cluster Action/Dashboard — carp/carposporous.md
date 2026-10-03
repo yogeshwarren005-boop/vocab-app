@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having carpospores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having carpospores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the presence or bearing of carpospores; producing spores from a carposporophyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine phycological taxonomy, carposporous specimens of red algae are distinguished from tetrasporic plants by the presence of prominent swollen cystocarps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carposporous designates having carpospores."*
+> - 📜 **William Henry Harvey (*Phycologia Britannica*):** *"The **carposporous** plants of Polysiphonia bear conspicuous urn-shaped cystocarps scattered along the upper lateral ramuli."*
+> - 📜 **Felix Eugen Fritsch (*The Structure and Reproduction of the Algae*):** *"A single **carposporous** cystocarp may discharge thousands of diploid spores into the surrounding coastal current."*
+> - 📜 **Robert Edward Lee (*Phycology*):** *"The distinction between **carposporous** and tetrasporic individuals is fundamental to resolving life cycles within the Ceramiales."*
+

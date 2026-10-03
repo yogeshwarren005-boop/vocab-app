@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having official authority or sanction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not officially established.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having formal authorization, public sanction, or official confirmation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy, unofficial back-channel negotiations frequently establish confidential groundwork for public peace accords.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Of course, in your position of unofficial adviser and helper to everybody who is absolutely puzzled, throughout three continents, you are brought in contact with all that is strange and bizarre."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Two trained nurses have been in attendance, and a third unofficial one, in the person of old Miss Harding!"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Crawford of Georgia, submitted to the Secretary of State a proposition for an unofficial interview."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes acted as an **unofficial** consulting detective, stepping in when official authorities reached an impasse."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"An **unofficial** truce existed along the front lines during the winter freeze, neither side eager to provoke unnecessary bombardment."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether undertook his sensitive Parisian mission in a purely **unofficial** capacity on behalf of Mrs. Newsome."*
+

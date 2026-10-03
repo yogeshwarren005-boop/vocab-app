@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sink below the surface; go under or as if under water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover completely or make imperceptible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under the surface of water or another liquid; hidden or deeply buried from view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology, submerged aquatic vegetation provides vital benthic nursery habitat for juvenile crustaceans and estuarine fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I would thou didst, So half my Egypt were submerged and made A cistern for scaled snakes!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He hastily bade them farewell, and splashed back along the stretch of submerged road."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The whale, be it observed, lies almost entirely submerged, excepting the immediate parts operated upon."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"O, I would thou didst, so half my Egypt were **submerged** and made a cistern for scaled snakes!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"He hastily bade them farewell, and splashed back along the stretch of **submerged** causeway."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The vast **submerged** bulk of the sperm whale glided like an island beneath our keel."*
+

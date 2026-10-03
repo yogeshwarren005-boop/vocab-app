@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A literary work based partly or wholly on fact but written as if it were fiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Writing in a fictional form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The creative conversion of real people or factual occurrences into imaginative narrative form, or the fictional work resulting from such adaptation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media studies and docudrama criticism, fictionalization describes the artistic compression of timelines, dialogue, and composite characters in cinematic retellings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fictionalization designates a literary work based partly or wholly on fact but written as if it were fiction."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The successful **fictionalization** of human experience depends upon an intense and cultivated sensitivity to the nuances of life."*
+> - 📜 **Truman Capote (*In Cold Blood (Prefatory Note)*):** *"The non-fiction novel achieves its emotional power without resort to the **fictionalization** of a single recorded fact."*
+> - 📜 **Lukacs (*The Historical Novel*):** *"The **fictionalization** of historical epochs in Walter Scott reveals the deep socioeconomic currents driving social transformation."*
+

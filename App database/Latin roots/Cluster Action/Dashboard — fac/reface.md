@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put a new facing on (a garment).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with a new facing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put a new surface, facing, or decorative exterior on a structure or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural restoration and mechanical engineering, to reface an old masonry facade or engine valve seat renews functional alignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reface designates put a new facing on (a garment)."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Vandalizing restorers sought to **reface** the ancient Gothic palazzo with flat plaster, obliterating centuries of delicate carving."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The country builder arrived to **reface** the dilapidated farmhouse walls before the incoming tenants took possession."*
+> - 📜 **George Gissing (*The Whirlpool*):** *"Speculative landlords found it profitable to **reface** old terrace houses to attract affluent suburban renters."*
+

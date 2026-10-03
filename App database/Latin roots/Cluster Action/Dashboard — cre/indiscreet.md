@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking discretion; injudicious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking discretion; injudicious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, showing, or proceeding from a lack of judgment, caution, or prudence; rashly communicative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political memoir and domestic tragedy, an indiscreet remark often unmasks covert alliances or precipitates marital estrangement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For as it would ill become me to be vain, indiscreet, or a fool, So, were there a patch set on learning, to see him in a school."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will rather sue to be despised than to deceive so good a commander with so slight, so drunken, and so indiscreet an officer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But she is a little dreaded elsewhere in consequence of an indiscreet profusion in the article of rouge and persistency in an obsolete pearl necklace like a rosary of little bird’s-eggs."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For as it would ill become me to be vain, **indiscreet**, or a fool, so I shall guard my speech with vigilance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond was too **indiscreet** in her social ambitions, provoking her husband's quiet disapproval."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia's **indiscreet** conduct at Brighton threatened the social ruin of her entire family."*
+

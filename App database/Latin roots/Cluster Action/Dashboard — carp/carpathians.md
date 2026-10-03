@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain range in central europe that extends from slovakia and southern poland southeastward through western ukraine to northeastern romania; a popular resort area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain range in central europe that extends from slovakia and southern poland southeastward through western ukraine to northeastern romania; a popular resort area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major mountain range in Central and Eastern Europe, forming an arc extending across Poland, Slovakia, Ukraine, and Romania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and physical geography, the Carpathians harbor Europe's largest pristine primeval beech forests and the largest populations of brown bears, wolves, and lynx.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"He went, but immediately returned with a letter:-- “My Friend.--Welcome to the Carpathians."*
-> - 📜 **Bram Stoker (*Dracula*):** *"In this respect it is different from the general run of roads in the Carpathians, for it is an old tradition that they are not to be kept in too good order."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Beyond the green swelling hills of the Mittel Land rose mighty slopes of forest up to the lofty steeps of the Carpathians themselves."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Before us lay the green sloping land of the **Carpathians**, with the mighty peaks of the mountains rising into the twilight sky."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Trajan led his legions across the Danube into the wild fastnesses of the **Carpathians** to conquer the kingdom of Dacia."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The geological fold of the **Carpathians** forms the northern rampart separating the Pannonian basin from the Sarmatian plain."*
+

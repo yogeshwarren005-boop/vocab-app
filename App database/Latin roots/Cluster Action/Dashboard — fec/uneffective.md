@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing an intended effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not producing an intended effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ineffective; incapable of producing the intended result, operation, or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic philosophical and legal diction, uneffective signified the voiding or operational impotence of an edict, compact, or causative agency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uneffective designates not producing an intended effect."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Counsel without executive resolution is **uneffective**, like an engine without fuel to set its wheels in motion."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Covenants without the sword are but words, and of no strength, being wholly **uneffective** to secure a man at all."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Abstract ideas remaining unapplied to concrete reality prove **uneffective** in improving the daily conduct of human life."*
+

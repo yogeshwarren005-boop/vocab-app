@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the thigh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the thigh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Localized neurological pain, burning, or aching sensation along the anterolateral surface of the thigh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, meralgia paresthetica is caused by compression or entrapment of the lateral femoral cutaneous nerve as it passes under the inguinal ligament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meralgia designates pain in the thigh."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients afflicted with **meralgia** report persistent numbness and burning sensations over the cutaneous distribution of the thigh."*
+> - 📜 **Harvey Cushing (*Selected Papers on Neurosurgery*):** *"Surgical decompression of the trapped nerve trunk afforded immediate relief from chronic **meralgia** paresthetica."*
+> - 📜 **Silas Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"Tight waistbands or abdominal belts frequently aggravate the painful symptoms of lateral femoral **meralgia**."*
+

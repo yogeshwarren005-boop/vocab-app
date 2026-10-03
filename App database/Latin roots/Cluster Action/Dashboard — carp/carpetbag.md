@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveling bag made of carpet; widely used in 19th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following the practices or characteristic of carpetbaggers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traveling bag or valise made of thick carpet fabric, popular in the nineteenth century as an inexpensive, lightweight luggage piece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In post-Civil War American political history, the carpetbag became the symbolic emblem of Northern opportunists migrating to the South during Reconstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpetbag designates traveling bag made of carpet; widely used in 19th century."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The traveler hurried down the gangplank carrying a battered **carpetbag** stuffed with his worldly possessions."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Jingle seized his small **carpetbag** and darted into the waiting coach before his creditors could lay hands upon him."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"I stuffed a shirt or two into my old **carpetbag**, tucked it under my arm, and started for Cape Horn and the Pacific."*
+

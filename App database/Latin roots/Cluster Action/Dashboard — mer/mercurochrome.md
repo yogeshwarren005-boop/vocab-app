@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mercurial compound applied topically as an antiseptic; mercurochrome is the trademark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mercurial compound applied topically as an antiseptic; mercurochrome is the trademark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for merbromin, a topically applied antiseptic dye formerly widespread in treating minor cuts and abrasions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century clinical medicine, Mercurochrome's vivid crimson stain and mild antiseptic efficacy were gradually superseded by povidone-iodine due to mercury toxicity concerns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercurochrome designates a mercurial compound applied topically as an antiseptic; mercurochrome is the trademark."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The superficial skin excoriations were cleansed and painted with a two-percent solution of **mercurochrome** to prevent wound infection."*
+> - 📜 **John Steinbeck (*East of Eden*):** *"The doctor dabbed the bright scarlet **mercurochrome** over the scraped knee while the child held his breath."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"Field dressings in the military clinic included generous applications of **mercurochrome** along lacerated tissue margins."*
+

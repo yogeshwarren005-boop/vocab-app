@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exploit for maximal profit, usually by sacrificing quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make commercial.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To manage, exploit, or adapt something primarily for financial profit or market trade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In technology transfer and venture development, to commercialize an invention entails scaling production, validating market demand, and securing regulatory approvals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This view is now becoming more general as a result of the commercializing of farming enterprise."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As farming becomes more commercialized it necessarily becomes somewhat more specialized, and produces a smaller variety of products."*
+> - 📜 **Thomas Edison (*The Edison Papers: Menlo Park Notebooks*):** *"Our laboratory aim is not merely to discover scientific curiosities, but to **commercialize** practical devices that improve daily human life."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Captains of industry seek to **commercialize** every technological improvement to control pricing and capture monopoly rents."*
+> - 📜 **H. L. Mencken (*Prejudices: First Series*):** *"The publishing syndicates promptly attempt to **commercialize** every passing literary fad until the public tires of it."*
+

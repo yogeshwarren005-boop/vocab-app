@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or producing a secretion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or producing a secretion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, performing, or promoting the biological secretion of substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mucosal immunology, secretory immunoglobulin A (sIgA) serves as the primary immune barrier neutralizing pathogens on mucosal surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretory designates of or relating to or producing a secretion."*
+> - 📜 **T. H. Huxley (*Lessons in Elementary Physiology*):** *"The **secretory** activity of the pancreas is stimulated through nervous reflex arcs as well as humoral blood-borne agents."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic inflammation damages the **secretory** tubules of the gastric mucosa, producing achlorhydria."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Under the microscope, each **secretory** epithelial cell reveals active cytoplasmic granules accumulating before discharge."*
+

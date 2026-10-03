@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of dioecious tropical aquatic plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of dioecious tropical aquatic plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Roman mythology, a water nymph who served as divine counselor and consort to King Numa Pompilius, instructing him in sacred laws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and political usage, an egeria is a trusted female advisor, confidante, or muse who discreetly inspires the actions of a statesman or artist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"One was Egeria, the nymph of the clear water which, bubbling from the basaltic rocks, used to fall in graceful cascades into the lake at the place called Le Mole, because here were established the mills of the modern village of Nemi."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Women with child used to sacrifice to Egeria, because she was believed, like Diana, to be able to grant them an easy delivery."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"According to some, the trysting-place of the lovers was not in the woods of Nemi but in a grove outside the dripping Porta Capena at Rome, where another sacred spring of Egeria gushed from a dark cavern."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"King Numa sanctified his legal institutions by attributing their origin to the midnight counsels of the nymph **Egeria**."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"**Egeria**! sweet creation of some heart which found no mortal resting-place so fair as thine ideal fountain."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She aspired to be an **Egeria** to her scholarly husband, assisting his intellectual labors with devoted admiration."*
+

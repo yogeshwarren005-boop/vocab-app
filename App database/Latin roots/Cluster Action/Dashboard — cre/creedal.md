@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a creed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a creed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on a formal creed or codified system of doctrinal beliefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion and sociological analysis, creedal religions require explicit intellectual assent to written dogma, contrasting with orthopraxic religions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creedal designates of or relating to a creed."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Spiritual vitality often languishes when religious institutions substitute **creedal** conformity for personal inward devotion."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Science demands the relentless questioning of every **creedal** shibboleth that claims exemption from empirical criticism."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The Puritans placed excessive emphasis upon rigid **creedal** formulas to the neglect of harmonious cultural growth."*
+

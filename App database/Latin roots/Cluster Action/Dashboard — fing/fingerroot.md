@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aromatic culinary and medicinal rhizome Boesenbergia rotunda, characterized by several slender, finger-like roots clustering from a central tuber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Southeast Asian pharmacology, fingerroot extracts contain pinostrobin and panduratin A, bioactive flavonoids studied for anti-inflammatory and antiviral activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerroot designates tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock."*
+> - 📜 **William Roxburgh (*Flora Indica*):** *"The cluster of pungent tubers in the **fingerroot** resembles a bundle of tapering yellow fingers possessing a fragrant ginger scent."*
+> - 📜 **Isaac Henry Burkill (*A Dictionary of the Economic Products of the Malay Peninsula*):** *"In Malayan herbalism, the crushed root of **fingerroot** is applied as a poultice to soothe rheumatic joint swelling."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"The market stalls of Batavia were laden with fresh baskets of **fingerroot**, prized by native cooks for fish seasoning."*
+

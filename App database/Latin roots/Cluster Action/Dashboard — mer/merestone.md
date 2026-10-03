@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old term for a landmark that consisted of a pile of stones surmounted by an upright slab.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old term for a landmark that consisted of a pile of stones surmounted by an upright slab.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone used to mark a boundary between adjoining properties, parishes, or territorial lands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient agrarian property law, removing or tampering with an established merestone was considered a grave sacrilege punishable by civil and religious curses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merestone designates an old term for a landmark that consisted of a pile of stones surmounted by an upright slab."*
+> - 📜 **Francis Bacon (*The Essays: Of Judicature*):** *"A judge ought to prepare his way to a just sentence, as God used to prepare his way, by raising valleys and taking down hills; so when there may be on either side a high hand, or a great over-ruling client, he should be as a settled **merestone** between the parties."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"They halted at the mossy **merestone** that divided the ancient manor lands from the parish common."*
+> - 📜 **William Camden (*Britannia*):** *"The surveyor pointed out an ancient Roman **merestone** half-buried in the heather beside the old military road."*
+

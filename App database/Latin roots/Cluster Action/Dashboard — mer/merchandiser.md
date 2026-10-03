@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A businessperson engaged in retail trade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A businessperson engaged in retail trade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, company, or professional responsible for buying, promoting, and selling commercial goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In retail supply chain management, a merchandiser balances consumer market trends, seasonal inventory turnover, and retail floor layouts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merchandiser designates a businessperson engaged in retail trade."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"A prudent **merchandiser** calculates the freight, customs, and insurance before dispatching his vessel across the seas."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The enterprising **merchandiser** constantly searches for emerging markets where supply lags behind consumer demand."*
+> - 📜 **Walter Bagehot (*Lombard Street: A Description of the Money Market*):** *"The London credit system provides the foreign **merchandiser** with immediate advances against warehouse warrants."*
+

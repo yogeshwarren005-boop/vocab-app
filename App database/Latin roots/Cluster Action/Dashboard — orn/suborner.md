@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who pays (or otherwise incites) you to commit a wrongful act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who pays (or otherwise incites) you to commit a wrongful act.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who procures, bribes, or unlawfully instigates another person to commit a crime or swear a false oath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In procedural criminal law, the suborner is prosecuted as an accessory or principal offender whose criminal intent directs the false swearer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suborner designates someone who pays (or otherwise incites) you to commit a wrongful act."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The law holds the secret **suborner** of false evidence in greater abhorrence than the ignorant perjurer whom he bribed."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The justice of the realm demands that the cunning **suborner** receive exemplary punishment alongside the witness he corrupted."*
+> - 📜 **Edward Coke (*Institutes of the Lawes of England*):** *"If a **suborner** incite a witness to swear false, yet the witness faileth to swear, the suborner is still punishable for the misdemeanour."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into fiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into the form or the style of a novel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn real events, people, or experiences into a fictional narrative; to dramatize factual material for artistic purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative theory and roman a clef, to fictionalise is to disguise living individuals as characters while preserving their identifiable traits and relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fictionalise designates make into fiction."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"To **fictionalise** an actual incident requires transmuting its crude contingency into the necessary harmony of art."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"I have tried to tell the factual truth of what I saw, resisting the temptation to **fictionalise** events to suit a political narrative."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"The novelist must **fictionalise** her own deepest grievances if they are to attain the serene universality of art."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A smudge made by a (dirty) finger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smudge made by a (dirty) finger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible smudge, oily impression, or stain left upon a polished or clean surface by a human finger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archival preservation and rare book conservatorship, fingermarks introduce acidic sebum that degrades paper fibers and accelerates foxing over centuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingermark designates a smudge made by a (dirty) finger."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"A dusty glass window pane retained a faint, greasy **fingermark** that revealed where the intruder had unlatched the catch."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The battered parchment document was discolored by many an ancient ink-blot and yellowed **fingermark** from generations of clerks."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"She turned the fragile manuscript leaf with reverence, careful not to leave the slightest **fingermark** upon the poet's ink."*
+

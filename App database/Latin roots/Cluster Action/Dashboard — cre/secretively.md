@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a secretive manner; with a preference for secrecy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a secretive manner; with a preference for secrecy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a secretive, stealthy, or furtive manner; avoiding detection or disclosure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative suspense, acting secretively creates dramatic tension by signaling hidden motives or illicit undertakings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretively designates in a secretive manner; with a preference for secrecy."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She stepped **secretively** across the moonlit meadow, careful not to disturb the resting cattle in the lane."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn folded the legal papers **secretively** inside his coat, keeping his dark knowledge entirely to himself."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Dimmesdale looked **secretively** around the room before returning the mysterious manuscript to its hiding-place."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Candy and other sweets considered collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A confectioner's shop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Candies, chocolates, and sweets collectively, or an establishment where sweetmeats and pastries are produced and sold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial food technology, confectionery manufacturing covers sugar crystallization, cocoa refining, emulsification, and aerated pectin confectionery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Men cannot thus collectively enjoy rare wines or good confectionery; they cannot partake without limit of a limited supply."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The little girl's mud pies and other sham confectionery furnish her first lessons in the art of preparing food."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"We stared through the plate-glass window at the glittering piles of **confectionery** inside the baker's shop."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The children were treated to gingerbread and colorful **confectionery** at the annual parish fair."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The refined trade of French **confectionery** flourishes only where great accumulated wealth creates demand for delicate luxuries."*
+

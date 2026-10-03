@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lavender.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lavender.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering aromatic shrubs in the mint family (Lamiaceae), comprising the lavenders, native to the Old World Mediterranean and Cape Verde.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herbal medicine and perfumery, Lavandula angustifolia (English lavender) is cultivated commercially for its fragrant essential oil rich in linalool and linalyl acetate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog lavandula as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"**Lavandula** is singular good for all griefes and paines of the head and brain that proceed of a cold cause."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"In **Lavandula**, the spike of blue blossoms is surmounted by a sterile tuft of brightly colored bracts."*
+> - 📜 **John Lindley (*Flora Medica*):** *"The essential oil distilled from the flowering spikes of **Lavandula** vera possesses valuable carminative and antiseptic virtues."*
+

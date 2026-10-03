@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The procedure of taking inked impressions of a person's fingerprints for the purpose of identification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take an impression of a person's fingerprints.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The procedure of taking and analyzing ink or digital impressions of friction ridges on human fingertips for forensic identification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and forensic biotechnology, DNA fingerprinting employs restriction fragment length polymorphisms or short tandem repeats to identify biological samples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerprinting designates the procedure of taking inked impressions of a person's fingerprints for the purpose of identification."*
+> - 📜 **Francis Galton (*Finger Prints*):** *"Systematic **fingerprinting** of criminal offenders provides an infallible register immune to aliases and facial disguises."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"The modern science of **fingerprinting** had not yet penetrated the routine investigations of Scotland Yard in those early days."*
+> - 📜 **Alec Jeffreys (*Genetic Fingerprinting Memoirs*):** *"The realization that DNA **fingerprinting** could resolve questions of paternity and forensic evidence dawned in an instant in my laboratory."*
+

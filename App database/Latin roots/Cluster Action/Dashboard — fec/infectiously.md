@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a contagious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a contagious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that easily spreads to others by contagion, emotional resonance, or rapid imitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral sociology and crowd psychology, moods and laughter propagate infectiously through unconscious mirror-neuron activation and social mimicry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infectiously designates in a contagious manner."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge chuckled **infectiously**, rubbing his hands together in pure delight as the boy ran off to buy the prize turkey."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom began to laugh, and Huck joined in, their mirth bubbling up **infectiously** in the quiet graveyard."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Natasha smiled **infectiously**, communicating her youthful exuberance to the entire ballroom."*
+

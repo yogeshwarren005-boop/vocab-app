@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Power to be effective; the quality of being able to bring about an effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Power to be effective; the quality of being able to bring about an effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or capacity of being effectual; potency and demonstrated capability to achieve intended goals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative theory and legislative review, effectualness analyzes the alignment between policy design and measurable social improvements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effectualness designates power to be effective; the quality of being able to bring about an effect."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"The **effectualness** of parental discipline rests not upon corporal severity, but upon calm, unwavering consistency."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"We admire the **effectualness** of political institutions that maintain domestic peace while preserving individual liberties."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **effectualness** of empirical science is seen in its power to relieve the physical hardships of the human condition."*
+

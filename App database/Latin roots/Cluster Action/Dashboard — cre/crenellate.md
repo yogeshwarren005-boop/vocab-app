@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply with battlements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with battlements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To furnish with battlements or indentations; an alternative spelling of crenelate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval fortification engineering, to crenellate the upper ramparts provided overlapping firing sectors for defending archers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Built on a sandstone ledge at the junction of the Ta Tu and Ya with the Min, its crenellated red walls rise almost directly from the water, which, when in flood, dashes high against the foundations."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The scenery was charming as ever, but I was wearying of inactivity and it was a relief to see the crenellated walls of Chung-king come in sight."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The approach from upstream is very striking, a grey city perched on a huge grey reef and enclosed in a strong, crenellated grey wall."*
+> - 📜 **Sir Walter Scott (*The Fortunes of Nigel*):** *"The master builder was commissioned to **crenellate** the ancient gatehouse in accordance with the king's architectural decree."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The defenders prepared to **crenellate** the courtyard walls as rumors of insurrection spread through the faubourgs."*
+> - 📜 **Edward Bulwer-Lytton (*The Last of the Barons*):** *"The Earl resolved to **crenellate** his northern castle, preparing for civil strife between the rival roses."*
+

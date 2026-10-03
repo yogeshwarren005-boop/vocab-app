@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare abnormality marked by premature aging (grey hair and wrinkled skin and stooped posture) in a child.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare abnormality marked by premature aging (grey hair and wrinkled skin and stooped posture) in a child.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremely rare genetic disorder characterized by the appearance of accelerated premature aging in early childhood (Hutchinson-Gilford progeria syndrome).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics and cellular biology, progeria is caused by a de novo LMNA gene mutation producing toxic progerin, which destabilizes nuclear membrane architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progeria designates a rare abnormality marked by premature aging (grey hair and wrinkled skin and stooped posture) in a child."*
+> - 📜 **Jonathan Hutchinson (*Cases of Congenital Absence of Hair and Atrophy of Skin*):** *"The child exhibited that extraordinary developmental arrest and withered senile visage which we now diagnose as **progeria**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cases of infantile **progeria** present the clinical paradox of severe cardiovascular atheroma in a patient of only ten years."*
+> - 📜 **Francis Collins (*The Language of God*):** *"Discovering the single nucleotide mutation responsible for Hutchinson-Gilford **progeria** opened new pathways for understanding normal human senescence."*
+

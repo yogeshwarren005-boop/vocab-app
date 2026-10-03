@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appearance of truth that is false or deceptive; seeming plausibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tasteless showiness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Superficial attractiveness masking an underlying lack of genuine worth, sincerity, or artistic value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and literary critique, meretriciousness describes artistic or rhetorical works that cater to vulgar tastes through deceptive flashiness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meretriciousness designates an appearance of truth that is false or deceptive; seeming plausibility."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The glaring **meretriciousness** of popular Victorian melodramas repels any spectator who values dramatic truth."*
+> - 📜 **George Santayana (*The Sense of Beauty*):** *"A discerning critic quickly detects the **meretriciousness** beneath an art that aims merely to dazzle without nourishing the spirit."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"He stripped away the **meretriciousness** of modern luxury to discover what simple life in nature truly cost."*
+

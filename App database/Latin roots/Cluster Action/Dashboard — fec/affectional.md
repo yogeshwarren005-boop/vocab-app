@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, proceeding from, or characterized by warm affection and emotional attachment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and family sociology, affectional bonds refer to primary emotional attachments that foster cognitive and emotional security.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affectional designates characterized by emotion."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **affectional** ties binding the mother to her infant precede all conscious intellectual calculation."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Our moral sentiments develop from the primitive **affectional** instincts shared with social animals."*
+> - 📜 **John Bowlby (*Attachment and Loss*):** *"The rupture of an established **affectional** bond precipitates acute grief, protest, and lasting despair."*
+

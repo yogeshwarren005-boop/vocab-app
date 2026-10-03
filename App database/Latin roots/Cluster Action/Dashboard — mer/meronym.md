@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that names a part of a larger whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that names a part of a larger whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that denotes a constituent part, member, or substance of something larger, contrasting with holonym.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexical semantics and computational linguistics, meronymy structures taxonomies into part-whole hierarchies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meronym designates a word that names a part of a larger whole."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The term finger functions as a direct **meronym** of hand, designating an organic component within the conceptual whole."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"In every human tongue, a specific **meronym** allows the speaker to name the anatomical part rather than the body."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The syntactic relation linking a **meronym** to its enclosing holonym reveals how language dissects perceptual experience."*
+

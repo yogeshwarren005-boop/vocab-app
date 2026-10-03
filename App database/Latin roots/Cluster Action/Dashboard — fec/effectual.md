@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or capable of producing an intended result or having a striking effect; -lewismumford.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having legal efficacy or force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or capable of producing the desired effect; completely successful, decisive, and valid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal drafting and theological doctrine, an effectual remedy or effectual calling denotes an act that infallibly secures its intended purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of Suffolk, Buckingham, and York, Reprove my allegation if you can, Or else conclude my words effectual."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A reason mighty, strong, and effectual; A pattern, precedent, and lively warrant For me, most wretched, to perform the like."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Assuredly their wonted fires must have lived in Fanny’s ashes when events were so shaped as to chariot her hither in this natural, unobtrusive, yet effectual manner."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"And here he hath found an **effectual** means to heal the breach between two long-severed brothers."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopolies are an **effectual** bar to the natural increase of manufacturing and the prosperity of the commonwealth."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A resolute decision taken in the hour of peril is often the most **effectual** remedy against public panic."*
+

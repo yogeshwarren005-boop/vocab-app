@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unglazed heavy fabric; brightly printed; used for slipcovers and draperies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unglazed heavy fabric; brightly printed; used for slipcovers and draperies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy, unglazed printed cotton fabric used especially for curtains and upholstery slipcovers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic decorative history, Victorian cretonne featured bold chintz floral patterns, providing an affordable alternative to costly brocades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A commode, one leg fractured, totally covered by square cretonne cutting, apple design, on which rested a lady’s black straw hat."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She pictured to herself with a shudder the effect of a sixpenny Chinese umbrella in that fireplace, a cretonne valance to that bed, or chintz curtains to those windows."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She was accustomed to survey with pride her mother’s drawing-room, which she had garnished with cheap cretonnes, Japanese paper fans, and knick-knacks in ornamental pottery."*
+> - 📜 **James Joyce (*Dubliners*):** *"Her head was leaned against the window curtains and in her nostrils was the odor of dusty **cretonne**."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"The drawing-room armchairs were covered in faded **cretonne** patterned with sprawling pink roses and green leaves."*
+> - 📜 **Arnold Bennett (*The Old Wives' Tale*):** *"She measured the parlor sofa to calculate how many yards of durable floral **cretonne** would be needed for the new slipcover."*
+

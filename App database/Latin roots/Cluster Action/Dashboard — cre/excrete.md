@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eliminate from the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eliminate from the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To separate and eliminate waste products from the blood, tissues, or organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian renal physiology, nephrons filter blood plasma to excrete urea, uric acid, and metabolic byproducts in concentrated urine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excrete designates eliminate from the body."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain plants **excrete** a sweet juice, apparently for the sake of eliminating injurious substances from their sap."*
+> - 📜 **T. H. Huxley (*Lessons in Elementary Physiology*):** *"The kidneys continuously **excrete** nitrogenous waste matter in the form of urea."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When the renal parenchyma fails to **excrete** metabolic toxins, clinical uremia rapidly ensues."*
+

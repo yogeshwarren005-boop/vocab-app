@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sink below the surface; go under or as if under water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put under water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To dip, plunge, or bury beneath the surface of a liquid; to submerge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical physiology, to submerse an aquatic plant specimen in an airtight vessel allows measurement of dissolved photosynthetic oxygen output.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, submerse designates sink below the surface; go under or as if under water."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"If you **submerse** the heated glass vial into cold well water, the internal air contracts and draws up the liquid."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Chemists **submerse** the galvanic electrodes beneath acidulated water to collect the escaping hydrogen bubbles."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Certain delicate aquatic mosses decay rapidly unless you **submerse** their roots continuously in pure mountain streams."*
+

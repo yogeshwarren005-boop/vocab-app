@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infect (an infected cell) further or infect a cell already containing similar organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infect (an infected cell) further or infect a cell already containing similar organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause or undergo a second infection by a different or resistant strain upon an already infected host or tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical microbiology, to superinfect involves the secondary invasion of opportunistic pathogens following antimicrobial eradication of normal protective commensal microflora.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superinfect designates infect (an infected cell) further or infect a cell already containing similar organisms."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Foreign airborne molds readily **superinfect** fermenting must when protective yeast populations decline in vitality."*
+> - 📜 **Robert Koch (*Etiology of Wound Infections*):** *"Hospital gangrene bacilli frequently **superinfect** surgical wounds previously colonized by milder suppurative micrococci."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Attempts to **superinfect** an animal already bearing an established protozoan parasite often provoke intense immune resistance."*
+

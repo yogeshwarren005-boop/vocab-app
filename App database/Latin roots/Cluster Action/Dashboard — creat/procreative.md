@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing new life or offspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing new life or offspring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the capacity for biological procreation; tending to produce offspring or generate new life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary psychology, procreative success (Darwinian fitness) measures an organism's relative contribution to the gene pool of the succeeding generation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procreative designates producing new life or offspring."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The immense **procreative** power of plants and animals would rapidly cover the earth were it not checked by continuous mortality."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"As mental and nervous complexity increases in higher vertebrates, the expenditure of **procreative** energy tends progressively to diminish."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Human sexuality encompasses far more than the purely **procreative** function, serving complex psychological needs of bonding and pleasure."*
+

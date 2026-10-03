@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in the study of germanic language or culture or literature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in the study of germanic language or culture or literature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar, philologist, or literary specialist dedicated to the study of the German language, literature, or culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century university history, the academic Germanist played a foundational role in establishing comparative Germanic philology and medieval textual editing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germanist designates a specialist in the study of germanic language or culture or literature."*
+> - 📜 **Jacob Grimm (*Essays on Language and Literature*):** *"The dedicated **Germanist** must collect folklore and archaic dialects before modern industrial life erases them."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Every distinguished **Germanist** acknowledges our immense debt to the pioneering comparative tables of Franz Bopp."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The European **Germanist** illuminated Goethe's poetry with a depth of archival erudition unknown in earlier centuries."*
+

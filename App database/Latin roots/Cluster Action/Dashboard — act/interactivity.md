@@ -42,8 +42,8 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A two-way exchange between a user and a digital system, interface, or medium, where human input directly and dynamically alters the output in real time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media studies, game design, and cybernetics, interactivity distinguishes participatory environments—where audiences co-create the narrative or experience—from passive broadcast consumption like television or print.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Two-way communication, reciprocal responsiveness, or continuous mutual engagement between humans, machines, or systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media studies and digital communication theory, interactivity measures the extent to which users can participate in modifying the form and content of a mediated environment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **Marshall McLuhan (*Understanding Media: The Extensions of Man*):** *"Electric media demand a high degree of participant **interactivity**, involving the whole human sensorium in real time."*

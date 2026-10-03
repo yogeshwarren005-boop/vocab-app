@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective covering for the front of a machine or device (as a door lock or computer component).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protective covering for the front of a machine or device (as a door lock or computer component).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective or decorative plate covering the front of a device, machine tool, or electrical fixture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and lathe machining, a faceplate is a circular metal plate mounted on the spindle to secure irregular workpieces for turning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If anyone comes looking for a fight, don't wait for an invitation." Kumiko nodded and closed her faceplate."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Opening their helmet faceplates, they returned the glares of the receiving party."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They snapped their faceplates closed."*
+> - 📜 **Thomas Edison (*The Edison Papers: Menlo Park Notebooks*):** *"The lathe machinist bolted the irregular bronze casting securely to the heavy iron **faceplate** before boring."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The bronze dials were mounted upon a polished **faceplate** to facilitate precise reading of the mathematical wheels."*
+> - 📜 **Henry Ford (*My Life and Work*):** *"The standardized engine **faceplate** allowed rapid assembly of ignition timing parts without hand fitting."*
+

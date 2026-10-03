@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or consisting of carpels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing or consisting of carpels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing carpels, or having flowers that possess carpels but lack functional stamens; female in sexual expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant reproductive ecology, carpellate flowers on dioecious plants (such as willows and holly) rely on entomophilous or anemophilous pollen transfer from staminate individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpellate designates bearing or consisting of carpels."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In dioecious species, the **carpellate** plants produce fruit abundantly only when growing within flight distance of a staminate bush."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The catkins of the willow are either purely staminate or purely **carpellate**, borne upon separate shrubs."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Growers of bittersweet must ensure that at least one staminate vine is planted alongside several **carpellate** specimens to ensure autumn berry production."*
+

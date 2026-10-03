@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing no change when acted upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaware of or indifferent to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from artifice, pretense, or affection; genuine and sincere; also unchanged or unaltered by an influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and experimental pathology, describing control specimens or structural substrates that demonstrate complete physical stability under stress tests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Into the dining-house, unaffected by the seductive show in the window of artificially whitened cauliflowers and poultry, verdant baskets of peas, coolly blooming cucumbers, and joints ready for the spit, Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Captain Harville, though not equalling Captain Wentworth in manners, was a perfect gentleman, unaffected, warm, and obliging."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"His humility, utterly unaffected, like everything else about him, became if possible more marked."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But this proud openness was made lovable by an expression of **unaffected** good-will toward everyone around her."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A man of genuine character speaks with **unaffected** simplicity, having nothing to conceal and no vanity to flatter."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"At an earlier developmental age these organs would be left **unaffected**, maintaining their primitive morphology."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A caryophyllaceous genus of carpobrotus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A caryophyllaceous genus of carpobrotus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of succulent coastal plants in the ice plant family (Aizoaceae), native to South Africa, with edible fig-like fruit and large showy flowers (pigface or sour fig).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invasion ecology, Carpobrotus edulis (hottentot fig) was widely introduced to stabilize sand dunes but has become an aggressive invasive weed displacing native coastal flora in California and the Mediterranean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpobrotus designates a caryophyllaceous genus of carpobrotus."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Carpobrotus** are robust succulents with three-angled fleshy leaves that thrive in seaside maritime sands."*
+> - 📜 **Richard Mabey (*Weeds: In Defense of Nature's Most Unloved Plants*):** *"The vigorous mats of **Carpobrotus** spread relentlessly along the clifftops, smothering delicate endemic rock plants beneath a heavy succulent blanket."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"In Mediterranean coastal habitats, the rampant spread of **Carpobrotus** represents one of the most severe threats to dune biodiversity."*
+

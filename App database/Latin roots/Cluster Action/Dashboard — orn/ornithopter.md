@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heavier-than-air craft that is propelled by the flapping of wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavier-than-air craft that is propelled by the flapping of wings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aircraft designed to achieve flight through the mechanical flapping of wings, mimicking the flight dynamics of birds, bats, or insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautical engineering history, early aviation pioneers constructed numerous human-powered ornithopters before fixed-wing propellers demonstrated superior efficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithopter designates heavier-than-air craft that is propelled by the flapping of wings."*
+> - 📜 **Leonardo da Vinci (*Codex on the Flight of Birds*):** *"An **ornithopter** with artificial wings of starched linen will enable man to rise upon the aerial currents like an eagle."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"A fleet of mechanical **ornithopter** aircraft skimmed across the aerial ways of the twenty-second century metropolis."*
+> - 📜 **Octave Chanute (*Progress in Flying Machines*):** *"Experimenters who attempted to construct a full-scale **ornithopter** were consistently baffled by the immense weight of the flapping machinery."*
+

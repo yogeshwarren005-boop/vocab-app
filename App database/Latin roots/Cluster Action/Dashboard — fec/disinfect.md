@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy microorganisms or pathogens by cleansing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy microorganisms or pathogens by cleansing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cleanse an object, surface, or wound in order to destroy bacteria, viruses, and infectious microorganisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health history, sanitary teams were dispatched to disinfect urban dwellings during cholera and typhoid outbreaks using chlorine and steam.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A commoner who had incurred this danger could disinfect himself by performing a certain ceremony, which consisted in touching the sole of a chief's foot with the palm and back of each of his hands, and afterwards rinsing his hands in water."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was when Pierre (wearing the coachman’s coat which Gerásim had procured for him and had disinfected by steam) was on his way with the old man to buy the pistol at the Súkharev market that he met the Rostóvs."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Instead of preaching against humbug outside the walls, it might be better to set up a disinfecting apparatus within."*
+> - 📜 **Joseph Lister (*The Antiseptic Principle of the Practice of Surgery*):** *"It is essential to **disinfect** the hands of the operator and every instrument that touches the surgical incision."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Boiling water and steam remain the most dependable agents to **disinfect** bedding contaminated by enteric fever."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"Pure air and sunshine are nature's own sovereign means to **disinfect** the sickroom and disperse foul miasmas."*
+

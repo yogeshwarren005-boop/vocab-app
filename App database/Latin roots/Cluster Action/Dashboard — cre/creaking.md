@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A squeaking sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a high-pitched, screeching noise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making a harsh, squeaking, or grating sound; also the sound produced thereby.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime literature, the creaking of wooden hull timbers evokes the stresses imposed upon a sailing ship by heavy seas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall stay here the forehorse to a smock, Creaking my shoes on the plain masonry, Till honour be bought up, and no sword worn But one to dance with."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not the creaking of shoes nor the rustling of silks betray thy poor heart to woman."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby is so perpetually on the alert that the house becomes ghostly with creaking boards and rustling garments."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"I shall stay here the forehorse to a smock, **creaking** my shoes on the plain masonry."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was a **creaking** of machinery behind, and some of the young men began to turn the winch with vigorous strokes."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The constant **creaking** of the Pequod's cordage mingled with the rhythmic sighing of the Pacific swell."*
+

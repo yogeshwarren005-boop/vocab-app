@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not infectious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not infectious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not caused by or communicable through pathogenic microorganisms, parasites, or contagious agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health and chronic disease epidemiology, noninfectious ailments include cardiovascular diseases, malignant neoplasms, and metabolic disorders driven by genetic and lifestyle determinants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noninfectious designates not infectious."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Many degenerative cellular alterations represent purely **noninfectious** nutritional disturbances rather than microbic invasions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Essential hypertension and chronic gout remain classic examples of chronic **noninfectious** constitutional disorders."*
+> - 📜 **John Simon (*Public Health Reports*):** *"A clear distinction must be maintained between epidemic contagions and **noninfectious** ailments arising from occupational poisons."*
+

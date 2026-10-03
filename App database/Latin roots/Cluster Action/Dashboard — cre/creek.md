@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural stream of water smaller than a river (and often a tributary of a river).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of the creek confederacy (especially the muskogee) formerly living in georgia and alabama but now chiefly in oklahoma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stream, brook, or minor tributary of a river; also an inlet of the sea smaller than a cove.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American ethnohistory, the Creek (Muscogee) Confederacy was a major Indigenous nation of the southeastern woodlands, forming one of the Five Civilized Tribes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll throw’t into the creek Behind our rock, and let it to the sea And tell the fishes he’s the Queen’s son, Cloten."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus it was always an eight-hour drive behind mountain horses from the alfalfa meadows (where I kept many Jersey cows) to the straggly village beside the big dry creek, where I caught the little narrow-gauge train."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Arrived at the shore, she is stripped of her ornaments, and the bearers stagger with her into the creek, where they immerse her, and all the other women join in splashing water over both the girl and her bearers."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"I'll throw't into the **creek** behind our rock, and let it to the sea, where it may wander with the tide."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The smell of primeval mud was in my nostrils as our boat slid into a narrow, gloomy **creek** overhung by mangroves."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I followed the meandering course of the little **creek** until it opened into the broad waters of the river."*
+

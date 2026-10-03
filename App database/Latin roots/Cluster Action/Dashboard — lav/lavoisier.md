@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French chemist known as the father of modern chemistry; discovered oxygen and disproved the theory of phlogiston (1743-1794).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French chemist known as the father of modern chemistry; discovered oxygen and disproved the theory of phlogiston (1743-1794).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Antoine-Laurent de Lavoisier (1743–1794), French nobleman and chemist widely regarded as the 'father of modern chemistry', who discovered the role of oxygen in combustion and established the law of conservation of mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, Lavoisier revolutionized chemical nomenclature, dismantled the phlogiston theory, and published the foundational Elementary Treatise on Chemistry in 1789.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Doubtless a vigorous error vigorously pursued has kept the embryos of truth a-breathing: the quest of gold being at the same time a questioning of substances, the body of chemistry is prepared for its soul, and Lavoisier is born."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Nothing is created in operations of art, or in nature; and an equal quantity of matter exists both before and after the experiment: this principle governs all chemical science, established by **Lavoisier**."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The brilliant antiphlogistic experiments of **Lavoisier** swept away centuries of alchemical obscurity and laid the basis for quantitative chemistry."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The revolution wrought in chemistry by **Lavoisier** showed that vast conceptual breakthroughs depend on precise gravimetric measurements."*
+

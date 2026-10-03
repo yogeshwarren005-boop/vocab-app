@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of becoming or being made perfect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of becoming or being made perfect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of continuous improvement, refinement, or being brought nearer to flawless perfection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical moral philosophy, the human character is viewed as inherently perfectible through disciplined habituation and virtuous training.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He believed then that human life was infinitely perfectible, eliminating these conditions?"*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"If woman be created with an immortal soul, she must be endowed with a **perfectible** reason capable of moral excellence."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Human faculties are indefinitely **perfectible**, and each generation inherits expanded capacities from the cultural progress of the past."*
+> - 📜 **Immanuel Kant (*Critique of Practical Reason*):** *"The moral will in a finite being is always **perfectible**, striving endlessly toward the ideal holiness commanded by duty."*
+

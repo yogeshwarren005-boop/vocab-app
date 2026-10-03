@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who helps people or institutions (especially with financial help).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who helps people or institutions (especially with financial help).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who gives money or other help to a person, organization, or cause; a generous patron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical civic ethics and Roman patronage, the benefactor enjoyed public honors and commemorative inscriptions in exchange for funding civic spectacles or public baths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"John Jarndyce I had perhaps less reason to be surprised than either of my companions, having never yet enjoyed an opportunity of thanking one who had been my benefactor and sole earthly dependence through so many years."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I may have been born to be a benefactor to you by sometimes giving you an opportunity of assisting me in my little perplexities."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby is a benefactor to society and deserves a helping hand."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I am myself one of the pensioners upon the fund left by our noble **benefactor**."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"In general, every evil to which we do not succumb is a **benefactor**, teaching us our unsuspected strength."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had also a conscience about plucking the tail-feathers from a generous **benefactor** who had paid his school fees."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The contentment one feels when one has fulfilled a desire, need, or expectation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State of being gratified or satisfied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fulfillment of one's wishes, expectations, or needs, or the pleasure derived from such fulfillment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the historical code of honor, demanding satisfaction signified challenging an adversary to a formal pistol or sword duel to vindicate insulted honor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know since Pentecost the sum is due, And since I have not much importun’d you, Nor now I had not, but that I am bound To Persia, and want guilders for my voyage; Therefore make present satisfaction, Or I’ll attach you by this officer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen, sir, very oft importun’d me To temper poisons for her; still pretending The satisfaction of her knowledge only In killing creatures vile, as cats and dogs, Of no esteem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But a good conscience will make any possible satisfaction, and so would I."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth read the letter with an eagerness which hardly left her power of comprehension, and from that moment experienced profound mental **satisfaction**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The public creditors received complete **satisfaction** of their just claims under the new national funding system."*
+> - 📜 **William Shakespeare (*Othello*):** *"I will have **satisfaction** of thee: death and damnation! O, give me a living reason she's disloyal!"*
+

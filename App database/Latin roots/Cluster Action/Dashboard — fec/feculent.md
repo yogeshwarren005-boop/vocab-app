@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foul with waste matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foul with waste matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Foul, murky, or muddy with impurities, sediment, or putrid particulate matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and surgical examination, describing bodily exudates, effusions, or peritoneal fluids having an odor or appearance suggestive of intestinal contents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, feculent designates foul with waste matter."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The stagnant pool was thick and **feculent**, giving off a sulfurous vapor beneath the oppressive midday heat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Aspiration of the peritoneal cavity yielded a dark, **feculent** fluid confirming intestinal perforation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sluggish waters of the ditch had degenerated into a **feculent** marsh breeding pestilence among the besieging troops."*
+

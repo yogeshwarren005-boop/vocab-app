@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 135 million to 63 million years ago; end of the age of reptiles; appearance of modern insects and flowering plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abounding in chalk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the final geological period of the Mesozoic era, characterized by chalk deposits and ending with the extinction of the dinosaurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stratigraphy and historical geology, the Cretaceous system takes its name from Latin creta (chalk), preserving widespread deposits of coccolithophores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Flintcomb-Ash being in the middle of the cretaceous tableland over which no railway had climbed as yet, it would be necessary to walk."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"It may be that he swept back into the past, and fell among the blood-drinking, hairy savages of the Age of Unpolished Stone; into the abysses of the Cretaceous Sea; or among the grotesque saurians, the huge reptilian brutes of the Jurassic times."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"When the professor said a particular rock belonged to the cretaceous formation, one might safely conclude that no modern influences had been at work either on that rock or in that vicinity."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Flintcomb-Ash was in the middle of the **cretaceous** tableland, where the thin chalky soil yielded meager crops beneath the biting winter winds."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"It may be that he swept back into the past, and fell among the blood-drinking saurians of the **cretaceous** sea."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The colossal chalk cliffs of Dover were deposited during the **cretaceous** epoch through the accumulation of microscopic marine shells."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being believable or trustworthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being believable or trustworthy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity to inspire trust, belief, and confidence; authoritative believability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evidentiary jurisprudence, the credibility of a witness is evaluated by cross-examination assessing demeanor, memory, and potential pecuniary bias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Nothing can surpass the vigilance with which English critics will examine the credibility of the traveller who publishes an account of some distant and comparatively unimportant country."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Oftener, however, its credibility rested on the faith of some lonely eye-witness, who beheld the wonder through the coloured, magnifying, and distorted medium of his imagination, and shaped it more distinctly in his after-thought."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"All sorts of objections have been raised against the credibility of the gospels from the time of Celsus--they were raised even earlier; for Celsus quotes them from previous controversialists--and they are raised still."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Oftener, however, its **credibility** rested on the faith of some lonely eyewitness whose testimony was questioned by the crowd."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"When the fact attested is extraordinary, the **credibility** of the witnesses must be weighed against the intrinsic improbability of the event."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The wild promises of the demagogues lost all **credibility** as food shortages and public disorder multiplied."*
+

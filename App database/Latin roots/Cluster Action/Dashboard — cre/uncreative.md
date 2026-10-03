@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not creative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not creative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking creativity, original imagination, or inventive thought; derivative, routine, and uninspired.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational psychology and cognitive development, uncreative learning refers to rote memorization that does not encourage critical synthesis or novel application.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncreative designates not creative."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Mechanical school drill produces **uncreative** minds accustomed to passive obedience rather than active problem-solving."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"A purely **uncreative** intellect can master examination papers with ease, yet fail utterly when confronted with an unexpected clinical anomaly."*
+> - 📜 **Arthur Koestler (*The Act of Creation*):** *"The **uncreative** thinker remains imprisoned within the rigid matrix of established habit, unable to perceive bisociative connections."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the language of the deaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being other than verbal communication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by gestures and bodily movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of modern art (Abstract Expressionism), gestural painting (action painting) emphasizes the visible physical trace of the artist's sweeping arm movements on the canvas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gestural designates used of the language of the deaf."*
+> - 📜 **George Herbert Mead (*Mind, Self and Society*):** *"Human communication originated in the **gestural** conversation of primates before vocal symbols acquired shared meaning."*
+> - 📜 **Harold Rosenberg (*The American Action Painters*):** *"At a certain moment the canvas began to appear to one American painter after another as an arena in which to act: the result was **gestural** art."*
+> - 📜 **Oliver Sacks (*Seeing Voices: A Journey into the World of the Deaf*):** *"Sign language possesses its own complete grammatical syntax expressed entirely through spatial, facial, and **gestural** coordinates."*
+

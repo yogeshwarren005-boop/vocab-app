@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abject coward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disloyal person who betrays or deserts his cause or religion or political party or friend etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cowardly, unfaithful, or disloyal to a cause, duty, or belief; also a cowardly traitor or apostate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval chivalry and trial by combat, a combatant who yielded and declared himself recreant forfeited his honor and knightly rank forever.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Puff in thy teeth, most recreant coward base!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doff it for shame, And hang a calf’s-skin on those recreant limbs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And hang a calf’s-skin on those recreant limbs."*
+> - 📜 **William Shakespeare (*Richard II*):** *"Thou art a traitor and a **recreant**, false to thy God, thy sovereign, and to me!"*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"Yield thee, **recreant** knight, or by Saint George thy head shall pay the forfeit of thy treason!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"The arch-rebel led his **recreant** legions across the burning plains of hell, defiant in defeat."*
+

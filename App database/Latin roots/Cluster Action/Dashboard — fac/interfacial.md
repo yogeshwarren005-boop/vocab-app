@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or situated at an interface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or situated at an interface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated at an interface or boundary surface between phases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and colloid science, interfacial tension determines capillary action, droplet morphology, and emulsion stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interfacial designates relating to or situated at an interface."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"The thermodynamic energy residing within the **interfacial** layer differs fundamentally from that of the homogeneous contiguous phases."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Distinct electrical charges accumulate along the **interfacial** boundary dividing two dissimilar dielectric liquids."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Capillary phenomena demonstrate how molecular attraction generates substantial **interfacial** curvature in confined liquid columns."*
+

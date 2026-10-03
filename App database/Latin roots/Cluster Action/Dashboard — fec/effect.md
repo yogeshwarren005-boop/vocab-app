@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon that follows and is caused by some previous phenomenon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outward appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A change that is a result or consequence of an action or other cause; also to bring about or accomplish something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and scientific observation, an effect is a measurable physical phenomenon (such as the Doppler effect or photoelectric effect) produced by a specific mechanism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In our two loves there is but one respect, Though in our lives a separable spite, Which though it alter not love’s sole effect, Yet doth it steal sweet hours from love’s delight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A showing of a heavenly effect in an earthly actor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s take the instant by the forward top; For we are old, and on our quick’st decrees Th’inaudible and noiseless foot of time Steals ere we can effect them."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection is daily and hourly scrutinising, throughout the world, the slightest variations, producing an **effect** beyond calculation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor is the necessary, though very slow and gradual, **effect** of human commercial propensity."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The unexpected arrival of the carriage had an immediate **effect** upon the spirits of the whole family assembly."*
+

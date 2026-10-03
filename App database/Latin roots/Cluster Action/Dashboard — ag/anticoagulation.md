@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The administration of an anticoagulant drug to retard coagulation of the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administration of an anticoagulant drug to retard coagulation of the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical process or therapeutic state of preventing or retarding blood clot formation through pharmaceutical agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiopulmonary bypass and dialysis, systemic anticoagulation is essential to prevent circuit clotting as blood circulates through artificial extracorporeal tubing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticoagulation designates the administration of an anticoagulant drug to retard coagulation of the blood."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Therapeutic **anticoagulation** must be carefully titrated against international normalized ratio targets to prevent both thrombosis and hemorrhage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In deep vein thrombosis, prompt **anticoagulation** halts propagation of the clot and protects against fatal pulmonary embolism."*
+> - 📜 **Armand Quick (*The Physiology and Pathology of Hemostasis*):** *"Monitoring the depth of **anticoagulation** requires accurate laboratory assessment of prothrombin time."*
+

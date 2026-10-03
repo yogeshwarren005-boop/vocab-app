@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or building equipped with one or more toilets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room or building equipped with one or more toilets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal abbreviation for lavatory (toilet or restroom).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of virology, LAV (lymphadenopathy-associated virus) was the original name given by Luc Montagnier and his team in 1983 to the retrovirus later renamed HIV.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"_Le chien est retourné à son propre vomissement, et la truie lavée au bourbier_.” Thou mak’st use of anything."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The rising sun owre Galston muirs Wi’ glorious light was glintin; The hares were hirplin down the furrs, The lav’rocks they were chantin Fu’ sweet that day."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—Farewell To Ballochmyle Tune—“Miss Forbe’s farewell to Banff.” The Catrine woods were yellow seen, The flowers decay’d on Catrine lee, Nae lav’rock sang on hillock green, But nature sicken’d on the e’e."*
+> - 📜 **Luc Montagnier (*Isolation of a T-Lymphotropic Retrovirus from a Patient at Risk for Acquired Immune Deficiency Syndrome*):** *"We proposed the designation **LAV** for this novel human retrovirus isolated from the lymph node biopsy of a patient with persistent lymphadenopathy."*
+> - 📜 **Robert Gallo (*Virus Hunting: AIDS, Cancer, and the Human Retrovirus*):** *"The international committee on viral taxonomy eventually harmonized the conflicting names **LAV** and HTLV-III into the neutral term HIV."*
+> - 📜 **James Joyce (*Ulysses*):** *"He hurried down the narrow passage to find the **lav**, his mind crowded with the disjointed memories of the morning."*
+

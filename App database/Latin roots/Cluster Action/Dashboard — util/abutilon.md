@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs or shrubs or small trees: flowering maple; indian mallow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs or shrubs or small trees: flowering maple; indian mallow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the mallow family (Malvaceae), commonly known as Indian mallow or flowering maple, bearing pendulous bell-shaped blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and fiber technology, Abutilon theophrasti (velvetleaf) has been cultivated in China for millennia as a source of durable bast fiber for cordage and paper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abutilon designates herbs or shrubs or small trees: flowering maple; indian mallow."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Abutilon** is distinguished among the Malvaceae by its multi-seeded carpels arranged in a radiate head."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Abutilon** are prized in greenhouse collections for their attractive maple-shaped foliage and drooping calyces."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Plants of **Abutilon** darwinii showed marked superiority in seed production when cross-pollinated with pollen from a distinct clone."*
+

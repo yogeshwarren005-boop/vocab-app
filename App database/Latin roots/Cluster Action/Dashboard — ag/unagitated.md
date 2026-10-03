@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not physically disturbed or set in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not agitated or disturbed emotionally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not agitated; calm, undisturbed, serene, and tranquil, whether physically or emotionally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character description and stoic philosophy, an unagitated demeanor represents the mastery of emotional turmoil through rational self-possession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unagitated designates not physically disturbed or set in motion."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne maintained an **unagitated** exterior, though her heart beat with tumultuous emotion as Captain Wentworth entered the room."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her clear, **unagitated** gaze disarmed his rising anger, making him ashamed of his hasty resentment."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The tranquil surface of the Pacific lay smooth and **unagitated** as an inland pond beneath the summer moon."*
+

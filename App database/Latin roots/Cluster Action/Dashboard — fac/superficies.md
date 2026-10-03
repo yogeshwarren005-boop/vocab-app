@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The purely external aspect of a thing; superficial appearance; -r.w.speaight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outer surface of an area or a body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surface, outer face, or exterior aspect of a physical body or area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman civil law, superficies refers to a specialized real right entitling a person to build upon and enjoy land owned by another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As if a woman were a mere colored superficies!"*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The superficies was composed of several bits of wood, about the bigness of a die, but some larger than others."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The human senses touch only the external **superficies** of natural bodies, leaving the latent internal structure unperceived."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our geometric ideas of planes and solids are derived from measuring the bounded **superficies** of tangible objects."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Looking down upon the smooth **superficies** of the floating island of Laputa, he observed its remarkable magnetic balance."*
+

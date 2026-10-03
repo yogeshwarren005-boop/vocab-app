@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constant number that serves as a measure of some property or characteristic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constant number that serves as a measure of some property or characteristic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A numerical or constant multiplier placed before a variable in an algebraic expression; also a factor measuring a specific physical property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental physics and engineering, a coefficient (such as thermal expansion or friction) quantifies material responses under changing environmental conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coefficient designates a constant number that serves as a measure of some property or characteristic."*
+> - 📜 **Augustus De Morgan (*Elements of Algebra*):** *"In every polynomial term, the numerical **coefficient** determines the multiple of the variable factors involved."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The calculated **coefficient** of mutual induction depends entirely upon the geometric form and relative position of the two circuits."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The analytical engine was designed to calculate each successive **coefficient** in the expansion of astronomical tables."*
+

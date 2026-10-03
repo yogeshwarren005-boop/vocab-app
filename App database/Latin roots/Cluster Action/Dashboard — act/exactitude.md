@@ -42,7 +42,7 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strict adherence to precision, mathematical accuracy, and rigorous standards of correctness that leaves no margin for error or approximation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strict adherence to precision, thorough accuracy, and rigorous standards of correctness.
 > 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific methodology and measurement theory, exactitude distinguishes quantitative empirical results from mere qualitative estimation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations

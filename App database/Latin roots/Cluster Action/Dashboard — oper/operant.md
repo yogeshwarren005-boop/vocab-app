@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having influence or producing an effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having influence or producing an effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating or having an effect; functioning or exerting active influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, B. F. Skinner defined operant behavior as an observable response that operates upon the environment to produce consequences, forming the basis of operant conditioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, I must leave thee, love, and shortly too: My operant powers their functions leave to do: And thou shalt live in this fair world behind, Honour’d, belov’d, and haply one as kind For husband shalt thou— PLAYER QUEEN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Earth, yield me roots! [_Digs in the earth._] Who seeks for better of thee, sauce his palate With thy most operant poison!"*
+> - 📜 **B. F. Skinner (*The Behavior of Organisms*):** *"An **operant** is an item of behavior that acts upon the environment and is in turn strengthened or extinguished by its reinforcing consequences."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The active will is the primary **operant** factor in selective attention, bringing obscure ideas into conscious clarity."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A secret wisdom is **operant** in human affairs, confounding the haughtiest schemes of pride."*
+

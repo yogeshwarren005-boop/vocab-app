@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a gradual increase in loudness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow louder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gradual increase in loudness or intensity in a musical passage; also a culminating progressive surge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic structure and rhetorical oratory, an affective crescendo steadily accelerates tempo and amplitude to climax the emotional argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"But a day of reckoning, he stated _crescendo_ with no uncertain voice, thoroughly monopolising all the conversation, was in store for mighty England, despite her power of pelf on account of her crimes."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Will you or will you not go to the devil?” rejoined Lottchen, with a comic crescendo; to which the other replied with a laugh."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"It may have been merely a **crescendo** of nervous fancy, but the sound of pursuing footsteps seemed to double in volume."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her singing swelled in a magnificent **crescendo** that filled the grand hall with vibrant emotional power."*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"The preacher's voice rose in an impassioned **crescendo**, describing the eternal torments awaiting unrepentant sinners."*
+

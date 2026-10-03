@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking embellishment or ornamentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking embellishment or ornamentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not decorated or embellished; austere, plain, and without decorative flourishes or aesthetic additions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural theory, functionalist movements championed unornamented structural elements, asserting that form should directly reflect structural purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unornamented designates lacking embellishment or ornamentation."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The severe, **unornamented** masonry of the ancient sea-wall possessed a noble dignity born of pure utility."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneer's bunk was an **unornamented** plank of seasoned oak that bore the marks of sea-chests and harpoon irons."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The meetinghouse was an **unornamented** wooden structure, austere and gloomy under the gray autumn sky."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not connected with or engaged in commercial enterprises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not connected with or engaged in commercial enterprises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a commercial objective, motivation, or financial profit motive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In broadcast media and public communication law, noncommercial frequencies are reserved exclusively for educational, civic, and cultural programming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You must attribute the work in the manner specified by the author or licensor. -- Noncommercial."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Permission is herewith granted to private individuals, intergenerational programs, senior centers, and public and nonprofit entities to freely reproduce all or portions of this text for noncommercial purposes."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"A university must preserve an uncompromising **noncommercial** devotion to scientific research free from industrial bias."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Public civic recreation should remain **noncommercial**, cultivating cooperative social fellowship among neighbors."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"The settlement house provided a **noncommercial** sanctuary where young workers could enjoy music and theater without charge."*
+

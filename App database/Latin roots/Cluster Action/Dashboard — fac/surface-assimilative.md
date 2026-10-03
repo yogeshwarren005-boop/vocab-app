@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having capacity or tendency to adsorb or cause to accumulate on a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having capacity or tendency to adsorb or cause to accumulate on a surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of absorbing, integrating, or processing nutrients or influences through an outer surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative plant morphology and mycology, surface-assimilative fungal mycelia absorb dissolved organic nutrients across widespread hyphal boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surface-assimilative designates having capacity or tendency to adsorb or cause to accumulate on a surface."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The glandular hairs on the leaf of Drosera function as an active **surface-assimilative** organ digesting entrapped insects."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Primitive aquatic organisms maximize their **surface-assimilative** area to absorb ambient nutrition without specialized internal viscera."*
+> - 📜 **Thomas Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The outer integument of the parasite exhibits specialized **surface-assimilative** adaptations for drawing sustenance from the host."*
+

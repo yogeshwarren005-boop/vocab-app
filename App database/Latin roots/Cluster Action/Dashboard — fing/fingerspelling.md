@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alphabet of manual signs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate by means of specific gestures, as an alternative to sign language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The manual communication system in which each letter of the alphabet is represented by a distinctive hand and finger position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psycholinguistics, fingerspelling fluency in deaf children correlates positively with reading comprehension and English phonemic awareness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerspelling designates an alphabet of manual signs."*
+> - 📜 **Helen Keller (*The Story of My Life*):** *"The silent mystery of **fingerspelling** unlocked the doors of human knowledge to my darkened and isolated mind."*
+> - 📜 **Anne Sullivan (*Letters and Reports on the Education of Helen Keller*):** *"Through constant **fingerspelling**, the English language gradually became her native vehicle of expression and thought."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"Watching rapid **fingerspelling** between two skilled deaf communicators is like watching a breathtaking stream of living calligraphy."*
+

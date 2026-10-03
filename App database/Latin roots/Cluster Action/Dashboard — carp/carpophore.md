@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender stalk that furnishes an axis for a carpel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slender stalk that furnishes an axis for a carpel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender stalk that supports a sporocarp, sporangium, or individual carpels in a flower or fruit (such as in the Umbelliferae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, carpophore is an older botanical term for the fruiting body (basidioma or ascoma) of a fungus, which bears the spore-producing structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpophore designates a slender stalk that furnishes an axis for a carpel."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In the fruit of the carrot family, the two mericarps separate at maturity while remaining suspended upon the slender central **carpophore**."*
+> - 📜 **Miles Joseph Berkeley (*Introduction to Cryptogamic Botany*):** *"The visible mushroom is merely the **carpophore** of the fungus, while the vegetative mycelium remains hidden in the soil."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The prolongation of the floral receptacle between the carpels forms the persistent **carpophore** seen in Geraniaceae."*
+

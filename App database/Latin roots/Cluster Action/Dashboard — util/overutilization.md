@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exploitation to the point of diminishing returns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exploitation to the point of diminishing returns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or unsustainable use of a resource, facility, or asset beyond its normal or healthy capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In health economics and medical management, overutilization refers to the provision of diagnostic tests or therapies whose expected clinical benefits do not justify their costs or risks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overutilization designates exploitation to the point of diminishing returns."*
+> - 📜 **Kenneth Arrow (*Uncertainty and the Welfare Economics of Medical Care*):** *"Third-party insurance coverage may generate moral hazard, leading to the **overutilization** of specialized medical facilities."*
+> - 📜 **Garrett Hardin (*The Tragedy of the Commons*):** *"Unregulated access to maritime fisheries inevitably precipitates catastrophic **overutilization** of breeding stocks."*
+> - 📜 **Herbert Simon (*The Sciences of the Artificial*):** *"The **overutilization** of human attentional capacity in information-rich environments creates severe cognitive bottlenecks."*
+

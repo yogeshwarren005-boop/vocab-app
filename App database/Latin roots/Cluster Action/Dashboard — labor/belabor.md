@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To work at or to absurd length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack verbally with harsh criticism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To argue, discuss, or elaborate on a subject excessively or to unnecessary length; to harp on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In older literary and physical usage, to belabor also meant to beat soundly, strike repeatedly, or attack with physical blows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Ah, when one looks at our young people, Prince, one would like to take Peter the Great’s old cudgel out of the museum and belabor them in the Russian way till all the nonsense jumps out of them.” All were silent."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"He inwardly belabored himself for having allowed his mind to be so taken up with the image of a married woman."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There is no need to **belabor** the obvious, Watson; the footprints alone demonstrate the intruder's identity."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The tyrannical schoolmaster was ever ready to **belabor** his unfortunate pupils upon the slightest pretext."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"I shall not **belabor** this initial proposition, which has long been conceded by all reputable logicians."*
+

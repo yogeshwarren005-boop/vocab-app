@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or like a gerund.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or like a gerund.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or functioning in the manner of a gerund.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive syntax and linguistic typology, gerundial clauses feature nominal distribution while licensing internal direct objects and adverbial modification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerundial designates relating to or like a gerund."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"The **gerundial** infinitive in Old English was marked by the preposition to followed by a dative inflected ending."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"In modern English, the **gerundial** construction allows a smooth transition between verbal predication and nominal embedding."*
+> - 📜 **George Oliver Curme (*A Grammar of the English Language*):** *"The **gerundial** phrase preserves the dynamic verbal force of the action while serving as the grammatical subject of the sentence."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a laborious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a laborious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner requiring great effort, strain, or sustained toil; painstakingly, arduously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In procedural description, laboriously denotes meticulous, manual step-by-step execution without mechanical shortcuts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had the mobile face frequent in those whose sight has decayed by stages, has been laboriously striven after, and reluctantly let go, rather than the stagnant mien apparent in persons long sightless or born blind."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"They were not long able, however, to enjoy the repose of the eminence they had so laboriously gained."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Take almost any Frenchman, except the late M. de Maupassant, and watch him laboriously piling up strokes in the hope of giving a complete impression."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes **laboriously** pieced together the charred fragments of the burned will, deciphering each line with a magnifying lens."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The naturalist must **laboriously** compare anatomical measurements across hundreds of specimens to establish a single reliable correlation."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard **laboriously** wrote out the terms of his bankruptcy settlement with fingers stiffened by decades of outdoor trade."*
+

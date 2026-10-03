@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transactions (sales and purchases) having the objective of supplying commodities (goods and services).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The united states federal department that promotes and administers domestic and foreign trade (including management of the census and the patent office); created in 1913.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of buying and selling commodities, goods, and services, especially on a large or international scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and constitutional jurisprudence, commerce encompasses the entire network of trade, transport, and communicative exchange connecting sovereign polities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Could beauty, my lord, have better commerce than with honesty?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How could communities, Degrees in schools, and brotherhoods in cities, Peaceful commerce from dividable shores, The primogenity and due of birth, Prerogative of age, crowns, sceptres, laurels, But by degree stand in authentic place?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the commerce that you have had with Troy As perfectly is ours as yours, my lord; And better would it fit Achilles much To throw down Hector than Polyxena."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Could beauty, my lord, have better **commerce** than with honesty?"*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The natural effort of every individual to better his own condition is capable of carrying on society to wealth and prosperity through unrestricted **commerce**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The prosperity of **commerce** is now perceived and acknowledged by all enlightened statesmen to be the most useful source of national wealth."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being made imperfect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being made imperfect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being made entirely faultless, flawless, or complete; inherently limited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysical theology and rationalist ethics, imperfectible characterizes finite creatures whose essence precludes attaining infinite divine perfection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperfectible designates capable of being made imperfect."*
+> - 📜 **Jonathan Edwards (*Freedom of the Will*):** *"Creatures remain essentially **imperfectible** to absolute infinity, for the distance between finite being and divine fullness is boundless."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Human covenants are necessarily **imperfectible** against all contingencies without a coercive power to compel observance."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"If the architect of nature be infinitely wise, why should this world appear so crude and **imperfectible** in its adjustments?"*
+

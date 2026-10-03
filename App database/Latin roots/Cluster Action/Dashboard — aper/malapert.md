@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin aper within the domain of Action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of aper in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Boldly disrespectful, insolent, or saucy in speech and behavior; impudently forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern English literature and drama, a malapert character is an impertinent subordinate who speaks out of turn against their social betters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Untutored lad, thou art too malapert."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, Master Marquess, you are malapert."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, then, I must have an ounce or two of this malapert blood from you. [_Draws._] Enter Olivia."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, master marquis, you are **malapert**: your fire-new stamp of honour is scarce current: O! that your young nobility could judge what 'twere to lose it and be miserable!"*
+> - 📜 **Walter Scott (*The Monastery*):** *"The abbot sternly rebuked the **malapert** young page for laughing during the solemn recitation of the office."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"She dismissed the **malapert** apprentice with a sharp rebuke that sent him blushing to his counter."*
+

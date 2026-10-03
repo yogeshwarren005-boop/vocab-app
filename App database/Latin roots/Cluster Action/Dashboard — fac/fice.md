@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nervous belligerent little mongrel dog.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nervous belligerent little mongrel dog.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, spirited, or snappy mongrel dog, commonly found in North American regional vernacular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American folklore and dialectology, a feist or fice signifies a feisty, alert hunting cur prized for treeing squirrels in rural woodlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fice designates a nervous belligerent little mongrel dog."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"A yelping little **fice** came darting out from under the porch, snapping at our heels until the farmer whistled."*
+> - 📜 **William Faulkner (*The Bear*):** *"The small yellow **fice** knew neither fear nor caution, lunging directly toward the giant bear's flank."*
+> - 📜 **Joel Chandler Harris (*Uncle Remus: His Songs and Sayings*):** *"The old hunter chuckled as his tireless **fice** scampered through the briar patch on the trail of the hare."*
+

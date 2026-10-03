@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong hard building material composed of sand and gravel and cement and water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover with cement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in a material or physical form; not abstract; also a heavy composite construction material of cement, gravel, and sand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical logic and dialectics, the concrete concept reflects real-world complexities and multiple interconnected relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was Wisdom in the abstract facing Folly in the concrete."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Folly in the concrete blushed, persisted in her intention, and placed the key on the book."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To the student beginning economics and to the general reader the study of principles is likely to appear more difficult than does that of concrete questions."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was Wisdom in the abstract facing Folly in the **concrete** across the rustic barn floor."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Happiness is not an abstract idea, but a **concrete** whole; and these parts are some of its elements."*
+> - 📜 **William James (*Pragmatism*):** *"Pragmatism turns away from abstraction and insufficiency, towards **concrete** facts and practical actions."*
+

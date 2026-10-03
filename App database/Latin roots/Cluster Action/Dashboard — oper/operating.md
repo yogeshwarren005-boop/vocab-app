@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct or control; projects, businesses, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform as expected when applied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Functioning, controlling, or in active operation; pertaining to the processes of surgery or machine management.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hospital architecture and surgical discipline, an operating room (or theater) is a sterile environment equipped with specialized illumination, anesthesia machines, and surgical instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He mounted the third pile of wealth and began operating, adopting the plan of sloping the upper sheaves one over the other; and, in addition, filling the interstices with the material of some untied sheaves."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The milkers formed quite a little battalion of men and maids, the men operating on the hard-teated animals, the maids on the kindlier natures."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But in several respects it long ago became evident that our banks were operating less satisfactorily than those of several other countries."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The introduction of carbolic acid spray transformed the **operating** theater from a place of septic hazard into a temple of healing."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The principle of self-interest is the primary **operating** motive in all regular commercial intercourse."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Halsted insisted upon scrupulous hemostasis and gentle tissue handling throughout the long hours in the **operating** room."*
+

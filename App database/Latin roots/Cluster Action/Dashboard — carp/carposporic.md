@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a carpospore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling a carpospore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or producing carpospores; pertaining to the carpospore stage in the red algal life cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algal morphology and reproductive physiology, carposporic reproduction provides amplification of the zygote before the meiotic generation develops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carposporic designates relating to or resembling a carpospore."*
+> - 📜 **Felix Eugen Fritsch (*The Structure and Reproduction of the Algae*):** *"The **carposporic** generation in the Florideae represents a diploid phase parasitic upon the female gametophyte."*
+> - 📜 **William Henry Harvey (*Nereis Boreali-Americana*):** *"The protective pericarp encloses the mass of fertile **carposporic** threads within a rounded external conceptacle."*
+> - 📜 **C. J. Alexopoulos (*Introductory Mycology and Phycology*):** *"The **carposporic** stage in red algae multiplies the genetic output of a single rare fertilization event in turbulent sea water."*
+

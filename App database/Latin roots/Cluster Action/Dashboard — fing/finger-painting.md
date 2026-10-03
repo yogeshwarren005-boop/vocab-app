@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting produced by spreading paint with the fingers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painting by using the fingers to spread the paint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting produced by spreading and swirling wet pigment across paper with the fingers, palms, or hands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and preschool education, finger-painting develops fine motor coordination, spatial orientation, and visual-spatial reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finger-painting designates a painting produced by spreading paint with the fingers."*
+> - 📜 **Ruth Faison Shaw (*Finger Painting: A Method of Self-Expression*):** *"The finished **finger-painting** reveals the natural cadence of the arm and hand in sweeping arcs of wet pigment."*
+> - 📜 **Arthur D. Efland (*A History of Art Education*):** *"Progressive nursery schools embraced **finger-painting** as an ideal vehicle for cultivating spontaneous emotional release."*
+> - 📜 **Rhoda Kellogg (*Analyzing Children's Art*):** *"The basic scribbles found in early **finger-painting** correspond to universal neuromuscular movement patterns in toddlers."*
+

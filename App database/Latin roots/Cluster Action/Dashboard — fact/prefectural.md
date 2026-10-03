@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a prefecture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a prefecture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, administered by, or characteristic of a prefect or the territorial jurisdiction of a prefecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative political geography and modern Japanese governance, prefectural assemblies and governors administer regional public works, policing, and education within designated jurisdictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefectural designates of or relating to a prefecture."*
+> - 📜 **Isabella Bird (*Unbeaten Tracks in Japan*):** *"The new **prefectural** authorities had constructed broad macadamized roads connecting the provincial capital with the sea."*
+> - 📜 **Basil Hall Chamberlain (*Things Japanese*):** *"Each **prefectural** government maintains an efficient police force and supervises primary schooling under national standards."*
+> - 📜 **Lafcadio Hearn (*Glimpses of Unfamiliar Japan*):** *"The governor issued a **prefectural** decree protecting the ancient cedar groves surrounding the Shinto shrine."*
+

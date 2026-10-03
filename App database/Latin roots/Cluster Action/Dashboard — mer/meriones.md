@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cricetidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of cricetidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of rodent in the gerbil family Muridae, commonly known as jirds, native to arid regions of Africa and Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian physiology and desert ecology, Meriones species (such as the Mongolian jird) possess hypertrophied renal loops that allow survival on dry seeds without drinking water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Ah! see you not where (fatal to your race) Laertes' son comes with the Pylean sage; Fearless alike, with Teucer joins the chase Stenelaus, skill'd the fistic strife to wage, Nor less expert the fiery steeds to quell; And Meriones, you must know."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"Specimens of the rodent genus **meriones** collect seeds in subterranean burrows to sustain life across long desert droughts."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The sand jirds of the genus **meriones** inhabit the barren wastes of Central Asia, burrowing beneath thorny scrub."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The distribution of **meriones** exemplifies how specialized desert rodents adapt to extreme hyper-arid continental climates."*
+

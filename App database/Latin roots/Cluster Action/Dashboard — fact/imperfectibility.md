@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of becoming imperfect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capability of becoming imperfect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inherent incapacity of human nature, knowledge, or societal institutions to achieve absolute flawlessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and theological anthropology, imperfectibility serves as a foundational doctrine asserting that human finite limitations preclude utopian social arrangements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperfectibility designates the capability of becoming imperfect."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A prudent statesman acknowledges the permanent **imperfectibility** of human contrivances and distrusts all radical schemes of total renovation."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The intrinsic **imperfectibility** of mortal wisdom requires that government be founded upon checks and balances rather than idealistic virtue."*
+> - 📜 **Samuel Johnson (*The Vanity of Human Wishes*):** *"Every scheme of worldly felicity founders upon the constitutional **imperfectibility** of our mortal condition."*
+

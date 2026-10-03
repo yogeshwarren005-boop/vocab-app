@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light meal or repast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light meal or repast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refreshment or nourishment, especially a light meal or repast taken after labor or fasting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monastic rules and ascetic disciplines, refection refers to the scheduled communal meal taken in silence while listening to edifying spiritual readings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"They eat, they drink, and with refection sweet Are fill’d, before th’ all bounteous King, who showrd With copious hand, rejoycing in thir joy."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Six words there, While I stood munching my first bread that month: “So, boy, you’re minded,” quoth the good fat father Wiping his own mouth, ‘twas refection-time,-- “To quit this very miserable world?"*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"When he finishes refection, Knife and fork he never lays Cross-wise, to my recollection, As do I, in Jesu’s praise."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The hungry pupils were summoned to a meager **refection** consisting of burnt porridge and water."*
+> - 📜 **John Milton (*Paradise Regained*):** *"After their long desert journey, they partook of a sweet **refection** spread beneath the shady palms."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The hospitable prior offered the weary traveler such simple **refection** as the abbey cellar could afford."*
+

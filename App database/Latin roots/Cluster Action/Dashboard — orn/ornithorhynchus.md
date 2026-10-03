@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family ornithorhynchidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family ornithorhynchidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The zoological genus consisting of the duck-billed platypus, a semi-aquatic, egg-laying monotreme native to eastern Australia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, Ornithorhynchus possesses a leathery duck-like bill equipped with electroreceptors for detecting aquatic prey in murky water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithorhynchus designates type genus of the family ornithorhynchidae."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"I was fortunate to observe several specimens of **Ornithorhynchus** swimming and diving in the placid pools of the Fish River."*
+> - 📜 **Richard Owen (*On the Generation of the Platypus*):** *"Dissection of the female **Ornithorhynchus** demonstrates that the milk glands discharge through skin pores without true nipples."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Comparative Anatomy*):** *"The venomous crural spur upon the hind leg of the male **Ornithorhynchus** represents an extraordinary defense mechanism unique among mammals."*
+

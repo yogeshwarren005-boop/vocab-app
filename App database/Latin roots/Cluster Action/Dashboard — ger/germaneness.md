@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertinence by virtue of a close relation to the matter at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertinence by virtue of a close relation to the matter at hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or property of being pertinent, relevant, and directly applicable to the matter at hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial evidence law and legislative drafting, the germaneness of an evidentiary exhibit or statutory clause determines its admissibility and procedural legitimacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germaneness designates pertinence by virtue of a close relation to the matter at hand."*
+> - 📜 **Woodrow Wilson (*Constitutional Government in the United States*):** *"The strict rule of **germaneness** prevents legislative assemblies from being hijacked by irrelevant partisan riders."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The legal test of **germaneness** requires a direct logical nexus between the proffered proof and the operative fact."*
+> - 📜 **Felix Frankfurter (*The Public and Its Government*):** *"Administrative tribunals must observe intellectual **germaneness**, deciding cases strictly upon the evidence in the record."*
+

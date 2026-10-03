@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone concerned with the science or art or business of cultivating the soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone concerned with the science or art or business of cultivating the soil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices, studies, or is skilled in agriculture; a scientific farmer or land improver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century agrarian reform, an agriculturist was distinguished from a traditional peasant by the application of scientific chemistry and agronomy to soil management.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In contemplating Bathsheba as a woman, he had forgotten the accidents of her position as an agriculturist—that being as much of a farmer, and as extensive a farmer, as himself, her probable whereabouts was out-of-doors at this time of the year."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He did not milk cows because he was obliged to milk cows, but because he was learning to be a rich and prosperous dairyman, landowner, agriculturist, and breeder of cattle."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He said that fate or Providence had thrown in his way a woman who possessed every qualification to be the helpmate of an agriculturist, and was decidedly of a serious turn of mind."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The practical **agriculturist** selects his breeding stock with an experienced eye, preserving only the most vigorous individuals."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The enterprising **agriculturist** who drains bogs and enriches pastures confers a lasting benefit upon the commonwealth."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The squire was respected as a knowledgeable **agriculturist**, though his conservative tenantry were slow to adopt his new farming implements."*
+

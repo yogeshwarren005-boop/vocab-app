@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short amusing opera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short amusing opera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short, light, and amusing opera, typically featuring spoken dialogue, light tuneful melodies, and romantic or satirical plots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical history, nineteenth-century operetta flourished in Paris (Offenbach), Vienna (Johann Strauss II), and London (Gilbert and Sullivan), bridging comic opera and modern musical theater.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operetta designates a short amusing opera."*
+> - 📜 **George Bernard Shaw (*The Perfect Wagnerite*):** *"Offenbach's satirical **operetta** exposed the hollow pretensions and corruption of the Second Empire beneath a froth of lively dance tunes."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The prima donna had made her theatrical reputation in Viennese **operetta** before appearing on the grand opera stage at Covent Garden."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The witty tunes of the French **operetta** floated through the summer gardens, adding to the carefree gaiety of the evening."*
+

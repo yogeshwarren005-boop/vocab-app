@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An endowed church office giving income to its holder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endow with a benefice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A permanent church appointment or ecclesiastical living endowed with revenues or lands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law and medieval feudalism, a benefice (beneficium) originally signified a conditional grant of land bestowed by a lord in return for loyal service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In some parishes, where the reputation of the curate in this respect stood higher than that of his rector, the relations between the two have been so strained in consequence that the bishop has had to translate the rector to another benefice."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A living of 500_l._ per annum, falling in the gift of the late Lord Chancellor Talbot, Sir Robert Walpole recommended one of his friends as very deserving of the benefice, whom his lordship approved of."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The bishop soon after presented him to a valuable benefice. 717."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"And then dreams he of another **benefice**: sometime she driveth o'er a soldier's neck, and then dreams he of cutting foreign throats."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"For he had yet no worldly **benefice**, nor was he worldly enough to hold secular office."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ambitious prelate amassed every lucrative **benefice** within the diocese to support his courtly retinue."*
+

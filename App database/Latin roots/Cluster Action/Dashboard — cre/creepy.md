@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annoying and unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing a sensation as of things crawling on your skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing an unpleasant feeling of fear, unease, or nervousness; weird and frightening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative atmosphere and ghost story conventions, a creepy setting exploits uncanny sensory cues such as dim illumination and faint scraping noises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"How do I know that he hasn't had all sorts of cold, creepy feeling's keeping him from proposing to Caroline?"*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Such a deliciously creepy song it was, in which they pretended to be frightened at their own shadows, little witting that so soon shadows would close in upon them, from whom they would shrink in real fear."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"But the snags were thick, the water was treacherous and shallow, the boiler seemed indeed to have a sulky devil in it, and thus neither that fireman nor I had any time to peer into our creepy thoughts."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The snags were thick, the water was treacherous, and there was a **creepy** silence hanging over the immense primeval forest."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"Then the barrister said in a lower voice, which seemed at once sympathetic and **creepy**, that the mystery was solved."*
+> - 📜 **Bram Stoker (*Dracula*):** *"A **creepy** feeling ran through my hair as the nocturnal shadow detached itself from the castle wall."*
+

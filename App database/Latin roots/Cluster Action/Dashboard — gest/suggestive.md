@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to suggest or imply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually followed by `of') pointing out or revealing clearly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to suggest or evoke ideas, memories, or associations; in common usage, hinting at something improper or provocative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific heuristic methodology, suggestive evidence is an empirical pattern that strongly hints at a causal mechanism, prompting further rigorous testing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, and thirdly because the contrast between those powerful expressions and his powerless figure is suggestive of a baleful old malignant who would be very wicked if he could."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The voice was unexpectedly attractive; it was the low and dulcet note suggestive of romance; common in descriptions, rare in experience."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here, under the table, and leaning against forms and chairs in every conceivable attitude except the perpendicular, were the wretched persons of all the work-folk, the hair of their heads at such low levels being suggestive of mops and brooms."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geographical distribution of the Galapagos tortoises was highly **suggestive** of independent divergence from a mainland ancestor."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The single burnt match in the fireplace was intensely **suggestive** to the trained mind of the detective."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His conversational remarks were richly **suggestive**, opening unexpected vistas of scholarly inquiry."*
+

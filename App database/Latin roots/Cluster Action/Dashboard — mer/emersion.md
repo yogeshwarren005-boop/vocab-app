@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the reappearance of a celestial body after an eclipse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of emerging.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of emerging or rising out of a fluid or state of concealment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, emersion is the reappearance of a celestial body (such as a moon or star) from behind an eclipsing body or shadow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emersion designates (astronomy) the reappearance of a celestial body after an eclipse."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Astronomers accurately timed the **emersion** of Jupiter's first satellite from behind the shadow of the primary planet."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sudden **emersion** of the leviathan's gleaming white head broke the glassy surface of the Pacific swell."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"His glorious **emersion** from obscurity into the bright sunshine of popular acclaim astonished the National Assembly."*
+

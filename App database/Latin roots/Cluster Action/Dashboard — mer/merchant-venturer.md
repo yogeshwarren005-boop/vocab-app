@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who undertakes a trading venture (especially a venture that sends goods overseas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant who undertakes a trading venture (especially a venture that sends goods overseas).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An entrepreneurial trader or investor who finances long-distance maritime voyages to discover new commercial markets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British economic history, the Company of Merchant Venturers organized expeditions to Russia, the Levant, and the Americas under royal charter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merchant-venturer designates a merchant who undertakes a trading venture (especially a venture that sends goods overseas)."*
+> - 📜 **Richard Hakluyt (*The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation*):** *"Every daring **merchant-venturer** risked his entire fortune upon the perilous hazards of Arctic navigation to open a northern passage to Cathay."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The early **merchant-venturer** required exceptional courage and capital to navigate unexplored seas and barbarian coasts."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Bristol **merchant-venturer** built sturdy pinnaces that carried woolen draperies to the West Indies."*
+

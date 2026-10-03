@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having facets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having facets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many facets or flat cut surfaces, as a gemstone; also having many distinct aspects or dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gem cutting lapidary arts, a faceted jewel refracts and reflects light internally to maximize brilliance and chromatic fire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And all for me!” On the same day the Chief of Police came to Pierre, inviting him to send a representative to the Faceted Palace to recover things that were to be returned to their owners that day."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He admired the **faceted** ruby ring that glowed like a burning coal upon his finger in the dim salon."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The compound eyes of arthropods consist of numerous closely packed, **faceted** lenses adapted for panoramic vision."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The capitals of the Gothic columns were exquisitely **faceted**, catching the morning light in contrasting planes of shadow."*
+

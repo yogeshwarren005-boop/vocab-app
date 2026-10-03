@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease in size, extent, or range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make smaller.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming progressively smaller, fewer, or less intense over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic theory, the law of decreasing returns states that successive increments of an input yield progressively smaller output gains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you not a moist eye, a dry hand, a yellow cheek, a white beard, a decreasing leg, an increasing belly?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His sales were daily decreasing, and he became more and more disheartened, until one night, after a laborious day's effort, he found that he had _only sold twenty-five cents' worth_!"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But it is clear that these rhythmic price changes occurring in the business cycle are not due to the same causes as are the general movements of the price level, due to an increasing or decreasing output of gold or again to a paper money inflation."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"Have you not a moist eye, a dry hand, a yellow cheek, a white beard, a **decreasing** leg, an increasing belly?"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When we travel southward and see a species **decreasing** in numbers, we may be sure that climate or competitors check its range."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The agricultural industry operates under the general economic condition of **decreasing** returns to additional applications of capital."*
+

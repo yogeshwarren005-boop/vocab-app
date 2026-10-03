@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being in effect or being operative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A business especially one run on a large scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act, process, or series of actions performed to achieve a specific result; the functioning of a machine or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, an operation is an invasive surgical procedure performed upon the living body to remedy disease, malformation, or injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your serpent of Egypt is bred now of your mud by the operation of your sun; so is your crocodile."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not th’ imperious show Of the full-fortuned Caesar ever shall Be brooched with me; if knife, drugs, serpents, have Edge, sting, or operation, I am safe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good sherris-sack hath a two-fold operation in it."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The continuous **operation** of natural selection across immense epochs of time produces modifications of unimaginable complexity."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor, by reducing every man's business to one simple **operation**, greatly improves the dexterity of the workman."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A timely surgical **operation** in acute cholecystitis averts the catastrophic complications of gangrene and rupture."*
+

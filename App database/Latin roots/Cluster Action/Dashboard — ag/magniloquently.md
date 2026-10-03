@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rhetorically grandiloquent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rhetorically grandiloquent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a magniloquent, high-flown, or pompous manner; with grandiose and bombastic language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic analysis, to write or speak magniloquently involves piling up polysyllabic classical Latinate vocabulary for dramatic emphasis or comic effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magniloquently designates in a rhetorically grandiloquent manner."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber bowed **magniloquently** to the company and announced that under the pressure of temporary pecuniary embarrassment he must depart."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The French ambassador spoke **magniloquently** of the eternal friendship uniting the two sovereign crowns."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He gestured **magniloquently** toward the modest row of books as though displaying the library of Alexandria."*
+

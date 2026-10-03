@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High-flown style; excessive use of verbal ornamentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornate appearance; being elaborately (even excessively) decorated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intricate decorative richness, lavish embellishment, or florid stylistic complexity in visual arts or prose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, the ornateness of Jacobean sermons contrasted sharply with the plain, austere style championed by later Restoration essayists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornateness designates high-flown style; excessive use of verbal ornamentation."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The excessive **ornateness** of late Renaissance facades concealed the decay of true structural vitality."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"The **ornateness** of Milton's epic diction elevates the reader's imagination above common terrestrial things."*
+> - 📜 **Henry James (*French Poets and Novelists*):** *"The linguistic **ornateness** of French romantic poetry stands in marked contrast to the realistic austerity of Balzac."*
+

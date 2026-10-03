@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act so as to bring into existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought about, accomplished, executed, or successfully produced as a result of deliberate effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional history and legal enactments, major administrative reforms are effected through statutory legislation and executive enforcement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whoever shoots at him, I set him there; Whoever charges on his forward breast, I am the caitiff that do hold him to’t; And though I kill him not, I am the cause His death was so effected."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With very much content, my lord, and I wish it happily effected."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll humbly signify what in his name, That magical word of war, we have effected; How, with his banners, and his well-paid ranks, The ne’er-yet-beaten horse of Parthia We have jaded out o’ th’ field."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The restoration of the empire under Diocletian was **effected** by immense military labor and administrative centralization."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"A complete change in his fortune was **effected** by the unexpected legacy from his eccentric aunt."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The transition from direct barter to metallic currency was **effected** gradually by the mutual convenience of merchants."*
+

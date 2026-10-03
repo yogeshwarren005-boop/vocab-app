@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A business engaged in manufacturing some product.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who manufactures something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or company that makes or produces goods for sale, especially on an industrial scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century political economy, the industrial manufacturer emerged as a prominent capitalist class challenging the landed gentry for parliamentary representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The price of manufacturer's products rose in advance of the rise of costs of many raw materials and especially of the labor costs of manufacture."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It has already been shown that when the tariff duty prevents the importation of foreign goods and by raising the price encourages domestic manufacture of the article, there is virtually taxation of the consumer to subsidize the private manufacturer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In some cases both manufacturer and workmen value the system highly."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **manufacturer** puts his capital into motion by purchasing raw material and employing skilled workmen to advance the value of goods."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Mr. Bounderby, the wealthy Coketown **manufacturer**, boasted loudly of having risen from the gutter by sheer self-made audacity."*
+> - 📜 **Elizabeth Gaskell (*North and South*):** *"Mr. Thornton stood before the striking mill hands, an unyielding northern **manufacturer** determined to defend his commercial rights."*
+

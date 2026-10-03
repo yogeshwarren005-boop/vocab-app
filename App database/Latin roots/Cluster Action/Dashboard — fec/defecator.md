@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who defecates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who defecates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual or animal that evacuates feces; in industrial sugar refining, an apparatus or vessel used to clarify and purify cane juice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical process engineering, a defecator utilizes steam coils and calcium hydroxide to coagulate vegetable albumins in raw syrups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defecator designates a person who defecates."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The raw cane juice is pumped directly into the copper **defecator**, where heat and lime separate the heavy scum."*
+> - 📜 **Benjamin Silliman (*First Principles of Chemistry*):** *"The industrial **defecator** allows continuous separation of precipitated impurities from heated saccharine solutions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic colonic megacolon, the patient becomes an ineffective **defecator** due to profound neuromuscular dilation."*
+

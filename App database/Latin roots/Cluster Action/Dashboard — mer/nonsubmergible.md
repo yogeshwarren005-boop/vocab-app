@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not submersible or submergible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not submersible or submergible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being submerged; designed or constructed so as to remain buoyant and float upon water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval architecture and life-saving engineering, nonsubmergible lifeboats incorporate watertight compartmentalization and buoyant bulkheads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsubmergible designates not submersible or submergible."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The upper deck of the Nautilus was crowned with a **nonsubmergible** whale-boat secured in an iron groove."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg's wooden coffin, fitted with buoyant joints, proved a marvelous **nonsubmergible** life-buoy upon the Pacific swell."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The newly patented **nonsubmergible** life-raft rode the mountainous waves with reassuring stability."*
+

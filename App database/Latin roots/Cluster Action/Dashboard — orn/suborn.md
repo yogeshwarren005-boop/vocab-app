@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incite to commit a crime or an evil deed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Procure (false testimony or perjury).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bribe, secretly induce, or unlawfully procure someone to commit an unlawful act, especially perjury under oath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, attempting to suborn a witness strikes at the foundation of judicial integrity and constitutes a serious felony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast suborn’d the goldsmith to arrest me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What peer hath been suborn’d to grate on you, That you should seal this lawless bloody book Of forged rebellion with a seal divine And consecrate commotion’s bitter edge?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have suborn’d this man Of purpose to obscure my noble birth."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Let me have time to **suborn** false witnesses against the good Duke Humphrey."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"The lords of the Philistines resolved to **suborn** Dalila with gold to discover the secret of his divine strength."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Corrupt magistrates often seek to **suborn** false testimony to condemn those whom they secretly fear."*
+

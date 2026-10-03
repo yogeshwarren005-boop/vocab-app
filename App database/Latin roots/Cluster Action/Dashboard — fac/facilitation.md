@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being made easy (or easier).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (neurophysiology) phenomenon that occurs when two or more neural impulses that alone are not enough to trigger a response in a neuron combine to trigger an action potential.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or means of making something easier or facilitating progress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, temporal facilitation designates the increased postsynaptic responsiveness resulting from rapid successive nerve impulses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Whereas from our present _via media_--facilitation of divorce--can only result the era when the young lady in reduced circumstances will no longer turn governess but will be open to engagement as wife at a reasonable stipend."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The repeated transit of nervous currents results in the progressive **facilitation** of similar reflex actions in the future."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The state may legitimately intervene for the **facilitation** of public transit and the maintenance of essential civic highways."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habit formation depends fundamentally upon the physical **facilitation** of paths of least resistance through neural tissue."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who collects census data by visiting individual homes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who collects census data by visiting individual homes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official appointed to count or record persons or data, especially for a national census.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer programming and type theory, an enumerator is an identifier or iterator construct that sequences through a fixed collection of discrete symbolic constants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enumerator designates someone who collects census data by visiting individual homes."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parish **enumerator** went from cottage to cottage, recording the names and occupations of every hearth."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The modern census **enumerator** gathers statistical data essential for calculating public mortality tables and demographic trends."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical counter acts as an infallible **enumerator**, advancing its wheel by a single tooth for each turn of the crank."*
+

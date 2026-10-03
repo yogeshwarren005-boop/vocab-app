@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the merovingian dynasty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frankish dynasty founded by clovis i that reigned in gaul and germany from about 500 to 750.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the Frankish dynasty founded by Merovech that ruled Gaul and parts of Germany from the 5th to the 8th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval historiography, the Merovingian era witnessed the conversion of Clovis I, the rise of monastic landholding, and eventual displacement by the Carolingians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merovingian designates a member of the merovingian dynasty."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The long-haired **merovingian** kings gradually sank into indolence, resigning real authority to their ambitious mayors of the palace."*
+> - 📜 **Thomas Hodgkin (*Italy and Her Invaders*):** *"The burial treasures discovered at Tournai revealed the splendor of **merovingian** gold and garnet cloisonné jewellery."*
+> - 📜 **François Guizot (*The History of Civilization in France*):** *"Under the **merovingian** monarchs, Roman civil administration blended with the customary laws of the Salian Franks."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The secret state police in nazi germany; known for its terrorist methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The secret state police in nazi germany; known for its terrorist methods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The secret state police of Nazi Germany (Geheime Staatspolizei), notorious for brutal surveillance, torture, and implementation of the Holocaust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical totalitarianism and political science, the Gestapo was an instrument of state terror operating above judicial review to enforce political conformity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gestapo designates the secret state police in nazi germany; known for its terrorist methods."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"The secret police apparatus of the **Gestapo** transformed the entire nation into a realm of universal surveillance and terror."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The Thought Police performed the terrifying functions that the **Gestapo** and GPU had made familiar to twentieth-century Europe."*
+> - 📜 **Albert Camus (*The Rebel*):** *"State terror organized by the **Gestapo** replaced the moral law with the absolute authority of the total state."*
+

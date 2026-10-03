@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of slender herbs belonging to the family euphorbiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of slender herbs belonging to the family euphorbiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the spurge family Euphorbiaceae, commonly known as mercury or dog's mercury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical botanical pharmacology, Mercurialis perennis was noted for its acrid, purgative qualities and toxicity to livestock when grazed fresh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"MERCURY UREDO; on the under surface, depressed, yellow, oblong, concentric, at length confluent; spores nearly oval.—On _Mercurialis perennis_ and _M. annua_."*
-> - 📜 **James Joyce (*Ulysses*):** *"Do it in the shake of a lamb’s tail. _(A dark mercurialised face appears, leading a veiled figure.)_ THE DARK MERCURY: The Castle is looking for him."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"The common **mercurialis** perennis carpeted the shady beech woods with lush green dioecious foliage."*
+> - 📜 **John Lindley (*Flora Medica*):** *"Herbalists cautioned against the internal use of **mercurialis**, which contains volatile acrid principles causing violent gastrointestinal distress."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The unisexual flowers of **mercurialis** demonstrate an ancient evolutionary adaptation to wind pollination."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of requiring extended effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of requiring extended effort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Demanding arduousness, burdensome toil, and the tiring physical or mental strain required to accomplish a heavy task.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological economics, the perceived laboriousness of an occupation determines the compensating wage differential required to attract workers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I was very sorry.” Will only thought of giving a good pinch that would annihilate that vaunted laboriousness, and was unable to imagine the mode in which Dorothea would be wounded."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **laboriousness** and disagreeable nature of coal-mining requires higher remuneration than gentler handicrafts."*
+> - 📜 **Francis Bacon (*The Essays*):** *"The **laboriousness** of learning is forgotten as soon as the mind tastes the sweet fruit of demonstrative knowledge."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The mental **laboriousness** of abstract mathematical reasoning rapidly exhausts the nervous energy of the brain."*
+

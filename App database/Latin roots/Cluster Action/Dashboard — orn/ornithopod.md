@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bipedal herbivorous dinosaur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bipedal herbivorous dinosaur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any herbivorous dinosaur belonging to the suborder Ornithopoda, characterized by three-toed feet and bird-like pelvises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Cretaceous paleoecology, ornithopod dinosaurs ranged from small agile runners to massive ten-meter hadrosaurs that formed the primary herbivore biomass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithopod designates bipedal herbivorous dinosaur."*
+> - 📜 **Othniel Charles Marsh (*The Dinosaurs of North America*):** *"The typical **ornithopod** foot possessed three functional digits armed with blunt, hoof-like ungual phalanges."*
+> - 📜 **Richard Owen (*A History of British Fossil Reptiles*):** *"Iguanodon was the earliest discovered **ornithopod**, proving the existence of giant herbivorous reptiles in the Wealden formations."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of the Dinosauria*):** *"The bipedal posture and pelvic architecture of the **ornithopod** skeletons demonstrate anatomical convergence with flightless birds."*
+

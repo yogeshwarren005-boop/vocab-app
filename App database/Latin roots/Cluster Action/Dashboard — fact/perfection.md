@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being without a flaw or defect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ideal instance; a perfect embodiment of a concept.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absolute excellence, completeness, or faultlessness without defect or blemish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and scholastic metaphysics, perfection signifies the absolute actuality and fullness of divine being, lacking all privation or potentiality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lost a wife Whose beauty did astonish the survey Of richest eyes; whose words all ears took captive; Whose dear perfection hearts that scorn’d to serve Humbly call’d mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I saw her once Hop forty paces through the public street And, having lost her breath, she spoke and panted, That she did make defect perfection, And, breathless, pour breath forth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He had no legs that practis’d not his gait; And speaking thick, which nature made his blemish, Became the accents of the valiant; For those who could speak low and tardily Would turn their own perfection to abuse, To seem like him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I consider everything that grows holds in **perfection** but a little moment, the conceits of youth pass away."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our idea of the supreme being is formed by taking our ideas of knowledge, power, and goodness, and enlarging them to boundless **perfection**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The exquisite **perfection** of her singing held the rustic listeners in spellbound silence."*
+

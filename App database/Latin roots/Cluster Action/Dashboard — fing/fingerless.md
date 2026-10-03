@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or having lost fingers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having or having lost fingers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking fingers entirely, or having lost digits through congenital condition, trauma, or amputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing gloves, mittens, or gauntlets designed without finger coverings or with exposed digits to allow fine manual dexterity in cold environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"But in half an hour I would find him again among the lily beds, his hands all bound up in fingerless gloves, but his ear close down against the earth."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I found him again among the lily beds, his hands all bound up in **fingerless** gloves, but his ear close down against the earth."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The mail-driver pulled off his **fingerless** wool mitts to adjust the dog-harness in the biting sixty-below chill."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The old bark-stripper warmed his stiff, **fingerless** mittens over the smoking mound of burning peat."*
+

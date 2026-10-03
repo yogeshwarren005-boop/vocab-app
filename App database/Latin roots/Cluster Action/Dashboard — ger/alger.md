@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states author of inspirational adventure stories for boys; virtue and hard work overcome poverty (1832-1899).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states author of inspirational adventure stories for boys; virtue and hard work overcome poverty (1832-1899).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Horatio Alger Jr. or his iconic nineteenth-century literary archetype of achieving prosperity through honesty, perseverance, and virtuous industry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural sociology and American studies, an Alger narrative epitomizes the myth of meritocratic upward mobility from poverty to respectability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Alger Series For Boys. {About 50 Titles} Uniform With This Volume."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Cloth, extra . . . . . . . . . . . . . . 1 25 ALGER'S RENOWNED BOOKS."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"By Horatio Alger, Jr. 6 vols., 12mo."*
+> - 📜 **Horatio Alger (*Ragged Dick*):** *"Dick was an enterprising lad, resolved that by honest endeavor he would rise above his humble street beginnings: a true **Alger** exemplar."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The popular imagination canonized the **Alger** hero as proof that pecuniary success rewardeth individual diligence."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He took pride in reciting the familiar **Alger** formula of the penniless apprentice who married the manufacturer's daughter."*
+

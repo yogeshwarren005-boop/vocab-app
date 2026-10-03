@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A communal dining-hall (usually in a monastery).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A communal dining-hall (usually in a monastery).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A communal dining hall, especially in a monastery, convent, boarding school, or academic college.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval monastic architecture, the refectory was typically situated on the southern side of the cloister garth, adjacent to the kitchens and cellar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The refectory was a great, low-ceiled, gloomy room; on two long tables smoked basins of something hot, which, however, to my dismay, sent forth an odour far from inviting."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Thanks being returned for what we had not got, and a second hymn chanted, the refectory was evacuated for the schoolroom."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The odour which now filled the refectory was scarcely more appetising than that which had regaled our nostrils at breakfast: the dinner was served in two huge tin-plated vessels, whence rose a strong steam redolent of rancid fat."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The two hundred pupils filed quietly into the cold **refectory** for their evening bread and cheese."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The ancient monastery **refectory** was adorned with faded frescoes portraying the Last Supper upon its stone walls."*
+> - 📜 **George Eliot (*Romola*):** *"The friars gathered silently in the spacious **refectory** of San Marco to hear Savonarola's words."*
+

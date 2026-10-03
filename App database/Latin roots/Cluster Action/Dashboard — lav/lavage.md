@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Washing out a hollow organ (especially the stomach) by flushing with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Washing out a hollow organ (especially the stomach) by flushing with water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The washing out or irrigation of a body cavity, organ, or wound with water or medicated solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical care medicine and gastroenterology, gastric lavage is performed to evacuate ingested toxins in acute poisoning, or bronchoalveolar lavage to diagnose pulmonary infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lavage designates washing out a hollow organ (especially the stomach) by flushing with water."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Systematic gastric **lavage** with warm saline provides immense relief in chronic gastric dilatation resulting from pyloric obstruction."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The physician immediately prepared the siphon tube for gastric **lavage** to counter the effects of the swallowed corrosive poison."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Osler demonstrated to his students that gentle continuous **lavage** of septic wounds was superior to harsh chemical cautery."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity that is added.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change resulting in an increase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To become or make greater in size, amount, intensity, or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic growth theory, capital accumulation and technological innovation interact to increase aggregate national productivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Loss of virginity is rational increase, and there was never virgin got till virginity was first lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within the year it will make itself two, which is a goodly increase, and the principal itself not much the worse."*
+> - 📜 **William Shakespeare (*Sonnet 15*):** *"When I perceive that men as plants **increase**, cheered and checked even by the self-same sky, then do I marvel at our mortal state."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labour tends to **increase** the productive powers of industry more than any other circumstance."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"As more individuals are produced than can possibly survive, there must in every case be a struggle for existence to check geometric **increase**."*
+

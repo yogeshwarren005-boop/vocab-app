@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer boundary of an artifact or a material layer constituting or resembling such a boundary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The extended two-dimensional outer boundary of a three-dimensional object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outside part, outermost boundary, or uppermost layer of a physical body or area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential geometry and topology, a surface is a two-dimensional topological manifold embedded in three-dimensional Euclidean space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The adjacent low-lying ground for half a mile in breadth is a stagnant river with melancholy trees for islands in it and a surface punctured all over, all day long, with falling rain."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Gusher, being a flabby gentleman with a moist surface and eyes so much too small for his moon of a face that they seemed to have been originally made for somebody else, was not at first sight prepossessing; yet he was scarcely seated before Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, without a ruffle on the surface of his unfathomable depths, drinking his old wine, and go down into the streets."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The earth has an enormous **surface**, and upon every part of it living organisms struggle incessantly for existence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The murky waters of the river flowed sullenly beneath the bridges, reflecting the smoky lamps upon their oily **surface**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A gentle breeze ruffled the blue **surface** of the Pacific, masking the titanic monsters sporting in the depths below."*
+

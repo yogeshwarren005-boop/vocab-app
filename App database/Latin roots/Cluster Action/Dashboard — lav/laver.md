@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Australian tennis player who in 1962 was the second man to win the australian and french and english and united states singles titles in the same year; in 1969 he repeated this feat (born in 1938).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (old testament) large basin used by a priest in an ancient jewish temple to perform ritual ablutions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large vessel or basin used for ritual washing, especially in biblical tabernacle and temple service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine phycology and gastronomy, laver refers to edible purple seaweed (Porphyra umbilicalis) boiled into a dark purplish paste (laverbread) in Wales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laver designates australian tennis player who in 1962 was the second man to win the australian and french and english and united states singles titles in the same year; in 1969 he repeated this feat (born in 1938)."*
+> - 📜 **King James Bible (*The Holy Bible*):** *"Thou shalt also make a **laver** of brass, and his foot also of brass, to wash withal: and thou shalt put it between the tabernacle of the congregation and the altar, and thou shalt put water therein."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Beside the altar stood the brazen **laver**, reflecting the clear light of the morning sacrifice."*
+> - 📜 **George Borrow (*Wild Wales*):** *"The Welsh market woman offered freshly gathered **laver** from the coastal rocks, praised as a wholesome breakfast delicacy."*
+

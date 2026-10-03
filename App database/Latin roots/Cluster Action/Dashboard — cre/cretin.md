@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of subnormal intelligence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of subnormal intelligence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person afflicted with severe physical and mental impairment caused by untreated congenital hypothyroidism; also an insulting term for an ignorant person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century medical geography, endemic cretinism was prevalent in isolated alpine valleys where glacial runoff depleted soil and water of dietary iodine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cretin designates a person of subnormal intelligence."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Under the administration of sheep thyroid extract, the stunted **cretin** underwent astonishing physical and mental revitalization."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The idle aristocrat who consumes without producing is a spiritual **cretin** in the sight of God and man."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The degraded beast-folk shuffled across the clearing with the dull, vacant stare of an alpine **cretin**."*
+

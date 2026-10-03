@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: And nothing more.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: And nothing more.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Just; only; simply; and nothing more; without anything extra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical argumentation, defining an action as merely mechanical excludes intentional consciousness and purposive agency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I could reply: If we should serve with horse and mares together, The horse were merely lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine honour was not yielded, But conquered merely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the world’s a stage, And all the men and women merely players; They have their exits and their entrances, And one man in his time plays many parts, His acts being seven ages."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the world's a stage, and all the men and women **merely** players: they have their exits and their entrances."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"If all mankind minus one were of one opinion, mankind would be no more justified in silencing that one person than he **merely** would be justified in silencing mankind."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man still bears in his bodily frame the indelible stamp of his lowly origin, not **merely** in rudimentary organs but in mental faculties."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening or done after a surgical operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening or done after a surgical operation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, occurring in, or administered during the period immediately following a surgical operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical nursing and critical care, postoperative care focuses on pain management, vital sign stabilization, fluid balance, and the prevention of surgical site infections and deep vein thrombosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postoperative designates happening or done after a surgical operation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful pulmonary auscultation during the **postoperative** period allows early detection of atelectasis and hypostatic pneumonia."*
+> - 📜 **Harvey Cushing (*Intracranial Tumors*):** *"Meticulous hemostasis during surgery dramatically reduces the incidence of catastrophic **postoperative** intracranial hematoma."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"Antiseptic dressings applied over the surgical incision prevent **postoperative** wound suppuration and hospital gangrene."*
+

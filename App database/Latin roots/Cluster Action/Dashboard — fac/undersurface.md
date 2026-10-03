@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower side of anything.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lower side of anything.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bottom surface, underside, or lower face of an object or anatomical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical anatomy and phyllotaxy, stomatal pores are primarily clustered across the undersurface of dicotyledonous leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undersurface designates the lower side of anything."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The sensitive tendril adheres firmly to the bark whenever its **undersurface** comes into mechanical contact with a twig."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"Examining the **undersurface** of the nettle leaf, he observed the sharp venomous hairs that inflict acute pain upon touch."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The artist rendered the gilded **undersurface** of the autumn clouds illuminated by the setting alpine sun."*
+

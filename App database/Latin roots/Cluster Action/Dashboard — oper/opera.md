@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commercial browser.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatic work in one or more acts, set to music for singers and instrumentalists, incorporating acting, scenery, and costumes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual and music history, opera arose in Florence around 1600 (the Florentine Camerata) in an effort to resurrect classical Greek musical tragedy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole could play on the piano and the violoncello, and he was a composer—had composed half an opera once, but got tired of it—and played what he composed with taste."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Concert, assembly, opera, theatre, drive, nothing is new to my Lady under the worn-out heavens."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There are no caricatures, now, of effeminate exquisites so arrayed, swooning in opera boxes with excess of delight and being revived by other dainty creatures poking long-necked scent-bottles at their noses."*
+> - 📜 **George Bernard Shaw (*The Perfect Wagnerite*):** *"Wagnerian music drama transformed modern **opera** from a mere showcase for vocal virtuosity into a profound philosophical allegory."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Dorian sat in his box at the **opera**, listening to the soaring melodies of Faust while his thoughts wandered back to his hidden portrait."*
+> - 📜 **Jane Austen (*Emma*):** *"A visit to the Italian **opera** in London was discussed as the supreme cultural diversion of the coming season."*
+

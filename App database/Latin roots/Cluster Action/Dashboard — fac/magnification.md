@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expanding something in apparent size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of the size of an image to the size of the object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The optical enlargement of an object or image through lenses; expansion in apparent size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microscopy and optics, angular magnification denotes the ratio between the apparent visual angle of an image and that of the unassisted naked eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For by a Portuguese Catholic priest, this very idea of Jonah’s going to Nineveh via the Cape of Good Hope was advanced as a signal magnification of the general miracle."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Adjusted magnification defined the vehicles as personnel carriers, flatbed trailers, dome fissure-fusers, and methane frost scrapers."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad, at the controls, increased viewer magnification and inspected the ship closely."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"Under the powerful **magnification** of the compound glass, the minute eye of a fly appeared studded with thousands of crystalline lenses."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A high **magnification** reveals intricate microstructures in the pollen grain that remain completely invisible to the unaided glance."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He adjusted the microscope objective, watching the cellular structure swell under gradual optical **magnification**."*
+

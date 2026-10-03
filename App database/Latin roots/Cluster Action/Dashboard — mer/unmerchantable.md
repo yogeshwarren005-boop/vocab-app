@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fit for sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fit for sale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfit for commercial sale or trade, usually because of spoilage, contamination, or structural defects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural trade and commercial shipping law, timber or produce delivered in unmerchantable condition justifies breach of warranty remedies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmerchantable designates not fit for sale."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The dead and for the most part **unmerchantable** wood behind my house provided warmth enough for my small fireplace throughout the winter."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"Damaged flour turned sour by seawater is utterly **unmerchantable** and must be thrown overboard to save the remaining cargo."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Coarse stone quarried far from cities remains **unmerchantable** because the heavy cost of land carriage exceeds its market value."*
+

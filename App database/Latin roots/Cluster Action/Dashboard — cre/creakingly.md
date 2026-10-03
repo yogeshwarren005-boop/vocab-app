@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a creaky manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a creaky manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With a persistent creaking, grating, or rasping sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, a weary figure rising creakingly suggests chronic joint stiffness or painful infirmity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creakingly designates in a creaky manner."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The rusty pump worked **creakingly** in the courtyard, yielding a sluggish stream of brownish water."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The old town clock mechanism groaned **creakingly** before striking the midnight chimes over the quiet roofs."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The steering quadrant moved **creakingly** under the steersman's heavy hands as the steamer rolled in the swell."*
+

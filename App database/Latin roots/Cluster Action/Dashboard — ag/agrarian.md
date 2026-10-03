@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to rural matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to rural matters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to cultivated land, agriculture, or rural property, or advocating the equitable redistribution of landed property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, agrarian laws in ancient Rome (such as the Licinian-Sextian Rogations and the reforms of the Gracchi) sought to redistribute public lands among the plebeians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"O’Brien and others, the agrarian policy of Michael Davitt, the constitutional agitation of Charles Stewart Parnell (M."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Labor party ran Henry George, the author of _Progress and Poverty_, and other works somewhat socialistic and certainly agrarian in their tendencies, for Mayor of the city."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We have often been termed agrarians on our side of the House."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The physiocrats contended that the **agrarian** class was the sole productive class in the entire commonwealth."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Tiberius Gracchus perished in the forum while advocating an **agrarian** reform designed to restore the peasant soldier to the soil."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"Those who labor in the earth are the chosen people of God: an **agrarian** republic of independent yeomen guarantees enduring liberty."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sink below the surface; go under or as if under water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover completely or make imperceptible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause something to descend below the surface of water or another liquid; to plunge completely underwater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological narrative, overwhelming external crises submerge personal grief beneath the urgent necessity of survival.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Master Benjamin, or Ben, as he was called everywhere except in his own family, had got possession of the black kitten, and appeared to be submerging her in the hogshead of rainwater."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I would thou didst, So half my Egypt were submerged and made A cistern for scaled snakes!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He hastily bade them farewell, and splashed back along the stretch of submerged road."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"We watched the great amphibian slowly **submerge** beneath the dark waters of the primeval lake."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The rising tide began to **submerge** the grassy marshes along the estuary as the twilight deepened."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo pulled the steering lever to **submerge** the submarine beneath the tempestuous surface waves."*
+

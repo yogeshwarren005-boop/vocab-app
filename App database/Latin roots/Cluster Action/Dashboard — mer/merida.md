@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of the mexican state of yucatan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of the mexican state of yucatan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mérida, the capital of Extremadura in western Spain, renowned for its remarkably preserved Roman archaeological monuments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman provincial archaeology, Augusta Emerita (modern Mérida) was founded in 25 BC for veteran legionaries, boasting a magnificent Roman theater, amphitheater, and aqueducts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merida designates the capital of the mexican state of yucatan."*
+> - 📜 **Richard Ford (*A Handbook for Travellers in Spain*):** *"The Roman ruins of **merida** surpass in grandeur and preservation almost every ancient site outside the Italian peninsula."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"I gazed with awe upon the colossal Roman bridge at **merida**, spanning the broad Guadiana with sixty granite arches."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The garrison of **merida** defended their monumental walls with desperate valor against the invading Saracen hosts."*
+

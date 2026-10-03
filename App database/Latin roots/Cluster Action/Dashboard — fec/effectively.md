@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an effective manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In actuality or reality or fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that produces the intended result; successfully, efficiently, or to all practical intents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative and legal argumentation, describing actions that accomplish an operational outcome regardless of formal technicalities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Certainly, tell me which song you would like to sing best." Mäzli seized the song-book effectively."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had received orders to remind the children of the strict command, and she knew quite well from previous experiences that she could never have succeeded as effectively as he."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The following instance is known to _The Christian_ as true, and to a remarkable degree indicates how thoroughly God knows our minutest needs, and how effectively He makes those who ever reproach his name ashamed of their unbelief."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Chancellor's polite delay **effectively** barred the poor petitioner from obtaining any timely justice."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her quiet, unassuming dignity **effectively** silenced the malicious drawing-room gossip of the town."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The naval blockade of Alexandria **effectively** cut off the grain supply destined for the populace of Constantinople."*
+

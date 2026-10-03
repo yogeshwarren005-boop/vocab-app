@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small pond of standing water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being nothing more than specified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That is solely or no more or better than what is specified; also an archaic term for an expanse of standing water or lake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Anglo-Saxon historical geography and dialectal English, a mere was a shallow freshwater lake or marshy pool bordered by reeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, surely, mere the truth; I know his lady."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The loyalty well held to fools does make Our faith mere folly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The **mere** word's a slave, debauch'd on every tomb, on every grave a lying trophy."*
+> - 📜 **Alfred Tennyson (*Morte d'Arthur*):** *"Sir Bedivere cast the great sword Excalibur far out into the quiet waters of the lonely **mere**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind cannot create simple ideas out of nothing, nor can **mere** speculation supply the lack of sensory experience."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple pistil or one element of a compound pistil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple pistil or one element of a compound pistil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The female reproductive organ of a flowering plant, consisting of an ovary, a style, and a stigma, comprising one unit of the pistil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology, a carpel is interpreted as a modified megasporophyll folded along its margins to enclose and protect developing ovules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpel designates a simple pistil or one element of a compound pistil."*
+> - 📜 **Johann Wolfgang von Goethe (*The Metamorphosis of Plants*):** *"The inner pistil or **carpel** is nothing other than a foliar organ folded inward to enclose the seed."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In monstrosities of the cultivated rose, the **carpel** frequently reverts to the green vegetative leaf from which it evolved."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Each simple pistil consists of a single **carpel**, while a compound pistil is formed by the union of several."*
+

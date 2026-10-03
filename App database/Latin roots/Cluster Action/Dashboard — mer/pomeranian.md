@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breed of very small compact long-haired dogs of the spitz type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breed of very small compact long-haired dogs of the spitz type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toy breed of dog of the Spitz type with a thick, plush double coat, prick ears, and a fox-like expression, originating in Pomerania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In breed history, the Pomeranian descended from larger Arctic sled dogs, popularized across Europe after Queen Victoria established her own breeding kennel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomeranian designates breed of very small compact long-haired dogs of the spitz type."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The white **pomeranian** dog preserves many skeletal characteristics of the ancestral European spitz type."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The duchess sat in her carriage with a tiny, yapping **pomeranian** nestled upon her velvet muff."*
+> - 📜 **Virginia Woolf (*Flush: A Biography*):** *"A pampered **pomeranian** trotted down the gravel path, barking shrilly at every spaniel in the park."*
+

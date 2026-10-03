@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make commercial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make commercial.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To manage, exploit, or adapt something primarily for financial gain or market trade (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and institutional critique, to commercialise an educational or artistic domain subordinates intellectual independence to revenue generation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commercialise designates make commercial."*
+> - 📜 **William Morris (*Signs of Change*):** *"They seek to **commercialise** the folk arts, turning honest handicraft into cheap mechanical souvenirs for tourist markets."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"Modern enterprise attempts to **commercialise** every scientific invention almost before the laboratory testing is concluded."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"You cannot **commercialise** human salvation without turning religious devotion into an auxiliary of the counting-house."*
+

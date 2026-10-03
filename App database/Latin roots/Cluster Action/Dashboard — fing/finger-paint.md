@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apply colors with one's fingers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply colors with one's fingers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To apply thick, water-soluble pigments directly onto paper using the fingers and palms rather than brushes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early childhood pedagogy and art therapy, finger-paint provides tactile sensory stimulation and encourages spontaneous kinesthetic expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finger-paint designates apply colors with one's fingers."*
+> - 📜 **Ruth Faison Shaw (*Finger Painting: A Method of Self-Expression*):** *"To **finger-paint** is to liberate the child's natural rhythm through direct, unmediated contact with color and surface."*
+> - 📜 **Margaret Naumburg (*Dynamically Oriented Art Therapy*):** *"Patients who refuse brushes will often willingly **finger-paint**, projecting latent feelings through rhythmic strokes."*
+> - 📜 **Viktor Lowenfeld (*Creative and Mental Growth*):** *"When young children **finger-paint**, the bodily joy of tactile exploration precedes any concern for pictorial representation."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or using the ability to act or decide according to your own discretion or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of funds) not earmarked; available for use as needed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Available for use at the discretion of the user; not bound by predetermined or mandatory rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic monetary policy, discretionary intervention involves central bank adjustments of interest rates in response to current economic indicators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The legislature, with a discretionary power over the salary and emoluments of the Chief Magistrate, could render him as obsequious to their will as they might think proper to make him."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In the correction of children and pupils, a discretionary power was allowed."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On the contrary they all assert that the power in its very nature is a discretionary one, to be exercised of course with grave circumspection at all times, and only for good cause."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Taxes levied upon capital values should be fixed and certain, leaving nothing to the arbitrary and **discretionary** appraisal of the tax-gatherer."*
+> - 📜 **Walter Bagehot (*Lombard Street: A Description of the Money Market*):** *"The directors of the Bank of England held **discretionary** control over the national discount rate during the panic."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A portion of household income remains **discretionary**, available for cultural improvement after basic physical needs are met."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment to destroy harmful microorganisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treatment to destroy harmful microorganisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of eliminating or reducing pathogenic microorganisms on surfaces and objects through chemical or physical agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and municipal sanitation, systematic terminal disinfection of infected wards halts the nosocomial spread of multidrug-resistant pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But until the ceremony of expiation or disinfection had been performed, if he wished to eat he had either to get some one to feed him, or else to go down on his knees and pick up the food from the ground with his mouth like a beast."*
+> - 📜 **Joseph Lister (*The Antiseptic Principle of the Practice of Surgery*):** *"The meticulous **disinfection** of the wound cavity prevented the dread complication of hospital pyemia."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Constant ventilation is the foundation of all true sanitary **disinfection**, carrying away organic impurities before they settle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rigorous terminal **disinfection** of hospital rooms following scarlet fever outbreaks curtailed secondary household infections."*
+

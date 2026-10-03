@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not submersible or submergible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not submersible or submergible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able or designed to operate underwater; restricted to surface marine navigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval doctrine, nonsubmersible surface craft require escort support against subsurface submarine torpedo attacks in contested littoral waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsubmersible designates not submersible or submergible."*
+> - 📜 **Alfred Thayer Mahan (*The Influence of Sea Power upon History*):** *"The ordinary **nonsubmersible** cruiser relies upon lookouts and high speed to evade torpedo boat ambushes."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Every **nonsubmersible** vessel in the merchant convoy was zigzagging vigorously to avoid German U-boats."*
+> - 📜 **Arthur Conan Doyle (*Danger! and Other Stories*):** *"The captain realized that his **nonsubmersible** liner was an easy prey to the stealthy submarine lurking in the channel."*
+

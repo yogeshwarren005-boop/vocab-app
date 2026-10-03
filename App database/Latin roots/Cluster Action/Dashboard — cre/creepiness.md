@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An uneasy sensation as of insects creeping on your skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uneasy sensation as of insects creeping on your skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of causing an unpleasant feeling of fear, unease, or dread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gothic horror theory and psychological suspense, creepiness arises from subtle cognitive ambiguity regarding whether an environment or person is threatening.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creepiness designates an uneasy sensation as of insects creeping on your skin."*
+> - 📜 **Bram Stoker (*Dracula*):** *"A growing sense of unnatural **creepiness** chilled Jonathan as the wolves howled beneath the castle battlements."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The bleak solitude of the Dartmoor mire exerted a strange **creepiness** upon our nerves as dusk fell."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"An uncontrollable feeling of sinister **creepiness** invaded my soul as I gazed upon the tarn reflecting the decaying mansion."*
+

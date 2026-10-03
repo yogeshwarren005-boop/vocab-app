@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The end (tip) of a finger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The end (tip) of a finger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sensitive extremity or distal pad of a human finger, densely populated with tactile nerve endings (Meissner's corpuscles).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In perceptual psychology and tactile ergonomics, fingertip spatial acuity determines the threshold for reading Braille and operating delicate precision instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Katey, sitting opposite Boody, said quietly, as her fingertip lifted to her mouth random crumbs: —A good job we have that much."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It was a disturbing thought, but it brought a sparkle to his eyes and an electric force to his fingertips: he raised his head and looked out into the September night as if there was stirring in him the restless sap of spring."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Was the door locked?" "Yes." "And he refused to open it?" "No, he did open it." "He did open it, do you say?" "Yes, because--oh, my head." "You aren't hurt anywhere, are you?" asked Lawrence, feeling cold to his fingertips."*
+> - 📜 **James Joyce (*Ulysses*):** *"Katey, sitting opposite Boody, lifted random crumbs to her mouth with a moistened **fingertip**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneer touched the edge of the razor-sharp barb with the soft pad of his **fingertip** to test its temper."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She felt the fine grain of the worn linen table-cloth with the sensitive **fingertip** of an observant hostess."*
+

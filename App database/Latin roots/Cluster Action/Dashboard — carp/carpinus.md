@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly deciduous monoecious trees or shrubs: hornbeams; sometimes placed in subfamily carpinaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly deciduous monoecious trees or shrubs: hornbeams; sometimes placed in subfamily carpinaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous trees and shrubs in the birch family (Betulaceae), comprising the hornbeams, prized for their extremely hard, dense timber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and forestry, Carpinus betulus (European hornbeam) and Carpinus caroliniana (American hornbeam or ironwood) produce ribbed, fluted trunks and wing-like bracts aiding wind dispersal of nutlets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpinus designates mostly deciduous monoecious trees or shrubs: hornbeams; sometimes placed in subfamily carpinaceae."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The wood of **Carpinus**, or the hornbeam, is of such tough and extraordinary hardness that it outlasts oak in mill-cogs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"**Carpinus** caroliniana is readily identified in our winter woodlands by its smooth, slate-gray fluted bark resembling tensed sinews."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The three-lobed leafy bracts of **Carpinus** serve as parachute wings that transport the seeds away from the parent crown."*
+

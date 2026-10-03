@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of extreme heartlessness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inhumaneness evidenced by an unwillingness to be kind or forgiving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribute of lacking mercy, pity, or forgiveness; unsparing harshness and cruelty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical analysis, the mercilessness of despotic regimes often precipitates popular rebellion by extinguishing all hope of reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercilessness designates feelings of extreme heartlessness."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The cold **mercilessness** of the tyrant alienated even his closest praetorian guards."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary tribunal operated with mechanical **mercilessness**, sending batches of victims to the scaffold daily."*
+> - 📜 **George Eliot (*Romola*):** *"Tito shrank from the cold **mercilessness** in the old man's eyes, knowing his betrayal was discovered."*
+

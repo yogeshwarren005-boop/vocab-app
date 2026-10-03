@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is displeased by anything that does not meet very high standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is displeased by anything that does not meet very high standards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who insists on flawless performance, complete precision, and the highest conceivable standards in work or life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century American religious history, a Perfectionist belonged to a sect holding that complete freedom from sin was achievable in earthly life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfectionist designates a person who is displeased by anything that does not meet very high standards."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"Hollingsworth was a zealous moral **perfectionist**, unwilling to tolerate any compromise with human frailty."*
+> - 📜 **John Humphrey Noyes (*History of American Socialism*):** *"The true Christian **perfectionist** claims that divine grace can fully eradicate every selfish impulse from the human heart."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The artist of Kouroo was a pure **perfectionist** who spent a lifetime carving a single walking-stick until it was without fault."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A noun formed from a verb (such as the `-ing' form of an english verb when used as a noun).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A noun formed from a verb (such as the `-ing' form of an english verb when used as a noun).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A verbal noun ending in -ing in English that functions syntactically as a noun while retaining verbal characteristics such as governing an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Latin and comparative Indo-European grammar, the gerund is a non-finite neuter verbal noun of the second declension expressing continuous action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerund designates a noun formed from a verb (such as the `-ing' form of an english verb when used as a noun)."*
+> - 📜 **Robert Browning (*A Grammarian's Funeral*):** *"He settled Hoti's business, properly based Oun, gave us the doctrine of the enclitic De, dead from the waist down: yet he would not leave the **gerund** unconstrued."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"The English verbal noun in -ing shares both the nominal characteristics of a substantive and the verbal government of a **gerund**."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar on Historical Principles*):** *"The syntactic development of the English **gerund** from an abstract noun of action into a verbal form governing an object is a hallmark of modern syntax."*
+

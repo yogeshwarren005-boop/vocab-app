@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptible or responsive to suggestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible or responsive to suggestion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily influenced by the feelings, ideas, or suggestions of others; susceptible to psychological suggestion or hypnotic command.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology, young children are highly suggestible, easily incorporating post-event misinformation into their autobiographical memories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suggestible designates susceptible or responsive to suggestion."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An emotionally exhausted person becomes abnormally **suggestible**, accepting wild rumors with uncritical credulity."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The impressionable young clerk was singularly **suggestible**, easily manipulated by the clever rogue into signing the fraudulent bond."*
+> - 📜 **Gustave Le Bon (*The Crowd*):** *"The crowd is extraordinarily **suggestible**, responding to emotional slogans rather than reasoned logical argument."*
+

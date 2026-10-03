@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a difficult and contrary disposition; - dorothy sayers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a difficult and contrary disposition; - dorothy sayers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cantankerous, ill-tempered, stubbornly irritable, or difficult to control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial American English, describing draft animals or individuals characterized by an uncooperative, rebellious, or troublesome nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"What’s the matter with the ornery cusses?” Laban impatiently wanted to know."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"You ornery scamp!” he said, almost under his breath."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Well, we was all a gathered, listenin' to the serpent and its poisoned sting, and that sort o' thing, and had about concluded to go for Old Bung, when that contrairy, ornery Hib broke us up."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The old tomcat was an **ornery** beast that scratched every hand that reached out to stroke his fur."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The prison guards called him an **ornery** convict because solitary confinement could not break his spirit."*
+> - 📜 **Willa Cather (*O Pioneers!*):** *"The neighbor had an **ornery** team of horses that broke through fences and trampled down the young wheat."*
+

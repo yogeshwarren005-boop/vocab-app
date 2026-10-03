@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from sepsis or infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from sepsis or infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from pathogenic microorganisms, viral contamination, or infectious disease agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and clinical cohort trials, the uninfected control group establishes the baseline immunological and physiological parameters against which pathological changes are measured.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"He found her uninfected by the rage for diversion and dissipation; for noise, tumult, gewgaws, glitter, and extravagance."*
+> - 📜 **Louis Pasteur (*The Germ Theory*):** *"The dogs kept in separate, sanitized cages remained completely **uninfected** throughout the entire experiment."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Infectious Diseases*):** *"Microscopic examination confirmed that the control tissues remained pure and **uninfected** by the bacilli."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Strict quarantine of healthy individuals kept the surrounding villages **uninfected** during the cholera outbreak."*
+

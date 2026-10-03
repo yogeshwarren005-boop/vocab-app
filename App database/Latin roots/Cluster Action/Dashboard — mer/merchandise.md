@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities offered for sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in the trade of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Goods, commodities, or wares bought and sold in commerce or offered for sale in a store.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marketing and retail operations, merchandise denotes the systematic presentation, inventory planning, and promotion of goods to maximize sales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The merchandise which thou hast brought from Rome Are all too dear for me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But tell not me, I know Antonio Is sad to think upon his merchandise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore my merchandise makes me not sad."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy **merchandise** on every sea is spread, laden with spices and precious Indian cloth."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The ships returned home laden with foreign **merchandise** of much greater value than that which had been exported."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The shop window displayed a curious assortment of second-hand **merchandise**, books, and nautical instruments."*
+

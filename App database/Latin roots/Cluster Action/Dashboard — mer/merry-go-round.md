@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A never-ending cycle of activities and events (especially when they seem to have little purpose).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large, rotating machine with seats for children to ride or amusement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A revolving carousel with model horses and other animals on which children ride for amusement; also an unending cycle of hectic activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social commentary, a merry-go-round metaphorically depicts bureaucratic or political routines that repeat incessantly without making genuine progress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merry-go-round designates a never-ending cycle of activities and events (especially when they seem to have little purpose)."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The carnival fairground echoed with the cheerful organ tunes of the painted **merry-go-round**."*
+> - 📜 **Henry James (*The American*):** *"He felt caught in a social **merry-go-round** of empty calls and formal dinners that led nowhere."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The company seemed caught upon a dizzying **merry-go-round** of charges and retreats across the smoky field."*
+

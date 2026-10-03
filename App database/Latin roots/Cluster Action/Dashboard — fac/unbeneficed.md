@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a benefice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a benefice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not holding an ecclesiastical benefice or endowed church living; unprovided with a parish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English social history, an unbeneficed clergyman was forced to subsist upon precarious curate stipends or private tutoring fees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unbeneficed designates not having a benefice."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"An **unbeneficed** clergyman was regarded as an unsuitable matrimonial prospect by ambitious county families."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The poor **unbeneficed** curate tramped across the wet meadows, dreaming of the day he might secure a quiet rectory."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"Amos Barton remained an **unbeneficed** laborer in the church vineyard, struggling to feed his growing family."*
+

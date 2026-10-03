@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an affected manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an affected manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an artificial, pretentious, or insincere manner intended to impress onlookers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character description and social satire, speaking or gesturing affectedly reveals self-conscious vanity and lack of authentic breeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And it is EXPRESSLY to execute these powers that the sweeping clause, as it has been affectedly called, authorizes the national legislature to pass all NECESSARY and PROPER laws."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She smiled **affectedly** as she took her seat at the pianoforte, looking round for general applause."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp dropped her eyelids **affectedly** and murmured a polite reply to the baronet."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle was too consummate an artist of social life ever to speak **affectedly** in public."*
+

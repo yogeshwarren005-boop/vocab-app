@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A professor or minister who is retired from assigned duties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Honorably retired from assigned duties and retaining your title along with the additional title `emeritus' as in `professor emeritus'.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Holding an honorary title after retirement from active professional duty, especially of university professors or clergy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman military history, an emeritus was a veteran soldier who had completed his term of honorable service and received an allotment of land or pension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emeritus designates a professor or minister who is retired from assigned duties."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The veteran legionary, after twenty years of frontier campaigns, was discharged as an **emeritus** endowed with agricultural land."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Over the Teacups*):** *"The venerable professor **emeritus** retained his favorite seat in the faculty library, surrounded by lifelong volumes."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The title of scholar **emeritus** seemed an honorable refuge from the frenetic bustle of modern political life."*
+

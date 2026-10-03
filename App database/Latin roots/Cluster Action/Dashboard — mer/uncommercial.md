@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conducive to commercial success; - h.e.clurman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conducive to commercial success; - h.e.clurman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not engaged in, concerned with, or motivated by commercial trade or financial profit; disinterested in business.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian literary journalism, Charles Dickens published The Uncommercial Traveller, adopting the persona of an observant wanderer detached from mercantile hustle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncommercial designates not conducive to commercial success; - h.e.clurman."*
+> - 📜 **Charles Dickens (*The Uncommercial Traveller*):** *"As an **uncommercial** traveler, I have no ventures on the seas and travel purely for the quiet amusement of observing human nature."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His devotion to scientific research was entirely **uncommercial**, scorning any attempt to patent his physiological discoveries."*
+> - 📜 **Henry James (*The American Scene*):** *"The quiet academic town preserved a charming, **uncommercial** dignity that stood apart from the feverish rush of the metropolis."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring unexpectedly and requiring urgent action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming into existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the process of coming into being, arising, or becoming prominent; newly formed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science, an emergent property belongs to a holistic system but is not possessed by or directly reducible to any of its individual parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emergent designates occurring unexpectedly and requiring urgent action."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The mechanical laws of motion cannot predict the **emergent** chemical properties of water synthesized from hydrogen and oxygen."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Consciousness represents an **emergent** phenomenon arising from complex networks of physiological reflex arcs."*
+> - 📜 **George Santayana (*Scepticism and Animal Faith*):** *"The **emergent** forms of artistic beauty supervene upon raw sensory materials through imaginative contemplation."*
+

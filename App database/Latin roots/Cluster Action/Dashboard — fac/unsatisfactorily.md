@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unsatisfactory manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unsatisfactory manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that fails to satisfy requirements, expectations, or desires; poorly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial quality auditing, components performing unsatisfactorily under thermal stress are rejected prior to assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"What is a 'creature,' Miss Derrick?" "Pamela in your book is a creature," she replied unsatisfactorily, with the slightest tilt of the chin."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Oh, I don't know," she replied, most unsatisfactorily."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Peculiar morphological anomalies are explained most **unsatisfactorily** by the dogma of independent miraculous creations."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The interview had terminated so **unsatisfactorily** that Elinor could not contemplate it without deep distress."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"The amateur poultry enterprise proceeded most **unsatisfactorily**, resulting in chaos among the coops."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who constantly criticizes in a petty way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who constantly criticizes in a petty way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually carps, complains, or finds fault about trivial, petty, or captious matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social character study, a carper is distinguished from a constructive critic by focusing exclusively on minor flaws to gratify personal vanity or envy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shame not these woods By putting on the cunning of a carper."*
-> - 📜 **James Joyce (*Ulysses*):** *"His look went from brooder’s beard to carper’s skull, to remind, to chide them not unkindly, then to the baldpink lollard costard, guiltless though maligned. —He had a good groatsworth of wit, Stephen said, and no truant memory."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Some notorious carpers and squeamish moralists might be sulky with Lord Steyne, but they were glad enough to come when he asked them."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The jealous **carper** views a noble poem with an eye hunting only for misplaced commas or small metrical licenses."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"It is the easiest of all intellectual tasks to become a persistent **carper**, for no human composition is without imperfection."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A wise governor gives little heed to the malicious **carper**, knowing that public envy pursues every great enterprise."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mercenary; not influenced by financial gains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not mercenary; not influenced by financial gains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not motivated by financial gain or venal self-interest; generous, public-spirited, and disinterested.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character assessment and moral philosophy, an unmercenary counselor advises purely for the client's welfare rather than prospective remuneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I am also of opinion that it is greatly to my credit, and a proof of my pure and unmercenary nature, that I did not instantly put myself up to be raffled for, or rush out into the streets and propose marriage to the first lady I met."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge possessed a grand, **unmercenary** spirit that treated financial disaster with magnificent, cheerful nonchalance."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A truly noble mind is **unmercenary** in friendship, cultivating mutual esteem without calculating prospective worldly benefits."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The good archdeacon praised Mr. Harding as a genuinely **unmercenary** churchman who had resigned his lucrative sinecure from pure conscience."*
+

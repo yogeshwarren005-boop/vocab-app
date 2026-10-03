@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having no practical use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having no practical use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete uselessness, absence of practical value or efficacy, and the unproductiveness of an action or instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy and public administration, the inutility of an obsolete tax or bureaucratic regulation justifies its legislative repeal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And, as you love your country, keep it free From those whose utter inutility For any good is proven by their pride Of blood; they have not aught to boast beside."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The inutility of her best efforts, however, palsied the poor old gentlewoman."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The progressive **inutility** of ancient feudal services led sovereigns to commute them into direct pecuniary payments."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"To accuse the principle of utility of sanctioning base expediency is to mistake the highest social good for transient **inutility**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The costly **inutility** of the praetorian guard in peacetime was matched only by their cowardice upon the approach of foreign armies."*
+

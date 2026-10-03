@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The best people or things in a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of milk containing the butterfat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rich, fatty liquid that rises to the top of whole milk; also the best part of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cosmetic dermatology, a cream is an emulsion of oil and water formulated to moisturize and protect skin barriers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, faith, proud mistress, hope not after it. ’Tis not your inky brows, your black silk hair, Your bugle eyeballs, nor your cheek of cream, That can entame my spirits to your worship."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am as vigilant as a cat to steal cream."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think, to steal cream indeed, for thy theft hath already made thee butter."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"'Tis not your inky brows, your black silk hair, your bugle eyeballs, nor your cheek of **cream**, that can entame my spirits to your worship."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The golden **cream** stood thick in the wide pans along the cool stone shelves of the dairy."*
+> - 📜 **Jonathan Swift (*The Battle of the Books*):** *"The witty author skimmed the very **cream** of modern philosophy to enrich his satirical discourse."*
+

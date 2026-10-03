@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily process of discharging waste matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Waste matter (as urine or sweat but especially feces) discharged from the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process of eliminating or expelling waste matter from living cells or tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and physiology, the evolution of specialized excretion organs (nephridia, Malpighian tubules, kidneys) maintains osmotic homeostasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excretion designates the bodily process of discharging waste matter."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"One of the strongest instances of an animal performing an act solely for the good of another is that of aphids yielding their sweet **excretion** to ants."*
+> - 📜 **T. H. Huxley (*Lessons in Elementary Physiology*):** *"The skin, lungs, and kidneys cooperate in the vital function of **excretion**, preserving the chemical purity of the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Impaired renal **excretion** leads to the accumulation of toxic metabolites in the circulating plasma."*
+

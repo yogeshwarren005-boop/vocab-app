@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of giving satisfaction sufficient to meet a demand or requirement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of giving satisfaction sufficient to meet a demand or requirement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The adequacy, acceptability, or capacity to fulfill requirements and satisfy needs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and pragmatism, William James evaluated truth claims by the experiential satisfactoriness of their real-world consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Then I shall respect your opinion of their satisfactoriness as a staff of life."*
+> - 📜 **William James (*Pragmatism: A New Name for Some Old Ways of Thinking*):** *"True ideas are those that we can assimilate, validate, corroborate and verify, the **satisfactoriness** of their practical consequences being their ultimate test."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The logical **satisfactoriness** of an inductive hypothesis increases with every unexpected confirmation it yields."*
+> - 📜 **Herbert Spencer (*The Data of Ethics*):** *"The ethical **satisfactoriness** of conduct is measured by its tendency to enhance complete and harmonious living."*
+

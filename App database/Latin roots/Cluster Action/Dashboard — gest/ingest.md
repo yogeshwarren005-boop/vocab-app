@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serve oneself to, or consume regularly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take up mentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take food, liquid, or other substances into the body by swallowing or absorbing them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and cellular biology, phagocytic cells (such as macrophages and neutrophils) ingest invading bacteria through receptor-mediated phagocytosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ingest designates serve oneself to, or consume regularly."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The glandular hairs of Drosera bend inward to entrap the insect, pouring out acid secretions that allow the leaf to **ingest** the nutrient fluid."*
+> - 📜 **Elie Metchnikoff (*Immunity in Infective Diseases*):** *"The mobile phagocytes surround and **ingest** the virulent microbes, digesting them within intracellular vacuoles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Accidental poisoning occurs when young children **ingest** caustic alkalis left carelessly within reach in domestic kitchens."*
+

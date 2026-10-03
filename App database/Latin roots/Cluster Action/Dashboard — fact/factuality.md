@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being actual or based on fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being actual or based on fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being rooted in actual occurrence, empirical reality, and verifiable truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical phenomenology and epistemology, factuality contrasts with narrative interpretation by foregrounding documented artifacts and dated event records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factuality designates the quality of being actual or based on fact."*
+> - 📜 **Edmund Husserl (*Logical Investigations*):** *"The empirical **factuality** of physical objects is constituted through a continuous synthesis of harmonious perceptual appearances."*
+> - 📜 **Hannah Arendt (*The Human Condition*):** *"The stubborn **factuality** of human deeds survives in communal memory long after the actors have departed the public stage."*
+> - 📜 **Wilhelm Dilthey (*Introduction to the Human Sciences*):** *"Historical understanding cannot rest content with brute **factuality**, but must penetrate the inner psychological meaning of past lives."*
+

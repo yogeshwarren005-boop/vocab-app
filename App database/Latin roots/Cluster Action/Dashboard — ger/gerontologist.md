@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in gerontology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in gerontology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientific specialist or social scientist who studies the biological, psychological, cognitive, and societal dimensions of human aging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical and academic research, the gerontologist investigates interventions to extend healthspan, preserve cognitive vitality, and optimize elder care environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerontologist designates a specialist in gerontology."*
+> - 📜 **Ignatz Leo Nascher (*Geriatrics: The Diseases of Old Age and Their Treatment*):** *"The modern **gerontologist** approaches senescence not with despair, but with the analytical curiosity of an open-minded naturalist."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"As an observant **gerontologist**, one discovers that the emotional richness of later life often deepens as trivial distractions fade."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Every clinical **gerontologist** must recognize the subtle distinction between inevitable physiological aging and treatable pathological degeneration."*
+

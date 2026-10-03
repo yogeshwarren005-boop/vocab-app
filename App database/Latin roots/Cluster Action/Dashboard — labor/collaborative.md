@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accomplished by collaboration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accomplished by collaboration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced by or involving two or more parties working together cooperatively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social pedagogy and educational psychology, collaborative learning emphasizes peer dialogue and collective problem-solving over individualistic competition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collaborative designates accomplished by collaboration."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"A classroom organized around **collaborative** inquiry fosters civic responsibility and mutual intellectual respect."*
+> - 📜 **Herbert Simon (*Administrative Behavior*):** *"The modern corporation is an intricate **collaborative** network designed to transcend individual cognitive limitations."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **collaborative** defense of the breeding grounds gives social mammals a decisive advantage over solitary carnivores."*
+

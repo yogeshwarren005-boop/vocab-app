@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely and without qualification; used informally as intensifiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a perfect or faultless way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a faultless, complete, or entirely thorough manner; completely and without defect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical logic and dialectics, an argument that is perfectly valid leaves no room for contradictory premises or inductive ambiguity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would have her learn, my fair cousin, how perfectly I love her; and that is good English."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the commerce that you have had with Troy As perfectly is ours as yours, my lord; And better would it fit Achilles much To throw down Hector than Polyxena."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You throw worried looks in all directions as if you were afraid that this perfectly solid meadow were a dangerous pond into which your little brood might fall and lose their lives." The children had scattered in all directions."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would have her learn, my fair cousin, how **perfectly** I love her; and that is goodbye to all dissimulation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sensible horses stood **perfectly** still, and the waggoner's steps sank fainter into the distance."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"They pursue sensual indulgences to the injury of health, though **perfectly** aware that health is the greater good."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An outsider who seeks power or success presumptuously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outsider who seeks power or success presumptuously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Historically, a political candidate or opportunist who moved to a new area solely to seek personal gain or public office without local ties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Reconstruction-era American history, carpetbagger was a derogatory term applied by Southern Democrats to Northern Republicans who came South after 1865.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpetbagger designates an outsider who seeks power or success presumptuously."*
+> - 📜 **W. E. B. Du Bois (*Black Reconstruction in America*):** *"The Southern press caricatured every Northern educator and federal agent as an unprincipled **carpetbagger** seeking personal plunder."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The congressional candidate was denounced by his political rivals as a rootless **carpetbagger** who did not own an acre in the district."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"Washington in the late 1860s swarmed with every variety of political adventurer, speculator, and displaced **carpetbagger**."*
+

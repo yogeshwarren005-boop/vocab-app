@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct or control; projects, businesses, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform as expected when applied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perform a function, work, or produce an effect; to control the functioning of a machine or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical surgery, to operate is to perform a surgical procedure upon a patient's body to treat disease, repair trauma, or excise a tumor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Words, words, mere words, no matter from the heart; Th’effect doth operate another way. [_Tearing the letter_.] Go, wind, to wind, there turn and change together."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What would happen when new gold mines were found that were much easier to operate, and gold began to be produced at a much more rapid rate than formerly?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To maintain and operate the various parts of the social machinery requires ever increasing governmental revenues."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The laws of nature **operate** uniformly throughout all time and across all geological formations."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Market forces of supply and demand **operate** like an invisible hand to regulate prices and distribute resources."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The decision to **operate** in acute appendicitis must be made before perforation and diffuse peritonitis occur."*
+

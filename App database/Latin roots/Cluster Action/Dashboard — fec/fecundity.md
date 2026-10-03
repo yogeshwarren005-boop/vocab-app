@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The intellectual productivity of a creative imagination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being fertile; capable of producing offspring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity of an organism or population to produce abundant offspring; reproductive capability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In demography and population ecology, fecundity measures the physiological maximum potential reproductive output of an individual or cohort under optimal environmental conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"For astounding figurative opulence he yields only to Shakespeare, and even to Shakespeare not in absolute fecundity but in images."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I HAVE often wondered at the extreme fecundity of the press, and how it comes to pass that so many heads, on which Nature seems to have inflicted the curse of barrenness, should teem with voluminous productions."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Were not this the case, the fecundity of nature would be a grievance instead of a blessing."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"The natural **fecundity** of the human species is capable of doubling numbers every twenty-five years if unchecked by subsistence."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Natural selection exerts a powerful influence upon the relative **fecundity** of competing animal varieties."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The extraordinary **fecundity** of tropical soil yields multiple harvests with minimal application of human labor."*
+

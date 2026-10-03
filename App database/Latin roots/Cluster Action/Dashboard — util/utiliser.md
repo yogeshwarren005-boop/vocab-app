@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who puts to good use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who puts to good use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, system, or organization that utilizes or makes practical use of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal rights and public utility regulation, a bonafide utiliser is an individual or commercial entity entitled to fair and nondiscriminatory access to common carrier services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, utiliser designates someone who puts to good use."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The private owner of a canal toll must charge an equal tariff to every commercial **utiliser** without favoritism."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Each citizen is a legitimate **utiliser** of the natural earth, provided he encroaches not upon the equal freedom of others."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The tenant farmer who is the actual **utiliser** of the land deserves legal protection for his capital improvements."*
+

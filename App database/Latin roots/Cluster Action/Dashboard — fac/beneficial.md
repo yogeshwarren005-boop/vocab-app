@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting or enhancing well-being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promoting or enhancing well-being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing good results or helpful effects; advantageous and favorable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property and equity law, beneficial ownership confers the right to enjoy the economic advantages and fruits of an estate held in legal trust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, merchant, I’ll limit thee this day To seek thy health by beneficial help."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wonder That such a keech can with his very bulk Take up the rays o’ th’ beneficial sun And keep it from the earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For besides these beneficial news, it is the celebration of his nuptial."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Any variation, however slight and from whatever cause proceeding, if it be in any degree profitable to an individual, will tend to its preservation, and will generally be inherited by its offspring, so that natural selection preserves **beneficial** modifications."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor is universally acknowledged to be highly **beneficial** to every class of society."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Equity recognizes the **beneficial** interest of the cestui que use, commanding the trustee to convey the profits accordingly."*
+

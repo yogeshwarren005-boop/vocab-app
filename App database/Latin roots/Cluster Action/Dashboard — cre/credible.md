@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being believed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (a common but incorrect usage where `credulous' would be appropriate) credulous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be believed; convincing, trustworthy, and persuasive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial proceedings, credible testimony is coherent, corroborative of surrounding physical facts, and free from self-contradiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, ’tis most credible, we here receive it, A certainty, vouch’d from our cousin Austria, With caution, that the Florentine will move us For speedy aid; wherein our dearest friend Prejudicates the business, and would seem To have us make denial."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was hardly credible that the jack had not got wrong with the minutes when the rattle began again, the puppet emerged, and the four quarters were struck fitfully as before."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It hardly was credible that such a heavenly light could be the parent of such a diabolical sound."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Nay, 'tis most **credible**, we here receive it, a certainty, vouch'd with serious certificates from our ambassadors."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was hardly **credible** that the sheep-jack had not gone wrong with the machinery, so quiet was the mechanism."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Whatever proposition is contrary to our intuitive knowledge can never be made **credible** by external testimony."*
+

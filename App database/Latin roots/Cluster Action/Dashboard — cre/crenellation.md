@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rampart built around the top of a castle with regular gaps for firing arrows or guns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of constructing ramparts with gaps for firing guns or arrows.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The parapet of a wall consisting of alternating embrasures and solid masonry merlons; an alternative spelling of crenelation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural style analysis, crenellation in domestic Tudor palaces transitioned from functional military defense to an emblem of noble prestige.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crenellation designates a rampart built around the top of a castle with regular gaps for firing arrows or guns."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The ancient tower showed a broken **crenellation** against the blue Italian sky, where moss and wild wallflowers flourished."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The delicate Moorish **crenellation** along the battlements overlooked the verdant valley of the Darro."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The severe **crenellation** of the Norman keep reflected the unadorned structural honesty of early feudal defense."*
+

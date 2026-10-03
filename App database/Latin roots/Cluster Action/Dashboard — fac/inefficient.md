@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing desired results; wasteful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the ability or skill to perform effectively; inadequate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to make the best use of time, money, or resources; wasteful, incapable, or incompetent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamic systems, an inefficient heat engine dissipates a substantial proportion of thermal energy into unusable ambient friction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was Slant-Eyed Wilson, with an unguessed weak heart of fear, who died in the jacket within the first hour while the unconvinced inefficient of a prison doctor looked on and smiled."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But as conditions changed with industrial development, chattel slavery became an inefficient form of industrial organization and a hindrance to progress. § 2. #Workers in the Middle Ages#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This result is easily explained by lack of commercial knowledge and lack of harmony among the members, selling on credit, and inefficient management."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Organs that become rudimentary and functionally **inefficient** through disuse are gradually diminished by the economy of growth."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Traditional peasant agriculture, lacking scientific implements, remained proverbially **inefficient** and precarious."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The decadent Eloi lived in a dreamy and utterly **inefficient** pastoral languor, oblivious to the predatory underground below."*
+

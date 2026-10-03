@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fictional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fictional.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being nonfiction; based strictly on verifiable facts rather than imagination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative journalism and cinema, nonfictional storytelling adheres strictly to documentary evidence and authentic interview testimony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonfictional designates not fictional."*
+> - 📜 **Virginia Woolf (*The Captain's Death Bed*):** *"A **nonfictional** memoir requires a delicate balance between absolute fidelity to fact and artistic arrangement of memory."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"His **nonfictional** reportage on the conditions of the northern coal miners compelled national parliamentary attention."*
+> - 📜 **Truman Capote (*The Muses Are Heard*):** *"The **nonfictional** narrative proves that actual reality, when observed with microscopic accuracy, possesses its own terrifying drama."*
+

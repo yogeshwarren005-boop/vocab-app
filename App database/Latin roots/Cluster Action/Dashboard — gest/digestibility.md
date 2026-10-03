@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being easy to digest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being easy to digest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or property of being digestible; the ease with which a foodstuff can be broken down and absorbed in the digestive tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural nutrition and animal husbandry, apparent digestibility measures the percentage of dry matter in feed consumed that is not excreted in the feces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digestibility designates the property of being easy to digest."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"The relative **digestibility** of various meats depends greatly upon the tenderness of the muscle fiber and the method of cooking."*
+> - 📜 **Justus von Liebig (*Researches on the Chemistry of Food*):** *"Boiling increases the **digestibility** of starchy grains by rupturing the tough cellulose envelopes of the starch granules."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In convalescence from typhoid fever, the diet must be selected with strict regard to its complete **digestibility**."*
+

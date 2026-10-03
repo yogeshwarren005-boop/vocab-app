@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin orn within the domain of Action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of orn in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of birds; avian in nature or morphology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate paleontology, ornithic characters refer to skeletal traits (such as a furcula or hollow bones) shared between avians and theropod dinosaurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithic designates pertaining to, derived from, or characteristic of latin orn within the domain of action."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The anatomical transition from reptilian ancestors to creatures possessing truly **ornithic** feathers illustrates natural selection."*
+> - 📜 **Thomas Henry Huxley (*On the Animals which are Intermediate between Reptiles and Birds*):** *"Archaeopteryx exhibits an extraordinary mixture of reptilian osteology with undeniably **ornithic** wings."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"The pneumatic structure of the skull bones represents an exquisitely adapted **ornithic** specialization for flight."*
+

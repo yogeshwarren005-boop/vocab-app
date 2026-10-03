@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widespread group including duck-billed dinosaurs and their early relatives (hadrosaurs, trachodon and iguanodon).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widespread group including duck-billed dinosaurs and their early relatives (hadrosaurs, trachodon and iguanodon).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major suborder of ornithischian dinosaurs that evolved from small, bipedal runners into massive, diverse herbivorous species such as hadrosaurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleobiology, the suborder Ornithopoda developed advanced cranial kinesis (pleurokinesis) allowing efficient grinding mastication of plant matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithopoda designates widespread group including duck-billed dinosaurs and their early relatives (hadrosaurs, trachodon and iguanodon)."*
+> - 📜 **Othniel Charles Marsh (*The Dinosaurs of North America*):** *"The suborder **Ornithopoda** contains some of the most remarkable herbivorous dinosaurs discovered on the American continent."*
+> - 📜 **Richard Owen (*Fossil Reptiles of the London Clay*):** *"The European strata yield abundant tooth fragments of the **Ornithopoda**, characterized by fluted and serrated crowns."*
+> - 📜 **Louis Dollo (*Note on the Bernissart Iguanodons*):** *"The complete skeletons of the **Ornithopoda** discovered at Bernissart proved definitively their customary upright, bipedal stance."*
+

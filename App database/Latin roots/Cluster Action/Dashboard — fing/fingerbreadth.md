@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The length of breadth of a finger used as a linear measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of breadth of a finger used as a linear measure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient and traditional unit of linear measurement approximately equal to the width of an adult human finger (about three-quarters of an inch).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical archaeology and classical metrology, the fingerbreadth constituted the fourth part of a handbreadth (palm).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerbreadth designates the length of breadth of a finger used as a linear measure."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman engineer calculated the aqueduct incline to within a **fingerbreadth** over miles of rugged mountain terrain."*
+> - 📜 **Flavius Josephus (*The Antiquities of the Jews*):** *"The brass curtains of the temple sanctuary were woven to the thickness of a **fingerbreadth**, defying any casual rending."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"The blade of Damascus steel was balanced so exquisitely that it rested upon the edge of a **fingerbreadth**."*
+

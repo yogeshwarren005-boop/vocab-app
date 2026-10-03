@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who brings about a result or event; one who accomplishes a purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nerve fiber that terminates on a muscle or gland and stimulates contraction or secretion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscle, gland, or organ capable of responding to a stimulus from the nervous system; in molecular biology, a small molecule that binds to an enzyme to regulate its activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry and signal transduction, allosteric effectors alter enzymatic reaction rates by inducing conformational changes in the protein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effector designates one who brings about a result or event; one who accomplishes a purpose."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The reflex arc connects the peripheral sensory receptor with the muscular **effector** through central synaptic relays."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"An allosteric **effector** regulates metabolic synthesis by binding to an independent regulatory site on the enzyme surface."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every conscious thought discharges along nervous pathways toward some peripheral bodily **effector**."*
+

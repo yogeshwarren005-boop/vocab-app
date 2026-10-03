@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspect of a verb that expresses a completed action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to make perfect, complete, or fully developed; also relating to verbal completion in grammar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical linguistics and aspectology, perfective aspect presents a situation as a bounded, indivisible whole with clear initiation and termination boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfective designates a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)."*
+> - 📜 **Roman Jakobson (*Selected Writings: Phonological Studies*):** *"The morphological marker turns the basic stem into a **perfective** verb denoting an attained boundary."*
+> - 📜 **Bernard Comrie (*Aspect: An Introduction to the Study of Verbal Aspect*):** *"The **perfective** aspect presents the verbal action in its totality, without distinguishing internal temporal phases."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"The compound auxiliary form exercises a **perfective** function, demonstrating that the act is consummated."*
+

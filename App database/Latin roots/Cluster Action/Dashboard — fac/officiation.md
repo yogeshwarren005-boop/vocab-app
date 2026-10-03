@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of umpiring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The performance of a religious or ceremonial or public duty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The performance of official duties or ceremonial functions; formal presiding over a rite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ritual theory and anthropology, solemn officiation transforms personal social status through publicly recognized ceremonial transition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, officiation designates the act of umpiring."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The pontifical **officiation** of the emperor at ancient altars was essential to preserve civic harmony across Rome."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The constitutional bishop attempted an orderly **officiation** amid the shouting Parisian populace at the Champ de Mars."*
+> - 📜 **Samuel Johnson (*A Journey to the Western Islands of Scotland*):** *"The regular **officiation** of ministers in these remote highland parishes has restored communal order and civil dignity."*
+

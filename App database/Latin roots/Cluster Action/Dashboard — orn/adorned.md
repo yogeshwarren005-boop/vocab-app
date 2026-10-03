@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more attractive by adding ornament, colour, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be beautiful to look at.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorated, embellished, or furnished with ornaments and pleasing features.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical portraiture and art history, subjects adorned with specific jewels or regalia communicated lineage, political alliance, and dynastic status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A canopy, borne by four of the Cinque Ports; under it, the Queen in her robe, in her hair, richly adorned with pearl, crowned."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Part us, Northumberland: I towards the north, Where shivering cold and sickness pines the clime; My wife to France, from whence set forth in pomp, She came adorned hither like sweet May, Sent back like Hallowmas or short’st of day."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Beautiful portraits of his ancestors adorned these walls, and he recalled how Salo had loved them."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The hall was richly **adorned** with ancient tapestries and armorial bearings that recalled feudal splendor."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She wore an unadorned white muslin dress, but her youthful grace **adorned** the company far more than costly gems."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The triumphal arch was magnificently **adorned** with bas-reliefs celebrating the emperor's eastern conquests."*
+

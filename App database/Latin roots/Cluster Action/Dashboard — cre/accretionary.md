@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked or produced by accretion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked or produced by accretion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, formed by, or characterized by gradual accumulation or layered addition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology and plate tectonics, an accretionary wedge is a mass of marine sediments scraped off a subducting oceanic plate onto an overriding continental margin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accretionary designates marked or produced by accretion."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **accretionary** growth of the limestone cavern proceeded through thousands of years of dripping mineral waters."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"The sedimentary strata forming the mountain border exhibit an **accretionary** arrangement along the ancient coastline."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Deep-sea trenches accumulate massive **accretionary** prisms of turbidite silt and scraped pelagic ooze."*
+

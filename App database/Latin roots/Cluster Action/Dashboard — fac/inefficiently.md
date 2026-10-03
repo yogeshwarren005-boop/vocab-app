@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inefficient manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inefficient manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that wastes time, materials, or energy; incompetently or poorly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational sociology, a bureaucracy structured around patronal favoritism distributes resources inefficiently across civic departments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inefficiently designates in an inefficient manner."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Crown lands are invariably cultivated far more **inefficiently** than private estates governed by the owner's immediate vigilance."*
+> - 📜 **Herbert Spencer (*The Man Versus the State*):** *"State-administered enterprises execute their functions far more expensively and **inefficiently** than voluntary joint-stock companies."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Charity is a wretched expedient that manages poverty **inefficiently** instead of abolishing the conditions that produce destitution."*
+

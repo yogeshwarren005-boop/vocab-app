@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of creativity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of creativity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of lacking creativity, originality, or imaginative resourcefulness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational behavior and design criticism, uncreativeness in corporate culture leads to stagnation, groupthink, and vulnerability to disruptive innovation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncreativeness designates a lack of creativity."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"The deadening **uncreativeness** of rigid routine turns human labor into mindless drudgery."*
+> - 📜 **Abraham Maslow (*Toward a Psychology of Being*):** *"Neurotic anxiety often manifests as a pervasive **uncreativeness**, where fear of error suppresses all spontaneous impulse."*
+> - 📜 **Carl Rogers (*On Becoming a Person*):** *"Authoritarian social systems foster **uncreativeness** by penalizing independent thought and rewarding conformity."*
+

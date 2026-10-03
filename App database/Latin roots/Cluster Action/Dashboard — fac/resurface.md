@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reappear on the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover with a new surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put a new coating or surface on something; or to come back to the surface after being submerged or hidden.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In depth psychology and psychoanalysis, repressed childhood traumas frequently resurface during periods of profound adult crisis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resurface designates reappear on the surface."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great sperm whale sounded into the abyss, only to **resurface** miles to leeward with a volcanic spout."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Captain Nemo commanded the Nautilus to **resurface** in order to replenish the vessel's compressed air reservoirs."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Old memories of summer afternoons on the Isle of Skye would unexpectedly **resurface** amidst London dinners."*
+

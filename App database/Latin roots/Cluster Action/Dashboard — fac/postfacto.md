@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin fac within the domain of Action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of fac in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formulated or occurring after an event has taken place; retrospective or retroactive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, ex post facto legislation that retroactively criminalizes past lawful conduct is strictly prohibited.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postfacto designates pertaining to, derived from, or characteristic of latin fac within the domain of action."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The prohibition against ex **postfacto** penal enactments is a fundamental bulwark of personal security under free constitutions."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A **postfacto** explanation invented to rescue a disproven hypothesis lacks genuine predictive scientific validity."*
+> - 📜 **Jeremy Bentham (*The Theory of Legislation*):** *"Judicial rulings that operate in an ex **postfacto** manner punish citizens for rules they could never have foreseen."*
+

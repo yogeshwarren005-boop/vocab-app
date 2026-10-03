@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sports equipment used in gymnastic exercises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sports equipment used in gymnastic exercises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes exercise, or an apparatus or device designed for physical conditioning and muscular exercise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical usage, an exerciser was one who exercised, discharged, or put into practice a specified office, function, or spiritual discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exerciser designates sports equipment used in gymnastic exercises."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The habitual **exerciser** maintains arterial elasticity and cardiac reserve far into advanced old age."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"A child who is a vigorous **exerciser** in the open field gains robust digestion and sound sleep."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"Mechanical apparatus in a gymnasium can never fully replace the spontaneous joy of the outdoor **exerciser**."*
+

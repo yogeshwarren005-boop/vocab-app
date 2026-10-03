@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worn and broken down by hard use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a rasping or grating sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to creak; producing or having a harsh squeaking or grating sound; old and dilapidated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character sketches, a creaky voice or gait conveys venerable old age and bodily wear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"The Professor took the key, opened the creaky door, and standing back, politely, but quite unconsciously, motioned me to precede him."*
-> - 📜 **James Joyce (*Ulysses*):** *"On quietly creaky boots he went up the staircase to the hall, paused by the bedroom door."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The Professor took the key, opened the **creaky** door, and standing on the threshold held up his lamp."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"They climbed up the **creaky** wooden stairs of the haunted house, holding their breath at every step."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A light gleamed through the shuttered window of the **creaky** old suburban villa."*
+

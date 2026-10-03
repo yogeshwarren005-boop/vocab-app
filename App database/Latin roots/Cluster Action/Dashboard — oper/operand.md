@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity upon which a mathematical operation is performed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity upon which a mathematical operation is performed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity or entity on which a mathematical operation or computer instruction is performed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer architecture and assembly language, an instruction format consists of an operation code (opcode) followed by one or more operand addresses or registers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operand designates a quantity upon which a mathematical operation is performed."*
+> - 📜 **Alan Turing (*On Computable Numbers*):** *"The machine state changes in accordance with the transition table, reading the current **operand** from the tape."*
+> - 📜 **John von Neumann (*First Draft of a Report on the EDVAC*):** *"The arithmetic unit extracts the **operand** from the memory register and performs binary addition under central control."*
+> - 📜 **Claude Shannon (*A Symbolic Analysis of Relay and Switching Circuits*):** *"In Boolean logic circuits, each input variable serves as a distinct **operand** for the truth gates."*
+

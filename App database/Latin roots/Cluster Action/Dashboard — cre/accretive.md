@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing by accretion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing by accretion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or characterized by gradual growth, accumulation, or addition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and mergers, an accretive acquisition increases the post-transaction earnings per share (EPS) of the acquiring company.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accretive designates growing by accretion."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Organic development proceeds through an **accretive** integration of nutrient matter assimilated from the environment."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"Capital growth in manufacturing represents an **accretive** reinvestment of undivided surplus earnings over decades."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"The financial trust pursued an **accretive** consolidation of competing industrial facilities to control total output."*
+

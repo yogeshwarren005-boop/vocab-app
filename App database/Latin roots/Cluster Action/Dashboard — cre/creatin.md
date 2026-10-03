@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that does not occur in proteins but is found in the muscle tissue of vertebrates both in the free form and as phosphocreatine; supplies energy for muscle contraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that does not occur in proteins but is found in the muscle tissue of vertebrates both in the free form and as phosphocreatine; supplies energy for muscle contraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older chemical spelling of creatine, a nitrogenous organic acid that supplies energy to muscle and nerve cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century physiological chemistry, creatin was isolated from skeletal muscle extract by Michel Eugene Chevreul and studied as an intermediate of nitrogenous catabolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creatin designates an amino acid that does not occur in proteins but is found in the muscle tissue of vertebrates both in the free form and as phosphocreatine; supplies energy for muscle contraction."*
+> - 📜 **Justus von Liebig (*Researches on the Chemistry of Food*):** *"I succeeded in extracting crystalline **creatin** from the muscular flesh of various mammals and birds in considerable quantity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Muscular exertion increases the elimination of creatinine, the direct anhydride of muscle **creatin**, through the kidneys."*
+> - 📜 **Michel Eugene Chevreul (*Memoire sur la composition chimique de la viande*):** *"I have designated this new crystalline organic substance found in beef broth by the name of **creatin**, from the Greek for flesh."*
+

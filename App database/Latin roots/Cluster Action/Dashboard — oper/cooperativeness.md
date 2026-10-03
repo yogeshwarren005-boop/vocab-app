@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being cooperative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being cooperative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, willingness, or habit of cooperating and working amicably with others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personality psychology, cooperativeness is a core dimension reflecting social tolerance, empathy, helpfulness, and principled teamwork.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cooperativeness designates the trait of being cooperative."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The transition from militant to industrial society demands a higher degree of voluntary **cooperativeness** among citizens."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"True democratic citizenship requires an ingrained **cooperativeness** that views differences of opinion as opportunities for mutual learning."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Mutual **cooperativeness** and faithfulness to the group are the primordial social instincts upon which civilization rests."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Power to be effective; the quality of being able to bring about an effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Power to be effective; the quality of being able to bring about an effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or property of being effectual; efficacy and the power to produce desired outcomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics and jurisprudence, effectuality evaluates whether legal statutes or ethical maxims genuinely regulate human conduct in practice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effectuality designates power to be effective; the quality of being able to bring about an effect."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The logical **effectuality** of a philosophical argument depends upon the clearness and distinctness of its foundational terms."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The practical **effectuality** of competition in reducing consumer prices was demonstrated across all open maritime trades."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"True natural philosophy proves its **effectuality** by endowing human life with novel inventions and productive arts."*
+

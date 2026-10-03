@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A desk used for writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A desk used for writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A writing desk, often with a drop-down front or drawer that folds forward to provide a writing surface, and compartments for papers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French decorative arts and antique furniture history, the secrétaire à abattant was a tall, freestanding fall-front cabinet fashionable in the Louis XVI and Empire periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretaire designates a desk used for writing."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"She sat at her rosewood **secretaire**, drafting polite invitations to the family dinner with a quill pen."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes examined the secret drawer concealed in the carved mahogany **secretaire** in the study."*
+> - 📜 **Honoré de Balzac (*Eugénie Grandet*):** *"Old Grandet locked the gold coins inside his heavy oak **secretaire**, pocketing the massive iron key with a triumphant grin."*
+

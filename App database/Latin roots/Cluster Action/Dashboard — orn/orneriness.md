@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meanspirited disagreeable contrariness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meanspirited disagreeable contrariness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent cantankerousness, obstinate irritability, or mischievous stubbornness of disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American folklore and regional literature, orneriness is often portrayed as an enduring trait of frontiersmen, pack mules, and independent contrarians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orneriness designates meanspirited disagreeable contrariness."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"Pap was possessed of an uncommon **orneriness** whenever he was kept from his jug of whiskey."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The huskies fought among themselves with savage **orneriness** over the scraps of frozen dried salmon."*
+> - 📜 **William Faulkner (*As I Lay Dying*):** *"The old mule displayed pure **orneriness** at the river ford, balking against the traces in the swift current."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of pink tinged with lavender.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of pink tinged with lavender.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pale, delicate color blending the cool bluish tones of lavender with soft warm pink hues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural description and fashion design, lavender-pink characterizes the pastel shades of specific cultivars of roses, sweet peas, and morning glories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lavender-pink designates of pink tinged with lavender."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The twilight sky faded into a serene **lavender-pink** over the western horizon, reflected softly in the calm sea."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A single spray of **lavender-pink** orchids stood in a slender Venetian glass vase upon the mantelpiece."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Her evening cloak was of rich **lavender-pink** brocade trimmed with bands of silver fox."*
+

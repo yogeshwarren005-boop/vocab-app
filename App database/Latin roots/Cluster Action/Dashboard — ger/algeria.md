@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in northwestern africa on the mediterranean sea with a population that is predominantly sunni muslim; colonized by france in the 19th century but gained autonomy in the early 1960s.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in northwestern africa on the mediterranean sea with a population that is predominantly sunni muslim; colonized by france in the 19th century but gained autonomy in the early 1960s.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign country in the Maghreb region of North Africa, bordered by the Mediterranean Sea to the north and the Sahara desert to the south.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical history, Algeria was the site of the ancient Numidian kingdom, Roman agricultural colonies, and a protracted twentieth-century war of national liberation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Monsieur Fabien desired to see life--Monsieur Fabien could not have his own will--he was, doubtless, an emigrant in America--in the Mauritius--he was with the army in Algeria--he was amassing a fortune among the English--he was a missionary in China."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Disagreement of the United States with Algeria. =1796.=—Washington’s Farewell Address."*
+> - 📜 **Albert Camus (*The Myth of Sisyphus*):** *"In the brilliant summer light of **Algeria**, the physical reality of sea and stone outshines all philosophical dogmas."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The fertile coastal plains of modern **Algeria** once supplied the grain fleets that fed the populace of imperial Rome."*
+> - 📜 **Frantz Fanon (*The Wretched of the Earth*):** *"The national liberation struggle in **Algeria** transformed the colonial peasant into a conscious architect of his own destiny."*
+

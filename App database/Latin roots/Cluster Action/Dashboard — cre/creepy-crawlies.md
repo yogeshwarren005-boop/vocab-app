@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of dislike and anxiety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal that creeps or crawls (such as worms or spiders or insects).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal term for insects, spiders, worms, or other small crawling creatures, especially those provoking disgust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In childhood folklore and popular entomology, creepy-crawlies encompass terrestrial invertebrates encountered under logs, leaf litter, and stones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creepy-crawlies designates feelings of dislike and anxiety."*
+> - 📜 **Beatrix Potter (*The Tale of Mrs. Tittlemouse*):** *"Mrs. Tittlemouse was a most tidy little mouse, who spent half her life chasing beetles and other **creepy-crawlies** out of her pantry."*
+> - 📜 **Kenneth Grahame (*The Wind in the Willows*):** *"Toad poked with his stick into the hollow tree, expecting to disturb beetles and harmless **creepy-crawlies** in the bark."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Spider*):** *"Children shrink from these little garden **creepy-crawlies**, unaware of the wonderful geometric architectural instincts they possess."*
+

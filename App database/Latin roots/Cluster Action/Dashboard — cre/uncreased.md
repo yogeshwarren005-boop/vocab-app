@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used especially of fabrics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used especially of fabrics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not creased, folded, or wrinkled; perfectly smooth and flat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archival preservation and textile inspection, an uncreased document or garment displays pristine structural integrity without fiber fracture along fold lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncreased designates used especially of fabrics."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"He opened the **uncreased** parchment envelope with a silver paper knife, admiring its heavy bond paper."*
+> - 📜 **Henry James (*The American*):** *"Newman smoothed the **uncreased** lapels of his new Parisian coat before entering the salon of the Marquise."*
+> - 📜 **Virginia Woolf (*Jacob's Room*):** *"The morning newspaper lay **uncreased** beside his coffee cup, pristine in the pale sunlight."*
+

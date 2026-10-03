@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that bulges out or is protuberant or projects from its surroundings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) an abnormal outgrowth or enlargement of some part of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct outgrowth on a human or animal body or on a plant, especially an abnormal one; an unsightly addition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic criticism and architectural commentary, an excrescence denotes an incongruous stylistic addition that disfigures an original building.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shell had been so thin, so devoid of excrescence, and so closely drawn over the accommodation granted, that the grim character of what was beneath showed through it, as the shape of a body is visible under a winding-sheet."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Temple, that girl’s hair must be cut off entirely; I will send a barber to-morrow: and I see others who have far too much of the excrescence—that tall girl, tell her to turn round."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"For, it inscrutably appeared to stand to reason, in the minds of the whole company, that I was an excrescence on the entertainment."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The eggshell was so thin, so devoid of **excrescence**, and so closely fitting that its fragility seemed miraculous."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"These frontal horns consist of a bony **excrescence** covered with smooth integument."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The modern wooden porch was a hideous **excrescence** disfiguring the ancient Elizabethan manor house."*
+

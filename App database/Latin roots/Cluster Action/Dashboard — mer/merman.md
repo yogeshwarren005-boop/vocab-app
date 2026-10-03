@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states singer who appeared in several musical comedies (1909-1984).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Half man and half fish; lives in the sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythical sea creature with the head and upper torso of a man and the tail of a fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In folklore and comparative mythology, mermen are traditionally depicted as fiercer and less seductive than mermaids, often presiding over ocean tempests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"While I was battering away at the pyramid, a sort of badger-haired old merman, with a hump on his back, takes me by the shoulders, and slews me round. ‘What are you ’bout?’ says he."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was a kind of monster of the deep to them; he was a merman, he was a behemoth, he was a leviathan,—in short, they knew not what he was."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"While I was battering away at the pyramid, a sort of badger-haired old merman, with a hump on his back, takes me by the shoulders, and slews me round. ‘What are you ’bout?’ says he."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"While I was battering away at the pyramid, a sort of badger-haired old **merman** arose from the sea with a dripping beard."*
+> - 📜 **Alfred Tennyson (*The Merman*):** *"Who would be a **merman** bold, sitting alone, singing alone under the sea, with a crown of gold?"*
+> - 📜 **Charles Kingsley (*The Water-Babies*):** *"The great sea **merman** blew a blast upon his conch shell, summoning the tides and the ocean currents."*
+

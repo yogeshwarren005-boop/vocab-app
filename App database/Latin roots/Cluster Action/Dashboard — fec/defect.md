@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imperfection in a bodily system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A failing or deficiency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flaw, imperfection, or shortcoming in a person, mechanism, or object; also to abandon allegiance to a cause or country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and intelligence operations, to defect is to flee one's sovereign state to seek asylum and pledge allegiance to an opposing power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What merit do I in my self respect, That is so proud thy service to despise, When all my best doth worship thy defect, Commanded by the motion of thine eyes?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I saw her once Hop forty paces through the public street And, having lost her breath, she spoke and panted, That she did make defect perfection, And, breathless, pour breath forth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being scarce made up, I mean to man, he had not apprehension Or roaring terrors; for defect of judgement Is oft the cease of fear."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"There is no vice so simple but assumes some mark of virtue on his outward parts, hiding inward **defect**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Any structural **defect** that impairs the animal in the struggle for life will be rigidly eliminated by natural selection."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The discontented general resolved to **defect** to the Persian court, offering his military knowledge to the Great King."*
+

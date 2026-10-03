@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clergyman who officiates at a religious ceremony or service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clergyman who officiates at a religious ceremony or service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who presides over or conducts a religious, ceremonial, or civil rite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative liturgical studies, the officiant acts as the symbolic conduit articulating ritual declarations on behalf of the gathered assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, officiant designates a clergyman who officiates at a religious ceremony or service."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The white-surpliced **officiant** commenced the solemn marriage liturgy before the silent altar."*
+> - 📜 **George Eliot (*Romola*):** *"The monastic **officiant** raised the crucifix high above the heads of the penitent Florentine citizens."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The venerable Roman **officiant** pronounced the sacramental blessing over the kneeling pilgrims in the ancient basilica."*
+

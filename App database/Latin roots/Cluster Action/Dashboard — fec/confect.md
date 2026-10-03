@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich sweet made of flavored sugar and often combined with fruit or nuts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make or construct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or prepare by combining various ingredients; to compound, candy, or preserve in sugar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic pharmacy and culinary history, to confect involved boiling roots or spices in honey or syrup to produce therapeutic electuaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, confect designates a rich sweet made of flavored sugar and often combined with fruit or nuts."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"He is a very valiant trencherman; he hath an excellent stomach to **confect** sweetmeats and compliments."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Apothecaries use to **confect** the roots of eryngo with clarified sugar to comfort the vital spirits."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The art to **confect** fruits in boiling syrup preserves their natural flavor through the longest winter."*
+

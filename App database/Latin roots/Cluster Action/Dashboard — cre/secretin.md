@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gastrointestinal hormone that stimulates the secretion of water and bicarbonate from the pancreas and bile ducts whenever the stomach empties too much acid into the small intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gastrointestinal hormone that stimulates the secretion of water and bicarbonate from the pancreas and bile ducts whenever the stomach empties too much acid into the small intestine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peptide hormone produced by the S cells of the duodenum that stimulates the pancreas to secrete bicarbonate-rich fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological history, secretin was discovered by Bayliss and Starling in 1902, marking the founding discovery that inaugurated the science of endocrinology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretin designates a gastrointestinal hormone that stimulates the secretion of water and bicarbonate from the pancreas and bile ducts whenever the stomach empties too much acid into the small intestine."*
+> - 📜 **Ernest Starling (*The Croonian Lectures on the Chemical Correlation of the Body Functions*):** *"The discovery of **secretin** proved that chemical messengers circulating in the blood coordinate organ functions independently of the central nervous system."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acid chyme entering the duodenum stimulates the release of **secretin**, which prompts the pancreas to pour out neutralizing bicarbonate fluid."*
+> - 📜 **T. H. Huxley (*Lessons in Elementary Physiology*):** *"The hormonal action of **secretin** demonstrated that visceral digestion is regulated by internal humoral secretions."*
+

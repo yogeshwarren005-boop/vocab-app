@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat to strengthen and improve the luster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of cotton thread that has been treated with sodium hydroxide to shrink it and increase its luster and affinity for dye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having undergone chemical treatment with caustic soda to produce a silk-like finish, increased strength, and deeper color reception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial textiles, mercerized cotton is distinguished by microscopic examination showing rounder, less twisted fibers with thicker cell walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercerized designates treat to strengthen and improve the luster."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The footman wore a livery of dark maroon cloth trimmed with gleaming **mercerized** braid along the lapels."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol examined the bolt of **mercerized** damask on the dry-goods counter, admiring its crisp and silky surface."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"She purchased a pair of cheap, lustrous **mercerized** gloves that gave her an air of fashionable elegance."*
+

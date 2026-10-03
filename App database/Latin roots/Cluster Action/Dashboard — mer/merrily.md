@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a joyous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a joyous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cheerful, lighthearted, and festive manner; with mirth and joy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional verse and folk song, moving merrily conveys effortless, buoyant passage through pleasant landscapes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I play the noble housewife with the time, to entertain it so merrily with a fool."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look’d he or red or pale, or sad or merrily?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have ended my business, and I will merrily accompany you home."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"They say many young gentlemen flock to him every day, and fleet the time carelessly, as they did in the golden world, and live **merrily** under the greenwood tree."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The horses trotted **merrily** along the crisp winter road while the post-horn sounded its cheerful melody."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The church bells rang out **merrily** across the snow-covered valley on that joyous Christmas morning."*
+

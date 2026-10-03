@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transactions (sales and purchases) having the objective of supplying commodities (goods and services).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transactions (sales and purchases) having the objective of supplying commodities (goods and services).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An emphasis on maximizing financial profit, trade, and economic return, often over cultural, moral, or artistic values.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory and social philosophy, commercialism denotes the pervasive commodification of social relations and aesthetic products in consumer capitalism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Literary commercialism is lowering the intellectual standard to accommodate the purse and to 195:30 meet a frivolous demand for amusement instead of for improvement."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Has commercialism really throttled altruism?"*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The tremendous **commercialism** of the British Empire has created astonishing mechanical wealth alongside severe social inequality."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Our mechanical civilization worships outward **commercialism**, mistaking industrial apparatus for genuine inward culture."*
+> - 📜 **Jane Addams (*Democracy and Social Ethics*):** *"Unchecked **commercialism** exploits the leisure hours of immigrant youth by offering sensational and cheap amusements."*
+

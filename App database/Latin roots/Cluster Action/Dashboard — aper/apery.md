@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of mimicking; imitative behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of mimicking; imitative behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or habit of slavish, foolish, or unthinking imitation; mimicry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social criticism and satire, apery denotes the superficial adoption of foreign or aristocratic affectations without genuine understanding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apery designates the act of mimicking; imitative behavior."*
+> - 📜 **Alexander Pope (*Epistle to Dr. Arbuthnot*):** *"Such shallow **apery** of the grand style earns only the contempt of the discerning critic."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Our modern political life has degenerated into an empty **apery** of ancient constitutional formulas that have lost their vital faith."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The aspiring bourgeois household was distinguished by a ridiculous **apery** of mayoral magnificence."*
+

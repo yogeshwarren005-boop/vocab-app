@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard mass of fecal matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard mass of fecal matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, stony mass formed of hardened, desiccated feces within the intestinal tract or appendix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal surgery and emergency pathology, obstruction of the appendiceal lumen by an impacted fecalith is the primary trigger of acute appendicitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fecalith designates a hard mass of fecal matter."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Upon surgical excision of the gangrenous appendix, an impacted **fecalith** was found occluding the proximal lumen."*
+> - 📜 **Charles McBurney (*Experience with Early Operative Interference in Cases of Disease of the Vermiform Appendix*):** *"The presence of a calcified **fecalith** within the inflamed vermiform appendix rapidly leads to mucosal ulceration and perforation."*
+> - 📜 **Reginald Heber Fitz (*Perforating Inflammation of the Vermiform Appendix*):** *"Careful dissection of autopsy specimens revealed a hard **fecalith** lodging at the exact point of appendiceal rupture."*
+

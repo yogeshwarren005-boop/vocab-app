@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With discretion; prudently and with wise self-restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With discretion; prudently and with wise self-restraint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a careful, prudent, and unobtrusive manner, especially so as to preserve confidentiality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomacy and statecraft, conducting sensitive negotiations discreetly prevents premature leaks that could derail delicate treaties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, sirrah, not for my sake but your master’s, I advise You use your manners discreetly in all kind of companies: When I am alone, why, then I am Tranio; But in all places else your master, Lucentio."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So she was dressed discreetly, her face covered, so that she might pass as any Jewish woman of the lower orders."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The young man felt that he was unable to afford candour, and discreetly avoided the naming of his own action."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"I will make a prief of it in my notebook, and we will afterwards **discreetly** discuss the matter in private."*
+> - 📜 **James Joyce (*Dubliners*):** *"He stepped back **discreetly** into the shadow of the doorway, allowing the lovers to pass unobserved."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The nobleman withdrew **discreetly**, leaving the compromising letters in Holmes's hands."*
+

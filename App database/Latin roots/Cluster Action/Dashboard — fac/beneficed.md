@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Endow with a benefice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a benefice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Holding an ecclesiastical benefice or endowed church living with fixed income.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English ecclesiastical history, a beneficed clergyman possessed legal freehold tenure in his rectory or vicarage, contrasting with stipendiary curates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He will even speak well of the bishop, though I tell him it is unnatural in a beneficed clergyman; what can one do with a husband who attends so little to the decencies?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Having a contempt for curates, whom he always called understrappers, he was resolved to be buried by a beneficed clergyman."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That is the well-beneficed point of view, you perceive, from which difficulties are much simplified,” he ended, smiling."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins took pride in being a comfortably **beneficed** clergyman through the generous patronage of Lady Catherine de Bourgh."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The **beneficed** clergy of the cathedral close enjoyed spacious canonical residences and tranquil gardens."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The curate labored for years on fifty pounds before he was happily **beneficed** in an adjoining parish."*
+

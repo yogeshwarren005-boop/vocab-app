@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or involving literary fiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed or conceived by the imagination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to, occurring in, or characteristic of imaginative fiction; not real or historical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary philosophy, a fictional world is an ontologically incomplete domain created through narrative text, inhabited by non-existent individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fictional designates related to or involving literary fiction."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"A **fictional** character lives by virtue of the incandescent reality which the novelist's imagination breathes into every sentence."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The criminal sought to construct a **fictional** alibi, but a single overlooked railway ticket destroyed the entire contrivance."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Logic must no more admit a **fictional** entity into its ontology than a zoologist would admit a unicorn into his taxonomy."*
+

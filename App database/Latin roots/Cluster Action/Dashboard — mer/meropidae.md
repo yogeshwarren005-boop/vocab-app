@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bee-eaters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bee-eaters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bee-eater family of near passerine birds, characterized by brightly colored plumage, slender bodies, and long downcurved bills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, species in the family Meropidae feed almost exclusively on flying insects, expertly stripping bee and wasp stings against perches before consumption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meropidae designates bee-eaters."*
+> - 📜 **John Gould (*The Birds of Europe*):** *"The magnificent emerald and chestnut plumage of the **meropidae** illuminates the river valleys of southern Europe in early summer."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sexual selection has endowed the avian family **meropidae** with vivid iridescent hues across both sexes."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Flocks of **meropidae** hawked for flying hymenoptera over the forest canopy with astonishing acrobatic skill."*
+

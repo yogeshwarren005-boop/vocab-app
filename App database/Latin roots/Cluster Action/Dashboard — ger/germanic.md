@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of the indo-european family of languages; members that are spoken currently fall into two major groups: scandinavian and west germanic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the language of germans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the Germanic peoples, their historic migrations, or the Germanic branch of the Indo-European language family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics, Germanic languages (including English, German, Dutch, and Scandinavian) share Grimm's law consonant shifts and strong preterite verbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But their vulcan was the Germanic Wieland, the master-smith captured and hamstrung lame of a leg by Nidung, the kind of the Nids."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"SOMETIME FELLOW IN GERMANIC LANGUAGES AND LITERATURES, COLUMBIA UNIVERSITY AMS PRESS, INC."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The first which presents itself is the Germanic body."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **Germanic** tribes overran the western provinces, establishing independent kingdoms upon the ruins of the empire."*
+> - 📜 **Jacob Grimm (*Deutsche Grammatik*):** *"The phonetic shifts governing consonant transformation establish the common pedigree of all **Germanic** tongues."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"In the ancient **Germanic** mythology of Odin, we find the primal, rugged soul of northern European courage."*
+

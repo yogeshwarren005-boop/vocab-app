@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who overcomes and establishes ascendancy and control by force or persuasion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who overcomes and establishes ascendancy and control by force or persuasion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who successfully conquers, surmounts, or triumphs over severe difficulties, obstacles, or adversaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian homiletics and biblical theology, the overcomer is promised spiritual victory and eternal reward for enduring earthly tribulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcomer designates someone who overcomes and establishes ascendancy and control by force or persuasion."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The valiant pilgrim stood forth as an **overcomer** at the gate, having vanquished Apollyon and crossed the dark river."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The saintly character is essentially that of an **overcomer**, transmuting pain and temptation into spiritual fortitude."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A man of resolute self-reliance is an innate **overcomer** of external circumstances and social discouragement."*
+

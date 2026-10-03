@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by grandeur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by grandeur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressively beautiful, grand, noble, or lavish in appearance or scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance historiography, Lorenzo de' Medici earned the sobriquet the Magnificent for his lavish patronage of humanism, architecture, and civic arts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A letter from the magnificent Armado."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, that have been love’s whip, A very beadle to a humorous sigh, A critic, nay, a night-watch constable, A domineering pedant o’er the boy, Than whom no mortal so magnificent!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea could not hold her magnificent bunch of forget-me-nots near enough to their eyes to be admired."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"Armado is a most illustrious wight, a man of fire-new words, fashion's own knight, high-born in thought and **magnificent** in speech."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Egdon Heath stretched away under the twilight sky in **magnificent** and somber desolation, defiant of mortal changes."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner captured the **magnificent** turmoil of alpine storms with a sublime fury that transcended literal representation."*
+

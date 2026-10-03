@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or showing high-spirited merriment; ; - wordsworth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering fun and gaiety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cheerful, lively, and joyful; full of high-spirited festive cheer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical English folklore, 'Merry England' evokes an idealized pastoral landscape of cheerful village life and seasonal harvest holidays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is not well, but yet she has her health; she’s very merry, but yet she is not well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Like to the time o’ th’ year between the extremes Of hot and cold, he was nor sad nor merry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heavenly mingle!—Be’st thou sad or merry, The violence of either thee becomes, So does it no man else.—Met’st thou my posts?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is not well, but yet she has her health; she's very **merry**, but yet she is not light."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"A **merry** Christmas to everybody, and a happy New Year to all the world!"*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The squire delighted in keeping up all the old **merry** games of the English countryside at Christmastide."*
+

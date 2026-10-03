@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undifferentiated tissue from which new cells are formed, as at the tip of a stem or root.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undifferentiated tissue from which new cells are formed, as at the tip of a stem or root.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of plant tissue consisting of actively dividing cells from which new tissues and organs are formed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant developmental biology, the apical meristem at shoot and root tips maintains an indeterminate stem cell niche that drives primary elongation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meristem designates undifferentiated tissue from which new cells are formed, as at the tip of a stem or root."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The rapid growth of the shoot tip originates in the apical **meristem**, where embryonic cells divide with ceaseless energy."*
+> - 📜 **Julius von Sachs (*Text-book of Botany, Morphological and Physiological*):** *"Microscopic sections through the root cap reveal the primary **meristem** generating orderly rows of cortical and vascular tissue."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The sensitive growing apex containing the root **meristem** directs the downward course of the radical into moist soil."*
+

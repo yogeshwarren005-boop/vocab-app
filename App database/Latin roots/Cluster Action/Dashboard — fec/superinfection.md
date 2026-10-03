@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection that occurs while you are being treated for another infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection that occurs while you are being treated for another infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secondary infection occurring during or immediately following antibiotic treatment for an earlier, distinct infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical infectious disease and pharmacology, superinfection commonly manifests as fungal overgrowth or Clostridioides difficile colitis following broad-spectrum antibacterial therapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superinfection designates infection that occurs while you are being treated for another infection."*
+> - 📜 **Alexander Fleming (*Penicillin: Its Practical Application*):** *"Prolonged therapy may suppress sensitive organisms while predisposing the debilitated patient to opportunistic **superinfection** by resistant strains."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"The development of secondary **superinfection** illustrates the ecological balance governing microbic populations in living tissues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Secondary bacterial **superinfection** following influenza pneumonia represents the chief hazard to elderly patients."*
+

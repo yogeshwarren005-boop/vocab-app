@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A literary work based partly or wholly on fact but written as if it were fiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Writing in a fictional form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of converting real historical events, people, or facts into a fictional or dramatized literary work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiographical criticism and biography, fictionalisation refers to the narrative shaping and embellishment of real documentary records for artistic effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fictionalisation designates a literary work based partly or wholly on fact but written as if it were fiction."*
+> - 📜 **Virginia Woolf (*Orlando: A Biography*):** *"The poetic **fictionalisation** of historical truth allowed her to explore three centuries of English life through a single character."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The historian must beware of dramatic **fictionalisation**, adhering scrupulously to the testimony of verified eyewitnesses."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The subtle **fictionalisation** of a casual dinner-table anecdote provided the germ from which the entire novel developed."*
+

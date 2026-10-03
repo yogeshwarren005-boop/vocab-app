@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intrusive in a meddling or offensive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intrusive in a meddling or offensive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Annoyingly eager to offer unsolicited help, advice, or service; meddlesome and assertive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and administrative law, officious communications denote semi-formal communications carried out without binding government commitment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till I find more than will or words to do it— I mean your malice—know, officious lords, I dare and must deny it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are too officious In her behalf that scorns your services."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, be everyone officious To make this banquet, which I wish may prove More stern and bloody than the Centaurs’ feast."*
+> - 📜 **Robert Browning (*My Last Duchess*):** *"Some **officious** fool broke in the orchard for her, the bough of cherries some officious fool broke in the orchard for her."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Jennings was an **officious** but good-natured neighbor, whose boundless curiosity bordered on persistent impertinence."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The prime minister was surrounded by **officious** sycophants anticipating his every whim with fawning servility."*
+

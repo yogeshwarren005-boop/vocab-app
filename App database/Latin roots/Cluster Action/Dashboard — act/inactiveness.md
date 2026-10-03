@@ -42,8 +42,8 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period or disposition of quiet dormancy, disuse, or suspended exertion, characterized by the absence of energetic motion or productivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ecology and physiology, inactiveness represents an adaptive energy-conservation strategy (such as torpor or midday resting) deployed in response to thermal stress or food scarcity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dormancy, sluggish motion, or disinclination toward physical or mental exertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and health literature, habitual inactiveness is identified as a precursor to both physical degeneration and cognitive decline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **Francis Bacon (*The Essays*):** *"Sloth and long **inactiveness** of body corrode the spirits and breed melancholic humors in men of great understanding."*

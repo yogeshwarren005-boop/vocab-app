@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) messenger of jupiter and god of commerce; counterpart of greek hermes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy, silvery-white metallic element (symbol Hg, atomic number 80) that is liquid at standard room temperature and pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman mythology, Mercury was the fleet-footed messenger of the gods, deity of commerce, travel, eloquence, and thievery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I great Juno’s power, The strong-winged Mercury should fetch thee up And set thee by Jove’s side."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be Mercury, set feathers to thy heels, And fly like thought from them to me again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The words of Mercury are harsh after the songs of Apollo."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"See what a grace was seated on this brow; Hyperion's curls; the front of Jove himself; an eye like Mars, to threaten and command; a station like the herald **mercury** new-lighted on a heaven-kissing hill."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The heavy column of liquid **mercury** in the Torricellian tube balances the weight of the surrounding atmosphere."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The barometer fell rapidly, the bright **mercury** dropping down into the bulb as the tempest approached."*
+

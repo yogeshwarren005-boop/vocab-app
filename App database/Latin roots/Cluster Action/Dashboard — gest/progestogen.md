@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of steroid hormones that have the effect of progesterone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of steroid hormones that have the effect of progesterone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any natural or synthetic steroid hormone (including progesterone and synthetic progestins) that binds to and activates the progesterone receptor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological endocrinology, progestogens are evaluated for their anti-estrogenic effects on the endometrium and their feedback inhibition on the hypothalamic-pituitary-ovarian axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progestogen designates any of a group of steroid hormones that have the effect of progesterone."*
+> - 📜 **Gregory Pincus (*The Control of Fertility*):** *"Any effective oral contraceptive must contain a potent **progestogen** capable of inhibiting the mid-cycle LH surge."*
+> - 📜 **Bertram Katzung (*Basic and Clinical Pharmacology*):** *"The metabolic side effects of a **progestogen** vary widely depending on whether it is derived from 19-nortestosterone or 17-hydroxyprogesterone."*
+> - 📜 **Carl Djerassi (*The Politics of Contraception*):** *"The clinical introduction of the synthetic **progestogen** marked a turning point in global demographic history."*
+

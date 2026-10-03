@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being actual or based on fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being actual or based on fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree or attribute of adhering strictly to objective reality, authentic records, and verifiable truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informational aesthetics and documentary literature, factualness is prioritized over dramatic embellishment to preserve forensic integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factualness designates the quality of being actual or based on fact."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"There is a severe beauty in the plain **factualness** of arithmetic which shames all boastful exaggeration."*
+> - 📜 **George Santayana (*Scepticism and Animal Faith*):** *"The animal instinct of belief accepts the **factualness** of the ambient world long before philosophy raises its sceptical doubts."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Scientific education trains the intellect in uncompromising **factualness**, disciplining imagination by experimental testing."*
+

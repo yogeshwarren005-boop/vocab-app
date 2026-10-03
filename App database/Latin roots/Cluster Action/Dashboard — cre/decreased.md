@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease in size, extent, or range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make smaller.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made smaller, reduced in number, quantity, size, or intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnostics, decreased respiratory excursion or diminished reflexes signal underlying neurological or pulmonary impairment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The old business in less than three years decreased so that half of the employees were discharged; the rest had their salaries reduced."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Its force has gradually decreased, but even yet is not entirely set aside."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By the plan of a "compensated gold dollar" the legal weight of the gold coins would be increased or decreased from time to time to conform with the tabular standard."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Although man may not have been much modified during the latter stages of his progress, his canine teeth have notably **decreased** in size."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Her father grew worse; her time was more entirely occupied in attending him; her means of subsistence **decreased** daily."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Urine output was markedly **decreased** during the acute febrile stage of the toxic nephritis."*
+

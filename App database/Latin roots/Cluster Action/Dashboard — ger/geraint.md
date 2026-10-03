@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (arthurian legend) one of the knights of the round table.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (arthurian legend) one of the knights of the round table.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A celebrated warrior hero of Arthurian romance and Welsh folklore, renowned for his martial prowess and marriage to Enid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval comparative literature, Geraint is the titular protagonist of the Welsh tale Geraint and Enid and the counterpart to Chrétien de Troyes' Erec.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Thomas,[277] “was an interesting work by Geraint Bardd Glass y Cadair, an illustrious Welshman, who flourished about the ninth century."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"Prince **Geraint**, late made knight of Arthur's Table, was a man of noble presence and fearless valor."*
+> - 📜 **Lady Charlotte Guest (*The Mabinogion*):** *"Then **Geraint** mounted his steed and set forth into the forest, seeking adventures to prove his knighthood."*
+> - 📜 **Thomas Malory (*Le Morte d'Arthur*):** *"Sir **Geraint** did many wondrous deeds of arms in the lists before King Arthur and his knights at Camelot."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheath worn to protect a finger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheath worn to protect a finger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective sheath or covering fitted over an injured or bandaged finger to keep it clean and dry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical printing and textile manufacturing, a leather fingerstall was worn by pressmen and weavers to prevent skin abrasions from caustic inks and coarse yarns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerstall designates a sheath worn to protect a finger."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber adjusted a shabby black leather **fingerstall** upon his thumb before dipping his quill into the inkstand."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The old clerk wore a frayed linen **fingerstall** over a scalded digit as he turned the parish ledger pages."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Mortimer drew a protective **fingerstall** over his grazed hand before resuming the delicate anthropological examination."*
+

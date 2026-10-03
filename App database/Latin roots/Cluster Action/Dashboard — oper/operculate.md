@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an operculum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an operculum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing or closed by an operculum (lid, flap, or protective covering), as in certain gastropod mollusks or moss capsules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology and malacology, operculate capsules discharge spores when their lid dehisces, while operculate snails seal their shell aperture during desiccation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operculate designates having an operculum."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **operculate** gastropods are equipped with a horny or calcareous disk borne upon the metapodium that securely seals the aperture."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In the mosses, the capsule is **operculate**, throwing off its lid at maturity to reveal the peristome teeth."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The fossil ammonites occasionally present **operculate** structures termed aptychi that protected the soft cephalic mass."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a defect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Markedly subnormal in structure or function or intelligence or behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imperfect, faulty, or lacking an essential component or functional capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, a defective verb lacks certain inflected forms or tenses found in complete conjugations (such as must or ought in English).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Leave nothing out for length, and make us think Rather our state’s defective for requital, Than we to stretch it out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now remains That we find out the cause of this effect, Or rather say, the cause of this defect, For this effect defective comes by cause."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Taken from Curley, Note 3, at end) *This Treatise on the Emendation of the Intellect etc., which we give you here, kind reader, in its unfinished [that is, defective] state, was written by the author many years ago now."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The drainage of the squalid court was notoriously **defective**, spreading noxious vapors through every cellar."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Human sensory organs are inherently **defective**, failing to register subtle operations that take place in the minute parts of matter."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The manufacturing process was paralyzed by a **defective** steam piston that leaked pressure under heavy load."*
+

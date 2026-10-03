@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something used to beautify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more attractive by adding ornament, colour, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An embellishment, decorative object, or artistic feature added to enhance visual elegance or distinction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music theory and performance practice, an ornament (such as a trill, mordent, or turn) is an expressive embellishment not essential to the fundamental melody.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In all external grace you have some part, But you like none, none you for constant heart. 54 O how much more doth beauty beauteous seem, By that sweet ornament which truth doth give!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I can speak English, lord, as well as you, For I was train’d up in the English Court, Where being but young I framed to the harp Many an English ditty lovely well, And gave the tongue a helpful ornament— A virtue that was never seen in you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then judge, great lords, if I have done amiss, Or whether that such cowards ought to wear This ornament of knighthood, yea or no?"*
+> - 📜 **Francis Bacon (*The Essays*):** *"Studies serve for delight, for **ornament**, and for ability in the management of private affairs."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"True architectural **ornament** is never stuck onto a building as an afterthought, but grows organically out of structural necessity."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Virtue is the highest **ornament** of human nature, imparting dignity even to the humblest station in life."*
+

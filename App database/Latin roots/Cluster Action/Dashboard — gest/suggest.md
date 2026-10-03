@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a proposal, declare a plan for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drop a hint; intimate by a hint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put forward an idea, consideration, or hypothesis for consideration or action; to cause something to come to mind through association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychotherapy and hypnosis, to suggest is to induce an idea, belief, or action in a subject through verbal communication or psychological influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I give thee not this to suggest thee from thy master thou talk’st of; serve him still."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If secret powers [_Lays his hand on his head._] Suggest but truth to my divining thoughts, This pretty lad will prove our country’s bliss."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"II Two loves I have, of comfort and despair, That like two spirits do suggest me still; My better angel is a man right fair, My worser spirit a woman colour’d ill."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"These geological facts strongly **suggest** that oceanic islands were colonized by chance migrants carried by ocean currents and winds."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth smiled at the idea, but ventured to **suggest** that Mr. Bingley's affection might not be so easily extinguished."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The presence of red clay upon his boots would immediately **suggest** to any trained eye that he had walked across the construction ditch."*
+

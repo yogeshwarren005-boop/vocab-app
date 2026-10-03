@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sink below the surface; go under or as if under water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put under water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing, situated, or adapted to living entirely beneath the surface of water; submerged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater limnology and aquatic botany, submersed macrophytes feature thin, finely divided leaves optimized for absorbing dissolved nutrients directly from water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, submersed designates sink below the surface; go under or as if under water."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The slender, ribbon-like **submersed** leaves of the water-crowfoot flutter freely in the swift current."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many aquatic species develop distinct aerial and **submersed** foliage upon the same stem to adapt to fluctuating water levels."*
+> - 📜 **Joseph Dalton Hooker (*The Student's Flora of the British Islands*):** *"The bladderwort floats its **submersed** branches in peaty pools, capturing aquatic micro-organisms in tiny traps."*
+

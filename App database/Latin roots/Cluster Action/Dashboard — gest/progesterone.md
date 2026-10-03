@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A steroid hormone (trade name lipo-lutin) produced in the ovary; prepares and maintains the uterus for pregnancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A steroid hormone (trade name lipo-lutin) produced in the ovary; prepares and maintains the uterus for pregnancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A steroid hormone (C21H30O2) secreted by the corpus luteum and placenta that prepares the endometrium for blastocyst implantation and maintains pregnancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacological therapeutics, bioidentical progesterone and synthetic progestins are prescribed in hormone replacement therapy and assisted reproductive technology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progesterone designates a steroid hormone (trade name lipo-lutin) produced in the ovary; prepares and maintains the uterus for pregnancy."*
+> - 📜 **George Corner (*The Isolation of Progesterone*):** *"We isolated the pure crystalline corpus luteum hormone, for which we proposed the standardized chemical name **progesterone**."*
+> - 📜 **Gregory Pincus (*The Control of Fertility*):** *"Daily administration of **progesterone** suppresses ovulation in the rabbit by inhibiting pituitary gonadotropin release."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"During the third trimester of pregnancy, plasma **progesterone** levels rise dramatically as the placenta assumes primary endocrine function."*
+

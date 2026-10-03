@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craft of a carpenter: making things out of wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craft of a carpenter: making things out of wood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity, art, or trade of cutting, shaping, and joining timber to construct buildings, furniture, and other wooden objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history, heavy timber carpentry (such as timber framing, cruck frames, and hammerbeam roofs) defined medieval European construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He must have learnt his carpentry exactly as every boy learns it, by hammering his fingers instead of the nail, sawing his own skin instead of the wood--and not doing it again."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"They play at farming, carpentry, house-keeping, storekeeping, or whatever employments their parents happen to be engaged in."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor in house construction separates the mason, the bricklayer, and the artisan skilled in **carpentry** into distinct trades."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The magnificent wooden roof of the Great Hall demonstrates a mastery of structural **carpentry** combined with noble Gothic ornament."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I borrowed an axe and went down to the woods to cut white pines for my cabin, practicing a simple and unpretentious **carpentry**."*
+

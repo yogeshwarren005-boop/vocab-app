@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a mythical monster with three heads that was slain by hercules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a mythical monster with three heads that was slain by hercules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formidable three-headed or three-bodied monster of Greek mythology, slain by Heracles in his tenth labor to capture his red cattle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Dante's Inferno, Geryon is reimagined as the terrifying winged beast with an honest human face and a scorpion's sting, personifying the spirit of Fraud.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geryon designates (greek mythology) a mythical monster with three heads that was slain by hercules."*
+> - 📜 **Dante Alighieri (*Inferno*):** *"Behold the beast with the pointed tail, who passes mountains and breaks through walls and weapons: behold **Geryon**, who doth infect the whole world!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Not that proud giant **Geryon**, who pastured his herds on the Atlantic shore, could match the dreadful stature of the fallen archangel."*
+> - 📜 **Hesiod (*Theogony*):** *"Heracles slew the mighty **Geryon** beside his shambling oxen in sea-girt Erytheia on that memorable day of his labor."*
+

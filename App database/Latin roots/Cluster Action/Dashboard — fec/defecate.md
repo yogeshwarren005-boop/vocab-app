@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a bowel movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a bowel movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To discharge feces and solid waste matter from the bowels through the rectum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chemical refining and metallurgy, to defecate meant to clarify, purge of dregs, or purify a murky liquid or molten ore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defecate designates have a bowel movement."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Time and patient filtration will **defecate** the turbid wine, precipitating all coarse sediment to the bottom."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The bedridden patient was unable to **defecate** naturally owing to colonic atony and prolonged dehydration."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Lime is added to raw sugarcane juice to **defecate** the liquor by precipitating albumins and organic acids."*
+

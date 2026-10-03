@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a beneficial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a beneficial manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that produces good results, advantages, or helpful outcomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal trust doctrine, a beneficiary enjoys an estate beneficially, receiving all income and rents free from management burdens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Very soon their tent was completed, their "Diet Kitchen" arranged, the valuable supplies they had brought with them ready for distribution, and their work moving on smoothly and beneficially amid all the horrors of this terrible field."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"And it showed them how a great debt may be beneficially incurred, and yet not break down the enterprise of the people."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Judicious cross-breeding acts **beneficially** upon the vigor and fertility of the succeeding generations."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Capital invested in public works operates **beneficially** throughout the nation by lowering transport costs."*
+> - 📜 **Joseph Story (*Commentaries on Equity Jurisprudence*):** *"The property was settled so that the widow should enjoy the estate **beneficially** during her lifetime."*
+

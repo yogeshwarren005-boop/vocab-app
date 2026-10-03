@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An economic system (europe in 18th century) to increase a nation's wealth by government regulation of all of the nation's commercial interests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transactions (sales and purchases) having the objective of supplying commodities (goods and services).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An economic policy dominant in Europe from the 16th to 18th centuries promoting governmental regulation of trade to augment state power at the expense of rival nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical political economy, mercantilism was characterized by bullionism, protective tariffs, exclusive colonial trade monopolies, and positive export balances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This doctrine as presented in the seventeenth and eighteenth centuries in Europe, was known as _mercantilism_."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The monopolizing spirit of **mercantilism** has turned commerce, which ought naturally to be a bond of union, into the most fertile source of discord."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The historic fallacy of **mercantilism** lay in identifying the wealth of a country with the quantity of gold and silver within its borders."*
+> - 📜 **Max Weber (*General Economic History*):** *"Under European **mercantilism**, the emerging modern state transformed fiscal policy into an engine of external expansion."*
+

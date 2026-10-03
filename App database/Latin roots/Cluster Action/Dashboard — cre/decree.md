@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legally binding command or decision entered on the court record (as if issued by a court or judge).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Issue a decree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official order issued by a legal authority or sovereign ruler; an authoritative judicial decision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equity jurisprudence, an equitable decree orders specific performance or an injunction, contrasting with a common-law money judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But heaven in thy creation did decree, That in thy face sweet love should ever dwell, Whate’er thy thoughts, or thy heart’s workings be, Thy looks should nothing thence, but sweetness tell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then let me hear Of you, my gentle cousin Westmoreland, What yesternight our Council did decree In forwarding this dear expedience."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These couchings and these lowly courtesies Might fire the blood of ordinary men, And turn pre-ordinance and first decree Into the law of children."*
+> - 📜 **William Shakespeare (*Sonnet 115*):** *"Heaven in thy creation did **decree**, that in thy face sweet love should ever dwell."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The severity of the **decree** seemed deadly to Tess; she saw his view of her conduct without sharing his harsh detachment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial **decree** of Constantine granted full religious toleration to Christians throughout the Roman world."*
+

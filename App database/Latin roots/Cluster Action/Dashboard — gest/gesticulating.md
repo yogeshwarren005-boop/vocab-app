@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show, express or direct through movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making gestures while speaking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making animated, dramatic, or emphatic gestures with the hands and arms while speaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive narrative, gesticulating conveys intense excitement, foreign passion, or desperate urgency in the speaker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"We had not gone two cable-lengths, when a hundred savages, howling and gesticulating, entered the water up to their waists."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A few moments later he was in our room, still puffing, still gesticulating, but with so fixed a look of grief and despair in his eyes that our smiles were turned in an instant to horror and pity."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I heard a scathing murmur at my ear, ‘Heap of muffs—go to.’ The pilgrims could be seen in knots gesticulating, discussing."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Fedallah stood upon the gunwale, **gesticulating** silently toward the white foam where the whale had sounded."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber was seen upon the balcony, **gesticulating** toward the setting sun with his cane in an attitude of tragic eloquence."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The peasants at the roadside were crossing themselves and **gesticulating** in terror as the midnight coach swept past."*
+

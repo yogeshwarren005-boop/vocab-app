@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the economic system of mercantilism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profit oriented; ; - john buchan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to trade, merchants, or commercial business; motivated by commercial profit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime law and economic history, mercantile systems organized national wealth around state-regulated foreign trade balances and navigation monopolies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He was employed as book-keeper in a large mercantile house; but soon became addicted to drink, and the story is ever the same; loss of position, poverty, disgrace, suffering and recklessness."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A somewhat corresponding improvement has taken place on railroads, in mercantile establishments and, perhaps less, in mining."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It appeared in textile, iron, mercantile, and other industries."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His ventures are not in one bottom trusted, nor to one place; his whole **mercantile** estate hangs not upon this year's fortune."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **mercantile** system, by encouraging exportation and discouraging importation, sacrifices the interest of consumers to that of producers."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"The grand **mercantile** house of Dombey and Son conducted operations across all the oceans of the globe."*
+

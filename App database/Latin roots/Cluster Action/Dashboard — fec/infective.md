@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to cause disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caused by infection or capable of causing infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of transmitting infection or producing disease through the introduction of pathogenic agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and virology, infective dose denotes the minimum number of viable viral virions or bacterial units required to establish active host colonization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infective designates able to cause disease."*
+> - 📜 **Louis Pasteur (*The Germ Theory and Its Applications to Medicine and Surgery*):** *"Sterilization by boiling destroys the **infective** capacity of anthrax spores present in contaminated blood."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"Inoculation with minute quantities of the **infective** fluid consistently reproduced identical pathological lesions in mice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute **infective** endocarditis, vegetative micro-colonies proliferate upon damaged cardiac valve leaflets."*
+

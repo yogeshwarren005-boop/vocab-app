@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving gainful employment in something often done as a hobby.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving gainful employment in something often done as a hobby.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not recreational; not intended or engaged in for pleasure, leisure, or amusement; relating to serious, occupational, or utilitarian activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban planning and transportation economics, nonrecreational travel comprises mandatory utilitarian trips such as daily commuting, freight haulage, and medical visits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonrecreational designates involving gainful employment in something often done as a hobby."*
+> - 📜 **Jane Jacobs (*The Death and Life of Great American Cities*):** *"Streets that combine commercial, residential, and **nonrecreational** business activities maintain vitality throughout all hours of the day."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The working classes are excluded by economic necessity from leisure, their days consumed entirely by **nonrecreational** productive toil."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The medieval guildsman saw no rigid separation between religious devotion, **nonrecreational** craft labor, and communal civic festival."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not digestible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not digestible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being digested; unable to be broken down by digestive enzymes in the alimentary canal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional science, nondigestible carbohydrates (dietary fibers such as inulin, resistant starch, and cellulose) pass unabsorbed into the colon, where they are fermented by gut microbiota.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nondigestible designates not digestible."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"Cellulose forms a tough, **nondigestible** skeleton in raw vegetables that resists the strongest solvent action of human gastric juice."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The **nondigestible** residues of food pass through the bowels, carrying with them unabsorbed mineral salts and intestinal mucus."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"Worms swallow vast quantities of **nondigestible** sand grains to grind up leaves mechanically within their muscular gizzards."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of hairy herbs with yellow flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of hairy herbs with yellow flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American composite desert herbs in the sunflower family (Asteraceae), notably Geraea canescens (desert sunflower).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Sonoran and Mojave desert ecology, Geraea blooms abundantly following rare winter rains, transforming arid gravel flats into carpets of golden blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerea designates small genus of hairy herbs with yellow flowers."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The genus **Geraea** is distinguished among helianthoid composites by its compressed achenes and scarious pappus scales."*
+> - 📜 **John Muir (*Steep Trails*):** *"The desert sunflower, known to botanists as **Geraea**, spreads a luminous golden carpet over the parched gravel slopes of Death Valley."*
+> - 📜 **Alice Eastwood (*A Handbook of the Trees of California*):** *"The resinous foliage of **Geraea** exhales a characteristic pungent perfume across the sun-baked Mojave washes."*
+

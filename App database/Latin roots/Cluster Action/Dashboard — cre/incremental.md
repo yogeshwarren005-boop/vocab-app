@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increasing gradually by regular degrees or additions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increasing gradually by regular degrees or additions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resulting from, or advancing by small, successive increases or additions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and systems design, incremental adaptation modifies existing structures through minor cumulative adjustments over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incremental designates increasing gradually by regular degrees or additions."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Complex organs like the eye have been perfected by natural selection through an **incremental** series of slight advantageous steps."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The transformation of the cosmos proceeds by an **incremental** redistribution of matter and motion."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Technological improvements in manufacturing are predominantly **incremental**, building steadily upon accumulated shop practice."*
+

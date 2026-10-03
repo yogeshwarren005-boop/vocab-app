@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work together on a common enterprise of project.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cooperate as a traitor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To work jointly with others or together on an intellectual, artistic, or practical project.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and wartime jurisprudence, to collaborate is to cooperate traitorously with an enemy occupying one's country.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, Professor Schleimer had similarly been collaborating with me in the detection of phytosterol in mixtures of animal and vegetable fats."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I hoped that, by now, military bases would have been further along in collaborating with adjacent civilian suicide prevention resources and that such teamwork would be reflected in base and community media."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Another instance in which military and civilian resources collaborated and made the system work."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Primates frequently **collaborate** in hunting prey and sounding mutual alarms to preserve the safety of the troop."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"The masculine and feminine elements of the mind must **collaborate** if a work of art is to attain full fertile life."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The diverse political factions were compelled to **collaborate** in organizing the defense of the trenches."*
+

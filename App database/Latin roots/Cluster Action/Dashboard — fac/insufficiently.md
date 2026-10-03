@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an insufficient degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an insufficient degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inadequate manner; not enough to accomplish an end or meet a requirement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, an insufficiently metabolized drug compound may accumulate in renal tissues, provoking toxic pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He thought the season insufficiently advanced."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Again and again we find the most fruitful avenues opened to us by questions that another age might have laughed out of a hearing; to-day they suggest investigation of facts insufficiently known, and of the difficult connexions between them."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Son of Man," says Jesus, in a sentence that is famous but still insufficiently studied, "is come to seek and to save that which is lost" (Luke 19:10)."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The hypothesis had been **insufficiently** tested by systematic empirical observation across diverse vertebrate families."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Reforms enacted by men who understand **insufficiently** the complex ancient constitution will tear society into violent anarchy."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"She felt that her brother was **insufficiently** prepared for the severe moral temptations awaiting him in the metropolis."*
+

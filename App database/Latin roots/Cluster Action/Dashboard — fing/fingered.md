@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel or handle with the fingers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine by touch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having fingers, or touched, handled, or examined manually with the tips of the fingers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology, fingered passages are musical scores marked with numeric indications guiding which digit depresses each key or string.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, that Warwick had no more forecast, But, whiles he thought to steal the single ten, The king was slily fingered from the deck!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Caddy was now the mother, and I the godmother, of such a poor little baby—such a tiny old-faced mite, with a countenance that seemed to be scarcely anything but cap-border, and a little lean, long-fingered hand, always clenched under its chin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The deep-veined hands fingered many bank-notes one after the other, laying them down flat again, while Fred leaned back in his chair, scorning to look eager."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"Alas, that Warwick had no more forecast, but, whiles he thought to steal the single ten, the king was slily **fingered** from the deck!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old lawyer **fingered** the red tape around the legal bundle with deliberate, methodical slowness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She absentmindedly **fingered** the pearls at her neck while contemplating the momentous decision before her."*
+

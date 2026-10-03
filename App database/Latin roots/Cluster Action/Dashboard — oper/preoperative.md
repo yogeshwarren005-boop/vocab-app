@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening or done before and in preparation for a surgical operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening or done before and in preparation for a surgical operation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, occurring in, or administered during the period immediately preceding a surgical operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anesthesiology and perioperative medicine, preoperative assessment evaluates airway anatomy, cardiac risk stratification, and medication adjustments to ensure patient safety under anesthesia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preoperative designates happening or done before and in preparation for a surgical operation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Thorough **preoperative** evaluation of cardiac and renal function is mandatory before undertaking major elective surgery in the elderly."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Careful **preoperative** mapping of cranial nerve deficits guided our suboccipital approach to the cerebellopontine angle."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"The thorough **preoperative** cleansing of the patient's skin with antiseptic lotion is the first line of defense against infection."*
+

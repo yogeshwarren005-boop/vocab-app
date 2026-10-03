@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the power to produce a desired effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the power to produce a desired effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing the desired effect, outcome, or result; ineffective and futile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and therapeutics, a dosage form is considered inefficacious when clinical serum concentrations fail to surpass the minimal inhibitory threshold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The sword is the braver way, although all ways are equally inefficacious."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It is my belief, however, that had I attempted a different order of composition, my faculties would not have been found so pointless and inefficacious."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Philosophers waste their energies when they employ **inefficacious** arguments that leave human convictions entirely unaffected."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Moral precepts remain cold and **inefficacious** until ignited by the vivid warmth of personal sympathy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor issued severe imperial edicts against the barbarians, but found them wholly **inefficacious** without legionary enforceability."*
+

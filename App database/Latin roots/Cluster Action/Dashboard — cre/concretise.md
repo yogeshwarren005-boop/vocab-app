@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become specific.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become specific.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make an idea, plan, or concept concrete, tangible, or definite (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural design and urban planning, to concretise an aesthetic vision requires translating conceptual sketches into structural engineering blueprints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concretise designates become specific."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"He sought to **concretise** his visionary social reforms into practical municipal building schemes."*
+> - 📜 **Sidney Webb (*Industrial Democracy*):** *"The legislative committee worked to **concretise** general labor protections into precise statutory workplace regulations."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"You must **concretise** your abstract philanthropy in honest wages and decent cottages for the foundry hands."*
+

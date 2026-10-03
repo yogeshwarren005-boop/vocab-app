@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The imputation of blame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The imputation of blame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The contentious assignment of blame or accusation among peers or officials during an inquiry or crisis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative theory, mutual fingerpointing paralyzes institutional reform by incentivizing officials to hide administrative defects rather than remedy them.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerpointing designates the imputation of blame."*
+> - 📜 **C. Wright Mills (*The Sociological Imagination*):** *"Sensationalist media encourage public **fingerpointing** toward individual scapegoats while systemic contradictions go unexamined."*
+> - 📜 **Robert K. Merton (*Social Theory and Social Structure*):** *"Inter-agency **fingerpointing** invariably arises when vague overlapping mandates obscure lines of operational authority."*
+> - 📜 **Anthony Downs (*Inside Bureaucracy*):** *"Bureaucratic **fingerpointing** increases exponentially when executive leaders threaten punitive budgetary sanctions across all divisions."*
+

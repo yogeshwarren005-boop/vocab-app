@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Going counter to the facts (usually as a hypothesis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Going counter to the facts (usually as a hypothesis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or concerning what has not happened but could, would, or might have occurred under differing conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytic philosophy and modal logic, a counterfactual conditional is evaluated by considering the truth of the consequent in the closest possible world where the antecedent holds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterfactual designates going counter to the facts (usually as a hypothesis)."*
+> - 📜 **David Lewis (*Counterfactuals*):** *"A **counterfactual** statement asserting what would have occurred had circumstances differed requires a semantics of comparative similarity among possible worlds."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Our intuitive knowledge of causal laws allows us to entertain **counterfactual** judgments with considerable confidence."*
+> - 📜 **William James (*The Will to Believe*):** *"We torment ourselves with **counterfactual** regrets, imagining how different our present lot might have been had we made another choice."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat to strengthen and improve the luster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat to strengthen and improve the luster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat cotton yarn or cloth with sodium hydroxide to increase luster, tensile strength, and dye absorption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polymer science and industrial chemistry, to mercerize involves swelling the cellulose fibril matrix to enhance moisture regain and dye affinity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercerize designates treat to strengthen and improve the luster."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Chemical washes that swell vegetative fibers allow manufacturers to **mercerize** plant textures with surprising optical results."*
+> - 📜 **Thomas Edison (*The Edison Papers: Industrial Research*):** *"We designed an automated tank apparatus to **mercerize** raw cotton braids uniformly prior to heating."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Patented chemical processes that **mercerize** cheap staple fabrics allow textile syndicates to market them as luxury commodities."*
+

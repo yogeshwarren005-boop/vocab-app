@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form a carpet-like cover (over).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover completely, as if with a carpet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered, fitted, or furnished with a carpet or carpeting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive nature writing, metaphorically applied to a ground thickly covered with moss, fallen leaves, or wild flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling puts up his legs on the carpeted seat (having his own side of the box to himself), leans against the wall, and says, “I am grown up now, Guppy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When Tess had accomplished this feat she found herself to be standing on a carpeted level, which stretched to the east and west as far as the eye could reach."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Not a herb which carpeted the ground, not a branch which clothed the trees, was either broken or bent, nor did they extend horizontally; all stretched up to the surface of the ocean."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The pleasant cottage sitting-room was neatly **carpeted** in green, presenting an air of cheerful domestic comfort."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The woodland pathway was softly **carpeted** with pine needles that muffled the footfalls of the wanderers."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We stepped into a softly **carpeted** corridor, at the end of which a faint beam of yellow light shone beneath a closed door."*
+

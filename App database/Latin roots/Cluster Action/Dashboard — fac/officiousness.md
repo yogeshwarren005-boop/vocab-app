@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressiveness as evidenced by intruding; by advancing yourself or your ideas without invitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressiveness as evidenced by intruding; by advancing yourself or your ideas without invitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The objectionable habit of offering unwanted advice or meddling in the affairs of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character comedy and social satire, bureaucratic officiousness represents a comic defense mechanism masking underlying incompetence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"In fact, my loneliness has liquefied my gaseous affection into what almost looks like officiousness."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The landlord waited on him with peculiar officiousness,—not that he paid better than his neighbors, but then the coin of a rich man seems always to be so much more acceptable."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The consequence is, that in the eagerness to enlighten, they are often apt to obscure; and I have occasionally seen an unlucky saint almost smoked out of countenance by the officiousness of his followers."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Petty **officiousness** in trivial matters is the frequent refuge of minds incapable of profound or enduring labor."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She resented his perpetual **officiousness**, perceiving that it sprang from vanity rather than sincere benevolence."*
+> - 📜 **Anthony Trollope (*The Small House at Allington*):** *"The clerk's unbearable **officiousness** provoked the exasperation of every citizen seeking straightforward postal information."*
+

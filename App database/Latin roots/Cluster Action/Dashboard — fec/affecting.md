@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have an effect upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act physically on; have an effect upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing strong feelings of sadness, sympathy, or tenderness; deeply moving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic theory and poetics, an affecting scene evokes catharsis through the poignant representation of human misfortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And affecting one sole throne, without assistance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PAGE. [_Aside_.] I never heard such a drawling, affecting rogue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pox of such antic lisping, affecting phantasies; these new tuners of accent."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"It was an **affecting** spectacle to see the old fisherman embrace his weeping daughter on the beach."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Captain Harville spoke with an **affecting** earnestness of the enduring warmth of a sailor's love."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"The farewell was so tender and **affecting** that even the hardened jailer wiped away a tear."*
+

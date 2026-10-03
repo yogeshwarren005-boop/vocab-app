@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advancing in amount or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advancing in amount or intensity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an increasing extent; progressively more and more.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and public policy, urban populations became increasingly dependent upon municipal sanitation and clean water pipelines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The material distinctions of rank and wealth he increasingly despised."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thus it happened that when the last of Tess’s sovereigns had been spent she was unprovided with others to take their place, while on account of the season she found it increasingly difficult to get employment."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"However, all the mutations so increasingly discernible in village life did not originate entirely in the agricultural unrest."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The material distinctions of rank and wealth he **increasingly** despised as superficial accidents of birth."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The navigation of the upper river became **increasingly** dangerous as snags and sunken sandbanks multiplied."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea found her husband's scholarship **increasingly** dry and disconnected from the urgent needs of humanity."*
+

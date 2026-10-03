@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eliminate from the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eliminate from the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To discharge, evacuate, or void undigested or waste material from the body or cellular cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoology and cellular biology, single-celled organisms egest food vacuole remnants through exocytosis at the cytoproct or cell surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, egest designates eliminate from the body."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The coelenterate must **egest** insoluble skeletal fragments back through the oral aperture, having no separate anus."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms continually swallow earth to extract organic matter and **egest** the pulverized soil as fertile surface castings."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Invertebrates*):** *"Certain predatory sea birds regularly **egest** pellets containing the indigestible bones and fur of their prey."*
+

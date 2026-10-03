@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who decorates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who decorates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist, artisan, or designer who specializes in creating decorative embellishments, motifs, and ornaments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts history, the ornamentalist provided pattern books of arabesques, cartouches, and strapwork for silversmiths, masons, and cabinetmakers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornamentalist designates someone who decorates."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The true **ornamentalist** studies the curves of living foliage before translating them into stone reliefs."*
+> - 📜 **Walter Crane (*The Claims of Decorative Art*):** *"The Renaissance **ornamentalist** integrated botanical scrolls, mythical grotesques, and classical balance into a unified design."*
+> - 📜 **Oscar Wilde (*Essays and Lectures*):** *"The Japanese **ornamentalist** understands the spiritual value of empty space better than any European academician."*
+

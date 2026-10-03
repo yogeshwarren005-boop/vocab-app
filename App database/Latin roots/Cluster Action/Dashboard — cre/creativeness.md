@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to create.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to create.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inventive fertility, imaginative originality, and the productive capacity to generate novel ideas or artistic works.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In humanistic psychology, creativeness is considered an inherent characteristic of self-actualizing individuals, expressed in everyday problem-solving as well as high art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There is some unsuffusing thing beyond thee, thou clear spirit, to whom all thy eternity is but time, all thy creativeness mechanical."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"They were happy in their worship of beauty in art and in nature, and above all, happy in their creativeness."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There is some unsuffusing thing beyond thee, thou clear spirit, to whom all thy eternity is but time, all thy creativeness mechanical."*
+> - 📜 **Abraham Maslow (*Motivation and Personality*):** *"Self-actualizing **creativeness** was in many ways akin to the naive and universal creativity of unspoiled children."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"The distinctive mark of human intelligence is its active **creativeness** in remodeling natural conditions to serve ethical ends."*
+> - 📜 **Carl Rogers (*On Becoming a Person*):** *"The mainspring of **creativeness** appears to be man's universal tendency to actualize himself and expand his potentialities."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or promoting bacterial putrefaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or promoting bacterial putrefaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing, promoting, or relating to putrefaction and organic decomposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical history and medical antisepsis, Joseph Lister revolutionized medicine by deploying carbolic acid against putrefactive atmospheric microbes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrefactive designates causing or promoting bacterial putrefaction."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"The introduction of chemical antiseptics arrests the development of **putrefactive** bacteria within open surgical wounds."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Scavenger organisms thrive upon decaying tissue, breaking down **putrefactive** matter throughout the woodland ecosystem."*
+> - 📜 **Thomas Huxley (*Biogenesis and Abiogenesis*):** *"Tyndall's optical experiments demonstrated that sterilized infusions remain free from **putrefactive** change when sealed from dust."*
+

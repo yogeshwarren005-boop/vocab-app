@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a meridian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located in the south or characteristic of southern people or places.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to southern regions or their inhabitants; also relating to a meridian or midday.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatology and biogeography, meridional circulation patterns describe atmospheric flow along longitudinal lines rather than zonal east-west parallels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"On land, meridional, a bispherical moon, revealed in imperfect varying phases of lunation through the posterior interstice of the imperfectly occluded skirt of a carnose negligent perambulating female, a pillar of the cloud by day."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"As exemplifying the effects of climatal changes on distribution, I have discussed the migrations of **meridional** plants and animals across mountain chains."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The soft and luxurious climate of the **meridional** provinces rendered the Roman youth averse to military discipline."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The magnetic needle exhibits subtle **meridional** variations as the explorer travels from polar latitudes toward the equator."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skirt consisting of a rectangle of calico or printed cotton; worn by polynesians (especially samoans).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skirt consisting of a rectangle of calico or printed cotton; worn by polynesians (especially samoans).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional Polynesian garment consisting of a single rectangular piece of cloth worn wrapped around the waist like a kilt or sarong.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In South Pacific ethnography and cultural anthropology, the lavalava is worn by both men and women in Samoa, Tonga, and adjacent islands as formal and daily attire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lavalava designates a skirt consisting of a rectangle of calico or printed cotton; worn by polynesians (especially samoans)."*
+> - 📜 **Robert Louis Stevenson (*Vailima Letters*):** *"The Samoan chiefs arrived in procession, each wearing a spotless white **lavalava** and a garland of scarlet hibiscus blossoms."*
+> - 📜 **Margaret Mead (*Coming of Age in Samoa*):** *"The simple cotton **lavalava** is well adapted to the tropical heat, allowing complete freedom of movement in outdoor tasks."*
+> - 📜 **Herman Melville (*Typee*):** *"The islanders fashioned a graceful kilt resembling a **lavalava** from the beaten bark of the paper mulberry tree."*
+

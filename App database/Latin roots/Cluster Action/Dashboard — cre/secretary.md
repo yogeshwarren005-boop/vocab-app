@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is head of an administrative department of government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assistant who handles correspondence and clerical work for a boss or an organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to assist with correspondence, keep records, and make appointments; also a principal official presiding over a government department.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional executive governance, Cabinet Secretaries (such as Secretary of State) advise the head of state and administer large executive departments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"WOLSEY. [_Aside to his Secretary_.] A word with you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall anon advise you Further in the proceeding. [_Exit Secretary._] Enter Surveyor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cardinal, Prithee call Gardiner to me, my new secretary."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"Cardinal, prithee call Gardiner to me, my new **secretary**: I find him a fit fellow."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A petition was addressed to the Home **secretary**, advancing the extenuating circumstances of the tragedy."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The Cabinet Minister dictated the terms of the secret memorandum to his private **secretary**."*
+

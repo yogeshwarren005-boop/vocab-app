@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving reward or praise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving reward or praise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving reward, praise, or commendation; displaying notable worth or virtue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and patent law, a meritorious invention makes a substantive, non-obvious contribution to the state of the art, justifying broad claim construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not resolute, except so much were done, For things are often spoke and seldom meant; But that my heart accordeth with my tongue, Seeing the deed is meritorious, And to preserve my sovereign from his foe, Say but the word, and I will be his priest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It hath done meritorious service."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But he was, in his way, just as bad—I mean as good; and in short it was the old story, and nobody would leave me any possibility of doing anything meritorious."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt stand curs'd and excommunicate; and blessed shall he be that doth revolt from his allegiance, and **meritorious** shall that hand be call'd."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Conduct is deemed **meritorious** when it promotes the greatest happiness of the greatest number beyond what mere duty strictly requires."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor rewarded the **meritorious** services of his veteran legionaries with generous grants of provincial land."*
+

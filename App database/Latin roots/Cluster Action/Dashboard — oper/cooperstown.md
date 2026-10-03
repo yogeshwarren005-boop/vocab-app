@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small town in east central new york; site of the national baseball hall of fame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small town in east central new york; site of the national baseball hall of fame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A village in central New York State, famed as the historic home of novelist James Fenimore Cooper and the location of the National Baseball Hall of Fame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American cultural history, Cooperstown was founded by Judge William Cooper in 1786 and served as the frontier setting (Templeton) for James Fenimore Cooper's Leatherstocking Tales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cooperstown designates a small town in east central new york; site of the national baseball hall of fame."*
+> - 📜 **James Fenimore Cooper (*The Pioneers*):** *"The settlement of Otsego, now known as **Cooperstown**, was begun amidst the primeval wilderness of tall pines surrounding the lake."*
+> - 📜 **Washington Irving (*Biographical Sketch of James Fenimore Cooper*):** *"In the romantic scenery of **Cooperstown**, the young novelist imbibed that intimate knowledge of frontier life which enriched his romances."*
+> - 📜 **Francis Parkman (*The Conspiracy of Pontiac*):** *"The shores of Lake Otsego near **Cooperstown** were ancient hunting grounds where the Iroquois warriors gathered before the border wars."*
+

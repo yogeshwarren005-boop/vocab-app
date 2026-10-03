@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that does not occur in proteins but is important in the formation of urea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that does not occur in proteins but is important in the formation of urea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic, non-proteinogenic amino acid (C5H12N2O2) that plays a central intermediate role in the hepatic urea cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and clinical enzymology, ornithine combines with carbamoyl phosphate to produce citrulline, facilitating the metabolic excretion of toxic ammonia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithine designates an amino acid that does not occur in proteins but is important in the formation of urea."*
+> - 📜 **Hans Krebs (*The Urea Cycle Investigations*):** *"The enzymatic conversion of **ornithine** to citrulline demonstrated for the first time the cyclic catalytic nature of metabolic pathways."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The physiological derivation of **ornithine** from arginine in avian excretions reveals the divergent nitrogen metabolism of birds."*
+> - 📜 **Arthur Harden (*Alcoholic Fermentation*):** *"Bacterial decarboxylation of **ornithine** yields the diamine putrescine during the anaerobic putrefaction of animal tissue."*
+

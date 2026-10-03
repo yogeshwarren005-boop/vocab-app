@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make official.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make official.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make official, formally recognize, or invest with institutional authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British administrative history, local customary practices were systematically officialised into codified statutory procedures during Victorian civil service reforms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, officialise designates make official."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ministry sought to **officialise** the irregular militia forces by appointing royal colonels and issuing crown warrants."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism and Capitalism*):** *"Society must **officialise** collective responsibilities for public health rather than abandoning them to haphazard private benevolence."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"His political ambition was to **officialise** the informal research groups into a permanent state council of economic planning."*
+

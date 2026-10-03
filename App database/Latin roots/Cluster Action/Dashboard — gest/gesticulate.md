@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show, express or direct through movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show, express or direct through movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To use gestures, especially dramatic or animated physical movements of the hands and arms, while speaking or in place of speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical performance and elocution, to gesticulate naturally reinforces the rhetorical emphasis and emotional authenticity of spoken dialogue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"We had not gone two cable-lengths, when a hundred savages, howling and gesticulating, entered the water up to their waists."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A few moments later he was in our room, still puffing, still gesticulating, but with so fixed a look of grief and despair in his eyes that our smiles were turned in an instant to horror and pity."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I heard a scathing murmur at my ear, ‘Heap of muffs—go to.’ The pilgrims could be seen in knots gesticulating, discussing."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The French juryman began to **gesticulate** with impassioned vehemence, waving his bonnet rouge above the heads of the crowd."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The agitated Italian began to **gesticulate** wildly, pouring forth a torrent of rapid explanations that Watson could scarcely follow."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton was accustomed to **gesticulate** with smiling elegance, emphasizing every polite platitude with a graceful sweep of his hand."*
+

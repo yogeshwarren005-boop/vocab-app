@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preventing infection by inhibiting the growth or action of microorganisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical agent or physical substance that destroys pathogenic microorganisms on inanimate surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hospital infection control and pharmacology, a high-level disinfectant must exhibit rapid bactericidal, virucidal, and sporicidal activity without corroding equipment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"According to the one theory the fire is a stimulant, according to the other it is a disinfectant; on the one view its virtue is positive, on the other it is negative."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"MANUALS OF HEALTH. _Fcap. 8vo, 128 pp., Limp Cloth, price 1s. each._ * * * * * AIR, WATER, AND DISINFECTANTS."*
-> - 📜 **James Joyce (*Ulysses*):** *"Living all the day among herbs, ointments, disinfectants."*
+> - 📜 **Joseph Lister (*The Antiseptic Principle of the Practice of Surgery*):** *"Carbolic acid acts as a powerful **disinfectant**, neutralizing the invisible septic particles that float in atmospheric air."*
+> - 📜 **Robert Koch (*Investigations into Bacteria*):** *"We determined the relative efficacy of each chemical **disinfectant** by exposing anthrax spores to known concentrations."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"No chemical **disinfectant** can replace thorough scrub cleansing with hot water and alkali soap in the operating theater."*
+

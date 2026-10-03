@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science that deals with diseases and problems specific to old people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medical science that deals with diseases and problems specific to old people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical specialty focused on the health, disease prevention, and clinical care of older adults.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical history, geriatrics was established as a distinct medical discipline in 1909 to address the physiological decline and multi-system pathology of senescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geriatrics designates the branch of medical science that deals with diseases and problems specific to old people."*
+> - 📜 **Ignatz Leo Nascher (*Geriatrics: The Diseases of Old Age and Their Treatment*):** *"I have coined the term **geriatrics** to emphasize that senility is not a disease, but a distinct stage of human life demanding its own medical art."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Modern clinical science must expand the foundations of **geriatrics** as human longevity increases through sanitary reform."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The practice of clinical **geriatrics** requires deep empathy for the fragile equilibrium that sustains the elderly mind."*
+

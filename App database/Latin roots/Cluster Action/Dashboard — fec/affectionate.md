@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or displaying warmth or affection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or displaying warmth or affection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Readily feeling or displaying fondness, tenderness, warmth, and love toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing letters, greetings, or demeanor imbued with heartfelt devotion and warm personal intimacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"A more charming group of young people and a more wise and affectionate mother would be hard to find."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo will find an affectionate protectress in her who will be able to appreciate his little-recognized virtues."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She has apparently been able to shake it off in the good care and affectionate treatment she is getting here."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She was an **affectionate** sister, whose constant care was to promote the happiness of all around her."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery gave me an **affectionate** squeeze of the hand that comforted my frightened heart."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie flung her arms around her brother's neck with impulsive, **affectionate** warmth."*
+

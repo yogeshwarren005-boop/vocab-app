@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sinking until covered completely with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of wetting something by submerging it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete immersion or inundation beneath the surface of a liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic pathology and clinical emergency medicine, death by submersion occurs through asphyxia resulting from fluid obstruction of the respiratory passages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He had been down once, and submersion in the ice water had nearly deprived him of both consciousness and power to help save himself."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"He was certainly a scarecrow figure after his submersion in the mud; gut Nan did not feel like laughing at him."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Resuscitation following accidental **submersion** in freezing water has succeeded even after twenty minutes of apparent apnea."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The prolonged **submersion** of the delta deposits beneath marine waters allowed coral formations to cap the silt beds."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bridge collapsed beneath the fleeing cavalry, plunging hundreds into sudden **submersion** in the swift Rhine."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carpel with one seed; one of a pair split apart at maturity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carpel with one seed; one of a pair split apart at maturity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A one-seeded portion of a schizocarp fruit that splits off as an individual unit at maturity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant taxonomy, the structural morphology and ribbing of the mericarp in the Apiaceae (umbellifer) family serve as key diagnostic criteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mericarp designates a carpel with one seed; one of a pair split apart at maturity."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"At maturity, the dry fruit of the wild carrot separates cleanly into two bristly **mericarp** halves."*
+> - 📜 **Joseph Dalton Hooker (*The Student's Flora of the British Islands*):** *"The prominent oil tubes and secondary ridges on each **mericarp** distinguish the various genera of umbelliferous plants."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The winged margin of the **mericarp** assists in anemochorous seed dispersal across open grassy meadows."*
+

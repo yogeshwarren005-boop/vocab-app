@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of eritrea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of eritrea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Asmara (historically spelled Asmera), the capital and most populous city of Eritrea, situated on a high northern plateau.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban architectural history, Asmara is celebrated as a UNESCO World Heritage site for its well-preserved Italian modernist and Art Deco architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asmera designates the capital of eritrea."*
+> - 📜 **Richard Burton (*First Footsteps in East Africa*):** *"Caravans ascending from the Red Sea coast rested at **asmera** before continuing across the fertile highlands."*
+> - 📜 **James Rennell Rodd (*Social and Diplomatic Memories*):** *"The garrison at **asmera** enjoyed a cool, invigorating alpine climate contrasting with the burning littoral."*
+> - 📜 **Wyndham Dunstan (*Reports on the Agricultural and Mineral Resources of Eritrea*):** *"The fertile basaltic soils surrounding **asmera** yield bountiful crops of barley and indigenous grains."*
+

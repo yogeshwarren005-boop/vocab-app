@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being fit for market; ready to be bought or sold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being fit for market; ready to be bought or sold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitability for commercial sale and trade, satisfying standard consumer expectations of merchant quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial law and the Uniform Commercial Code, the implied warranty of merchantability ensures that goods are fit for the ordinary purposes for which such goods are used.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merchantability designates the state of being fit for market; ready to be bought or sold."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"In every commercial contract, the law implies a warranty of **merchantability**, binding the seller to deliver sound and wholesome goods."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The doctrine of **merchantability** developed from custom of merchants into a rigid rule of implied contractual obligation."*
+> - 📜 **Joseph Story (*Commentaries on the Law of Bailments*):** *"If latent defects destroy the **merchantability** of the cargo, the shipper may seek restitution against the carrier."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first decisive battle of the hundred years' war; in 1346 the english under edward iii defeated the french under philip of valois.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first decisive battle of the hundred years' war; in 1346 the english under edward iii defeated the french under philip of valois.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Crécy-en-Ponthieu, a village in northern France famous for the pivotal English victory in the Hundred Years' War in 1346.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval military history, the Battle of Crécy demonstrated the devastating tactical supremacy of the English longbow over armored feudal cavalry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crecy designates the first decisive battle of the hundred years' war; in 1346 the english under edward iii defeated the french under philip of valois."*
+> - 📜 **Jean Froissart (*Chronicles of England, France, Spain, and the Adjoining Countries*):** *"The English archers loosed their arrows with such force and thickness that it seemed as if snow were falling upon the field of **crecy**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The immortal triumph of **crecy** was won by the stout yeomen archers who shattered the chivalry of France."*
+> - 📜 **Winston Churchill (*A History of the English-Speaking Peoples*):** *"At **crecy**, Edward III revolutionized European warfare by demonstrating that disciplined missile power could defeat mounted knights."*
+

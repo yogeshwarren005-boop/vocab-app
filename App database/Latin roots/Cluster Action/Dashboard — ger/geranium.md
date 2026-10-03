@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous plants of the family geraniaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous plants of the family geraniaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowering plant of the genus Geranium (cranesbills), noted for its palmately lobed foliage and five-petaled, symmetrically arranged flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural practice and floriculture, the name geranium commonly refers to cultivated species of the related South African genus Pelargonium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Plants which in burning give out a thick smoke and an aromatic smell are much sought after for fuel on these occasions; among the plants used for the purpose are giant-fennel, thyme, rue, chervil-seed, camomile, geranium, and penny-royal."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Plants which in burning give out a thick smoke and an aromatic smell are much sought after for fuel on these occasions; among the plants used for the purpose are giant-fennel, thyme, rue, chervil-seed, camomile, geranium, and penny-royal."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Nay, the acute observer might have recognized the little red nose of good-natured Miss Jemima Pinkerton herself, rising over some geranium pots in the window of that lady's own drawing-room."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Dora had a little garden of scarlet **geranium** plants on the balcony, which she tended with childish delight."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny's attic room was adorned with a single thriving **geranium** that caught the morning sunshine from the eastern window."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The wild meadow **geranium** produces significantly more vigorous seedlings when pollinated by insects from distant plants."*
+

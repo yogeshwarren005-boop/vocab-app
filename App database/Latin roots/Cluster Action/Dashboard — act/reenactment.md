@@ -42,8 +42,8 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theatrical, ceremonial, or educational restaging of a historical battle, trial, or cultural event by participants wearing authentic period attire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and statutory interpretation, the reenactment canon dictates that when a legislature re-adopts existing statutory language without alteration, it implicitly adopts settled judicial interpretations of that text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of performing, recreating, or staging a past event or historical incident.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and statutory construction, the reenactment canon presumes that when a legislature reenacts a statute without material change, it adopts the judicial interpretations previously given to it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The public games included a spectacular naval **reenactment** of the victory at Actium upon an artificial lake in the Campus Martius."*

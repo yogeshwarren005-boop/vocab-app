@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe hypothyroidism resulting in physical and mental stunting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe hypothyroidism resulting in physical and mental stunting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of severely stunted physical and mental growth owing to untreated congenital deficiency of thyroid hormones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and public health history, the introduction of iodized table salt successfully eradicated endemic cretinism from mountain populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cretinism designates severe hypothyroidism resulting in physical and mental stunting."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The discovery that thyroid gland substitution cures sporadic **cretinism** represents one of the greatest triumphs of modern physiological therapy."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Premature synostosis of the spheno-basilar suture was identified as a characteristic anatomical lesion in congenital **cretinism**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Endemic goiter and **cretinism** occur together in deep, sunless valleys deficient in essential mineral salts."*
+

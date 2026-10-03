@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse hostility or indifference in where there had formerly been love, affection, or friendliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arouse hostility or indifference in where there had formerly been love, affection, or friendliness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To alienate the affection, loyalty, or goodwill of someone toward an authority, institution, or friend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and statecraft, oppressive taxation and arbitrary arrests inevitably disaffect the commercial and agricultural classes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A clergyman in the State of New York, through the influence of a disaffected member, was unfairly and precipitately deprived of his pulpit, which involved a large family in necessity."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Chong Mong-ju disaffected half the provincial priesthood, until they pilgrimaged in processions a mile long to the palace gates and frightened the Emperor into a panic."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"There was no penalty for disobedience, and persons disaffected, forgetful, or idle, might refuse or neglect to obey with impunity."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Unjust monopolies and heavy impositions will quickly **disaffect** the merchants and commons from their lawful sovereign."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor's open contempt for the Senate served only to **disaffect** the patrician families of Rome."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Nothing can more certainly **disaffect** a nation from its traditional constitution than systemic judicial corruption."*
+

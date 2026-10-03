@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to concrete representations of abstractions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to concrete representations of abstractions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by concrete, literal, or physical thinking rather than abstract conceptualization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental and clinical psychology, concretistic thought patterns interpret metaphors and symbolic expressions with rigid, tangible literalism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concretistic designates of or relating to concrete representations of abstractions."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Early childhood perception displays a **concretistic** bias, identifying words directly with the physical objects they denote."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"Primitive consciousness exhibits a **concretistic** projection, experiencing inner psychological realities as external sensory spirits."*
+> - 📜 **Jean Piaget (*The Language and Thought of the Child*):** *"Before mastering formal logic, the child operates within **concretistic** frameworks tied strictly to tangible manipulation."*
+

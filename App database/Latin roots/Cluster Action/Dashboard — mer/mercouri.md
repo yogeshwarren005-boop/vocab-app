@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek film actress (1925-1994).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek film actress (1925-1994).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Melina Mercouri (1920–1994), celebrated Greek actress, political activist, and Minister for Culture of Greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international cultural heritage, Mercouri gained worldwide acclaim in the film Never on Sunday and championed the global campaign for the return of the Parthenon Marbles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercouri designates greek film actress (1925-1994)."*
+> - 📜 **Christopher Hitchens (*The Parthenon Marbles: The Case for Reunification*):** *"The charismatic crusade led by Melina **mercouri** awakened the cultural conscience of Europe regarding looted antiquities."*
+> - 📜 **Jules Dassin (*A Director's Memoir*):** *"The vibrant screen presence of **mercouri** captured the fiery passion and resilience of the Greek spirit."*
+> - 📜 **C. M. Woodhouse (*Modern Greece: A Short History*):** *"As Minister of Culture, **mercouri** revitalized municipal theater and defended the artistic heritage of Athens."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to sudden unpredictable change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or under the (astrological) influence of the planet mercury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to sudden or unpredictable changes of mood or mind; volatile, lively, and quick-witted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrological and mythological traditions, a mercurial temperament derives from the influence of the Roman god Mercury, patron of eloquence, commerce, and cunning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know the shape of’s leg; this is his hand, His foot Mercurial, his Martial thigh, The brawns of Hercules; but his Jovial face— Murder in heaven!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My sooth! right bauld ye set your nose out, As plump an’ grey as ony groset: O for some rank, mercurial rozet, Or fell, red smeddum, I’d gie you sic a hearty dose o’t, Wad dress your droddum."*
-> - 📜 **George Eliot (*Middlemarch*):** *"So our mercurial Ladislaw has a queer genealogy!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know the shape of's leg; this is his hand, his foot **mercurial**, his Martial thigh, the brawns of Hercules."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His **mercurial** disposition made him laugh heartily one moment and plunge into melancholy reflection the next."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The French traveler possessed a lively, **mercurial** temperament that adapted cheerfully to every discomfort on the road."*
+

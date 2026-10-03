@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an official role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With official authorization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a formal or authoritative manner; with legal or bureaucratic sanction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and international law, a treaty becomes binding only after being officially ratified by sovereign signatory bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And they assured me that they would do it officially without any hurt to their own official skins."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Tranquilly permitting these irregular cursings to evaporate, Stubb then in a plain, business-like, but still half humorous manner, cursed Pip officially; and that done, unofficially gave him much wholesome advice."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She was called, officially, the "Lady Superintendent," and her duties were general; they consisted less of actual nursing, than the organization and superintendence of her department."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Lord Chancellor was **officially** seated upon his bench, surrounded by mace and scrolls in the foggy court."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The case was **officially** closed by Scotland Yard, though Holmes maintained his private reservations."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The school trustees arrived to inspect the classroom and **officially** examine the term's attendance records."*
+

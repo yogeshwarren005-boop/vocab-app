@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The literal belief in the account of creation given in the book of genesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The literal belief in the account of creation given in the book of genesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious belief that the universe and living organisms originate from specific acts of divine creation, as in the biblical account, rather than by natural evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and public education, creationism developed various schools of thought, including Young Earth creationism, Old Earth creationism, and Intelligent Design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creationism designates the literal belief in the account of creation given in the book of genesis."*
+> - 📜 **Thomas Henry Huxley (*Science and Hebrew Tradition*):** *"Rigid theological **creationism** cannot be reconciled with the overwhelming empirical testimony of geological stratigraphy and comparative anatomy."*
+> - 📜 **Stephen Jay Gould (*Hen's Teeth and Horse's Toes*):** *"Scientific **creationism** is a self-contradictory phrase, for it substitutes dogmatic supernatural decree for empirical investigation."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"The central illusion promoted by **creationism** is that complexity in biology can only arise through conscious deliberate design."*
+

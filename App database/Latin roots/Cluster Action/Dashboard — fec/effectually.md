@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an effectual manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an effectual manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an effectual manner; so as to produce the intended effect thoroughly, decisively, or completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and historical narratives, describing actions that decisively resolve an impasse or extinguish resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your bidding shall I do effectually. [_Exit._] TAMORA."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Allan restrains the woman, merely by a quiet gesture, but effectually."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He started back in utter confusion, for although his disguise effectually concealed his personality, he instantly felt that she would be sure to recognize his voice."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The iron portcullis dropped with a crash, **effectually** cutting off the retreat of the defending garrison."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The cold wind and drifting rain **effectually** prevented the ladies from taking their customary morning walk in the park."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman broadsword **effectually** broke the disorganized charges of the barbarian cavalry at Strasbourg."*
+

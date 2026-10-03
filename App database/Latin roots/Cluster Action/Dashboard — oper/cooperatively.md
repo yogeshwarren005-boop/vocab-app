@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In close cooperation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In close cooperation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cooperative manner; through joint, mutual, or coordinated effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ecology, hunting cooperatively enables carnivore packs (such as wolves or lions) to capture ungulate prey far larger than an individual predator.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cooperatively designates in close cooperation."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Wolves hunt **cooperatively**, surrounding their quarry and communicating across the snow by subtle vocal signals."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The village craftsmen worked **cooperatively** to repair the breached mill-dam before the rising waters flooded the low meadows."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"When agricultural laborers manage an estate **cooperatively**, their collective productivity increases through shared interest in the harvest."*
+

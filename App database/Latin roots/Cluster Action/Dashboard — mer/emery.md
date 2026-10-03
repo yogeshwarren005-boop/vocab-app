@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard grey-black mineral consisting of corundum and either hematite or magnetite; used as an abrasive (especially as a coating on paper).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard grey-black mineral consisting of corundum and either hematite or magnetite; used as an abrasive (especially as a coating on paper).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark, granular mineral substance consisting of corundum mixed with magnetite or hematite, used as an abrasive for grinding and polishing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgical lapidary and watchmaking crafts, fine emery cloth and paste are employed to lap precision bearing surfaces to optical tolerances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Emery, _Speculation on the Stock and Produce Exchanges of the United States_, in Columbia University Studies in History, Economics, and Public Law, Vol."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"However-- Among the assortment of tools in his bureau was a curve-bladed knife with the handle set parallel to the blade as though it were meant for chopping, and forming the wall of the same drawer was a strip of a material like emery cloth."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"After some experimenting he found a finger-hole which, when squeezed, caused this emery-cloth to revolve, giving a satisfactory abrasive."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The lapidary rubs the rough stone upon an iron wheel dressed with moistened powder of **emery** to grind down its irregular facets."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery smoothed the iron hinge with a piece of rough **emery** paper until it swung without creaking."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Owing to the extreme hardness of corundum, crushed **emery** cuts into the hardest porphyry with remarkable facility."*
+

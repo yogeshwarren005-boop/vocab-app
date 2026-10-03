@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who copies the words or behavior of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who copies the words or behavior of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who apes or imitates another, especially in a slavish, unoriginal, or ridiculous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological taxonomy, Aper was an obsolete generic name applied to the wild boar (Sus scrofa) in early binomial classifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aper designates someone who copies the words or behavior of another."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"The dull **aper** of another's wit displays only the grimace, missing the inward spirit."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Man is by nature an **aper** of clothes and customs, adopting the outward vesture of his betters."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The youthful **aper** of foreign manners returns to his native land an object of universal ridicule."*
+

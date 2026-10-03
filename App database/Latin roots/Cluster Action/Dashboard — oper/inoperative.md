@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not working or taking effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not working or taking effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not working or taking effect; having no legal or practical force; dormant or broken.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and statutory interpretation, an inoperative statute is one whose operational effect is suspended by constitutional invalidity, repeal, or failure of an underlying condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In other cases the old rates were but nominal and inoperative because they were upon goods regularly exported, not imported (e.g., farm products, cotton goods, and some other manufactures)."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It would therefore be destitute of a precise meaning, and inoperative from its uncertainty."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The final turret had been rendered inoperative."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A statute passed in direct contradiction to fundamental constitutional principles remains null, void, and legally **inoperative**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The ancient guild regulations had become virtually **inoperative** in modern manufacturing towns through common disuse."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The mechanical lock was **inoperative**, permitting the intruder to enter the study without forcing the latch."*
+

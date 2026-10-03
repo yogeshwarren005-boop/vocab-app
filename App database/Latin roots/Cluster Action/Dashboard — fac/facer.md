@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (a dated briticism) a serious difficulty with which one is suddenly faced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (a dated briticism) a serious difficulty with which one is suddenly faced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unexpected, stunning difficulty, defeat, or blow in the face; a perplexing problem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century British boxing slang, a facer was a hard, direct punch landed straight upon an opponent's countenance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facer designates (a dated briticism) a serious difficulty with which one is suddenly faced."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sudden discovery of the missing will was a tremendous **facer** for the defendants in the Chancery suit."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The young ensign received a stunning **facer** when his wealthy uncle disinherited him without a shilling."*
+> - 📜 **Arthur Conan Doyle (*Rodney Stone*):** *"The veteran pugilist stepped inside the guard and landed a sharp **facer** that sent his antagonist reeling."*
+

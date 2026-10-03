@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving reward or praise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving reward or praise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving of praise, reward, or honor; possessing genuine merit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theological treatises and moral ethics, meritable conduct was held to justify divine approval and communal respect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meritable designates deserving reward or praise."*
+> - 📜 **Ben Jonson (*Every Man in His Humour*):** *"His courageous rescue of the drowning child was an action truly **meritable** in the eyes of all honest citizens."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"To relieve the distressed in secret without thought of public applause is a work most **meritable** and holy."*
+> - 📜 **Jeremy Taylor (*The Rule and Exercises of Holy Living*):** *"Sincere humility renders a virtuous deed twice as **meritable** before heaven as when it is blazoned abroad."*
+

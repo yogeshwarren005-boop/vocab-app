@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without merit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without merit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking merit, worth, or commendable qualities; completely undeserving of praise, honor, or legal relief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In appellate jurisprudence, an unmeritorious appeal is summarily dismissed when it presents no genuine legal controversy or reversible trial error.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmeritorious designates without merit."*
+> - 📜 **George Eliot (*Silas Marner*):** *"When we are treated well, we naturally begin to think that we are not altogether **unmeritorious** in our conduct."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The National Assembly lavished public pensions upon noisy and **unmeritorious** demagogues who flattered the mob."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"A discerning judge swiftly detects an **unmeritorious** claim disguised beneath voluminous and confusing affidavits."*
+

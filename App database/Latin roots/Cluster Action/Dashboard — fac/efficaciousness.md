@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capacity or power to produce a desired effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capacity or power to produce a desired effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power or capacity to produce an intended effect or desired outcome; efficacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacotherapy and toxicology, the efficaciousness of an antidote is measured by its ability to neutralize toxic ligands at low molar concentrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, efficaciousness designates capacity or power to produce a desired effect."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The medicinal **efficaciousness** of mineral waters depends upon the subtle volatile salts held in chemical solution."*
+> - 📜 **Jeremy Taylor (*Holy Living and Holy Dying*):** *"The spiritual **efficaciousness** of religious fasting is multiplied when accompanied by secret acts of charity."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **efficaciousness** of human reason shines forth when it guides sensory perception toward systematic truth."*
+

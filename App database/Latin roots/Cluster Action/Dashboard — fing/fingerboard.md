@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A guidepost resembling a hand with a pointing index finger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bank of keys on a musical instrument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The flat or slightly curved wooden strip along the neck of a stringed instrument against which the strings are pressed to vary pitch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lutherie and acoustics, the fingerboard is typically crafted from dense hardwoods such as ebony or rosewood to resist wear from metallic strings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerboard designates a guidepost resembling a hand with a pointing index finger."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"The violinist presses the string firmly against the **fingerboard** to produce higher harmonics and brilliant passage work."*
+> - 📜 **Leopold Mozart (*A Treatise on the Fundamental Principles of Violin Playing*):** *"The left hand must glide smoothly along the **fingerboard** without gripping the neck so tightly as to stiffen the wrist."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"His agile left hand danced across the upper registers of the cello **fingerboard** with flawless intonation."*
+

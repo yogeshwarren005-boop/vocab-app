@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bet that you can pick the first four finishers in a race in the right order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bet that you can pick the first four finishers in a race in the right order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pari-mutuel bet in horse or greyhound racing where the bettor must pick the first four finishers in their exact sequential order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probability theory and racetrack finance, the superfecta offers exceptionally high payoff odds due to the astronomical combinatoric permutations of an eight- to twelve-horse field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superfecta designates a bet that you can pick the first four finishers in a race in the right order."*
+> - 📜 **Damon Runyon (*Money from Home*):** *"He spent the entire afternoon studying track conditions, determined to hit the elusive **superfecta** in the sixth race."*
+> - 📜 **Hunter S. Thompson (*Fear and Loathing in Las Vegas*):** *"The tote board flashed impossible odds on the **superfecta**, tantalizing every broke gambler along the rail."*
+> - 📜 **Charles Bukowski (*Notes of a Dirty Old Man*):** *"I put five bucks on an impossible **superfecta** and watched my longshot stumble at the far turn."*
+

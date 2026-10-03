@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a creed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a creed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, based on, or resembling a creed or formal religious statement of faith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, credal orthodoxy defines the boundaries of doctrinal communion established by ecumenical church councils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, credal designates of or relating to a creed."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"The historical expansion of **credal** formularies was necessary to defend apostolic teaching against subtle heretical misinterpretations."*
+> - 📜 **Thomas Henry Huxley (*Science and Christian Tradition*):** *"The man of science rejects all **credal** infallibility, requiring empirical evidence for every proposition he accepts."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"Religious faith must not be confused with intellectual assent to rigid **credal** definitions formulated by patristic councils."*
+

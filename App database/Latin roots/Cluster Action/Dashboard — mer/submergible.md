@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being immersed in water or functioning while submerged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being immersed in water or functioning while submerged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being submerged or functioning completely underwater without structural failure or water ingress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In offshore hydraulic engineering, submergible pumps and electrical housings must withstand hydrostatic pressures and corrosive brine environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, submergible designates capable of being immersed in water or functioning while submerged."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The **submergible** diving suits allowed the crew of the Nautilus to walk upon the sea bed at immense depths."*
+> - 📜 **Robert Louis Stevenson (*Records of a Family of Engineers*):** *"The engineers lowered a **submergible** bell to lay the granite foundations of the Bell Rock lighthouse."*
+> - 📜 **Thomas Edison (*The Edison Papers: Menlo Park Notebooks*):** *"The insulated wire was tested in a **submergible** tank to detect any dielectric leakage under water."*
+

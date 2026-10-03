@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoology that studies birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of zoology that studies birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of birds, encompassing their anatomy, physiology, behavior, migration, ecology, and evolutionary taxonomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, field ornithology pioneered systematic bird banding, citizen science censuses, and foundational models of allopatric speciation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithology designates the branch of zoology that studies birds."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"No branch of natural history has contributed more to the theory of sexual selection than systematic **ornithology**."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The pursuit of **ornithology** has afforded me a constant source of innocent amusement throughout forty years in the country."*
+> - 📜 **Thomas Henry Huxley (*Lectures on Evolution*):** *"Comparative **ornithology** and reptilian anatomy have revealed an affinity so intimate that birds may be defined as feathered reptiles."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not merited or deserved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not merited.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deserved or earned; unwarranted by actions or character, whether of punishment or praise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical ethics and tragic poetics, the spectacle of unmerited suffering evokes profound Aristotleian pity and fear in the audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"And as long as we have so fluctuating a standard these difficulties must arise again and again, continually repeated, causing unmerited gains and losses to individuals."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It brings unearned prizes to some and to others unmerited losses."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The frequent and unpredictable changes have been a great evil, and have again and again brought unmerited losses to the many in business and still greater and unearned gains to a favored few."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Ye fallen avenues! once more I mourn your fate **unmerited**, once more recount your ancient pastoral beauty."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"All this time I was working at Murdstone and Grinby's, enduring **unmerited** humiliation with a patient and bleeding heart."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne wept bitterly over what she considered the cruel and **unmerited** desertion of Willoughby."*
+

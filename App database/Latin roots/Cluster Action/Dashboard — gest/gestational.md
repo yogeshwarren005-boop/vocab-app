@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to gestation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to gestation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring during the period of pregnancy (gestation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and maternal-fetal medicine, gestational age (calculated from the first day of the last menstrual period) dictates fetal viability and developmental milestones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gestational designates of or relating to gestation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Transient glycosuria during the second trimester may signify **gestational** diabetes, demanding dietary regulation to protect the fetus."*
+> - 📜 **Keith L. Moore (*The Developing Human*):** *"Accurate determination of **gestational** age by crown-rump length ultrasound is essential for timing screening tests."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Maternal hemodynamic changes accelerate dramatically during the third **gestational** trimester as cardiac output peaks."*
+

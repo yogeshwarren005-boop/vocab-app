@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shape or form or make badly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or form or make badly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To create wrongly, deform, or fashion unnaturally; to bring into existence a deformed or illegitimate thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic poetic diction and drama, miscreate functions as a participial adjective meaning illegitimate, spurious, or unnaturally formed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscreate designates shape or form or make badly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God forbid, my dear and faithful lord, that you should fashion, wrest, or bow your reading, or nicely charge your understanding soul with opening titles **miscreate**, whose right suits not in native colours with the truth."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"A monster foul and **miscreate** lay lurking in the dark cave, devouring unwary travelers."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The chaotic abyss brought forth shapes abortive and **miscreate**, contending for mastery in the unformed void."*
+

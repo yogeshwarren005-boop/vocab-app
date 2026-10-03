@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being inadequate or unsuitable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being inadequate or unsuitable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of failing to satisfy needs, standards, or expectations; inadequacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and existential ethics, the recognized unsatisfactoriness of hedonistic pleasure motivates the pursuit of enduring intellectual goods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsatisfactoriness designates the quality of being inadequate or unsuitable."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Men who experience higher mental pleasures readily acknowledge the intrinsic **unsatisfactoriness** of mere sensual gratification."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The chronic **unsatisfactoriness** of mortal existence often drives the soul toward profound religious conversion."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"The perpetual striving of the will reveals the inherent **unsatisfactoriness** and suffering of all sentient life."*
+

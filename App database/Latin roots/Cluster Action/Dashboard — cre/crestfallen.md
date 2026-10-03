@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought low in spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brought low in spirit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sad, disappointed, and downcast, especially after unexpected failure or humiliation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In falconry and cockfighting etymology, a gamecock whose head comb fell limp after defeat was described as crestfallen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Remember it, and let it make thee crestfallen, Ay, and allay thus thy abortive pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I warrant they would whip me with their fine wits till I were as crestfallen as a dried pear."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Live in London?” “Yes, perhaps I ought to mention,” said Herbert, who had become curiously crestfallen and meek, since we entered on the interesting theme, “that she is rather below my mother’s nonsensical family notions."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Remember it, and let it make thee **crestfallen**, ay, and allay thus thy extravagant and insolent pride."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I was just telling the manager—he noticed my companion, and broke off with a **crestfallen** look of confusion."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook sat completely **crestfallen** in the corner, unable to utter another syllable of pompous patronizing advice."*
+

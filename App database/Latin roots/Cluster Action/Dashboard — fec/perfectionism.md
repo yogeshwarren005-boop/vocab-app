@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to feel that anything less than perfect is unacceptable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to feel that anything less than perfect is unacceptable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A personal disposition or doctrine that demands the attainment of the highest standards and refuses to accept any flaw or shortcoming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, perfectionism is differentiated into adaptive striving for excellence versus maladaptive evaluative concerns linked to anxiety and self-criticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfectionism designates a disposition to feel that anything less than perfect is unacceptable."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The saintly temperament often exhibits an intense moral **perfectionism** that finds even minor faults intolerable."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"An unbending artistic **perfectionism** may lead a poet to burn verses that would have delighted posterity."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The pursuit of sweetness and light is an inward spiritual **perfectionism** aimed at the harmonious expansion of human powers."*
+

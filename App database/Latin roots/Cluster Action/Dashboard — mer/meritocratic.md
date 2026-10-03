@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a meritocracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a meritocracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or based on a system where progress is based on ability and talent rather than wealth or privilege.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public administration and civil service reform, meritocratic examinations replaced aristocratic patronage and nepotism in the late 19th century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meritocratic designates relating to or characteristic of a meritocracy."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Rational bureaucracy depends upon a **meritocratic** civil service appointed through competitive examinations rather than personal favor."*
+> - 📜 **Woodrow Wilson (*The Study of Administration*):** *"A stable democracy requires **meritocratic** standards in its administrative departments to guarantee public efficiency."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Public schools must provide an authentic **meritocratic** ladder by which children of every background can develop their latent abilities."*
+

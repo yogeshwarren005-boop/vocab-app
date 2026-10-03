@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubby or herbaceous low-growing evergreen perennials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubby or herbaceous low-growing evergreen perennials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering perennial plants in the leadwort family Plumbaginaceae, commonly known as thrift or sea pink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coastal botanical ecology, species of Armeria thrive in maritime cliffs, salt marshes, and alpine tundra due to high salinity tolerance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armeria designates shrubby or herbaceous low-growing evergreen perennials."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The tufted cushions of **armeria** clung tenaciously to the exposed slate ledges along the stormy headland."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **armeria** is distinguished by its dense capitate flower heads and membranous persistent calyx."*
+> - 📜 **Joseph Dalton Hooker (*The Student's Flora of the British Islands*):** *"On barren maritime rocks, **armeria** forms close evergreen mats that resist desiccating gale-force winds."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fertile or productive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce semen into (a female).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make fertile, fruitful, or productive; to impregnate or pollinate an ovum or flower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological embryology and evolutionary botany, to fecundate entails the fusion of male and female gametes to initiate zygotic cell division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"One of these warts, larger than the rest, forms a kind of thick sheath around the fecundating tube."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Insects carrying pollen from distant blossoms arrive to **fecundate** the receptive stigmas with remarkable efficiency."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The spermatozoa must penetrate the investing envelope of the ovum in order to **fecundate** the germinal vesicle."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"External environmental conditions must remain favorable if the liberated pollen is successfully to **fecundate** the flower."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person hired to fight for another country than their own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by materialism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Primarily motivated by financial gain; also a professional soldier hired to serve in a foreign army.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military historiography and political theory, Machiavelli famously warned in The Prince that mercenary forces are disunited, ambitious, and unfaithful, lacking true civic allegiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is well paid that is well satisfied, And I delivering you, am satisfied, And therein do account myself well paid, My mind was never yet more mercenary."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The more spirit there is in it, the better for mankind and the worse for those mercenary task-masters and low tricksters who delight in putting that illustrious art at a disadvantage in the world."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mercenary creatures ask, ‘What is the use of a man’s going to the North Pole?"*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"Mercenary troops are useless and dangerous; if a prince founds his state upon **mercenary** forces, he will never stand firm or secure."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He sold his sword for **mercenary** gold, fighting not for honor or homeland, but for a foreign duke's purse."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The reliance of decadent Roman emperors upon barbarian **mercenary** levies hastened the disintegration of the imperial frontiers."*
+

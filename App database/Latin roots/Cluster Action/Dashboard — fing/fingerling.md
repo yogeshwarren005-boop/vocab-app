@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young or small fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young or small fish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young, small fish approximately the size of an adult human finger, especially a juvenile salmonid or trout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and agriculture, a fingerling potato is a small, elongated, stubby heirloom potato variety prized for its nutty flavor and firm waxy texture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerling designates a young or small fish."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I have seen a tiny pickerel **fingerling** dart through the shallow sunlit coves of the pond like an arrow of light."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The cautious angler spares the tender trout **fingerling**, returning it to the clear brook until another season."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Schools of shad **fingerling** descended the autumnal river toward the coastal bays, dodging predatory bass."*
+

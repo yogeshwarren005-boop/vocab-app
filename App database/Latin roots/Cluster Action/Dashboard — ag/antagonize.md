@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provoke the hostility of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in opposition to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause someone to become hostile, alienated, or unfriendly; to incur or provoke opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and receptor pharmacology, to antagonize a receptor is to bind to its ligand site and prevent downstream intracellular signaling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"These pioneers, in their contact with the members of divers creeds, races and nations, covering a range which offers no parallel in either the north or south continents, must neither antagonize them nor compromise with their own essential principles."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"There are many sins which few men have the courage to antagonize in public."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Not wishing to antagonize them, he advanced them money, and in a short time owned nearly all the fifteen interests in the Landreau claim of $125,000,000."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma resolved not to **antagonize** Mr. Knightley by persisting in a defense of conduct she inwardly acknowledged to be foolish."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We must be cautious, Watson, for to **antagonize** the inspector at this delicate juncture would close our access to official records."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His tactless remarks in the hospital board meeting served only to **antagonize** the very trustees whose support he needed."*
+

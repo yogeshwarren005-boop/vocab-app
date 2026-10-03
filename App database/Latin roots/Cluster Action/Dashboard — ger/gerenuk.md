@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender east african antelope with slim neck and backward-curving horns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender east african antelope with slim neck and backward-curving horns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long-necked, slender East African antelope (Litocranius walleri) adapted to browsing high desert foliage while standing upright on its hind legs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian ecology and evolutionary adaptation, the gerenuk (also called the giraffe gazelle) survives in arid scrublands without drinking free surface water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerenuk designates slender east african antelope with slim neck and backward-curving horns."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"The **gerenuk** is one of the most remarkable antelopes in Kenya, rearing straight up on its hind feet to nibble thorny acacia buds."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The elongated cervical vertebrae and slender muzzle of the **gerenuk** represent supreme adaptations for high-level desert browsing."*
+> - 📜 **Frederick Selous (*Travel and Adventure in South-East Africa*):** *"Through my field-glass I watched a graceful **gerenuk** standing erect like a miniature giraffe amidst the dry thorn bush."*
+

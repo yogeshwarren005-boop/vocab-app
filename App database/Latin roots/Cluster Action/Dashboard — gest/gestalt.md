@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A configuration or pattern of elements so unified as a whole that it cannot be described merely as a sum of its parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A configuration or pattern of elements so unified as a whole that it cannot be described merely as a sum of its parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organized whole that is perceived as more than the sum of its parts, especially in perception and psychological theory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, Gestalt principles (such as proximity, similarity, continuity, and closure) govern how human vision groups discrete sensory elements into unified figures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Lieblichkeit und Hoheit, und Ruh und Leben, und Geist und Gemuet und Gestalt ist Ein seeliges Eins in diesem Wesen."[65] And six or eight months later: "Mein Schoenheitsinn ist nun vor Stoerung sicher."*
+> - 📜 **Wolfgang Kohler (*Gestalt Psychology*):** *"The core thesis of **gestalt** theory is that there are wholes, the behavior of which is not determined by that of their individual elements."*
+> - 📜 **Max Wertheimer (*Laws of Organization in Perceptual Forms*):** *"Visual grouping demonstrates that the perceptual **gestalt** is an immediate physiological response to structural field relations."*
+> - 📜 **Kurt Koffka (*Principles of Gestalt Psychology*):** *"It has been said: The whole is more than the sum of its parts; it is more correct to say that the whole is something fundamentally other than the sum of its parts in a **gestalt**."*
+

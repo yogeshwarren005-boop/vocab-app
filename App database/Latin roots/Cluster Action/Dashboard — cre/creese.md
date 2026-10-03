@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malayan dagger with a wavy blade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malayan dagger with a wavy blade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dagger with a wavy, serpentine blade, traditionally worn in the Malay Archipelago and Indonesia; a kris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Southeast Asian metallurgy and material culture, the creese was forged from meteoric nickel-iron pamor steel and believed to possess spiritual talismanic potency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"She had caught up an old Malay creese that lay in a corner, and was now making for the door, at which half a dozen domestics were by this time gathered."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The native chieftain stood with hand resting upon the carved wooden hilt of his ivory-sheathed **creese**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Malay pirate gripped a wavy-bladed **creese** between his teeth as he boarded the burning merchant ship."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Every freeman in the Moluccas wore a **creese** tucked into his silk sarong as a badge of honor."*
+

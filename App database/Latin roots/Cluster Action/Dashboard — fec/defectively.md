@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a defective manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a defective manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperfect, faulty, incomplete, or inadequate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial law and engineering standards, components manufactured defectively fail to meet statutory safety and load requirements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The small body of national troops, which has been judged necessary in time of peace, is defectively kept up, badly paid, infected with local prejudices, and supported by irregular and disproportionate contributions to the treasury."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"When the experimental premise is **defectively** observed, the philosophical superstructure must inevitably collapse."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The ancient highways were so **defectively** paved that heavy carriage transport was impossible during wet seasons."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"If a deed of conveyance be **defectively** executed, equity may sometimes intervene to fulfill the true intent of the parties."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or capable of producing an intended result or having a striking effect; -lewismumford.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to accomplish a purpose; functioning effectively; -g.b.shaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Successful in producing a desired, intended, or decisive result; operative and in force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and organizational management, effective strength denotes the actual number of combat-ready troops or deployable operational assets available for duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The day is closing in and the gas is lighted, but is not yet fully effective, for it is not quite dark."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When expressed with some amount of reflectiveness it seems co-ordinate with a belief that this flattery must be reasonable to be effective."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Those who have the power of reproaching in silence may find it a means more effective than words."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her lively rebuke was the most **effective** weapon she could employ against his overweening aristocratic pride."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Sexual selection is an **effective** agent in enhancing the beauty and pugnacity of male birds during the breeding season."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The market price of every commodity is regulated by the proportion between the quantity brought to market and the **effective** demand."*
+

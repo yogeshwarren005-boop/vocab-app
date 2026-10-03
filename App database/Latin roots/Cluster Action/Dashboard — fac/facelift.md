@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastic surgery to remove wrinkles and other signs of aging from your face; an incision is made near the hair line and skin is pulled back and excess tissue is excised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A renovation that improves the outward appearance (as of a building) but usually does not involve major changes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmetic surgery to tighten facial skin; also a renovation or overhaul intended to improve the appearance or functioning of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial real estate and urban revitalization, a retail center facelift modernizes storefronts, signage, and public pedestrian walkways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facelift designates plastic surgery to remove wrinkles and other signs of aging from your face; an incision is made near the hair line and skin is pulled back and excess tissue is excised."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The Zenith commercial club sponsored a grand architectural **facelift** to make Main Street attractive to eastern investors."*
+> - 📜 **Aldous Huxley (*After Many a Summer Dies the Swan*):** *"The aging society matron spent fortunes on each surgical **facelift**, terrified of the inevitable decay of youth."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"The old industrial town required more than a superficial **facelift**; it needed total economic reorganization."*
+

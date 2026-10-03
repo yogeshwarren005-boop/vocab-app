@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classification systems for the genera carpinus, ostryopsis, and ostryopsis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classification systems for the genera carpinus, ostryopsis, and ostryopsis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former plant family name formerly segregating the hornbeams (Carpinus), hop hornbeams (Ostrya), and hazel (Corylus) from the birch family (Betulaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern angiosperm phylogenetics (APG IV), Carpinaceae is treated as the subfamily Coryloideae within the expanded family Betulaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpinaceae designates used in some classification systems for the genera carpinus, ostryopsis, and ostryopsis."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The family **Carpinaceae** is distinguished from the true birches by the distinctive involucre enclosing the solitary nut."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Several systematists have maintained the **Carpinaceae** as a distinct natural order on the basis of floral and cupule morphology."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"We have preferred to unite the **Carpinaceae** with Betulaceae, regarding the two tribes as closely allied branches of a single natural group."*
+

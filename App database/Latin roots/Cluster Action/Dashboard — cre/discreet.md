@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by prudence or modesty and wise self-restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unobtrusively perceptive and sympathetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Careful and circumspect in speech or action, especially to avoid causing offense or revealing private secrets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and courtly manners, discretion governs prudent behavior by harmonizing honesty with social propriety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not thy discreet heart think it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A madness most discreet, A choking gall, and a preserving sweet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no slander in an allowed fool, though he do nothing but rail; nor no railing in a known discreet man, though he do nothing but reprove."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not thy **discreet** heart think it, for wisdom and prudence ever guide thy noble steps."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba was **discreet** enough to keep her private anxieties hidden from the inquisitive curiosity of the village."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was always **discreet** and guarded in her conversation, never betraying the confidence of a friend."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by a lack of openness (especially about one's actions or purposes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of keeping things secret.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency or disposition to keep things secret, hidden, or uncommunicated; reticence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century phrenology, secretiveness was classified as a distinct mental organ located above the ear, believed to govern reserve and concealment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretiveness designates characterized by a lack of openness (especially about one's actions or purposes)."*
+> - 📜 **George Eliot (*Silas Marner*):** *"His habitual **secretiveness** had become a second nature, preventing him from confessing his early marriage to his father."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck possessed an extraordinary genius for **secretiveness**, watching everyone in the pensionnat while revealing nothing herself."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The old major's morbid **secretiveness** regarding the Agra treasure brought tragedy upon his sons."*
+

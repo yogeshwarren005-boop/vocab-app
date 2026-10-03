@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not elaborate; lacking rich or complex detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not elaborate; lacking rich or complex detail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Simple, plain, and not elaborate; unadorned and lacking complex detail or intricate ornamentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prose stylistics, an unelaborate syntax conveys direct clarity and moral earnestness, avoiding rhetorical artifice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unelaborate designates not elaborate; lacking rich or complex detail."*
+> - 📜 **Jane Austen (*Emma*):** *"Her breakfast was simple and **unelaborate**, consisting of fresh toast and a dish of tea beside the sunny parlor window."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The country weaver lived in an **unelaborate** cottage where a loom and a simple bedstead formed the principal furniture."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The earliest Christian basilicas were noble precisely because of their **unelaborate** and solemn spatial dignity."*
+

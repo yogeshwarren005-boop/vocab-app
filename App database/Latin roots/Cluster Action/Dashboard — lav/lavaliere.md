@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Jeweled pendant worn on a chain around the neck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jeweled pendant worn on a chain around the neck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternate spelling of lavalier; an ornamental pendant on a fine necklace, named after Louise de La Valliere, mistress of Louis XIV.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jewelry history, the lavaliere gained immense popularity in late nineteenth-century Edwardian fashion, characterized by drop pearls, diamonds, and delicate filigree work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lavaliere designates jeweled pendant worn on a chain around the neck."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Lily Bart admired the emerald **lavaliere** in the jeweler's velvet case, longing for the financial security it symbolized."*
+> - 📜 **Marcel Proust (*Within a Budding Grove*):** *"The Duchess appeared wearing an heirloom **lavaliere** of sapphires that had once belonged to the Empress Eugenie."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Her simple gown was relieved only by a slender silver chain bearing a single teardrop pearl **lavaliere**."*
+

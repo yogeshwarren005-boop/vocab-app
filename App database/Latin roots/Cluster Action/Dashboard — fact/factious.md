@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissenting (especially dissenting with the majority opinion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissenting (especially dissenting with the majority opinion).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to form factions; dissenting, contentious, or promoting internal partisan discord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical republican discourse, factious intrigues were viewed as the primary internal disease that destroyed ancient democracies and city-states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Lord, what madness rules in brainsick men, When for so slight and frivolous a cause Such factious emulations shall arise!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"GLOUCESTER. [_Aside to Cardinal_.] Make up no factious numbers for the matter, In thine own person answer thy abuse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is a traitor; let him to the Tower, And chop away that factious pate of his."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Lord, what madness rules in brainsick men, when for so slight and frivolous a cause such **factious** emulations shall arise!"*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Turbulent and **factious** demagogues inflamed the populace against the settled laws and ancestral traditions of the realm."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **factious** quarrels of the blue and green circus parties repeatedly bathed the streets of Constantinople in blood."*
+

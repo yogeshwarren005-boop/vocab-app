@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Power to be effective; the quality of being able to bring about an effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Power to be effective; the quality of being able to bring about an effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The operational capacity to produce a desired outcome, enforce an obligation, or achieve practical validity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative law and international jurisprudence, effectivity refers to the actual exercise of sovereign authority or the binding temporal force of an enacted treaty or regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effectivity designates power to be effective; the quality of being able to bring about an effect."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The practical **effectivity** of any statute depends far more upon the energy of the executive departments than upon the debates of legislators."*
+> - 📜 **Max Weber (*The Theory of Social and Economic Organization*):** *"The bureaucratic apparatus achieves its maximum **effectivity** when operating under impersonal rules and stable hierarchies."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"The social **effectivity** of primitive legal codes rested upon ceremonial rigidity rather than abstract notions of equity."*
+

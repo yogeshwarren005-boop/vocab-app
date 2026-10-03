@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workplace for the conduct of scientific research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region resembling a laboratory inasmuch as it offers opportunities for observation and practice and experimentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or building equipped for scientific research, experimentation, measurement, or the manufacture of pharmaceuticals and chemicals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metaphorically in historical sociology, a social laboratory is an institution or community where novel political or economic reforms are tested on a small scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was a farmer, an agriculturist, a desk-tied professor, a laboratory slave, interested only in the soil and the increase of the productiveness of the soil."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, not lightly was I stirred when I slew Professor Haskell in the laboratory at the University of California."*
+> - 📜 **Louis Pasteur (*Address on the Inauguration of the Pasteur Institute*):** *"Take interest, I beseech you, in those sacred dwellings which one designates by the expressive term of **laboratory**; there it is that humanity grows greater."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes was seated at a chemical bench in the hospital **laboratory**, absorbed in his investigations upon blood stains."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"In a solitary chamber at the top of the house, separated from all other apartments, I kept my workshop of filthy creation; my **laboratory** was filled with retorts and electrical apparatus."*
+

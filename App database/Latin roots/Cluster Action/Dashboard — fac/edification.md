@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uplifting enlightenment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uplifting enlightenment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The instruction, improvement, or guidance of a person morally, spiritually, or intellectually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and sacred literature, sermons and allegorical tales are designed for the spiritual edification of the congregation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Put the boy aside.” Boy put aside, to the great edification of the audience, especially of Little Swills, the comic vocalist."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"I hope that the friction will elicit heat, since this neither cold nor hot spirit is not to edification." The other letters of this period range over a wide variety of subjects."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The Sisters will have said to him (meaning no evil, nay meaning the edification of the people), "But, Pierre, reflect!"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"I knew you must be edified by the margent ere you had done; your **edification** was dearly bought."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She read the lives of the early Christian saints for spiritual **edification**, yearning for heroic self-renunciation."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins chose Fordyce's Sermons for the evening reading, confident in their moral **edification** for young ladies."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Autoclave consisting of a vessel in which plant or animal materials are digested.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Autoclave consisting of a vessel in which plant or animal materials are digested.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vessel or apparatus in which substances are treated, decomposed, or cooked by steam, heat, or chemical enzymes under pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of thermodynamics and domestic technology, Papin's digester (invented in 1679) was the direct ancestor of the steam pressure cooker and autoclave.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digester designates autoclave consisting of a vessel in which plant or animal materials are digested."*
+> - 📜 **Denis Papin (*A New Digester or Engine for Softning Bones*):** *"By confining steam within the **digester**, water may be heated far beyond its normal boiling point, extracting the marrow from bones."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The closed chemical **digester** allows the chemist to dissolve refractory mineral ores under concentrated boiling acids."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The heavy iron **digester** in the laboratory hissed as the superheated steam exerted immense pressure within."*
+

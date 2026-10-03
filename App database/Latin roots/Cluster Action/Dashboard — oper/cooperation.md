@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Joint operation or action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of cooperating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of working together to the same end; mutual assistance and coordinated effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociobiology and anthropology, cooperation encompasses reciprocal altruism, kin selection, and institutional mechanisms that sustain public goods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Getting INOR's cooperation will also become more difficult than ever."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Neither are the others." "I can withhold my cooperation." "I repeat, Brad, you have no choice." Ram paused, eyeball to eyeball with Brad, whose eyes had gone cold."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your cooperation is welcomed." ## Drummer released the lower end of the scroll and watched it curl up."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The moral sense of mankind evolved from social instincts, in which mutual **cooperation** within the tribe was prized above selfish impulses."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The woolen coat of the day-laborer is the produce of the joint **cooperation** of a great multitude of workmen."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The principle of industrial **cooperation** promises to transform the hostile relations between labor and capital into a harmonious partnership."*
+

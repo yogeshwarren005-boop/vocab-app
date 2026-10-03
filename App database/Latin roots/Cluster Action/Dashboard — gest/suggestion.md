@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea that is suggested.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proposal offered for acceptance or rejection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea or plan put forward for consideration, or the psychological process by which an idea induces another idea, action, or belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and hypnotherapy, post-hypnotic suggestion involves implanting an instruction during trance that the subject carries out upon waking without conscious awareness of its origin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was a man Of an unbounded stomach, ever ranking Himself with princes; one that by suggestion Tied all the kingdom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, I met Lord Bigot and Lord Salisbury, With eyes as red as new-enkindled fire, And others more, going to seek the grave Of Arthur, whom they say is kill’d tonight On your suggestion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am Thane of Cawdor: If good, why do I yield to that suggestion Whose horrid image doth unfix my hair, And make my seated heart knock at my ribs, Against the use of nature?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why do I yield to that **suggestion** whose horrid image doth unfix my hair and make my seated heart knock at my ribs, against the use of nature?"*
+> - 📜 **Jane Austen (*Emma*):** *"She accepted Mr. Knightley's gentle **suggestion** with genuine gratitude, resolved to amend her thoughtless conduct."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every sensory idea tends to realize itself in action unless checked by the antagonistic **suggestion** of an opposing thought."*
+

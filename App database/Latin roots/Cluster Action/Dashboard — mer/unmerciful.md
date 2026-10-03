@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing no mercy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing no mercy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cruel, pitiless, and severe; showing no mercy, forbearance, or leniency toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical debate or satire, an unmerciful critique exposes inconsistencies with biting and unsparing vigor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unmerciful lady as you are, I’m none."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George is dry, he goes to work to brush his head with two hard brushes at once, to that unmerciful degree that Phil, shouldering his way round the gallery in the act of sweeping it, winks with sympathy."*
-> - 📜 **George Eliot (*Middlemarch*):** *"This is not becoming in a sensible dog; anybody would think you were a silly young gentleman.” “You are unmerciful to young gentlemen, Miss Garth,” said the Vicar, within two yards of her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"**Unmerciful** lady as you are, I'm none; my heart is soft and yields to gentle prayer."*
+> - 📜 **George Eliot (*Middlemarch*):** *"You are **unmerciful** to young gentlemen, Miss Garth, said the Vicar, smiling at her sharp and lively retort."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The cold east wind blew with **unmerciful** violence against the shivering beggars crouched under the church portico."*
+

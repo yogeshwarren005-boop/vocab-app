@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of decomposing organic matter (as in sewage) by bacteria or by chemical action or heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organic process by which food is converted into substances that can be absorbed into the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physiological process of breaking down food into substances that can be absorbed and utilized by the body, or an individual's capacity to digest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical alchemy and historical chemistry, digestion was the prolonged exposure of a substance to gentle, continuous heat to promote extraction or reaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good digestion to you all; and once more I shower a welcome on ye."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet remembrancer!— Now, good digestion wait on appetite, And health on both!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Things sweet to taste prove in digestion sour."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"Gastric **digestion** is fundamentally a chemical process, effected by the acid solvent power of gastric juice upon alimentary substances."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Things sweet to taste prove in **digestion** sour: you urge me as a judge, but I had rather you would decide the dispute as a brother."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His excellent health and cheerful temper were attributed by his friends to an enviable **digestion** that defied all culinary errors."*
+

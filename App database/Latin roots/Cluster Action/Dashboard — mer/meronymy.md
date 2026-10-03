@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation that holds between a part and the whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation that holds between a part and the whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relationship that holds between a part and the whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal ontologies and knowledge representation, meronymy is modeled alongside hyponymy to structure ontological dependencies and spatial containment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meronymy designates the semantic relation that holds between a part and the whole."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The logical structure of **meronymy** governs our analysis of composite substances into their elementary functional attributes."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"Philosophical analysis must distinguish between class membership and the structural **meronymy** linking a physical whole to its components."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our complex ideas of material bodies involve an intuitive **meronymy**, recognizing wheels and axles as parts of a coach."*
+

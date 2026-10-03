@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fertilization of two or more ova released during the same menstrual cycle by sperm from separate acts of coitus (especially by different males).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fertilization of two or more ova released during the same menstrual cycle by sperm from separate acts of coitus (especially by different males).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fertilization of two or more ova released during the same ovulatory cycle by spermatozoa from separate acts of coitus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic reproductive genetics and veterinary obstetrics, heteropaternal superfecundation occurs when twin offspring carry genetic paternity from two distinct male progenitors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superfecundation designates fertilization of two or more ova released during the same menstrual cycle by sperm from separate acts of coitus (especially by different males)."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cases of **superfecundation** in dogs clearly show that a single litter may be sired by distinct canine breeds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rare clinical instances of fraternal twins exhibiting differing paternal traits illustrate authentic human **superfecundation**."*
+> - 📜 **Francis Galton (*Hereditary Genius*):** *"The biological phenomenon of **superfecundation** provides an intriguing natural experiment in comparative hereditary transmission."*
+

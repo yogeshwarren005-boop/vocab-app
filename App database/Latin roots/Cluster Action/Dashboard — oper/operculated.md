@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an operculum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an operculum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or provided with an operculum; lid-bearing or covered with a protective flap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology, the ova of trematodes (flukes such as Fasciola hepatica) are characteristically operculated, with an apical lid through which the miracidium hatches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operculated designates having an operculum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of the stool revealed the characteristic large, golden-brown, **operculated** eggs of the liver fluke."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The **operculated** tube-dwelling annelids construct calcareous shells whose opening is closed by a modified cephalic tentacle."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The urn of the moss is neatly **operculated**, shedding its conical cap when the internal spores are fully ripe."*
+

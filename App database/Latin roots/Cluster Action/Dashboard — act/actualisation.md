@@ -42,8 +42,8 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The full realization or manifestation of latent capabilities, potential, or ideals into concrete, observable reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In humanistic psychology (Abraham Maslow, Carl Rogers), self-actualisation represents the highest drive of human development, striving toward the complete fulfillment of personal talent, creative expression, and authentic purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making something actual, real, or tangible; the transition from potentiality to realized existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In humanistic psychology, actualisation describes the fulfillment of personal talent, creative capacities, and psychic potential across the lifespan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **Aristotle (*Metaphysics*):** *"The **actualisation** of that which exists potentially, when it operates as such, is movement."*

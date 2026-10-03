@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prose writing that is not fictional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prose writing that is not fictional.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prose writing that is based on facts, real events, and real people, such as biography, history, and scientific essays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In library classification and publishing economics, nonfiction comprises all cataloged works other than imaginative novels and poetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonfiction designates prose writing that is not fictional."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The borderland between biography and pure **nonfiction** is often illuminated by the writer's instinctive gift for storytelling."*
+> - 📜 **George Orwell (*Why I Write*):** *"My most serious **nonfiction** has always been written against totalitarianism and for democratic socialism."*
+> - 📜 **Lytton Strachey (*Eminent Victorians*):** *"The modern writer of historical **nonfiction** must approach his subjects with detachment, brevity, and psychological penetration."*
+

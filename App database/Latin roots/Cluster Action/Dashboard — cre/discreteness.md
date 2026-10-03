@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being several and distinct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being several and distinct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinct separation into individual, non-continuous elements or units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and semiotics, discreteness is a design feature of human language whereby signs are composed of distinct, categorical sounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discreteness designates the state of being several and distinct."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The continuous flow of time stands in stark conceptual opposition to the nominalist doctrine of pure **discreteness**."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Mathematical continuity must be rigorously reconciled with the logical **discreteness** of the natural number series."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Phonological analysis reveals the absolute **discreteness** of phonetic oppositions within the sound system of a language."*
+

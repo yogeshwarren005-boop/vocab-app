@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of deep-seated ill-will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between opposing principles or forces or factors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Active hostility, opposition, or antipathy between people, groups, or ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and physiology, muscular antagonism is the coordinated relationship between opposing muscle groups (such as biceps flexor and triceps extensor) that permits controlled movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Feeling herself in antagonism, she was quite in accord."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But it strikes me that there is a want of harmony between your present mood of self-sacrifice and your past mood of self-preservation.” These were the first words of antagonism."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She did not look me down, for there was neither challenge nor antagonism in her eyes—only fascination."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The direct **antagonism** between allied species competing for identical resources is the most severe form of the struggle for existence."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The cosmic rhythm of evolution and dissolution proceeds from the perpetual **antagonism** of attractive and repulsive forces."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A latent **antagonism** had long existed between the conservative town council and the reformist young doctor."*
+

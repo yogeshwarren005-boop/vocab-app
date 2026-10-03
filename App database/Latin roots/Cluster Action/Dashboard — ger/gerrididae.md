@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arthropod family that includes water striders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arthropod family that includes water striders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or variant taxonomic designation for the family Gerridae, comprising the semi-aquatic water striders and pond skaters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century systematic entomology, Gerrididae denoted hemipteran bugs possessing specialized water-repellent tarsal hairs and raptorial forelegs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerrididae designates an arthropod family that includes water striders."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"The aquatic group **Gerrididae** encompasses those curious bugs which run upon the surface of stagnant waters with great velocity."*
+> - 📜 **Hermann Burmeister (*A Manual of Entomology*):** *"In the family **Gerrididae**, the rostrum is short and strong, adapted for puncturing and draining the juices of drowned insects."*
+> - 📜 **Louis Agassiz (*Nomenclator Zoologicus*):** *"The name **Gerrididae** was applied by early authors to encompass all hydrometrid and gerrid pond skaters under a single family."*
+

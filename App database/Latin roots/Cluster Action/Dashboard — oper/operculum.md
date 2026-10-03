@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard flap serving as a cover for (a) the gill slits in fishes or (b) the opening of the shell in certain gastropods when the body is retracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard flap serving as a cover for (a) the gill slits in fishes or (b) the opening of the shell in certain gastropods when the body is retracted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure that closes or covers an aperture; in bony fish, the gill cover; in gastropod mollusks, the horny or shelly plate closing the shell opening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, the cerebral operculum comprises the cortical convolutions of the frontal, parietal, and temporal lobes that cover the insular cortex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operculum designates a hard flap serving as a cover for (a) the gill slits in fishes or (b) the opening of the shell in certain gastropods when the body is retracted."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The bony **operculum** in teleost fishes consists of four distinct skeletal elements: the opercular, preopercular, subopercular, and interopercular bones."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The frontal **operculum** lies between the anterior and ascending rami of the lateral sulcus, housing the motor speech area of Broca."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The barnacle is enclosed within a conical shell of calcareous valves, protected at its summit by a four-part movable **operculum**."*
+

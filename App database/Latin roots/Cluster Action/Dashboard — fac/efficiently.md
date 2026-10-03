@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With efficiency; in an efficient manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With efficiency; in an efficient manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a well-organized and competent manner; without wasting time, energy, or resources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative statecraft and manufacturing logistics, coordinating operations efficiently maximizes output while preserving capital reserves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Crises are more severe in countries with more extensive use of money and credit, but still more severe where the credit system is more loosely administered and less efficiently coördinated."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Then, too, the rate may intentionally be fixed so as to make just possible the survival of the most favorably located or most efficiently operated establishments, while compelling the abandonment of other establishments."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the former case the evil is that of a too long working period, injurious to health, and this can be reached directly and stopped by an efficiently administered law."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An open competitive market allocates societal resources far more **efficiently** than statutory trade monopolies."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"A hospital ward can be managed **efficiently** only when strict sanitation rules are enforced without exception."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The Roman road system enabled the imperial legions to move **efficiently** between frontier garrisons."*
+

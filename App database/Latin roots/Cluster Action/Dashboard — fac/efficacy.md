@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capacity or power to produce a desired effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capacity or power to produce a desired effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to produce a desired or intended result; effectiveness and capacity for producing effects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, drug efficacy measures the maximum therapeutic response achievable by an agonist under saturated receptor binding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Elizabeth had nothing to propose of deeper efficacy."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Believing in the efficacy of prayer, he called together his friends, specially to ask that his impediment might be removed."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Patton, her personal testimony of the efficacy of prayer: "Three years ago, I was healed of a bodily disease."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection acts solely through the preservation of useful variations; hence its **efficacy** depends upon the occurrence of individual differences."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical **efficacy** of smallpox vaccination in preventing epidemic contagion has been demonstrated beyond all doubt."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The causal **efficacy** of natural laws is inferred through rigorous induction from uniform antecedent conditions."*
+

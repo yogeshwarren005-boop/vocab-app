@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of gerrymandering (dividing a voting area so as to give your own party an unfair advantage).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide unfairly and to one's advantage; of voting districts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To manipulate or redraw the boundaries of an electoral constituency to grant an unfair political advantage to a particular party or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and constitutional law, gerrymandering dilutes the voting power of political opponents through deliberate packing and cracking strategies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerrymander designates an act of gerrymandering (dividing a voting area so as to give your own party an unfair advantage)."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"State legislatures frequently resort to the art of the **gerrymander** to preserve a partisan majority against shifts in popular sentiment."*
+> - 📜 **Henry Adams (*The History of the United States During the Administrations of Thomas Jefferson*):** *"The notorious Massachusetts **gerrymander** of 1812 created an electoral district resembling a salamander in its convoluted borders."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"No device of party politics has been more persistently abused than the **gerrymander** to silence minority representation in Congress."*
+

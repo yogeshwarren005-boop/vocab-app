@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hospital where foundlings (infant children of unknown parents) are taken in and cared for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation of christ's nativity in the stable at bethlehem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nursery where babies and young children are cared for while parents work; also a model of the nativity scene at Christmas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and avian ecology, a crèche is a collective nursery group of juvenile birds (such as penguins or eiders) guarded by a few adults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creche designates a hospital where foundlings (infant children of unknown parents) are taken in and cared for."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"The establishment of a day **creche** relieved immigrant working mothers from the agonizing worry over unattended infants."*
+> - 📜 **Charles Kingsley (*The Water-Babies*):** *"The good nuns maintained a cheerful **creche** where foundling infants were tenderly nursed and fed."*
+> - 📜 **Charles William Beebe (*Edge of the Jungle*):** *"Hundreds of young flamingo chicks clustered in a dense **creche** on the salt flat while parent birds foraged along the lagoon."*
+

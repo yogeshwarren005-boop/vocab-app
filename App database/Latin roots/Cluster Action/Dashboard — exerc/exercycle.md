@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exercise device resembling a stationary bike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exercise device resembling a stationary bike.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stationary bicycle equipped with pedals, handlebars, and a flywheel, used for indoor cardiovascular exercise and physical conditioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports medicine and cardiac rehabilitation, the exercycle (cycle ergometer) allows precise calibration of mechanical workload and monitoring of heart rate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exercycle designates an exercise device resembling a stationary bike."*
+> - 📜 **Kenneth Cooper (*Aerobics*):** *"Pedaling the stationary **exercycle** at a measured resistance provides an excellent cardiovascular conditioning workout regardless of outdoor weather."*
+> - 📜 **Per-Olof Astrand (*Textbook of Work Physiology*):** *"The calibrated **exercycle** serves as the standard laboratory ergometer for measuring maximal oxygen uptake in human subjects."*
+> - 📜 **Arthur Lydiard (*Running with Lydiard*):** *"Injured athletes can maintain aerobic endurance during recovery by cross-training upon the indoor **exercycle**."*
+

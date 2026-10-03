@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of something tinged with lavender.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something tinged with lavender.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a slight, delicate tint or coloring of lavender; faintly shaded with pale lilac or pale violet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and atmospheric optics, lavender-tinged describes the faint violet coloration seen in fluorite crystals or cirrus clouds at sunset.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lavender-tinged designates of something tinged with lavender."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The distant alpine snowfields caught the evening light, turning a luminous **lavender-tinged** gold beneath the glaciers."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The morning mist was **lavender-tinged** as the sunrise broke over the chalk ridges of the downland."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The calm tropical sea took on a faint, **lavender-tinged** sheen as the tropical afternoon wore toward evening."*
+

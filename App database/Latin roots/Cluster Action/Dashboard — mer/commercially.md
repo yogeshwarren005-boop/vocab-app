@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a commercial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a commercial manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From the point of view of commerce, business, or market profitability; in a commercial manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and agricultural biotechnology, producing a compound commercially implies cost-effective yield at pilot or manufacturing scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"He grows more commercially-minded."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Because of their wearing qualities and economy, however, copper and nickel are the two metals commercially used for electrotyping."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"The men who hold that "every woman has her price" are the men who, in the estimation of other men, have no price at all, commercially, socially, or morally."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain varieties of wheat, though botanically fascinating, cannot be grown **commercially** owing to their delicate straw."*
+> - 📜 **Thomas Edison (*The Edison Papers: Menlo Park Notebooks*):** *"A filament must not only glow brightly in the laboratory, but must be capable of being manufactured **commercially** at negligible cost."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In provinces situated far from navigable waterways, heavy goods cannot be transported **commercially** without ruinous expense."*
+

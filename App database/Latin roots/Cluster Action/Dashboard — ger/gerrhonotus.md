@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alligator lizards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alligator lizards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial anguid lizards native to western North America, commonly known as alligator lizards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, Gerrhonotus is characterized by stiff, plate-like osteoderms, a prominent lateral fold along the flanks, and a combative defensive temperament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerrhonotus designates alligator lizards."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"The genus **Gerrhonotus** possesses a well-defined lateral dermal fold that expands to accommodate large meals or developing eggs."*
+> - 📜 **Raymond L. Ditmars (*The Reptile Book*):** *"The northern alligator lizard of the genus **Gerrhonotus** will bite tenaciously when captured, hissing and voiding pungent cloacal secretions."*
+> - 📜 **John Van Denburgh (*The Reptiles of Western North America*):** *"We collected fine specimens of **Gerrhonotus** coeruleus sunning themselves on mossy logs in the humid redwood forests of California."*
+

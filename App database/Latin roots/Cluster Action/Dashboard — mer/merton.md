@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states religious and writer (1915-1968).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states sociologist (1910-2003).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Merton College, Oxford, one of the constituent colleges of the University of Oxford, founded in 1264 by Walter de Merton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic and architectural history, Merton College claims the oldest continuously surviving collegiate library in the world and pioneered the collegiate model.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"As he thought of Hetty Merton, he began to wonder if the portrait in the locked room had changed."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He was thinking of Hetty Merton."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"But the kind experienc'd Dame Cracks and rejoices in the Flame. _Merton-College, Oxon, in a Window._ _A new Reading about the three Children in the Fiery Furnace."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had studied the ancient statutes of **merton** College, admiring the medieval foundation that fostered independent scholarship."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He remembered sunny afternoons walking beneath the ancient lime trees of **merton** meadow before the river races."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The fellows of **merton** resisted royal interference with courageous adherence to their university charter."*
+

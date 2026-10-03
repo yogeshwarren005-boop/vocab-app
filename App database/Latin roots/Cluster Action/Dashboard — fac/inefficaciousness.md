@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of efficacy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of efficacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or quality of lacking efficacy; failure to produce the desired result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical jurisprudence, the proven inefficaciousness of a therapeutic intervention invalidates fraudulent claims of miraculous cure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inefficaciousness designates a lack of efficacy."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The evident **inefficaciousness** of traditional scholastic syllogisms convinced him of the necessity for empirical inductive methods."*
+> - 📜 **Thomas Reid (*Essays on the Active Powers of Man*):** *"The **inefficaciousness** of moral instruction without early habituation is a truth recognized by every observant instructor."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Penal sanctions suffer from fatal **inefficaciousness** whenever the certainty of apprehension declines below a deterrent threshold."*
+

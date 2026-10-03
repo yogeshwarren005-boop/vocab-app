@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus teucrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus teucrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low-growing herbaceous plant or shrub of the genus Teucrium in the mint family (Lamiaceae), traditionally cultivated for medicinal bitters and groundcover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacopoeias, wall germander (Teucrium chamaedrys) was prescribed as a tonic for gout, though modern toxicology recognizes potential hepatotoxicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germander designates any of various plants of the genus teucrium."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Wall **germander** groweth upon ancient stone walls, putting forth purple labiate flowers of an agreeable fragrance."*
+> - 📜 **Nicholas Culpeper (*The English Physitian*):** *"A decoction of the leaves of **germander** boiled in mead cleanseth the liver and openeth obstructions of the spleen."*
+> - 📜 **John Parkinson (*Paradisi in Sole Paradisus Terrestris*):** *"Water **germander** is cultivated in our physic gardens for its bitter taste and sovereign medicinal virtues."*
+

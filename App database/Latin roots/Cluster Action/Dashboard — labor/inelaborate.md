@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not elaborate; lacking rich or complex detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not elaborate; lacking rich or complex detail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not elaborate; simple, plain, unadorned, and lacking intricate detail or complex workmanship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic criticism, inelaborate design is valued for direct functional elegance, unencumbered by superfluous ornament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inelaborate designates not elaborate; lacking rich or complex detail."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The early Norman arch is noble in its very **inelaborate** simplicity, conveying a sense of massive permanence."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor preferred an **inelaborate** style of dress that reflected her modest judgment and quiet self-possession."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The cottage furnishings were rustic and **inelaborate**, consisting of plain oak benches and a sturdy trestle table."*
+

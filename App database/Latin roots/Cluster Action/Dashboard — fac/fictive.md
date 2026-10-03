@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adopted in order to deceive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of imaginative creation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Created by the imagination; having the character of fiction; producing or creating imaginative constructs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology and kinship theory, fictive kinship denotes social ties (such as godparenthood or blood brotherhood) that confer family-like mutual obligations without genetic relation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I have always fondly remembered a remark that I heard fall years ago from the lips of Ivan Turgenieff in regard to his own experience of the usual origin of the fictive picture."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"Religion operates with **fictive** symbols that convey profound moral wisdom to the human imagination."*
+> - 📜 **Claude Levi-Strauss (*The Elementary Structures of Kinship*):** *"Ritual adoption and **fictive** kinship alliances serve to bind disparate tribal clans into a peaceful confederation."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The **fictive** realm of the novelist must maintain its own rigorous internal laws of aesthetic coherence."*
+

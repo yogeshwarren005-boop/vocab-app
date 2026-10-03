@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: California plant with small pale yellow flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: California plant with small pale yellow flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Platystemon californicus, an annual wildflower of the poppy family native to western North America, having cream-colored blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Californian botanical floristics, creamcups carpet arid coastal valleys and foothills with pale yellow, fragrant solitary flowers in early spring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creamcups designates california plant with small pale yellow flowers."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The gravelly foothills were sprinkled with starry **creamcups**, glistening like gold dust amidst the green grasses."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"In Platystemon californicus, commonly called **creamcups**, the petals are pale straw-yellow with a bright yellow basal spot."*
+> - 📜 **Alice Eastwood (*A Handbook of the Trees of California*):** *"Spring blooms of **creamcups** and golden poppies swept across the sunny ridges of the coastal range."*
+

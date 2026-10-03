@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wasteful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rich and lavish manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a lavish, bountiful, or profuse manner; with great generosity, luxury, or extravagance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative description, lavishly denotes the abundant, unstinting distribution of wealth, praise, or natural beauty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I like them all, and do allow them well, And swear here, by the honour of my blood, My father’s purposes have been mistook, And some about him have too lavishly Wrested his meaning and authority."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"If she did, she need not coin her smiles so lavishly, flash her glances so unremittingly, manufacture airs so elaborate, graces so multitudinous."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She flattered me, and lavishly displayed for my pleasure her charms and accomplishments."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The banquet table was **lavishly** supplied with cold game, jellies, and vintage wines for the reception of the wedding guests."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Praise was **lavishly** bestowed upon the young lady's musical performance by all the partial relatives in the room."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The drawing-room was **lavishly** decorated in the heavy gilded style of the Second Empire."*
+

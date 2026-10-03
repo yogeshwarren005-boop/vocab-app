@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to recreation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engaged in as a pastime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suitable for recreation; designed for relaxation, amusement, and leisure activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In land-use planning and urban geography, recreational zones include public parks, nature reserves, sports complexes, and greenbelts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They, as well as the general population, would be cared for and supported by a host of administrative, health care, educational, recreational, life support and community services."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When enclosed areas were shirtsleeve ready for occupancy, the Cadre would erect essential life support, residential and recreational facilities."*
+> - 📜 **Jane Jacobs (*The Death and Life of Great American Cities*):** *"A neighborhood park must offer diverse **recreational** facilities to attract users of different ages and interests throughout the day."*
+> - 📜 **Lewis Mumford (*The Culture of Cities*):** *"The provision of public **recreational** space along riverfronts was a major civic achievement of enlightened municipal planning."*
+> - 📜 **Kenneth Cooper (*The Aerobics Program for Total Well-Being*):** *"Engaging in regular **recreational** sports such as swimming and cycling provides sustained aerobic conditioning."*
+

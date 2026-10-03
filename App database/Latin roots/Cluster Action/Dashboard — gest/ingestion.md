@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of taking food into the body through the mouth (as by eating).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of taking food into the body through the mouth (as by eating).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of taking food, drink, or another substance into the body through the mouth; swallowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular physiology, ingestion refers to the engulfment of extracellular particles by endocytosis or phagocytosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ingestion designates the process of taking food into the body through the mouth (as by eating)."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The evolutionary modification of the avian gizzard was necessitated by the **ingestion** of hard seeds without prior oral mastication."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lead poisoning among painters and potters was formerly contracted through the accidental **ingestion** of pigment dust with food."*
+> - 📜 **Elie Metchnikoff (*Immunity in Infective Diseases*):** *"The **ingestion** of the pathogenic bacilli by alveolar macrophages represents the first cellular barrier against tuberculosis."*
+

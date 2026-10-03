@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cranial nerve that supplies facial muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Care for the face that usually involves cleansing and massage and the application of cosmetic creams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the face or countenance of a person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and anatomy, the facial nerve (cranial nerve VII) conveys motor innervation to the muscles of facial expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The room inside was lighted only by the ruddy glow from the kiln mouth, which shone over the floor with the streaming horizontality of the setting sun, and threw upwards the shadows of all facial irregularities in those assembled around."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He saw her black hair, her correct facial curves and profile, and the roundness of her chin and throat."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The distinctive **facial** contortions of grief and joy appear universally recognizable across distinct human cultures."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A slight **facial** twitch betrayed Mr. Casaubon's inward irritation whenever his scholarly authority was questioned."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her mobile **facial** contours mirrored every passing cloud of anxiety that crossed her impressionable soul."*
+

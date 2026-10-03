@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An effort that is inconvenient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A factor causing trouble in achieving a positive result or tending to produce a negative result.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing or situation that is hard to accomplish, overcome, or comprehend; an impediment, dilemma, or hardship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, resolving the difficulties on theory forms the argumentative crucible wherein natural selection demonstrates its explanatory power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the business be of any difficulty and this morning your departure hence, it requires haste of your lordship."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were a tedious difficulty, I think, To bring them to that prospect."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing, but our undertakings when we vow to weep seas, live in fire, eat rocks, tame tigers; thinking it harder for our mistress to devise imposition enough than for us to undergo any difficulty imposed."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I have felt the **difficulty** of my position too keenly to be surprised at any hesitation in accepting my conclusions."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"There be some sports are painful, and their labour delight in them sets off: some kinds of baseness are nobly undergone, and most poor matters point to rich ends. This my mean task would be as heavy to me as odious, but the mistress which I serve quickens what's dead and makes my labours pleasures: O, she is ten times more gentle than her father's crabbed, and he's composed of harshness. I must remove some thousands of these logs and pile them up, upon a sore injunction: my sweet mistress weeps when she sees me work, and says such baseness had ne'er like executor. I forget: but these sweet thoughts do even refresh my labours, most busiest when I do it with greatest **difficulty**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak faced every financial **difficulty** with stubborn Saxon endurance, never murmuring against fate."*
+

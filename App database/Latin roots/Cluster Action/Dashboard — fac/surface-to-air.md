@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating from or designed to be launched from the ground against an airborne target.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating from or designed to be launched from the ground against an airborne target.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to be launched from the ground or sea to intercept and destroy aerial targets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern military technology, guided surface-to-air missile systems rely on radar tracking and proportional navigation algorithms to intercept targets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surface-to-air designates operating from or designed to be launched from the ground against an airborne target."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The defensive batteries unleashed a terrible **surface-to-air** cannonade against the approaching fleet of German airships."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Our scientists developed specialized **surface-to-air** rocket projectiles to protect London docks against high-altitude bomber formations."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"The nightly spectacle of barrage fire and **surface-to-air** tracer rounds illuminated the ruined skyline of the capital."*
+

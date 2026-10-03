@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relevant and appropriate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relevant and appropriate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relevant, pertinent, and closely allied to the subject or purpose under consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal procedure and parliamentary debate, an argument or proposed amendment is germane only if it directly addresses the fundamental matter in controversy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not he alone shall suffer what wit can make heavy and vengeance bitter; but those that are germane to him, though removed fifty times, shall all come under the hangman: which, though it be great pity, yet it is necessary."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The phrase would be more **germane** to the matter, if we could carry cannon by our sides."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"In philosophical inquiries, an author should introduce only such examples as are strictly **germane** to his central theorem."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The Speaker repeatedly ruled that the proposed rider was not **germane** to the revenue bill under consideration."*
+

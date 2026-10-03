@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common black european thrush.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common black european thrush.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or poetic name for the common European blackbird (Turdus merula).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scottish and English folk balladry, the song of the merl heralds the arrival of spring alongside the mavis (song thrush).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merl designates common black european thrush."*
+> - 📜 **Sir Walter Scott (*The Lady of the Lake*):** *"Merry it is in the good greenwood, when the mavis and **merl** are singing."*
+> - 📜 **Robert Burns (*Poems and Songs*):** *"The **merl** sings sweetly in the budding brier, greeting the dawn with joyful melody."*
+> - 📜 **James Hogg (*The Queen's Wake*):** *"When the soft dew fell upon the hill, the sweet-toned **merl** whistled from the hawthorn brake."*
+

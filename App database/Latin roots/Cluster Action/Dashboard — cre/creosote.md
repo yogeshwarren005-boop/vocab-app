@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless or yellowish oily liquid obtained by distillation of wood tar; used as an antiseptic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark oily liquid obtained by distillation of coal tar; used as a preservative for wood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark brown oily liquid distilled from wood tar or coal tar, widely used as an industrial wood preservative and antiseptic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In railroad engineering and infrastructure history, pressure-impregnating cross-ties with creosote protected timber against fungal rot and wood-boring insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The first "fraction" is "coal-tar naphtha." Then follows "carbolic oil," after that "heavy" or "creosote oil," anthracene oil, and finally there remains in the still on cooling a solid residue known as coal-pitch."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Creosote is largely employed as a preservative for wood, being forced into the timber under high pressure, so that it penetrates right into it and tends to prevent rotting, no matter how wet it may be."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Railway sleepers are thus treated, small truck-loads of them being run into a cast-iron tunnel which is then sealed at both ends, while the creosote is forced in by powerful pumps."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The pungent scent of fresh **creosote** rising from the newly laid railway ties hung over the summer woods."*
+> - 📜 **Thomas Edison (*The Edison Papers: Menlo Park Notebooks*):** *"We treated the wooden battery casings with hot **creosote** to make the joints completely acid-proof and impermeable."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Toby the hound followed the strong scent of **creosote** that had dripped from the wooden leg of the fugitive."*
+

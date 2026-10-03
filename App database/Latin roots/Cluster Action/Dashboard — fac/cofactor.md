@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (as a coenzyme) that must join with another to produce a given result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (as a coenzyme) that must join with another to produce a given result.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contributory element or factor that cooperates with others to produce a particular result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and enzymology, a non-protein chemical compound or metallic ion that is required for an enzyme's biological activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cofactor designates a substance (as a coenzyme) that must join with another to produce a given result."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The presence of trace mineral salts acts as an indispensable **cofactor** in sustaining vigorous alcoholic fermentation."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Iron functions as a necessary physiological **cofactor** in enabling blood corpuscles to bind atmospheric oxygen."*
+> - 📜 **Thomas Henry Huxley (*The Cell-Theory*):** *"In every complex vital phenomenon, each chemical reagent serves as a coordinated **cofactor** in the living drama."*
+

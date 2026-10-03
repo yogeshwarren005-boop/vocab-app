@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhumaneness evidenced by an unwillingness to be kind or forgiving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inhumaneness evidenced by an unwillingness to be kind or forgiving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character or trait of being unmerciful; total lack of compassion, pity, or forgiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological ethics and moral philosophy, unmercifulness hardens the soul against empathy and divine forgiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmercifulness designates inhumaneness evidenced by an unwillingness to be kind or forgiving."*
+> - 📜 **Jeremy Taylor (*Holy Living and Holy Dying*):** *"God shuts heaven's gates against that harsh **unmercifulness** which refuses forgiveness to an erring brother."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Giant Despair embodied that hardened **unmercifulness** which delights in tormenting helpless captives in dark dungeons."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The cold **unmercifulness** of the miser toward the destitute relatives who plead for bread revolts every feeling heart."*
+

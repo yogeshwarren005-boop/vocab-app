@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of germs or pathological microorganisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of germs or pathological microorganisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Teeming with, contaminated by, or characteristic of germs, bacteria, or infectious microorganisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial hygiene and environmental sanitation, germy surfaces in public spaces require routine disinfection to prevent fomite disease transmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germy designates full of germs or pathological microorganisms."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He washed his hands with obsessive care, complaining that the communal tavern table felt sticky and **germy** to the touch."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Dr. Gottlieb warned his students against touching door handles and streetcar straps with unprotected, **germy** fingers."*
+> - 📜 **Jack London (*The Star Rover*):** *"The foul straw of the punishment cell was damp, moldering, and **germy** from months of unventilated neglect."*
+

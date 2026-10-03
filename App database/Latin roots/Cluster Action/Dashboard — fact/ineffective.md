@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing an intended effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in power or forcefulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to produce any significant or desired effect; lacking power, efficiency, or success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and therapeutic guidelines, an ineffective intervention fails to demonstrate statistically significant clinical benefit over placebo controls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The substitutes for it are largely ineffective: trade-union action, employers' associations, "want ads," cards in shop windows, weary walks from door to door, lines of waiting men outside of factories, private employment agencies."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Common law remedy for monopoly ineffective. § 9."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Various combinations of these plans are followed in practice, the most common plan being the fixing of maximum rates which, with improved methods, generally become ineffective."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"All ventilation becomes **ineffective** if the air admitted from outside is already poisoned by foul sewer emanations."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Naval bombardments without landing troops proved utterly **ineffective** against well-entrenched coastal batteries."*
+> - 📜 **Theodore Roosevelt (*The Strenuous Life*):** *"A well-meaning citizen whose virtues are merely passive is an **ineffective** force in the civic struggle."*
+

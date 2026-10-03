@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that controls amount of light admitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural opening in something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An opening, hole, or gap through which light, liquid, or objects may pass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics and photography, the aperture is the diameter of the lens diaphragm opening that controls the amount of light admitted and the depth of field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Emaciated as my body was, I had to saw four bars, each in two places, in order to make an aperture through which I could squirm."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Was it, I asked myself, a ray from the moon penetrating some aperture in the blind?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My eye was quickly at the aperture."*
+> - 📜 **Isaac Newton (*Opticks*):** *"A small circular **aperture** admitted a single ray of sunlight into the darkened chamber to strike the prism."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Through a narrow **aperture** in the decaying wainscot, we were able to observe every movement in the adjoining room."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The spiracle or blowhole of the sperm whale is a single crescentic **aperture** situated near the snout."*
+

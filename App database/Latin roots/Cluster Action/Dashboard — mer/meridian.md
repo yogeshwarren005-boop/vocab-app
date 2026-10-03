@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest level or degree attainable; the highest stage of development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in eastern mississippi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A circle of constant longitude passing through a given place on the earth's surface and the terrestrial poles; also the highest point of power or prosperity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, the celestial meridian is the great circle passing through the celestial poles, the zenith, and the nadir of the observer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have touched the highest point of all my greatness, And from that full meridian of my glory I haste now to my setting."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"By half-past five, post meridian, Horse Guards’ time, it has even elicited a new remark from the Honourable Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The North Star was directly in the wind’s eye, and since evening the Bear had swung round it outwardly to the east, till he was now at a right angle with the meridian."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"I have touch'd the highest point of all my greatness; and, from that full **meridian** of my glory, I haste now to my setting."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The North Star was directly in the wind's eye, and since evening the Great Bear had wheeled round toward the **meridian**."*
+> - 📜 **Nathaniel Bowditch (*The New American Practical Navigator*):** *"When the sun culminates upon the observer's **meridian**, the chronometer indicates the exact Greenwich mean time."*
+

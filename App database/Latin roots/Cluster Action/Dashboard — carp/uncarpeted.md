@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not carpeted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not carpeted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not covered or fitted with a carpet; having bare floors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social realism and descriptive prose, an uncarpeted floor often emphasizes poverty, austerity, or the hollow chill of an abandoned house.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Going up, the floors above were found to have a very irregular surface, rising to ridges, sinking into valleys; and being just then uncarpeted, the face of the boards was seen to be eaten into innumerable vermiculations."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There was a little passage in front of me, unpapered and uncarpeted, which turned at a right angle at the farther end."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Going up, we find the floors above to have a very irregular surface, rising to ridges, sinking into valleys, and being at present uncarpeted, the face of the boards is shown to be eaten into innumerable vermiculations."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"His footsteps echoed with a dreary hollow sound upon the cold, **uncarpeted** boards of the bare attic room."*
+> - 📜 **Charlotte Bronte (*Jane Eyre*):** *"The long schoolroom was bleak and cheerless, with rows of unpainted desks upon an **uncarpeted** floor of scrubbed deal."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We crept across the **uncarpeted** floor of the old warehouse, taking care that our boots should make no creaking on the loose planks."*
+

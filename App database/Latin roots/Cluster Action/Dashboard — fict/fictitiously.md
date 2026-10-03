@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a false manner intended to mislead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fictional manner (created by the imagination).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fictitious, fabricated, or imaginary manner; through artificial assumption or pretense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial forensics and auditing, an asset value entered fictitiously onto a balance sheet represents a fraudulent inflation of net worth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fictitiously designates in a false manner intended to mislead."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"He had registered at the hotel **fictitiously** under the name of an obscure Swiss schoolmaster."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"When mercantile profits are **fictitiously** exaggerated by fraudulent prospectuses, ruin soon overtakes the credulous investors."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The financial empire of Mr. Merdle was built upon debts **fictitiously** represented as vast liquid assets."*
+

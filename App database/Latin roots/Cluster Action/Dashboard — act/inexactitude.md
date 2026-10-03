@@ -42,8 +42,8 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An error, deviation, or approximation that fails to match the true fact, calculated measurement, or precise specification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical rhetoric, Winston Churchill famously coined the euphemism 'terminological inexactitude' in the House of Commons as a parliamentary periphrasis for a falsehood or untruth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of precision, rigor, or factual correctness; an inaccuracy or error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political rhetoric, terminological inexactitude was Winston Churchill's famous parliamentary euphemism for a falsehood or misleading statement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **Winston Churchill (*Speech in the House of Commons*):** *"The statement could not, without some risk of terminological **inexactitude**, be described as the truth."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ineffectual manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ineffectual manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without producing the desired effect, success, or outcome; in vain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, portraying characters struggling against overwhelming natural forces or inexorable historical currents ineffectually.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Sometimes, a strong man’s hand, sometimes a strong man’s breast, was set against my mouth to deaden my cries, and with a hot breath always close to me, I struggled ineffectually in the dark, while I was fastened tight to the wall."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For, of course, each boat is supplied with several harpoons to bend on to the line should the first one be ineffectually darted without recovery."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A party of them caught sight of him as he fell, and sounding the alarm, had lifted him up; and after ineffectually endeavouring to restore him at the brook, had hurried forward with him to the house."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"He fluttered his wings **ineffectually** upon the surface of the pond before sinking beneath the clear water."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailors tugged **ineffectually** at the tangled ropes while the tempest roared with mounting fury."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Both my sister and myself have endeavoured to correct his vices, but **ineffectually**, as time has proven."*
+

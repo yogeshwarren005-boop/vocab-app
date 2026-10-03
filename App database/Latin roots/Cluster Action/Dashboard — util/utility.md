@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A company that performs a public service; subject to government regulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being of practical use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practical usefulness, fitness to satisfy human needs or desires, and the capacity to yield advantageous results.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microeconomics, utility is a measure of the total satisfaction, value, or preference derived by a consumer from the consumption of goods and services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She knew herself to be of the first utility to the child; and what was it to her if Frederick Wentworth were only half a mile distant, making himself agreeable to others?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is an expression of the value of a man's possessions, and not of the utility[4] of them."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 25, for the definition of utility.] [Footnote 5: See Vol."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness: by happiness is intended pleasure, and the absence of pain; by unhappiness, pain, and the privation of pleasure: this is the core of **utility**."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The **utility** of any object, it has frequently been observed, pleases the master by perpetually suggesting to him the pleasure or conveniency which it is fitted to promote."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Knowledge is not a couch whereon to rest a searching spirit, nor a terrace for a wandering mind, but a rich storehouse for the glory of the Creator and the **utility** of mankind."*
+

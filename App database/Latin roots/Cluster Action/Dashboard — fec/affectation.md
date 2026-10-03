@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberate pretense or exaggerated display.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberate pretense or exaggerated display.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behavior, speech, or writing that is artificial and designed to impress others; an unnatural pretense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary criticism and rhetoric, affectation is censured as the opposite of natural grace and artistic sincerity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Taffeta phrases, silken terms precise, Three-piled hyperboles, spruce affectation, Figures pedantical: these summer flies Have blown me full of maggot ostentation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That without any affectation of disparaging such professional distinction as I may have attained (which our friend Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The affectation of the gauzy child, and her condescension to the boys, was a sight."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"His conversation was pleasant, without the slightest **affectation** of superior wisdom or fashion."*
+> - 📜 **Francis Bacon (*The Essays*):** *"In dress and demeanour, all visible **affectation** breeds contempt rather than admiration."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No vice is more universally despised than **affectation**, because it is always an attempt to impose upon the world."*
+

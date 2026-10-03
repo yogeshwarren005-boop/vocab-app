@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cargo ship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cargo ship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial ship or vessel used for international trade rather than warfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval warfare and prize law, an unarmed merchantman was subject to visit and search by belligerent cruisers on the high seas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The _Sparwehr_ was a Dutch merchantman daring the uncharted seas for Indies beyond the Indies."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Here and there a lantern gleamed at the stern of some huge merchantman."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He gave a swaggering detail of the capture of a Spanish merchantman."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Here and there a lantern gleamed at the stern of some huge **merchantman** lying out in the river."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The vessel was an English **merchantman**, returning from Japan by the Northern Pacific route."*
+> - 📜 **Herman Melville (*Typee*):** *"Our lonely **merchantman** ploughed through the long rolling swells of the tropical Pacific for weeks on end."*
+

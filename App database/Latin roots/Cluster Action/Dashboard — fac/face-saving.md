@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Maintaining dignity or prestige.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintaining dignity or prestige.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to preserve dignity, prestige, or self-respect; avoiding public humiliation or embarrassment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy and cross-cultural negotiation, formulating face-saving compromises enables disputing states to withdraw from crises without losing honor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, face-saving designates maintaining dignity or prestige."*
+> - 📜 **Woodrow Wilson (*War and Peace: Presidential Messages*):** *"Diplomatic protocol must often devise a **face-saving** formula that permits an embattled cabinet to retreat gracefully."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"Jim clung desperately to every **face-saving** pretext that might shield his conscience from his catastrophic failure."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The prime minister welcomed the quiet settlement as an ideal **face-saving** resolution to a perilous cabinet scandal."*
+

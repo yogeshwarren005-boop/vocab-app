@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A patron of the opera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A patron of the opera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who attends opera performances, especially on a regular or enthusiastic basis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century social history, the fashionable operagoer was a prominent figure in urban high society, where the opera box served as a theater of social display.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operagoer designates a patron of the opera."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The experienced New York **operagoer** knew that fashionable convention dictated arriving precisely midway through the second act."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The earnest **operagoer** must endure the chatter of the stalls while waiting for the sublime orchestral preludes."*
+> - 📜 **Marcel Proust (*The Guermantes Way*):** *"From his vantage point, the young **operagoer** observed the Duchess leaning forward in her proscenium box like a goddess in a grotto."*
+

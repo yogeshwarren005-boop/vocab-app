@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worth using.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not worth using.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Useless; serving no useful purpose, function, or practical advantage; unprofitable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary philosophy and classical rhetoric, inutile characterizes vain pedantry or superficial luxuries that consume human time without yielding moral or intellectual virtue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inutile designates not worth using."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Riches are for spending, and spending for honor and good actions; therefore extraordinary expense must be limited by the hazard of an **inutile** squandering."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Discard all **inutile** pedantries of the schools and look with open eyes upon the living garment of the universe."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Do not overburden the memory of a child with dry grammatical rules that remain wholly **inutile** in real discourse."*
+

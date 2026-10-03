@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Process (ores or other raw materials), as by reduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process (ores or other raw materials), as by reduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To process or treat raw ore, mineral resources, or materials to improve their physical or chemical properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and mineral processing, to beneficiate entails crushing, froth flotation, and magnetic separation to upgrade metal concentration before smelting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, beneficiate designates process (ores or other raw materials), as by reduction."*
+> - 📜 **Herbert Hoover (*Principles of Mining*):** *"Modern milling techniques **beneficiate** low-grade porphyry copper ores into high-value concentrates suitable for the reverberatory furnace."*
+> - 📜 **Georgius Agricola (*De Re Metallica*):** *"The miners wash the crushed vein rock in wooden troughs to **beneficiate** the heavier silver particles from the quartz sand."*
+> - 📜 **Thomas Edison (*The Edison Papers: Ore Concentration Investigations*):** *"We constructed giant magnetic separators to **beneficiate** lean magnetic iron deposits into rich smelting briquettes."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to olfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to olfaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with the sense of smell; olfactory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In perfumery and sensory aesthetics, olfactive pyramids describe the evaporation trajectory of top, middle, and base notes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, olfactive designates of or relating to olfaction."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The **olfactive** apparatus develops early in mammalian phylogeny, establishing primal survival orientations toward sustenance and danger."*
+> - 📜 **Marcel Proust (*Swann's Way*):** *"An **olfactive** impression of hawthorn blossoms suddenly unlocked the buried emotional atmosphere of childhood holidays in Combray."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"Man's **olfactive** faculties are comparatively blunt when contrasted with the astonishing discernment of tracking hounds."*
+

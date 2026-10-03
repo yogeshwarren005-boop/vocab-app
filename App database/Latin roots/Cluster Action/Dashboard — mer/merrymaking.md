@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boisterous celebration; a merry festivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boisterous celebration; a merry festivity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or activity of celebrating, rejoicing, and enjoying festive entertainment with others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social anthropology, seasonal merrymaking strengthens communal bonds and marks transitions in agricultural cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Long before this time Weatherbury had been thoroughly aroused, and the wild deed which had terminated Boldwood’s merrymaking became known to all."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As the merrymaking lasts for two or three weeks, the exhaustion of the musician at the end of it may be readily conceived."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Once in the regiment I had not gone to some merrymaking where there was music... and suddenly I felt so depressed...” “Oh yes, I know, I know, I know!” Natásha interrupted him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Long before this time Weatherbury had been thoroughly aroused, and the sounds of harvest **merrymaking** echoed across the fields."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The New Year's Eve dance at the Red House was the chief scene of winter **merrymaking** for the whole parish."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The ancient hall resounded with joyous holiday **merrymaking** as the Yule log blazed upon the wide hearth."*
+

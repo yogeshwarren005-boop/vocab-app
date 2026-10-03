@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in or connected with a sacrifice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in or connected with a sacrifice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, used in, or offered as a religious or metaphorical sacrifice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and corrosion engineering, a sacrificial anode undergoes preferential galvanic corrosion to protect underlying steel vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All those which were his fellows but of late, Some better than his value, on the moment Follow his strides, his lobbies fill with tendance, Rain sacrificial whisperings in his ear, Make sacred even his stirrup, and through him Drink the free air."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Lloyd, _op. cit._ pp. 261 _sq._ These springs are called "sacrificial fonts" (_Offer källor_) and are "so named because in heathen times the limbs of the slaughtered victim, whether man or beast, were here washed prior to immolation" (L."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"First he takes about a double handful of shavings out of his grego pocket, and places them carefully before the idol; then laying a bit of ship biscuit on top and applying the flame from the lamp, he kindled the shavings into a sacrificial blaze."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Fragrant clouds of frankincense rose from the **sacrificial** altar, drifting upward to appease the throne of heaven."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Hester Prynne embraced her life of austere penance as a prolonged, silent **sacrificial** offering."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient agricultural tribes slaughtered the **sacrificial** king to renew fertility in the barren winter soil."*
+

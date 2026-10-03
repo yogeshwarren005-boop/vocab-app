@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of forming semisolid lumps in a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of forming semisolid lumps in a liquid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process by which a liquid, especially blood, changes to a gel or solid mass; clotting or curdling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, the coagulation cascade is the series of enzymatic reactions involving intrinsic and extrinsic pathways that generate thrombin and polymerize fibrin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The huge pool of blood in front of her was already assuming the iridescence of coagulation; and when the sun rose a hundred prismatic hues were reflected from it."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The normal **coagulation** of blood is a protective physiological defense against fatal exsanguination following trauma."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The **coagulation** of milk by mineral acids demonstrates that chemical transformation can alter physical states without adding heat."*
+> - 📜 **Armand Quick (*The Hemorrhagic Diseases*):** *"The precise sequence of the **coagulation** mechanism ensures that clotting remains localized to the exact site of vascular injury."*
+

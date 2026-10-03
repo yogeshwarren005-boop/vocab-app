@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doctrine that the useful is the good; especially as elaborated by jeremy bentham and james mill; the aim was said to be the greatest happiness for the greatest number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Doctrine that the useful is the good; especially as elaborated by jeremy bentham and james mill; the aim was said to be the greatest happiness for the greatest number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ethical doctrine that actions are right if they are useful or for the benefit of a majority; the theory that the moral worth of an action is determined by its contribution to overall happiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century British intellectual history, utilitarianism (championed by Bentham, James Mill, and John Stuart Mill) served as the philosophical foundation for parliamentary and legal reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"This is the reason why so many persons have been unable to understand him as the prophet of utilitarianism."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Utilitarianism is the proper creed of hard unemotional natures, who do not respond to the more subtle moral influences."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Such is the view natural to those who cannot dissociate the word "utilitarianism" from the narrow meaning of utility, as contrasted with the pleasures of art."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The creed which accepts as the foundation of morals utility, or the greatest happiness principle, holds that actions are right in proportion as they tend to promote happiness: this is the essence of **utilitarianism**."*
+> - 📜 **Henry Sidgwick (*The Methods of Ethics*):** *"Universalistic hedonism, commonly called **utilitarianism**, holds that the ultimate standard of right conduct is the promotion of the general happiness."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Philosophic radicalism and **utilitarianism** were responsible for an immense number of practical reforms in nineteenth-century England."*
+

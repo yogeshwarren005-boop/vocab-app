@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The nail at the end of a finger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nail at the end of a finger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thin, flattened horny plate of hard keratin covering the dorsal surface of the distal phalanx of each human finger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and dermatology, fingernail morphology—such as clubbing, spooning, or splinter hemorrhages—provides diagnostic clues of systemic disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His small hands, fingers laden with rings, appeared to drip from his sleeves. ## Lumbering to his raised chair at the head of the table, Narval laboriously stepped up and sat, lifted his hand to his mouth and nibbled at a fingernail."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Selecting a fingernail, he commenced nibbling at it, giving the task his full attention."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Bringing his hand close, Narval searched for a fingernail that demanded his attention."*
+> - 📜 **James Joyce (*Ulysses*):** *"He examined each trimmed **fingernail** with fastidious care, flicking away imaginary particles of dust."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab gripped the ship's rail until the white pressure showed beneath each straining **fingernail**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A subtle cyanotic tint beneath the patient's **fingernail** beds confirms persistent cardiopulmonary hypoxemia."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not seriously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not seriously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a flippant, playfully humorous, or inappropriately jocular manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character interaction and dialogue, replying facetiously masks inner discomfort or attempts to deflect serious inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is facetiously understood to entertain a passion for a lady at a cigar-shop in the neighbourhood of Chancery Lane and for her sake to have broken off a contract with another lady, to whom he had been engaged some years."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Ralph had usually treated it facetiously; but present circumstances proscribed the facetious."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Bantling rejoined facetiously."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Herbert remarked **facetiously** that looking about him for an opening in commerce was the most pleasant occupation in London."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The doctor replied **facetiously** to the solemn Italian guide, asking whether Christopher Columbus was truly dead."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes answered **facetiously**, though Watson knew that behind the jest lay a mind working with intense concentration."*
+

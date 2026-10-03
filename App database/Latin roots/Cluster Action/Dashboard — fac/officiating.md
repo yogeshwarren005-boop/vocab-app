@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of umpiring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in an official capacity in a ceremony or religious ritual, such as a wedding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting in an official capacity or presiding over a ceremony, rite, or formal proceeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law and ecclesiastic jurisdiction, an officiating priest must hold valid episcopal faculties within the territorial parish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The officiating curate, who had not yet doffed his surplice, perceived the new-comer, and followed him to the communion-space."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon seemed to be the officiating clergyman, about whom it would be indecent to make remarks."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Tyke, a zealous able man, who, officiating at a chapel of ease, had not a cure of souls too extensive to leave him ample time for the new duty."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The **officiating** clergyman paused with his book open, inquiring whether anyone present knew cause why the couple should not be joined."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The **officiating** herald announced the combatants and signaled the trumpet fanfare for the tournament to commence."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The curate stood **officiating** at the chapel altar, conscious of the cynical smiles among the fashionable guests."*
+

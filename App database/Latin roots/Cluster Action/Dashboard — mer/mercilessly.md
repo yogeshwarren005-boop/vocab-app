@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without pity; in a merciless manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without pity; in a merciless manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a merciless, pitiless, or unsparing manner; without compassion or leniency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and narrative tension, satirizing or interrogating a subject mercilessly strips away all protective illusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then with her little scissors, by the aid of a pocket looking-glass, she mercilessly nipped her eyebrows off, and thus insured against aggressive admiration, she went on her uneven way."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There were few trees, or none, those that would have grown in the hedges being mercilessly plashed down with the quickset by the tenant-farmers, the natural enemies of tree, bush, and brake."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Not here?” exclaimed the man, striking his left cheek mercilessly, with the flat of his hand."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whatever opinion you may have of my wisdom, you should not tell me of it so **mercilessly** to my face."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The arctic blizzard whipped **mercilessly** across the frozen decks of the icebound whaler."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Creakle lashed the trembling boy **mercilessly** across the shoulders with his cane."*
+

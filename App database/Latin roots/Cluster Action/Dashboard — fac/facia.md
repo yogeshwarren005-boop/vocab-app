@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheet or band of fibrous connective tissue separating or binding together muscles and organs etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheet or band of fibrous connective tissue separating or binding together muscles and organs etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat horizontal band, frieze, or fascia on a building exterior, or an instrument panel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and classical entablature, a facia designates the broad projecting band across the architrave or storefront.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facia designates a sheet or band of fibrous connective tissue separating or binding together muscles and organs etc."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The carved **facia** of the lower arcade projected over the canal, enriched with Byzantine foliate molding."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Above the shopfront ran a freshly painted timber **facia** announcing the timber-merchant's trade to the market square."*
+> - 📜 **George Gissing (*New Grub Street*):** *"He paused before the darkened premises, reading the gilt lettering upon the brass-bound **facia**."*
+

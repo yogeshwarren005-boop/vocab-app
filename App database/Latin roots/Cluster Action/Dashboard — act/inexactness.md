@@ -42,8 +42,8 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of strict precision, sharpness, or fidelity in speech, measurement, or calculation, leaving margins of uncertainty or vagueness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of science, inexactness characterizes phenomenological laws and heuristic models that capture broad qualitative regularities without achieving mathematical rigor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deficiency in accuracy, geometric precision, or meticulous thoroughness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cartography and surveying, inexactness in baseline measurements compounds exponentially across successive triangulation networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **Francis Bacon (*The Essays*):** *"The common **inexactness** of human speech breeds endless controversies that vanish as soon as definitions are fixed."*

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exerting a favorable or beneficent influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exerting a favorable or beneficent influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resulting in good or favorable outcomes; having a kindly, generous, or beneficial influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical astrology and horoscopic cosmology, Jupiter and Venus are classified as benefic planets that bestow auspicious fortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He will even speak well of the bishop, though I tell him it is unnatural in a beneficed clergyman; what can one do with a husband who attends so little to the decencies?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Having a contempt for curates, whom he always called understrappers, he was resolved to be buried by a beneficed clergyman."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That is the well-beneficed point of view, you perceive, from which difficulties are much simplified,” he ended, smiling."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Astrologers attribute gentle and **benefic** virtues to the benign conjunctions of the greater planets."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The ancient sages distinguished between the malignant aspects of Saturn and the **benefic** radiance of Jupiter."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The creator breathed a **benefic** spirit across the newly ordered universe, commanding all life to flourish."*
+

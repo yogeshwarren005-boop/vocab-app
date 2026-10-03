@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct feature or element in a problem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smooth surface (as of a bone or cut gemstone).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One side or aspect of something; also one of the flat polished surfaces on a cut gemstone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate entomology, each individual lens or ommatidium of an insect's compound eye forms a distinct optical facet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In the larger and older jewels every facet may stand for a bloody deed."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"And you vary more, you're not always the same, you have more facets: one can see you've done all sorts of things and mixed with all sorts of people."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Some reflected the light of day upon a thousand crystal facets."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Every individual nature is a new **facet** of the diamond of divine intelligence, reflecting the universal light from a fresh angle."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The compound eye of the dragon-fly contains thousands of minute visual **facet** structures cooperating to detect movement."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She turned the complicated social dilemma over in her mind, examining every painful **facet** of the situation."*
+

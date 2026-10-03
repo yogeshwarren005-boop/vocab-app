@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being difficult to digest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being difficult to digest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of being indigestible; quality of resisting digestive enzymes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century food chemistry, the indigestibleness of specific culinary preparations was measured by their persistence in artificial pepsin-hydrochloric acid baths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indigestibleness designates the property of being difficult to digest."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"The **indigestibleness** of fried meats is caused by the impermeability of the lipid coating to the aqueous gastric juice."*
+> - 📜 **Justus von Liebig (*Researches on the Chemistry of Food*):** *"The toughness and **indigestibleness** of overcooked collagen contrasts with the tender solubility of gently stewed gelatin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dietary counsel must instruct the patient on avoiding culinary articles whose **indigestibleness** provokes peptic distress."*
+

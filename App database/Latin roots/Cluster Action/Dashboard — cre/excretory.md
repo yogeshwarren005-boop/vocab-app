@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the process of excretion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the process of excretion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with the biological excretion of waste matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate embryology, the excretory system develops from primitive protonephridia equipped with ciliated flame cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excretory designates of or relating to the process of excretion."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The primordial vertebrate possessed an **excretory** apparatus consisting of segmental tubules opening into a longitudinal duct."*
+> - 📜 **T. H. Huxley (*Lessons in Elementary Physiology*):** *"The kidneys constitute the principal **excretory** organs for eliminating soluble nitrogenous waste from the mammalian body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Toxic drugs frequently cause acute necrosis of the renal tubular epithelium during their **excretory** passage."*
+

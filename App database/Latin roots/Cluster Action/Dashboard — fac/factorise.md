@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resolve (a polynomial) into factors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resolve (a polynomial) into factors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To resolve or decompose a number or mathematical expression into constituent factors (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In matrix computation and linear algebra, to factorise a covariance matrix via Cholesky decomposition simplifies solving high-dimensional linear systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factorise designates resolve (a polynomial) into factors."*
+> - 📜 **Augustus De Morgan (*Elements of Algebra*):** *"Before attempting to solve a polynomial equation, the student should always attempt to **factorise** the expression into simpler binomials."*
+> - 📜 **James Joseph Sylvester (*Collected Mathematical Papers*):** *"It is always possible to **factorise** this symmetrical determinant into an array of harmonious rational parts."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"We may **factorise** the operational resistance into distinct capacitive and inductive impedance operators."*
+

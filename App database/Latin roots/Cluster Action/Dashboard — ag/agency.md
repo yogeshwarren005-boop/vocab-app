@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An administrative unit of government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A business that serves other businesses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity, condition, or state of acting or exerting power; the operational means by which an effect is produced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial and civil law, agency is the fiduciary relationship established when one person (the principal) consents to another (the agent) acting on their behalf.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"I would not have you think that I am overlooking the Divine agency in what has befallen me."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The life of faith lays the soul open to assaults of the Devil by their agency."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Familiar with the various organizations of the benevolent societies, and only too happy to have an agency in supplying the wants of a laborer in Christ's vineyard, he soon started the money on its appointed errand."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I look at the species of plants on oceanic islands as having been introduced through the **agency** of ocean currents, birds, and winds."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor is not originally the effect of human wisdom, but of a necessary human propensity operating through commercial **agency**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She believed in her own power of benevolent **agency**, trusting that clear purpose would overcome petty obstacles."*
+

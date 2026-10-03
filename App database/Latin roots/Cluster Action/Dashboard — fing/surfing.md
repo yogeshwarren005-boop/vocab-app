@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport of riding a surfboard toward the shore on the crest of a wave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride the waves of the sea with a surfboard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport and recreation of riding breaking ocean waves toward shore while standing or lying on a surfboard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary computing and telecommunications, surfing refers to the informal, exploratory browsing of digital hypermedia and internet web pages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surfing designates the sport of riding a surfboard toward the shore on the crest of a wave."*
+> - 📜 **Mark Twain (*Roughing It*):** *"In one place we came upon a large company of naked natives of both sexes and all ages amusing themselves with the national sport of **surfing** upon the rollers."*
+> - 📜 **Jack London (*The Cruise of the Snark*):** *"It is a magnificent sight to see a bronzed Kanaka **surfing** upon the boiling crest of a roaring comber at Waikiki."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The young islanders took delight in **surfing** across the barrier reef upon small wooden planks with fearless agility."*
+

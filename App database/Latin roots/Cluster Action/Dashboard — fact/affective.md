@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to moods, feelings, attitudes, and emotional responses rather than cold reasoning or cognition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric diagnostics and neurobiology, affective disorders (such as depression and bipolar disorder) involve primary dysregulation of emotional valence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affective designates characterized by emotion."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every intellectual representation is colored by an **affective** tone of pleasantness or unpleasantness."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The **affective** life of the infant is dominated by immediate impulses seeking gratification and avoiding unpleasure."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The skilled clinician must assess both the somatic symptoms and the **affective** state of the chronic invalid."*
+

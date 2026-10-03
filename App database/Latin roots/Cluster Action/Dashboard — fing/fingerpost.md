@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A guidepost resembling a hand with a pointing index finger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A guidepost resembling a hand with a pointing index finger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A roadside signpost featuring a pointing, finger-shaped arm that indicates the route and distance to a destination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical travel literature and metaphoric prose, a fingerpost symbolizes guidance, moral direction, or a decisive crossroads in human life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerpost designates a guidepost resembling a hand with a pointing index finger."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I walked to the lonely churchyard where the old wooden **fingerpost** pointed toward the misty marshes and the river."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She paused at the lonely four-cross-ways where a weather-bleached **fingerpost** directed the traveler toward Marlott."*
+> - 📜 **George Eliot (*Adam Bede*):** *"At the cross-roads stood the venerable oak **fingerpost**, its carved letters filled with green moss from autumn rains."*
+

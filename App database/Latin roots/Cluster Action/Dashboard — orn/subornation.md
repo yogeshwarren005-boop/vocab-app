@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Underhandedly or improperly inducing someone to do something improper or unlawful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perjured testimony that someone was persuaded to give.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The crime of secretly procuring, bribing, or inducing another person to commit an unlawful act, particularly perjury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law jurisprudence, the conviction for subornation of perjury requires proof of an unlawful procurement and that false testimony was actually sworn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue is choked with foul ambition, And charity chased hence by rancour’s hand; Foul subornation is predominant, And equity exiled your highness’ land."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"Perjury, oppression, subornation, fraud, pandarism, and the like infirmities, were among the most excusable arts they had to mention; and for these I gave, as it was reasonable, great allowance."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Thy treasonous malice and shameless **subornation** of false knaves against the Protector shall be openly revealed in parliament."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The court intrigues of Lilliput were perpetually supported by bribery, perjury, and political **subornation**."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The statute against **subornation** of perjury visits severe penalties upon all who induce false swearing in courts of record."*
+

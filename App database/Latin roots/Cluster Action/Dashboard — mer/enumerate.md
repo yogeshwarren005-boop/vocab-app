@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Specify individually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the number or amount of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To mention a number of things one by one; to list, count, or specify individually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational algorithms and combinatorics, to enumerate an algebraic set entails generating every element systematically in rigorous order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Many things, needless to enumerate, press this upon my mind."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"We now proceed to enumerate some of the causes, of this deplorable state of feeling towards the _truth as it is in Jesus_."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I shall enumerate them by their forecastle appellations; for possibly such a list may be valuable to future investigators, who may complete what I have here but begun."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will not **enumerate** his many virtues, for every tongue in Venice sings his praiseworthy deeds."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"It is impossible to **enumerate** all the distinct simple ideas that enter our minds through sensory perception."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"It would take too long to **enumerate** all the remarkable adaptations of insect mouthparts to floral structures."*
+

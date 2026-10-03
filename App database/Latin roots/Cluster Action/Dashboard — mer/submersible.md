@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus intended for use under water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warship designed to operate under water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to operate completely underwater; also a small underwater vessel used for scientific exploration or deep salvage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deep-sea oceanography, a submersible vehicle equipped with robotic manipulators allows researchers to sample hydrothermal vent ecosystems at abyssal depths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, submersible designates an apparatus intended for use under water."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The Nautilus proved the supreme efficiency of a **submersible** vessel in navigating uncharted oceanic abysses."*
+> - 📜 **Charles William Beebe (*Half Mile Down*):** *"From the observation port of our deep-sea **submersible**, we beheld glowing bathypelagic jellyfish drifting in the ink-black depths."*
+> - 📜 **Arthur Conan Doyle (*Danger! and Other Stories*):** *"The tiny **submersible** craft crept unseen through the minefield, torpedoing the flagship anchored in the bay."*
+

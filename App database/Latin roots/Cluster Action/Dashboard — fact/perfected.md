@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make perfect or complete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of plans, ideas, etc.) perfectly formed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought to completion, ultimate refinement, or highest attainable excellence; free of flaws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual property and legal doctrine, a perfected security interest or patent right has fulfilled all statutory filing requirements to secure legal enforceability against third parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It must be so, for miracles are ceased, And therefore we must needs admit the means How things are perfected."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Experience is by industry achieved And perfected by the swift course of time."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Must we be prepared to give up all if we would be perfected?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It must be so, for miracles are ceased, and therefore we must needs admit the means how things are **perfected**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"How have all those exquisite adaptations of one part of the organization to another been **perfected** through natural selection?"*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A truly great invention is not struck off at a single blow, but is **perfected** through generations of patient labor."*
+

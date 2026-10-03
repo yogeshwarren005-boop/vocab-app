@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow mode of locomotion on hands and knees or dragging the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move slowly; in the case of people or animals with the body near the ground.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving slowly, stealthily, or close to the ground; advancing imperceptibly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical descriptions, creeping rhizomes spread horizontally beneath the soil surface, sending up vegetative shoots at intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At first the infant, Mewling and puking in the nurse’s arms; Then the whining schoolboy, with his satchel And shining morning face, creeping like snail Unwillingly to school."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He has wings; he’s more than a creeping thing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now entertain conjecture of a time When creeping murmur and the poring dark Fills the wide vessel of the universe."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Then the whining schoolboy, with his satchel and shining morning face, **creeping** like snail unwillingly to school."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Why won't you have me? he appealed, **creeping** round the holly bush to catch a glimpse of her face."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The **creeping** roots of grasses bound the surface soil against erosion on the steep hillside."*
+

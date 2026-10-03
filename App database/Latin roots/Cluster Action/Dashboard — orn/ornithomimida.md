@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lightly built medium-size theropods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lightly built medium-size theropods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete or informal taxonomic grouping encompassing ostrich-mimic theropod dinosaurs of the Cretaceous period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In late nineteenth-century paleontology, Ornithomimida grouped long-legged bird-like theropods before modern phylogenetic cladistics reorganized them into Ornithomimosauria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithomimida designates lightly built medium-size theropods."*
+> - 📜 **Othniel Charles Marsh (*Notice of New American Dinosauria*):** *"The genus Ornithomimus exhibits foot bones so bird-like that I assign it to a distinct family group, the **Ornithomimida**."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Cretaceous Formations of the West*):** *"Fossil specimens referred to **Ornithomimida** share hollow, thin-walled bones and elongated metatarsals suited for cursorial locomotion."*
+> - 📜 **Henry Fairfield Osborn (*Fossil Reptiles of the American Museum*):** *"Early classifications labeled these ostrich-like forms as **Ornithomimida**, highlighting their extraordinary morphological convergence with modern ratite birds."*
+

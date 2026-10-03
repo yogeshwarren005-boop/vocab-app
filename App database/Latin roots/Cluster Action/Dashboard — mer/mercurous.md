@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or containing mercury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or containing mercury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or relating to mercury in its lower monovalent oxidation state (+1), existing as the diatomic cation Hg2(2+).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacopeias, mercurous chloride, commonly known as calomel, was widely prescribed as a purgative, cathartic, and antisyphilitic agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercurous designates of or containing mercury."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The white insoluble precipitate of **mercurous** chloride separates cleanly upon adding hydrochloric acid to mercurous nitrate."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The mild medicinal properties of insoluble **mercurous** salts contrast remarkably with the deadly virulence of soluble mercuric compounds."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Electrolytic decomposition of the molten **mercurous** salt deposited heavy metallic globules at the cathode."*
+

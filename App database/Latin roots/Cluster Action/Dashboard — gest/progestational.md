@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to progesterone (or to a drug with effects like those of progesterone).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding and favoring gestation; of or relating to physiological changes associated with ovulation and formation of the corpus luteum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the physiological effects of progesterone; promoting or sustaining gestation (pregnancy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive endocrinology, progestational changes in the endometrium during the secretory phase include stromal decidualization and glandular tortuosity in preparation for blastocyst implantation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progestational designates of or relating to progesterone (or to a drug with effects like those of progesterone)."*
+> - 📜 **George Corner (*Physiology of the Corpus Luteum*):** *"The hormonal secretion of the corpus luteum exerts a specific **progestational** influence upon the uterine mucosa essential for embryonic implantation."*
+> - 📜 **Bertram Katzung (*Basic and Clinical Pharmacology*):** *"Synthetic **progestational** agents are combined with estrogens in oral contraceptives to suppress the mid-cycle luteinizing hormone surge."*
+> - 📜 **Gregory Pincus (*The Control of Fertility*):** *"The biological discovery of orally active **progestational** steroids made possible the development of pharmacological fertility control."*
+

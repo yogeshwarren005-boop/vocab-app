@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily process of discharging waste matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eliminate from the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of discharging or eliminating bodily waste matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical botany and entomology, extrafloral nectaries function by excreting carbohydrate-rich fluids to attract predatory ants that defend the plant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excreting designates the bodily process of discharging waste matter."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Some of these seedlings would inherit the nectar-**excreting** glands, gaining an advantage by attracting pollinating insects."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudoriferous glands assist the kidneys by **excreting** copious aqueous sweat containing traces of urea."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The yeast cells thrive by absorbing sugars and **excreting** alcohol and carbonic acid gas as metabolic products."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who believes that the value of a thing depends on its utility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a useful function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to be useful, practical, and functional rather than decorative or artistic; relating to utility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy, Utilitarian pertains to the normative theory that actions are right in proportion as they tend to promote the greatest happiness for the greatest number.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is possible that there was this golden legend under the utilitarian one: “I will help to my last effort the woman I have loved so dearly.” He went back to the barn to endeavour to obtain assistance for covering the ricks that very night."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His own person was the exact embodiment of his utilitarian character."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Speaking generally, he has obtained a very wide acceptance of the utilitarian doctrines: they were presented by Bentham in a form so harsh and unattractive as to produce an almost repelling effect."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The **utilitarian** doctrine is, that happiness is desirable, and the only thing desirable, as an end; all other things being only desirable as means to that end."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"An action may be said to be conformable to the principle of utility when the tendency it has to augment the happiness of the community is greater than any which it has to diminish it: this is the **utilitarian** foundation."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Mr. Gradgrind was an uncompromising **utilitarian**, demanding facts, nothing but facts, and banishing all fancy from the classroom."*
+

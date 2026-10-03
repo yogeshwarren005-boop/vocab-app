@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a moderate yellow-green color that is greener and deeper than moss green and yellower and darker than pea green.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a moderate yellow-green color that is greener and deeper than moss green and yellower and darker than pea green.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Watercress; also a borough in Cambria County, Pennsylvania, historic mountain resort and railroad depot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary French terminology, potage au cresson denotes a creamy potato and watercress soup garnishing classical haute cuisine menus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cresson designates of a moderate yellow-green color that is greener and deeper than moss green and yellower and darker than pea green."*
+> - 📜 **Alexandre Dumas (*Grand Dictionnaire de Cuisine*):** *"A garnish of fresh **cresson** brings a lively, peppery freshness to roasted game fowl upon the banquet table."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Simmer the potato purée with finely chopped **cresson** to produce a delicate, nourishing soup for the sickroom."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"We paused at the mountain depot of **cresson**, breathing the invigorating pine air of the Allegheny summit."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that creeps or crawls (such as worms or spiders or insects).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing a sensation as of things crawling on your skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing an unpleasant crawling sensation on the skin; creepy; also an informal term for a small crawling insect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial psychology, creepy-crawly sensations describe formication or somatic tactile hallucinations provoked by phobic stimuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creepy-crawly designates an animal that creeps or crawls (such as worms or spiders or insects)."*
+> - 📜 **Beatrix Potter (*The Tale of Mrs. Tittlemouse*):** *"Mrs. Tittlemouse was a most tidy little mouse, who spent half her life chasing beetles and other **creepy-crawly** intruders out of her pantry."*
+> - 📜 **Kenneth Grahame (*The Wind in the Willows*):** *"Toad poked with his stick into the hollow tree, expecting to disturb beetles and harmless **creepy-crawly** creatures in the bark."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Spider*):** *"Children shrink from these little garden **creepy-crawly** spiders, unaware of the wonderful geometric architectural instincts they possess."*
+

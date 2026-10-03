@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With elaboration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With elaboration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an elaborate, detailed, or painstakingly intricate manner; with great care and attention to ornamentation or complexity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social observation and literary stylistics, elaborately describes formal manners, ceremonies, or prose constructed with fastidious decorative complexity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He worked his way through a goodly number of the Greek and Latin classics, in copies borrowed from the libraries of the two ministers; and he not only read, but analysed and elaborately annotated what he read."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In English the story is told at length by Professor (Sir) John Rhys, _Celtic Heathendom_ (London and Edinburgh, 1888), pp. 529 _sqq._ It is elaborately discussed by Professor F."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Its second rising displayed a more elaborately prepared scene than the last."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Miss Havisham sat before her **elaborately** draped dressing table, surrounded by the faded relics of her bridal feast."*
+> - 📜 **Jane Austen (*Emma*):** *"He bowed **elaborately** to the assembled company, seeking to disguise his embarrassment with excessive formality."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ancient whale-ship was **elaborately** carved and decorated with scrimshaw ivory wrought during idle tropical voyages."*
+

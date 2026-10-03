@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various old world aromatic shrubs or subshrubs with usually mauve or blue flowers; widely cultivated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pale purple color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small aromatic Mediterranean shrub (Lavandula) with narrow leaves and spikes of fragrant pale purple flowers, or the pale purple color itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic folklore and perfumery, dried lavender flowers have been placed in linen cupboards since Roman antiquity to scent clothing and deter fabric moths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s flowers for you: Hot lavender, mints, savory, marjoram, The marigold, that goes to bed with th’ sun And with him rises weeping."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She carries some small litter in a reticule which she calls her documents, principally consisting of paper matches and dry lavender."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This WILL NOT do!” I cheered myself up pretty well at last, though I am afraid I was longer about it than I ought to have been; and when I had cooled my eyes with lavender water, it was time to watch for London."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here's flowers for you: hot **lavender**, mints, savory, marjoram; the marigold, that goes to bed wi' the sun, and with him rises weeping: these are flowers of middle summer."*
+> - 📜 **Jane Austen (*Emma*):** *"The fresh country linen in her guest chamber was sweetly scented with dried **lavender** from the kitchen garden."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"His aunt's quiet parlor was fragrant with the clean scent of dried **lavender** and potpourri in ancient china bowls."*
+

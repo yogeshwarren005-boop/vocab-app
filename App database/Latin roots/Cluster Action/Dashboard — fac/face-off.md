@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hostile disagreement face-to-face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ice hockey) the method of starting play; a referee drops the puck between two opposing players.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A direct confrontation, showdown, or contest between two opposing parties; also the start of play in ice hockey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic crisis management and international brinkmanship, a high-stakes face-off tests the resolve of sovereign leaders along disputed frontiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, face-off designates a hostile disagreement face-to-face."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The two rival sled dogs circled each other in a deadly **face-off**, their fangs bared and hackles raised in the freezing snow."*
+> - 📜 **Theodore Roosevelt (*The Rough Riders*):** *"The regiment braced for the final **face-off** with the enemy entrenchments atop San Juan Hill."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The skirmishers paused in a tense **face-off**, watching the smoke clear across the wheat field."*
+

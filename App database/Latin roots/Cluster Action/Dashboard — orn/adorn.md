@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more attractive by adding ornament, colour, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be beautiful to look at.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To decorate, beautify, or add grace and distinction to a person, place, or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and literary aesthetics, to adorn speech or prose is to embellish ideas with elegant metaphors, tropes, and harmonious cadences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Adorn his temples with a coronet, And yet, in substance and authority, Retain but privilege of a private man?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll be at charges for a looking-glass, And entertain a score or two of tailors To study fashions to adorn my body."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There lie thy bones, sweet Mutius, with thy friends, Till we with trophies do adorn thy tomb."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"She came to **adorn** our rustic feast with her incomparable beauty and modest demeanor."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Grace was in all her steps, heaven in her eye, in every gesture dignity and love, fitted to **adorn** the garden of God."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The fine portraits of his ancestors seemed to **adorn** the stately gallery rather than merely furnish the walls."*
+

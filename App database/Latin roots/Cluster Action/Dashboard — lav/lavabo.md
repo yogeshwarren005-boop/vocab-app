@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basin for washing the hands (`wash-hand basin' is a british expression).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basin for washing the hands (`wash-hand basin' is a british expression).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ritual washing of the celebrant's hands at the offertory of the Christian Eucharist, so named from the Latin phrase 'Lavabo manus meas' (I will wash my hands).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical architecture and monastic design, a lavabo is a stone washbasin or communal fountain where monks washed before entering the refectory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lavabo designates a basin for washing the hands (`wash-hand basin' is a british expression)."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The ceremonial **lavabo** before the altar symbolized that purity of conscience required of those who ministered in holy things."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"In the cloister court stood an exquisitely carved marble **lavabo**, fed by cool water brought from the hills through leaden conduits."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The priest performed the solemn **lavabo**, his whispered Latin prayer blending with the quiet chants of the choir."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that promotes digestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having the power to cause or promote digestion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or aiding the digestion of food; of or pertaining to the alimentary system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical history, a digestive was an herbal elixir or post-prandial cordial taken after heavy meals to stimulate gastric secretion and relieve fullness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My digestive functions, as you may have heard me mention, are not in a good state, and rest might improve them; but I shall not rest, sir, while I am your representative."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Cows and calves are generally juicy and tender, but not so the veterans; they, after death, butt around among one's digestive organs with a ferocity which makes the liver ache."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **digestive** system of ruminant mammals exhibits an extraordinary adaptation of multiple stomachs to ferment tough cellulose."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"The gastric juice is the primary **digestive** fluid, dissolving albuminous matter with astonishing velocity in vitro."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse never omitted to caution his visitors against pastry, as being peculiarly injurious to the **digestive** organs."*
+

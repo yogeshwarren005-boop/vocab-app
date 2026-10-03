@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not up to expectations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not up to expectations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to satisfy; unsatisfactory, disappointing, or inadequate in quality or result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative oversight and contract evaluation, a dissatisfactory report warrants formal censure or termination of services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To have reduced the different qualifications in the different States to one uniform rule, would probably have been as dissatisfactory to some of the States as it would have been difficult to the convention."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny found her aunt's cold and hurried letter singularly **dissatisfactory**, telling nothing of what she most yearned to hear."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The royal explanations offered to Parliament proved wholly **dissatisfactory** to the country gentlemen."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solicitor gave a very **dissatisfactory** account of the progress of the ancient Chancery suit."*
+

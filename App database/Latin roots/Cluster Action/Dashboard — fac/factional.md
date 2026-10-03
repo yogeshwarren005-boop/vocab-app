@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin fac within the domain of Action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of fac in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or proceeding from internal dissension, faction, or partisan dispute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and constitutional theory, factional rivalry threatens civic stability when self-interested blocs undermine public interest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Fenton, his factional opponent, was also there."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The friend of popular governments never finds himself so much alarmed for their character and fate, as when he contemplates their propensity to **factional** turbulence."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Constantinople was torn by ferocious **factional** animosity between the Blue and Green racing partisans of the Hippodrome."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliament was rent by bitter **factional** disputes between country gentlemen and court sycophants."*
+

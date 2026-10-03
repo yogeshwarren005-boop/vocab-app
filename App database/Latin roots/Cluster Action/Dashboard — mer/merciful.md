@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or giving mercy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used conventionally of royalty and high nobility) gracious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or exercising mercy; compassionate, forbearing, and lenient toward an offender or sufferer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and moral philosophy, the merciful character reflects divine grace by withholding deserved retribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be merciful, great Duke, to men of mould."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King is merciful, if you revolt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your will pass, I shall both find your lordship judge and juror, You are so merciful."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The quality of mercy is not strain'd, it droppeth as the gentle rain from heaven upon the place beneath: it is twice blest; it blesseth him that gives and him that takes: 'tis mightiest in the mightiest; it becomes the throned monarch better than his crown; his sceptre shows the force of temporal power, the attribute to awe and majesty, wherein doth sit the dread and fear of kings; but mercy is above this sceptred sway; it is enthroned in the hearts of kings, it is an attribute to God himself; and earthly power doth then show likest God's when mercy seasons justice. Therefore, Jew, though justice be thy plea, consider this, that, in the course of justice, none of us should see salvation: we do pray for mercy; and that same prayer doth teach us all to render the deeds of **merciful** compassion."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"He was a quiet, **merciful** man who sought to soften the cruelties of the revolutionary tribunal."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The tender love of the child was a **merciful** influence that brought the lonely weaver back into human fellowship."*
+

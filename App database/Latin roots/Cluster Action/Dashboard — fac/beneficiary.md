@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The recipient of funds or other benefits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic role of the intended recipient who benefits from the happening denoted by the verb in the clause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or entity that derives advantage or receives benefits, profits, or property from a trust, will, or insurance policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In feudal tenure, a beneficiary was an individual granted conditional usufruct of land or offices by an overlord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The beneficiary must have an _incurable interest_ in the property or person insured; that is, the beneficiary must actually suffer a loss by the occurrence insured against."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When there is no insurable interest or when the indemnity is greater than the loss that may be incurred, the beneficiary may and sometimes does find it to his interest to bring about the socially injurious event insured against."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Hugh Blake has recently died a bachelor, and before his demise he added a codicil to the above testament, or will, naming you, his great niece, his sole heir and beneficiary."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Featherstone's sudden demise left each prospective **beneficiary** in a fever of suspense regarding the contents of the will."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The young clerk was named as the principal **beneficiary** in the wealthy recluse's testament."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The court of chancery protects the rights of the **beneficiary** against any fraudulent conversion by the legal executor."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely well.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impressively beautiful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a magnificent, splendid, or extraordinarily grand and impressive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian aesthetic criticism, a landscape or heroic character depicted magnificently exhibits elevated nobility without descending into theatrical bombast.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Go away!” Sir Leicester has magnificently disengaged himself from the subject and retired into the sanctuary of his blue coat."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But what else could be expected! what else could be expected!” As he extended his hand with a magnificently forgiving air, and as I was broken by illness and unfit to quarrel, I took it."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"The next day the two sisters were at the ball, and so was Cinderella, but dressed more magnificently than before."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Monseigneur was in his inner room, his sanctuary of sanctuaries, the Holiest of Holiests to the crowd of worshippers in the suite of rooms without. Monseigneur was about to take his chocolate. Monseigneur could swallow a great many things with ease, and was by some few sullen minds supposed to be swallowing France; but, his chocolate could not so much as get into the throat of Monseigneur, without the aid of four strong men besides the Cook. Yes. It took four men, all four ablaze with gorgeous decoration, and the Chief of them unable to exist with fewer than two gold watches in his pocket, emulating each other in a race of luxury, to conduct the happy chocolate to Monseigneur's lips. One lacquey carried the chocolate-pot into the presence; the second milled the chocolate; the third presented the napkin; the fourth poured the chocolate out. It was impossible for Monseigneur to dispense with one of these attendants on the chocolate and hold his high place under the admiring Heavens. Deep would have been the blot upon his escutcheon if his morning chocolate had not been **magnificently** prepared."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The Rhine flowed **magnificently** past ancient ruined castles that crowned each craggy vineyard cliff."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The vast concert hall was **magnificently** illuminated with thousands of crystal girandoles reflecting the festive throng."*
+

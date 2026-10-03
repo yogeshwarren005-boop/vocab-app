@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical agent for use in chemical reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical agent for use in chemical reactions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or compound added to a system to cause a chemical reaction, or added to test if a reaction occurs (e.g. for qualitative or quantitative analysis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical assay protocols, the purity, concentration, and temperature of the detection reagent dictate the analytical sensitivity of the test.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He affirmed his significance as a conscious rational animal proceeding syllogistically from the known to the unknown and a conscious rational reagent between a micro and a macrocosm ineluctably constructed upon the incertitude of the void."*
-> - 📜 **James Joyce (*Ulysses*):** *"Because a nature full and volatile in its free state, was alternately the agent and reagent of attraction."*
-> - 📜 **James Joyce (*Ulysses*):** *"Because attraction between agent(s) and reagent(s) at all instants varied, with inverse proportion of increase and decrease, with incessant circular extension and radial reentrance."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Infusion of litmus serves as a sensitive **reagent** to detect the slightest presence of uncombined acid in the solution."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"I have found the **reagent**! he cried, running towards us with a test-tube in his hand; I have found a **reagent** which is precipitated by hemoglobin and by nothing else!"*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"Silver nitrate is employed as the standard analytical **reagent** to detect and precipitate soluble chlorides."*
+

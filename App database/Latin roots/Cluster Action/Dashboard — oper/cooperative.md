@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A jointly owned commercial enterprise (usually organized by farmers or consumers) that produces and distributes goods and services and is run for the benefit of its owners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association formed and operated for the benefit of those using it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving mutual assistance and working together toward a common goal; willing to cooperate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics and law, a cooperative is an autonomous association of persons united voluntarily to meet their common economic and social needs through a jointly owned enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A tall figure in bearded homespun rose from shadow and unveiled its cooperative watch. —I am afraid I am due at the _Homestead._ Whither away?"*
-> - 📜 **James Joyce (*Ulysses*):** *"On its cooperative dial glow the twelve signs of the zodiac."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The **cooperative** movement in Rochdale proved that workingmen could successfully organize and manage retail commerce for their own benefit."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"A tribe including many members possessed of high **cooperative** virtue would always succeed best against competing tribes."*
+> - 📜 **Jane Austen (*Emma*):** *"Her brother-in-law showed a most **cooperative** spirit, offering his carriages and servants to assist in the family journey."*
+

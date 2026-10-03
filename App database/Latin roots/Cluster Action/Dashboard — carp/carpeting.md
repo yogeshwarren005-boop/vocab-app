@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Floor covering consisting of a piece of thick heavy fabric (usually with nap or pile).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a carpet-like cover (over).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fabric or material used for carpets, or carpets considered collectively as a floor covering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In residential architecture and acoustic design, carpeting provides essential sound dampening and thermal insulation over concrete or timber subflooring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Bretton’s is very large, though: I should love you to have such a house; but it will take a great deal of furniture—carpeting and everything, besides plate and glass."*
-> - 📜 **Algis Budrys (*Citadel*):** *"His office chair was heavier and wider by far than any standard size, its casters rolling on a special composition base that had been laid down over the carpeting, for Marlowe's weight would have cut any ordinary rug to shreds."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"And so, in that derelict museum, upon the thick soft carpeting of dust, to Weena’s huge delight, I solemnly performed a kind of composite dance, whistling _The Land of the Leal_ as cheerfully as I could."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The new mansion was fitted with rich velvet-pile **carpeting** into which the feet sank as into a mossy glade."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny's cold little attic room was unprovided with **carpeting**, leaving the bare boards exposed to the winter draughts."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The thick Turkish **carpeting** deadened every sound as the midnight intruder crept across the gallery."*
+

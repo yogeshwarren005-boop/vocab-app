@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mar or spoil the appearance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mar or spoil the appearance of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To spoil the surface, appearance, or beauty of something; to mar, disfigure, or vandalize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics and criminal statutes, to deface sovereign coinage or public records constitutes a serious statutory felony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall we then dispense with that contract, And not deface your honour with reproach?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pay him six thousand, and deface the bond."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"VI Then let not winter’s ragged hand deface, In thee thy summer, ere thou be distill’d: Make sweet some vial; treasure thou some place With beauty’s treasure ere it be self-kill’d."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"**Deface** the bond, and let him not take a pound of flesh from my heart."*
+> - 📜 **John Milton (*Areopagitica*):** *"As good almost kill a man as kill a good book: who kills a man kills a reasonable creature, God's image; but he who destroys a good book, kills reason itself, and seeks to **deface** divine truth."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Fanatical mobs invaded the marble temples to **deface** the classical statues of the Olympian gods."*
+

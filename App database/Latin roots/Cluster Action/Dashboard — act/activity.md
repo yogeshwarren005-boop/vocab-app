@@ -42,8 +42,8 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Energetic physical or mental movement, or an organized pursuit undertaken by individuals or institutions to achieve an aim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and physical chemistry, activity is the effective concentration of a chemical species in a non-ideal solution, accounting for molecular interactions that alter its real chemical potential.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lively movement, energetic action, or an operational enterprise undertaken by individuals or groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and thermodynamics, activity is an effective concentration of a species under non-ideal conditions, accounting for intermolecular interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **Charles Darwin (*The Origin of Species*):** *"The immense variety of organic forms is preserved through the ceaseless **activity** of natural selection."*

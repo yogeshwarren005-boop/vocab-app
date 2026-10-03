@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive feeling of liking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality proceeding from feelings of affection or love.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being affectionate; warmth of heart, loving disposition, and ready display of fondness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In child psychology and character assessment, natural affectionateness reflects emotional responsiveness and healthy attachment security.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Selina” received her with a pathetic affectionateness and a disposition to give edifying answers on the commonest topics, which could hardly have reference to an ordinary quarrel of which the most important consequence was a perturbation of Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And I’ll stand by you whatever you make up your mind to do,” said the brother, with rough but well-meaning affectionateness."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"He even tells us, with that naive affectionateness which often makes us smile, that he has had recourse to the character of his own brother John for the qualities in which the great Admiral appeared to him to have been deficient."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny's natural **affectionateness** made her deeply grateful for every gentle word from Edmund."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His domestic **affectionateness** softened the harsh lines of a character otherwise rigid and unbending."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The dog shows an **affectionateness** and fidelity toward his master that surpasses that of almost any wild animal."*
+

@@ -42,8 +42,8 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The permanent or temporary neutralization of a virus, toxin, chemical reagent, or metabolic pathway, eliminating its biological or chemical efficacy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics and epigenetics, X-chromosome inactivation (lyonization) silences one of the two X chromosomes in female mammalian somatic cells to equalize gene dosage with males.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of rendering something inactive, inert, or inoperative, especially in chemical, biological, or physiological systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, channel inactivation is the rapid closing of voltage-gated sodium channels following depolarization, initiating the absolute refractory period of the action potential.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **Alan Hodgkin (*The Conduction of the Nervous Impulse*):** *"The voltage-dependent **inactivation** of the sodium conductance terminates the rising phase of the action potential."*

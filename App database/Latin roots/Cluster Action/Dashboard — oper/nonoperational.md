@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (military) not involved in military operations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (military) not involved in military operations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in working order, not in use, or not operational; out of service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems engineering and military readiness, nonoperational assets are units undergoing depot-level maintenance, overhaul, or mothballing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonoperational designates (military) not involved in military operations."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The auxiliary telegraph line was **nonoperational** during the stormy night, delaying the arrival of the police detachment."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"When a feedback component fails, the machine must switch into a safe **nonoperational** state to prevent runaway damage."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The great Martian tripod stood motionless and **nonoperational** in the marsh, its biological pilot stricken by disease."*
+

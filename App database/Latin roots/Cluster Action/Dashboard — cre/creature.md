@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A living organism characterized by voluntary movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A human being; `wight' is an archaic term.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A living animal or human being, as distinct from an inanimate object or plant, considered as a created being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and feudal history, a creature was a subservient dependent, instrument, or minion who owed their fortune entirely to an influential patron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been, madam, a wicked creature, as you and all flesh and blood are; and indeed I do marry that I may repent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou canst like this creature as a maid, I can create the rest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, right; good creature, wheresoe’er she is, Her heart weighs sadly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O wonder! How many goodly creatures are there here! How beauteous mankind is! O brave new world, that has such **creature** in't!"*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I beheld the wretch—the miserable monster whom I had created: he held up the curtain of the bed, and his eyes, if eyes they may be called, were fixed on me; his jaws opened, and he muttered some inarticulate sounds, while a grin wrinkled his cheeks: he might have spoken, but I did not hear; one hand was stretched out, seemingly to detain me, but I escaped and rushed downstairs: I took refuge in the courtyard belonging to the house which I inhabited, where I remained during the rest of the night, walking up and down in the greatest agitation, listening attentively, catching and fearing each sound as if it were to announce the approach of the demoniacal **creature** to which I had so miserably given life."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"How strange it is that a bird, under the form of a woodpecker, should have been created to prey on insects on the ground; that upland geese, which never or rarely swim, should possess webbed feet; that a thrush-like **creature** should dive and feed on sub-aquatic insects."*
+

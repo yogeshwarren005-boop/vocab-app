@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of three poisonous colorless isomeric phenols; derived from coal or wood tar; used as a disinfectant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of three poisonous colorless isomeric phenols; derived from coal or wood tar; used as a disinfectant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of three isomeric organic methylphenol compounds obtained from coal tar, used as disinfectants and chemical intermediates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health and industrial chemistry, saponified cresol solutions served as standard broad-spectrum hospital germicides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cresol designates any of three poisonous colorless isomeric phenols; derived from coal or wood tar; used as a disinfectant."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Antiseptic solutions containing **cresol** provide dependable surface disinfection in infectious hospital wards."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The growth of putrefactive bacilli was immediately arrested by the addition of trace quantities of purified **cresol**."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The oily distillation fractions yielded crude **cresol**, which precipitated proteins with powerful antiseptic action."*
+

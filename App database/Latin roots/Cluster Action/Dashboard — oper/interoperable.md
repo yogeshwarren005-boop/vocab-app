@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to exchange and use information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to exchange and use information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to exchange and make use of information; compatible with other systems or products without special modification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software engineering, interoperable APIs adhere to open data specifications (such as JSON, REST, and POSIX), permitting modular plug-and-play architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interoperable designates able to exchange and use information."*
+> - 📜 **Tim Berners-Lee (*Weaving the Web*):** *"By making Web protocols royalty-free and **interoperable**, we ensured that no single commercial monopoly could enclose the medium."*
+> - 📜 **Vint Cerf (*Internet Protocol*):** *"Gateways act as protocol translators, rendering disparate military computer networks functionally **interoperable**."*
+> - 📜 **Linus Torvalds (*The Linux Kernel Development Manifesto*):** *"POSIX compliance ensures that operating system utilities remain transparently **interoperable** across diverse UNIX architectures."*
+

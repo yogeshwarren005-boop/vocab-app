@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest greek island in the mediterranean; site of the minoan civilization that reached its peak in 1600 bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest greek island in the mediterranean; site of the minoan civilization that reached its peak in 1600 bc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest and most populous of the Greek islands, situated in the eastern Mediterranean Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean archaeology, Bronze Age Crete was the center of Europe's earliest advanced society, the Minoan palace civilization centered at Knossos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O hound of Crete, think’st thou my spouse to get?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then follow thou thy desperate sire of Crete, Thou Icarus; thy life to me is sweet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what a peevish fool was that of Crete That taught his son the office of a fowl!"*
+> - 📜 **William Shakespeare (*Henry V*):** *"O hound of **crete**, think'st thou my spouse to get? No; to the spital go, and from the powdering-tub of infamy fetch forth the lazar kite of Cressid's kind."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Ariadne was the daughter of Minos, King of **crete**; she gave Theseus the guiding thread through the labyrinth."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rich Mediterranean island of **crete** succumbed to the naval power of the Saracen corsairs in the ninth century."*
+

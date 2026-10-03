@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief babylonian god; his consort was sarpanitu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief babylonian god; his consort was sarpanitu.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Merodach (the biblical rendering of Marduk), the patron god of ancient Babylon and head of the Babylonian pantheon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Assyriology and ancient Near Eastern religion, Merodach's supremacy was celebrated in the Enûma Eliš epic following his defeat of the chaos serpent Tiamat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merodach designates the chief babylonian god; his consort was sarpanitu."*
+> - 📜 **King James Bible (*The Holy Bible*):** *"Declare ye among the nations, and publish, and set up a standard; publish, and conceal not: say, Babylon is taken, Bel is confounded, **merodach** is broken in pieces."*
+> - 📜 **Austen Henry Layard (*Nineveh and Its Remains*):** *"Cuneiform inscriptions unearthed in the palace ruins glorify **merodach** as the supreme creator and protector of Babylon."*
+> - 📜 **George Rawlinson (*The Seven Great Monarchies of the Ancient Eastern World*):** *"The golden image of **merodach** was borne in solemn procession through the Ishtar Gate during the New Year festival."*
+

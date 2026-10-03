@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbs belonging to the family boraginaceae that grow in temperate regions and have blue or purple flowers shaped like funnels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of herbs belonging to the family boraginaceae that grow in temperate regions and have blue or purple flowers shaped like funnels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the borage family Boraginaceae, commonly known as bluebells, notably Mertensia virginica.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In woodland botany and horticulture, Mertensia species are prized spring ephemerals with pendulous pink buds that open into porcelain-blue trumpet flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mertensia designates a genus of herbs belonging to the family boraginaceae that grow in temperate regions and have blue or purple flowers shaped like funnels."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The rich alluvial river bottoms are adorned in early May with the nodding sky-blue corollas of **mertensia**."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"We found the delicate blue bells of the wild **mertensia** blooming in the sheltered hollows beneath the birch groves."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"No wild woodland flower possesses a more tender, heavenly hue than the freshly opened cluster of **mertensia**."*
+

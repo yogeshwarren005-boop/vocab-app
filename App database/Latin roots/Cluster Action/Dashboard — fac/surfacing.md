@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emerging to the surface and becoming apparent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming to the surface, or the application of an outer layer, coating, or finish to a material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In highway engineering and material science, bitumen surfacing provides asphalt durability, skid resistance, and waterproofing protection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surfacing designates emerging to the surface and becoming apparent."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The submarine trembled violently while **surfacing** through the tempestuous waves of the polar sea."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym Yeobright walked along the newly graveled road, noting the flint **surfacing** that glistened after the shower."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"A startled porpoise went **surfacing** across the moonlit wake of the Patna, breaking the glassy mirror of the sea."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arousing affect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arousing affect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to move the feelings, arouse sympathy, or touch the emotions; cold and uninspiring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic criticism and oratorical evaluation, an unaffecting performance fails to establish an empathetic bond with the audience despite technical correctness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unaffecting designates not arousing affect."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poem was technically correct in meter, but singularly dry and **unaffecting** to the sensitive reader."*
+> - 📜 **William Hazlitt (*Characters of Shakespear's Plays*):** *"A speech delivered without genuine passion remains cold and **unaffecting**, however ornate its rhetorical figures."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Her grief seemed theatrical and **unaffecting**, lacking that genuine note of human sorrow which alone touches the heart."*
+

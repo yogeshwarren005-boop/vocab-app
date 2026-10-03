@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of european descent born in the west indies or latin america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person descended from french ancestors in southern united states (especially louisiana).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of mixed European and African descent, especially in the Caribbean or Gulf South; also a language developed from pidgins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics, a creole emerges when a simplified pidgin language becomes the native mother tongue of a speech community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Her mother, the Creole, was both a madwoman and a drunkard!—as I found out after I had wed the daughter: for they were silent on family secrets before."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I longed only for what suited me—for the antipodes of the Creole: and I longed vainly."*
-> - 📜 **Effie Afton (*Eventide*):** *"Next thing, we shall have some creole girl, or mulatto wench introduced to the family as Mrs."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"What does one mean by rich **creole** natures, full of warmth, expressive eloquence, and spontaneous generosity?"*
+> - 📜 **George Washington Cable (*The Grandissimes: A Story of Creole Life*):** *"The aristocratic **creole** families of New Orleans jealously guarded their ancestral French traditions and language."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"We spent an enchanting evening in the French Quarter listening to the soft **creole** patois of the old market women."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant consisting of one or more buildings with facilities for manufacturing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant consisting of one or more buildings with facilities for manufacturing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial building or complex where workers manufacture goods or supervise machinery operating on raw materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seventeenth- and eighteenth-century colonial commerce, a factory was an overseas trading outpost or warehouse managed by resident merchants called factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A son will sometimes make it known to his father that he has fallen in love, say, with a young woman in the factory."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The father, who once worked in a factory himself, will be a little disappointed at first very possibly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The bank, the factory, or the house?” the workman wants to know."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My father had a small **factory** at Coventry, which he enlarged at the time of the invention of bicycling."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I cannot believe that our **factory** system is the best mode by which men may get clothing."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"There were three girls, East End **factory** girls, and a couple of little children crowded in the cart."*
+

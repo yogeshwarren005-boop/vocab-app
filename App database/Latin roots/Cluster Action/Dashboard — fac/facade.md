@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The face or front of a building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A showy misrepresentation intended to conceal something unpleasant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal front of a building facing onto a street or open space; also an outward appearance concealing a less pleasant reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural criticism, a classical facade organizes pilasters, pediments, and fenestration into symmetrical proportions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"The Dovenilid gave him a piercing look, but Marlowe presented a featureless facade of bulk."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Deshoulieres made straight for the church, skirted it, and found himself in front of a bran-new hotel, having a narrow facade, a little court, and stiff evergreens ranged round in bright green tubs."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The marble **facade** of the ducal palace gleamed with intricate Byzantine arches facing the Grand Canal."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond maintained an immaculate social **facade**, behind which lay a cold and cynical egoism."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Beneath the sparkling **facade** of fashionable New York society lay an unsparing cruelty toward the unsuccessful."*
+

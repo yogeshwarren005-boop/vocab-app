@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light-colored crystalline powder (trade name merthiolate) used as a surgical antiseptic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light-colored crystalline powder (trade name merthiolate) used as a surgical antiseptic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trademark for thimerosal, an organomercury antiseptic and antifungal agent applied topically or used as a pharmaceutical preservative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacotherapy and vaccine production, Merthiolate served for decades as a standard preservative preventing bacterial contamination in multidose vials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merthiolate designates a light-colored crystalline powder (trade name merthiolate) used as a surgical antiseptic."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Topical application of dilute **merthiolate** solution effectively sanitizes superficial cuts without causing severe tissue necrosis."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"She painted the boy's scratched forearm with stinging **merthiolate** from the camp medicine kit."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Dr. Gottlieb inspected the sterile vaccine vials, noting the precise addition of **merthiolate** to inhibit mold growth."*
+

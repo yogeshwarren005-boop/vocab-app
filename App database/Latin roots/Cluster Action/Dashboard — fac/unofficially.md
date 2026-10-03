@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without official authorization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in an official capacity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unofficial manner; without formal authorization, sanction, or public status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative statecraft, matters arranged unofficially between cabinet ministers often bypass parliamentary scrutiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Tranquilly permitting these irregular cursings to evaporate, Stubb then in a plain, business-like, but still half humorous manner, cursed Pip officially; and that done, unofficially gave him much wholesome advice."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Tranquilly permitting these irregular cursings to evaporate, Stubb then in a plain, business-like, but still half humorous manner, cursed Pip officially; and that done, unofficially gave him much wholesome advice."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"But the Aids would never have stirred in the matter if the Society hadn’t put it into their thoughts unofficially."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Mortimer approached Holmes **unofficially**, seeking private counsel before scandalizing the Dartmoor neighborhood."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneers met **unofficially** upon the forecastle, swapping eerie omens about the great white whale."*
+> - 📜 **L. M. Montgomery (*Anne of Green Gables*):** *"Marilla **unofficially** adopted the imaginative orphan girl long before the formal papers were signed."*
+

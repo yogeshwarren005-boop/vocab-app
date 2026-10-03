@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After noon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After noon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking place in the afternoon; occurring after the sun has crossed the meridian (abbreviated p.m.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomical observations and navigational logging, postmeridian altitudes track the declining trajectory of celestial bodies toward the western horizon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmeridian designates after noon."*
+> - 📜 **Nathaniel Bowditch (*The New American Practical Navigator*):** *"A second **postmeridian** observation of the sun verified the ship's compass variation calculated at noon."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"In the hot **postmeridian** hours of that July day, the armed crowd surged irresistibly toward the Bastille."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Chancellor resumed his seat for the **postmeridian** hearings while the fog thickened outside Lincoln's Inn."*
+

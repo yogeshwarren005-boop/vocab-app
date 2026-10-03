@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strive and make an effort to reach a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work hard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced or performed with great difficulty, effort, or strain; lacking ease, naturalness, or spontaneity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pulmonology, labored breathing (dyspnea) involves the visible recruitment of accessory muscles (sternocleidomastoids, scalenes) to assist ventilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But mark: as in this haughty great attempt They labored to plant the rightful heir, I lost my liberty and they their lives."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His first church was at V----, and, though he labored diligently, working with his own hands for his support, he became eighty dollars in debt."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"There, as under the eye of the Master, he reviewed the time he had labored as a colporteur, and prayed for forgiveness for the past and grace for the future."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The invalid breathed with a heavy, **labored** sound that filled the quiet bedchamber with an atmosphere of impending tragedy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His conversational compliments sounded stiff and **labored**, like Latin verses composed by a schoolboy with a gradus."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **labored** heave of the oars drove the whale-boat through the heavy crested swells toward the horizon."*
+

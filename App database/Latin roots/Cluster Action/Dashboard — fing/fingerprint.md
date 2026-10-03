@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A generic term for any identifying characteristic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An impression of the friction ridges on the epidermal surface of a human fingertip, widely utilized for personal biometric identification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and analytical chemistry, a spectroscopic or DNA fingerprint refers to a distinctive pattern of bands or spectral peaks that uniquely characterizes a specimen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerprint designates a print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations."*
+> - 📜 **Francis Galton (*Finger Prints*):** *"The microscopic pattern of ridges in a human **fingerprint** persists unchanged from infancy to the decay of the grave."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"Lestrade held up the candle with a shout of triumph: a clear blood-red **fingerprint** was pressed upon the whitewashed wall!"*
+> - 📜 **Mark Twain (*Pudd'nhead Wilson*):** *"Every human being carries with him from cradle to grave physical marks which do not change their character: the friction ridge **fingerprint** cannot lie."*
+

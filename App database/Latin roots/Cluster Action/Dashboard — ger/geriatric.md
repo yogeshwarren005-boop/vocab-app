@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the aged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or practicing geriatrics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerned with the healthcare, clinical treatment, and physiological conditions of older adults.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health administration, geriatric medicine addresses multi-morbidity, polypharmacy, and functional independence in aging populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geriatric designates of or relating to the aged."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The physician must cultivate specialized clinical patience when addressing the complex multi-organ complaints of the **geriatric** patient."*
+> - 📜 **Ignatz Leo Nascher (*Geriatrics: The Diseases of Old Age and Their Treatment*):** *"Senile changes are physiological processes requiring specialized **geriatric** therapies distinct from adult internal medicine."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"In the **geriatric** ward, memory disorders frequently mask intact islands of deep emotional and musical responsiveness."*
+

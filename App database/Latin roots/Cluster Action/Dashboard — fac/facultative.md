@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the mental faculties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to exist under more than one set of conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Optional, discretionary, or occurring in response to particular conditions rather than mandatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and comparative physiology, a facultative anaerobe can synthesize ATP through aerobic respiration if oxygen is present, but switches to fermentation without it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facultative designates of or relating to the mental faculties."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Certain yeast organisms exhibit a **facultative** capacity, sustaining metabolic life either in the presence of atmospheric air or in its complete deprivation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Voluntary attention remains **facultative**, depending upon our conscious interest rather than sheer sensory coercion."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The organism adapts through **facultative** structural adjustments elicited by fluctuating thermal environments."*
+

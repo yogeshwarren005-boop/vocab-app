@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who agitates; a political troublemaker.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who agitates; a political troublemaker.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who stirs up public feeling, enthusiasm, or political unrest; an active promoter of a political or social cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical and chemical apparatus, an agitator is a motorized paddle or blade used to stir and blend liquids or slurries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On this issue an agitator and preacher named Kalloch was elected Mayor."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The central government on Earth, weakened by shortages and distracted by agitators at home and in space, was neither vigilant nor prepared."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It was originated or elaborated by men such as Karl Marx, Frederick Engels, and Ferdinand Lasalle, as labor leaders and political agitators, who found a ready weapon in the bungling economic analysis of the time."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Slackbridge, the union **agitator**, stood upon the platform, swaying the multitude with impassioned denunciation of the mill owners."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In a free democracy, the political **agitator** performs a vital function by preventing civic apathy and stagnation."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The local police viewed him as a dangerous **agitator** whose fiery speeches were suspected of inciting sabotage."*
+

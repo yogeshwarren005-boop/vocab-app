@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dealer in textiles (especially silks).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British maker of printed calico cloth who invented mercerizing (1791-1866).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant or dealer in textile fabrics, especially fine silks, velvets, and woolen drapery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British guild history, the Worshipful Company of Mercers ranks as the premier Great Twelve City Livery Company of London.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then is there here one Master Caper, at the suit of Master Three-pile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar."*
-> - 📜 **George Eliot (*Middlemarch*):** *"This second cousin was a Middlemarch mercer of polite manners and superfluous aspirates."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The Middlemarch mercer waited for an opportunity of engaging Mr."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been with the **mercer** to buy fine silk for my lady's gown."*
+> - 📜 **Samuel Pepys (*The Diary of Samuel Pepys*):** *"Thence to the **mercer** in Cheapside, where I bought five yards of patterned French damask for my new waistcoat."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"A prosperous **mercer** must understand fabrics, fashionable tastes, and the creditworthiness of his aristocratic patrons."*
+

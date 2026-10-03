@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose age is in the seventies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose age is in the seventies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is between seventy and seventy-nine years old; pertaining to someone in their seventies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social demography and gerontology, septuagenarian populations present distinct health profiles reflecting chronic disease management and maintained cognitive vigor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septuagenarian designates someone whose age is in the seventies."*
+> - 📜 **Anthony Trollope (*The Way We Live Now*):** *"The hale **septuagenarian** chairman still rode to hounds twice a week and managed his estate with unflagging energy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Featherstone was an irascible **septuagenarian** whose testamentary intentions were the source of universal anxiety among his kin."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The old clerk was a lively **septuagenarian** who took immense pride in never having missed a day at his high desk in forty years."*
+

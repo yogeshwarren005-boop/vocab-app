@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not recurring at regular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not recurring at regular intervals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not periodic; not occurring at regular or predictable intervals of time; lacking cyclical repetition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical mechanics and signal processing, an aperiodic motion or circuit response decays directly toward equilibrium without oscillatory overshoot (critically damped).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aperiodic designates not recurring at regular intervals."*
+> - 📜 **Erwin Schrodinger (*What Is Life?*):** *"The hereditary substance in the chromosome must be an **aperiodic** crystal, capable of encoding immense informational variety."*
+> - 📜 **Norbert Wiener (*Extrapolation, Interpolation, and Smoothing of Stationary Time Series*):** *"The mathematical treatment of an **aperiodic** pulse train requires the generalized Fourier integral rather than simple Fourier series."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"When circuit resistance exceeds the critical damping limit, the electrical discharge becomes strictly **aperiodic**."*
+

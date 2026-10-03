@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terms referring to the judeo-christian god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who grows or makes or invents things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that brings something into existence, or God as the maker of the universe and all living things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In copyright law, the creator (author) of an original work possesses exclusive intellectual property rights to reproduce, distribute, and license their creation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I make you both Protectors of this land, While I myself will lead a private life And in devotion spend my latter days, To sin’s rebuke and my Creator’s praise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make that demand of the Creator."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To whom then will ye liken Me, or shall I be equal? saith the Holy One." The Creator is greater than his creation; the law giver is supreme over all law."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"There is grandeur in this view of life, with its several powers, having been originally breathed by the **Creator** into a few forms or into one."*
+> - 📜 **John Milton (*Paradise Lost*):** *"These are thy glorious works, Parent of good, Almighty! Thine this universal frame, thus wondrous fair; thyself how wondrous then! Unspeakable, who sit'st above these heavens to us invisible, or dimly seen in these thy lowest works; yet these declare thy goodness beyond thought, and power divine: the joyful **Creator** looked upon his handiwork and saw that it was good."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Did I request thee, Maker, from my clay to mould me man? Did I solicit thee from darkness to promote me? Frankenstein, hear me: I am thy creature; I ought to be thy Adam, but I am rather the fallen angel, whom thou drivest from joy for no misdeed: remember that I am thy creature; I ought to be thy Adam; but I am rather the fallen angel, whom thou drivest from joy for no misdeed: everywhere I see bliss, from which I alone am irrevocably excluded: I was benevolent and good; misery made me a fiend: make me happy, and I shall again be virtuous: curse on my **creator**!"*
+

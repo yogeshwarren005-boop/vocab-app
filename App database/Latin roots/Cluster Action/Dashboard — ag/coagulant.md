@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that produces coagulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that produces coagulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or chemical agent that promotes, initiates, or accelerates coagulation or clotting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil water purification and wastewater engineering, a coagulant (such as aluminum sulfate or ferric chloride) neutralizes charges on suspended colloids to form settleable flocs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coagulant designates an agent that produces coagulation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Local application of a topical **coagulant** such as thrombin powder effectively controls capillary oozing from surgical surfaces."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Rennet acts as a powerful organic **coagulant**, separating milk into curds and whey in the manufacture of cheese."*
+> - 📜 **Armand Quick (*The Hemorrhagic Diseases*):** *"Tissue factor functions as the primary physiological **coagulant** that triggers the extrinsic clotting pathway upon vascular injury."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit to be offered for sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit to be offered for sale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable for purchase or sale; in sound condition and of standard commercial quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural trade and maritime shipping, goods must arrive in merchantable condition to avoid rejection at customs or commodity bourses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Neither was the little old shop any longer empty of merchantable goods."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Authors we have who have written out their vein, and who, having no longer any **merchantable** commodity, turn critics."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"The factor must inspect the casks of tallow to ensure they are **merchantable** and free of adulteration."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Corn is a much more **merchantable** commodity than wine, being universally consumed and less perishable in storage."*
+

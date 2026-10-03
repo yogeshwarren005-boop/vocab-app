@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest ocean in the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or bordering the pacific ocean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Peaceful in character or intent; calm, serene, conciliatory, or relating to the Pacific Ocean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and international relations, pacific dispute resolution employs mediation, conciliation, and judicial arbitration to prevent war.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He has no idea, poor wretch, of the spiritual destitution of a coral reef in the Pacific or what it costs to look up the precious souls among the coco-nuts and bread-fruit."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At last he reached the summit, and a wide and novel prospect burst upon him with an effect almost like that of the Pacific upon Balboa’s gaze."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Awake, I remembered that I, Darrell Standing, in the flesh, during the year preceding my incarceration in San Quentin, had flown with Haas further over the Pacific at Santa Monica."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"I propose peace sought in the spirit of peace, and laid in principles purely **pacific**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Antonines pursued a **pacific** foreign policy, preferring secure frontiers to ruinous territorial expansion."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There is, one knows not what sweet mystery about this sea, whose gently awful stirrings seem to speak of some hidden soul beneath; like those enchanted crests of the **pacific**."*
+

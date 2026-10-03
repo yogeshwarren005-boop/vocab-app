@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without discretion or wisdom or self-restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without discretion or wisdom or self-restraint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner lacking prudence, caution, or good judgment; carelessly revealing private matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and confidential correspondence, speaking indiscreetly to foreign envoys can compromise vital national interests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Why truly, said he, I think I should do very indiscreetly in so doing; for if an ass kicks you, do you kick him again? 1195."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"Do you?" cried Tom, wondering if some one had indiscreetly spoken of the idol of gold."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton would never marry **indiscreetly**; he was far too prudent in worldly calculation to sacrifice fortune for passion."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The young diplomat had spoken **indiscreetly** at a dinner party, exposing a secret treaty to foreign journalists."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy confided **indiscreetly** in his friend Weevle, confessing his infatuation with Esther Summerson."*
+

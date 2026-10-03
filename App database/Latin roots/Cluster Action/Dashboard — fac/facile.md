@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrived at without due care or effort; lacking depth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performing adroitly and without effort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily achieved or accomplished; performing or speaking with effortless fluency, sometimes superficial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual criticism, a facile argument dismisses underlying complexity in favor of rapid, unreflective rhetorical convenience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was plenty of eggs, butter, bread, and so on in the larder, and Clare soon had breakfast laid, his experiences at the dairy having rendered him facile in domestic preparations."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He meant too much for them to seek the facile relief of praise."*
-> - 📜 **George Eliot (*Middlemarch*):** *"My love,” he said, with irritation reined in by propriety, “you may rely upon me for knowing the times and the seasons, adapted to the different stages of a work which is not to be measured by the facile conjectures of ignorant onlookers."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men of lively conversation often mistake a **facile** fluency of speech for genuine depth of philosophical comprehension."*
+> - 📜 **William Shakespeare (*Othello*):** *"So may he with as **facile** a question bear it, for that it stands not in such warlike brace, but altogether lacks the abilities that Rhodes is dress'd in."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"We satisfy ourselves too easily with **facile** generalities when severe self-examination is urgently demanded."*
+

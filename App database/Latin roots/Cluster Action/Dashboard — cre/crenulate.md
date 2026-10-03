@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a margin with small rounded teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a margin with small rounded teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the margin finely notched with very small, delicate rounded teeth or scallops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive conchology and botany, crenulate shell lips or leaf margins possess minute, closely spaced scallops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crenulate designates having a margin with small rounded teeth."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The delicate petals of the mountain saxifrage are finely **crenulate** along their upper margins."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The juvenile foliage exhibited a distinct **crenulate** outline that disappeared in the mature adult leaves."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The inner lip of the marine gastropod is adorned with a delicate **crenulate** border of porcelain enamel."*
+

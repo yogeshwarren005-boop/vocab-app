@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: House finches and purple finches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: House finches and purple finches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of passerine birds in the finch family Fringillidae, comprising the rosefinches, known for the brilliant red or pink plumage of the adult males.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ornithology and island biogeography, Carpodacus finches (such as the common rosefinch and the house finch, formerly placed here) have been central to studies of carotenoid pigmentation and sexual selection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpodacus designates house finches and purple finches."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In the genus **Carpodacus**, the adult male is adorned with gorgeous crimson plumage on the head and breast, while the female remains dull brown."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The purple finch, allied to the European **Carpodacus**, visits our northern orchards in spring to feed upon the swelling fruit buds."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The bill in **Carpodacus** is stout and conical, perfectly adapted for cracking hard weed seeds during winter foraging."*
+

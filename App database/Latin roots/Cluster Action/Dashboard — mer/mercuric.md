@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or containing mercury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or containing mercury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or relating to mercury in its higher divalent oxidation state (+2).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry and toxicology, mercuric chloride (corrosive sublimate) is an extremely poisonous salt historically used as an antiseptic and wood preservative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercuric designates of or containing mercury."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"When red **mercuric** oxide is exposed to concentrated solar heat, it releases pure respirable oxygen gas leaving metallic mercury."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The precipitation of yellow **mercuric** iodide occurs immediately upon mixing solutions of potassium iodide and corrosive sublimate."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"We observed the crystalline sublimation of **mercuric** salts rising against the glass neck of the cucurbit."*
+

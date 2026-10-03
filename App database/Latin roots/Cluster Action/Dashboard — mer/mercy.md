@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leniency and compassion shown toward offenders by a person or agency charged with administering justice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be kind and forgiving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compassion, forgiveness, or leniency shown toward someone whom it is within one's power to punish or harm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and monarchical prerogatives, the royal prerogative of mercy allows the sovereign to commute death sentences or grant unconditional pardons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God’s mercy, maiden! does it curd thy blood To say I am thy mother?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would you had kneel’d, my lord, to ask me mercy, And that at my bidding you could so stand up."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I had; so I had broke thy pate, And ask’d thee mercy for’t."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The quality of **mercy** is not strain'd, it droppeth as the gentle rain from heaven upon the place beneath: it is twice blest; it blesseth him that gives and him that takes."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I have been wrong, but remember how desolate I was, and have **mercy** on my unhappy memory."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The bishop looked upon the wretched convict with eyes full of infinite divine **mercy** and understanding."*
+

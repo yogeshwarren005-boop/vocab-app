@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In concrete terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In concrete terms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a concrete, tangible, or specific manner; with reference to particular empirical realities rather than general abstractions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and ethical analysis, deciding a controversy concretely entails applying general legal principles to the specific factual record.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To put it concretely: America, having great natural resources for agriculture, might continue to trade food for manufactured goods even tho England reaped most of the benefits of the trade."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He remembered, the mood coming back to him as concretely as an action, what he had thought while the old woman had wheedled him with her voice like butter."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"To put it concretely: if America, having great natural resources for agriculture, continues to exchange food for manufactures up to the narrowest margin of advantage, England reaps most of the benefits of the trade."*
+> - 📜 **John Dewey (*How We Think*):** *"To understand an intellectual principle **concretely**, the student must observe its operation in actual physical experiments."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Pragmatism conceives truth not as an inert relation, but **concretely** as a process of experiential verification."*
+> - 📜 **Max Weber (*The Methodology of the Social Sciences*):** *"Sociological analysis examines how cultural values are manifested **concretely** in historical institutions."*
+

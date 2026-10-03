@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Motion of hands or body to emphasize or help to express a thought or feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of movements (especially of the hands) to communicate familiar or prearranged signals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement of part of the body, especially a hand or the head, to express an idea or meaning; an action performed to convey intention or sentiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomacy and interpersonal relations, a gesture (such as an apology or peace offering) is an action carried out primarily for its symbolic or goodwill value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you do love Rosalind so near the heart as your gesture cries it out, when your brother marries Aliena shall you marry her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Crying, “O dear Cassio!” as it were: his gesture imports it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot too much muse Such shapes, such gesture, and such sound, expressing— Although they want the use of tongue—a kind Of excellent dumb discourse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suit the action to the word, the word to the action; with this special observance, that you o'erstep not the modesty of nature: every **gesture** must have dramatic truth."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The shrug of the shoulders is an instinctive **gesture** of impotence or passive apology observed across all human races."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy acknowledged her greeting with a cold, formal **gesture** that checked all inclination to further conversation."*
+

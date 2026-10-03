@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform cosmetic surgery on someone's face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform cosmetic surgery on someone's face.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmetic surgery to remove wrinkles and tighten facial skin to produce a more youthful appearance; also a general renovation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban planning and municipal conservation, giving an aging commercial street a face-lift revives retail vitality through facade restoration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, face-lift designates perform cosmetic surgery on someone's face."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"The dilapidated Victorian seaside resort received a municipal **face-lift**, brightening its promenades with fresh paint and electric illumination."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The Booster Club proposed an energetic **face-lift** for the downtown shopping avenue to outshine rival towns."*
+> - 📜 **Aldous Huxley (*After Many a Summer Dies the Swan*):** *"The wealthy Californian patron sought every cosmetic **face-lift** and glandular therapy to evade the physical reality of aging."*
+

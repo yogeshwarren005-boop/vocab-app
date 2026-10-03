@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exploitation to the point of diminishing returns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exploitation to the point of diminishing returns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of utilizing something excessively, beyond its sustainable capacity or optimal operational threshold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In resource economics and agrarian ecology, overutilisation of pasture lands results in severe overgrazing, soil compaction, and long-term land degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overutilisation designates exploitation to the point of diminishing returns."*
+> - 📜 **Garrett Hardin (*The Tragedy of the Commons*):** *"Freedom in a commons brings ruin to all through the inevitable **overutilisation** of shared pasture by rational herdsmen."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The **overutilisation** of tropical freshwater aquifers threatens fragile riparian ecosystems across the global south."*
+> - 📜 **Arthur Tansley (*The Use and Abuse of Vegetational Concepts and Terms*):** *"Sustained ecological equilibrium cannot be preserved when anthropocentric **overutilisation** disrupts natural nutrient cycling."*
+

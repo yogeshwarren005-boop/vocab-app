@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lofty in style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lofty in style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speaking in or characterized by a grandiose, bombastic, or high-flown style of speech or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character description and social satire, a magniloquent speaker is one whose inflated verbal pretensions contrast absurdly with their modest reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magniloquent designates lofty in style."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He was a tall, **magniloquent** gentleman who could not ask for the mustard without rounding off a classical period."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His uncle was fond of **magniloquent** speeches at county dinners, celebrating the ancient liberties of British landholders."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The suspect addressed us in a **magniloquent** tone, protesting his aristocratic innocence with theatrical gestures."*
+

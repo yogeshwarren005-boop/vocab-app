@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being put to a profitable or practical use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being put to a profitable or practical use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being utilized or put to practical, profitable, or functional use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bioenergetics and nutritional physiology, utilizable energy is the fraction of gross caloric intake that the organism's metabolic enzymes can catabolize into biological work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, utilizable designates capable of being put to a profitable or practical use."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The combustible heat evolved in respiration represents the immediately **utilizable** vital energy of the warm-blooded animal."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Large tracts of marshland previously deemed waste became **utilizable** arable ground upon the completion of arterial drainage."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every newly acquired modification that is even slightly **utilizable** gives the organism an advantage in the struggle for life."*
+

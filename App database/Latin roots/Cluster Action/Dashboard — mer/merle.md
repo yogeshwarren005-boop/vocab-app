@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common black european thrush.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common black european thrush.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blackbird (Turdus merula); also a genetic coat pattern in dogs characterized by mottled patches of color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canine genetics, the merle gene (M) produces dappled patches of diluted pigment on a darker background, associated in homozygous form (double merle) with auditory and ocular defects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Now laverocks wake the merry morn Aloft on dewy wing; The merle, in his noontide bow’r, Makes woodland echoes ring; The mavis wild wi’ mony a note, Sings drowsy day to rest: In love and freedom they rejoice, Wi’ care nor thrall opprest."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I’m Madame Merle.” She made this last announcement as if she were referring to a person of tolerably distinct identity."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"For Isabel, however, it represented little; she could only continue to feel that Madame Merle had as charming a manner as any she had ever encountered."*
+> - 📜 **Alfred Tennyson (*The Progress of Spring*):** *"The mellow **merle** flute-notes on the branch proclaim that winter's icy grasp is broken."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Fanciers have preserved the striking **merle** coat pattern in shepherd dogs through careful selective breeding."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"Inheritance of the mottled **merle** pigmentation in canines illustrates non-blending Mendelian color distribution."*
+

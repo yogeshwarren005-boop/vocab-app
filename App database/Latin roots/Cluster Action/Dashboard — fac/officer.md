@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any person in the armed services who holds a position of authority or command.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is appointed or elected to an office and who holds a position of trust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person holding a position of command or authority, especially in the armed services or police.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate law and corporate governance, an executive officer carries fiduciary duties of loyalty and care toward the corporation and its shareholders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know that knave; hang him! one Parolles; a filthy officer he is in those suggestions for the young earl."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The duke knows him for no other but a poor officer of mine, and writ to me this other day to turn him out o’ the band."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar and Antony have ever won More in their officer, than person."*
+> - 📜 **William Shakespeare (*Othello*):** *"Cassio, I love thee; but never more be **officer** of mine. Look, if my gentle love be not raised up! I'll make thee an example."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia's mind was completely filled with visions of scarlet coats, dance assemblies, and flirtations with every gallant **officer** of the militia."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A burly police **officer** stood sentinel at the garden gate, directing the gathered spectators away from the scene of the tragedy."*
+

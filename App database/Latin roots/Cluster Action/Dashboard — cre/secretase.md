@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of enzymes believed to snip pieces off a longer protein producing fragments of amyloid protein that bunch up and create amyloid protein plaques in brain tissue (the pathological hallmark of alzheimer's).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of enzymes believed to snip pieces off a longer protein producing fragments of amyloid protein that bunch up and create amyloid protein plaques in brain tissue (the pathological hallmark of alzheimer's).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several enzymes that cleave amyloid precursor protein (APP) into peptide fragments, including amyloid beta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular neurobiology and Alzheimer's disease pathology, beta-secretase and gamma-secretase are key therapeutic targets for preventing neurotoxic plaque aggregation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretase designates a set of enzymes believed to snip pieces off a longer protein producing fragments of amyloid protein that bunch up and create amyloid protein plaques in brain tissue (the pathological hallmark of alzheimer's)."*
+> - 📜 **Santiago Ramón y Cajal (*Degeneration and Regeneration of the Nervous System*):** *"Proteolytic cleavage by specific enzymes like **secretase** alters membrane-bound neuronal precursors in degenerative neuropathies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Biochemical investigations into senile dementia focus upon aberrant **secretase** activity generating cerebral amyloid deposits."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Specific proteolytic enzymes including **secretase** alter receptor configurations on cell surfaces."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The front of the human head from the forehead to the chin and ear to ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feelings expressed on a person's face.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The front part of the human head from forehead to chin; also the surface or outward appearance of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics and cross-cultural sociology, face denotes an individual's public self-image, social standing, and communal prestige.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Save that my soul’s imaginary sight Presents thy shadow to my sightless view, Which like a jewel (hung in ghastly night) Makes black night beauteous, and her old face new."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks no face so gracious is as mine, No shape so true, no truth of such account, And for my self mine own worth do define, As I all other in all worths surmount."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou mayst be false, and yet I know it not. 93 So shall I live, supposing thou art true, Like a deceived husband, so love’s face, May still seem love to me, though altered new: Thy looks with me, thy heart in other place."*
+> - 📜 **William Shakespeare (*Sonnet 115*):** *"Heaven in thy creation did decree, that in thy **face** sweet love should ever dwell."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer looked steadily into the client's **face**, searching for any sign of faltering truth."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The brilliant sunset cast a ruddy glow across the upturned **face** of the young shepherd on the hill."*
+

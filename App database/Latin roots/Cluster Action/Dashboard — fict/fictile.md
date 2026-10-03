@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the craft of pottery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to being led or directed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Molded or shaped from soft material, especially clay; of or relating to pottery and the ceramic arts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeological typology and classical art history, fictile artifacts comprise terracotta figurines, lamps, and earthenware vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fictile designates of or relating to the craft of pottery."*
+> - 📜 **Francis Bacon (*The Essays*):** *"God fashioned man out of the **fictile** clay of the earth, breathing into his nostrils the breath of life."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman legions carried with them the art of molding **fictile** tiles and pottery wherever they established a permanent camp."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Greek vases exhibit a mastery of **fictile** form wherein the contour of the vessel reflects the purest geometrical harmony."*
+

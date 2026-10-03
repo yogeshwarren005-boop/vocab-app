@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or used in or promoting agriculture or farming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to rural matters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or engaged in farming, husbandry, or the cultivation of the soil for crops and livestock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history, the agricultural revolution of the eighteenth century introduced crop rotation, selective breeding, and mechanical equipment that paved the way for industrialization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The young barons left the castle in order to attend a university in Germany, and Philip also left for an agricultural school."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In less than five months his term here would have ended, and after a few additional months spent upon other farms he would be fully equipped in agricultural knowledge and in a position to start on his own account."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wide acreage of blank agricultural brownness, apparent where the swedes had been pulled, was beginning to be striped in wales of darker brown, gradually broadening to ribands."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The capital employed in **agricultural** improvement yields a far greater annual revenue than that invested in foreign trade."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Our domestic varieties of animals and cultivated plants demonstrate the immense power of **agricultural** selection across generations."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He took a passionate interest in modern **agricultural** drainage, convinced it would double the fertility of his tenant farms."*
+

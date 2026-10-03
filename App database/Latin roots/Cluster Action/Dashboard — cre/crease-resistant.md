@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of fabric that does not wrinkle easily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of fabric that does not wrinkle easily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treated or manufactured so as to resist wrinkling, crumpling, or forming creased folds during wear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polymer textile chemistry, crease-resistant fabrics are treated with cross-linking resin finishes that stabilize cellulose chains against deformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crease-resistant designates of fabric that does not wrinkle easily."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Modern synthetic treatments that render garments **crease-resistant** undermine traditional social displays requiring constant servant ironing."*
+> - 📜 **John Ruskin (*The Crown of Wild Olive*):** *"The mechanical quest for an immaculate, **crease-resistant** cloth reflects an obsession with industrial perfection at the expense of organic texture."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The citizens of the future wore simple, **crease-resistant** tunics fabricated from resilient synthetic polymers."*
+

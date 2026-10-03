@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright spot on a planet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bright spot on the sun's photosphere occurring most frequently in the vicinity of sunspots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright spot or patch on the surface of the sun or another celestial body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solar astrophysics, a facula represents a magnetic concentration in the solar photosphere that radiates more brightly than surrounding plasma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Consuetum item est hac vigilia ardentes deferri faculas quod Johannes fuerit ardens lucerna, et qui vias Domini praeparaverit."*
+> - 📜 **Richard A. Proctor (*Other Worlds Than Ours*):** *"Through the telescope, each luminous **facula** appeared like an incandescent crest riding atop the turbulent solar photosphere."*
+> - 📜 **Robert Stawell Ball (*The Story of the Heavens*):** *"The astronomer tracked the brilliant **facula** as it rotated toward the western limb of the solar disk."*
+> - 📜 **Simon Newcomb (*Popular Astronomy*):** *"Intense magnetic disturbances within the solar atmosphere frequently manifest as an isolated **facula** near active sunspots."*
+

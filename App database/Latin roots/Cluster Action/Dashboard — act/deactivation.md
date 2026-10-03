@@ -42,8 +42,8 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate disabling, dismantling, or neutralization of an explosive, weapon system, electronic account, or military unit to render it safely inoperative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and enzymatic kinetics, deactivation occurs when conformational changes, temperature denaturation, or chemical inhibitors abolish the catalytic competency of an enzyme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making something inactive, inoperative, or safe from functioning; the act of turning off or disabling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical kinetics and catalysis, catalyst deactivation represents the progressive loss of activity over time due to poisoning, coking, or thermal sintering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **Svante Arrhenius (*Quantitative Laws in Biological Chemistry*):** *"The thermal **deactivation** of proteolytic enzymes follows the course of a monomolecular reaction with increasing temperature."*

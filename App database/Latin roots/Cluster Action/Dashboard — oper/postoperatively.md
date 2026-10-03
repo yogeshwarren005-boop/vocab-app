@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After the operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After the operation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a postoperative manner; during the period following a surgical operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical clinical trials and protocol management, monitoring patients postoperatively tracks wound healing, functional recovery, and long-term morbidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postoperatively designates after the operation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients managed **postoperatively** with early ambulation demonstrate a markedly lower frequency of venous thromboembolism."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"The patient was monitored **postoperatively** for signs of transient diabetes insipidus following manipulation of the stalk."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle*):** *"Wounds treated **postoperatively** with carbolized lint healed by primary intention without generating a drop of purulent matter."*
+

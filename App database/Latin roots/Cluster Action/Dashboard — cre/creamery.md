@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workplace where dairy products (butter and cheese etc.) are produced or sold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A workplace where dairy products (butter and cheese etc.) are produced or sold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An establishment or factory where butter, cheese, and other dairy products are processed, produced, or sold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural history, cooperative creameries in the late nineteenth century revolutionized dairy farming through centrifugal milk separators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I did hear it reported that Elder Fry calculates to give up preachin' an' go into the creamery business another spring."*
-> - 📜 **James Joyce (*Ulysses*):** *"I am the dreamery creamery butter. _(A skeleton judashand strangles the light."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The neighboring farmers carted their heavy milk churns to the valley **creamery** at the break of dawn."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The farmers organized a cooperative **creamery** to secure fair market prices for their milk output."*
+> - 📜 **Hamlin Garland (*Main-Travelled Roads*):** *"The rhythmic hum of the separator inside the village **creamery** signaled that the morning churning had begun."*
+

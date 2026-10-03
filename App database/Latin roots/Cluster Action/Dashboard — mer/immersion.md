@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sinking until covered completely with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the disappearance of a celestial body prior to an eclipse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of plunging or sinking completely into a liquid; deep mental absorption or involvement in an undertaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical microscopy, oil immersion techniques place a high-refractive-index oil between lens and cover slip to maximize numerical aperture and optical resolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As in droughty regions baptism by immersion could only be performed symbolically, Mr."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I hoped so, for the poor creature’s immersion was not long; but the blow from the shark’s tail might have been his death-blow."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"After immersion the film is wet, not with water merely, but with a mixture of a lot of spirit and a little water."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Examination under an oil **immersion** lens is essential to visualize the delicate morphology of the spirochete."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Through total **immersion** in work and study, Teufelsdröckh sought deliverance from the torment of spiritual despair."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient sacrament was administered by triple **immersion** beneath the consecrated river waters."*
+

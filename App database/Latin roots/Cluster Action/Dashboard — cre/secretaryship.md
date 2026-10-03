@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of secretary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of secretary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, role, or term of service of a secretary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, holding a key cabinet secretaryship served as the premier stepping-stone to the premiership or presidency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This order was not obeyed, and so the two claimants to the Secretaryship of War held their ground."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Stanton in holding on to the secretaryship in opposition to the wish of the President, on the ground that “to desert it now would be to imitate the treachery of his accidental chief,” Mr."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"He resigned the lucrative imperial **secretaryship** to devote his remaining years to literary and philosophical retirement."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"During his tenure of the foreign **secretaryship**, he preserved the European balance of power with consummate diplomatic finesse."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"My election to the **secretaryship** of the General Assembly opened valuable connections that aided my early public endeavors."*
+

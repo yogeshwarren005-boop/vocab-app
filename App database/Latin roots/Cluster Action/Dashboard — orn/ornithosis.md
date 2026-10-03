@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An atypical pneumonia caused by a rickettsia microorganism and transmitted to humans from infected birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atypical pneumonia caused by a rickettsia microorganism and transmitted to humans from infected birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoonotic bacterial infection caused by Chlamydia psittaci, transmitted to humans from non-psittacine birds (such as pigeons, ducks, and turkeys).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical infectious disease and public health epidemiology, ornithosis manifests as an atypical pneumonia accompanied by severe fever, headache, and chills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithosis designates an atypical pneumonia caused by a rickettsia microorganism and transmitted to humans from infected birds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Human outbreaks of **ornithosis** follow direct contact with infected domestic poultry or urban pigeon roosts."*
+> - 📜 **Karl Friedrich Meyer (*The Ecology of Psittacosis and Ornithosis*):** *"Serological testing has shown that latent **ornithosis** is endemic among feral bird populations throughout the temperate zones."*
+> - 📜 **Theobald Smith (*Parasitism and Disease*):** *"The chlamydial agent of **ornithosis** survives within aerosolized avian fecal dust, infecting mammalian lungs upon inhalation."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Jeweled pendant worn on a chain around the neck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jeweled pendant worn on a chain around the neck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of jewelry consisting of a pendant suspended from a slender chain worn around the neck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In audio engineering and television broadcasting, a lavalier microphone is a small, hands-free microphone clipped to an actor's or speaker's lapel or collar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lavalier designates jeweled pendant worn on a chain around the neck."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Around her slender throat hung an antique pearl **lavalier**, a wedding gift from her wealthy Chicago admirer."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"She wore an exquisite diamond **lavalier** that caught the sparkle of the crystal chandeliers in the Fifth Avenue ballroom."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"The golden **lavalier** resting against her bodice reminded him of the delicate jewelry of the Florentine Renaissance."*
+

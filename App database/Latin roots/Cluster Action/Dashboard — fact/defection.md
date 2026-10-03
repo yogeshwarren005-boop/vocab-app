@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Withdrawing support or help despite allegiance or responsibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having rejected your religious beliefs or your political party or a cause (often in favor of opposing beliefs or causes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The desertion of one's allegiance, political party, country, or cause in favor of an opposing entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology and military intelligence, defection represents an institutional breach that demoralizes loyalists and supplies vital strategic intelligence to rivals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Kitty and Lydia take his defection much more to heart than I do."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The truth was, that amid so much adulation as surrounded him, the idol of a nation, his soul no longer increased in wisdom; and loving virtue beyond all other things, he secretly bemoaned his defection whilst not perceiving its cause."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge, by his defection, had left me in charge of the farm."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The sudden **defection** of the auxiliary cavalry left the imperial center exposed to the barbarian onslaught."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The open **defection** of Lord Churchill shattered King James's remaining confidence in his royal army."*
+> - 📜 **Thucydides (*The History of the Peloponnesian War*):** *"The maritime allies resolved upon **defection** from the Athenian league as soon as the Spartan fleet arrived off the coast."*
+

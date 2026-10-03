@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking facets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking facets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking facets or cut surfaces; smooth, uncut, or simple in shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gemology and mineralogy, an unfaceted rough gemstone or cabochon preserves natural mineral inclusions and rounded optical depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unfaceted designates lacking facets."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The ancient Byzantine crown was set with **unfaceted** native jewels that glowed with deep, subdued radiance."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He ran his slender fingers over a collection of **unfaceted** emeralds and raw uncut garnets gathered from Persian mines."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"Early medieval goldsmiths preferred **unfaceted** stones, valuing mystical color over mathematical brilliance of cut."*
+

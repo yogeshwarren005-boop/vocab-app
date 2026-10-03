@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to stir up public opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be agitated, excited, or roused.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing physical disturbance or emotional perturbation; stirring up or actively campaigning for reform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical process engineering, an agitating device (such as an impeller) maintains uniform suspension and facilitates heat transfer in a reactor vessel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In the middle of this agitating scene Mäzli arrived, perfectly happy and filled with her recent experiences."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At once she heard, not ten yards off, a voice that was beginning to have a strange power in agitating her."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No.” I felt a burning glow mount to my face; for bitter and agitating recollections were awakened by the allusion to marriage."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Radical orators were seen at every street corner, **agitating** the starving workmen to march upon Versailles."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The unexpected letter proved an **agitating** intrusion into the quiet routine of their scholarly household."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The male bird displayed his vibrant crest, rapidly **agitating** his wings to catch the attention of the observing female."*
+

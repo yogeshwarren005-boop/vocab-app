@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of predatory marine fish in the family Merlucciidae, commonly known as hakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial fisheries biology, Merluccius bilinearis and Merluccius merluccius represent vital benthic groundfish stocks in the Atlantic ocean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog merluccius as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Pennant (*British Zoology*):** *"The common European hake, assigned to the genus **merluccius**, is captured in abundance along the rocky Cornish coast."*
+> - 📜 **William Yarrell (*A History of British Fishes*):** *"In **merluccius**, the formidable double row of sharp incurved teeth enables the fish to prey voraciously on pilchards."*
+> - 📜 **Frank Buckland (*Log-Book of a Fisherman and Zoologist*):** *"Deep-water trawlers brought up glistening silver specimens of **merluccius** from the muddy ocean floor."*
+

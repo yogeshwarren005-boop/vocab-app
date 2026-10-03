@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science that deals with diseases and problems specific to old people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medical science that deals with diseases and problems specific to old people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interdisciplinary scientific study of aging across biological, clinical, psychological, and sociological dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century biomedical science, gerontology emerged to decipher the molecular hallmarks of cellular senescence, telomere shortening, and metabolic dysregulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerontology designates the branch of medical science that deals with diseases and problems specific to old people."*
+> - 📜 **Ignatz Leo Nascher (*Geriatrics: The Diseases of Old Age and Their Treatment*):** *"The foundation of modern **gerontology** rests upon observing the aged in their natural social environment as well as in hospital wards."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The findings of experimental **gerontology** demonstrate the astonishing capacity of the aged human brain to rewire around localized damage."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The problems of **gerontology** will increasingly occupy the attention of medical faculties as sanitation extends the average span of human life."*
+

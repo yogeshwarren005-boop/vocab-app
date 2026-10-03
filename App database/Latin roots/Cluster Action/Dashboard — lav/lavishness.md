@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something that is excessively expensive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive spending.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extravagant abundance, profuse generosity, and the unrestrained expending of wealth, gifts, or praise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social ethics and economic philosophy, lavishness in consumption was scrutinized as either a driver of luxury commerce or a symptom of aristocratic decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"My reputation for lavishness stood me here in great stead, for henceforth there was no difficulty on this score."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"She pinched herself to the verge of want in order to send large sums of money to the missionaries, but she saved the captain's money for him against the time when his willful lavishness and improvidence might find him a poor man."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The ostentatious **lavishness** of the feudal nobility ruined their fortunes while supporting armies of retainers."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial court under Elagabalus was notorious for a senseless **lavishness** that emptied the provincial treasuries."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond admired the **lavishness** of high society, dreaming of a life surrounded by costly and elegant possessions."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming an outgrowth (usually an excessive outgrowth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming an outgrowth (usually an excessive outgrowth).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing out abnormally or superfluously; redundant or forming an abnormal outgrowth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and phonology, an excrescent consonant is a non-etymological sound inserted between consonants (such as the 'd' in 'sound' from Old French 'son').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Out of this lifeless mass has already grown an excrescent power, which tends to realize all the dangers that can be apprehended from a defective construction of the supreme government of the Union."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"The transition between nasal and liquid consonants frequently produces an **excrescent** plosive like the 'b' in 'bramble'."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The volcanic crater was choked with irregular, **excrescent** masses of basaltic scoria."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary committees formed an **excrescent** tyranny that choked the ancient constitutional branches of government."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow with a creamy tinge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellow with a creamy tinge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a soft, pale yellow color with a warm milky cast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural taxonomy, creamy-yellow blossoms often indicate anthocyanin suppression or specific carotenoid pigment ratios.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creamy-yellow designates yellow with a creamy tinge."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The cross-bred seedlings produced delicate **creamy-yellow** petals that contrasted with the parent varieties."*
+> - 📜 **Asa Gray (*Field, Forest, and Garden Botany*):** *"The wild columbine exhibited spurred petals of a soft **creamy-yellow** hue along the limestone ledges."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"The tall sulfur-flower painted the granite ridges with bright patches of **creamy-yellow** blossoms."*
+

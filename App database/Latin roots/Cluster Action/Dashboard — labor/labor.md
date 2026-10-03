@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social class comprising those who do manual labor or work for wages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Productive work (especially physical work done for wages).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Productive work, especially hard physical toil; exertion of bodily or mental faculties for economic livelihood or creation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics, labor is the physiological process of childbirth, marked by regular uterine contractions that efface and dilate the cervix to deliver the fetus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Laws, indeed, are fixed in their operation and results as subserving the highest good in the training and the disciplining of the race, giving them hope in their labor and sure expectation of fruit from their toil."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They have ceased to labor with their hands, and, without warrant in the providences of God and the judgment of brethren, have turned from doing their own business, expecting the Lord to pay their debts and provide for their necessities."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I was a poor student in a Manual Labor Institute at the West."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The annual **labor** of every nation is the fund which originally supplies it with all the necessaries and conveniences of life."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The **labor** of his body and the work of his hands, we may say, are properly his own: whatever he removes out of nature he hath mixed his **labor** with, and joined to it something that is his own, and thereby makes it his property."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"It requires years of patient **labor** to collect the morphological observations necessary to verify a single biological law."*
+

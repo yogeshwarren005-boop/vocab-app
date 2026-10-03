@@ -42,8 +42,8 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The compulsory extraction or extortion of money, labor, fees, or compliance through the harsh abuse of authoritative power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fiscal history and political economy, an exaction is an arbitrary levy or tribute imposed by a ruler outside established constitutional and statutory law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of demanding and compelling payment, contribution, or submission, often unjustly or with excessive severity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fiscal history and political economy, an exaction is an extortionate tax, levy, or tribute imposed by an arbitrary sovereign without legislative consent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The rapacious **exaction** of provincial taxes ruined the landed aristocracy of Gaul long before the barbarian incursions."*

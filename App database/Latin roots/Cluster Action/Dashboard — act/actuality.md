@@ -42,8 +42,8 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concrete, observable factual existence as distinguished from theory, conjecture, possibility, or wishful imagination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian metaphysics, actuality (entelecheia) designates the realized state of an entity that has achieved its inherent form, contrasted with mere potentiality (dynamis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concrete, observable factual existence as distinguished from theory, mere possibility, or imaginative speculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early cinematography and documentary film, an actuality was a brief, non-fiction motion picture capturing an unchoreographed real-life event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **Herman Melville (*Moby-Dick*):** *"There are certain queer times and occasions in this strange mixed affair we call life when a man takes this whole universe for a vast practical joke, though the wit thereof he but dimly discerns, and more than suspects that the joke is at nobody's expense but his own; yet still, he clings to the stubborn **actuality** of his perils."*

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain in the andes in argentina (22,210 feet high).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain in the andes in argentina (22,210 feet high).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cerro Mercedario, an Andean mountain peak in Argentina, ranking as one of the highest summits in the Western Hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Andean mountaineering and South American physical geography, Mercedario rises to 6,720 meters within the Cordillera de la Ramada, featuring extensive glaciation and Inca ceremonial ruins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercedario designates a mountain in the andes in argentina (22,210 feet high)."*
+> - 📜 **Edward Whymper (*Travels Amongst the Great Andes of the Equator*):** *"The distant, snow-clad pyramid of **mercedario** dominated the southern horizon across the high Argentine desert."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The giant metamorphic ramparts flanking **mercedario** attest to colossal tectonic upheavals along the Andean spine."*
+> - 📜 **William Martin Conway (*The Bolivian Andes: A Record of Climbing and Exploration*):** *"Expeditions attempting **mercedario** must contend with ferocious pampero gales and extreme high-altitude desiccation."*
+

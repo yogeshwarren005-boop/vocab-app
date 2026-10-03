@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to create.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to create.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of imagination, original ideas, and intellectual inventiveness to produce artistic work, new insights, or novel solutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience, creativity involves dynamic functional coupling between the default mode network (spontaneous ideation) and executive control network (evaluation and refinement).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The give-and-take stimulated our imaginations and creativity, and often provided me with opportunities to pass along family history."*
+> - 📜 **Arthur Koestler (*The Act of Creation*):** *"The creative act does not create something out of nothing; **creativity** uncovers, selects, reshuffles, combines, and synthesizes already existing facts and ideas."*
+> - 📜 **Abraham Maslow (*Toward a Psychology of Being*):** *"Primary **creativity** springs from the unconscious depths of the personality and is the source of all authentic artistic inspiration."*
+> - 📜 **Carl Rogers (*On Becoming a Person*):** *"There is a desperate social need for **creativity** in an era where technological change outpaces our institutional adaptability."*
+

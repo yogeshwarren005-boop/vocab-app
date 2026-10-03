@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grow together (of plants and organs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow or become attached by accretion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To grow together or adhere to produce a larger mass; to accumulate gradually over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and planetary formation, gas and planetesimals accrete onto a gravitational core to form proto-planets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Of its bones is coral made;" its arguments and theories have lain long in Wordsworth's mind, and have accreted to themselves a rich investiture of observation and feeling."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Calcareous particles held in mineral waters **accrete** around organic cores to form thick travertine ledges."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"Layers of silica and iron oxide slowly **accrete** upon the exposed surfaces of the desert boulders."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"In every evolving aggregate, disparate external elements **accrete** to augment the central structural density."*
+

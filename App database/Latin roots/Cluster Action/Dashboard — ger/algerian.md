@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of algeria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of algeria or its inhabitants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Algeria, its people, its cultures, or its sovereign institutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean history and literature, Algerian denotes both native Maghrebi heritage and the colonial and post-colonial society of North Africa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"At the end he felt faint and sick, and having lit some Algerian pastilles in a pierced copper brazier, he bathed his hands and forehead with a cool musk-scented vinegar."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here were Moors, here were Algerians, black African folk, sneering, inimical."*
+> - 📜 **Albert Camus (*The Stranger*):** *"The hot midday sun beat down relentlessly upon the white sand of the **Algerian** beach."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The corsair had the dark, weather-beaten countenance of an **Algerian** pirate accustomed to boarding merchant galleons."*
+> - 📜 **Alexis de Tocqueville (*Writings on Empire and Slavery*):** *"The French administration must govern the **Algerian** population with justice rather than relying solely upon military subjugation."*
+

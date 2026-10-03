@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that produces coagulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that produces coagulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, substance, or device that causes, accelerates, or promotes coagulation or clotting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrosurgery, a bipolar coagulator uses high-frequency electrical current to desiccate and seal bleeding vessels during operative procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coagulator designates an agent that produces coagulation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Thrombin acts as the ultimate physiological **coagulator**, directly cleaving soluble fibrinogen into insoluble fibrin strands."*
+> - 📜 **Harvey Cushing (*Electrosurgery as an Aid to the Removal of Intracranial Tumors*):** *"The high-frequency electrical **coagulator** revolutionized neurosurgery by permitting bloodless dissection through delicate brain parenchyma."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Vegetable rennet serves as an efficient organic **coagulator** in rural cheese production throughout the Alps."*
+

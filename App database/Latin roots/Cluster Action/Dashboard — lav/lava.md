@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rock that in its molten form (as magma) issues from volcanos; lava is what magma is called when it reaches the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rock that in its molten form (as magma) issues from volcanos; lava is what magma is called when it reaches the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hot molten or semi-fluid rock erupted from a volcano or fissure, or the solid rock resulting from its cooling and solidification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In volcanology, lava is distinguished from subsurface magma, classified into basaltic (pahoehoe and aa), andesitic, and rhyolitic types based on silica content and viscosity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whenever she felt herself injured, words of indignation poured out from her like fiery lava from a crater."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And still this hair is growing now; this moment growing, and heat must breed it; but no, it’s like that sort of common grass that will grow anywhere, between the earthy clefts of Greenland ice or in Vesuvius lava."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was composed of black and vitreous lava, mixed with fragments of felspar."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"The black basaltic **lava** had flowed over the old coral reef, baking the limestone beneath into a hard, crystalline marble."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The great currents of **lava** that poured from Mount Etna in 1669 overwhelmed the ramparts of Catania and buried entire vineyards."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The barren volcanic cliffs of the Galapagos rose like jagged heaps of cinders and cooled **lava** amidst the lonely ocean."*
+

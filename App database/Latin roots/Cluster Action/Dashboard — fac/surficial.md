@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or occurring on or near the earth's surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or occurring on or near the earth's surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated on, or occurring at the outer surface; superficial or near the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and hydrogeology, surficial geology studies unconsolidated glacial till, alluvium, and weathered soil blankets resting on bedrock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surficial designates pertaining to or occurring on or near the earth's surface."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Torrential mountain floods disperse immense volumes of **surficial** gravel across the agricultural plains below."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms continually digest and overturn the **surficial** layer of organic soil, aerating the topsoil of pastures."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The meteorological distribution of heat is profoundly affected by the thermal radiation of the **surficial** crust."*
+

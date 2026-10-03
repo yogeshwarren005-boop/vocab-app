@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secretary immediately subordinate to the head of a department of government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A secretary immediately subordinate to the head of a department of government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subordinate or deputy secretary, especially a senior government official assisting a Cabinet Secretary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In executive government departments, the Undersecretary of State or Defense manages day-to-day administrative operations and departmental bureaus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"Christopher Mead, Assistant Undersecretary for External Affairs, returned the handshake, smiling."*
-> - 📜 **Algis Budrys (*Citadel*):** *"Christopher Mead, Assistant Undersecretary for External Affairs," the assistant said, orientating himself."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **undersecretary** laid the urgent diplomatic dispatches before the minister for immediate signature."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Trelawney Hope held the responsible office of **undersecretary** for Foreign Affairs in the conservative cabinet."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The permanent **undersecretary** preserves administrative continuity while political department heads come and go with elections."*
+

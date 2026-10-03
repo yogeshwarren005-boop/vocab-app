@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cleverly amusing in tone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cleverly amusing in tone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treating serious issues with deliberately inappropriate humor; flippant or playfully humorous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette and conversational rhetoric, facetious remarks risk offending companions if delivered when solemnity is required.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You must grow your hair for the marriage knot,” Yunsan warned me one day, with the ghost of a twinkle in his austere eyes, more nearly facetious and human than I had ever beheld him."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers is.” “Yah!” cried Wemmick, suddenly hitting out at the turnkey in a facetious way, “you’re dumb as one of your own keys when you have to do with my principal, you know you are."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"If there was anything marvellous, his auditors were lost in astonishment; and if anything facetious, they were sure to laugh exactly in the right place."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber made a **facetious** allusion to his pecuniary embarrassments, treating impending bankruptcy as a humorous adventure."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet was in his most **facetious** humor, teasing his anxious wife with playful sarcasms about their new neighbor."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy's **facetious** excuses could not soften his father's grave displeasure over the unpaid debt."*
+

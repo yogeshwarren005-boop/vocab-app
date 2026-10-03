@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doing or producing good.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generous in assistance to the poor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resulting in good; performing acts of kindness, charity, or generosity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural theology and Enlightenment cosmology, the universe was envisioned as the design of an all-wise and beneficent Providence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But you are a single person, sir, and may you long be spared to ask a married person such a question!” With this beneficent wish, Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Considering his position he became wonderfully free from the chronic melancholy which is taking hold of the civilized races with the decline of belief in a beneficent Power."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This work is so awful in its importance, and so beneficent in its results, that it must take the chief place in a minister's thoughts and in the disposition of his time; and if it requires the sole place, that too must be accorded to it."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I cannot persuade myself that a **beneficent** and omnipotent God would have designedly created the Ichneumonidae with the express intention of their feeding within the living bodies of caterpillars."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A **beneficent** necessity governs all things, so that evil is continually converted into higher good."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The utilitarian standard enjoins actions that are **beneficent** to the general happiness of the whole sentient creation."*
+

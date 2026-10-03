@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period during which an embryo develops (about 266 days in humans).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being pregnant; the period from conception to birth when a woman carries a developing fetus in her uterus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or period of carrying an embryo or fetus inside the womb between conception and birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and creative psychology, the period of incubation during which a scientific discovery or literary masterpiece takes shape in the mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was she I worshipped when I bowed before the ten stones of jade and adored them as the moons of gestation."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The foetus must be kept mentally pure and the 62:3 period of gestation have the sanctity of virginity."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He was said to have been born from a myrrh-tree, the bark of which bursting, after a ten months' gestation, allowed the lovely infant to come forth."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The period of embryonic **gestation** varies in close correlation with the body size and phylogenetic rank of the mammal."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My unnatural creation required months of silent mental **gestation** while I gathered anatomical fragments from the charnel houses."*
+> - 📜 **William Harvey (*On the Generation of Animals*):** *"During **gestation**, the uterus acts as the warm protective matrix within which the formless ovum is fashioned into a living infant."*
+

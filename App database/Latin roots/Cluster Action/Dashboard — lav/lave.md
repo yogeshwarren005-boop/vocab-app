@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wash or flow against.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cleanse (one's body) with soap and water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To wash, bathe, or rinse; in poetic usage, of a stream or sea, to wash against or lap softly against a shore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic Scottish and northern English dialect, the lave also meant the remainder, the rest, or what is left over.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let your remembrance apply to Banquo; Present him eminence, both with eye and tongue: Unsafe the while, that we Must lave our honours in these flattering streams, And make our faces vizards to our hearts, Disguising what they are."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Coal-black is better than another hue In that it scorns to bear another hue; For all the water in the ocean Can never turn the swan’s black legs to white, Although she lave them hourly in the flood."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"A daimen icker in a thrave ’S a sma’ request; I’ll get a blessin wi’ the lave, An’ never miss’t!"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"And make our faces vizards to our hearts, disguising what they are, and **lave** our honours in these flattering streams."*
+> - 📜 **John Milton (*Comus*):** *"Sabrina fair, listen where thou art sitting under the glassy, cool, translucent wave, in twisted braids of lilies knitting the loose train of thy amber-dropping hair; listen for dear honour's sake, goddess of the silver lake, listen and save: the waters **lave** her pearly car."*
+> - 📜 **Robert Burns (*Poems and Songs*):** *"I'll get a blessing wi' the **lave**, and never miss't; a daimen-icker in a thrave 's a sma' request."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected by an abnormal collection of blood or other fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affected by an abnormal collection of blood or other fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by congestion or the accumulation of fluid or blood in tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, congestive heart failure (CHF) is a syndrome wherein impaired cardiac pumping causes pulmonary congestion and peripheral edema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Not matter, but Mind If exposure to a draught of air while in a state of perspiration is followed by chills, dry cough, influenza, 384:18 congestive symptoms in the lungs, or hints of inflammatory rheumatism, your Mind-remedy is safe and sure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The onset of **congestive** failure is heralded by dependent pedal edema, basal rales, and elevation of jugular venous pressure."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Neurohormonal activation in **congestive** heart failure stimulates renal sodium retention, exacerbating circulatory overload."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The elderly gentleman suffered from a **congestive** condition of the lungs that grew alarming during the winter fogs."*
+

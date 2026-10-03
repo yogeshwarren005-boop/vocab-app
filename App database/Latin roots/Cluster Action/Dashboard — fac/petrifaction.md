@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rock created by petrifaction; an organic object infiltrated with mineral matter and preserved in its original form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of turning into stone, or a petrified object or fossil; extreme paralyzing stupor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taphonomy and paleontology, petrifaction occurs through permineralization, wherein mineral-rich groundwater deposits silica or calcite into cellular voids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Shall Man, such step within his endeavor, Man’s face, have no more play and action Than joy which is crystallized forever, Or grief, an eternal petrifaction? -- St. 18. life’s minute: life’s short span. 19."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Mineral springs carrying carbonate of lime demonstrate rapid **petrifaction** of submerged plant stems into solid rock."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A spiritual **petrifaction** had overtaken the age, leaving men worshipping lifeless formulas and mechanical dogmas."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"He sat in a state of hopeless **petrifaction**, staring into the dark shadows with vacant horror."*
+

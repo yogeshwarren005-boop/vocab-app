@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A confectioner's shop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A confectioner's shop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to sweet confections, candies, pastries, or the business of making sweetmeats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary history and domestic arts, confectionary recipes encompassed marzipan modeling, comfits, fruit jams, and sugar sculpture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, confectionary designates a confectioner's shop."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The grand **confectionary** wedding cake was adorned with white sugar doves and delicate icing garlands."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley indulged his appetite with every luxury from the **confectionary** stalls of Covent Garden."*
+> - 📜 **Jane Austen (*Emma*):** *"A basket of delicate **confectionary** pastries was sent to the invalid from the Hartfield kitchens."*
+

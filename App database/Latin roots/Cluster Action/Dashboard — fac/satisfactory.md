@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving satisfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meeting requirements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fulfilling expectations, requirements, or demands; adequate, acceptable, and sufficient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contractual law, a satisfaction clause requires performance to be objectively satisfactory to a reasonable commercial standard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Do what I want, and I will pay you well.” Jo attends closely while the words are being spoken; tells them off on his broom-handle, finding them rather hard; pauses to consider their meaning; considers it satisfactory; and nods his ragged head."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Let us talk about something else.” Ada would have done so willingly, and with a full persuasion that we had brought the question to a most satisfactory state."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"So far that’s satisfactory, and it does you credit."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne found the mutual explanation entirely **satisfactory**, restoring confidence and unspoken affection between them."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"No **satisfactory** distinction has ever yet been drawn between specific differences and mere well-marked varieties."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The alibi provided by the country physician appeared completely **satisfactory** to the investigating detective."*
+

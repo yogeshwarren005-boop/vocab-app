@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is feculent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is feculent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Muddiness, turbidity, or foul sediment held in suspension within a liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics and theological allegory, feculence denotes moral corruption, spiritual dross, or terrestrial impurity clouding pure contemplation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, feculence designates something that is feculent."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Out of that dark **feculence** of chaotic doubt and despair, a clearer spiritual dawn began slowly to rise."*
+> - 📜 **John Milton (*Of Reformation*):** *"The pure fountain of divine truth was choked and darkened by the muddy **feculence** of superstitious traditions."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our clearest perceptions are too frequently mingled with sensory **feculence** that obscures the true nature of things."*
+

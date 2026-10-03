@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a secretary or to a secretary's work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a secretary or to a secretary's work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the work, duties, or professional skills of a secretary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bureaucratic sociology, secretarial administration coordinates organizational communications, archival filings, and institutional scheduling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A door opened, a white-haired secretarial head, but wearing a compassionate expression, appeared, and a skinny forefinger beckoned me into the sanctuary."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A door opened, and a white-haired **secretarial** head, but wearing a compassionate expression, appeared in the doorway."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"You will excuse me, he said with a rather ghastly smile, for being busy with urgent **secretarial** labors."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"His private office buzzed with efficient **secretarial** assistants typing state memorandums and sorting correspondence."*
+

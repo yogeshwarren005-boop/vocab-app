@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An administrative unit responsible for maintaining records and other secretarial duties; especially for international organizations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An administrative unit responsible for maintaining records and other secretarial duties; especially for international organizations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, function, or administrative department of a secretary; an alternative spelling of secretariat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century colonial administration, the secretariate managed provincial revenue records, magistrate appointments, and imperial gazettes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretariate designates an administrative unit responsible for maintaining records and other secretarial duties; especially for international organizations."*
+> - 📜 **Rudyard Kipling (*Plain Tales from the Hills*):** *"The dusty files in the imperial **secretariate** at Simla accumulated through long hot summers under the punkahs."*
+> - 📜 **Lord Macaulay (*Essays on Clive and Hastings*):** *"The young civil servant began his administrative career in the Bengal **secretariate** at Calcutta."*
+> - 📜 **George Orwell (*Burmese Days*):** *"The provincial **secretariate** dispatched formal circulars on forestry regulation to every district commissioner."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having the thickness of heavy cream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having the thickness of heavy cream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The texture, taste, or appearance of being rich, smooth, and creamy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dairy science and food rheology, creaminess is evaluated by emulsion viscosity, fat droplet distribution, and oral coating sensations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creaminess designates the property of having the thickness of heavy cream."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Slow stirring over a gentle fire gives the custard that velvety **creaminess** which delights the palate."*
+> - 📜 **Alexandre Dumas (*Grand Dictionnaire de Cuisine*):** *"The sauce attained a magnificent **creaminess** after the chef emulsified the fresh butter into the reduced stock."*
+> - 📜 **John Burroughs (*Locusts and Wild Honey*):** *"The rich **creaminess** of the clover honey revealed the pristine floral pastures of the highland bees."*
+

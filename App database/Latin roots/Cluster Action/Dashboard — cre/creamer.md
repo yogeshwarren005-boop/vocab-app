@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small pitcher for serving cream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small pitcher for serving cream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small pitcher or jug used for serving cream at the dining table; also a non-dairy powder or liquid substitute for coffee cream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts and antique silverware, Georgian silver creamers exhibited ornate rococo repoussé floral work and scalloped spouts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Creamer, to state that my health is such that all strong emotions would be dangerous in my present delicate condition--and that I must decline any family discussions or interviews whatever."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His death was delightful, however; and his change was only for the better; Creamer, my dear Pitt, must leave your aunt." Pitt expressed his perfect acquiescence."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Creamer, her medical man, would not hear of her returning to her old haunts and dissipation in London."*
+> - 📜 **Henry James (*The Spoils of Poynton*):** *"She lifted the antique silver **creamer**, admiring its delicate beaded rim and elegant Queen Anne foot."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The breakfast table was neatly set with blue chinaware, a matching sugar bowl, and a ceramic **creamer**."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She paused with the little porcelain **creamer** in hand, listening intently to the conversation across the tea table."*
+

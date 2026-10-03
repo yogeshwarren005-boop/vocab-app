@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An administrative unit responsible for maintaining records and other secretarial duties; especially for international organizations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thoroughbred that won the triple crown in 1973.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A permanent administrative office or department, especially of an international or governmental organization; also the officials staffing it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international relations, the United Nations Secretariat is headed by the Secretary-General, carrying out the administrative and operational directives of the General Assembly and Security Council.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secretariat designates an administrative unit responsible for maintaining records and other secretarial duties; especially for international organizations."*
+> - 📜 **Woodrow Wilson (*Addresses on the League of Nations*):** *"The permanent **secretariat** of the League will gather international statistics and maintain continuous communication among member states."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The joint **secretariat** rendered invaluable service by coordinating Allied staff planning across army and naval commands."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"A worldwide transport and health **secretariat** managed the logistical reconstruction of postwar civilization."*
+

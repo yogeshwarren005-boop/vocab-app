@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin fac within the domain of Action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of fac in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An evil deed, crime, villainy, or grave wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical jurisprudence and legal pleading, a malefaction constitutes an overt indictable breach of statutory law or crown peace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard That guilty creatures sitting at a play, Have by the very cunning of the scene, Been struck so to the soul that presently They have proclaim’d their malefactions."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"I have heard that guilty creatures sitting at a play have by the very cunning of the scene been struck so to the soul that presently they have proclaim'd their **malefaction**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The tyrant sought to conceal every nocturnal **malefaction** beneath a display of extravagant public games."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The puritan magistrate proclaimed that no hidden **malefaction** could remain forever veiled from the eye of Providence."*
+

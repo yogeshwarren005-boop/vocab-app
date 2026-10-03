@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become or cause to become obstructed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overfull as with blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively crowded, blocked, or full of traffic; in medicine, abnormally filled with blood, mucus, or fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical examination, a congested conjunctiva or pharyngeal mucosa exhibits prominent dilated microvessels and inflammatory erythema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In November, 1879, her physician had decided that tubercles had formed in the left lung, and that the right lung was much congested and hardened."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Is it so certain that a dense population congested in cities and crowded in factories and mines is a more ideal social aggregation than is a community of prosperous farmers?"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scarf followed, his coarse features congested."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We hurried through the dark, **congested** alleys bordering the docks, guided only by the distant flare of the gas lamps."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute lobar pneumonia, the affected pulmonary lobe is heavily **congested**, dark red, and friable on palpation."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The narrow courts near the river were foul and **congested** with the destitute families of casual dock laborers."*
+

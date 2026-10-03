@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a meritorious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a meritorious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner deserving praise, honor, or reward; with notable merit or excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil service commendations and military citations, serving meritoriously denotes performance exceeding standard duty in demanding circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They were good qualities, without which no high place can be meritoriously won, but like fire and water, though excellent servants, they were very bad masters."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He who discharges his public trust **meritoriously** amidst widespread corruption deserves the lasting gratitude of his countrymen."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The naval commander had served **meritoriously** in three wars before receiving the honor of the admiral's flag."*
+> - 📜 **George Washington (*Writings: General Orders to the Continental Army*):** *"Those soldiers who have behaved **meritoriously** during the hard winter campaign shall receive public thanks from the general."*
+

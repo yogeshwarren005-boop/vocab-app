@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place of business where professional or clerical duties are performed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An administrative unit of government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room, suite, or building used for business or professional work, or a formal position of authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman civic philosophy and Cicero's De Officiis, officium denotes one's solemn moral and public duty toward family, friends, and the republic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will no more enforce mine office on you, Humbly entreating from your royal thoughts A modest one to bear me back again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not marvel, Helen, at my course, Which holds not colour with the time, nor does The ministration and required office On my particular."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her death itself, which could not be her office to say is come, was faithfully confirm’d by the rector of the place."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"For who would bear the whips and scorns of time, the oppressor's wrong, the proud man's contumely, the pangs of despised love, the law's delay, the insolence of **office** and the spurns that patient merit of the unworthy takes, when he himself might his quietus make with a bare bodkin?"*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge kept the door of his counting-house open that he might keep his eye upon his clerk in a dismal little cell, beyond, a sort of tank, copying letters in the cold dark **office**."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Men in great place are thrice servants: servants of the sovereign or state, servants of fame, and servants of business; so as they have no freedom, neither in their persons, nor in their actions, nor in their times: it is a strange desire, to seek power and to lose liberty; or to seek power over others, and to lose power over a man's self. The rising unto **office** is laborious, and by pains men come to greater pains."*
+

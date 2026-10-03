@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political system governed by old men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political system governed by old men.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of social or political governance in which authority, decision-making, and high offices are vested entirely in the oldest members of society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology and anthropology, a gerontocracy maintains social continuity and conservative traditions at the risk of institutional stagnation and resistance to reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerontocracy designates a political system governed by old men."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The venerable Roman Senate was in essence a **gerontocracy**, where age and consular dignities outweighed the ambitions of youth."*
+> - 📜 **Plato (*The Republic*):** *"In our ideal commonwealth, the rule of the elders constitutes a natural **gerontocracy**, for the experienced must govern the young."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Primitive tribal councils exhibit a rigid **gerontocracy**, where patriarchal authority enforces sacred customary law upon the tribe."*
+

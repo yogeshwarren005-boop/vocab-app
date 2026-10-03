@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of ornamental display.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of ornamental display.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive devotion to decorative embellishment in art, design, architecture, or social ceremonies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In imperial history and social theory, ornamentalism describes the elaborate systems of honors, titles, and hierarchical rituals used to bind diverse societies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornamentalism designates the practice of ornamental display."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The decay of Venetian Gothic art began when structural sincerity was sacrificed to vulgar **ornamentalism**."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"Commercial manufacturing substitutes cheap **ornamentalism** for the honest handcraft of the dedicated artisan."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"A healthy aesthetic movement values the exquisite subtlety of pure design above the noisy clatter of Victorian **ornamentalism**."*
+

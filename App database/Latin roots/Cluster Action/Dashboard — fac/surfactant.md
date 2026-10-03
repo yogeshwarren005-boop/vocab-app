@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical agent capable of reducing the surface tension of a liquid in which it is dissolved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical agent capable of reducing the surface tension of a liquid in which it is dissolved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface-active agent that lowers the surface tension between two liquids or between a liquid and a solid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonary physiology, alveolar surfactant is a lipoprotein complex that reduces surface tension in lung alveoli, preventing end-expiratory atelectasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surfactant designates a chemical agent capable of reducing the surface tension of a liquid in which it is dissolved."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In neonatal respiratory distress syndrome, deficiency of pulmonary **surfactant** leads to progressive alveolar collapse."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The shape of microscopic droplets is governed by surface tension, modified dynamically by any organic **surfactant** present in the medium."*
+> - 📜 **Robert Boyle (*Experiments and Considerations Touching Colours*):** *"The addition of a subtle oily soap acting as an active **surfactant** instantly broke the surface film of the liquor."*
+

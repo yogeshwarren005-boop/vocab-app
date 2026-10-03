@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have an effect upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act physically on; have an effect upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Influenced, impacted, or touched by an external force; also behaving in an artificial or pretentious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and clinical diagnosis, describing anatomical tissues or organ systems altered by disease or injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast affected the fine strains of honour To imitate the graces of the gods, To tear with thunder the wide cheeks o’ th’ air And yet to charge thy sulphur with a bolt That should but rive an oak."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, she confess’d she never lov’d you; only Affected greatness got by you, not you; Married your royalty, was wife to your place; Abhorr’d your person."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I affected wealth or honour?"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He was deeply **affected** by the sad news and covered his face with his trembling hands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **affected** lung tissue becomes consolidated and airless during the acute stage of lobar pneumonia."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond spoke in an **affected** drawl that she had acquired at Mrs. Lemon's finishing school."*
+

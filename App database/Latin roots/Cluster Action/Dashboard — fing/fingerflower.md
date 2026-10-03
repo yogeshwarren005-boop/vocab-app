@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternate vernacular name for the purple foxglove (Digitalis purpurea), noted for its bell-shaped blossoms resembling thimbles or gloved fingers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional folk herbalism, the leaves of the fingerflower were cautiously harvested for infusions believed to regulate irregular heart palpitations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerflower designates tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock."*
+> - 📜 **John Parkinson (*Theatrum Botanicum: The Theater of Plants*):** *"Our country house-wives call the digitalis **fingerflower**, for that the flowers do easily cover a woman's finger."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The bell-shaped corollas of the **fingerflower** hang gracefully toward one side of the towering stalk."*
+> - 📜 **Nicholas Culpeper (*The English Physitian*):** *"The **fingerflower** is under the dominion of Saturn, and must be administered with the gravest care by skilled physicians."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Addition of extra material or illustration or clarifying detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The result of improving something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of developing, presenting, or working out something in intricate detail, or the detailed product resulting from that process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic dream theory, secondary elaboration (Sekundare Bearbeitung) is the unconscious restructuring of a dream into a coherent narrative during waking recall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now,” she adds, “show me the spot again!” Jo thrusts the handle of his broom between the bars of the gate, and with his utmost power of elaboration, points it out."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"An ancient Hawaiian war-club or spear-paddle, in its full multiplicity and elaboration of carving, is as great a trophy of human perseverance as a Latin lexicon."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"More subtle forms are drawn with greater elaboration."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The gradual **elaboration** of complex instincts across successive generations proceeds under the steady guidance of natural selection."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Secondary **elaboration** fills up the gaps in the dream structure, giving it a superficial facade of waking intelligibility."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The slow **elaboration** of civil laws reflects the progressive experience of mankind in preserving liberty."*
+

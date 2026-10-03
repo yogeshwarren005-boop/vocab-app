@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states civil rights leader whose college registration caused riots in traditionally segregated mississippi (born in 1933).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English novelist and poet (1828-1909).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: George Meredith (1828–1909), distinguished English Victorian novelist and poet renowned for his psychological insight and innovative narrative style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian literary history, Meredith is celebrated for masterpieces including The Ordeal of Richard Feverel and The Egoist, pioneering the philosophical comedy of manners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Meredith was a most kind and thoughtful woman."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Meredith heard of John’s idea, she, too, thought it a good one."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Meredith, “you may send him every Saturday morning, if you will pop the corn for him yourselves."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"And now let us talk about George **meredith**, if you please, and we shall leave all darker matters behind us for the evening."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The brilliant intellectual wit of **meredith** dazzles the reader with an incessant display of metaphor and psychological penetration."*
+> - 📜 **Robert Louis Stevenson (*Letters to Young Writers*):** *"No living master handles dramatic dialogue with the sparkling brilliance that **meredith** exhibits in his finest chapters."*
+

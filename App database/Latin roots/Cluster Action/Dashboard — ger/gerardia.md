@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus gerardia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus gerardia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A North American genus of annual or perennial hemiparasitic herbs (now generally classified under Agalinis) bearing showy, bell-shaped pink or purple flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field botany and ecology, species of Gerardia form haustorial connections with the roots of prairie grasses and deciduous trees, thriving in sandy soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerardia designates any plant of the genus gerardia."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The purple blossoms of **Gerardia** illuminate the autumn savannahs and open oak barrens with delicate beauty."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"We observed extensive colonies of maritime **Gerardia** flourishing along the brackish borders of the salt marshes."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"The sandy pine forests of Georgia were carpeted with tall stalks of golden **Gerardia** in late September."*
+

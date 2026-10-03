@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to perform its normal function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suitable for surgery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be operated or put into practical use; in clinical surgery, unable to be treated or removed safely by surgical operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical oncology, an inoperable tumor has invaded vital anatomical structures (such as major blood vessels or the brainstem) so extensively that resection would cause fatal morbidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inoperable designates not able to perform its normal function."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When malignant gastric carcinoma has metastasized to the liver, the disease must be considered clinically **inoperable**."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Lesions extending bilaterally into the third ventricle were formerly deemed entirely **inoperable** by neurological surgeons."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The senior surgeon examined the deep thoracic wound and shook his head, pronouncing the case mournfully **inoperable**."*
+

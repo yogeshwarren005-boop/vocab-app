@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin carp within the domain of Action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of carp in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Latin aphorism meaning 'seize the day', urging people to make the most of the present moment with little trust in the future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary history, the phrase originates in Horace's Odes (Book I, 11: carpe diem, quam minimum credula postero), establishing a major thematic trope in Renaissance lyric poetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpe diem designates pertaining to, derived from, or characteristic of latin carp within the domain of action."*
+> - 📜 **Horace (*Odes*):** *"Be wise, strain clear your wines, and prune distant hopes within life's brief span: while we speak, envious time speeds on; **carpe diem**, trust as little as you may to tomorrow."*
+> - 📜 **Robert Herrick (*Hesperides*):** *"Gather ye rosebuds while ye may, old Time is still a-flying; the **carpe diem** wisdom of the poet warns that youth will fade."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"The ancient counsel of **carpe diem** teaches us not to squander today in anxious expectation of a doubtful tomorrow."*
+

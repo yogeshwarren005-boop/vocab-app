@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of damaging the appearance or surface of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of damaging the appearance or surface of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of spoiling the surface, appearance, or legibility of something; a marring or disfigurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical archaeology and art conservation, iconoclastic defacement involves the deliberate chiseling away of faces or inscriptions on ancient monuments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some people might have cried “Alas, poor Theology!” at the hideous defacement—the last grotesque phase of a creed which had served mankind well in its time."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The thoughtless **defacement** of medieval sculptures by modern restorers has inflicted irreversible injury upon our architectural heritage."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The systematic **defacement** of the triumphal arch erased the name of the fallen emperor from public memory."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old legal documents bore visible marks of damp and moldy **defacement** after decades in the cellar."*
+

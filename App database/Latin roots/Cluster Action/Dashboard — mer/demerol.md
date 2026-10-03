@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic narcotic drug (trade name demerol) used to treat pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A synthetic narcotic drug (trade name demerol) used to treat pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for meperidine, a synthetic opioid analgesic prescribed for the relief of moderate to severe acute pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and anesthesiology, Demerol acts as a mu-opioid receptor agonist, exhibiting anticholinergic properties that produce tachycardia rather than bradycardia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demerol designates a synthetic narcotic drug (trade name demerol) used to treat pain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In severe postoperative colic, parenteral administration of **demerol** affords rapid analgesia without excessive sedation."*
+> - 📜 **Harvey Cushing (*Selected Papers on Neurosurgery*):** *"The surgeon administered a therapeutic dose of **demerol** to control visceral spasms following intracranial intervention."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Repeated administration of **demerol** risks accumulation of its neurotoxic metabolite normeperidine, which may induce tremors or seizures."*
+

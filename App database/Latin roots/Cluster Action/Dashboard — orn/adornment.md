@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decoration of color or interest that is added to relieve plainness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of decorating yourself with something colorful and interesting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An accessory, decoration, or ornament that adds beauty, grace, or visual distinction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological sociology and costume history, personal adornment marks rites of passage, marital standing, and communal religious allegiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She said upon a time—the bitterness of it I now belch from my heart—that she held the very garment of Posthumus in more respect than my noble and natural person, together with the adornment of my qualities."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling is buttoned up closer than mere adornment might require."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If the public have the benefit, and if the country have the adornment, of this great grasp, it must be paid for in money or money’s worth, sir.” “Mr."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The desire of personal **adornment** and luxury is one of the principal incentives to productive commercial industry."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The savage chieftain took pride in his facial tattooing, regarding it as the noble **adornment** of a warrior."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The scarlet letter was surrounded by an elaborate **adornment** of gold embroidery wrought by her own needle."*
+

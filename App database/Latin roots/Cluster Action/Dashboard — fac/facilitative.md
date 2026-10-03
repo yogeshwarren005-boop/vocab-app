@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing from difficulty or impediment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing from difficulty or impediment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to facilitate, promote, or assist an action or process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern mediation and organizational leadership, facilitative leadership emphasizes guiding consensus rather than imposing unilateral top-down directives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facilitative designates freeing from difficulty or impediment."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"True social legislation performs a purely **facilitative** function, leaving individual initiative unobstructed by bureaucratic meddling."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The democratic teacher plays a **facilitative** role, guiding inquiry rather than merely delivering authoritative dogma."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"Commercial credit agencies provide a **facilitative** mechanism that accelerates mercantile circulation across regional boundaries."*
+

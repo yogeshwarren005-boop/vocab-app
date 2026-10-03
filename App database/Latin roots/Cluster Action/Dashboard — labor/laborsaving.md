@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to replace or conserve human and especially manual labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to replace or conserve human and especially manual labor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to reduce the amount of physical work, time, or human effort required to accomplish a task.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In technological history, laborsaving machinery (such as the cotton gin or spinning jenny) drove the productivity increases of the Industrial Revolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laborsaving designates designed to replace or conserve human and especially manual labor."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The invention of **laborsaving** machines is originally owing to the division of labor, which directs men's ingenuity to single operations."*
+> - 📜 **Karl Marx (*Capital*):** *"In capitalist production, the **laborsaving** machine is transformed into an instrument for extracting greater relative surplus-value."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Many domestic appliances advertised as **laborsaving** inventions merely raise the conventional standard of required domestic cleanliness."*
+

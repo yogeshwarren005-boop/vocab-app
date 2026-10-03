@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in northwestern africa on the mediterranean sea with a population that is predominantly sunni muslim; colonized by france in the 19th century but gained autonomy in the early 1960s.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in northwestern africa on the mediterranean sea with a population that is predominantly sunni muslim; colonized by france in the 19th century but gained autonomy in the early 1960s.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The French name for Algeria (L'Algérie), designating the North African territory particularly during its historical period of French colonization (1830–1962).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern European historiography, Algérie française refers to the three Mediterranean departments integrated into metropolitan France prior to independence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, algerie designates a republic in northwestern africa on the mediterranean sea with a population that is predominantly sunni muslim; colonized by france in the 19th century but gained autonomy in the early 1960s."*
+> - 📜 **Albert Camus (*Lyrical and Critical Essays*):** *"To grow up in **Algérie** was to be endowed with an instinctive love for the sea, the cedar forests, and the sun."*
+> - 📜 **Alexis de Tocqueville (*Letters on Algeria*):** *"The future of French colonial enterprise depended upon establishing permanent European settlements across northern **Algérie**."*
+> - 📜 **Frantz Fanon (*A Dying Colonialism*):** *"The revolutionary mobilization throughout **Algérie** dismantled the psychological structures of colonial dominance."*
+

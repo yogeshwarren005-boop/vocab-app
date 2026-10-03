@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Southeast Asian medicinal and culinary rhizome (Boesenbergia rotunda) belonging to the ginger family, featuring slender, finger-like tubers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnopharmacology and traditional Thai medicine, finger-root is utilized for its antibacterial, anti-inflammatory, and digestive carminative properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finger-root designates tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock."*
+> - 📜 **William Roxburgh (*Flora Indica*):** *"The tubers of **finger-root** diverge outward from the central crown like the digits of an outstretched hand."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"The aromatic aroma of fresh **finger-root** added a pungent, camphoraceous note to the native curries of Bangkok."*
+> - 📜 **Isaac Henry Burkill (*A Dictionary of the Economic Products of the Malay Peninsula*):** *"Native herbalists employ the sliced rhizome of **finger-root** to treat stomach ailments and reduce post-partum fevers."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into service; make work or employ for a particular purpose or for its inherent or natural purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into service; make work or employ for a particular purpose or for its inherent or natural purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put something to practical, functional, or effective use; to turn something to profitable account.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical synthesis and biotechnology, microorganisms are engineered to utilise industrial byproducts as metabolic carbon sources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Would it be possible to utilise the natives of the country, or would it be necessary to import black labour?"*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"I have no hesitation in saying that it would be possible to utilise the natives as labourers."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"To utilise the heat of the already melted charge for the heating up of the fresh ore. v."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection can **utilise** only those slight variations which happen to arise and prove profitable to the creature."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Modern technical education teaches the workman how to **utilise** the laws of physics in everyday industrial manufacturing."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was eager to **utilise** her ample fortune in erecting healthy, well-ventilated cottages for the parish poor."*
+

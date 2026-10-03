@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond belief or understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond belief or understanding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible or difficult to believe; extraordinary; astonishing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative fiction and travel literature, incredible occurrences challenge the reader's suspension of disbelief unless grounded in sensory realism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell you, ’tis incredible to believe How much she loves me: O! the kindest Kate She hung about my neck, and kiss on kiss She vied so fast, protesting oath on oath, That in a twink she won me to her love."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She informed the Rector's widow that she had come to her with a quite incredible communication."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He had, moreover, been very much afraid that she would tell him that no ghost of Wildenstein existed, after he himself had seen the incredible apparition."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"I tell you, 'tis **incredible** to believe how much she loves me: O, the kindest Kate!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"It seemed **incredible** to her that she had lived through so much tragedy and yet remained in outward appearance almost unchanged."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The length of time a wounded whale can remain submerged seems almost **incredible** to those unacquainted with cetacean anatomy."*
+

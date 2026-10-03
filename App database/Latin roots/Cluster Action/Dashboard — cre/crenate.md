@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a margin with rounded scallops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a margin with rounded scallops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a margin with rounded teeth or shallow scallops, especially of leaves or shells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, crenate leaf margins contrast with serrate (sharp saw-like) and dentate (outward-pointing) margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crenate designates having a margin with rounded scallops."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The basal foliage of the violet is broadly ovate with a distinctly **crenate** margin."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Under cultivation, the **crenate** leaves of the wild primrose frequently became deeply lobed and ruffled."*
+> - 📜 **Joseph Dalton Hooker (*The Student's Flora of the British Islands*):** *"The marsh marigold is distinguished by its glossy, **crenate** kidney-shaped foliage and brilliant yellow sepals."*
+

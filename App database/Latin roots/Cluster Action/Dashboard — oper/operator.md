@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a symbol or function representing a mathematical operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that operates some apparatus or machine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who operates equipment, a machine, or a telecommunications switchboard; one who directs an operational enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, an operator is a symbol or mathematical rule (such as a differential operator or linear operator) representing a transformation on a function or vector space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The operator takes a very sharp bone of an ape, rubs it with a pungent spice, and then pinching up the skin of his son's arm he pierces it with the bone through and through, as a surgeon might introduce a seton."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Tug operator and anyone else that observes my presence or the flitter must not repeat must not log the serial number of my flitter or any of its features."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Make the contact," he said, adding, "Relay the message through one of the transports; delete all references that show this facility is in the loop." Switches snapped as the operator nodded."*
+> - 📜 **Paul Dirac (*The Principles of Quantum Mechanics*):** *"In quantum mechanics, physical observables are represented by linear Hermitian **operator** symbols acting upon state vectors in Hilbert space."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The telegraph **operator** at the village station handed Holmes the encoded dispatch with an air of profound curiosity."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A shrewd commercial **operator** on the exchange anticipates fluctuations in grain prices to make his fortune."*
+

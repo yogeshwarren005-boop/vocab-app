@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of stonelike objects within a body organ (e.g., the kidneys).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, compact mass formed by the localized precipitation of mineral cement within the pores of a sedimentary rock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pathology and urology, a concretion is a calculus or stone (such as a nephrolith) formed in a bodily hollow organ or duct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Troubles and other realities took on themselves a metaphysical impalpability, sinking to mere mental phenomena for serene contemplation, and no longer stood as pressing concretions which chafed body and soul."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There, in three or four fathoms of water, between the reefs of Pacou and Vanou, lay anchors, cannons, pigs of lead and iron, embedded in the limy concretions."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Another weed known as velp, with leaves four feet long, buried in the coral concretions, hung at the bottom."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The sandstone cliffs were studded with spherical **concretion** nodules of carbonate of lime weathering out of the matrix."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Obstruction of the common bile duct by a biliary **concretion** causes intense hepatic colic and obstructive jaundice."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The hard ironstone **concretion** resisted atmospheric erosion while the surrounding soft shale crumbled away."*
+

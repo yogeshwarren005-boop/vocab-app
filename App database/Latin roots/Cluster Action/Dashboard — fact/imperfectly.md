@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperfect or faulty way; ; - jane austen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperfect or faulty way; ; - jane austen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a flawed, incomplete, defective, or inadequate manner; not perfectly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific observation and epistolary documentation, recording phenomena imperfectly indicates the constraints of early instruments or incomplete perceptual resolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Through all the good taste of her dress and little adornments, these objections so express themselves that she seems to go about like a very neat she-wolf imperfectly tamed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy saw us to the door with the air of one who was either imperfectly awake or walking in his sleep; and we left him there, staring."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You are perfectly pleasant; I am imperfectly pleasant; then, if I never allude to an unpleasant matter, how much less should you!"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"This is a very important subject, most **imperfectly** understood by even the most experienced naturalists."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke's pen went off into a little speech which it had lately reported for that purpose, though very **imperfectly** executed."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He was that man who, as far as I could see, had conducted a difficult enterprise **imperfectly** under tremendous odds."*
+

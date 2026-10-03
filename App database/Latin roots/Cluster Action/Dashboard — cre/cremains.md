@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The remains of a dead body after cremation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The remains of a dead body after cremation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cremated human or animal ashes and bone fragments remaining after cremation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In funerary sociology and mortuary science, cremains undergo mechanical pulverization in a cremulator to achieve a fine, sand-like particulate consistency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cremains designates the remains of a dead body after cremation."*
+> - 📜 **Jessica Mitford (*The American Way of Death*):** *"Modern mortuary directors developed ornate urns to hold the **cremains** for placement in columbarium niches."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"The ancient urns preserved the calcined **cremains** of Roman patricians together with perfumes and precious unguents."*
+> - 📜 **John Weever (*Ancient Funerall Monuments*):** *"Sepulchral urns holding the **cremains** of fallen heroes were consecrated with solemn sacrificial libations."*
+

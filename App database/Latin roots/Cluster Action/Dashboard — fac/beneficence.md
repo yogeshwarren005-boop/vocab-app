@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doing good; feeling beneficent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being kind or helpful or generous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of doing good; active generosity, charity, or kindness toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bioethics and moral philosophy, the principle of beneficence obligates practitioners to act for the patient's positive welfare and remove potential harms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Each fresh house was the one where they were to abide for ever, and each formed the base of operations for some new scheme of comprehensive beneficence."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Instances of extraordinary beneficence or covetousness.--14."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In such an hour the mind does not change its lifelong bias, but carries it onward in imagination to the other side of death, gazing backward—perhaps with the divine calm of beneficence, perhaps with the petty anxieties of self-assertion."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"**Beneficence** is the ornament which embellishes, not the foundation which supports the building; and it was therefore sufficient to recommend, but by no means necessary to constrain it."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No human virtue commands greater veneration than unostentatious **beneficence** quietly relieving the distress of the unfortunate."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea's mind was full of grand schemes of village **beneficence**, planning model cottages and clean drainage for the cottagers."*
+

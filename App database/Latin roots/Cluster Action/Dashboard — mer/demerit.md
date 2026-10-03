@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark against a person for misconduct or failure; usually given in school or armed forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being inadequate or falling short of perfection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fault, defect, or mark of disapproval recorded against a person for misconduct or deficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and retributive justice, demerit signifies desert of punishment or blame arising from intentional transgression of moral duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"These irregularities of judgment, I imagine, are found even in riper minds than Mary Garth’s: our impartiality is kept for abstract merit and demerit, which none of us ever saw."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"And it is not a personal demerit in the stone machine that it does so little?"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"A baby born with nothing—where is the personal demerit in that?"*
+> - 📜 **William Shakespeare (*Othello*):** *"My **demerit** and services may speak unbonneted to as proud a fortune as this that I have reached; yet must I confess my fault."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The sentiment of **demerit** is compounded of antipathy to the perpetrator and sympathetic indignation with the sufferer."*
+> - 📜 **Thomas Jefferson (*Writings: Notes on the State of Virginia*):** *"In evaluating public servants, we should balance every acknowledged **demerit** against their steadfast patriotic labors."*
+

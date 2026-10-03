@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in act or fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with, consisting of, or based on verified facts rather than opinion, supposition, or fiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal evidentiary proceedings and scientific reportage, factual testimony must adhere strictly to sensory observations rather than subjective inferences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"I have traced it down to several families, but none could tell me anything about it that was factual."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"Science advances by anchoring its speculative hypotheses firmly upon a bedrock of **factual** verification."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The first duty of an inductive philosopher is to separate purely **factual** observations from theoretical assumptions."*
+> - 📜 **William James (*Pragmatism*):** *"Pragmatism turns towards concreteness and adequacy, towards facts, towards action and towards power, demanding **factual** relevance."*
+

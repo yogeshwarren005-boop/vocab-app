@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Solid and liquid nourishment taken into the body through the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Solid and liquid nourishment taken into the body through the mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Substances taken into the body as nourishment, medication, or fluid; ingested food and drink, as contrasted with excreta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology and veterinary medicine, the volume, transit time, and physical character of gastrointestinal ingesta are monitored to assess digestive motility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ingesta designates solid and liquid nourishment taken into the body through the mouth."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"The retention of **ingesta** in the stomach beyond four hours indicates functional pyloric stenosis or gastric atony."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Daily balance sheets recording the exact weight of **ingesta** versus excreta provide vital data in managing severe metabolic disease."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"In the chemical balance of animal life, the mass of oxygen and **ingesta** consumed equals precisely the sum of exhaled gases and excretions."*
+

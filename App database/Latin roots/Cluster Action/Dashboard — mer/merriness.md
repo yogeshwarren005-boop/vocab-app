@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of merry joking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of merry joking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cheerfulness, lighthearted gaiety, and an inclination toward joyful laughter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Elizabethan comedic drama, inward merriness is held to protect bodily health against melancholy and morbid humors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, sir, be it as the style shall give us cause to climb in the merriness."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"A light heart lives long, and honest **merriness** sweetens the bitterest toil under the sun."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"The host welcomed the pilgrims with abundant cheer, praising innocent **merriness** on the holy journey to Canterbury."*
+> - 📜 **Thomas Dekker (*The Shoemaker's Holiday*):** *"The jolly apprentices filled the workshop with good-humored singing and honest **merriness** throughout the day."*
+

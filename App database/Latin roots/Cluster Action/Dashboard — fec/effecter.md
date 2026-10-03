@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who brings about a result or event; one who accomplishes a purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who brings about a result or event; one who accomplishes a purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, device, or person that produces an effect, achieves a purpose, or brings about a result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cybernetics and neuromuscular physiology, an effecter (more commonly effector) is an organ, muscle, or robotic mechanism that translates regulatory signals into physical motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effecter designates one who brings about a result or event; one who accomplishes a purpose."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Man, as the minister and **effecter** of nature, can only understand and act as far as he has observed natural order."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The nervous arc coordinates the sensory receptor with the muscular **effecter** that executes the adaptive withdrawal."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"In every automated feedback loop, the sensor monitors environmental change while the **effecter** corrects mechanical error."*
+

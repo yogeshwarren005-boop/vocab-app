@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The incineration of a dead body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The incineration of a dead body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposal of a dead person's body by burning it to ashes, typically in a furnace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious anthropology and comparative ethnology, cremation was the dominant funerary rite among ancient Greeks, Romans, and Vedic Indo-Aryans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"A reliquary, or shrine, of cupola-shape to contain remains after cremation, especially of the Buddha. _Subhūti_."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"That water was the original of all things some conceived; that fire shall consumate them, others believed: hence **cremation** seemed the most philosophical mode of dissolution."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Among the ancient Hindus, **cremation** upon the sacred funeral pyre released the spirit from its mortal bonds."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"The widespread archaeological discovery of funeral urns testifies to the prevalence of **cremation** in Bronze Age Europe."*
+

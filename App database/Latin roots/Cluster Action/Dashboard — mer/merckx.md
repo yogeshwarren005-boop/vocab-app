@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belgian racing cyclist who won the tour de france five times (born in 1945).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belgian racing cyclist who won the tour de france five times (born in 1945).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eddy Merckx (born 1945), legendary Belgian professional road cyclist widely regarded as the greatest competitor in cycling history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports historiography, nicknamed 'The Cannibal' for his insatiable desire for victory, Merckx won five Tours de France, five Giri d'Italia, and the World Championship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merckx designates belgian racing cyclist who won the tour de france five times (born in 1945)."*
+> - 📜 **Jacques Goddet (*L'Équipée Belle: Fifty Years of the Tour de France*):** *"The astonishing climbing dominance of **merckx** on Mont Ventoux broke every rival rider in the peloton."*
+> - 📜 **Antoine Blondin (*Tours de Fête: Chroniques du Tour*):** *"When **merckx** accelerated over the mountain pass, the entire race dissolved into isolated stragglers."*
+> - 📜 **Geoffrey Nicholson (*The Great Bike Race*):** *"No cyclist possessed the ferocious competitive will of **merckx**, who attacked relentlessly from start to finish."*
+

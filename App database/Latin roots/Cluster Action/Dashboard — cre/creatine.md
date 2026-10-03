@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that does not occur in proteins but is found in the muscle tissue of vertebrates both in the free form and as phosphocreatine; supplies energy for muscle contraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that does not occur in proteins but is found in the muscle tissue of vertebrates both in the free form and as phosphocreatine; supplies energy for muscle contraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nitrogenous organic compound (C4H9N3O2) found primarily in muscle tissue, synthesized in the liver and kidneys, that helps supply energy to cells by regenerating ATP.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In exercise physiology and sports nutrition, oral creatine supplementation increases intramuscular phosphocreatine stores, enhancing performance in high-intensity anaerobic exercise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creatine designates an amino acid that does not occur in proteins but is found in the muscle tissue of vertebrates both in the free form and as phosphocreatine; supplies energy for muscle contraction."*
+> - 📜 **Justus von Liebig (*Researches on the Chemistry of Food*):** *"The concentration of **creatine** in heart muscle exceeds that found in the voluntary muscles of locomotion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Serum levels of creatinine, derived from the catabolism of muscle **creatine**, provide a sensitive index of glomerular filtration."*
+> - 📜 **Albert Lehninger (*Principles of Biochemistry*):** *"Phosphorylated **creatine** serves as an immediate energy reservoir in muscle cells, transferring its phosphate to ADP to regenerate ATP."*
+

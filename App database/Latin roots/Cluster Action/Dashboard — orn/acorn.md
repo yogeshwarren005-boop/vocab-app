@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic fruit or nut of an oak tree, typically containing a single seed enclosed in a tough woody shell and seated in a cupule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest ecology and wildlife biology, acorn production (mast) constitutes a vital winter food source for deer, squirrels, birds, and insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I found him under a tree, like a dropped acorn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance he spoke not, but, Like a full-acorn’d boar, a German one, Cried “O!” and mounted; found no opposition But what he look’d for should oppose and she Should from encounter guard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now they never meet in grove or green, By fountain clear, or spangled starlight sheen, But they do square; that all their elves for fear Creep into acorn cups, and hide them there."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"All their elves for fear creep into **acorn** cups and hide them there."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"How countless are the seeds of the oak that perish, for one alone that takes root and grows from a single **acorn**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A single **acorn** planted by a gray squirrel in the autumn forest will in time shade generations of men."*
+

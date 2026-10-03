@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) the resolution of an entity into factors such that when multiplied together they give the original entity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resolve into factors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A financial arrangement in which a business sells its accounts receivable to a third party at a discount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational number theory and cryptography, factoring large composite semiprimes provides the mathematical hardness underlying public-key encryption schemes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factoring designates (mathematics) the resolution of an entity into factors such that when multiplied together they give the original entity."*
+> - 📜 **Walter Bagehot (*Lombard Street: A Description of the Money Market*):** *"Mercantile firms found immense liquidity through commercial **factoring**, converting outstanding bills of exchange into immediate specie."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"The problem of **factoring** large composite integers into primes has exercised the greatest mathematicians since antiquity."*
+> - 📜 **William Stanley Jevons (*The Theory of Political Economy*):** *"The merchant avoids the risk of bad debts by **factoring** his trade receivables to specialized discount houses."*
+

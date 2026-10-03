@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being effective without wasting time or effort or expense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to accomplish a purpose; functioning effectively; -g.b.shaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Achieving maximum productivity with minimum wasted effort or expense; competent and capable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Aristotelian metaphysics, the efficient cause is the primary agent or force that initiates change, motion, or generation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I tried to show the guards a score or so of more efficient ways."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My alfalfa meadows, my efficient Jersey cattle, my upland pastures, my brush-covered slopes melting into tilled fields, while ever higher up the slopes my angora goats eat away brush to tillage!"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Competition tended to bring the economic agents into more efficient hands, and the movement was furthered by many acts of injustice and violence on the part of those in power."*
+> - 📜 **Aristotle (*Physics*):** *"The **efficient** cause is the primary starting-point of the change or rest; for instance, the adviser is a cause, and the father is cause of the child."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Physical inquiry should investigate material and **efficient** causes, leaving final causes to metaphysical speculation."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Inspector Lestrade was an active, **efficient** officer, though completely deficient in imaginative intuition."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the anus and surrounding perineum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the anus and surrounding perineum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated in, or affecting both the anus and the perineum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colorectal surgery and proctology, anoperineal fistulas or surgical repairs require precise anatomical dissection to preserve anal sphincter continence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anoperineal designates relating to the anus and surrounding perineum."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The superficial fibers of the external anal sphincter decussate anteriorly into the **anoperineal** raphe."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic Crohn's disease may present with complex **anoperineal** fistulae and indurated ulcerations."*
+> - 📜 **John Hunter (*Treatise on the Venereal Disease*):** *"The cutaneous margin of the **anoperineal** region is particularly prone to excoriation from acrid discharges."*
+

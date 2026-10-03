@@ -42,8 +42,8 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mechanical, electrical, or hydraulic triggering of a mechanism, valve, or device into physical motion or operational performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In robotics and control systems engineering, actuation transforms control signals into physical force through servomotors, solenoids, or pneumatic cylinders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mechanical or physical process of initiating motion, triggering an operation, or motivating behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In robotics and mechatronics, actuation refers specifically to the mechanical conversion of electrical or fluid power into physical movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **Francis Bacon (*The New Atlantis*):** *"We have instruments of swift and varied **actuation** that mimic the flight of birds and the motion of fish."*

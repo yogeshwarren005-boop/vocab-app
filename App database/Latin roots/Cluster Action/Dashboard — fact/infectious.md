@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Caused by infection or capable of causing infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily spread; - bertrand russell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmissible through the environment, water, air, or contact; likely to spread or communicate rapidly to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical microbiology, infectious distinguishes pathologies induced by living transmissible biological vectors from non-communicable somatic diseases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The most infectious pestilence upon thee! [_Strikes him down._] MESSENGER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet recreation barr’d, what doth ensue But moody and dull melancholy, Kinsman to grim and comfortless despair, And at her heels a huge infectious troop Of pale distemperatures and foes to life?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Highness Shall from this practice but make hard your heart; Besides, the seeing these effects will be Both noisome and infectious."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The most **infectious** pestilence upon thee, thou villainous and ungrateful scoundrel!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The new point of view was **infectious**, and the next child did likewise, and then all joined in the chorus."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her radiant good humor was **infectious**, lightening the somber atmosphere of the parlor within minutes."*
+

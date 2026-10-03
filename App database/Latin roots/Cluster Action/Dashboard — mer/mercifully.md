@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a compassionate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a compassionate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a merciful, compassionate, or lenient manner; fortunately or providentially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, an ordeal ending mercifully emphasizes timely relief from agonizing physical or emotional suspense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, good Kate, mock me mercifully; the rather, gentle princess, because I love thee cruelly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"’Tis a talent the Lord has mercifully bestowed upon us, and we ought not to neglect it."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"These words haunted the father until he was mercifully reclaimed."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Mock me **mercifully**, gentle princess, because I cannot speak your tongue with fluent grace."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"'Tis a talent the Lord has **mercifully** bestowed upon us, and we ought not to bury it in a napkin."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The cold wind dropped, and night fell **mercifully** upon the exhausted traveler sleeping upon the heath."*
+

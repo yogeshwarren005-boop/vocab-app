@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In respect to operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respect to operation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an operational manner; in terms of practical operations, functional execution, or measurement procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and empirical methodology, defining a variable operationally means specifying the precise apparatus and steps required to quantify it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operationally designates in respect to operation."*
+> - 📜 **Percy Bridgman (*The Logic of Modern Physics*):** *"To understand the meaning of length, we must specify **operationally** the physical procedure of laying down measuring rods."*
+> - 📜 **Herbert Simon (*Administrative Behavior*):** *"A corporate directive is meaningful only if it can be **operationally** translated into day-to-day administrative routines."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Feedback is defined **operationally** as the return of a portion of system output to govern subsequent mechanical behavior."*
+

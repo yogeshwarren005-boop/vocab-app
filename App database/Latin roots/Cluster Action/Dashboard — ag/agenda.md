@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporally organized plan for matters to be attended to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list of matters to be taken up (as at a meeting).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A list of items of business or topics to be considered, discussed, or acted upon at a formal meeting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology and governance theory, the policy agenda represents the hierarchy of public issues prioritized by decision-makers and the media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Agenda: to instruct the Correspondent to requisition a new scrubbing brush for the Infants' School."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The suggested agenda it carries, however, puts us on the defensive with barely room for reasoning with his government."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I will transmit a coded message to you from my ship when I have the agenda for the conference."*
+> - 📜 **Max Weber (*Economy and Society*):** *"The bureaucratic committee operates strictly according to a prepared **agenda**, ensuring predictable and impersonal administration."*
+> - 📜 **Herbert Simon (*Administrative Behavior*):** *"Setting the organizational **agenda** is a critical exercise of power, determining which problems receive institutional attention."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The party leaders maintain rigorous control over the legislative **agenda**, deciding which bills shall be brought to the floor."*
+

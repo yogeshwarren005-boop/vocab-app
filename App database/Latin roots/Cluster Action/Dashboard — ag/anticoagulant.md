@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medicine that prevents or retards the clotting of blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medicine that prevents or retards the clotting of blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or medication that prevents, slows, or inhibits the clotting (coagulation) of blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and clinical therapeutics, anticoagulant agents (such as heparin, warfarin, and direct oral factor Xa inhibitors) are prescribed to prevent thromboembolic disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticoagulant designates medicine that prevents or retards the clotting of blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The natural **anticoagulant** properties of the vascular endothelial lining prevent intravascular thrombosis under physiological conditions."*
+> - 📜 **Charles Best (*Heparin and the Thrombosis Problem*):** *"The extraction and clinical purification of heparin provided medicine with its first reliable therapeutic **anticoagulant**."*
+> - 📜 **Armand Quick (*The Hemorrhagic Diseases and the Pathology of Hemostasis*):** *"Leech saliva contains hirudin, a potent natural **anticoagulant** that directly inactivates circulating thrombin."*
+

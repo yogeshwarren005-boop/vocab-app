@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the gerreidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the gerreidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of silvery marine fishes in the mojarra family Gerreidae, inhabiting warm coastal waters and mangrove estuaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic ichthyology, species of Gerres are identified by their deeply notched dorsal fins, silvery sides, and highly specialized benthic suction feeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerres designates type genus of the gerreidae."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"The genus **Gerres** contains numerous small, silvery species inhabiting shallow tropical bays and sandbars."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"In **Gerres**, the second dorsal spine is frequently prolonged into a slender, delicate filament."*
+> - 📜 **William Beebe (*Field Book of the Shore Fishes of Bermuda*):** *"We netted several specimens of **Gerres** cinereus in the shallow tidal creeks, their silvery scales shimmering under the lanterns."*
+

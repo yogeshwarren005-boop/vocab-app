@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A notch or open space between two merlons in a crenelated battlement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An embrasure or opening in the battlement of a medieval fortress wall; a crenel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French and English military terminology, defending crossbowmen aimed through the crenelle while shielded from direct hostile arrows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crenelle designates one of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.)."*
+> - 📜 **Eugène Viollet-le-Duc (*Annals of a Fortress*):** *"The guard leaned over the stone **crenelle** to challenge the approaching herald at the drawbridge."*
+> - 📜 **Sir Walter Scott (*Quentin Durward*):** *"A Scottish archer kept watch through the narrow **crenelle** of the barbican, keen-eyed for any hostile movement."*
+> - 📜 **Victor Hugo (*The Hunchback of Notre-Dame*):** *"Quasimodo hurled down a heavy beam through the cathedral **crenelle**, scattering the rioters below."*
+

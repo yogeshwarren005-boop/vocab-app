@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a margin with rounded scallops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a margin with rounded scallops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the margin notched or indented with rounded teeth or scallops; notched.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, crenated erythrocytes (echinocytes) exhibit scalloped thorny projections due to osmotic hypertonicity or aging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crenated designates having a margin with rounded scallops."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of the fresh blood film revealed numerous **crenated** red cells displaying scalloped edges."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"When exposed to a concentrated saline solution, the round corpuscles swiftly assume a contracted, **crenated** appearance."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The fossil shell exhibited a finely **crenated** ventral margin characteristic of the genus Glycymeris."*
+

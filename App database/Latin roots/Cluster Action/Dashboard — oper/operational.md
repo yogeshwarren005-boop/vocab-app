@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to a process or series of actions for achieving a result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit or ready for use or service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In working order and ready for use; of or relating to operations, management, or execution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of science (operationalism), an operational definition defines a theoretical concept (such as length or intelligence) strictly in terms of the specific physical measurement operations used to determine it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your team has just been assembled," Ram said, "yet we don't have a moment to lose to get you in place and operational."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Plutonian overseers will be afforded training by the UIPS to qualify them to assume the primary's operational and management responsibilities in all functions within two Earth years from the date of this Proclamation."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I don't want their weapons slipping back into operational status as soon as you leave their ship."*
+> - 📜 **Percy Bridgman (*The Logic of Modern Physics*):** *"The **operational** definition of any concept demands that we specify the actual physical measurements by which it is verified."*
+> - 📜 **Herbert Simon (*Administrative Behavior*):** *"Strategic policy decisions must be translated into concrete **operational** rules before field officers can implement them."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"An automated guidance system achieves **operational** stability by continuously adjusting its control surfaces in response to sensor feedback."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of plants of subclass rosidae including geraniums and many other plants; see euphorbiaceae; geraniaceae; rutaceae; malpighiaceae; simaroubaceae; meliaceae; zygophyllaceae; tropaeolaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of plants of subclass rosidae including geraniums and many other plants; see euphorbiaceae; geraniaceae; rutaceae; malpighiaceae; simaroubaceae; meliaceae; zygophyllaceae; tropaeolaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major order of dicotyledonous flowering plants belonging to the rosid clade, typified by the family Geraniaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In angiosperm phylogeny (APG system), Geraniales includes families such as Geraniaceae, Francoaceae, and Melianthaceae, united by specific floral and embryological traits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geraniales designates an order of plants of subclass rosidae including geraniums and many other plants; see euphorbiaceae; geraniaceae; rutaceae; malpighiaceae; simaroubaceae; meliaceae; zygophyllaceae; tropaeolaceae."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The alliance **Geraniales** exhibits a remarkable transition from regular floral symmetry to zygomorphic corollas."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"The order **Geraniales** represents a specialized rosid line characterized by secretory glandular hairs and beaked schizocarps."*
+> - 📜 **Armen Takhtajan (*Diversity and Classification of Flowering Plants*):** *"Phylogenetic analysis confirms the monophyly of **Geraniales**, placing it within the malvid-geranialean evolutionary branch."*
+

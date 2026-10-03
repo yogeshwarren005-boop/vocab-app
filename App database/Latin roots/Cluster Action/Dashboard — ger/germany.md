@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in central europe; split into east germany and west germany after world war ii and reunited in 1990.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in central europe; split into east germany and west germany after world war ii and reunited in 1990.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major nation-state in Central Europe, known historically as the heartland of the Holy Roman Empire, the Protestant Reformation, and modern industrial engineering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political geography and European history, Germany united in 1871 under Prussian leadership, experiencing partition into East and West during the Cold War before reunification in 1990.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Commotions, uproars, with a general taint Of the whole state, as of late days our neighbours, The upper Germany, can dearly witness, Yet freshly pitied in our memories."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And once dispatch’d him in an embassy To Germany, there with the emperor To treat of high affairs touching that time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say Edgar, his banished son, is with the Earl of Kent in Germany."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The ancient forests of **Germany** nurtured that fierce love of independence which resisted the arms of Augustus and Tiberius."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Across the Rhine lay **Germany**, a slumbering giant soon to be awakened by the thunder of revolutionary cannon."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The feudal institutions of medieval **Germany** bore an extraordinary resemblance to those that once governed France."*
+

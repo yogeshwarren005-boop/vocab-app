@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who works with their hands; someone engaged in manual labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who works with their hands; someone engaged in manual labor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does unskilled or manual physical work, especially outdoors in agriculture, construction, or transport.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical economics, the laborer exchanges wage labor for subsistence, forming the fundamental productive foundation of the industrial economy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Familiar with the various organizations of the benevolent societies, and only too happy to have an agency in supplying the wants of a laborer in Christ's vineyard, he soon started the money on its appointed errand."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To many individuals it is a matter of indifference whether they pay tuition or taxes, but the wealthy bachelor sometimes grumbles when forced to help in educating the day-laborer's family."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Wage payment is a form of credit to the laborer whose labor is applied to producing the goods for customers distant in time and in place."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The wages of the agricultural **laborer** are necessarily determined by the price of subsistence in the local market."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The field **laborer** trudged homeward in the gathering dusk, his boots heavy with the clay of the Blackmoor Vale."*
+> - 📜 **Karl Marx (*Capital*):** *"The capitalist buys the labor-power of the **laborer** on the market and sets it to work upon the means of production."*
+

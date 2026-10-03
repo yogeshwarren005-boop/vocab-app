@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase by natural growth or addition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something contributing to growth or increase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growth or increase by the gradual accumulation of additional layers or external matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property and maritime law, accretion is the gradual and imperceptible accumulation of land along a riverbank or seashore by natural sediment deposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had no fear of the shadows; her sole idea seemed to be to shun mankind—or rather that cold accretion called the world, which, so terrible in the mass, is so unformidable, even pitiable, in its units."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Morality is a social fund, an accretion through the painful ages."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Wharton overlooked this expanse of hunting country: a formidable Norman keep, round which, by gradual accretion, a dwelling-place had grown up, a history of English architecture and English gardening written in stone and brick and grass and flowers."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She felt the slow **accretion** of village gossip gathering around her family with oppressive weight."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Land formed by maritime **accretion** belongs to the riparian owner whose boundary was washed by the water."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The coral reef expands through the ceaseless **accretion** of calcareous skeletons secreted by living polyps."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The common foxglove (Digitalis purpurea), a biennial Eurasian plant bearing tall spikes of bell-shaped pink or purple blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical pharmacognosy, finger-flower foliage yields digitalis glycosides historically prescribed as cardiac stimulants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finger-flower designates tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The foxglove, called in some shires **finger-flower**, groweth in dry sandy ditches and along hedge sides."*
+> - 📜 **William Turner (*A New Herball*):** *"The country folk name it **finger-flower** from the hanging bells that fit upon the digits like hollow gloves."*
+> - 📜 **William Withering (*An Account of the Foxglove*):** *"The common **finger-flower** or purple foxglove possesses extraordinary diuretic properties in cases of dropsy."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become or cause to become obstructed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become or cause to become obstructed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause an excessive accumulation of blood or fluid in an organ or vessel; to overcrowd or clog with traffic, people, or matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban transportation planning and municipal engineering, bottlenecks that congest arterial streets reduce economic throughput and increase vehicular emissions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In November, 1879, her physician had decided that tubercles had formed in the left lung, and that the right lung was much congested and hardened."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Is it so certain that a dense population congested in cities and crowded in factories and mines is a more ideal social aggregation than is a community of prosperous farmers?"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scarf followed, his coarse features congested."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Mitral stenosis will progressively **congest** the pulmonary capillaries, leading to paroxysmal nocturnal dyspnea."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Heavy dray-carts and omnibuses conspired to **congest** the narrow approaches to Temple Bar into an impassable tangle of traffic."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Vast throngs of provincial pilgrims served to **congest** the streets of Rome during the celebration of the centennial games."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate a disease to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contaminate with a disease or microorganism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contaminated with pathogenic organisms, toxins, or disease; also corrupted or tainted by a harmful influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical surgical pathology, an infected wound exhibits purulence, erythema, induration, and viable bacterial proliferation exceeding tissue clearance thresholds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me leave To speak my mind, and I will through and through Cleanse the foul body of th’ infected world, If they will patiently receive my medicine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am returned your soldier, No more infected with my country’s love Than when I parted hence, but still subsisting Under your great command."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Briefly to this end: we are all diseased, And with our surfeiting and wanton hours Have brought ourselves into a burning fever, And we must bleed for it; of which disease Our late King Richard, being infected, died."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me leave to speak my mind, and I will through and through cleanse the foul body of the **infected** world."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Clare's late enthusiasm for Tess had **infected** her through her maternal sympathies, until she shared his devotion."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The time is **infected** with Hamlet's unhappiness, doubting its own powers and shrinking from resolute action."*
+

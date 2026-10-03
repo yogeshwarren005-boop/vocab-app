@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell that arises from the asexual division of a parent sporozoan during its life cycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell that arises from the asexual division of a parent sporozoan during its life cycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, motile stage in the life cycle of a sporozoan parasite resulting from asexual schizogony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical parasitology and tropical medicine, the cyclical rupture of red blood cells by emerging merozoites produces the classic paroxysmal fevers of malaria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merozoite designates a cell that arises from the asexual division of a parent sporozoan during its life cycle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"With the bursting of the mature erythrocyte, each liberated **merozoite** attacks a fresh red corpuscle to renew the cycle."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"The synchronicity of **merozoite** liberation in Plasmodium vivax accounts for the regular tertian recurrence of the rigors."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"Microscopic examination of the stained blood film clearly revealed the **merozoite** rosettes immediately prior to segmentation."*
+

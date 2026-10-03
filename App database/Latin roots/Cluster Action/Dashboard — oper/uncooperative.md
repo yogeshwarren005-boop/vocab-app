@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to cooperate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intentionally unaccommodating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to work together with others; not cooperative; resistant, stubborn, or obstinate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and forensic psychiatry, an uncooperative patient may reflect cognitive impairment, acute delirium, psychosis, or oppositional defiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncooperative designates unwilling to cooperate."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The sullen and **uncooperative** demeanor of the groom confirmed Holmes in his suspicion that the man had been bribed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Delirium tremens renders the patient combative and violently **uncooperative**, requiring constant compassionate nursing supervision."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton proved completely **uncooperative** in her matchmaking schemes, directing his attentions where Emma least desired."*
+

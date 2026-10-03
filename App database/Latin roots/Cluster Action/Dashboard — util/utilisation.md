@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of using.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of using.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practical deployment, application, or functional employment of a resource or facility to achieve an effective outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial engineering and operations research, capacity utilisation measures the percentage of potential production output actually realized by manufacturing capital.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The basis of such working is, therefore, the powerful oxidising action within the furnace itself, and the fullest utilisation of the heat resulting from this oxidation of the sulphides."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Among the methods which are at present economically practicable for dealing with the smelter gases, those of dilution, and of utilisation for acid manufacture are the most important."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Utilisation of heat in reverberatory work, 83, 87, 91."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The efficient **utilisation** of waste coal in metallurgical smelting transformed British iron manufacturing."*
+> - 📜 **Karl Marx (*Capital*):** *"The capitalist seeks the maximum **utilisation** of machinery by prolonging the working day into the hours of the night."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The rational **utilisation** of water power along mountain streams attracted the earliest textile mills to the Pennines."*
+

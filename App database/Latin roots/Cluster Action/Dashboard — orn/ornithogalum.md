@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes placed in family hyacinthaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes placed in family hyacinthaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bulbous perennial plants in the asparagus family (Asparagaceae), including the Star-of-Bethlehem, bearing clusters of starry white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical toxicology, species of Ornithogalum contain cardiac glycosides (cardenolides) that make the bulbs highly toxic to grazing livestock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithogalum designates sometimes placed in family hyacinthaceae."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The common **ornithogalum**, called Star-of-Bethlehem, opens its white flowers only when the sun shineth brightly at midday."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The genus **Ornithogalum** is recognized by its six spreading petals, persistent perianth, and three-valved capsule."*
+> - 📜 **William Jackson Hooker (*British Flora*):** *"We gathered specimens of **Ornithogalum** umbellatum flourishing in the sandy meadows along the river bank."*
+

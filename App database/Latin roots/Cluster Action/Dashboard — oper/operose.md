@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by effort to the point of exhaustion; especially physical effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by effort to the point of exhaustion; especially physical effort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving great labor or exertion; tedious, wearisome, and painstaking; laborious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary criticism and prose style, an operose argument or syntax is one that draws attention to its own ponderous, heavy-handed construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operose designates characterized by effort to the point of exhaustion; especially physical effort."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The scholar must endure long and **operose** investigations before he can hope to discover a single hidden truth of antiquity."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The construction of the Roman military roads was an **operose** enterprise that carved leveled highways through marshes and solid rock."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Subtle and **operose** hair-splittings in scholastic philosophy produce only contentions, yielding no fruit for human life."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the power to be effective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the power to be effective.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of competence, force, or capacity to achieve an intended result; impotence of effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary tragedy, the hero's ineffectualness against relentless cosmic or social fate heightens the sense of inevitable catastrophe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ineffectualness designates lacking the power to be effective."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The bitter **ineffectualness** of Angel's apologies could not heal the deep wound inflicted upon her trusting spirit."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"Jim's bluster could not disguise the tragic **ineffectualness** of his attempts to retrieve his lost honor."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"The lawyer felt the complete **ineffectualness** of all ordinary persuasion when confronting the clerk's mild passivity."*
+

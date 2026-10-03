@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the power to be effective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the power to be effective.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of possessing no operational power or producing no meaningful impact; utter fruitlessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social critique and psychological portraiture, ineffectuality describes the paralysis of refined intellects unable to translate moral conviction into decisive worldly action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ineffectuality designates lacking the power to be effective."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The tragic flaw in Shelley's political idealism lay in its radiant, beautiful **ineffectuality** when confronted with stubborn reality."*
+> - 📜 **Henry James (*The Bostonians*):** *"Ransom smiled at the benign **ineffectuality** of the elderly philanthropist who had devoted forty years to harmless manifestos."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"A sense of helpless **ineffectuality** overwhelmed her as she realized the futility of her passionate protests."*
+

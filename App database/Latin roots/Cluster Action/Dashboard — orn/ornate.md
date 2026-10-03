@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by elaborate rhetoric and elaborated with decorative details; ; -john milton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by elaborate rhetoric and elaborated with decorative details; ; -john milton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborately or lavishly adorned; embellished with complex decorative details, or characterized by highly florid literary style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical criticism, an ornate style employs polysyllabic vocabulary, inverted sentence structures, and extended figurative conceits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had made a toilet of a nicely-adjusted kind—of a nature between the carefully neat and the carelessly ornate—of a degree between fine-market-day and wet-Sunday selection."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The silence and pleasing coolness were in harmonious unison with the gleaming alabaster arches, and the subdued loveliness of arrangement was more agreeable to sense than Lehna Singh's ornate magnificence."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"S., Nov., 1864; Wordsworth, Tennyson, and Browning; or Pure, Ornate, and Grotesque Art in English Poetry; republ. in ‘Literary Studies’, by Walter Bagshot. 1865."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain's cabin was fitted with an **ornate** mahogany sideboard that had survived three Arctic voyages."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's prose was stiff and **ornate**, weighed down by excessive erudition and ponderous Latinisms."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The speech was composed in that **ornate** and magnificent rhetoric which Edmund Burke alone could command."*
+

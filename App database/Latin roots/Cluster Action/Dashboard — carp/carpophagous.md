@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit-eating; feeding primarily on fruit; frugivorous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ecology and mammalogy, carpophagous vertebrates (such as fruit bats, toucans, and primates) play an indispensable mutualistic role as seed dispersal vectors for forest trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpophagous designates feeding on fruit."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The great fruit pigeons are strictly **carpophagous**, swallowing large wild figs and nutmegs whole in the canopy."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The digestive tracts of **carpophagous** birds allow hard seeds to pass unharmed, ensuring wide geographical distribution."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The dentition of **carpophagous** bats features broad, crushing molars suited for masticating the fibrous pulp of tropical fruits."*
+

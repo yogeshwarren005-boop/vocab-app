@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The gradual beginning or coming forth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The becoming visible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of coming into view, becoming exposed, or rising into prominent awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In complexity theory, emergence describes how macro-level collective patterns arise spontaneously from local decentralized interactions among individual agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Emergence of the railroad problem. § 9."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But before this era of generosity ended, probably the railroads in America had received more public aid than has ever been given to any other form of industry in private hands. § 8. #Emergence of the railroad problem#."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"At such times the more exuberant among them called out in an excited manner on our emergence round some corner of expectancy, “_Here_ they come!” “_Here_ they are!” and we were all but cheered."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The gradual **emergence** of moral conscience in mankind can be traced to the expansion of ancestral social instincts."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sudden **emergence** of the Saracen horsemen from the Arabian deserts reshaped the destiny of the Roman Orient."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Every cosmic stage witnesses the **emergence** of greater heterogeneity and structural integration."*
+

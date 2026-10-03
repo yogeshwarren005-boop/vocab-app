@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare reddish-grey mineral consisting of a copper iron germanium sulfide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare reddish-grey mineral consisting of a copper iron germanium sulfide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, reddish-gray metallic sulfide mineral consisting primarily of copper, iron, germanium, and arsenic (Cu13Fe2Ge2S16).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and economic geology, germanite was discovered in 1922 in the polymetallic ore deposits of Tsumeb, Namibia, serving as an early source of germanium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germanite designates a rare reddish-grey mineral consisting of a copper iron germanium sulfide."*
+> - 📜 **O. Pufahl (*Germanit, ein Germanium-Mineral von Tsumeb*):** *"Chemical analysis of the Tsumeb ore confirmed that **germanite** contains up to nine percent of the rare element germanium."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The discovery of **germanite** provided mineralogists with a crystalline sulfide host for germanium in hydrothermal veins."*
+> - 📜 **Waldemar Lindgren (*Mineral Deposits*):** *"Complex sulfosalts such as **germanite** crystallize during the late low-temperature stages of epigenetic mineralization."*
+

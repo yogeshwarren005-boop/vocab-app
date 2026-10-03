@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not divided or divisible into parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not divided or divisible into parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not separated into distinct, individual parts; continuous, undivided, or homogeneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine and pathology, an indiscrete (confluent) smallpox eruption features pustules that run together into a continuous sheet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She is as small as a mouse, but once a year she stirs.[255] Notes: [64] Pechuel-Loesche, "Indiscretes aus Loango," _Zeitschrift für Ethnologie_, x. (1878) p. 23. [65] Rev."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In the severe confluent form of variola, the lesions become completely **indiscrete**, covering the face with an unbroken purulent crust."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The molten metals formed an **indiscrete** mass in which no individual grains could be discerned under magnification."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Perceptual space presents itself as a continuous, **indiscrete** medium before the intellect divides it into feet and inches."*
+

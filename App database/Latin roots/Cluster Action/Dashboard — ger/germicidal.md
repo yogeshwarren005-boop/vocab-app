@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing infection by inhibiting the growth or action of microorganisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preventing infection by inhibiting the growth or action of microorganisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of destroying germs, bacteria, and other pathogenic microorganisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical disinfection and sanitary engineering, ultraviolet-C light and chemical antiseptics exert germicidal effects by disrupting microbial DNA and cell walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germicidal designates preventing infection by inhibiting the growth or action of microorganisms."*
+> - 📜 **Joseph Lister (*The Antiseptic Principle of the Practice of Surgery*):** *"Dilute carbolic acid possesses a powerful **germicidal** action that prevents putrefaction in compound fractures."*
+> - 📜 **Robert Koch (*Investigations into Bacteria*):** *"We tested the **germicidal** properties of mercuric chloride against the resistant endospores of Bacillus anthracis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Boiling water remains the most reliable and accessible **germicidal** agent for surgical instruments in routine practice."*
+

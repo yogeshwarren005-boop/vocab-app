@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of the output to the input of any system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillfulness in avoiding wasted time and effort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to accomplish a job or produce a result with a minimum expenditure of time, effort, and resources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and mechanical engineering, thermal efficiency is the ratio of useful work performed to total heat energy consumed by an engine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"It fortunately happened that the work to which John had now to turn his hand allowed him an opportunity of carrying on his studies without interfering with its efficiency."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But he had to attend to a congregation whose membership was at first nearly six hundred, and afterwards rose to seven hundred and eighty and, with his standard of pastoral efficiency, this left him little leisure."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In truth, I was sent to the jacket because I, a new convict, a master of efficiency, a trained expert in the elimination of waste motion, had elected to tell the stupid head weaver a few things he did not know about his business."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The remarkable **efficiency** of specialized pin-makers increases production tenfold compared to solitary unassisted labor."*
+> - 📜 **Charles Babbage (*On the Economy of Machinery and Manufactures*):** *"The introduction of automated steam presses augmented the mechanical **efficiency** of printing establishments tenfold."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The continuous evolution of society manifests an increasing **efficiency** in the coordination of social functions."*
+

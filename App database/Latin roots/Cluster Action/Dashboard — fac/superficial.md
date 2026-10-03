@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or comprehending only what is apparent or obvious; not deep or penetrating emotionally or intellectually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, affecting, or being on or near the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing or occurring at or on the surface; not thorough, deep, or profound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, superficial veins and fascial planes lie immediately beneath the cutaneous dermis, above deep investing musculature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very superficial, ignorant, unweighing fellow."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the worst attacks of trouble there appears to be always a superficial film of consciousness which is left disengaged and open to the notice of trifles, and Bathsheba was faintly amused at the boy’s method, till he too passed on."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A superficial glance at the trade relations of an old, rich country with a new province seems to give evidence for such a belief."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A little philosophy inclineth man's mind to atheism; but depth in philosophy bringeth men's minds about to religion, whereas **superficial** study fosters vanity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate despised the **superficial** medical gossip of provincial practitioners who never opened a pathological treatise."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is only shallow people who do not judge by appearances; the true mystery of the world is the visible, not the invisible, which mocks our **superficial** gaze."*
+

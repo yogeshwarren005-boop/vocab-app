@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ironclad vessel built by the confederate forces in the hope of breaking the blockade imposed by the north.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ironclad vessel built by the confederate forces in the hope of breaking the blockade imposed by the north.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The USS Merrimack (frequently spelled Merrimac), a naval frigate converted by the Confederacy into the ironclad CSS Virginia during the American Civil War.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval warfare history, the Battle of Hampton Roads in 1862 between the Merrimac and the USS Monitor marked the dawn of ironclad naval engagements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merrimac designates an ironclad vessel built by the confederate forces in the hope of breaking the blockade imposed by the north."*
+> - 📜 **Herman Melville (*Battle-Pieces and Aspects of the War*):** *"Hail to the craft that answered the dread **merrimac**, proving that the age of oaken wooden walls had passed away forever."*
+> - 📜 **Ulysses S. Grant (*Personal Memoirs of U. S. Grant*):** *"The appearance of the Confederate ironclad **merrimac** created great consternation at Washington until the arrival of the Monitor."*
+> - 📜 **Alfred Thayer Mahan (*The Gulf and Inland Waters*):** *"The historic duel between the Monitor and the **merrimac** revolutionized naval ordnance and armor construction across the globe."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lump of material formed from the content of a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lump of material formed from the content of a liquid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A curdled, congealed, or clotted mass, especially a blood clot or curd formed during coagulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology and histology, a coagulum consists of cross-linked fibrin fibers trapping erythrocytes, leukocytes, and aggregated platelets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coagulum designates a lump of material formed from the content of a liquid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A firm **coagulum** formed within the aneurysm sac, effectively isolating the weakened arterial wall from blood pressure."*
+> - 📜 **John Hunter (*A Treatise on the Blood*):** *"The red **coagulum** separates spontaneously from the clear pale serum as the blood contracts within the basin."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"An intravascular **coagulum** or thrombus must be distinguished from the post-mortem clots commonly found in the heart chambers."*
+

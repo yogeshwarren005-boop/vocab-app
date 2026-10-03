@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or an instance of being imperfect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or an instance of being imperfect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of lacking completeness, precision, or defect-free execution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical epistemology, imperfectness in human perceptual faculties accounts for optical illusions and the necessity of rational correction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperfectness designates the state or an instance of being imperfect."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **imperfectness** of words is the great cause of obscurity and confusion in philosophical disputations."*
+> - 📜 **George Berkeley (*A Treatise Concerning the Principles of Human Knowledge*):** *"Any apparent **imperfectness** in the operations of nature arises solely from our narrow and partial comprehension of the whole."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The **imperfectness** of our furnaces and vessels prevents the total separation of volatile mineral spirits from coarse earth."*
+

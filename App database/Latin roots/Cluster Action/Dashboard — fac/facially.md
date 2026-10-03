@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to the face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to the face.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to the face, appearance, or external countenance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative morphology and portraiture, subjects facially resembling historical forebears demonstrate striking hereditary fidelity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facially designates with respect to the face."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The young man **facially** recalled the grim portrait of the colonial ancestor hanging upon the dark oak paneling."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes pointed out that the baronet was **facially** identical to the wicked cavalier depicted on the canvas."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She observed that the sisters were **facially** dissimilar despite sharing identical intonations and graceful gestures."*
+

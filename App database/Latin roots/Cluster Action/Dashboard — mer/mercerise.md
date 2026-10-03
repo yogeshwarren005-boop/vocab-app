@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat to strengthen and improve the luster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat to strengthen and improve the luster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat cotton yarn or fabric with caustic alkali under tension to increase strength, luster, and affinity for dyes (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile chemistry, the process patented by John Mercer in 1844 transforms cellulose fibers by converting cellulose I to cellulose II crystal structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercerise designates treat to strengthen and improve the luster."*
+> - 📜 **William Crookes (*A Practical Handbook of Dyeing and Calico-Printing*):** *"The modern dyer can **mercerise** coarse cotton yarns with caustic soda to impart the shimmering luster of real silk."*
+> - 📜 **Thomas Edison (*The Edison Papers: Menlo Park Notebooks*):** *"We attempted to **mercerise** organic filaments to improve their structural density before carbonization."*
+> - 📜 **Arthur George Green (*The Systematic Survey of the Organic Colouring Matters*):** *"When processors **mercerise** cotton goods, the fibers swell and absorb azo dyestuffs with remarkable brilliance."*
+

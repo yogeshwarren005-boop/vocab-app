@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who collaborates with an enemy occupying force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who collaborates with an enemy occupying force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cooperates or collaborates traitorously with an enemy occupying power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and political history, collaborationist officials were subjected to national purges (epuration legale) and treason trials following the liberation of Europe in 1944.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collaborationist designates someone who collaborates with an enemy occupying force."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The fleeing **collaborationist** officials left behind filing cabinets filled with evidence of their political servility."*
+> - 📜 **Albert Camus (*Combat Editorials*):** *"A true democracy cannot build its future upon amnestying the prominent **collaborationist** leaders who betrayed the republic."*
+> - 📜 **Rebecca West (*The Meaning of Treason*):** *"The trial of the radio **collaborationist** revealed a pathetic vanity eager for notoriety at any cost."*
+

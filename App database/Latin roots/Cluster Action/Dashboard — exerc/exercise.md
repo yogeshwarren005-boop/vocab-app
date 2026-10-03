@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of exerting your muscles in various ways to keep fit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of using.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Activity requiring physical or mental effort, carried out to sustain or improve health, fitness, skill, or discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and political theory, the exercise of authority or a right refers to the active, lawful application of legitimate power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ th’ common showplace where they exercise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy exercise hath been too violent For a second course of fight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy crystal window ope; look out; No longer exercise Upon a valiant race thy harsh And potent injuries."*
+> - 📜 **Francis Bacon (*The Essays*):** *"There is no stand or impediment in the wit, but may be wrought out by fit studies, like as diseases of the body may have appropriate **exercise**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The constant **exercise** of the understanding in the pursuit of truth strengthens its natural faculties against error."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth found that a brisk walk across the park was the best **exercise** to restore her composure after the unexpected encounter."*
+

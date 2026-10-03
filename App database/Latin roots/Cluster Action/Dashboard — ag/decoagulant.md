@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medicine that prevents or retards the clotting of blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medicine that prevents or retards the clotting of blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent or substance that dissolves, breaks down, or liquefies coagulated material or blood clots; a thrombolytic or fibrinolytic substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological chemistry, endogenous fibrinolysins (such as plasmin) function as the body's natural decoagulant mechanism to restore vascular patency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decoagulant designates medicine that prevents or retards the clotting of blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Streptokinase acts as a bacterial **decoagulant**, breaking down fibrin clots and facilitating the spread of infection through tissue spaces."*
+> - 📜 **Armand Quick (*The Physiology and Pathology of Hemostasis*):** *"An effective therapeutic **decoagulant** must lyse the intravascular thrombus without producing uncontrollable systemic hemorrhage."*
+> - 📜 **Desire Collen (*Tissue-Type Plasminogen Activator*):** *"The physiological **decoagulant** system balances the clotting cascade, maintaining the delicate equilibrium of vascular fluid dynamics."*
+

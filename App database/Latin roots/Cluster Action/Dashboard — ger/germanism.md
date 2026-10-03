@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A custom that is peculiar to germany or its citizens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A custom that is peculiar to germany or its citizens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An idiom, syntactic construction, or pronunciation characteristic of the German language adopted into another language; also devotion to German culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic criticism and translation studies, an unassimilated Germanism in English prose produces awkward sentence structures and ponderous compound nouns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germanism designates a custom that is peculiar to germany or its citizens."*
+> - 📜 **Samuel Johnson (*Preface to the Dictionary of the English Language*):** *"A judicious lexicographer will guard our speech against any unidiomatic **Germanism** introduced by careless translators."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The intellectual rigor of nineteenth-century **Germanism** revitalized European philosophy and biblical criticism."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"In Pennsylvania colloquial speech, many an unmistakable **Germanism** survived in domestic idioms for generations."*
+

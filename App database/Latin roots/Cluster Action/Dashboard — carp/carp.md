@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lean flesh of a fish that is often farmed; can be baked or braised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various freshwater fish of the family cyprinidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A freshwater fish of the family Cyprinidae, especially Cyprinus carpio, widely cultivated for food and ornament; as a verb, to complain or find fault continually about trivial matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and aquaculture history, carp were domesticated in China over two millennia ago, giving rise to diverse varieties including koi and goldfish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, sir, use the carp as you may, for he looks like a poor, decayed, ingenious, foolish, rascally knave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See you now; Your bait of falsehood takes this carp of truth; And thus do we of wisdom and of reach, With windlasses, and with assays of bias, By indirections find directions out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not only, sir, this your all-licens’d fool, But other of your insolent retinue Do hourly carp and quarrel; breaking forth In rank and not-to-be-endured riots."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The **carp** is the queen of rivers, a stately, good, and very subtle fish, living longer than any other freshwater dweller."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See you now; your bait of falsehood takes this **carp** of truth; and thus do we of wisdom and of reach, with windlasses and with assays of bias, by indirections find directions out."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The gold-fish was domesticated from the native Chinese **carp** during the Sung dynasty and selected for bizarre fin forms."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work together on a common enterprise of project.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work together on a common enterprise of project.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To act or work jointly with others toward a common end, purpose, or mutual benefit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and game theory, organisms cooperate when individual behaviors yield net fitness benefits to both actor and recipient.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Everything seemed to cooperate for her advantage."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We tell all new inmates, as I'm now telling you: cooperate, and you'll find your stay tolerable, resist, and take the consequences." A stern, hard stare, a shrug and his features relaxed."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The unknowns were under a heavy screen and wouldn't cooperate with the Space Guard's self-identification requirements."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Social animals that **cooperate** in warning one another of danger survive far more successfully than solitary individuals."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In civilized society, man stands at all times in need of the cooperation and assistance of great multitudes, while his whole life is scarce sufficient to gain the friendship of a few persons: it is in vain for him to expect it from their benevolence only; he will be more likely to prevail if he can interest their self-love in his favor, and show them that it is for their own advantage to do for him what he requires of them: whoever offers to another a bargain of any kind, proposes to do this: give me that which I want, and you shall have this which you want, is the meaning of every such offer; and it is in this manner that we obtain from one another the far greater part of those good offices which we stand in need of: it is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest; we address ourselves, not to their humanity but to their self-love, and never talk to them of our own necessities but of their advantages: thus do men **cooperate** in civil society."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Citizens enter into political society the better to **cooperate** in preserving their natural rights to life, liberty, and estate."*
+

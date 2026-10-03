@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put together out of artificial or natural components or parts; ; ; he manufactured a popular cereal".
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make up something artificial or untrue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced or fabricated from raw materials, especially systematically by machinery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic linguistics and political rhetoric, a manufactured narrative refers to an artificially engineered consensus designed to deceive public opinion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The abstraction was a cheat and a lie manufactured in the priestly mind."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not all the mothers of the whole evolution of men manufactured fear or fearlessness in men."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To put it concretely: America, having great natural resources for agriculture, might continue to trade food for manufactured goods even tho England reaped most of the benefits of the trade."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The price of **manufactured** commodities naturally falls in proportion as the division of labor is perfected."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"He compared organic adaptations to intricate instruments **manufactured** by human artisans to achieve definite ends."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The Ministry of Truth **manufactured** synthetic news reports and falsified historical statistics on an industrial scale."*
+

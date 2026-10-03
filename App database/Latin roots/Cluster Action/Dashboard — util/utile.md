@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being of use or service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of use or service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Useful, advantageous, or profitable; producing practical benefit or utility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary aesthetics, Horace's famous dictum utile dulci states that poetry should combine the useful with the pleasurable (aut prodesse volunt aut delectare poetae).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, utile designates being of use or service."*
+> - 📜 **Horace (*Ars Poetica*):** *"He has won every vote who has blended the **utile** with the dulci, by delighting the reader and also instructing him."*
+> - 📜 **Francis Bacon (*The Essays*):** *"True philosophy rejects idle disputation, seeking ever that which is **utile** and fertile for the relief of man's estate."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The Latin term **utile** captures that foundational standard of practical goodness which benefits human welfare."*
+

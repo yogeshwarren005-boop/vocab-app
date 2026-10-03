@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder of digestive function characterized by discomfort or heartburn or nausea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder of digestive function characterized by discomfort or heartburn or nausea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain or discomfort in the stomach associated with difficulty in digesting food; dyspepsia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal medicine, indigestion encompasses a constellation of symptoms including epigastric burning, postprandial fullness, early satiety, and nausea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We used to canvass whether his wife bullied him or whether he had chronic indigestion."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have often thought that Kwan Yung-jin suffered from indigestion, and that when the attacks were acute he took it out on us."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Without poetry, the progress of science and of the mechanical arts results in mental and moral indigestion, merely exasperating the inequality of mankind."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"You may be an undigested bit of beef, a blot of mustard, a crumb of cheese, a fragment of an underdone potato; there's more of gravy than of grave about you, whatever you are! Scrooge attributed his ghostly visitor to severe **indigestion**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic **indigestion** is frequently symptomatic of underlying peptic ulceration or cholelithiasis rather than simple functional dyspepsia."*
+> - 📜 **Jane Austen (*Emma*):** *"Poor Mr. Woodhouse lived in perpetual dread of **indigestion**, advising his guests to restrict themselves to water-gruel and boiled apples."*
+

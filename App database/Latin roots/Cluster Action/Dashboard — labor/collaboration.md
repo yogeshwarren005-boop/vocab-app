@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of working jointly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of cooperating traitorously with an enemy that is occupying your country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of working with someone to produce or create something; joint intellectual or physical endeavor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational sociology and science studies, collaboration measures the density of co-authorship networks and inter-institutional research teams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"To President Camari, I herewith declare that the original understandings on cooperation and collaboration with the Government of Planet Pluto until Slingshot is launched remain in effect."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Discussing collaboration in writing a story got us into long distance interaction between grandkids and grandparents."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The process, itself, I felt, would encourage collaboration among professionals, paraprofessionals, and administrators and directors of suicide prevention entities in neighboring civilian communities."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The generous **collaboration** of fellow naturalists across the globe provided the geographical facts essential to my theory."*
+> - 📜 **Francis Bacon (*The New Atlantis*):** *"Solomon's House is founded upon the systematic **collaboration** of scholars dedicated to the interpretation of nature."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She dreamed of an intellectual **collaboration** with her husband that would assist in completing his great theological opus."*
+

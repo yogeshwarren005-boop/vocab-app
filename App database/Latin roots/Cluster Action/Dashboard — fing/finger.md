@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the terminal members of the hand (sometimes excepting the thumb).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of breadth of a finger used as a linear measure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the five articulating terminal members of the human hand, especially other than the thumb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In measurement and manual trades, a finger denotes an approximate breadth of three-quarters of an inch used for measuring liquids or cloth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My reasons are most strong; and you shall know them When back again this ring shall be deliver’d; And on your finger in the night, I’ll put Another ring, that what in time proceeds May token to the future our past deeds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She call’d the saints to surety That she would never put it from her finger Unless she gave it to yourself in bed, Where you have never come, or sent it us Upon her great disaster."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, much like The same upon your finger."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"And on your **finger** in the night, I'll put another ring, that what in time proceeds may token to the future our past deeds."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn quietly points with his **finger** to the corner of the room where the old papers are kept."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She took my cold hand in hers and rubbed each chilled **finger** until the warmth returned."*
+

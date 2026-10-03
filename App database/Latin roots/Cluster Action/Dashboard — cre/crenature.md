@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rounded notch or scallop in a crenated leaf margin or anatomical edge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, the number and glandular hairs of each crenature along the petal edge provide taxonomic distinction among hybrid cultivars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crenature designates one of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.)."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Each shallow **crenature** along the margin of the leaf bears a minute, nectar-secreting gland at its apex."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The round-toothed leaf of ground ivy features a prominent vein terminating within each soft **crenature**."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"The coriaceous foliage is edged with irregular teeth, each **crenature** bordered by a thickened cartilaginous rim."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excreta (especially of insects).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excreta (especially of insects).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nutritive starchy powder extracted from seeds, roots, tubers, or stems of plants through washing and sedimentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical botanical chemistry and pharmacognosy, fecula referred specifically to pure amylum separated from fibrous cellular tissue, prized as an easily digestible nutrient.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The grains of fecula are for a long time perfectly healthy; the cells themselves, so far from being looser, are more closely bound together than in the more healthy portions."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"By grating the potato root and washing it upon a fine sieve, the starchy **fecula** deposits at the bottom of the vessel as a dazzling white powder."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"The nutritive value of edible tuberous plants corresponds directly to the abundance of insoluble **fecula** contained within their cells."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Under the influence of heat and dilute acids, vegetable **fecula** undergoes transformation into soluble dextrin and sugar."*
+

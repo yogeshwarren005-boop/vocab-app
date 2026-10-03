@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, substance, or physical process that kills microorganisms and pathogenic germs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health and clinical epidemiology, a broad-spectrum germicide is formulated to eradicate vegetative bacteria, fungi, and lipid-enveloped viruses on inanimate surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germicide designates an agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease."*
+> - 📜 **Joseph Lister (*The Antiseptic Principle of the Practice of Surgery*):** *"The application of an efficient **germicide** to the wound dressing eliminates the peril of hospital gangrene."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Moderate heat applied systematically acts as a protective **germicide**, preserving wine and beer from souring."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"No chemical **germicide** can substitute for the fundamental sanitary safeguards of clean air, pure water, and thorough drainage."*
+

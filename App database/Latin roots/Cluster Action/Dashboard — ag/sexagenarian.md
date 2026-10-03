@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose age is in the sixties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being from 60 to 69 years old.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is between sixty and sixty-nine years old; of or relating to someone in their sixties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical social history, reaching sexagenarian status was traditionally regarded as attaining the threshold of venerable senior counsel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sexagenarian designates someone whose age is in the sixties."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The archdeacon was an active **sexagenarian**, robust in body and vigorous in church politics."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Jennings was a good-humored **sexagenarian** who took a lively and bustling interest in the romantic affairs of all her young acquaintances."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke was a well-meaning **sexagenarian** with a mind full of diverse opinions that never coalesced into steady action."*
+

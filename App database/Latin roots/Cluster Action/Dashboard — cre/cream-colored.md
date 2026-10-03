@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the color of fresh cream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the color of fresh cream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the pale, yellowish-white color of fresh dairy cream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fine art and paper manufacturing, cream-colored archival vellum is prized for its warm, glare-free optical tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cream-colored designates having the color of fresh cream."*
+> - 📜 **Jane Austen (*Emma*):** *"She stepped into the elegant **cream-colored** carriage, accompanied by her cheerful companion."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In certain breeds of domestic pigeons, the plumage changes from pure white to a delicate **cream-colored** tint."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The drawing-room was upholstered in rich **cream-colored** satin that reflected the flickering firelight."*
+

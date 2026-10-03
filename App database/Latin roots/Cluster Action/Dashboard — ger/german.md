@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of german nationality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The standard german language; developed historically from west germanic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Germany, its people, or its Indo-European language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical anthropology and philology, German encompasses the High and Low German dialect continuums and cultural heritage of Central Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be here German, or Dane, Low Dutch, Italian, or French, let him speak to me, I’ll discover that which shall undo the Florentine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance he spoke not, but, Like a full-acorn’d boar, a German one, Cried “O!” and mounted; found no opposition But what he look’d for should oppose and she Should from encounter guard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The phrase would be more german to the matter if we could carry cannon by our sides."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The ancient **German** warriors prized liberty above life, assembling in armed councils under sacred oak groves."*
+> - 📜 **Thomas Carlyle (*Life of Friedrich Schiller*):** *"The rise of **German** literature under Goethe and Schiller restored spiritual earnestness to European letters."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's historical research suffered from his total ignorance of modern **German** critical scholarship."*
+

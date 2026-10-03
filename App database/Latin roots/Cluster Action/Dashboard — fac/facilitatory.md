@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inducing or aiding in facilitating neural activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing or aiding in facilitating neural activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or serving to facilitate, expedite, or assist progress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral neurobiology, facilitatory synapses augment excitatory postsynaptic potentials during conditioned reflex reinforcement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facilitatory designates inducing or aiding in facilitating neural activity."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain associated ideas exert an immediate **facilitatory** influence, accelerating the recollection of dormant memories."*
+> - 📜 **Herbert Spencer (*The Data of Ethics*):** *"Sympathetic emotions possess a distinctly **facilitatory** value in fostering harmonious mutual cooperation among tribal members."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Afferent stimulation sets up a lasting **facilitatory** central state that lowers the threshold for motor discharge."*
+

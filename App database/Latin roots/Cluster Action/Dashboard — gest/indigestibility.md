@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being difficult to digest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being difficult to digest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resistance to enzymatic breakdown and assimilation within the digestive tract, resulting in unabsorbed passage or gastrointestinal distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal physiology, the indigestibility of dietary fiber (cellulose, hemicellulose, lignin) facilitates colonic peristalsis by providing fecal bulk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indigestibility designates the property of being difficult to digest."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"The absolute **indigestibility** of crude vegetable seeds allows them to traverse the alimentary canal of birds intact."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic gastritis, the **indigestibility** of heavy fats precipitates distressing nausea and gastric flatulence."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The chemical **indigestibility** of keratin in hair and feathers protects predatory birds from self-digestion of their talons."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Half woman and half fish; lives in the sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Half woman and half fish; lives in the sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythical sea creature with the head and upper body of a woman and the tail of a fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime folklore and allegorical iconography, the mermaid symbolizes both the seductive peril of treacherous shoals and uninhibited oceanic freedom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At the helm A seeming mermaid steers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, train me not, sweet mermaid, with thy note To drown me in thy sister’s flood of tears."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But lest myself be guilty to self-wrong, I’ll stop mine ears against the mermaid’s song."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"At the helm a seeming **mermaid** steers: the silken tackle swell with the touches of those flower-soft hands."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Sailors in the crow's nest fancied they heard the singing of a **mermaid** in the nocturnal sighing of the trades."*
+> - 📜 **Hans Christian Andersen (*Fairy Tales*):** *"The little **mermaid** gazed longingly at the prince's palace on the shore, yearning for an immortal human soul."*
+

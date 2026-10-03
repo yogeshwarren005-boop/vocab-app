@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make commercial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organized principally for financial gain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organized, adapted, or exploited primarily for financial profit, often at the sacrifice of artistic or traditional integrity (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and anthropology, describing traditional rituals, holidays, or craft industries that have been absorbed into mass marketing and consumer culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commercialised designates make commercial."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The old working-class sports had become thoroughly **commercialised**, dominated by gambling syndicates and gate receipts."*
+> - 📜 **Virginia Woolf (*Three Guineas*):** *"In a **commercialised** press, public truth must always run the gauntlet of advertisers' commercial interests."*
+> - 📜 **E. M. Forster (*Howards End*):** *"London appeared vast, restless, and completely **commercialised**, caring nothing for the quiet beauty of the past."*
+

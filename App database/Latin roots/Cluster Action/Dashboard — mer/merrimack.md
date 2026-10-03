@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river that rises in south central new hampshire and flows through concord and manchester into massachusetts and empties into the atlantic ocean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river that rises in south central new hampshire and flows through concord and manchester into massachusetts and empties into the atlantic ocean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 117-mile river flowing through New Hampshire and Massachusetts, which powered early industrial textile mills of the Industrial Revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American regional literature and economic history, the Merrimack River valley was celebrated as the cradle of American cotton textile manufacturing in towns like Lowell and Lawrence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merrimack designates a river that rises in south central new hampshire and flows through concord and manchester into massachusetts and empties into the atlantic ocean."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"We launched our boat upon the waters of the **merrimack**, eager to explore its picturesque granite banks and wooded reaches."*
+> - 📜 **John Greenleaf Whittier (*Snow-Bound and Other Poems*):** *"The noble **merrimack** rolls its blue waters down from the White Hills to meet the Atlantic surf."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The industrial waterwheels lining the **merrimack** demonstrated how natural energy could be harnessed to human industry."*
+

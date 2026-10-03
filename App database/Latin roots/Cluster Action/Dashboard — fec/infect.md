@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate a disease to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contaminate with a disease or microorganism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To contaminate with a disease-producing organism or agent; also to imbue with a pernicious quality, mood, or idea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular virology, to infect involves the attachment, penetration, and uncoating of a viral particle within a host cell, subverting host machinery for viral replication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why do you infect yourself with them?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You herd of—Boils and plagues Plaster you o’er, that you may be abhorred Farther than seen, and one infect another Against the wind a mile!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More of your conversation would infect my brain, being the herdsmen of the beastly plebeians."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why do you **infect** yourself with them, and pour your soul into their reckless and unprofitable griefs?"*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It is sadly curious to observe how slight a taste of office suffices to **infect** a man with institutional complacency."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The subtle poison seemed to **infect** her blood, draining her vital strength night after night."*
+

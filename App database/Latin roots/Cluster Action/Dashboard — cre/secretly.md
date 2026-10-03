@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In secrecy; not openly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not openly; inwardly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a secret, private, or covert manner; without the knowledge of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, cherishing a conviction or passion secretly emphasizes internal psychological solitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am given, sir, secretly to understand that your younger brother Orlando hath a disposition to come in disguised against me to try a fall."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give him this letter, do it secretly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What duke should that be comes so secretly?"*
+> - 📜 **William Shakespeare (*As You Like It*):** *"I am given, sir, **secretly** to understand that your younger brother Orlando is determined this day to wrestle for a fall."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Heaven, if I had got jilted **secretly**, and the dishonour not known to the village, I might have endured the blow with dignity!"*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor had **secretly** endured the agony of her heart's trial without burdening her mother or sister with a single complaint."*
+

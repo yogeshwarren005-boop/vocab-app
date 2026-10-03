@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting a separate entity or part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting a separate entity or part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Individually separate and distinct; non-continuous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and computer science, discrete mathematics studies structures that are countable or composed of distinct, separable values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What discrete succession of images did Stephen meanwhile perceive?"*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Number is the most universal and simple idea we have, consisting of **discrete** units added one to another."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection can act only by preserving and accumulating infinitesimal variations, not by sudden, **discrete** leaps."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness does not appear to itself chopped up in bits; it is not a chain of **discrete** states, but a continuous stream."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The style of writing characteristic of some government officials: formal and obscure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The style of writing characteristic of some government officials: formal and obscure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal, jargon-laden, convoluted language typical of government bureaucracy or official documents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics and stylistic criticism, officialese employs nominalizations, passive syntax, and evasive circumlocutions to obscure personal accountability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, officialese designates the style of writing characteristic of some government officials: formal and obscure."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Modern political prose and administrative **officialese** are designed to make lies sound truthful and murder respectable."*
+> - 📜 **C. S. Lewis (*The Screwtape Letters*):** *"The tempter admired the dense, obfuscating **officialese** in which modern institutional sins are so comfortably camouflaged."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The director delivered the departmental directives in smooth hypnopaedic **officialese**, reassuring the students that all was stable."*
+

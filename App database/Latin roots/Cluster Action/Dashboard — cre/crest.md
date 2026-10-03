@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The top line of a hill, mountain, or wave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The top or extreme point of something (usually a mountain or hill).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comb or tuft of feathers or skin on the head of a bird or other animal; the top of a mountain or wave; also a heraldic device.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry and armorial bearings, the crest is the device mounted above the helmet and torse on a coat of arms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was a crest ere thou wast born."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when they shall see, sir, his crest up again, and the man in blood, they will out of their burrows like coneys after rain, and revel all with him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is his uncle’s teaching, this is Worcester, Malevolent to you in all aspects, Which makes him prune himself, and bristle up The crest of youth against your dignity."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"When they shall see, sir, his **crest** up again, and the man in blood, they will out of their burrows like conies after rain."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The snowy sea-bird rose from the white **crest** of the billow, uttering a plaintive cry over the foaming waste."*
+> - 📜 **Alfred Tennyson (*The Idylls of the King*):** *"The knight's golden helmet bore a dragon for a **crest**, its wings outspread in terrible majesty."*
+

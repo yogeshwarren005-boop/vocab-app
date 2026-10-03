@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a creaky manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a creaky manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that produces a harsh, squeaking, or grating sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive prose, an old machine or vehicle moving creakily emphasizes dilapidated wear and lack of lubrication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creakily designates in a creaky manner."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Several farm wagons and carts were moving **creakily** along the road, laden with refugees and household furniture."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The heavy timber wain swung **creakily** through the barn gate, its axles dry from long harvest labor."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The rusty iron gate turned **creakily** upon its hinges as we entered the desolate courtyard of Baskerville Hall."*
+

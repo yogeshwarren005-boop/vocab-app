@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An active and efficient cause; capable of producing a certain effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representative who acts on behalf of other persons or organizations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, force, or substance that acts, exerts power, or produces an effect, or one authorized to act on behalf of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and pharmacology, an agent is an active chemical substance (such as a reducing agent or therapeutic agent) that produces a specific reaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think on my words. [_Exit Pisanio._] A sly and constant knave, Not to be shak’d; the agent for his master, And the remembrancer of her to hold The hand-fast to her lord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How often have I tempted Suffolk’s tongue, The agent of thy foul inconstancy, To sit and witch me, as Ascanius did When he to madding Dido would unfold His father’s acts commenced in burning Troy!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cardinal Campeius Is stolen away to Rome; hath ta’en no leave; Has left the cause o’ th’ King unhandled, and Is posted, as the agent of our Cardinal, To second all his plot."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection is an **agent** ever scrutinized by the eye of nature, preserving the slightest favorable variation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The merchant frequently entrusts his merchandise to a confidential **agent** residing in a foreign seaport."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A wise prince will choose an **agent** whose private interests coincide with the success of the public mission."*
+

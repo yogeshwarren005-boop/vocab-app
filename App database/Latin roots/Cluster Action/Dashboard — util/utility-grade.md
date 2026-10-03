@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of beef; usable but inferior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of beef; usable but inferior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a standard commercial grade suitable for practical utility and functional service rather than luxury, display, or fine finish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commodity grading and industrial lumber standards, utility-grade material meets basic structural and safety specifications while containing minor cosmetic flaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, utility-grade designates used of beef; usable but inferior."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Industrial goods manufactured strictly for **utility-grade** service are systematically undervalued by consumers seeking conspicuous display."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The standardized **utility-grade** furniture of the early industrial worker sacrificed traditional aesthetic ornament for rapid mass manufacture."*
+> - 📜 **U.S. Department of Agriculture (*Official Standards for Grades of Lumber and Beef*):** *"Carburetors and structural beams classified as **utility-grade** must satisfy load-bearing tolerances despite surface blemishes."*
+

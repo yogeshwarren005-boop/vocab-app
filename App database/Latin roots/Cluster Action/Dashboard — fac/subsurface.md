@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beneath the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beneath the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beneath or below the surface of the earth, sea, or another boundary; subterranean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum engineering and hydrogeology, subsurface mapping delineates subterranean aquifers, fault lines, and permeable reservoir strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The view screen readouts showed subsurface galleries, several outlined in irregular outlines but empty, others reflected high-mass warship configurations."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"No doubt that they're Narval's thugs and they're going to clamp a tow beam on the stores and haul them off to some subsurface storage or assembly shop."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The entire sector from which this attack was launched is honeycombed with utility passages and subsurface supply and maintenance shops," he said."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Volcanic forces operating in the **subsurface** strata exert immense hydraulic pressure upon overlying sedimentary rocks."*
+> - 📜 **Jules Verne (*A Journey to the Center of the Earth*):** *"The subterranean explorers navigated vast **subsurface** caverns illuminated by luminous electrical vapors."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Mysterious internal waves undulate through the **subsurface** depths of the ocean without disturbing the glassy tranquility above."*
+

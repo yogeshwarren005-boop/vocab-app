@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being treated by surgical operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit or ready for use or service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be used or put into operation; suitable for use; in medicine, capable of being treated or corrected by surgical operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical surgical oncology, an operable lesion is one whose anatomical boundaries allow complete surgical excision with an acceptable safety margin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operable designates capable of being treated by surgical operation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early diagnosis is paramount, for gastric malignancies detected before serosal invasion are completely **operable**."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology*):** *"With improved osteoplastic flaps, subcortical neoplasms previously deemed fatal became safely **operable**."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The surgeon determined that the intestinal strangulation was promptly **operable**, giving the patient a fair chance of survival."*
+

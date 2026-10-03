@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-nucleoside reverse transcriptase inhibitor (trade name rescriptor) used to treat aids and hiv.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A non-nucleoside reverse transcriptase inhibitor (trade name rescriptor) used to treat aids and hiv.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-nucleoside reverse transcriptase inhibitor (NNRTI) medication used as part of combination antiretroviral therapy for the management of HIV-1 infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, delavirdine binds directly to HIV-1 reverse transcriptase near the catalytic site, but its use has declined due to high pill burden, rash, and CYP3A4 drug interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delavirdine designates a non-nucleoside reverse transcriptase inhibitor (trade name rescriptor) used to treat aids and hiv."*
+> - 📜 **Anthony Fauci (*Harrison's Principles of Internal Medicine*):** *"The introduction of non-nucleoside reverse transcriptase inhibitors such as **delavirdine** provided new regimens for suppressing HIV replication."*
+> - 📜 **Bertram Katzung (*Basic and Clinical Pharmacology*):** *"**Delavirdine** inhibits cytochrome P450 3A4, significantly elevating plasma concentrations of co-administered protease inhibitors."*
+> - 📜 **John Bartlett (*Medical Management of HIV Infection*):** *"Skin rash occurs in nearly twenty percent of patients treated with **delavirdine**, though it rarely progresses to Stevens-Johnson syndrome."*
+

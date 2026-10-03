@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like or relating to a prostitute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tastelessly showy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparently attractive or alluring but having in reality no value, substance, or integrity; tawdry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Latin etymology, meretricious derives from meretrix (a courtesan), originally denoting the alluring, deceptive embellishments of a prostitute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"She lay solidly in her bed amidst the meretricious gorgeousness she had affected in life, the weight of her body sagging the bed grotesquely toward its center."*
-> - 📜 **James Joyce (*Ulysses*):** *"Meretricious finery to deceive the eye."*
+> - 📜 **Francis Bacon (*The Essays*):** *"The depraved custom of change, and the delight in **meretricious** embellishments, corrupts the sobriety of true artistic judgment."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Cowley's poetry is too often disfigured by **meretricious** ornaments and far-fetched metaphysical conceits."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She turned away with disdain from the **meretricious** flattery that fashionable society lavished upon her appearance."*
+

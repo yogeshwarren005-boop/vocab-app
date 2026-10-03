@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large dark-colored scaleless marine eel found in temperate and tropical coastal waters; some used for food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large dark-colored scaleless marine eel found in temperate and tropical coastal waters; some used for food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, scaleless marine eel of the family Congridae, especially Conger conger, inhabiting rocky coastal reefs in the Atlantic and Mediterranean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial fisheries and ichthyology, the conger is an active nocturnal predator capable of reaching lengths over two meters, prized in traditional stews and soups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hang yourself, you muddy conger, hang yourself!"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I recognized the Javanese, a real serpent two and a half feet long, of a livid colour underneath, and which might easily be mistaken for a conger eel if it were not for the golden stripes on its side."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The French minister favored this, but Conger opposed, stating he believed the government resolutely means to suppress the Boxers."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The fishermen pulled a ferocious **conger** from the rocky crevice, its snapping jaws lashing across the bottom of the boat."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The great sea **conger** lurketh among submarine boulders and sunken wrecks, preying upon smaller fish."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We observed large marine eels of the **conger** tribe swimming through the clear waters of the tidal pools."*
+

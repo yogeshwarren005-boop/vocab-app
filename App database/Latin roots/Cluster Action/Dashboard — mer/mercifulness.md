@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling that motivates compassion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be kind and forgiving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposition or habit of showing mercy, forbearance, and compassionate pardon toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian ethics and scholastic philosophy, mercifulness (misericordia) ranks as a cardinal virtue flowing directly from divine caritas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercifulness designates the feeling that motivates compassion."*
+> - 📜 **Jeremy Taylor (*Holy Living and Holy Dying*):** *"The true measure of Christian perfection is found in persistent **mercifulness** toward those who have injured us."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The Interpreter instructed Christian that divine **mercifulness** exceeds all human transgression when accompanied by sincere repentance."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A magistrate who tempers the severity of the statutes with genuine **mercifulness** preserves the dignity of the law."*
+

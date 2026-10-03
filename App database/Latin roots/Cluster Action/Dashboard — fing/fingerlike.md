@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a finger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a finger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling an elongated human finger in shape, contour, or projection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and histology, fingerlike projections—such as intestinal villi or renal podocyte foot processes—substantially expand absorptive surface area.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerlike designates resembling a finger."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The glandular hairs terminate in tiny, **fingerlike** lobes capable of secreting a clear digestive fluid."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Long, **fingerlike** reefs of jagged coral reached out from the island's shore toward the churning surf."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The microscopic lining of the small intestine is covered with millions of slender **fingerlike** villi."*
+

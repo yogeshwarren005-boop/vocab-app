@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who holds an office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who holds an office.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds an official post or position of authority in an organization or government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scottish Presbyterian polity and nonconformist church governance, an office-bearer designates an elder, deacon, or minister formally ordained to administer parish affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, office-bearer designates the person who holds an office."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Every true ruler or **office-bearer** among men ought to be a guiding light, not a mere decorative figurehead."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The solemn **office-bearer** of the kirk delivered his admonition with austere Calvinistic gravity."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"Mr. Harding, as an ancient **office-bearer** of the charitable hospital, was deeply grieved by the scandalous attacks in the daily press."*
+

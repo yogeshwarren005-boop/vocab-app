@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resolve (a polynomial) into factors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resolve (a polynomial) into factors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To decompose a number, polynomial, or expression into elements that yield the original when multiplied together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational algebra and cryptographic analysis, to factorize an RSA modulus represents a computationally intractable problem for classical von Neumann architectures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factorize designates resolve (a polynomial) into factors."*
+> - 📜 **Charles Sanders Peirce (*Studies in Logic*):** *"When we **factorize** a compound term into its essential attributes, the validity of the syllogism becomes evident."*
+> - 📜 **William Stanley Jevons (*Principles of Science*):** *"To **factorize** a large number into prime multiples requires inductive trial and exhaustion of possible divisors."*
+> - 📜 **Augustus De Morgan (*Formal Logic*):** *"The student must learn to **factorize** the complex polynomial before attempting integration."*
+

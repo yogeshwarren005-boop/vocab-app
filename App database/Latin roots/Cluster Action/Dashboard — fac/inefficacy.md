@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of efficacy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of efficacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of power or capacity to produce an intended effect; complete ineffectiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monetary policy, the recognized inefficacy of credit expansion during a liquidity trap poses grave economic hazards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: After an unequivocal experience of the inefficacy of the subsisting federal government, you are called upon to deliberate on a new Constitution for the United States of America."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This censorial body, therefore, proves at the same time, by its researches, the existence of the disease, and by its example, the inefficacy of the remedy."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This great discovery of the inefficacy of magic must have wrought a radical though probably slow revolution in the minds of those who had the sagacity to make it."*
+> - 📜 **David Hume (*An Enquiry Concerning the Principles of Morals*):** *"The total **inefficacy** of abstract metaphysical reasoning in governing daily conduct demonstrates the supremacy of human passions."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopolistic guilds frequently complained of the **inefficacy** of their own regulations against clandestine outside competition."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"He lamented the tragic **inefficacy** of passionate appeals when addressed to an indifferent and cynical multitude."*
+

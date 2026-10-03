@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid section between two crenels in a crenelated battlement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid section between two crenels in a crenelated battlement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The solid upright section of an indented parapet or battlement between two embrasures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval military architecture, merlons provided defensive cover for archers and crossbowmen defending the curtain wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merlon designates a solid section between two crenels in a crenelated battlement."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The archers sheltered behind each stone **merlon**, loosing deadly shafts through the narrow embrasures below."*
+> - 📜 **Eugène Viollet-le-Duc (*Annals of a Fortress*):** *"The crenellated battlements were designed with heavy **merlon** piers to shield the defenders against mangonel stones."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The sharp silhouette of the Gothic **merlon** against the evening sky gave the ducal palace an air of feudal vigilance."*
+

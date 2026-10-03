@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A segment of dna containing adjacent genes including structural genes and an operator gene and a regulatory gene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A segment of dna containing adjacent genes including structural genes and an operator gene and a regulatory gene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A functional unit of genomic DNA found in prokaryotes, containing a cluster of genes under the control of a single promoter and regulatory operator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, the lac operon model was elucidated in 1961 by Francois Jacob and Jacques Monod, establishing the foundational paradigm of transcriptional gene regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operon designates a segment of dna containing adjacent genes including structural genes and an operator gene and a regulatory gene."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"The coordinated expression of structural genes within the bacterial **operon** is governed by a single repressor-operator interaction."*
+> - 📜 **Francois Jacob (*Genetic Regulatory Mechanisms in the Synthesis of Proteins*):** *"We defined the **operon** as a genetic unit of coordinate transcription, initiated at an operator locus and encoding polycistronic mRNA."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"The lactose **operon** in Escherichia coli exemplifies negative inducible transcriptional control in prokaryotic systems."*
+

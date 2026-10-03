@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Platypus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Platypus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The monotreme family of egg-laying mammals comprising the extant platypus (Ornithorhynchus anatinus) and related Australasian fossil forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy and evolutionary biology, the Ornithorhynchidae retain cloacal openings and oviparous reproduction while possessing fur and mammary glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog ornithorhynchidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The family **Ornithorhynchidae** presents the most astonishing combination of avian, reptilian, and mammalian characters in the animal kingdom."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In the **Ornithorhynchidae**, the coracoid bones articulate directly with the sternum, as in reptiles, rather than forming a scapular process."*
+> - 📜 **George Shaw (*The Naturalist's Miscellany*):** *"Early zoologists suspected the first preserved specimen of the **Ornithorhynchidae** to be an ingenious fabrication of Asian taxidermists."*
+

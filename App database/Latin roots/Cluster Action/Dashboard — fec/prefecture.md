@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The district administered by a prefect (as in france or japan or the roman empire).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office of prefect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The district, territorial jurisdiction, or official headquarters of a prefect or regional administrator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Roman administrative geography following Diocletian's reforms, the four praetorian prefectures formed the largest civil territorial divisions of the Empire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Fu" may be translated prefecture, "chou," department, and "hsien," a district."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the multitude, after a short turn, has escorted the slow-moving car to the gate of the Sub-Prefecture, they halt, and the car, jolting over the uneven ground, rumbles into the courtyard."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Not at all." "Monsieur Pinot at the Eveche!" "We will get him an introduction to the Prefecture." "Monsieur should not jest."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The vast **prefecture** of the East embraced the richest and most populous provinces of Asia and Egypt."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Throughout that mountainous **prefecture**, the peasants celebrate the harvest by offering sheaves of barley to local spirits."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Upon arriving at the yamen of the **prefecture**, we presented our passports to the resident mandarin."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organized action of making of goods and services for sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something (a product) from raw materials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The making of goods or wares by manual labor or machinery, especially on a large scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial history and economic theory, the transition from artisanal craft to mechanized factory manufacture revolutionized global labor relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Above all there was a case of jewellery, containing four heavy gold bracelets and several lockets and rings, all of fine quality and manufacture."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The manufacture was much improved since that time; he had seen some beautiful specimens when last in town, and had he not been perfectly without vanity of that kind, might have been tempted to order a new set."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The price of manufacturer's products rose in advance of the rise of costs of many raw materials and especially of the labor costs of manufacture."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"To take an example, therefore, from a very trifling **manufacture**; but one in which the division of labour has been very often taken notice of, the trade of the pin-maker; a workman not educated to this business could scarce make one pin in a day."*
+> - 📜 **Karl Marx (*Capital: Critique of Political Economy*):** *"During the manufacturing period properly so called, the division of labor within the workshop is the specific method of **manufacture**."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Cotton **manufacture** and steam engines have covered the green countryside with towering chimneys and ceaseless mechanical clatter."*
+

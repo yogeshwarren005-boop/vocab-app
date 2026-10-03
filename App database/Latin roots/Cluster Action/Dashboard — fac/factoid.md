@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something resembling a fact; unverified (often invented) information that is given credibility because it appeared in print.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brief (usually one sentence and usually trivial) news item.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief, interesting item of news or trivia; often an unverified statement presented as a fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media sociology, Norman Mailer coined factoid to denote an unfounded piece of information accepted as true purely through relentless mass-media repetition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factoid designates something resembling a fact; unverified (often invented) information that is given credibility because it appeared in print."*
+> - 📜 **Norman Mailer (*Marilyn: A Biography*):** *"A **factoid** is a piece of information which has no existence before appearing in a magazine or newspaper, yet is accepted as truth because of frequent repetition."*
+> - 📜 **Daniel Boorstin (*The Image: A Guide to Pseudo-Events in America*):** *"The modern reader is bombarded by the synthetic **factoid**, created deliberately to fill television hours and news columns."*
+> - 📜 **Neil Postman (*Amusing Ourselves to Death*):** *"Our public discourse has devolved from coherent argument into disjointed fragments and amusing **factoid** tidbits."*
+

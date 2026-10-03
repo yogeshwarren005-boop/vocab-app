@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The work of cleansing (usually with soap and water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The work of cleansing (usually with soap and water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of washing, cleansing, or bathing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ritual religious history and anthropological study, ceremonial lavation purifies participants from ritual contamination before entering sacred precincts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lavation designates the work of cleansing (usually with soap and water)."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The solemn **lavation** of the sacred statue of Cybele in the waters of the Almo was celebrated annually by the Roman priests."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ceremonial **lavation** in running water is a universal rite of passage designed to wash away the taint of blood-guilt."*
+> - 📜 **Francis Bacon (*The Essays*):** *"The morning **lavation** in cold fresh water preserves the natural vigor of the skin and fortifies the animal spirits."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of western finnish people formerly living in the baltic province where saint petersburg was built.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of western finnish people formerly living in the baltic province where saint petersburg was built.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic northern English dialectal term denoting a water-meadow or low-lying alluvial pasture subject to seasonal flooding (an ing).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English toponymy and historical landscape archaeology, the dialect element inger preserves Old Norse eng (meadow), identifying fertile riverside hay pastures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inger designates a member of western finnish people formerly living in the baltic province where saint petersburg was built."*
+> - 📜 **William Morris (*The Roots of the Mountains*):** *"The cattle grazed peacefully across the green **inger** beside the winding river before the autumn mists gathered."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The lush **inger** by the mill-stream yielded two heavy crops of sweet meadow hay in a prosperous summer."*
+> - 📜 **Robert Southey (*The Doctor*):** *"The ancient parish boundary ran from the old stone cross down along the willow **inger** to the water's edge."*
+

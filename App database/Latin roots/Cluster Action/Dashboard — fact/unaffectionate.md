@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking affection or warm feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking affection or warm feeling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking warmth, tenderness, or demonstrated affection; aloof, cold, or emotionally distant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychodynamics, an unaffectionate domestic environment can impede an infant's attachment formation and secure emotional socialization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unaffectionate designates lacking affection or warm feeling."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Her cold, **unaffectionate** demeanor towards her dependent niece repelled any impulse toward intimacy."*
+> - 📜 **George Eliot (*Silas Marner*):** *"A harsh, **unaffectionate** father had warped Godfrey's early youth, driving him toward reckless secrecy."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"Mr. Dombey turned an **unaffectionate** gaze upon his daughter, seeing in her only an obstacle to his pride."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who puts to good use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who puts to good use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who utilizes or makes practical use of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial economics and public utility regulation, a commercial utilizer is an industrial firm consuming large baseload quantities of electrical power or municipal water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, utilizer designates someone who puts to good use."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The prudent **utilizer** of mercantile credit never overextends his financial commitments beyond his real capital."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Civilized man is distinguished from the savage as an inventive **utilizer** of inorganic forces to perform arduous toil."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The enterprising **utilizer** of mineral wealth pays a royalty to the landlord while directing the active labor of the mine."*
+

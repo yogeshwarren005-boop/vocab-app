@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ineffective manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ineffective manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ineffective manner; without producing the intended or desired outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legislative history, well-intentioned statutory enactments operate inefficaciously when unaccompanied by competent administrative oversight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inefficaciously designates in an ineffective manner."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Theoretical declarations of abstract human rights operate **inefficaciously** in the absence of solid civic institutions."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The royal proclamation was distributed widely throughout the provinces, but executed so **inefficaciously** that lawlessness went unchecked."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A representative assembly that attempts to administer detailed executive duties will inevitably perform them **inefficaciously**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the practice of science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming with the principles or methods used in science.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on, characterized by, or conforming to the principles and methods of science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science, a proposition is considered scientific if it yields testable predictions subject to empirical falsification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not in a scientific way, as I expect he does, but by ear."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket does not claim to be a scientific judge of horses, but he lays out a little money on the principal events in that line, and generally sums up his knowledge of the subject in the remark that when he sees a horse as can go, he knows him."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"They were a notable family, full of all kinds of interesting lore, literary, scientific, and pastoral, and they exercised a boundless hospitality to all, whether gentle or simple, who came within their reach."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I have during many years gathered facts on this subject, and have endeavored to arrange them in strict **scientific** order."*
+> - 📜 **Thomas Huxley (*Science and Education*):** *"Science is, I believe, nothing but trained and organized common sense, and the **scientific** spirit is the pursuit of natural truth."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"The **scientific** method consists in the careful classification of facts and the unbiased observation of their sequence."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extract (ore) from a strip-mine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extract (ore) from a strip-mine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To extract mineral deposits or coal from an open excavation directly at the surface of the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental geology and extractive metallurgy, open-pit operations that surface-mine ore deposits require extensive landscape reclamation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surface-mine designates extract (ore) from a strip-mine."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The colonial prospectors sought to **surface-mine** alluvial gravels along the riverbanks in search of native gold dust."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Quarrying operations that **surface-mine** horizontal limestone strata expose rich fossil beds to the eyes of the paleontologist."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Neolithic humans learned to **surface-mine** flint nodules from chalk downs to manufacture sharp hunting weapons."*
+

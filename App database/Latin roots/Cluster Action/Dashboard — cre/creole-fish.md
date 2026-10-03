@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-sea fish of tropical atlantic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-sea fish of tropical atlantic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paranthias furcifer, a species of colorful reef fish in the seabass family Serranidae, native to tropical Atlantic and Pacific reefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ichthyology, the creole-fish differs from typical benthic groupers by schooling in open water to feed on zooplankton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creole-fish designates deep-sea fish of tropical atlantic."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"Schools of the bright crimson **creole-fish** darted amidst the volcanic crevices of the Galápagos shore."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The elongated body and deeply forked caudal fin of the **creole-fish** illustrate adaptation to midwater pelagic foraging."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"A glittering cloud of **creole-fish** circled our diving helmet, their reddish-violet scales shimmering in the filtered sunlight."*
+

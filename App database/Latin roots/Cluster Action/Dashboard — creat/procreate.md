@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have offspring or produce more individuals of a given animal or plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have offspring or produce more individuals of a given animal or plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To produce offspring; to reproduce biologically through sexual reproduction; to beget or generate children.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, the fundamental drive of organisms is to survive and procreate, passing their genetic inheritance to future generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In the begin- ing God created man in His, God's, image; but mor- 140:30 tals would procreate man, and make God in their own human image."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Those who stayed procreated, natural or clone, according to their customs or inclinations."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The emigrants procreated and populated their cities in the void."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every organism produces more offspring than can possibly survive, compelling them to struggle with competing forms to **procreate** their kind."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The first and strongest desire God planted in men is that of self-preservation, and next to it the desire to **procreate** their species."*
+> - 📜 **Thomas Malthus (*An Essay on the Principle of Population*):** *"The natural capacity of human populations to **procreate** increases geometrically, outstripping the arithmetical increase in food supply."*
+

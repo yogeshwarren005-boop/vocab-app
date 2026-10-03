@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a meretricious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a meretricious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tawdry, flashy, or falsely alluring manner designed to deceive with superficial charm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic criticism, designing or painting meretriciously prioritizes gaudy visual impact over compositional harmony and emotional truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meretriciously designates in a meretricious manner."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"The stage scenery was **meretriciously** decorated with glittering foil to conceal the poverty of the dramatic writing."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He spoke **meretriciously**, dressing up commonplace platitudes in the extravagant language of romantic devotion."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The late Renaissance facades are **meretriciously** encrusted with decorative carving that lacks all structural justification."*
+

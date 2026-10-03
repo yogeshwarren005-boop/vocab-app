@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman benefactor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman benefactor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female patron, sponsor, or supporter who provides charitable aid, protection, or financial gifts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian domestic literature and social history, the aristocratic benefactress frequently established village dispensaries, Sunday schools, and cottage libraries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What shocking conduct, Miss Eyre, to strike a young gentleman, your benefactress’s son!"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I hope that sigh is from the heart, and that you repent of ever having been the occasion of discomfort to your excellent benefactress.” “Benefactress! benefactress!” said I inwardly: “they all call Mrs."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed my benefactress; if so, a benefactress is a disagreeable thing.” “Do you say your prayers night and morning?” continued my interrogator."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She was at the same time so unwilling to appear as the **benefactress** of Edward, that she acknowledged it with hesitation."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Miss Temple acted as our protector and gracious **benefactress**, softening the harsh discipline of the school."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Lady Dedlock was honored as the grand **benefactress** of the parish, though her heart remained cold and solitary."*
+

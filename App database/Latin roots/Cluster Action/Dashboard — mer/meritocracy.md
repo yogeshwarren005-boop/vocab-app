@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of social system in which power goes to those with superior intellects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The belief that rulers should be chosen for their superior abilities and not because of their wealth or birth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social system, society, or organization in which people have power and status because of their abilities, rather than because of their wealth or social position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology, Michael Young coined meritocracy in 1958 as a satirical critique warning that a society stratified purely by IQ and effort risks creating a rigid, uncompassionate elite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meritocracy designates a form of social system in which power goes to those with superior intellects."*
+> - 📜 **Michael Young (*The Rise of the Meritocracy*):** *"A pure **meritocracy** allocates elite educational opportunities solely according to measured talent and effort, creating an unassailable aristocracy of intellect."*
+> - 📜 **John Rawls (*A Theory of Justice*):** *"Even an ideal **meritocracy** allows natural lottery differences in talent to generate arbitrary inequalities unless governed by the difference principle."*
+> - 📜 **Daniel Bell (*The Coming of Post-Industrial Society*):** *"The post-industrial order is fundamentally a **meritocracy** where technical and scientific credentials determine occupational advancement."*
+

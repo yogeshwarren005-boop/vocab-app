@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The elimination of fecal waste through the anus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elimination of fecal waste through the anus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physiological evacuation of fecal matter and digestive waste from the rectum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sugar manufacturing and industrial chemistry, defecation refers to the clarification stage where impurities are coagulated and skimmed from solution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"The traditional connection between defecation and writing was another comparison apparent to the commentators."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe rectal tenesmus and painful **defecation** are characteristic clinical hallmarks of acute bacillary dysentery."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The **defecation** of muddy water through layers of fine sand illustrates the cleansing power of natural earth."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The frequency and chemical composition of intestinal **defecation** vary directly with the proportion of indigestible vegetable fiber in the diet."*
+

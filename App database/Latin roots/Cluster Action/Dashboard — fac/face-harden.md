@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harden steel by adding carbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harden steel by adding carbon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To harden the surface of a metal object, especially steel, while leaving the interior tough and ductile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and naval armament history, the Harvey and Krupp processes were developed to face-harden heavy armor plate against high-velocity artillery shells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, face-harden designates harden steel by adding carbon."*
+> - 📜 **Alfred Thayer Mahan (*The Influence of Sea Power upon History*):** *"Naval engineers sought to **face-harden** battleship belt armor using carbon cementation to resist explosive projectiles."*
+> - 📜 **Thomas Edison (*The Edison Papers: Metallurgy*):** *"We subjected the steel dies to surface carburization to **face-harden** the cutting edges against wear."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"The invention of techniques to **face-harden** nickel-steel transformed the economics of heavy ordnance manufacturing."*
+

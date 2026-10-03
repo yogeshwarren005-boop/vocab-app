@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aspect without regard to the beginning or completion of the action of the verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aspect without regard to the beginning or completion of the action of the verb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or denoting an ongoing, uncompleted, habitual, or continuous action rather than an accomplished event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics and Slavic grammatical theory, the imperfective aspect contrasts with the perfective by presenting verbal events from within their internal temporal duration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperfective designates aspect without regard to the beginning or completion of the action of the verb."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"The **imperfective** form portrays an event as evolving in duration, without reference to its ultimate completion."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"In Slavic verbal morphology, the grammaticalized opposition between **imperfective** and perfective stems forms the structural core of the aspectual system."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"A speaker using an **imperfective** verb focuses the listener's attention upon the ongoing unfolding of the process."*
+

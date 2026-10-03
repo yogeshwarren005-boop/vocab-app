@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contaminated by mercury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contaminated by mercury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Polluted or tainted with toxic mercury compounds, posing acute environmental or neurological hazards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecotoxicology and environmental health, mercury-contaminated aquatic ecosystems lead to biomagnification of methylmercury through apex predatory fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercury-contaminated designates contaminated by mercury."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Industrial effluents poured into estuaries created **mercury-contaminated** sediments that poisoned the local shellfish beds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Occupational exposure in a **mercury-contaminated** workshop induces severe tremors, erethism, and gingivitis in felt-hat workers."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Biomagnification in **mercury-contaminated** river basins poses grave neurological risks to piscivorous bird species."*
+

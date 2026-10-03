@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mojarras.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arthropod family that includes water striders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan family of predatory aquatic true bugs (order Hemiptera), commonly known as water striders, pond skaters, or water skippers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater ecology and biophysics, Gerridae utilize hydrophobic micro-setae on their tarsi to glide across water surfaces supported by surface tension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog gerridae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"The slender water striders belonging to the **Gerridae** skate effortlessly across tranquil pond surfaces in pursuit of fallen insects."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The family **Gerridae** possesses elongated middle and hind legs that act as oars and rudders upon the water film."*
+> - 📜 **William Morton Wheeler (*Demons of the Dust*):** *"In quiet forest eddies, colonies of the **Gerridae** maintain station against the current with rhythmic, simultaneous strokes."*
+

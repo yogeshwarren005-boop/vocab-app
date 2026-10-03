@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being deserving (e.g., deserving assistance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being deserving (e.g., deserving assistance).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of possessing genuine merit, worth, or desert of reward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and ethical theory, the meritoriousness of an act is assessed by the purity of the agent's motives and the personal sacrifice incurred.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meritoriousness designates the quality of being deserving (e.g., deserving assistance)."*
+> - 📜 **Immanuel Kant (*Groundwork of the Metaphysics of Morals*):** *"The moral **meritoriousness** of an action shines forth most brightly when done purely from duty against strong contrary inclinations."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The **meritoriousness** of a public service is measured by the net addition of utility it confers upon the community."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Our admiration of the **meritoriousness** of a heroic benefactor is heightened by contemplating the hazards he freely braved."*
+

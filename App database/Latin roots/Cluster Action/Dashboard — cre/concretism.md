@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation of an abstract idea in concrete terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation of an abstract idea in concrete terms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosophical or artistic tendency that emphasizes concrete objects and tangible realities over abstract concepts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avant-garde poetics, concretism (concrete poetry) treats typographic arrangement and physical layout as integral semantic components of the poem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concretism designates a representation of an abstract idea in concrete terms."*
+> - 📜 **Ezra Pound (*Literary Essays*):** *"The new verse repudiated airy rhetorical abstraction in favor of rigorous visual **concretism** and hard imagery."*
+> - 📜 **John Dewey (*Art as Experience*):** *"A genuine work of art displays a profound **concretism**, wedding universal meaning to immediate sensory form."*
+> - 📜 **Bertrand Russell (*The Analysis of Matter*):** *"Extreme scientific **concretism** risks overlooking the indispensable mathematical abstractions that coordinate physical observations."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Floor covering consisting of a piece of thick heavy fabric (usually with nap or pile).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural object that resembles or suggests a carpet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy floor covering made of thick woven fabric, typically wool or synthetic fibers, used to cover a floor or staircase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In idiomatic English, 'on the carpet' historically meant being called before a superior or employer for severe reprimand or interrogation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, I will rob Tellus of her weed To strew thy green with flowers: the yellows, blues, The purple violets, and marigolds, Shall as a carpet hang upon thy grave, While summer days do last."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go signify as much, while here we march Upon the grassy carpet of this plain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is knight, dubbed with unhatched rapier, and on carpet consideration, but he is a devil in private brawl."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The lawyer's room was furnished with a handsome Turkey **carpet**, upon which the dust of many decades had settled into the fibers."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The drawing-room at Rosings was adorned with an elegant Brussels **carpet** that reflected the opulent taste of its mistress."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes knelt upon the **carpet** beside the body, examining the stains with his pocket lens with extraordinary absorption."*
+

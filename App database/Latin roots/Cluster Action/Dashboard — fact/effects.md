@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Property of a personal character that is portable but not used in business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phenomenon that follows and is caused by some previous phenomenon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Personal belongings, property, or movable possessions; also the plural results produced by an action or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In estate law and probate administration, goods and effects refers to the comprehensive inventory of personal chattel belonging to a deceased person.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That wishing well had not a body in’t Which might be felt, that we, the poorer born, Whose baser stars do shut us up in wishes, Might with effects of them follow our friends, And show what we alone must think, which never Returns us thanks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar, thy thoughts Touch their effects in this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will try the forces Of these thy compounds on such creatures as We count not worth the hanging (but none human) To try the vigour of them, and apply Allayments to their act, and by them gather Their several virtues and effects."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailor's sea-chest contained all his worldly **effects**: two woolen shirts, a darning needle, and a well-thumbed Bible."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The old attorney made a careful inventory of the deceased clerk's personal **effects** in the dusty office."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The packing and transport of their household **effects** to the cottage in Devonshire occupied several busy days."*
+

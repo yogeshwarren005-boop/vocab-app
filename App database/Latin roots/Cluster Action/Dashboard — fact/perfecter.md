@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who perfects something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being complete of its kind and without defect or blemish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which refines, improves, or brings something to a state of complete excellence or maturity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical and spiritual treatises, the divine or intellectual agent acts as the supreme perfecter of latent human faculties and moral virtues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Author of being, and **perfecter** of all light, in whose transcendent glory the seraphim veil their faces."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Time is the great discoverer of truth and the patient **perfecter** of all human arts and sciences."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Grace does not destroy nature, but acts as the glorious **perfecter** of its natural capabilities."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the color of fresh cream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the color of fresh cream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a warm, pale white color with a slight yellowish or ivory undertone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and architectural stonework, creamy-white Caen limestone has been prized since Norman times for cathedral ashlar masonry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creamy-white designates having the color of fresh cream."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great sperm whale displayed a magnificent **creamy-white** brow as he broke the blue ocean surface."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her straw bonnet was tied beneath her chin with ribbons of **creamy-white** silk."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The delicate Gothic tracery was carved from **creamy-white** Istrian stone that resists the salt spray of the lagoons."*
+

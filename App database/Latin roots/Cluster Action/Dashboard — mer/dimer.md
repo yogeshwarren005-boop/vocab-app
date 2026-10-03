@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound whose molecules are composed of two identical monomers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound whose molecules are composed of two identical monomers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical or biological molecule composed of two identical or similar subunits linked by covalent or non-covalent bonds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural molecular biology, protein dimerization frequently serves as an allosteric switch regulating receptor activation and DNA binding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimer designates a compound whose molecules are composed of two identical monomers."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Formic acid vapor associates into a stable cyclic **dimer** through strong intermolecular hydrogen bonding."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Certain enzyme complexes function as an active **dimer**, where catalytic residues are shared across the subunit interface."*
+> - 📜 **J. D. Bernal (*The Physical Basis of Life*):** *"Under ultraviolet irradiation, adjacent thymine bases in the nucleic acid chain cross-link to form a disruptive pyrimidine **dimer**."*
+

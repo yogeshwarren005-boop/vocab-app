@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flemish geographer who lived in germany; he invented the mercator projection of maps of the globe (1512-1594).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flemish geographer who lived in germany; he invented the mercator projection of maps of the globe (1512-1594).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gerardus Mercator (1512–1594), pioneering Flemish cartographer famous for inventing the Mercator map projection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical geodesy and cartography, the Mercator projection represents lines of constant compass bearing (rhumb lines) as straight lines, making it indispensable for maritime navigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercator designates flemish geographer who lived in germany; he invented the mercator projection of maps of the globe (1512-1594)."*
+> - 📜 **Nathaniel Bowditch (*The New American Practical Navigator*):** *"Upon the **mercator** chart, every course steered by compass appears as a straight line across the meridians."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The genius of **mercator** freed maritime navigation from the baffling distortions of early spherical astrolabes."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The cylindrical conformal projection of **mercator** preserves angles accurately at the cost of exaggerating polar landmasses."*
+

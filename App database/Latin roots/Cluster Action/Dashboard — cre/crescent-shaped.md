@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling the new moon in shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the new moon in shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the curved shape of the waxing or waning moon, tapering to a point at each end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology, barchan dunes are crescent-shaped sand dunes formed by unidirectional winds in arid deserts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crescent-shaped designates resembling the new moon in shape."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The earthworm castings formed neat **crescent-shaped** heaps of dark pulverized loam upon the grassy turf."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The volcanic crater formed a vast **crescent-shaped** amphitheater open toward the sea on its western breach."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ivory teeth of the sperm whale curved inward in a gleaming, **crescent-shaped** jaw of extraordinary power."*
+

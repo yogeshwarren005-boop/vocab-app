@@ -42,8 +42,8 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The full realization or manifestation of latent capabilities, potential, or ideals into concrete, observable reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In humanistic psychology (Abraham Maslow, Carl Rogers), self-actualization represents the highest drive of human development, striving toward the complete fulfillment of personal talent, creative expression, and authentic purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of bringing something into concrete reality or realizing latent potential; the manifestation of possibilities in fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Abraham Maslow's hierarchy of needs, self-actualization represents the peak motivational tier, wherein an individual realizes their highest creative and intellectual potential.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
 > - 📜 **Abraham Maslow (*Motivation and Personality*):** *"Self-**actualization** represents the intrinsic growth of what is already in the organism, or more accurately of what is the organism itself."*

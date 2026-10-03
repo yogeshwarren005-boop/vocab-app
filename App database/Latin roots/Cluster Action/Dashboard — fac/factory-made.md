@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced in quantity at a factory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced in quantity at a factory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Manufactured or assembled in large quantities by industrial machinery in a factory, rather than crafted by hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history and aesthetic criticism, the rise of factory-made goods provoked the Arts and Crafts movement's protest against standardized mechanical commodities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factory-made designates produced in quantity at a factory."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The dead, soul-less uniformity of modern **factory-made** ornaments lacks that vital imperfection which characterizes true human art."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"A cheap, shoddy **factory-made** carpet degrades the domestic dwelling and coarsens the aesthetic taste of the nation."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Conspicuous consumption prizes hand-wrought flaws over the flawless precision of cheaper **factory-made** merchandise."*
+

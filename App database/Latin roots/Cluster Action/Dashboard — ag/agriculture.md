@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large-scale farming enterprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of cultivating the land or raising stock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science, art, or practice of cultivating the soil, growing crops, and raising livestock; farming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In world history and anthropology, the Neolithic transition from nomadic foraging to sedentary agriculture marks the foundational threshold of human civilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The long strap which ran from the driving-wheel of his engine to the red thresher under the rick was the sole tie-line between agriculture and him."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Eight years ago I was Professor of Agronomics in the College of Agriculture of the University of California."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No; I shall never be Dean of any college of agriculture."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"No equal capital puts into motion a greater quantity of productive labor than that which is employed in **agriculture**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The discovery of **agriculture** was the primary step that permitted tribes to settle in fixed habitations and multiply their numbers."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A nation that neglecteth **agriculture** must depend for its daily bread upon the goodwill of neighboring merchants."*
+

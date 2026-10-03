@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tense of verbs used in describing action that is on-going.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not perfect; defective or inadequate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Faulty, incomplete, or possessing defects; falling short of an ideal standard of excellence or wholeness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, imperfect denotes a verbal tense or aspect expressing past action viewed as continuous, habitual, or incomplete.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How would (I say) mine eyes be blessed made, By looking on thee in the living day, When in dead night thy fair imperfect shade, Through heavy sleep on sightless eyes doth stay!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Something he left imperfect in the state, which since his coming forth is thought of, which imports to the kingdom so much fear and danger that his personal return was most required and necessary."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then, your other senses grow imperfect By your eyes’ anguish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How would mine eyes be blessed made, by looking on thee in the living day, when in the **imperfect** night thy shadow shines."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"I believe that the very **imperfect** notion ordinarily formed of its meaning is the chief obstacle which impedes its reception."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geological record is incomparably more **imperfect** than is generally supposed by most modern naturalists."*
+

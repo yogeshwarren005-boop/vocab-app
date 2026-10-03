@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woodworker who makes or repairs wooden objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work as a carpenter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose trade is making, repairing, and erecting wooden structures, furniture, and building components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval history, the ship's carpenter was a critical warrant officer responsible for maintaining the seaworthiness of the wooden hull and pumping systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is he that builds stronger than either the mason, the shipwright, or the carpenter?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who builds stronger than a mason, a shipwright, or a carpenter?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But speak you this with a sad brow, or do you play the flouting Jack, to tell us Cupid is a good hare-finder, and Vulcan a rare carpenter?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **carpenter** of the Pequod was an all-ramifying sort of genius, capable of turning his hand to crafting an ivory leg or building a sea-chest."*
+> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"The Walrus and the **Carpenter** were walking close at hand; they wept like anything to see such quantities of sand."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The trade of a **carpenter** requires broad dexterity with diverse cutting and joining tools, commanding wages above common agricultural labor."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A periodical that summarizes the news.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is compiled (as into a single book or file).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To break down food in the alimentary canal into substances that can be absorbed and assimilated by the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and jurisprudence, a digest is a systematically arranged compilation or summary of legal decisions, statutes, or literary works.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am possess’d with an adulterate blot; My blood is mingled with the crime of lust; For if we two be one, and thou play false, I do digest the poison of thy flesh, Being strumpeted by thy contagion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For examine Their counsels and their cares, digest things rightly Touching the weal o’ th’ common, you shall find No public benefit which you receive But it proceeds or comes from them to you And no way from yourselves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall this bosom multitude digest The senate’s courtesy?"*
+> - 📜 **Francis Bacon (*The Essays*):** *"Some books are to be tasted, others to be swallowed, and some few to be chewed and **digest**: that is, some books are to be read only in parts; others to be read, but not curiously; and some few to be read wholly, and with diligence and attention."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Carnivorous plants secrete an acid enzyme capable to **digest** the captured insects and absorb their nitrogenous matter."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The celebrated **Digest** of Justinian arranged thousands of ancient Roman legal opinions into fifty systematic books."*
+

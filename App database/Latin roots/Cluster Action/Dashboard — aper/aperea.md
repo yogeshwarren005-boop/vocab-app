@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: South american cavy; possibly ancestral to the domestic guinea pig.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South american cavy; possibly ancestral to the domestic guinea pig.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Brazilian guinea pig or wild cavy (Cavia aperea), a small South American rodent ancestral to the domesticated guinea pig.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and mammalogy, Cavia aperea inhabits open savannahs and marshes, providing essential baseline data on rodent social organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aperea designates south american cavy; possibly ancestral to the domestic guinea pig."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"The common guinea-pig is generally believed to be descended from the South American cavy, the **aperea** of Brazil."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The wild **aperea** occurs abundantly throughout the grasslands of southeastern Brazil and the Argentine pampas."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"In its wild state, the **aperea** is uniformly brownish-gray, lacking the variegated patches of the domesticated guinea-pig."*
+

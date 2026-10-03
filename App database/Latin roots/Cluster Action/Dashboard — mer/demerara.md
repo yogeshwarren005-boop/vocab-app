@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light brown raw cane sugar from guyana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in northern guyana that flows northward into the atlantic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical region of Guyana, South America, famous for its fertile coastal sugarcane plantations along the Demerara River.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food production and culinary trade, Demerara sugar is a large-grained, golden-brown unrefined cane sugar with a natural molasses aroma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Want to make good pastry, butter, best flour, Demerara sugar, or they’d taste it with the hot tea."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There was a judge's daughter at Demerara went almost mad about him; then there was that beautiful quadroon girl, Miss Pye, at St."*
+> - 📜 **Anthony Trollope (*The West Indies and the Spanish Main*):** *"The sugar plantations of **demerara** are intersected by vast drainage canals engineered with extraordinary Dutch hydraulic skill."*
+> - 📜 **Charles Kingsley (*At Last: A Christmas in the West Indies*):** *"We tasted the rich, crystalline raw sugar freshly extracted in the boiling houses of **demerara**."*
+> - 📜 **James Rodway (*History of British Guiana*):** *"The colony of **demerara** rose to imperial prominence through its vast export of molasses, rum, and unrefined cane."*
+

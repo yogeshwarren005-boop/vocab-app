@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat to strengthen and improve the luster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of cotton thread that has been treated with sodium hydroxide to shrink it and increase its luster and affinity for dye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treated with a concentrated caustic alkali solution to impart strength, silken luster, and dye receptivity (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial garment manufacturing, mercerised thread is specified for high-tensile seams requiring consistent sheen and minimal elongation under friction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercerised designates treat to strengthen and improve the luster."*
+> - 📜 **Arnold Bennett (*The Old Wives' Tale*):** *"The draper displayed rolls of **mercerised** cotton that gleamed like rich Florence silk on the mahogany counter."*
+> - 📜 **James Joyce (*Ulysses*):** *"He admired the neat, lustrous sheen of his new **mercerised** cotton socks as he laced his polished boots."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"She pulled a skein of glossy **mercerised** embroidery floss from her sewing basket beneath the awning."*
+

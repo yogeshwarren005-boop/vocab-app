@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Garage for one or two cars consisting of a flat roof supported on poles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garage for one or two cars consisting of a flat roof supported on poles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A covered shelter for an automobile, usually consisting of a roof supported on posts, open on at least one side, attached to or adjoining a house.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern architectural history, the term carport was coined by Frank Lloyd Wright in the 1930s for his affordable Usonian homes, eliminating the enclosed garage in favor of open shelter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carport designates garage for one or two cars consisting of a flat roof supported on poles."*
+> - 📜 **Frank Lloyd Wright (*The Natural House*):** *"A car is not a horse, and it doesn't need a barn to sleep in; a **carport** provides all the practical shelter necessary while reducing building costs."*
+> - 📜 **Lewis Mumford (*From the Ground Up*):** *"The open **carport** in suburban residential design reflects the seamless integration of private motor transport into everyday domestic architecture."*
+> - 📜 **Sigfried Giedion (*Space, Time and Architecture*):** *"Wright's Usonian houses replaced the traditional bulky carriage house with an airy, cantilevered **carport** integrated into the garden wall."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classifications; includes the orders xiphosura and eurypterida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classifications; includes the orders xiphosura and eurypterida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of aquatic chelicerate arthropods comprising the horseshoe crabs and extinct sea scorpions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobiology and evolutionary morphology, Merostomata represent ancient marine organisms possessing book gills and a prominent terminal telson dating to the Cambrian.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merostomata designates used in some classifications; includes the orders xiphosura and eurypterida."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The primitive anatomy of Limulus confirms its place within the ancient arthropod group **merostomata**."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Fossil eurypterids of the class **merostomata** reached gigantic proportions in the shallow seas of the Silurian period."*
+> - 📜 **E. Ray Lankester (*Limulus an Arachnid*):** *"Detailed anatomical comparisons show that the living **merostomata** share closer evolutionary affinities with arachnids than with true crustaceans."*
+

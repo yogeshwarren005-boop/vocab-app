@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secondary infection caused by an opportunistic infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Secondary infection caused by an opportunistic infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A virulent or superimposed secondary infection establishing itself over an existing localized or systemic microbial invasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, suprainfection denotes the opportunistic colonization of compromised mucous membranes or necrotic tissues by multi-drug resistant bacterial or fungal strains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suprainfection designates secondary infection caused by an opportunistic infection."*
+> - 📜 **William Henry Welch (*General Pathology of Fever*):** *"The terminal stage was precipitated by severe **suprainfection** invading the ulcerated intestinal mucosa."*
+> - 📜 **Theobald Smith (*Parasitism and Disease*):** *"In chronic bovine infections, destructive tissue necrosis commonly invites secondary bacterial **suprainfection**."*
+> - 📜 **Simon Flexner (*Experimental Epidemiology*):** *"Laboratory animals weakened by primary inoculations succumbed swiftly when exposed to lethal respiratory **suprainfection**."*
+

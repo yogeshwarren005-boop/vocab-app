@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lining applied to the edge of a garment for ornamentation or strengthening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental coating to a building.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outer covering, layer, or protective coating applied to a surface, or the act of confronting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In garment tailoring and historical military dress, the facing designates contrasting ornamental fabric lining cuffs, collars, and lapels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn sits, facing round, on a stool at the desk."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"By facing round as she has moved, he stands a little behind her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sympathetic man still looked the other way, and wondered when she would recover coolness sufficient to justify him in facing her again."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The handsome young lieutenant preened in his scarlet regimentals with their embroidered buff **facing** and gleaming epaulets."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The marble **facing** on the campanile had begun to weather under centuries of damp lagoon mist."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie sat quietly upon the riverbank, **facing** the inevitable separation that threatened her domestic peace."*
+

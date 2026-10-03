@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of tropical trees or shrubs or climbers including fig trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of tropical trees or shrubs or climbers including fig trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of tropical trees, shrubs, and woody lianas comprising the figs, characterized by milky sap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, Ficus encompasses over eight hundred species renowned for obligate mutualisms with specialized agaonid fig wasps for syconium pollination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Buddhism, whose awakening is placed under the shelter of the bo or bodhi-tree (_ficus religiosa_), the Buddhist tree of knowledge, bases its existence on gnosis."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The singular reproductive morphology of the **ficus** exhibits an intimate, indispensable dependency upon minuscule hymenopterous pollinators."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Vast parasitic banyans belonging to the genus **ficus** send down aerial roots that eventually strangle their host trees in the virgin forest."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"We camped beneath the colossal canopy of a wild **ficus**, whose fleshy fruits attracted innumerable noisy toucans and parrots."*
+

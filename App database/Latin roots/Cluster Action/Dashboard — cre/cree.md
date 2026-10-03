@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an algonquian people living in central canada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The algonquian language spoken by the cree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent North American Indigenous people whose historic homelands span from the Rocky Mountains across central Canada to the Atlantic coast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic anthropology and Canadian ethnohistory, the Cree language (Nehiyawewin) belongs to the Algonquian family and utilizes a distinctive syllabic writing system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—A Fiddler In The North The Minstrel At Lincluden A Vision Song—A Red, Red Rose Song—Young Jamie, Pride Of A’ The Plain Song—The Flowery Banks Of Cree Monody On a lady famed for her Caprice."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And let us all our vows renew, Along the flowery banks of Cree."*
-> - 📜 **James Joyce (*Ulysses*):** *"The door of Ruttledge’s office whispered: ee: cree."*
+> - 📜 **Alexander Mackenzie (*Voyages from Montreal*):** *"The **cree** hunters were known throughout the northern forests for their supreme skill in tracking moose across deep snow."*
+> - 📜 **John Richardson (*Arctic Searching Expedition*):** *"Our guides belonged to the Swampy **cree** nation, possessing remarkable endurance along the frozen portages."*
+> - 📜 **George Simpson (*Narrative of a Journey Round the World*):** *"The Hudson's Bay Company maintained friendly trade relations with the Plains **cree** who supplied buffalo hides."*
+

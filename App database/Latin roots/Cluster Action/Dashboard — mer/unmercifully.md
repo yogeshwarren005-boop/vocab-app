@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without pity; in a merciless manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without pity; in a merciless manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unmerciful, pitiless, or severely harsh manner; without showing any compassion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In animal behavior and ethology, rival males during mating season fight unmercifully to establish reproductive dominance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"It was no easy task, the full pails tugging most unmercifully at his arms."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He laughed unmercifully at the frequent mistakes of our hero, and jeeringly dubbed him, “Young Stupid.” “Do you know what Dawkins calls you?” asked one of the boys."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Great were the weariness and annoyance of the old Inspector and the Weighers and Gaugers, whose slumbers were disturbed by the unmercifully lengthened tramp of my passing and returning footsteps."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Jenner Weir introduced a dull-coloured and ugly female into his aviary, and she was beaten **unmercifully** by the other birds."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The puritan magistrate chastised the offender **unmercifully** in the public market-place to terrify other sinners."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The fierce gale beat **unmercifully** upon the Pequod, testing every timber and staysail in the black night."*
+

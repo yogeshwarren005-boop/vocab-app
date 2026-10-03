@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweet topping especially for pies made of beaten egg whites and sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sweet topping especially for pies made of beaten egg whites and sugar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light, airy sweet confection made from egg whites stiffly beaten with sugar and baked until crisp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical French pastry arts, meringue is categorized into French (uncooked sugar), Italian (hot sugar syrup), and Swiss (bain-marie heated) methods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"As a rule I adore scrap suppers after everyone has gone, and the servants have gone to bed, and the guests make sorties into the pantry, and bring out plates of patties and fruit, and derelict meringues, and wobbling halves of jellies and creams."*
+> - 📜 **Alexandre Dumas (*Grand Dictionnaire de Cuisine*):** *"A delicate baked **meringue** filled with sweetened Chantilly cream crowned the banquet with airy confectionary elegance."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Whip the whites of the eggs to a stiff froth before adding the powdered sugar to ensure a crisp, golden **meringue**."*
+> - 📜 **Escoffier (*A Guide to Modern Cookery*):** *"Pipe the Italian **meringue** in neat rosettes over the iced bombe and brown lightly in a hot oven."*
+

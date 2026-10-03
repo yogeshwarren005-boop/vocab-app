@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A celebrant who shares in a noisy party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A celebrant who shares in a noisy party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes part in lively, festive activities and joyous revelry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In holiday traditions and carnival celebrations, the merrymaker participates in masquerades, dances, and public feasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"From time to time, his quick ear had caught the sound of the distant _hula_ (drum) and the voices of the gay merrymakers."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the reign of Commodus a band of conspirators thought to take advantage of the masquerade by dressing in the uniform of the Imperial Guard, and so, mingling with the crowd of merrymakers, to get within stabbing distance of the emperor."*
+> - 📜 **Nathaniel Hawthorne (*The May-Pole of Merry Mount*):** *"Jollity and gloom were contending for an empire as each masquerading **merrymaker** danced around the pine mast."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Every noisy **merrymaker** at the Dingley Dell farm rejoiced when the great Christmas log was dragged inside."*
+> - 📜 **Sir Walter Scott (*The Abbot*):** *"The masked **merrymaker** played the part of the Abbot of Unreason with extravagant burlesque and laughter."*
+

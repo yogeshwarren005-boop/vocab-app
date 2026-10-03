@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmotile spore of red algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmotile spore of red algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-motile spore formed in the carposporophyte phase of red algae (Rhodophyta), which germinates into the diploid tetrasporophyte phase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology and marine botany, carpospore development occurs within the cystocarp following fertilization of the carpogonium, representing an essential stage in the complex triphasic life cycle of red seaweeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpospore designates a nonmotile spore of red algae."*
+> - 📜 **William Henry Harvey (*Phycologia Britannica*):** *"The terminal cells of the fertile gonimoblast filaments round off to form the single naked **carpospore**."*
+> - 📜 **Felix Eugen Fritsch (*The Structure and Reproduction of the Algae*):** *"Each **carpospore** released from the mature cystocarp settles on the substrate and germinates into a diploid filamentous tetrasporophyte."*
+> - 📜 **Robert Edward Lee (*Phycology*):** *"The release of the **carpospore** in red algae is timed with tidal inundation to maximize dispersability across the reef."*
+

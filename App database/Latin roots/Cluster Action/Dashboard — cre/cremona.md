@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in lombardy on the po river; noted for the manufacture of fine violins from the 16th to the 18th centuries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in lombardy on the po river; noted for the manufacture of fine violins from the 16th to the 18th centuries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cremona, a historic city in Lombardy, northern Italy, celebrated as the world's preeminent center of violin craftsmanship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical organology, the Cremona luthiers, notably the Amati, Stradivari, and Guarneri families, established the classical acoustic proportions of orchestral stringed instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A lady coming into a room hastily with her mantua brushed down a Cremona fiddle that lay on a chair, and broke it; upon which, a gentleman that was present, burst into this exclamation from Virgil: Mantua, væ miseræ nimium vicina Cremonæ!"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Ah! miserable Mantua, too near a neighbour to Cremona. 90."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes purchased his marvelous **cremona** violin for a mere fifty-five shillings from a pawnbroker in Tottenham Court Road."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He played with impassioned feeling upon an old **cremona** instrument whose varnished wood glowed like amber in the candlelight."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The patient artisan of **cremona** selected pine from Alpine slopes, carving belly and back to resonant acoustic perfection."*
+

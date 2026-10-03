@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of becoming perfect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capability of becoming perfect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of being improved, refined, or advanced indefinitely toward ideal excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Enlightenment political theory, perfectibility signifies the limitless moral, cognitive, and political progress achievable by humanity through rational education and institutional reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I took in all the new ideas at one time—human perfectibility, now."*
+> - 📜 **Marquis de Condorcet (*Sketch for a Historical Picture of the Progress of the Human Mind*):** *"The **perfectibility** of man is truly indefinite, limited only by the duration of the globe on which nature has placed us."*
+> - 📜 **William Godwin (*Enquiry Concerning Political Justice*):** *"The doctrine of human **perfectibility** teaches that ignorance and vice will gradually yield before the triumphant spread of reason."*
+> - 📜 **Jean-Jacques Rousseau (*Discourse on Inequality*):** *"This distinct faculty of self-improvement, this boundless **perfectibility**, distinguishes man from the beasts."*
+

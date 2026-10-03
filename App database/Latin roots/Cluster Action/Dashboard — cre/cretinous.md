@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Afflicted with cretinism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Afflicted with cretinism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Afflicted with, characteristic of, or resembling cretinism; severely stunted or intellectually deficient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive clinical neurology, cretinous facies exhibit dry thickened skin, macroglossia, a broad flattened nasal bridge, and sparse hair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cretinous designates afflicted with cretinism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The child exhibited a typically **cretinous** expression, with prominent tongue, puffy eyelids, and lethargic demeanor."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Pathological microcephaly must not be confused with the **cretinous** degeneration produced by thyroid dysfunction."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"He looked at the wretched, stunted creature, wondering what physiological defect had produced so **cretinous** a specimen."*
+

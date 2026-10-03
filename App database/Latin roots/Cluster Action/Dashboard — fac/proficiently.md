@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a proficient manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a proficient manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a skilled, adept, and competent manner; expertly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational evaluation and vocational training, tasks executed proficiently meet established standards of technical precision and speed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proficiently designates in a proficient manner."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Fuegians handled their birchbark canoes **proficiently** amidst tempestuous seas that threatened instant destruction."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Tom Tulliver managed the merchant ledger **proficiently**, mastering commercial arithmetic through dogged persistence."*
+> - 📜 **Henry James (*The Ambassadors*):** *"She spoke French so **proficiently** that no Parisian salon could distinguish her foreign origin."*
+

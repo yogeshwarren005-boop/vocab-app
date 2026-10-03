@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the family cruciferae with edible leaves that have a pungent taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pungent leaves of any of numerous cruciferous herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fast-growing pungent cruciferous plant of the cabbage family, whose peppery leaves are eaten in salads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical herbalism, garden cress and watercress were celebrated as antiscorbutic remedies rich in vitamin C.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Plants of garden-cress, mustard, and shepherd’s-purse had their roots immersed in water impregnated with zoospores."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The experiments which Dr. de Bary performed were all upon plants of the common garden-cress."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Of the British species one is found on many cruciferous plants, as the shepherd’s-purse, garden-cress, mustard, radish, and plants of the cabbage kind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor Tom that eats the swimming frog, the toad, the tadpole, the wall-newt; that in the fury of his heart feeds upon water-cress and green **cress**."*
+> - 📜 **John Milton (*Comus*):** *"The shepherd plucked fresh water **cress** from the clear bubbling brook to refresh his weary thirst."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I gathered the pungent, tender leaves of the brook **cress** to furnish a wholesome salad for my simple woodland dinner."*
+

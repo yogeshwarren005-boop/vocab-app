@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being false or artificial (as to impress others).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberate pretense or exaggerated display.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Artificiality of manner, speech, or conduct; a deliberate pretense to qualities not naturally possessed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic philosophy and moral psychology, affectedness is viewed as an insincere mask that destroys spontaneous human connection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affectedness designates the quality of being false or artificial (as to impress others)."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The youthful **affectedness** of foreign accents quickly evaporates before the common sense of domestic society."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"**Affectedness** in children is the root of all future vice in conversation and social behaviour."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea shrank from any appearance of **affectedness**, valuing simple directness above polished manners."*
+

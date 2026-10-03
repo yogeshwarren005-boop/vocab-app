@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A green transparent form of beryl; highly valued as a gemstone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transparent piece of emerald that has been cut and polished and is valued as a precious gem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright green precious gemstone consisting of the mineral beryl colored by trace amounts of chromium and vanadium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and gemology, emerald crystallizes in the hexagonal system and characteristically displays microscopic liquid and mineral inclusions known as the jardin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was green as an emerald, and the reverberation was stunning."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"His wishes were fulfilled, for one of the damsels conceived and after nine months gave birth to an emerald."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She was opening some ring-boxes, which disclosed a fine emerald with diamonds, and just then the sun passing beyond a cloud sent a bright gleam over the table."*
+> - 📜 **William Shakespeare (*A Lover's Complaint*):** *"The diamond, why, 'twas beautiful and hard; the deep-green **emerald**, in whose fresh regard weak sights their sickly radiance do amend."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The sea flashed like a molten **emerald** beneath the golden rays of the Venetian sunset."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He loved to hold in his palm a deep green **emerald** carved with antique mythological emblems."*
+

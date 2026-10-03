@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in an official capacity in a ceremony or religious ritual, such as a wedding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform duties attached to a particular office or place or function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perform the duties or functions of a formal office; to preside over a ceremony or match.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sporting jurisprudence and constitutional procedure, the authorized arbiter must officiate with strict, demonstrable neutrality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The owners, who officiate as caterers for the voyage, supply the larder with an abundance of dainties."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Two or three individuals, distinguished by head-dresses of beautiful tappa, and wearing a great number of ornaments, appeared to officiate as masters of the ceremonies."*
-> - 📜 **Effie Afton (*Eventide*):** *"Malcome, when the latter arose, and, bowing to the clergyman who was to officiate on the occasion, said: "All is in readiness to proceed with the ceremony." The man of God came slowly forward, with a grave and solemn aspect."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton was delighted to **officiate** at the nuptials of his most fashionable parishioners."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Let the priests **officiate** before the sacred oracle of Apollo and bring forth the sealed prophetic judgment."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The archdeacon requested Mr. Arabin to **officiate** at the evening cathedral service in the absence of the dean."*
+

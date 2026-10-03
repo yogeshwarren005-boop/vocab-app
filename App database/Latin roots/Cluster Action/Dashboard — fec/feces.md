@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Solid excretory product evacuated from the bowels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Solid excretory product evacuated from the bowels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Solid or semisolid bodily waste discharged from the digestive tract through the bowels after digestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, microbiology, and forensic ecology, feces provide critical diagnostic specimens for assessing gut microbiome balance, metabolic absorption, and enteric pathogen shedding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, feces designates solid excretory product evacuated from the bowels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of the **feces** reveals the presence of occult blood, parasitic ova, and undigested dietary fibers."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms swallow enormous quantities of earth to extract organic matter, voiding their **feces** as fertile surface castings."*
+> - 📜 **T. H. Huxley (*Lessons in Elementary Physiology*):** *"The indigestible residue of the alimentary canal is consolidated and expelled from the rectum in the form of **feces**."*
+

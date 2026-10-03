@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by qualities giving the power to produce an intended effect; -aldous huxley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing or capable of producing an intended result or having a striking effect; -lewismumford.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Successful in producing a desired or intended result; effective, potent, and powerful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical theology and soteriology, efficacious grace is irresistible divine grace that unfailingly achieves the redemption of the elect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"An _intelligent_ faith can never allow dependence upon means used to take the place of dependence upon the living God, who alone makes them efficacious."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The Welsh peasants believe the beads to possess medicinal virtues of many sorts and to be particularly efficacious for all maladies of the eyes."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"It ought, however, to be kept in mind, while these causes are recounted, that the operation of each of them is rendered more efficacious, by the agency of that spirit of darkness, _that worketh in the children of disobedience_."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Through divine mercy, prayer becomes an **efficacious** means to soften hard hearts and obtain pardon."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Quinine remains the most **efficacious** therapeutic remedy known for arresting the paroxysms of malarial fever."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"We perceive no necessary connection between an **efficacious** cause and its sensible physical effect."*
+

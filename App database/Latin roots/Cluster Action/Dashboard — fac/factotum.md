@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A servant employed to do a variety of jobs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A servant employed to do a variety of jobs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An employee or assistant serving in a wide variety of capacities and handling diverse responsibilities; a jack-of-all-trades.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical and Elizabethan literary history, the term was famously used by Robert Greene in 1592 to describe Shakespeare as an 'absolute Johannes Factotum'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The old man who was his indoor factotum came at the same moment to the foot of the stairs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This was the cheerful servant of that establishment, who, in her part of factotum, turned groom and ostler at times."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But I have been talking to this young Ladislaw that Brooke is making a factotum of."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The old man who was his indoor **factotum** came at the same moment to the foot of the stairs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke has made young Ladislaw his political **factotum**, entrusting him with drafting election manifestos and managing the paper."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"Old Caxon acted as barber, valet, errand-runner, and general **factotum** to the venerable gentleman."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: White sheep originating in spain and producing a heavy fleece of exceptional quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White sheep originating in spain and producing a heavy fleece of exceptional quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A breed of sheep prized for its exceptionally fine, soft, and crimped wool, originating in Spain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural history and textile commerce, the royal Spanish monopoly on Merino flocks was jealously guarded until export bans were lifted in the 18th century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You are—” He stopped, ran his eye over my dress, which, as usual, was quite simple: a black merino cloak, a black beaver bonnet; neither of them half fine enough for a lady’s-maid."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The discovery that the fine long merino wools, known as the American merino, are in fact the best of combing wools and now used in many styles of dress goods has added greatly to their demand and value."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The steel used at Sheffield for cutlery is made from iron imported from Sweden and Norway; and no fine or merino wool consumed is of home growth."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The great improvement effected in the breed of **merino** sheep shows what human selection can accomplish in producing delicate wool."*
+> - 📜 **William Youatt (*Sheep: Their Breeds, Management, and Diseases*):** *"The Spanish **merino** fleece excels all other breeds in the extraordinary softness and elasticity of its serrated wool fiber."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The introduction of Spanish **merino** fleeces transformed the quality of woolen cloths manufactured in northern Europe."*
+

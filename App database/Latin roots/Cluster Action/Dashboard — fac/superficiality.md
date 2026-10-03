@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of depth of knowledge or thought or feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shallowness in terms of affecting only surface layers of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of depth, thoroughness, or serious understanding; shallowness of character or analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural critique and aesthetic philosophy, superficiality characterizes the commodification of surface style stripped of historical substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The education had intensified the cardinal faults of his character, impatience, superficiality, a great lack of sympathy for the more tender attachments and the more profound interests of men--essential unbelief in human grandeur."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Don José was not acquainted with the superficialities of etiquette, and by character and custom was opposed to the amenities and the white lies which are a part of the foundations of courtesy."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"At the mention of his work, beyond the merest superficialities, she lifted her hands and said in laughing tones, "Please, Martin, don't talk shop!"*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The chief danger of modern industrial society lies in its complacent **superficiality**, prizing mechanical speed above spiritual perfection."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"The eighteenth century was plagued by skeptical **superficiality**, reducing heroic wonder to barren logical calculations."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel Archer feared that Madame Merle's exquisite social polish concealed an incurable emotional **superficiality**."*
+

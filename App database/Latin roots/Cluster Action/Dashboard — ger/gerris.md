@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the gerrididae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the gerrididae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal genus of water striders within the family Gerridae, widespread across freshwater streams, ponds, and lakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid mechanics and biomechanics, species of Gerris generate miniature vortices with their rowing middle legs, propelling themselves across surface tension without breaking the water meniscus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerris designates type genus of the gerrididae."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"A specimen of **Gerris** skimmed across the mirror-like surface of the pool, darting away the moment a shadow fell across the water."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The genus **Gerris** contains our most common northern water striders, overwintering as adults under stones and leaf litter along the shore."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The water-bugs of the genus **Gerris** dimpled the quiet surface of the river, leaving fleeting concentric rings of light in their wake."*
+

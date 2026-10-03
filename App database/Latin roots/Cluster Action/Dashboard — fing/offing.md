@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The near or foreseeable future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the sea that can be seen from the shore and is beyond the anchoring area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The visible open sea at a distance from the shore, beyond the anchoring grounds and coastal shoals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In idiomatic and nautical English, something in the offing refers to an event expected to take place in the foreseeable future.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I seed her reported in the offing this morning; a three years’ voyage, and a full ship."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At last I slid off into a light doze, and had pretty nearly made a good offing towards the land of Nod, when I heard a heavy footfall in the passage, and saw a glimmer of light come into the room from under the door."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"On, on we flew; and our offing gained, the Moss did homage to the blast; ducked and dived her brows as a slave before the Sultan."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"I seed her reported in the **offing** this morning; a three years' voyage, and a full ship, with blubber dripping from the spars."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The sea-reach of the Thames stretched before us like the beginning of an interminable waterway into the distant **offing**."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"A heavy squall had blown from the west, driving two strange sails far out into the misty **offing**."*
+

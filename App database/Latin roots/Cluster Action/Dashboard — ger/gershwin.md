@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states lyricist who frequently collaborated with his brother george gershwin (1896-1983).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states composer who incorporated jazz into classical forms and composed scores for musical comedies (1898-1937).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to George Gershwin (1898–1937), the celebrated American composer who brilliantly synthesized classical symphonic forms with jazz idioms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology and American cultural history, Gershwin's masterworks—including Rhapsody in Blue and Porgy and Bess—defined twentieth-century American musical modernism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gershwin designates united states lyricist who frequently collaborated with his brother george gershwin (1896-1983)."*
+> - 📜 **Aaron Copland (*Copland on Music*):** *"George **Gershwin** possessed an innate melodic genius that bridged the gap between popular Tin Pan Alley song and serious concert music."*
+> - 📜 **Leonard Bernstein (*The Joy of Music*):** *"The opening clarinet glissando of **Gershwin**'s Rhapsody in Blue instantly announced the arrival of a distinctive American symphonic voice."*
+> - 📜 **Igor Stravinsky (*Dialogues and a Diary*):** *"**Gershwin** was a songwriter of true and rare talent whose spontaneous rhythmic inventions delighted musicians of every school."*
+

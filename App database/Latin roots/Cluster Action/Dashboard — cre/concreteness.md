@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being concrete (not abstract).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being concrete (not abstract).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Material reality, tangible substance, and definite physical form rather than abstract existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and rhetoric, concreteness refers to vivid sensory detail that evokes immediate imaginative perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concreteness designates the quality of being concrete (not abstract)."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The highest philosophy attains the vivid **concreteness** of daily life when expressed in simple Saxon speech."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"Art rescues human ideals from pale abstraction, giving them sensory **concreteness** in marble and bronze."*
+> - 📜 **William James (*A Pluralistic Universe*):** *"The radical empiricist insists upon the rich **concreteness** of immediate perceptual experience against intellectualist reductions."*
+

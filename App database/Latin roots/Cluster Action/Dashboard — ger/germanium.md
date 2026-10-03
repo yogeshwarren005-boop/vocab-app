@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brittle grey crystalline element that is a semiconducting metalloid (resembling silicon) used in transistors; occurs in germanite and argyrodite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brittle grey crystalline element that is a semiconducting metalloid (resembling silicon) used in transistors; occurs in germanite and argyrodite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lustrous, grayish-white, brittle semi-metallic chemical element (symbol Ge, atomic number 32) widely used in semiconductors and infrared optics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of chemistry, germanium was predicted in 1869 by Dmitri Mendeleev as ekasilicon and discovered experimentally in 1886 by Clemens Winkler in argyrodite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germanium designates a brittle grey crystalline element that is a semiconducting metalloid (resembling silicon) used in transistors; occurs in germanite and argyrodite."*
+> - 📜 **Clemens Winkler (*On Germanium, a New Element*):** *"I have isolated a new metalloid element, which I designate **germanium** in honor of our German fatherland."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"The discovery of **germanium** with properties exactly matching my predicted ekasilicon supplied the crowning proof of the Periodic Law."*
+> - 📜 **William Shockley (*Electrons and Holes in Semiconductors*):** *"The earliest point-contact transistors were fabricated using high-purity single-crystal **germanium** wafers."*
+

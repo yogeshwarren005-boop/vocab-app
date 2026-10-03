@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the inherent cognitive or perceptual powers of the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of teachers and administrators at a school.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherent mental or physical power; an aptitude, or the teaching staff of an educational institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic philosophy and cognitive psychology, an intellectual faculty designates a distinct native capacity such as memory, imagination, or moral judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Having a faculty, matured on the tops of baggage-waggons and in other such positions, of resting easily anywhere, she perches on a rough bench, unties her bonnet-strings, pushes back her bonnet, crosses her arms, and looks perfectly comfortable."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, as was shown by what followed, she was oddly exercising the faculty of invention upon the speciality of the clever Jacquet Droz, the designer of automatic substitutes for human limbs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The faculty of contrivance was worn out."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The understanding, like the eye, whilst it informs and bears witness to all other things, takes no notice of itself; and it requires art and pains to set it at a distance and make it its own object. But whatever be the difficulties that lie in the way of this inquiry, whatever it be that keeps us so much in the dark to ourselves, sure I am that all the light we can let in upon our minds, all the acquaintance we can make with our own understandings, will not only be very pleasant, but bring great advantage in directing our thoughts in the search of other things. This was that which gave the first rise to this Essay concerning the understanding. For I thought that the first step towards satisfying several inquiries the mind of man was very apt to run into, was, to take a view of our own understandings, examine our own powers, and see to what things our **faculty** was adapted."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"What a piece of work is a man! how noble in reason! how infinite in **faculty**! in form and moving how express and admirable! in action how like an angel! in apprehension how like a god!"*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Human beings have faculties more elevated than the animal appetites, and when once made conscious of them, do not regard anything as happiness which does not include their gratification, the higher intellectual **faculty** claiming preeminence."*
+

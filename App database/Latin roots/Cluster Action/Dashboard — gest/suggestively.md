@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a suggestive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a suggestive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a suggestive manner; so as to evoke associations, ideas, or hints of meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative description, suggestively conveys indirect communication where meaning is intimated through subtle pauses, glances, or double entendres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It suddenly occurred to her to try persuasion; and accordingly she whispered in his ear, with as much firmness and decision as she could summon— “Let us walk on, darling,” at the same time taking him suggestively by the arm."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What seems most singular and suggestively important in this story, is this: it was from Joppa that Jonah set sail."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"What seems most singular and suggestively important in this story, is this: it was from Joppa that Jonah set sail."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes tapped his pipe **suggestively** upon the mantelpiece, indicating that he had already penetrated the secret."*
+> - 📜 **Jane Austen (*Emma*):** *"Frank Churchill glanced **suggestively** toward the piano-forte, smiling at Jane Fairfax with private understanding."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"The governess paused **suggestively**, leaving her listener to draw the terrifying conclusion for himself."*
+

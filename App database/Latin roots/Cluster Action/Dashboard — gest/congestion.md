@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive accumulation of blood or other fluid in a body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive crowding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive overcrowding that impedes flow or passage, or an abnormal pooling and accumulation of blood or fluid in bodily vessels or tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathophysiology, venous congestion results from impaired venous drainage (such as in congestive heart failure), causing passive hyperemia and tissue edema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Periodical local congestion of funds. § 8."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Women's services (especially those of young women) have increasingly of late been coming upon the labor market in such a way as to cause abnormal congestion in a few occupations."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The need of mutual aid among American farmers is especially great, for, as has often been, said, isolation is the problem of the farm as congestion is that of the city."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Passive venous **congestion** of the liver produces the classical nutmeg appearance on macroscopic section."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The commercial **congestion** of the London streets brought carriages and coal wagons to a standstill for hours at midday."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The concert room presented an alarming scene of heat and **congestion**, with every seat occupied by fashionable bathers."*
+

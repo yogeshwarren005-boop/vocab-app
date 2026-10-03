@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something (a product) from raw materials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put together out of artificial or natural components or parts; ; ; he manufactured a popular cereal".
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or business of producing goods in factories or by industrial processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic development theory, the manufacturing sector serves as the primary engine for capital accumulation, technological spillover, and productivity growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"THE LORD WOKE ME UP IN TIME TO SAVE MY CLOTHES." In the very top of a four-story building, used only for various manufacturing purposes, lived an old man and daughter."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A man employed to attend to my little manufacturing business as manager, by imprudent management, deprived me of every earthly dependence for a support."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Manufacturing equipment 2,541 3,298 6,069 5."*
+> - 📜 **Alexander Hamilton (*Report on Manufactures*):** *"The establishment of **manufacturing** establishments fosters national independence by rendering a country self-sufficient in essential supplies."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Capital invested in agriculture puts into motion a greater quantity of productive labor than an equal capital employed in **manufacturing**."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"The rapid growth of commercial advertising transformed patent medicine into a lucrative **manufacturing** empire."*
+

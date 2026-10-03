@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a margin with small rounded teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a margin with small rounded teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Finely scalloped, crimped, or notched with small rounded teeth along the margin or edge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology, the crenulated hinge plates of fossil brachiopods and bivalves ensured precise shell articulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crenulated designates having a margin with small rounded teeth."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The fossil oyster valve was marked by a strongly **crenulated** hinge line preserving its original calcite microstructure."*
+> - 📜 **Joseph Dalton Hooker (*The Student's Flora of the British Islands*):** *"The small perennial herb displays **crenulated** foliage that hugs the gravelly mountain ledges."*
+> - 📜 **Thomas Say (*American Conchology*):** *"The outer margin of the shell is beautifully **crenulated**, matching the internal ribbing of the valves."*
+

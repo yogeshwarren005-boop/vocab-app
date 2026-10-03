@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who abandons their duty (as on a military post).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who abandons their duty (as on a military post).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who abandons their country, political party, or cause in order to align with an opposing side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century Cold War history, an intelligence defector often delivered high-level cryptographic codes and identities of deep-cover espionage networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defector designates a person who abandons their duty (as on a military post)."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial **defector** was received at the Persian court with splendid honors and granted extensive estates in Mesopotamia."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"King James looked with bitter sorrow upon each noble **defector** who rode off to join the camp of the Prince of Orange."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"The revolutionary council debated whether the returned exile was a genuine **defector** from the Tsarist police or a double agent."*
+

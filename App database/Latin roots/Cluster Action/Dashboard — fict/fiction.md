@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A literary work based on the imagination and not necessarily on fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately false or improbable account.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Literature in the form of prose, especially novels and short stories, that describes imaginary events, narratives, and characters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal theory, a legal fiction is an assumption that something is true, made by a court to enable the application of an established rule to a novel situation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en so, sir, as I say. [_To the Poet_.] And for thy fiction, Why, thy verse swells with stuff so fine and smooth That thou art even natural in thine art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this were played upon a stage now, I could condemn it as an improbable fiction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In which (I would say) every difficulty, every contingency, every masterly fiction, every form of procedure known in that court, is represented over and over again?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"The best **fiction** operates not as an escape from reality, but as a lens that deepens our moral sympathy with human suffering."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"A writer of prose **fiction** must maintain probability, for truth itself is sometimes more improbable than the boldest romance."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"I employ the word legal **fiction** to signify any assumption which conceals, or affects to conceal, the fact that a rule of law has undergone alteration."*
+

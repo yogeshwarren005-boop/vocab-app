@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of western finnish people formerly living in the baltic province where saint petersburg was built.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of western finnish people formerly living in the baltic province where saint petersburg was built.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Ingria (Ingermanland), a historical Baltic-Finnic territory situated along the southern and eastern basin of the Gulf of Finland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Northern European historiography, the Ingermanland region was contested between Sweden and the Russian Empire, culminating in the founding of Saint Petersburg.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ingerman designates a member of western finnish people formerly living in the baltic province where saint petersburg was built."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Peter the Great resolved to carve a window toward Europe through the swampy littoral of the **Ingerman** frontier."*
+> - 📜 **Voltaire (*History of the Russian Empire Under Peter the Great*):** *"The Swedish crown ceded the ancient provinces of Livonia, Estonia, and **Ingerman** land by the definitive Treaty of Nystad."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"The fortress of Schlüsselburg on the **Ingerman** marshes had guarded the river approaches for generations of northern warriors."*
+

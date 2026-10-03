@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The imputation of blame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The imputation of blame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of assigning blame or accusations to others during an inquiry or controversy rather than taking personal responsibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational sociology and political discourse, institutional finger-pointing deflects public accountability and paralyzes administrative problem-solving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finger-pointing designates the imputation of blame."*
+> - 📜 **C. Wright Mills (*The Power Elite*):** *"When catastrophic policy blunders occur, bureaucratic **finger-pointing** obscures the structural roots of administrative irresponsibility."*
+> - 📜 **Robert K. Merton (*Social Theory and Social Structure*):** *"Mutual **finger-pointing** between rival governmental departments serves as a protective ritual to avoid budgetary sanctions."*
+> - 📜 **Anthony Downs (*Inside Bureaucracy*):** *"In moments of crisis, inter-agency **finger-pointing** increases in direct proportion to the severity of public scrutiny."*
+

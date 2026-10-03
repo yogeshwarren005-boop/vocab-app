@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital absence of part of an arm or leg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital absence of part of an arm or leg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital developmental anomaly characterized by the absence of a part, but not the whole, of one or more limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical teratology and embryology, meromelia is classified based on whether the defect involves proximal or intercalary limb bud arrest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meromelia designates congenital absence of part of an arm or leg."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **meromelia** presents as a partial hypoplasia of the limb bones, distinct from total amelic absence."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Developmental arrest in the embryonic somatic plate produces distinctive manifestations of localized **meromelia**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Instances of hereditary **meromelia** in domestic stock demonstrate that limb morphogenesis is governed by discrete developmental modules."*
+

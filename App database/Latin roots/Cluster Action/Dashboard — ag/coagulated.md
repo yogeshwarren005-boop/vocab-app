@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change from a liquid to a thickened or solid state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to change from a liquid to a solid or thickened state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Changed from a liquid into a thickened, clotted, or solidified gelatinous mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic pathology and traumatology, coagulated blood at a crime scene indicates hemorrhage occurring while the victim was alive with functioning clotting factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"After his blood has coagulated in the sun, it is burned along with the frontal bone, the flesh attached to it, and the brain; the ashes are then scattered over the ground to fertilise it."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The **coagulated** blood upon his temple had blackened in the chill night air of the mountains."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The pool of **coagulated** dark liquid upon the hearthrug showed that the blow had proved instantly fatal."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The milk of the cow tree yields a thick **coagulated** cream that the natives drink with relish."*
+

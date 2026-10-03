@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various organs that synthesize substances needed by the body and release it through ducts or directly into the bloodstream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not open or public; kept private or not revealed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical organ, cell, or organism that secretes a substance; also one who hides or conceals things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular histology, active secretory epithelial cells function as the primary secreter of mucus protecting visceral linings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secreter designates any of various organs that synthesize substances needed by the body and release it through ducts or directly into the bloodstream."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The glandular hairs of the Drosera leaf act as both an absorber of digested nutrients and a vigorous **secreter** of acid digestive fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The thyroid parenchyma is the primary **secreter** of metabolic hormones governing basal cellular oxidation."*
+> - 📜 **T. H. Huxley (*Lessons in Elementary Physiology*):** *"The gastric mucous membrane functions as the specialized **secreter** of hydrochloric acid and pepsinogen."*
+

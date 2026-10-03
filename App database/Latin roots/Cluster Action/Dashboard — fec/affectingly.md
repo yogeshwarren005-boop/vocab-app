@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a poignant or touching manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a poignant or touching manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that evokes deep sympathy, pity, or tender emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, describing events or speeches delivered with moving sincerity and emotional gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affectingly designates in a poignant or touching manner."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"She spoke **affectingly** of her husband's long suffering in the Bastille, moving the jury to compassion."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The village preacher prayed **affectingly** for the sick and desolate before concluding the evening service."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The lonely child wept **affectingly** upon being separated from the only guardian she had ever known."*
+

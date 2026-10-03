@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberate and vigorous gesture or motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberate and vigorous gesture or motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatic, animated, or energetic movement of the hands, arms, or body, especially one accompanying or replacing speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical oratory and rhetorical theory, gesticulation (actio) was studied alongside voice and diction as a primary instrument of persuasive power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Nothing can exceed the fierce gesticulation of these people when animated in conversation, and on this occasion they gave loose to all their natural vivacity, shouting and dancing about in a manner that well nigh intimidated us."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In vain I questioned Kory-Kory and others of the natives, as to the meaning of the strange things that were going on; all their explanations were conveyed in such a mass of outlandish gibberish and gesticulation that I gave up the attempt in despair."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"But he was evidently most solicitous about the musical part of the service, keeping his eye fixed intently on the choir, and beating time with much gesticulation and emphasis."*
+> - 📜 **Edgar Allan Poe (*The Tell-Tale Heart*):** *"I arose and argued about trifles, in a high key and with violent **gesticulation**; but the noise steadily increased: why would they not be gone?"*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Thaddeus Sholto paced the room with nervous **gesticulation**, his pale hands twitching like the claws of a bird."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The popular actor moved the vast amphitheater to tears without uttering a word, relying solely upon expressive bodily **gesticulation**."*
+

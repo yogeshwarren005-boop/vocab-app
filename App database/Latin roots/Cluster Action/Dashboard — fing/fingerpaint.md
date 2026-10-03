@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paint that has the consistency of jelly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paint that has the consistency of jelly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick, non-toxic, jelly-like paint formulated to be spread smoothly across paper directly with the fingers and palms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational therapy and early childhood development, fingerpaint provides tactile sensory stimulation that encourages motor planning and spatial exploration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerpaint designates paint that has the consistency of jelly."*
+> - 📜 **Ruth Faison Shaw (*Finger Painting: A Method of Self-Expression*):** *"The smooth, cool texture of moist **fingerpaint** invites the child to create without the anxiety of mastering a brush."*
+> - 📜 **Viktor Lowenfeld (*Creative and Mental Growth*):** *"A jar of bright **fingerpaint** allows the child to translate immediate kinetic impulses directly into luminous swirls of color."*
+> - 📜 **Margaret Naumburg (*Dynamically Oriented Art Therapy*):** *"Using water-based **fingerpaint**, the patient expressed deeply repressed conflicts through bold, untamed smears across the paper."*
+

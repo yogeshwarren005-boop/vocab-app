@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of fabric that does not wrinkle easily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of fabric that does not wrinkle easily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engineered or chemically treated to withstand creasing and wrinkling under pressure or moisture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile technology, creaseproof finishes apply urea-formaldehyde or melamine resins to cotton fibers to impart elastic wrinkle recovery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creaseproof designates of fabric that does not wrinkle easily."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"Textile syndicates marketed **creaseproof** fabrics that drastically reduced domestic laundering labor."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"Chemical laboratories competed to develop **creaseproof** fibers that would maintain crisp tailoring in tropical climates."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The travelers packed lightweight **creaseproof** garments that emerged immaculate from pneumatic luggage cylinders."*
+

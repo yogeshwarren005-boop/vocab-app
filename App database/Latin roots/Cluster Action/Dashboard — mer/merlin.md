@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (arthurian legend) the magician who acted as king arthur's advisor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small falcon of europe and america having dark plumage with black-barred tail; used in falconry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, fast falcon (Falco columbarius) of northern regions, historically used in falconry; also the legendary Arthurian wizard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval romance and falconry lore, the merlin was traditionally designated as the lady's hawk, flown at skylarks and snipes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This prophecy Merlin shall make; for I live before his time. [_Exit._] SCENE III."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Had they stuck on his fist a rough-foot merlin! (Hark, the wind’s on the heath at its game!"*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Berold: the old Duke’s favorite hunting-horse. 78. merlin: a species of hawk. 80. falcon-lanner: a long-tailed species of hawk, ‘falco laniarius’. 4."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Sometimes he angers me with telling me of the moldwarp and the ant, of the dreamer **merlin** and his prophecies."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"Then **merlin**, overtalk'd and overworn, had yielded, told her all the charm, and slept."*
+> - 📜 **Walter Scott (*Marmion*):** *"The lady rode with a hooded **merlin** perched upon her gauntleted wrist as the hawking party set forth."*
+

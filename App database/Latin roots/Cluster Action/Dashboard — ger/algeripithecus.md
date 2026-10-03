@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of hominoidea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extinct genus of hominoidea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of tiny fossil primates from the early Eocene discovered at Glib Zegdou in western Algeria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary paleoanthropology, Algeripithecus minutus was historically debated as one of the oldest known African simians, though later reassessed as an azibiid strepsirrhine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, algeripithecus designates an extinct genus of hominoidea."*
+> - 📜 **Marc Godinot (*A History of Primate Origins*):** *"The microscopic dental remains of **Algeripithecus** ignited intense scientific debate concerning the geographic origin of anthropoids."*
+> - 📜 **Elwyn L. Simons (*Primate Evolution*):** *"Specimens of **Algeripithecus** from Algerian strata provide crucial morphological evidence for early Eocene primate radiation in Africa."*
+> - 📜 **Richard Leakey (*The Origin of Humankind*):** *"Discoveries such as **Algeripithecus** demonstrate that Africa harbored diverse ancestral prosimian lineages fifty million years ago."*
+

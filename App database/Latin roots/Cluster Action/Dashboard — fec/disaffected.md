@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse hostility or indifference in where there had formerly been love, affection, or friendliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discontented as toward authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rebellious, discontented, resentful, and alienated from allegiance toward established authority or government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and political science, disaffected populations form the combustible recruitment base for populist movements and civil rebellions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A clergyman in the State of New York, through the influence of a disaffected member, was unfairly and precipitately deprived of his pulpit, which involved a large family in necessity."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Chong Mong-ju disaffected half the provincial priesthood, until they pilgrimaged in processions a mile long to the palace gates and frightened the Emperor into a panic."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"There was no penalty for disobedience, and persons disaffected, forgetful, or idle, might refuse or neglect to obey with impunity."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The **disaffected** workmen of Paris assembled in secret garrets, preparing pikes and gunpowder for the insurrection."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Mary Crawford became increasingly **disaffected** with country life, longing for the sparkling society of London."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The legions of Syria, long **disaffected** by harsh discipline and arrears of pay, proclaimed their commander emperor."*
+

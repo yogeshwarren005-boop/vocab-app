@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrust or throw into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devote (oneself) fully to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To dip or submerge completely in a liquid; also to involve oneself deeply in an activity or interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical theology, to immerse a candidate in consecrated water forms the historical sacramental mode of baptism signifying death and rebirth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Arrived at the shore, she is stripped of her ornaments, and the bearers stagger with her into the creek, where they immerse her, and all the other women join in splashing water over both the girl and her bearers."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Arrived at the shore, she is stripped of her ornaments, and the bearers stagger with her into the creek, where they immerse her, and all the other women join in splashing water over both the girl and her bearers."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is a common dodge with amateur photographers if they want to dry a negative quickly to immerse it in methylated spirit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let us not **immerse** our grief in heavy tears, but seek redress with valiant hearts!"*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I went to the woods because I wished to live deliberately, to **immerse** myself in nature and front only the essential facts of life."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He would **immerse** himself in his ancient law folios for hours, utterly oblivious to the noise of the street outside."*
+

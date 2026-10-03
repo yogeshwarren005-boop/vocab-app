@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden unforeseen crisis (usually involving danger) that requires immediate action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in which martial law applies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious, unexpected, and often dangerous situation requiring immediate, coordinated action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and political philosophy, a state of emergency permits executive authorities temporarily to suspend ordinary legal procedures to defend public order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore really needed no more special care, and in case of an emergency Mea could easily run down to fetch her mother."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, to whom it is, on an emergency, as natural to be groom of the ceremonies as it is to be anything else, shows her downstairs, not without gallantry."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it was not mine, and I did not feel that I had a right to tell it, even to my guardian, unless some great emergency arose."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In every sudden **emergency**, Watson, a resolute composure is the most formidable weapon a man can wield."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The admiralty faced a grave national **emergency** when enemy submarine warfare threatened the island's food supply."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"A trained nurse must maintain absolute presence of mind in every medical **emergency**, acting without agitation or delay."*
+

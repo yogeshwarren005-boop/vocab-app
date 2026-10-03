@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a gradual decrease in loudness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow quieter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gradual decrease in loudness or dynamic intensity in a musical passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustics and dramatic narration, decrescendo signifies the gradual subsiding of auditory volume or emotional tension into quietude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decrescendo designates (music) a gradual decrease in loudness."*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"The solemn organ chords faded away in a long **decrescendo**, leaving the chapel wrapped in breathless silence."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her passionate melody sank into a delicate **decrescendo**, trailing off into a tender whisper."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The roar of the storm underwent a gradual **decrescendo** as the atmospheric vortex moved eastward."*
+

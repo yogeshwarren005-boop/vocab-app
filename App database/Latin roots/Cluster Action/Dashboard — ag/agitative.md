@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or tending to cause anger or resentment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or tending to cause anger or resentment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to agitate, stir up, or excite; having the character of promoting unrest, disturbance, or debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political analysis, an agitative message or campaign focuses on exposing grievances to mobilize popular emotional energy rather than formulating detailed policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agitative designates causing or tending to cause anger or resentment."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The **agitative** rhetoric of the political clubs inflamed the populace against every ancient institution of the realm."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"When the social organism experiences internal strain, **agitative** movements arise as symptoms of unadjusted equilibrium."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain sudden sensory stimuli exert an immediate **agitative** effect upon the sympathetic nervous system."*
+

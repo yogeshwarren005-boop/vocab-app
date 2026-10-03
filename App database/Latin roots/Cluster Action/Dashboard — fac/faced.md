@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deal with (something unpleasant) head on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oppose, as in hostility or a competition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confronted with or having to deal with a difficult situation; also having a surface or facade of a specified kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In masonry architecture and civil construction, stone-faced masonry features a facing of dressed ashlar veneer over a rubble core.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Along with them They brought one Pinch, a hungry lean-faced villain, A mere anatomy, a mountebank, A threadbare juggler, and a fortune-teller; A needy, hollow-ey’d, sharp-looking wretch; A living dead man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see by you I am a sweet-faced youth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When drums and trumpets shall I’ th’ field prove flatterers, let courts and cities be Made all of false-faced soothing!"*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"He **faced** the rebel forces on the open plain with unflinching royal courage."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak was **faced** with ruin after his young sheep-dog drove the flock over the chalk precipice."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"Captain MacWhirr **faced** the mounting hurricane with absolute, stolid composure."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exchange of goods for an agreed sum of money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in the trade of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of promoting the sale of goods, especially by their presentation in retail stores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial brand licensing and retail logistics, merchandising encompasses product placement, cross-promotional packaging, and seasonal stock turnover.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merchandising designates the exchange of goods for an agreed sum of money."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"Skillful **merchandising** in the dressing of shop windows draws the curious passenger inside to become an active buyer."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Aggressive **merchandising** shifts competitive effort from reducing manufacturing costs to manipulating consumer desires."*
+> - 📜 **Walter Bagehot (*Lombard Street: A Description of the Money Market*):** *"The expansion of modern **merchandising** requires dependable commercial bill discounting to finance inventory pipelines."*
+

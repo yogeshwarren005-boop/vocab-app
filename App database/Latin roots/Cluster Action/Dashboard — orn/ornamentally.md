@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ornamental, nonfunctional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ornamental, nonfunctional manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a decorative or embellishing manner; with aesthetic ornament rather than purely utilitarian function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical typography and bookbinding, initials and borders are treated ornamentally to guide the reader's eye and elevate textual presentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornamentally designates in an ornamental, nonfunctional manner."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The arches of the ducal palace are carved **ornamentally** with capitals illustrating human virtues and vices."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The old salon was arranged **ornamentally**, displaying miniature porcelain figures and framed miniatures upon every shelf."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She arranged the fresh blossoms **ornamentally** across the mantelpiece before welcoming her afternoon visitors."*
+

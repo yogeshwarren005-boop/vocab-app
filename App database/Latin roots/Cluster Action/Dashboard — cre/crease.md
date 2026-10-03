@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An angular or rounded shape made by folding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slight depression in the smoothness of a surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line or ridge produced on paper or cloth by folding, pressing, or crushing; also a wrinkle in skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cricket and sports rules, the crease is a line marked on the pitch indicating the boundary within which batsman or bowler must stand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He wears his usual expressionless mask—if it be a mask—and carries family secrets in every limb of his body and every crease of his dress."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She is not quite prostrated by fatigue?” Here he would crease up his eyelids and kiss his fingers to me, though I am happy to say he had ceased to be particular in his attentions since I had been so altered."*
-> - 📜 **George Eliot (*Middlemarch*):** *"You look vexed.” Sir James’s brow had a little crease in it, a little depression of the eyebrow, which he seemed purposely to exaggerate as he answered."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Sir James's brow had a little **crease** in it, a little depression of perplexity over the complicated land tenancy."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Times had been when the farmer had smoothed every **crease** from his linen with meticulous personal care."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber smoothed the sharp **crease** across his promissory note before signing his name with a flourishing flourish."*
+

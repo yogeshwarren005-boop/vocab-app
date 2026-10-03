@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The human act of creating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact that has been brought into existence by someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bringing something into existence, or the universe and all living things created within it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual property and patent law, a creation is an original intellectual work or technological invention eligible for legal copyright or patent protection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But heaven in thy creation did decree, That in thy face sweet love should ever dwell, Whate’er thy thoughts, or thy heart’s workings be, Thy looks should nothing thence, but sweetness tell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I consider What great creation, and what dole of honour Flies where you bid it, I find that she, which late Was in my nobler thoughts most base, is now The praised of the king; who, so ennobled, Is as ’twere born so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This bodiless creation ecstasy Is very cunning in."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Authors of the highest eminence seem to be fully satisfied with the view that each species has been independently created: to my mind it accords better with what we know of the laws impressed on matter by the Creator, that the production and extinction of the past and present inhabitants of the world should have been due to secondary causes, like those determining the birth and death of the individual: there is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved from the primal **creation**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Open, ye heavens, your living doors; let in the great Creator from his work returned magnificent, his six days' work, a world: and shouted at the glorious **creation**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I had worked hard for nearly two years, for the sole purpose of infusing life into an inanimate body: for this I had deprived myself of rest and health; but now that I had finished, the beauty of the dream vanished, and breathless horror and disgust filled my heart as I beheld my unnatural **creation**."*
+

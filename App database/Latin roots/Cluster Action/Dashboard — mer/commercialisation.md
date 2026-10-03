@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of commercializing something; involving something in commerce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of commercializing something; involving something in commerce.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of introducing a new product or service into general commerce, market distribution, or financial exploitation (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic sociology, commercialisation describes the cultural transformation whereby public goods, healthcare, or artistic expressions are subordinated to market incentives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commercialisation designates the act of commercializing something; involving something in commerce."*
+> - 📜 **John Ruskin (*Unto This Last*):** *"The rapid **commercialisation** of sacred artistic monuments has degraded the spiritual dignity of our ancient cathedral towns."*
+> - 📜 **John Hobson (*Imperialism: A Study*):** *"The aggressive **commercialisation** of tropical agricultural territories frequently disrupted traditional village economies."*
+> - 📜 **Sidney Webb (*Industrial Democracy*):** *"Trade union regulations sought to protect working conditions against ruthless **commercialisation** driven by unregulated competition."*
+

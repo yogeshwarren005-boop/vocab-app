@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of crete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of crete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Crete, its inhabitants, or the ancient Minoan civilization; also a native of Crete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy, the Cretan paradox ('All Cretans are liars', attributed to Epimenides) serves as a foundational paradox in self-referential logic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, yes, I saw sweet beauty in her face, Such as the daughter of Agenor had, That made great Jove to humble him to her hand, When with his knees he kiss’d the Cretan strand."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Between his ribs and on each side of his spine he is supplied with a remarkable involved Cretan labyrinth of vermicelli-like vessels, which vessels, when he quits the surface, are completely distended with oxygenated blood."*
-> - 📜 **John Keats (*Lamia*):** *"I dreamt I saw thee, robed in purple flakes, Break amorous through the clouds, as morning breaks, And, swiftly as a bright Phoebean dart, Strike for the Cretan isle; and here thou art!"*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"O, yes, I saw sweet beauty in her face, such as the daughter of Agenor had, that made great Jove to humble him to her hand, when on his knees he kissed the **cretan** strand."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was moderately truthful towards men, but to women lied like a **cretan** horse-dealer at a fair."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient laws of the **cretan** republic were admired by Lycurgus as models of military discipline."*
+

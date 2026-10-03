@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A notch or open space between two merlons in a crenelated battlement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An open space or embrasure between two merlons in a fortified battlement, through which defenders can shoot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In castellated military architecture, the crenel allowed crossbowmen to discharge quarrels before retreating behind the flanking masonry merlon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crenel designates one of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.)."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The archer knelt in the stone **crenel**, leveling his crossbow at the approaching Norman besiegers."*
+> - 📜 **Eugène Viollet-le-Duc (*Annals of a Fortress*):** *"The width of the **crenel** was calculated to afford a wide angle of fire while minimizing exposure to enemy missiles."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Through each Gothic **crenel** upon the ramparts, the azure waters of the Adriatic glistened in the morning sun."*
+

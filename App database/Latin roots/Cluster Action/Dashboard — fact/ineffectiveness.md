@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the power to be effective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the power to be effective.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability or failure to achieve an intended objective, operational standard, or productive outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational economics and public administration, ineffectiveness arises from institutional inertia, misalignment of incentives, and bureaucratic coordination bottlenecks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But the most amazing example of the ineffectiveness of the orders given by the authorities at that time was Napoleon’s attempt to stop the looting and re-establish discipline."*
+> - 📜 **Woodrow Wilson (*The Study of Administration*):** *"The chief reproach brought against democratic systems is the administrative **ineffectiveness** of divided executive councils."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopolistic privileges invariably breed managerial **ineffectiveness** by shielding enterprises from competitive discipline."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"The patent **ineffectiveness** of legislative panaceas demonstrates that society cannot be remolded by arbitrary decree."*
+

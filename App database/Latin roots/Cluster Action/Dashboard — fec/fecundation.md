@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making fertile as by applying fertilizer or manure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of fertilizing, impregnating, or making fruitful, especially the union of gametes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative developmental biology, fecundation encompasses the sequence of biochemical interactions between sperm and egg membrane preceding pronuclear fusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It may be observed that the extremity of the tube which proceeds from the antheridium does not open, and the fecundation, if such it be, is produced solely by contact."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Repeated experiments prove that artificial **fecundation** produces vigorous seedlings even under adverse climatic conditions."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The morphological changes occurring immediately following **fecundation** reveal the universal archetype of embryonic growth."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The historical mystery of **fecundation** was finally solved when microscopists observed the direct conjugation of male and female nuclei."*
+

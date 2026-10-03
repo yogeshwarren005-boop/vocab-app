@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to artifacts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to artifacts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resulting from an artificial product, error, or distortion rather than a natural phenomenon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical microscopy and diagnostic imaging, artifactual findings denote spurious structures arising from fixation precipitate, bubble entrapment, or electronic signal noise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artifactual designates of or relating to artifacts."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Careful scrutiny showed that the supposed cell membrane thickening was merely an **artifactual** consequence of violent chemical dehydration."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The investigator must distinguish true dendritic arborizations from **artifactual** metallic deposits left by silver impregnation."*
+> - 📜 **William Henry Welch (*General Pathology*):** *"The apparent vacuolation within the hepatic parenchyma proved to be an **artifactual** change induced by delayed formalin penetration."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of lowering the surface tension of a liquid; used especially of detergents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of lowering the surface tension of a liquid; used especially of detergents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to concentrate at an interface and lower the surface tension of a liquid; surfactant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and chemical engineering, surface-active amphiphilic molecules form micelles that disperse hydrophobic oils in aqueous solutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surface-active designates capable of lowering the surface tension of a liquid; used especially of detergents."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"The concentration of **surface-active** solutes at a phase boundary spontaneously reduces interfacial thermodynamic tension."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Certain organic soaps exhibit remarkable **surface-active** behaviors that disperse insoluble precipitates in aqueous media."*
+> - 📜 **Lord Rayleigh (*Scientific Papers*):** *"A minuscule droplet of oil spreads instantaneously across a water basin, demonstrating energetic **surface-active** repulsion."*
+

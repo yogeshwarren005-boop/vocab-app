@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being easy to digest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being easy to digest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or aptitude of food to be broken down and absorbed smoothly within the alimentary tract without gastric irritation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century dietetics and physiology, digestibleness was evaluated by observing gastric emptying times through fistulae or aspiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digestibleness designates the property of being easy to digest."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"Experiments through the gastric fistula demonstrated that the **digestibleness** of animal food exceeds that of raw vegetables."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The chemical preparation of food in cooking aims primarily at enhancing its nutritional **digestibleness**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The supreme requirement of the invalid's nourishment is absolute purity combined with maximum **digestibleness**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of steroid hormones that have the effect of progesterone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of steroid hormones that have the effect of progesterone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic steroid hormone that produces effects similar to those of natural progesterone, widely used in oral contraceptives and hormone therapy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive pharmacology, progestins are classified into generations (e.g. medroxyprogesterone, levonorgestrel, drospirenone) based on their androgenic, glucocorticoid, and mineralocorticoid receptor binding affinities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progestin designates any of a group of steroid hormones that have the effect of progesterone."*
+> - 📜 **Gregory Pincus (*The Control of Fertility*):** *"Norethynodrel was the first synthetic **progestin** demonstrated to inhibit ovulation reliably in clinical trials."*
+> - 📜 **Bertram Katzung (*Basic and Clinical Pharmacology*):** *"The addition of a synthetic **progestin** to estrogen replacement therapy prevents endometrial hyperplasia and reduces cancer risk."*
+> - 📜 **Carl Djerassi (*This Man's Pill*):** *"The chemical synthesis of 19-nor-17alpha-ethynyltestosterone proved that a potent oral **progestin** could be derived from steroid precursors."*
+

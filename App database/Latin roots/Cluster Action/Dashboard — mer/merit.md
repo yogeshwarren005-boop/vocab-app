@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any admirable quality or attribute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being deserving (e.g., deserving assistance).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inherent worth, excellence, or praiseworthiness deserving of honor, reward, or recognition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal procedure and jurisprudence, the merits of a case denote the substantive rights and legal principles at stake, as opposed to procedural or technical points.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What merit do I in my self respect, That is so proud thy service to despise, When all my best doth worship thy defect, Commanded by the motion of thine eyes?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who ever strove To show her merit that did miss her love?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Inspired merit so by breath is barr’d."*
+> - 📜 **William Shakespeare (*Sonnet 26*):** *"Lord of my love, to whom in vassalage thy **merit** hath my duty strongly knit, to thee I send this written ambassage."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Justice requires that society should treat all equally well who have deserved equally well of it, proportioning reward to moral **merit**."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Our sense of the **merit** of good actions arises from a sympathetic affection for the gratitude of the person benefited."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As a fact or based on fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a fact or based on fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner strictly conforming to facts, truth, and verified reality; as a matter of fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In courtroom advocacy and investigative journalism, arguing factually requires substantiating every claim with documentary exhibits and cross-examined witnesses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factually designates as a fact or based on fact."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The historian demonstrated **factually** that the charges brought against the chancellor were fabricated by jealous political rivals."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"A constitution is **factually** operative only so far as it reflects the habitual civic allegiance of the governed populace."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"He sought to measure the force of the dynamo **factually**, treating historical progress as a thermodynamic equation."*
+

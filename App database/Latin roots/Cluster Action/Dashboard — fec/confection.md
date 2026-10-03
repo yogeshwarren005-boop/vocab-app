@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A food rich in sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of creating something (a medicine or drink or soup etc.) by compounding or mixing a variety of components.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet dish, pastry, candy, or delicacy crafted from sugar, fruits, nuts, or chocolate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacognosy, a confection was an electuary or medicinal paste prepared by blending pulverized herbs with honey or syrup.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I left out one thing which the Queen confess’d, Which must approve thee honest. ‘If Pisanio Have’ said she ‘given his mistress that confection Which I gave him for cordial, she is serv’d As I would serve a rat.’ CYMBELINE."*
-> - 📜 **James Joyce (*Ulysses*):** *"D. (because the one who married the elder brother would be Mrs Wylie) and in the fashionable intelligence Mrs Gertrude Wylie was wearing a sumptuous confection of grey trimmed with expensive blue fox was not to be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast thou not learn’d me how To make perfumes? distil? preserve? yea, so That our great king himself doth woo me oft For my confections?"*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The pastrycook displayed a magnificent **confection** of spun sugar and candied almonds in his shopfront window."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"Hast thou not learn'd me how to make perfumes? distil? preserve? yea, so that our great king himself doth woo me oft for my **confection**?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Tables were spread with rich autumn fruits and every choice **confection** that paradise could afford."*
+

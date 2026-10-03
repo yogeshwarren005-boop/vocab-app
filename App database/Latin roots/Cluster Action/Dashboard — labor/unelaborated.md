@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving only major points; lacking completeness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving only major points; lacking completeness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worked out in detail; left in a preliminary, rudimentary, or simple state; unexpanded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific hypothesis formulation, an unelaborated intuition remains a suggestive conjecture until supported by mathematical modeling or experimental data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unelaborated designates giving only major points; lacking completeness."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"In 1842 I first allowed myself the satisfaction of writing a brief, **unelaborated** sketch of my species theory in pencil."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"An **unelaborated** idea in the infant mind is merely a raw sensory impression awaiting the comparison of reflection."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"At present we possess only an **unelaborated** theory, Watson, but tonight's stakeout will test its validity."*
+

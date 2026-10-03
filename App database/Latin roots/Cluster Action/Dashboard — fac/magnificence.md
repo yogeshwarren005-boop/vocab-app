@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Splendid or imposing in size or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being magnificent or splendid or grand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great splendor, grandeur, sumptuous beauty, or lavish nobility of appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian ethics, magnificence (megaloprepeia) is the virtue of spending large sums with noble taste and public distinction, avoiding vulgar display.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We cannot with such magnificence—in so rare—I know not what to say."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The flash was almost too novel for its inexpressibly dangerous nature to be at once realized, and they could only comprehend the magnificence of its beauty."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Another tribute to the magnificence of Oppenheimer’s mind: in the end he became my master at the game—he who had never seen a chessman in his life."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial palace of Diocletian displayed all the barbarous **magnificence** of late Roman architecture, adorned with porphyry and gold."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Pandemonium rose like an exhalation from the fiery deep, towering in ruined **magnificence** against the sullen sky."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"Each following day became the next day's master, till the last made former wonders its: to-day the French, all clinquant, all in gold, like heathen gods, shone down the English; and to-morrow they made Britain India: every man that stood show'd like a mine. Their dwarfish pages were as cherubins, all gilt: the madams too, not used to toil, did almost sweat to bear the pride upon them, that their very labour was to them as a painting: now this masque was cried incomparable; and the ensuing night made it a fool and beggar. The two kings, equal in lustre, were now best, now worst, as presence did present them; him in eye, still him in praise: and, being present both, 'twas said they saw but one; and no discerner durst wag his tongue in censure. When these suns—for so they phrase 'em—by their heralds challenged the noble spirits to the pitch of honour and did perform beyond man's thought, that former fabulous story, being now seen possible enough, got credit, that Bevis was believed. All was royal; to the disposing of it nought rebell'd, order gave each thing view; the office did distinctly his full function, showing the matchless **magnificence** of two great empires."*
+

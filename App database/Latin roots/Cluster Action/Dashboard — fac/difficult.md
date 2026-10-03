@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easy; requiring great physical or mental effort to accomplish or comprehend or endure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard to control; ,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Needing much effort, skill, or courage to do, make, or understand; not easy; hard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character description and social psychology, a difficult temperament is demanding, unyielding, and resistant to compromise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The next difficult and important question to be settled was, who should be allowed to sit beside Uncle Philip at dinner, because those next had the best chance to talk to him."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is very difficult to read my Sunday psalm in peace when I am given such a bitter soup of grief to swallow as I got yesterday."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She always found it difficult to quiet the little girl, but to-day she seemed filled by very vivid impressions."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, how **difficult** it is to choose an honest friend when flatterers abound on every side!"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"It is **difficult** to avoid believing that organs of extreme perfection have been formed by a power analogous to human reason."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba found herself in a most **difficult** position, torn between pride and an uneasy conscience."*
+

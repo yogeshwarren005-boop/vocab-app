@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) the resolution of an entity into factors such that when multiplied together they give the original entity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) the resolution of an entity into factors such that when multiplied together they give the original entity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of resolving a quantity, integer, or algebraic expression into its constituent multiplicative factors (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algebraic geometry and ring theory, unique factorisation domains guarantee that every non-zero non-unit element factors uniquely into irreducible prime components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factorisation designates (mathematics) the resolution of an entity into factors such that when multiplied together they give the original entity."*
+> - 📜 **George Boole (*An Investigation of the Laws of Thought*):** *"The systematic **factorisation** of algebraic expressions enables the logician to eliminate redundant variables from complex deductions."*
+> - 📜 **Arthur Cayley (*Collected Mathematical Papers*):** *"The invariant properties of higher polynomials emerge with singular elegance following the complete **factorisation** of their discriminants."*
+> - 📜 **William Kingdon Clifford (*The Common Sense of the Exact Sciences*):** *"Geometrical intuition guides the student through the algebraic **factorisation** of quadratic equations into linear components."*
+

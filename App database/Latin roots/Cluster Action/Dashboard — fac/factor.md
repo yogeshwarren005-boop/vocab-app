@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything that contributes causally to a result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstract part of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A circumstance, fact, or influence that contributes to a result; also a mercantile agent who buys and sells on commission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, a factor is any integer, polynomial, or algebraic expression that divides another evenly without leaving a remainder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Percy is but my factor, good my lord, To engross up glorious deeds on my behalf, And I will call him to so strict account That he shall render every glory up, Yea, even the slightest worship of his time, Or I will tear the reckoning from his heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Richard yet lives, hell’s black intelligencer, Only reserved their factor to buy souls And send them thither."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But I fear I do not—” The sudden vision of his passion for herself as a factor in this result so distressed her that, beginning with one slow tear, and then following with another, she wept outright."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Percy is but my **factor**, good my lord, to engross up glorious deeds on my behalf."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The sudden vision of his passion for herself as a **factor** in this result so distressed her that she wept outright."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had the ambition of making his life recognized as a **factor** in the better life of mankind."*
+

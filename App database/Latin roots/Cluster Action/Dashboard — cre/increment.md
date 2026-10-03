@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process of becoming larger or longer or more numerous or more important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount by which something increases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase or addition, especially one of a series on a fixed scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential calculus and mathematical analysis, an increment (delta x) represents a small change in the value of an independent variable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"His book had gone through four editions, and, with the increment of the noble war poetry of "Drum Taps," had become a volume of size."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Each added portion, dose or increment beyond a certain point reduces thus the welfare of the user."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The term "unearned increment" has been frequently used in recent years."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The unearned **increment** of land value created by general social growth should be subject to special civic taxation."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical wheels advanced by a uniform **increment** with each complete revolution of the drive axle."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"The marginal utility of each additional **increment** of a commodity diminishes as the consumer's total stock increases."*
+

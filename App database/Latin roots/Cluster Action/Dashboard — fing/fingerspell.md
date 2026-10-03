@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate by means of specific gestures, as an alternative to sign language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate by means of specific gestures, as an alternative to sign language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To represent the letters of a written alphabet manually using a series of defined finger shapes and hand movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics of the Deaf community, to fingerspell functions as an orthographic borrowing mechanism for personal names, foreign loanwords, and technical terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerspell designates communicate by means of specific gestures, as an alternative to sign language."*
+> - 📜 **Helen Keller (*The Story of My Life*):** *"As we walked through the garden, my teacher would **fingerspell** into my hand the names of flowers, trees, and flying birds."*
+> - 📜 **Anne Sullivan (*Letters and Reports on the Education of Helen Keller*):** *"I encouraged the child to **fingerspell** her thoughts as naturally as another child would babble in nursery speech."*
+> - 📜 **Thomas Hopkins Gallaudet (*The American Annals of the Deaf*):** *"To **fingerspell** with clarity requires rhythmic articulation without jerking the forearm or obscuring the palm."*
+

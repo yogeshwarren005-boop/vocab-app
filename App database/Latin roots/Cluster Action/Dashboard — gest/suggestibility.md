@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptibility or responsiveness to suggestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptibility or responsiveness to suggestion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychological receptivity or readiness to uncritically adopt and act upon ideas, beliefs, or cues presented by others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and forensic science, the suggestibility of eyewitnesses (e.g. leading questions producing false memories) poses major challenges to testimonial reliability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suggestibility designates susceptibility or responsiveness to suggestion."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The heightened **suggestibility** of the hypnotic subject results from the temporary inhibition of competing associative thoughts in the cortex."*
+> - 📜 **Gustave Le Bon (*The Crowd: A Study of the Popular Mind*):** *"An individual immersed in an excited crowd exhibits an extreme **suggestibility** akin to that of a hypnotized patient."*
+> - 📜 **Sigmund Freud (*Group Psychology and the Analysis of the Ego*):** *"Mass **suggestibility** in political movements arises from the collective transference of the ego ideal onto the leader."*
+

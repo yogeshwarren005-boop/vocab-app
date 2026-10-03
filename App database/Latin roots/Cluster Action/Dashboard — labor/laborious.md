@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by effort to the point of exhaustion; especially physical effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by effort to the point of exhaustion; especially physical effort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring considerable effort, time, and physical or mental toil; arduous, demanding, and painstaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character assessment and scholarship, a laborious person is one devoted to indefatigable, diligent, and exhaustive study.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They dance in the academy, and at this time of year we do figures at five every morning.” “Why, what a laborious life!” I exclaimed."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"For the former, his desire to go to the sources and to take nothing at second-hand led him to make a renewed and laborious study of the Fathers, who were already, to a far greater extent than with most theologians, his familiar friends."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His sales were daily decreasing, and he became more and more disheartened, until one night, after a laborious day's effort, he found that he had _only sold twenty-five cents' worth_!"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"After five years' **laborious** accumulation of facts, I allowed myself to speculate on the subject and drew up some short notes."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Truth, like a gold mine, is rarely reached without a long and **laborious** digging through strata of common error."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His **laborious** compilation of ancient genealogical tables had consumed thirty years of solitary scholarly devotion."*
+

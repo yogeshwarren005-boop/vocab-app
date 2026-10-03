@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lie at the top of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reach a high point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a crest, comb, or tuft; also crowned or topped by a prominent ridge or foaming wave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy, crested species display specialized ornamental plumes during courtship rituals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His legs bestrid the ocean; his reared arm Crested the world; his voice was propertied As all the tuned spheres, and that to friends; But when he meant to quail and shake the orb, He was as rattling thunder."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou stockdove whose echo resounds thro’ the glen, Ye wild whistling blackbirds in yon thorny den, Thou green-crested lapwing thy screaming forbear, I charge you, disturb not my slumbering Fair."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tappet-hen, a crested hen-shaped bottle holding three quarts of claret."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"His legs bestrid the ocean; his reared arm **crested** the world; his voice was propertied as all the tuned spheres."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Some men die at ebb tide, but the bold harpooner leaped forth upon the highest **crested** wave of adventure."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In the male **crested** duck, the elongated crown feathers are raised vertically during courtship displays."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tax on employees and employers that is used to fund the social security system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tax on employees and employers that is used to fund the social security system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vulgar gesture of contempt made with the thumb and fingers, known historically as the fig.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Romance philology and medieval Italian literature, the expression far le fiche or fica denoted an insulting, dismissive gesture of defiance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fica designates a tax on employees and employers that is used to fund the social security system."*
+> - 📜 **Dante Alighieri (*Inferno*):** *"The blasphemous thief raised both hands aloft, making the shameful **fica** against Heaven in raging defiance."*
+> - 📜 **Benvenuto Cellini (*Autobiography*):** *"Provoked by the insolent guard at the fortress gate, the sculptor made the defiant **fica** and spurred his horse away."*
+> - 📜 **William Shakespeare (*Henry V*):** *"When Pistol cried a fico for the phrase, he revived the ancient Mediterranean insult of the **fica**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any system of principles or beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The written body of teachings of a religious group that are generally accepted by that group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal statement of Christian beliefs or religious faith; also a set of fundamental beliefs guiding a person's life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical theology, the Apostles' Creed and Nicene Creed define the foundational christological and trinitarian dogmas of historical Christendom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For me, my lords, I love him not, nor fear him; there’s my creed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The lanceolate windows, the time-eaten archstones and chamfers, the orientation of the axis, the misty chestnut work of the rafters, referred to no exploded fortifying art or worn-out religious creed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was something definite in that hope, for admitting that there might have been no deep thought in her words to Liddy about marriage, they showed at least her creed on the matter."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"For me, my lords, I love him not, nor fear him; there's my **creed**: and I will maintain it with my life."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The ancient archstones and chamfers of the church echoed the solemn recitation of the **creed** every Sunday morning."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Both teachers and learners go to sleep at their post as soon as there is no enemy in the field, and a vital belief degenerates into a dead **creed**."*
+

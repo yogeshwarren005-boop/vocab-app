@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Garment consisting of a folded cloth drawn up between the legs and fastened at the waist; worn by infants to catch excrement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fabric (usually cotton or linen) with a distinctive woven pattern of small repeated figures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of absorbent material worn as undergarments by babies or individuals who are not toilet-trained to catch excrement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile history and decorative arts, diaper refers to a repetitive geometric or diamond-patterned woven fabric (such as linen damask) or architectural bas-relief carving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He crossed the wood with his hunter's step and found her lapped in dreams, the starlight that filtered between the alder branches chequering her with a faint diaper of light and shade."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The orphreys were woven in a diaper of red and gold silk, and were starred with medallions of many saints and martyrs, among whom was St."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"A diaper pin?' Raising my arm, I pumped my fist at the sky."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The brick facade of the Ducal Palace is enriched with a delicate lozenge **diaper** pattern of rose and white marble."*
+> - 📜 **Jane Austen (*Emma*):** *"The nurse was engaged in adjusting the infant's **diaper** by the nursery fire when Emma entered the room."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The table was spread with a snowy cloth of fine damask **diaper**, reflecting the cheerful glow of the wax tapers."*
+

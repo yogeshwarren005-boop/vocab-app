@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give new life or energy to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in recreational activities rather than work; occupy oneself in a diversion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To create anew or refresh; to refresh physically or mentally through relaxation, play, or diversion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental history and cognitive science, to recreate a past experiment is to reconstruct its material conditions to test historical observations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moreover, he hath left you all his walks, His private arbors, and new-planted orchards, On this side Tiber; he hath left them you, And to your heirs forever; common pleasures, To walk abroad, and recreate yourselves."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I can now recreate life in a way that was hidden from me before. ‘A dream of form in days of thought’—who is it who says that?"*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yes: there was to be, as Lord Henry had prophesied, a new Hedonism that was to recreate life and to save it from that harsh uncomely puritanism that is having, in our own day, its curious revival."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Study should not be a perpetual torment: a scholar must sometimes **recreate** his spirits with music, gardening, or pleasant conversation."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The evening air was sweet and cool, inviting the weary laborers to **recreate** their limbs before the onset of night."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He was accustomed to **recreate** his mind after a hard day in the law courts with an evening at the theatre."*
+

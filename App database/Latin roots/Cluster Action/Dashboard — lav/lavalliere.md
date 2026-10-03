@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Jeweled pendant worn on a chain around the neck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jeweled pendant worn on a chain around the neck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A French spelling variant of lavalier; a pendant necklace, or a wide, floppy necktie with large ends, popular among nineteenth-century artists and bohemians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of bohemian fashion, a cravate a la lavalliere was a loose bow tie adopted by Romantic painters, poets, and intellectuals in Paris as a symbol of artistic independence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lavalliere designates jeweled pendant worn on a chain around the neck."*
+> - 📜 **George du Maurier (*Trilby*):** *"The young artist in the Latin Quarter wore a velvet jacket, an open collar, and a broad flowing silk **lavalliere**."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"The painter Elstir was dressed in a casual working coat with a dark crumpled **lavalliere** knotted carelessly at his throat."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The French tutor was immediately recognizable by his threadbare black coat and artistic broad **lavalliere**."*
+

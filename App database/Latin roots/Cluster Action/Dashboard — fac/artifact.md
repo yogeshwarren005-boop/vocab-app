@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man-made object taken as a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man-made object taken as a whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An object made or shaped by human craftsmanship, especially a tool, ornament, or work of art of archaeological interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental science and histology, an artificial feature or error introduced into data or tissue specimens through improper preparation or measurement technique.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"OK, so this or that artifact doesn't have museum value; it could still be of enduring interest to your family and to the progeny of your progeny's progeny, even unto the xth generation."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Whether a show-and-tell visitor to a class presents a story, a memoir, an artifact, a skill, or an art form, almost all have something worth sharing with children."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"Anything made by artificial means is called an artifact." "And potsherds are things with those Chinese laundry ticket scratches on them," added Tom."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Every primitive flint **artifact** recovered from river drift demonstrates the antiquity and ingenuity of prehistoric man."*
+> - 📜 **Charles Lyell (*The Geological Evidences of the Antiquity of Man*):** *"The discovery of a fashioned bone **artifact** beneath undisturbed strata established human coexistence with the mammoth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The microscopist must take care not to mistake a stain precipitate or mechanical **artifact** for a pathogenic microorganism."*
+

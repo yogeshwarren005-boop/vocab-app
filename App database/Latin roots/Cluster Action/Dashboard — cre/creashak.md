@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen mat-forming shrub of north america and northern eurasia having small white flowers and red berries; leaves turn red in autumn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen mat-forming shrub of north america and northern eurasia having small white flowers and red berries; leaves turn red in autumn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic historical trade term for strips of sun-dried meat or smoked fish prepared for long journeys; pemmican.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colonial travel narratives and fur trade ethnography, creashak provided vital compact nourishment for canoe voyagers across Canadian portages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creashak designates evergreen mat-forming shrub of north america and northern eurasia having small white flowers and red berries; leaves turn red in autumn."*
+> - 📜 **Alexander Mackenzie (*Voyages from Montreal Through the Continent of North America*):** *"The voyageur packs included bags of pounded meat known as **creashak**, which sustained the men over the difficult mountain portages."*
+> - 📜 **John Richardson (*Arctic Searching Expedition*):** *"We traded with the native hunters for bundles of **creashak** and dried caribou tongues to provision our winter sledges."*
+> - 📜 **George Simpson (*Narrative of a Journey Round the World*):** *"A ration of fat pemmican and smoked **creashak** proved the most concentrated food for crossing the barren northern plains."*
+

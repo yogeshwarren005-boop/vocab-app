@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the color of cream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick like cream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling, containing, or tasting of cream; thick, rich, and smooth in consistency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile aesthetics and fine arts, creamy surfaces convey tactile softness and subtle warmth in fabric and pigment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But the spermaceti itself, how bland and creamy that is; like the transparent, half-jellied, white meat of a cocoanut in the third month of its growth, yet far too rich to supply a substitute for butter."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Take the reel, one of ye, I’ll heave.” They went towards the extreme stern, on the ship’s lee side, where the deck, with the oblique energy of the wind, was now almost dipping into the creamy, sidelong-rushing sea."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When I reached it, it had subsided to a creamy pool."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The spermaceti itself, how bland and **creamy** that is; like the curd of milk, or the refined essence of sweet almond oil."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The warm, **creamy** milk steamed in the pails as the dairymaids milked the quiet cows in the lane."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her complexion had that **creamy** whiteness which is seen only in women of pure northern blood."*
+

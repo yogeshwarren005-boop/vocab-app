@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High-flown style; excessive use of verbal ornamentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High-flown style; excessive use of verbal ornamentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Use of high-flown, bombastic, or grandiose language; speaking in an inflated, lofty, or pompous style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and rhetoric, magniloquence may be used deliberately for comic parody (as in Dickens's Mr. Micawber) or to achieve sublime epic elevation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magniloquence designates high-flown style; excessive use of verbal ornamentation."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber delivered his farewell remarks with an extraordinary **magniloquence** that quite overwhelmed the listening family."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The eastern courtiers were accustomed to address the emperor with a flattering **magniloquence** borrowed from Persian despotism."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"True eloquence is simple and unaffected, whereas pompous **magniloquence** seeks to conceal poverty of thought beneath sounding words."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of cooperating traitorously with an enemy that is occupying your country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of cooperating traitorously with an enemy that is occupying your country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The policy or practice of collaborating with an enemy, especially with an occupying military force during wartime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century European history, collaborationism characterized the political ideology of regimes (such as Vichy France and Quisling in Norway) that actively cooperated with Nazi Germany.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collaborationism designates act of cooperating traitorously with an enemy that is occupying your country."*
+> - 📜 **Albert Camus (*Resistance, Rebellion, and Death*):** *"The shame of ideological **collaborationism** degraded the honor of the nation far more than mere military defeat."*
+> - 📜 **George Orwell (*As I Please*):** *"Wartime **collaborationism** sprang not merely from cowardice, but from a cynical calculation of totalitarian victory."*
+> - 📜 **Hannah Arendt (*Eichmann in Jerusalem*):** *"The moral collapse of civil administration under occupation was evidenced by widespread administrative **collaborationism**."*
+

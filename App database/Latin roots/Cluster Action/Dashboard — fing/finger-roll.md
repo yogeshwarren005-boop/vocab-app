@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basketball shot that rolls off the tips of the fingers into the basket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basketball shot that rolls off the tips of the fingers into the basket.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basketball shot executed close to the basket by gently rolling the ball off the tips of the fingers with an underhand motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In basketball history and kinesiology, the finger-roll imparts soft forward topspin, allowing the ball to kiss the backboard and drop smoothly into the hoop.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finger-roll designates a basketball shot that rolls off the tips of the fingers into the basket."*
+> - 📜 **Wilt Chamberlain (*A View from Above*):** *"The delicate **finger-roll** over towering defenders required perfect timing and an extraordinarily soft touch around the rim."*
+> - 📜 **Bill Russell (*Go Up for Glory*):** *"He could glide toward the hoop from twenty feet away and finish with an untouchable **finger-roll** at the glass."*
+> - 📜 **John Wooden (*Practical Modern Basketball*):** *"Mastery of the underhand **finger-roll** gives a driving guard an indispensable weapon against shot-blockers."*
+

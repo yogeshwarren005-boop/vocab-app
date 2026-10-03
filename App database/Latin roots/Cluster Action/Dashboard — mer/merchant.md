@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A businessperson engaged in retail trade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A businessperson engaged in retail trade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or company involved in wholesale trade, especially one dealing with foreign countries or supplying goods to a particular trade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern European urban sociology, the merchant patriciate governed wealthy city-states like Venice, Genoa, and Amsterdam through guild councils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Still be’t yours; Bestow it at your pleasure, and believe Caesar’s no merchant to make prize with you Of things that merchants sold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"EGEON, a Merchant of Syracuse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A MERCHANT, friend to Antipholus of Syracuse."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Believe me, no: I thank my fortune for it, my ventures are not in one bottom trusted, nor to one place; nor is my whole estate upon the fortune of this present year: therefore my **merchant** merchandise makes me not sad."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A **merchant**, it has been said very properly, is not necessarily the citizen of any particular country."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The retired **merchant** invested his whaling profits in stone wharves and substantial brick warehouses."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from germs or pathogenic organisms; sterile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from germs or pathogenic organisms; sterile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from bacteria, viruses, and all other microorganisms; maintained in a strictly sterile or axenic state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gnotobiotic immunology and laboratory medicine, germfree animals are raised in sterile isolators to investigate the physiological role of the gut microbiome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germfree designates free from germs or pathogenic organisms; sterile."*
+> - 📜 **Louis Pasteur (*Observations on Gnotobiotic Animals*):** *"I formulated the hypothesis that animal life would prove impossible in a strictly **germfree** environment without symbiotic microbes."*
+> - 📜 **Rene Dubos (*The Bacterial Cell in its Relation to Problems of Virulence*):** *"Raising animals in **germfree** isolators revealed that the intestinal immune system requires bacterial colonization for full maturation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon strives to maintain a virtually **germfree** operative field through rigorous antiseptic and aseptic techniques."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gay feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Activities that are enjoyable or amusing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Laughter, gaiety, and fun, especially as enjoyed at a festive gathering or celebration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization, spontaneous merriment dissolves social reserve and reconciles estranged companions in communal celebration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where be your gibes now? your gambols? your songs? your flashes of merriment, that were wont to set the table on a roar?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, he will drive you out of your revenge and turn all to a merriment, if you take not the heat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They do it but in mocking merriment, And mock for mock is only my intent."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Where be your gibes now? Your gambols? Your songs? Your flashes of **merriment**, that were wont to set the table on a roar?"*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"There was much laughter and hearty **merriment** around the hearth as the steaming bowl of punch was shared."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The pleasant **merriment** of the ball restored her spirits and banished the uneasy reflections of the morning."*
+

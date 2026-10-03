@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to stir up public opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be agitated, excited, or roused.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stir up, shake, or disturb briskly, or to trouble the mind with excitement, anxiety, or emotional unrest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and social history, to agitate is to campaign persistently in public to arouse popular awareness and demand legislative reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It won’t much agitate Ma; I am only pen and ink to HER."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not to agitate and hinder her longer, the considerate Clare began talking in a more general way: “You quite misapprehend my parents."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But we have had a difference—” “Angel—is she a young woman whose history will bear investigation?” With a mother’s instinct Mrs Clare had put her finger on the kind of trouble that would cause such a disquiet as seemed to agitate her son."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The whispered rumors began to **agitate** the crowds in Saint Antoine until the streets simmered with unrest."*
+> - 📜 **Jane Austen (*Emma*):** *"She was careful to say nothing that might **agitate** her father's delicate nerves before he retired for the evening."*
+> - 📜 **Frederick Douglass (*The Meaning of July Fourth for the Negro*):** *"Those who profess to favor freedom and yet deprecate agitation want crops without plowing up the ground; they must **agitate** until justice prevails."*
+

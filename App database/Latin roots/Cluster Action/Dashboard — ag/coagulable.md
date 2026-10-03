@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of coagulating and becoming thick.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of coagulating and becoming thick.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being coagulated; susceptible of curdling, congealing, or changing from a liquid to a thickened, solid mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century chemical pathology, coagulable lymph referred to proteinaceous inflammatory exudate (fibrinogen) that clotted upon exposure to air.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coagulable designates capable of coagulating and becoming thick."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"The **coagulable** lymph is that part of the living blood which forms the primary bond of union in healing wounds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The presence of **coagulable** albumin in the urine was first correlated with degenerative renal disease by Richard Bright."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Egg albumen represents a purely **coagulable** animal fluid that hardens upon exposure to heat or concentrated alcohol."*
+

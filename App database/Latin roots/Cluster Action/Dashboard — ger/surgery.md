@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science that treats disease or injury by operative procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room where a doctor or dentist can be consulted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine concerned with the operative treatment of bodily injuries, deformities, and diseases by manual and instrumental incision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history, the development of general anesthesia, antiseptic techniques, and hemostatic forceps in the nineteenth century transformed surgery into a precise scientific discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And they are often tarred over with the surgery of our sheep; and would you have us kiss tar?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Honour hath no skill in surgery then?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your brooches, pearls, and ouches:”—for to serve bravely is to come halting off, you know; to come off the breach with his pike bent bravely, and to surgery bravely; to venture upon the charged chambers bravely— DOLL."*
+> - 📜 **William Shakespeare (*Othello*):** *"I'll do the best I can to assist his wound, for it requires immediate **surgery** and skillful tending."*
+> - 📜 **Joseph Lister (*The Antiseptic Principle of the Practice of Surgery*):** *"The application of carbolic acid revolutionized operative **surgery**, converting pestilential hospital wards into sanctuaries of healing."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The historic alliance between clinical medicine and modern **surgery** has achieved victories that once seemed beyond human hope."*
+

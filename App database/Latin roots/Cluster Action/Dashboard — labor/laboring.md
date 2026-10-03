@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strive and make an effort to reach a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work hard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Working hard physically or mentally; engaging in strenuous exertion; pertaining to the working classes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime description, a laboring ship is one tossing and straining heavily in a tempestuous sea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"While laboring with my wife as a missionary in Northern Mexico, we supported ourselves for nearly four years by teaching and such other ways as the Lord opened up to us."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To a gentleman laboring under great nervous depression, whom he had visited, and who was moving along the streets as though he was apprehensive that every step would shake his system in pieces, he was rendered singularly useful."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He has been laboring all his life and looking forward."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The condition of the **laboring** poor is the true barometer of the economic prosperity and moral health of a nation."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **laboring** craft pitched violently into the trough of the sea, every timber groaning under the immense strain."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The great factory chimneys sent forth unending columns of smoke, overshadowing the lives of the **laboring** multitude below."*
+

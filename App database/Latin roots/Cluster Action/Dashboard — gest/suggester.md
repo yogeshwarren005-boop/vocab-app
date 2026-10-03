@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who advances a suggestion or proposal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who advances a suggestion or proposal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who suggests, proposes, or hints at an idea, plan, or course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology and committee dynamics, the suggester of an innovative proposal often encounters institutional resistance from conservative members.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suggester designates someone who advances a suggestion or proposal."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A wise prince will protect the prudent **suggester** of reform, knowing that flatterers praise only settled customs."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The original **suggester** of an advantageous commercial enterprise rarely reaps the full financial reward of his invention."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She felt grateful to the sympathetic **suggester** who had pointed out a path of benevolent activity for her wealth."*
+

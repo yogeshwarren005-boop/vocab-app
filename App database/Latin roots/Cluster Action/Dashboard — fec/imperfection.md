@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or an instance of being imperfect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or an instance of being imperfect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flaw, fault, defect, or shortcoming that prevents absolute completeness or excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, morphological imperfection in an organism's structure provides evidence of historical modification from ancestral forms rather than pristine special creation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall discover a thing to you, wherein I must very much lay open mine own imperfection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now I have the boy, I will undo This hateful imperfection of her eyes."*
-> - 📜 **Jane Austen (*Persuasion*):** *"This, to Anne, was a decided imperfection."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall discover a thing to you, wherein I must very much lay open mine own **imperfection**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extreme **imperfection** of the geological record explains why we do not find closely graduated varieties connecting all extinct species."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She saw with painful clarity every **imperfection** in her husband's scholarship and temperament."*
+

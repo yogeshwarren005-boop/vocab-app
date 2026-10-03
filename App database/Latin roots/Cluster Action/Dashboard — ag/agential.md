@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an agent or agency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an agent or agency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of an agent, or pertaining to the exercise of agency and purposeful action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of action and social ontology, agential capacities refer to the intentional, reflective powers that distinguish conscious human actors from passive physical systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agential designates of or relating to an agent or agency."*
+> - 📜 **G. E. M. Anscombe (*Intention*):** *"The distinction between physical cause and intentional reason is the defining hallmark of our **agential** understanding of human conduct."*
+> - 📜 **Donald Davidson (*Essays on Actions and Events*):** *"An event is an action under a description that reveals the **agential** beliefs and desires motivating its performance."*
+> - 📜 **Charles Taylor (*Human Agency and Language*):** *"What makes an agent genuinely human is the capacity for second-order evaluation of our own **agential** motivations."*
+

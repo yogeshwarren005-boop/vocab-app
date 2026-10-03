@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadequate in amount or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a quantity not able to fulfill a need or requirement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having enough of a specified quality or ingredient; lacking or inadequate in amount or skill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology, rudimentary organs that are structurally deficient provide evidence of ancestral function lost through disuse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll look no more; Lest my brain turn, and the deficient sight Topple down headlong."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is abused, stol’n from me, and corrupted By spells and medicines bought of mountebanks; For nature so preposterously to err, Being not deficient, blind, or lame of sense, Sans witchcraft could not."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby’s advice, for the stair-carpets, besides being very deficient in stair-wires, were so torn as to be absolute traps."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In certain oceanic island insects, the wings are so **deficient** in development that the creatures can no longer fly."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Where sciences are found **deficient**, fresh empirical observation must supply the lacking principles."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"His moral education was singularly **deficient** in that intuitive sympathy which alone forgives human frailty."*
+

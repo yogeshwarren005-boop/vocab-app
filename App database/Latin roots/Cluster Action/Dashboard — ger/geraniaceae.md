@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly herbaceous plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly herbaceous plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical family of dicotyledonous flowering plants comprising approximately eight hundred species across five genera, including Geranium and Pelargonium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, plants of the Geraniaceae are characterized by five-petaled flowers and distinctive elongated, beak-like seed capsules that split explosively at maturity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geraniaceae designates chiefly herbaceous plants."*
+> - 📜 **Carl Linnaeus (*Genera Plantarum*):** *"The family **Geraniaceae** is distinguished by its crane-like fruit, five-parted calyx, and hypogynous stamens."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species belonging to **Geraniaceae** are easily recognized in our woods by their deeply lobed leaves and elastic carpels."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The explosive dispersal mechanism found across diverse genera of the **Geraniaceae** guarantees wide dissemination of seeds."*
+

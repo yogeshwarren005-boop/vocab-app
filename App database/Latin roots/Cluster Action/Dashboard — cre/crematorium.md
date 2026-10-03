@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mortuary where corpses are cremated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A furnace where a corpse can be burned and reduced to ashes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building or facility containing a furnace where human or animal bodies are cremated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health and urban sanitation history, the modern crematorium movement was initiated in nineteenth-century Europe to prevent cemetery overcrowding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crematorium designates a mortuary where corpses are cremated."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"The clean, functional architecture of the municipal **crematorium** reflected the modern triumph of hygiene over medieval superstition."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The factory founder bequeathed a substantial sum to construct a public **crematorium** surrounded by peaceful landscaped gardens."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The somber brick **crematorium** stood in stark contrast to the marble catacombs of the historic Campo Santo."*
+

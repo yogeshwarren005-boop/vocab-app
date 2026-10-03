@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short synopsis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short synopsis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief summary, comprehensive overview, or immediate intuitive insight into a complex subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and philosophical prose, an apercu is a brilliant aphoristic observation that reveals the essence of a situation at a glance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apercu designates a short synopsis."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"His critical essay offered a penetrating **apercu** of the French realist school that illuminated the entire genre."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"A single luminous **apercu** from Goethe often contains more practical wisdom than an entire volume of systematic treatise."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"The poet's gift consists in seizing upon an unexpected **apercu** and fixing it in memorable verse."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clique (often secret) that seeks power usually through intrigue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dissenting clique.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small organized, dissenting group within a larger one, especially in politics or ecclesiastical governance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, Madison defined faction in Federalist No. 10 as a number of citizens united by some common impulse of passion or interest adverse to the rights of other citizens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will bandy with thee in faction; will o’errun thee with policy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch. [_Exeunt Attendants._] Enter three or four Conspirators of Aufidius’s faction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If’t be so, Hamlet is of the faction that is wrong’d; His madness is poor Hamlet’s enemy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will bandy with thee in **faction**; will o'errun thee with policy; will kill thee a hundred and fifty ways."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Masked in the snowy symbol of their **faction**, the desperate White Hoods of Ghent murder their bailiff in the market-place!"*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"All hate the rank society of weeds that, like the multitude made **faction**-mad, disturb good order and degrade true worth."*
+

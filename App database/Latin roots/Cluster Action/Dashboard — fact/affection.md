@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive feeling of liking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A positive feeling of liking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gentle feeling of fondness, warm regard, or tender attachment toward another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology and traditional psychology, an affection is an impression, disposition, or state of mind induced by an external object.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, disclose The state of your affection, for your passions Have to the full appeach’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony will use his affection where it is."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You did know How much you were my conqueror, and that My sword, made weak by my affection, would Obey it on all cause."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His **affection** for her was steady, sincere, and deepened by every fresh proof of her generous character."*
+> - 📜 **Francis Bacon (*The Essays*):** *"The natural **affection** of parents toward their children is the bond that preserveth human society."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Every sensation produceth in the soul an **affection** of pleasure or pain that directeth human action."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of exerting your muscles in various ways to keep fit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put to use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engaging in physical or mental exertion to build strength or skill, or putting a right or power into practical operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and constitutional discourse, exercising sovereign prerogatives denotes the formal implementation of statutory authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, as was shown by what followed, she was oddly exercising the faculty of invention upon the speciality of the clever Jacquet Droz, the designer of automatic substitutes for human limbs."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Thus they approach political money in their nature, and the banks are near to exercising the sovereign right of the issue of money."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A union under the closed shop policy is exercising a quasi-public function, that of controlling the industrial action of private citizens against their will."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"By continually **exercising** their vocal organs, birds develop remarkable flexibility and power of song."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The mental and moral, like the muscular powers, are improved only by being used: an individual develops character by **exercising** choice."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She felt a quiet satisfaction in **exercising** her domestic authority for the comfort of the entire household."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With affection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With affection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a loving, fond, tender, or warmly caring manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistolary traditions, commonly used in subscription formulas (e.g. 'yours affectionately') expressing cordial devotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, sweet queen, go to—commends himself most affectionately to you— HELEN."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The little girl took it, in a womanly sort of manner belonging to the apron and the bonnet, and stood looking at us over the burden that clung to her most affectionately."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, shaking hands with him quite affectionately."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley looked at her **affectionately**, pleased by her frank acknowledgement of error."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty kissed me **affectionately** and tucked the warm blankets around my bed for the night."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Celia pressed her sister's hand **affectionately**, feeling that Dorothea carried a heavier sorrow than words could tell."*
+

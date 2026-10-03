@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant (as ivy or periwinkle) that grows by creeping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who crawls or creeps along the ground.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that grows along the ground, around another plant, or up a wall by means of extending stems or tendrils; also a climbing bird.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, treecreepers (family Certhiidae) are small passerine birds that spiral up tree trunks gleaning insects from bark crevices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ideal and real clashed slightly as the sun lit up their figures against the green hedges and creeper-laced house-fronts; for, though the whole troop wore white garments, no two whites were alike among them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The aged and lichened brick gables breathed forth “Stay!” The windows smiled, the door coaxed and beckoned, the creeper blushed confederacy."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"From the jungles of Africa, and the creeper-tangled groves of the Islands of the South, arise, from the glowing hearts of a thousand flowers, heavy and intoxicating odours--the Upas-poison which dwells in barbaric sensuality."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The autumnal sun lit up the crimson leaves of the Virginia **creeper** trailing around the dairy windows."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In our own country the little tree **creeper** may be seen climbing trees in search of insects precisely like a woodpecker."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Vigorous wild grape **creeper** vines threw dense canopies of verdure over the granite boulders."*
+

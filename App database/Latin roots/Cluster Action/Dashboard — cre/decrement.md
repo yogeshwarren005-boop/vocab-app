@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount by which something decreases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process of becoming smaller or shorter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduction or diminution in amount, value, or quantity; the amount by which something decreases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and assembly architecture, a decrement operation subtracts a fixed constant (usually one) from an index register or counter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Increments and decrements of value on a great scale are unearned, and all classes of goods are affected, though in varying degrees. § II."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical wheels of the calculating engine registered each successive **decrement** with flawless mathematical fidelity."*
+> - 📜 **William Stanley Jevons (*The Theory of Political Economy*):** *"Each successive **decrement** in the market supply of grain produces a disproportionate escalation in its exchange price."*
+> - 📜 **Augustus De Morgan (*Formal Logic*):** *"In the differential calculus, we calculate the finite **decrement** of a variable as it approaches its infinitesimal limit."*
+

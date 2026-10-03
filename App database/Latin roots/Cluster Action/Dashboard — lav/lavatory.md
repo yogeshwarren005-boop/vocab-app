@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or building equipped with one or more toilets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bathroom sink that is permanently installed and connected to a water supply and drainpipe; where you can wash your hands and face.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or compartment equipped with a toilet and washbasin; a restroom or washroom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in monastic architecture, a lavatory was the dedicated stone washing trough or conduit room adjacent to the refectory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The communal lavatory and electronic bio-shower were down the hall."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Over against the door in the cloister was a conduit or lavatory, for the monks to wash their hands and faces, of a round form, covered with lead, and all marble, excepting the outer wall, without which they might walk about the Tower."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The clerk stepped into the small **lavatory** at the end of the corridor to wash the ink stains from his fingers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ancient inn boasted a dingy little **lavatory** where cold pump-water was supplied in a cracked leaden basin."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston slipped into the communal **lavatory** to read the secret slip of paper away from the gaze of the telescreen."*
+

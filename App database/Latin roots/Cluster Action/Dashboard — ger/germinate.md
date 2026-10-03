@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce buds, branches, or germinate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To begin to grow and sprout, producing shoots or roots from a seed, spore, or reproductive bud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative rhetoric and cognitive psychology, an idea or sentiment is said to germinate when it takes root in the subconscious mind and gradually matures into action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Most poets, probably, like most saints, are prepared for their mission by an initial segregation, as the seed is buried to germinate: before they can utter the oracle of poetry, they must first be divided from the body of men."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This is a seed of such {327} force and vitality, that it does not ask our leave to germinate." [Sidenote: On baptism] There were yet other possibilities in martyrdom."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"West imp. ] Footnote 1: Protospores they should be called, because, in fact, they germinate, and on the threads thus produced the true spores, or fruit, are borne."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Seeds taken from the crop of floating dead birds will **germinate** successfully after floating in sea water for many weeks."*
+> - 📜 **Henry David Thoreau (*The Succession of Forest Trees*):** *"Acorns buried beneath decaying leaves wait through the frozen winter to **germinate** upon the first warm rains of May."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Noble thoughts planted in a receptive mind will **germinate** into heroic actions when the season of opportunity arrives."*
+

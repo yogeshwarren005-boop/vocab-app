@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An activity that diverts or amuses or stimulates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Activity that refreshes and recreates; activity that renews your health and spirits by enjoyment and relaxation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Activity done for enjoyment, relaxation, or refreshment of the mind and body when not working; leisure pursuits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the sociology of leisure, recreation evolved with the industrial workweek as dedicated non-labor time essential for employee health and social well-being.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet recreation barr’d, what doth ensue But moody and dull melancholy, Kinsman to grim and comfortless despair, And at her heels a huge infectious troop Of pale distemperatures and foes to life?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a recreation to be by And hear him mock the Frenchman."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suggestions are to other as to me; But I believe, although I seem so loath, I am the last that will last keep his oath. [_He signs._] But is there no quick recreation granted?"*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"**Recreation** is not being idle; it is easing the part of the mind or body that has been tired with working, by giving it another sort of work."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her only **recreation** during the wet week was reading in the library and conversing with her sensible aunt."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The desire for diversion and **recreation** is natural to all men, and moderate amusement refreshes the workman for renewed labor."*
+

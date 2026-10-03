@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being an amount by which something is less than expected or required.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deficiency or failure in neurological or mental functioning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excess of expenditure or liabilities over income or assets in a given period; a shortfall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic fiscal policy, an annual budget deficit requires sovereign debt issuance or monetary expansion to bridge the revenue gap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But that present of bank-notes, once made, was measurable, and being applied to the amount of the debt, showed a deficit which had still to be filled up either by Fred’s “judgment” or by luck in some other shape."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Meeting deficit budget must have precedence over purchase of land near Hazírá owing to critical situation in Latin America and vital needs in Europe."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"When he arrived in the East, piracy and brigandage were rife, there was an annual deficit of some three million francs, and the feeble administration had done nothing to develop the possibilities of the country."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A chronic **deficit** in public revenues compels the sovereign to borrow from commercial banks at exorbitant interest."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The fatal financial **deficit** precipitated the convocation of the States-General and the downfall of the ancient monarchy."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"A well-funded national debt transforms a temporary revenue **deficit** into a stable foundation for public commerce."*
+

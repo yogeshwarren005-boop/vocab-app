@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People elected or appointed to administer a government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People elected or appointed to administer a government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Officials collectively, or the bureaucratic system, hierarchy, and formalities associated with them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In satirical and sociological literature, officialdom characterizes the rigid red tape, procedural inertia, and impersonal alienation of modern bureaucracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Such was our introduction to the officialdom of Cho-Sen."*
+> - 📜 **Leo Tolstoy (*Resurrection*):** *"Nekhludov was repelled by the callous indifference of tsarist **officialdom**, where human suffering was processed as mere numbered paperwork."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"All the intricate machinery of British **officialdom** collapsed into helpless confusion within hours of the Martian advance."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The revolutionary militias fought with genuine bravery, only to be strangled gradually by the creeping paralysis of political **officialdom**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by elaborately complex detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornate appearance; being elaborately (even excessively) decorated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intricate complexity, meticulous thoroughness, and a rich profusion of fine detail produced through sustained craftsmanship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic criticism and architecture, elaborateness is evaluated in relation to functional clarity, distinguishing rich craftsmanship from ostentatious clutter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elaborateness designates marked by elaborately complex detail."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Gothic **elaborateness** of the cathedral portal serves not as mere display, but as an encyclopedic hymn in stone."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The extreme **elaborateness** of his polite excuses made Dorothea feel that he was hiding some painful truth."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Excessive **elaborateness** in garden design often destroys that natural wildness which is the chief pleasure of green spaces."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affected; a personal manner that is not consciously constrained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affected; a personal manner that is not consciously constrained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Natural simplicity, genuine frankness, and complete freedom from pretension, disguise, or artificiality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th-century moral aesthetics and epistolary style, unaffectedness was celebrated as the highest rhetorical virtue, demonstrating spontaneous alignment between thought and expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unaffectedness designates not affected; a personal manner that is not consciously constrained."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was charmed by the **unaffectedness** of Edward's manner, which revealed a mind at once modest and cultivated."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"True politeness is never accompanied by stiffness; its chief beauty consists in an easy **unaffectedness**."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"The greatest charm of Montaigne's essays is their complete **unaffectedness**, showing the man precisely as he was."*
+

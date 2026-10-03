@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being difficult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being difficult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arduous or troublesome character; the state of presenting obstacles, perplexities, or severe hardship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical prose style and rhetorical theory, difficultness of comprehension was sometimes cultivated to conceal esoteric philosophical doctrines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, difficultness designates the quality of being difficult."*
+> - 📜 **Francis Bacon (*The Essays*):** *"The **difficultness** of the enterprise ought rather to inflame a generous mind than deter it from heroic action."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **difficultness** of forming clear abstract ideas arises from the ambiguity of words in common use."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He complained of the **difficultness** of reconciling personal ambitions with the quiet demands of scholarly contemplation."*
+

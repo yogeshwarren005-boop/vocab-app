@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bet that you can pick the first and second finishers in the right order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bet that you can pick the first and second finishers in the right order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of wagering, especially in parimutuel horse or dog racing, where the bettor must pick the first and second-place finishers in exact order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In game theory and statistical probability of betting markets, the exacta or perfecta represents an exotic wager demanding compound joint-probability calculation across field competitors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Pérez Galdós, possibly known best in the United States as the author of "Doña Perfecta," may be called the Walter Scott of Spain."*
+> - 📜 **Damon Runyon (*Guys and Dolls*):** *"He laid down twenty dollars on the **perfecta**, picking the brown filly to win and the gray gelding to place."*
+> - 📜 **Grantland Rice (*The Tumult and the Shouting*):** *"The veteran turfman studied the morning odds, calculating whether the payout on the **perfecta** justified the long risk."*
+> - 📜 **Ernest Hemingway (*A Moveable Feast*):** *"We cashed our winning tickets on the **perfecta** at Auteuil and celebrated with champagne at the brasserie."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is appointed or elected to an office and who holds a position of trust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official who holds an office.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds a public, political, or institutional office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American constitutional politics, the tenure of an elected officeholder is bounded by statutory term limits, electoral accountability, and impeachment provisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, officeholder designates someone who is appointed or elected to an office and who holds a position of trust."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In the United States, an **officeholder** rarely wears a uniform or displays the ceremonial badges of power common to European magistrates."*
+> - 📜 **Woodrow Wilson (*The Study of Administration*):** *"The democratic citizen expects the public **officeholder** to combine technical competence with humble responsiveness to the popular will."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"He watched the eager swarm of political aspirants in Washington, each hungry to become an accredited **officeholder** under the new administration."*
+

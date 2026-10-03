@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being defective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being defective.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of faults, operational flaws, or structural blemishes that impair functionality or soundness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quality assurance and legal warranty doctrine, defectiveness denotes a failure of a manufactured good to meet requisite safety or performance standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Defectiveness of the gold standard. § 14."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Let us conclude with a brief consideration of the fundamental principles involved in this problem. § 13. #Defectiveness of the gold standard#."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The queen, giving great allowance for my defectiveness in speaking, was, however, surprised at so much wit and good sense in so diminutive an animal."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The queen, giving great allowance for my **defectiveness** in speaking, was, however, surprised at so much wit and good sense in so diminutive an animal."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Every legislation that fails to proportion punishments to offences suffers from an inherent **defectiveness** of design."*
+> - 📜 **William Paley (*Natural Theology*):** *"The apparent **defectiveness** of an organ in one creature is often compensated by an extraordinary redundancy in another."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ornate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ornate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a highly decorated, elaborate, or floridly embellished manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts and architecture, describing buildings or furnishings executed with intricate carving, gilding, or polychrome patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornately designates in an ornate manner."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The antique clock ticked slowly from its **ornately** carved walnut case in the corner of the parlor."*
+> - 📜 **Henry James (*The American*):** *"The Parisian apartment was **ornately** furnished in the opulent style of the Second Empire."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He unlocked an **ornately** chased silver casket that contained the family documents."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a creative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a creative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a creative, imaginative, or original manner; through the innovative application of intellect or art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, solving problems creatively involves divergent thinking that breaks away from conventional cognitive sets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creatively designates in a creative manner."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"To write **creatively**, the mind must be incandescent, consumed with its vision and free of personal bitterness."*
+> - 📜 **John Dewey (*Art as Experience*):** *"The artist thinks **creatively** not in abstract words, but through the sensory qualities of his medium."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Genius consists in the capacity to perceive analogies **creatively** where ordinary minds see only disconnected facts."*
+

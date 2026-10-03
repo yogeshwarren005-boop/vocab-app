@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mojarras.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mojarras.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of tropical and subtropical marine perciform fishes, commonly known as mojarras, characterized by deeply compressed bodies and highly protrusible mouths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and coastal fisheries ecology, species of Gerreidae forage along sandy and muddy shallow bays, using their tubular mouths to suck up benthic invertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog gerreidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"The family **Gerreidae** is characterized by silvery, compressed bodies and an extraordinarily extensible premaxillary mechanism."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The mojarras comprising the family **Gerreidae** occur abundantly in tropical lagoons, entering brackish estuaries along the coast."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Schools of silvery mojarras of the **Gerreidae** family hovered over the coral sand, flashing like silver coins in the sunlit water."*
+

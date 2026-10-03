@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who offers opposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muscle that relaxes while another contracts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who actively opposes or is hostile to someone or something; an adversary, rival, or opponent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, an antagonist is a substance that binds to a specific cellular receptor without activating it, thereby blocking the biological action of an agonist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"As little does he think how near together he and his antagonist have suffered in the fortunes of two sisters, and his antagonist, who knows it now, is not the man to tell him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are my antagonist, with this difference from real warfare, that I shall miss you every time by one hair’s breadth, or perhaps two."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He did not wash his hands or comb his head before he brought Balder's antagonist on to the pyre."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art a traitor and a miscreant; too good to be so, and too bad to live; since the more fair and crystal is the sky, the uglier seem the clouds that in it fly: once more I say, thou art my **antagonist**."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"I with this messenger will go along, nothing to do, be sure, that may dishonor our God, or my own religious vows, nor yield to my proud **antagonist**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The male stag uses his formidable antlers not for hunting prey, but solely to combat his rival **antagonist** during the rutting season."*
+

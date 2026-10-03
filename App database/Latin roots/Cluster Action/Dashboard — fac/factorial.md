@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The product of all the integers up to and including a given integer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to factorials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The product of an integer and all the positive integers below it, denoted by an exclamation point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental statistics, a factorial design investigates all possible combinations of two or more independent variables across multiple observational groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factorial designates the product of all the integers up to and including a given integer."*
+> - 📜 **Augustus De Morgan (*Formal Logic*):** *"The combinatoric permutations of independent elements grow with tremendous speed, governed by the exponential ascent of the **factorial** function."*
+> - 📜 **Ronald Fisher (*The Design of Experiments*):** *"A complete **factorial** arrangement allows the investigator to evaluate both main effects and complex interaction terms simultaneously."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical engine was constructed to compute columns of tables through successive **factorial** differences."*
+

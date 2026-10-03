@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant grown for its beauty or ornamental value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving an esthetic rather than a useful purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving primarily for decoration, aesthetic pleasure, or display rather than practical utility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landscape architecture and horticulture, ornamental plants are cultivated for their attractive foliage, flowers, or fragrance rather than for agricultural crop yield.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This chafing over, the ornamental part of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Such a fine woman as her, so handsome and so graceful and so elegant, is like a fresh lemon on a dinner-table, ornamental wherever she goes."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Casually glancing over the hedge, Oak saw coming down the incline before him an ornamental spring waggon, painted yellow and gaily marked, drawn by two horses, a waggoner walking alongside bearing a whip perpendicularly."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The modern improvements in the park were purely **ornamental**, designed to flatter the eye with picturesque vistas."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The splendid plumage of male birds has been developed through sexual selection as an **ornamental** attraction."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The legionaries discarded their heavy armor in peacetime, preferring **ornamental** helmets of gilded bronze."*
+

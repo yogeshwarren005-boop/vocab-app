@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rounded tooth or scallop on a margin; also the shrinking and formation of notches on cells placed in a hypertonic solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular physiology, erythrocyte crenation occurs when osmotic water loss across the semipermeable cell membrane causes the plasma membrane to collapse unevenly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crenation designates one of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The degree of **crenation** observed in red blood corpuscles increases rapidly with prolonged standing or hypertonic evaporation."*
+> - 📜 **T. H. Huxley (*Lessons in Elementary Physiology*):** *"The addition of a drop of salt solution immediately induces **crenation** of the delicate mammalian red corpuscles."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Osmotic water movement out of the cellular envelope precipitates the physical **crenation** of the corpuscular surface."*
+

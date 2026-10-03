@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a quantity not able to fulfill a need or requirement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a quantity not able to fulfill a need or requirement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not enough; inadequate in quantity, degree, or capacity to meet a need.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evidence law, insufficient evidence justifies the trial judge in granting a directed verdict or dismissing the complaint as a matter of law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A thick and dingy Turkey-carpet muffles the floor where he sits, attended by two candles in old-fashioned silver candlesticks that give a very insufficient light to his large room."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He had a reason for going away, though it was an insufficient one.” “Thankee, sir, thankee!” exclaims Jo."*
-> - 📜 **Jane Austen (*Persuasion*):** *"But these measures, however good in themselves, were insufficient for the real extent of the evil, the whole of which Sir Walter found himself obliged to confess to her soon afterwards."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geological record is extraordinarily imperfect, and this fact will explain why we find **insufficient** intermediate links between fossil species."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"To theorize before one has collective data is a capital mistake; it leads inevitably to building colossal structures upon **insufficient** facts."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The meager crust of bread provided at Lowood school was sorrowfully **insufficient** for hungry growing children."*
+

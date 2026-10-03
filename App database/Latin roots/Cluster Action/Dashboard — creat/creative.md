@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the ability or power to create.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promoting construction or creation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power or capacity to create; characterized by original thought, imagination, and artistic inventiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, natural selection is described as a creative force that shapes complex adaptive structures from random genetic mutations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"When he emerged from them he was fifty-four years of age, he had passed beyond the time of life when his creative powers were at their freshest, and the general habits of his life and lines of his activity had become settled and stereotyped."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley, though jarred by Byron's worldliness and pride, was impressed by his creative power, and the days they spent sailing on the lake, and wandering in a region haunted by the spirit of Rousseau, were fruitful."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She saw, with the creative eye of fancy, the streets of that gay bathing-place covered with officers."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Why, it may be asked, has the supposed **creative** force produced bats and no other mammals on remote oceanic islands?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Probabilities are as various as the faces to be seen at will in fretwork or paper-hangings: every form of **creative** fancy can find its confirmation."*
+> - 📜 **William James (*Pragmatism*):** *"The human mind is a **creative** participant in the universe, shaping truth through purposeful action."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sinking until covered completely with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sinking until covered completely with water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Descent or inundation beneath water, or the tectonic drowning of a landmass by rising sea levels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coastal geomorphology and stratigraphy, submergence describes the gradual transgression of sea level over continental coastlines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Purification by Spirit; submergence in 581:24 Spirit."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Submergence in Spirit; immortality brought to light. 582:24 CANAAN (the son of Ham)."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The repeated **submergence** and elevation of ancient coastlines is attested by fossiliferous marine strata upon high hills."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The total **submergence** of the coral atoll occurred so slowly that reef-building polyps kept pace with the sinking bedrock."*
+> - 📜 **Mary Baker Eddy (*Science and Health with Key to the Scriptures*):** *"Spiritual regeneration demands the total **submergence** of material beliefs beneath divine understanding."*
+

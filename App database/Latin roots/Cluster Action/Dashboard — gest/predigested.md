@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Digest (food) beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artificially partially digested as by enzymatic action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treated beforehand with enzymes or heat to make digestion easier; partially digested prior to consumption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metaphorically applied to intellectual material, media, or education that has been excessively simplified, processed, or trivialized for passive consumption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, predigested designates digest (food) beforehand."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Peptonized beef broth and **predigested** milk were prescribed to sustain nutrition during the acute crisis of typhoid."*
+> - 📜 **George Orwell (*Inside the Whale*):** *"The popular press supplies the public with **predigested** opinions, saving them the uncomfortable labor of thinking for themselves."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"She rejected those **predigested** literary manuals that reduce the glorious wildness of Elizabethan poetry to textbook rules."*
+

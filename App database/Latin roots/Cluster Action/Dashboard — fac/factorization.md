@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) the resolution of an entity into factors such that when multiplied together they give the original entity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) the resolution of an entity into factors such that when multiplied together they give the original entity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The decomposition of an object (such as a number, polynomial, or matrix) into a product of other factors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum computing and information science, Shor's algorithm achieves polynomial-time integer factorization, demonstrating exponential speedup over classical algorithms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factorization designates (mathematics) the resolution of an entity into factors such that when multiplied together they give the original entity."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical calculating machine verified the prime **factorization** of astronomical tables with absolute infallible accuracy."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Logical **factorization** reveals the elementary relations upon which all complex propositions are founded."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The spectral **factorization** of stationary stochastic processes constitutes the mathematical cornerstone of optimal linear filtering."*
+

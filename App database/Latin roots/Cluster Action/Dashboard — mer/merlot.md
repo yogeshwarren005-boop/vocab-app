@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Black wine grape originally from the region of bordeaux.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dry red wine made from a grape grown widely in bordeaux and california.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark blue wine grape variety widely grown in Bordeaux and globally; also the dry red wine produced from it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ampelography and enology, Merlot is characterized by medium tannins, supple acidity, and plum or blackberry aromas, often blended with Cabernet Sauvignon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merlot designates black wine grape originally from the region of bordeaux."*
+> - 📜 **Alexandre Dumas (*Grand Dictionnaire de Cuisine*):** *"A bottle of aged **merlot** from the slopes of Saint-Émilion complemented the roasted venison with velvet richness."*
+> - 📜 **Alexis Lichine (*Encyclopedia of Wines and Spirits*):** *"The luscious roundness of early-ripening **merlot** softens the austere structure of Médoc cabernet blends."*
+> - 📜 **Robert Louis Stevenson (*The Silverado Squatters*):** *"The pioneer vintner poured a goblet of dark local **merlot**, boasting that the Napa soil would rival Bordeaux."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to communicate in german.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to communicate in german.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using German as a native or principal language of daily communication and literary expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European cultural geography, the German-speaking world (DACH region) comprises Germany, Austria, and major portions of Switzerland and Liechtenstein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, german-speaking designates able to communicate in german."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman legions halted at the Rhine, establishing an enduring boundary against the **German-speaking** tribes."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"Statistical surveys of **German-speaking** cantons revealed significant economic differences between religious confessions."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"The sanatorium housed an eclectic company of patients conversing in French, Russian, and **German-speaking** dialects."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without merit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without merit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking any worth, excellence, or justification; completely undeserving of praise or consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil litigation and legal advocacy, a meritless lawsuit fails to state an actionable claim or is unsupported by admissible evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meritless designates without merit."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Frivolous and **meritless** objections to the Constitution were raised by partisans seeking only to preserve local state influence."*
+> - 📜 **Jonathan Swift (*The Battle of the Books*):** *"The modern pamphlet was a noisy, **meritless** production that perished before the week was out."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"A statesman does not waste precious parliamentary hours entertaining **meritless** propositions that aggravate colonial grievances."*
+

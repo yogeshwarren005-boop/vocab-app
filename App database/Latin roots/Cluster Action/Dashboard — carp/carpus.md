@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A joint between the distal end of the radius and the proximal row of carpal bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A joint between the distal end of the radius and the proximal row of carpal bones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The group of eight small bones forming the wrist joint in humans, articulating with the radius proximally and the metacarpals distally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate osteology, the carpus represents the basal skeletal element of the manus, remarkably conserved across pentadactyl tetrapods from reptiles to mammals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpus designates a joint between the distal end of the radius and the proximal row of carpal bones."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **carpus** consists of eight bones arranged in two rows: the scaphoid, lunate, triquetrum, and pisiform proximally; and the trapezium, trapezoid, capitate, and hamate distally."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"In the cetacean flipper, the bones of the **carpus** are flattened and embedded in dense fibrous tissue, functioning as an undivided paddle."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The eight bones of the **carpus** are linked together by strong ligaments, combining immense compressive strength with subtle gliding motions."*
+

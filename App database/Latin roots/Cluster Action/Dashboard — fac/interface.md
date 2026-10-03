@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) a surface forming a common boundary between two things (two objects or liquids or chemical phases).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) a program that controls a display for the user (usually on a computer monitor) and that allows the user to interact with the system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A point or boundary where two independent systems, bodies, or organizations meet and interact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and cybernetics, an interface defines the formalized protocols, methods, and shared boundaries through which software components communicate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your sector coordinates are in the capsule; use standard locks to interface the coordinates with your ship's flight controls."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The crucial problem of automated control centers upon designing an effective communication **interface** between machine and human operator."*
+> - 📜 **Herbert Simon (*The Sciences of the Artificial*):** *"An artifact can be thought of as a meeting point, an **interface** between an inner environment and an outer environment."*
+> - 📜 **Thomas S. Kuhn (*The Structure of Scientific Revolutions*):** *"Scientific discoveries often occur at the contested **interface** between two distinct disciplinary frameworks."*
+

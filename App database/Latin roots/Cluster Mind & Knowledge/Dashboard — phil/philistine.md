@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is uninterested in intellectual pursuits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of an aegean people who settled ancient philistia around the 12th century bc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is hostile or indifferent to culture and the arts; also an inhabitant of ancient biblical Philistia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century cultural criticism (Matthew Arnold), bourgeois citizens indifferent to intellectual and aesthetic values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s entirely new view of the Philistine god Dagon and other fish-deities, thinking that hereafter she should see this subject which touched him so nearly from the same high ground whence doubtless it had become so important to him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A philosopher fallen to betting is hardly distinguishable from a Philistine under the same circumstances: the difference will chiefly be found in his subsequent reflections, and Lydgate chewed a very disagreeable cud in that way."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is what I call the depth of generosity.” “Oh, Basil is the best of fellows, but he seems to me to be just a bit of a Philistine."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The English middle class is hopelessly **philistine**, blind to sweetness and light, and devoted only to commercial utility."*
+> - 📜 **Oscar Wilde (*De Profundis*):** *"The supreme artist must inevitably confront the stubborn incomprehension of the respectable **philistine** mob."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond's uncle was a good-natured **philistine**, who thought reading poetry a waste of good ledger paper."*

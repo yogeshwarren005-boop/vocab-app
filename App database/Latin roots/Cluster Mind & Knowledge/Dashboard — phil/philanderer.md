@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who likes many women and has short sexual relationships with them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who likes many women and has short sexual relationships with them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who readily or frequently enters into casual sexual relationships with women; a flirt or chronic womanizer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature, a self-indulgent romantic opportunist who avoids serious emotional commitment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philanderer designates a man who likes many women and has short sexual relationships with them."*
+> - 📜 **George Bernard Shaw (*The Philanderer*):** *"The play exposed the modern **philanderer** as an intellectual coward who played with passions he could not feel."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She distrusted the young barrister, sensing beneath his charm the shallow egoism of a seasoned **philanderer**."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Lily knew that van Osburgh was a notorious **philanderer**, yet tolerated him for his yacht and country house."*

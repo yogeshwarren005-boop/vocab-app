@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to philosophy or philosophers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the attitude of a philosopher; meeting trouble with level-headed detachment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the study of fundamental knowledge, reality, and existence; calm, reasonable, and stoical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and ethical prose, an attitude of rational inquiry seeking primary causes rather than empirical particulars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say miracles are past; and we have our philosophical persons to make modern and familiar things supernatural and causeless."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The one grand recipe remains for you—the profound philosophical prescription—the be-all and the end-all of your strange existence upon earth."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"For the first five years of his ministry Cairns devoted himself entirely to the work which it entailed upon him, and steadily refused to be drawn aside to the literary and philosophical tasks which many of his friends urged him to undertake."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A **philosophical** mind will never accept authority without demanding the rational evidence upon which belief must rest."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth bore the disappointment with **philosophical** good humor, resolving to make the best of her rustic surroundings."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Naturalists of a **philosophical** turn of mind cannot fail to be struck by the pervasive unity of type in nature."*

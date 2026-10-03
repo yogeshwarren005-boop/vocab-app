@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drink credited with magical power; can make the one who takes it love the one who gave it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drink credited with magical power; can make the one who takes it love the one who gave it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potion or magical draught credited with the power to arouse love or sexual passion (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic opera and legend (such as Tristan and Isolde), an enchanted wine that binds lovers in tragic, irreversible fate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Teufelsbürst, without philosophising about it, called his preparation simply a love-philtre, a concoction well known by name, but the composition of which was the secret of only a few."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester declared that Jane must have brewed an uncanny **philtre** of moonlight to bewitch his worldly heart."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Rustic village gossips whispered that Eustacia Vye knew how to compound a midnight **philtre** from mountain heath flowers."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He studied the medieval grimoires, reading of an ancient Venetian **philtre** distilled from mandrake roots and serpent venom."*

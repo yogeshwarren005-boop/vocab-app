@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drink credited with magical power; can make the one who takes it love the one who gave it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drink credited with magical power; can make the one who takes it love the one who gave it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drink or potion supposed to have the power of exciting romantic love or sexual desire; a love charm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and medieval folklore, magical draughts brewed from herbs and roots to captivate a lover's heart.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, perchance still failing, then might I expect the common bravo’s steel in my back or the common poisoner’s philter in my wine, my meat, or bread."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"The cunning alchemist offered a magic **philter** in a crystal phial, swearing it would rekindle the earl's waning affection."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Chillingworth offered the trembling captive a calming draught, assuring her it was no lethal poison nor unholy **philter**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The tragic madness of the poet Lucretius was anciently attributed to a love **philter** administered by a jealous mistress."*

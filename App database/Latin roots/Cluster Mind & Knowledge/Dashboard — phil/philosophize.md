@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason philosophically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason philosophically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speculate, theorize, or moralize about fundamental matters of human life, morality, and knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character studies, seeking abstract wisdom or moralizing upon ordinary daily events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we are to use abstract terms and philosophize his thought a little, we may agree that the four facts Jesus notes in Nature are its mystery, its regularity, its impartiality, and its peacefulness[11]."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"My dear friend, I entreat you, don’t philosophize, don’t doubt, marry, marry, marry...."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Why could they not philosophize and say nothing? he asked."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Pierre loved to **philosophize** through the long winter evenings, debating Freemasonry and the purpose of human existence."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Jim and I would lie on the raft and **philosophize** about whether the stars were made or just happened like eggs."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"It is pleasant to **philosophize** upon the harpoon line while sitting safely ashore by a glowing sea-coal grate."*

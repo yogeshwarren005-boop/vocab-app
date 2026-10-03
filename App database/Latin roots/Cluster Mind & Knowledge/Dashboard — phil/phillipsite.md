@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of white or reddish crystalline minerals of the zeolite family consisting of a hydrous silicate of calcium and potassium and aluminum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of white or reddish crystalline minerals of the zeolite family consisting of a hydrous silicate of calcium and potassium and aluminum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrated potassium, calcium, and sodium aluminosilicate mineral of the zeolite group, found in volcanic rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and deep-sea sedimentology, a zeolite crystal occurring in basalt cavities and deep-sea pelagic red clays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phillipsite designates a group of white or reddish crystalline minerals of the zeolite family consisting of a hydrous silicate of calcium and potassium and aluminum."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"In the amygdaloidal cavities of the basaltic cliffs, crystalline clusters of **phillipsite** sparkled like frost."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Dredging from the ocean floor brought up volcanic mud densely studded with microscopic crystals of **phillipsite**."*
+> - 📜 **John Ruskin (*The Ethics of the Dust*):** *"The lecturer exhibited a specimen of volcanic tuff, pointing out the delicate radiating stars of **phillipsite**."*

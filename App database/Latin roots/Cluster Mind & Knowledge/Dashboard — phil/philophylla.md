@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf miners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf miners.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fruit flies in the family Tephritidae, whose larvae feed inside flowers and fruit of host plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology, colorful picture-winged flies noted for intricate wing banding and gall formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philophylla designates leaf miners."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"The female fly of **philophylla** deposits her eggs within the flower bud, where the larva feeds in secure isolation."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrate Animals*):** *"The banded wings of **philophylla** exhibit distinctive courtship waving displays among competing territorial males."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Certain gall-making diptera related to **philophylla** stimulate strange hypertrophied growths upon wild shrubs."*

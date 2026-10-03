@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American woodcocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American woodcocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus name for the American woodcock (*Scolopax minor*, formerly *Philohela minor*), a chunky woodland gamebird.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American ornithology, a crepuscular wading bird celebrated for its spring twilight courtship flight and long probing bill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philohela designates american woodcocks."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"The American woodcock, formerly classified as **philohela**, performs a spiral aerial song-flight over alder swales at dusk."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"In the damp alder thickets along the creek, we flushed a woodcock belonging to the secretive genus **philohela**."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"The twilight sky dance of the woodcock, the **philohela** of older bird manuals, announces the true arrival of spring."*

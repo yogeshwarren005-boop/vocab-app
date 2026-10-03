@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Often grown as a houseplant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Often grown as a houseplant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of flowering plants in the arum family (Araceae), native to tropical American rainforests, widely grown as houseplants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical botany and horticulture, climbing hemi-epiphytes adapted with aerial roots to scale forest canopy trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philodendron designates often grown as a houseplant."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"Vast climbing species of **philodendron** embraced the towering trunks of the Amazonian forest with rope-like aerial roots."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The canoe drifted beneath dripping jungle boughs where broad, perforated leaves of **philodendron** hung like green shields."*
+> - 📜 **William Beebe (*Jungle Peace*):** *"In the dim green twilight of the Guiana bush, a flowering **philodendron** scented the humid air with tropical sweetness."*

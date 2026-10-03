@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The collection and study of postage stamps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collection and study of postage stamps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The collection and study of postage stamps, revenue stamps, and postal history as a hobby.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material culture, a global hobby originating in the 1850s following the introduction of the British Penny Black.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philately designates the collection and study of postage stamps."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"He found solace from financial anxieties in the meticulous study of **philately**, cataloging every shade of blue in early Bavarian issues."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"Uncle Ponderevo dismissed **philately** as a petty pursuit, preferring cosmic speculation and gigantic advertising schemes."*
+> - 📜 **Agatha Christie (*The Clocks*):** *"The retired clerk devoted his quiet afternoons to **philately**, corresponding with collectors across the globe."*

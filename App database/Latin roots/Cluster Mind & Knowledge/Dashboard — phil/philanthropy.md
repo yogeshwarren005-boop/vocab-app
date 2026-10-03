@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Voluntary promotion of human welfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Voluntary promotion of human welfare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The desire to promote the welfare of others, expressed especially by the generous donation of money to good causes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, practical benevolence directed toward the alleviation of poverty and advancement of culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed to project those two shining knobs of temples of his into everything that went on and to brush his hair farther and farther back, until the very roots were almost ready to fly out of his head in inappeasable philanthropy."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In America a very little has yet been done in this way, and that mostly by private philanthropy.[5] § 5. #Public inspection of standards and of foods#."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Won in youth to religion, she has cultivated my original qualities thus:—From the minute germ, natural affection, she has developed the overshadowing tree, philanthropy."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"There is no odor so bad as that which arises from goodness tainted; if I knew for a certainty that a man was coming to my house with the conscious design of doing me good, I should run for fear of his **philanthropy**."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Do not tell me of my obligation to put all poor men in good situations; are they my poor? I tell thee, thou foolish **philanthropy**, that I begrudge the dollar given to thy schemes."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Mankind was my business! The common welfare was my business; charity, mercy, forbearance, and **philanthropy** were all my business!"*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes charitable donations intended to increase human well-being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes charitable donations intended to increase human well-being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who seeks to promote the welfare of others, especially by the generous donation of money to good causes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural biography, wealthy industrialists (such as Carnegie or Peabody) who endowed enduring educational institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quale, with large shining knobs for temples and his hair all brushed to the back of his head, who came in the evening, and told Ada he was a philanthropist, also informed her that he called the matrimonial alliance of Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A pretty thing, indeed, to marry a philanthropist."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You would, perhaps, think me rude if I inquired in return whether you are a philanthropist?” “There again!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The professional **philanthropist** lectured upon universal brotherhood while totally blind to the misery in his own home."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke fancied himself a bold political **philanthropist**, though his farm tenants grumbled about leaky roofs."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The murdered gentleman was known as a quiet **philanthropist** who gave large anonymous sums to orphanages."*

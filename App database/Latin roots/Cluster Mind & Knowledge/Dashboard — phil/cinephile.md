@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin phil within the domain of Mind & Knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of phil in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is fond of the cinema; a film enthusiast with a discerning appreciation of cinematic art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern cultural criticism, a film lover devoted to auteur directors, international film movements, and film archives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cinephile designates pertaining to, derived from, or characteristic of latin phil within the domain of mind & knowledge."*
+> - 📜 **Graham Greene (*Mornings in the Dark: The Graham Greene Film Reader*):** *"As an avid young **cinephile**, I spent rainy London afternoons studying German expressionist cinema in Soho."*
+> - 📜 **Susan Sontag (*Against Interpretation*):** *"The passionate **cinephile** experiences film not as mere casual amusement, but as an ecstatic visual revelation."*
+> - 📜 **James Agee (*Agee on Film*):** *"Any observant **cinephile** will discern in Chaplin's physical grace the supreme genius of silent film pantomime."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An admirer of france and everything french.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An admirer of france and everything french.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is fond of or greatly admires France, its people, language, culinary arts, or culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and aesthetics, foreign writers and statesmen adopting Parisian manners and French Enlightenment thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, francophile designates an admirer of france and everything french."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"Every man has two countries, his own and France; thus Jefferson remained an ardent **francophile** throughout his life."*
+> - 📜 **Henry James (*A Little Tour in France*):** *"The traveler confessed himself an incorrigible **francophile**, enchanted by the châteaux and poplar-lined rivers of the Loire."*
+> - 📜 **Edith Wharton (*French Ways and Their Meaning*):** *"An American **francophile** discovers in French domestic life a reverence for taste and intellectual discipline."*

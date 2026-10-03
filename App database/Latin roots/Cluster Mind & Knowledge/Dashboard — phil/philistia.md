@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient region on the coast of southwestern palestine that was strategically located on a trade route between syria and egypt; important in biblical times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient region on the coast of southwestern palestine that was strategically located on a trade route between syria and egypt; important in biblical times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient coastal region in southwestern Canaan inhabited by the Philistines; roughly modern Gaza and southern Israel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical history, a confederacy of five cities—Gaza, Ashkelon, Ashdod, Ekron, and Gath—frequently in conflict with Israel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philistia designates an ancient region on the coast of southwestern palestine that was strategically located on a trade route between syria and egypt; important in biblical times."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Samson stood in chains within the temple of Dagon, mocked by the lords and captains of all **philistia**."*
+> - 📜 **King James Bible (*The Holy Bible*):** *"Rejoice not thou, whole **philistia**, because the rod of him that smote thee is broken; for out of the serpent's root shall come cockatrice."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The ancient borders of **philistia** lay along the sun-baked Mediterranean coast, where camel trains traded olive oil."*

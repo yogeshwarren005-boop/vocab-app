@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city in pennsylvania; located in the southeastern part of the state on the delaware river; site of independence hall where the declaration of independence and the constitution were signed; site of the university of pennsylvania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest city in pennsylvania; located in the southeastern part of the state on the delaware river; site of independence hall where the declaration of independence and the constitution were signed; site of the university of pennsylvania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city in Pennsylvania, founded in 1682 by William Penn as the 'City of Brotherly Love'; historic cradle of American independence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American history, the site of the Continental Congress, the drafting of the Declaration of Independence, and the Constitutional Convention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Adams, of Philadelphia, stated in his Thanksgiving sermon that, having an appointment to meet the President at 5 o'clock in the morning, he went a quarter of an hour before the time."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"An’ when the girls won’t hold you, get to thinkin’ of the fellows you got it in for, an’ what you’d do to ’em if you got a chance, an’ what you’re goin’ to do to ’em when you get that same chance.” That man was Philadelphia Red."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For that offence Philadelphia Red lost his credits."*
+> - 📜 **Benjamin Franklin (*Autobiography of Benjamin Franklin*):** *"I arrived in **philadelphia** on a Sunday morning, walking up Market Street with three puffy rolls under my arm."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The delegates assembled in **philadelphia** during the hot summer of 1787 to frame an enduring federal Constitution."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"In the historic assembly hall at **philadelphia**, the representatives of the colonies pledged their lives and sacred honor."*

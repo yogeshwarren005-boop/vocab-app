@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lover of learning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lover of learning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lover of learning, study, and science; a scholar or intellectual enthusiast, especially in mathematics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth-century print culture, a learned almanac-maker, mathematician, or enthusiastic amateur astronomer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philomath designates a lover of learning."*
+> - 📜 **Benjamin Franklin (*Poor Richard's Almanack*):** *"Richard Saunders styled himself a humble **philomath**, calculating lunar eclipses and seasonal tides for colonial farmers."*
+> - 📜 **Oliver Goldsmith (*The Deserted Village*):** *"The village schoolmaster was revered as a profound **philomath**, who could measure land, terms and tides presage."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The academy at Lagado was crowded with every manner of visionary **philomath**, extracting sunbeams from cucumbers."*

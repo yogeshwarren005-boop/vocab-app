@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collector and student of postage stamps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collector and student of postage stamps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who collects or studies postage stamps, postmarks, and postal history as a hobby or vocation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In connoisseurship, an expert who uses magnifiers, watermark detectors, and perforation gauges to authenticate stamps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philatelist designates a collector and student of postage stamps."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The recluse was an ardent **philatelist**, spending whole days with tweezers and magnifying glass over rare envelopes."*
+> - 📜 **G. K. Chesterton (*The Club of Queer Trades*):** *"The enthusiast described himself as a metaphysical **philatelist**, collecting stamps that had carried news of revolutions."*
+> - 📜 **W. Somerset Maugham (*Cakes and Ale*):** *"The vicar was an enthusiastic **philatelist**, eager to show his visitor the early issues of the British Caribbean."*

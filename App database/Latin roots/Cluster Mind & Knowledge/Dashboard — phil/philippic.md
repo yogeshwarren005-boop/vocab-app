@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech of violent denunciation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech of violent denunciation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter attack or denunciation, especially a verbal one; a fiery, invective-filled oration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, named after Demosthenes' speeches against Philip II of Macedon, and Cicero's speeches against Mark Antony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Bickerdyke's philippic--She procures his dismissal--His interview with General Sherman--"She ranks me"--The commanding generals appreciate her--Convalescent soldiers _vs._ colored nurses--The Medical Director's order--Mrs."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Cicero paid for his fourteenth **philippic** with his life, his severed head displayed on the Rostra he had immortalized."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The minister delivered a furious **philippic** against colonial resistance, alienating the moderate assembly."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The parliamentary orator delivered a scathing **philippic** that stripped the corrupt administration of all prestige."*

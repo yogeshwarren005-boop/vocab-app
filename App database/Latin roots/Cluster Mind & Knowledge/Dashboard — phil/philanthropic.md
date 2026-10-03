@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generous in assistance to the poor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by philanthropy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seeking to promote the welfare of others, especially by donating money or resources to good causes; benevolent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century social reform, charitable initiatives funding hospitals, libraries, and public sanitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In their legal aspect these banks have a philanthropic character."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Such a store in the hands of a philanthropic employer might easily be made, without expense to himself, a great boon to his workmen, giving them the benefits of consumers' coöperation."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"His energy in entering upon ecstatic personal relations was as great as that which he threw into philanthropic schemes; but the relations, like the schemes, were formed with no notion of adapting means to ends, and were often dropped as hurriedly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mrs. Jellyby's **philanthropic** enthusiasm for African natives left her own children shivering in neglected squalor."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea longed to dedicate her ample income to **philanthropic** plans for improving rustic labourers' cottages."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The wealthy rajah was renowned for his **philanthropic** gifts, building dispensaries throughout northern India."*

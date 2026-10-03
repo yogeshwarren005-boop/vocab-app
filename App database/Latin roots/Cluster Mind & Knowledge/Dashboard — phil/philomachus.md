@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ruffs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ruffs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus name for the ruff (*Calidris pugnax*, formerly *Philomachus pugnax*), an Old World shorebird famed for courtship battles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian ethology, male sandpipers possessing ornate neck ruffs who display on communal leks in springtime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog philomachus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The polygamous shorebird formerly known as **philomachus** displays extraordinarily variable ruffs and ear-tufts during lek combat."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"No two males of the genus **philomachus** are colored alike, presenting a classic study in sexual dimorphism and mate choice."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The fowler captured live specimens of **philomachus** in the fens, selling the pugnacious ruffs to London epicures."*

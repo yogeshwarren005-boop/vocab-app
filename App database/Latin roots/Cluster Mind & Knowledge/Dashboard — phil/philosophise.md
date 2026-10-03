@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason philosophically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason philosophically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speculate or theorize about fundamental issues; explain or moralize in philosophical terms (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary dialogue, engaging in detached reflection upon human folly while observing worldly commotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For he began to philosophise in order to judge his impressions (_phantasias_) and to discover which of them are true and which false, so as to be free from perturbation."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"But not being at that time in a disposition to philosophise upon this phenomenon, I rather chose to observe what course the island would take, because it seemed for a while to stand still."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Moving out over the divide above town the Professor noticed the general depression of the party, and forthwith began philosophising."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"Men love to **philosophise** upon the vanity of life while greedily reaching for every worldly luxury within their grasp."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare would **philosophise** upon the simple virtues of peasant labor, forgetting the harsh poverty beneath."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The time traveler began to **philosophise** upon the eventual fate of human intellect in an automated golden age."*

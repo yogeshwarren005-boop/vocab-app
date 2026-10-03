@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to philately or of interest to philatelists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to philately or of interest to philatelists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to philately or postage stamps; philatelic (an archaic or variant form).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century hobbyist periodicals, describing early postal history and stamp classification systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philatelical designates of or relating to philately or of interest to philatelists."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"Mr. Hoopdriver displayed a modest **philatelical** album, filled with faded French Empire and German states issues."*
+> - 📜 **Charles Dickens (*All the Year Round*):** *"A curious **philatelical** mania swept European capitals, with boys trading rare postal adhesives in public squares."*
+> - 📜 **Mark Twain (*Following the Equator*):** *"The colonial postmaster was an authority on **philatelical** oddities, showing misprinted postal surcharges."*

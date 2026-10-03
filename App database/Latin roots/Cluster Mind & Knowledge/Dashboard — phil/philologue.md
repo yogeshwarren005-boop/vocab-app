@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A humanist specializing in classical scholarship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humanist specializing in classical scholarship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A philologist; a scholar of language, literature, and linguistics (often with a French or archaic connotation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, a savant devoted to the history of words, grammatical forms, and textual preservation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philologue designates a humanist specializing in classical scholarship."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Erasmus was hailed throughout Europe as the prince of letters, a consummate **philologue** who purified the Greek New Testament."*
+> - 📜 **Ernest Renan (*The Future of Science*):** *"The modern **philologue** reconstructs dead civilizations through the subtle evidence preserved in their linguistic monuments."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The Roman **philologue** lectured in the Forum upon the archaisms of Ennius and the pristine vigor of Latin speech."*

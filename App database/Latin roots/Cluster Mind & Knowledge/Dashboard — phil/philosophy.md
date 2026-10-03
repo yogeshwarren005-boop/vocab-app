@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief (or system of beliefs) accepted as authoritative by some group or school.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rational investigation of questions about existence and knowledge and ethics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the fundamental nature of knowledge, reality, and existence; also a guiding personal life creed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, academic discourse spanning epistemology, metaphysics, logic, ethics, and aesthetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast any philosophy in thee, shepherd?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Preach some philosophy to make me mad, And thou shalt be canoniz’d, cardinal; For, being not mad but sensible of grief, My reasonable part produces reason How I may be deliver’d of these woes, And teaches me to kill or hang myself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hang up **philosophy**! Unless **philosophy** can make a Juliet, displant a town, reverse a prince's doom, it helps not."*
+> - 📜 **John Milton (*Comus*):** *"How charming is divine **philosophy**! Not harsh and crabbed, as dull fools suppose, but musical as is Apollo's lute."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A little **philosophy** inclineth man's mind to atheism, but depth in **philosophy** bringeth men's minds about to religion."*

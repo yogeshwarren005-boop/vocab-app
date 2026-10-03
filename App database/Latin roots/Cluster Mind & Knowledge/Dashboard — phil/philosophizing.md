@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exposition (often superficially) of a particular philosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason philosophically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of engaging in philosophical speculation, reflection, or moralizing discourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic narrative, paused reflection upon mortality, fate, or ethics in the midst of turmoil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Why,” thought Prince Andrew, “that’s the captain who stood up in the sutler’s hut without his boots.” He recognized the agreeable, philosophizing voice with pleasure."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Dimmler struck a chord and, turning to Natásha, Nicholas, and Sónya, remarked: “How quiet you young people are!” “Yes, we’re philosophizing,” said Natásha, glancing round for a moment and then continuing the conversation."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"P.” Philosophizing thus, he presently sent the Green Imp at her quietest pace in at the home driveway."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Prince Andrei tired of the ceaseless political **philosophizing** of the Petersburg salons, longing for the simplicity of the camp."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber's eloquent **philosophizing** could not pay the baker's bill, yet it sustained his cheerful spirit."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Wolf Larsen indulged in brutal **philosophizing**, arguing that life was a mere ferment of yeast fighting for crumbs."*

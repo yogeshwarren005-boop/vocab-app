@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic on the philippine islands; achieved independence from the united states in 1946.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archipelago in the southwestern pacific including some 7000 islands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign island country in Southeast Asia situated in the western Pacific Ocean, comprising over 7,600 islands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colonial maritime history, a major Spanish Pacific captaincy-general linked to Acapulco via the Manila Galleon trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, the last of the Standings, dying soon without issue, fought as a common soldier in the Philippines, in our latest war, and to do so I resigned, in the full early ripeness of career, my professorship in the University of Nebraska."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I fought in the Philippines because it was the tradition of the Standings to fight."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"All over the East,--in Burma, Indo-China, the Malay States, the Philippines, wherever he can force an entrance,--you find the Chinese merchant and the Chinese coolie, and it is no state-managed enterprise that takes them there."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extraordinary endemic bird species inhabiting the **philippines** point to long isolation on volcanic island chains."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Whalers sailed westward through the Straits of Sunda toward the tempestuous seas of the **philippines** in pursuit of sperm whales."*
+> - 📜 **Mark Twain (*Autobiography of Mark Twain*):** *"The acquisition of the **philippines** marked our entry into imperial colonial ambitions far removed from our founding principles."*

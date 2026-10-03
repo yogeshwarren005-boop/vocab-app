@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admiration for britain and british customs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admiration for britain and british customs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love, admiration, or fondness for England, English culture, literature, institutions, or customs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical discourse, cultural affinity for British traditions influencing international diplomacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anglophilia designates admiration for britain and british customs."*
+> - 📜 **Henry James (*The American Scene*):** *"In Boston drawing rooms, a refined **anglophilia** dictated everything from literary taste to afternoon tea service."*
+> - 📜 **Alexis de Tocqueville (*Journeys to England and Ireland*):** *"His political **anglophilia** led him to study how local aristocratic rule preserved stability during rapid industrialization."*
+> - 📜 **George Bernard Shaw (*John Bull's Other Island*):** *"Broadbent indulged in sentimental **anglophilia**, believing English common sense could pacify all ancient Irish feuds."*

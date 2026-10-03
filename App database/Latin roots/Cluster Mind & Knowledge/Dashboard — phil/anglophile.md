@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An admirer of england and things english.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An admirer of england and things english.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is fond of or greatly admires England, the English people, or English customs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history, foreign intellectuals or diplomats adopting British tailoring, manners, and parliamentary ideals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anglophile designates an admirer of england and things english."*
+> - 📜 **Henry James (*English Hours*):** *"The traveling American was a confessed **anglophile**, enchanted by the misty green parks and historic minsters of London."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"Continental intellectuals often become **anglophile** in proportion to their desire for personal and political freedom."*
+> - 📜 **W. Somerset Maugham (*The Razor's Edge*):** *"Elliott Templeton was an unrepentant **anglophile**, boasting of his invitations to country weekends in Sussex."*

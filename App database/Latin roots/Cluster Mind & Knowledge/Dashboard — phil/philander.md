@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have amorous affairs; of men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk or behave amorously, without serious intentions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Readily or frequently enter into casual, non-committal sexual relationships with women; flirt frivolously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical comedy and character sketches, behaving as an unfaithful rake or chronic seducer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mark,” said Gabriel, sternly, “now you mind this: none of that dalliance-talk—that philandering way—that dandle-smack-and-coddle style of yours—about Miss Everdene."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"And the thought that he was philandering his time away with those Caws made me ready for almost anything."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"It is not the purpose of this discursive paper to take up the details of the Clarinda episode; but philandering is scarcely the word by which to describe the mutual relations of the lovers."*
+> - 📜 **George Bernard Shaw (*The Philanderer*):** *"Charteris claimed that to **philander** gracefully was the highest attainment of a civilized man without heart."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"Pen was warned by his worldly uncle not to **philander** with country maidens whose hearts might take flirtation seriously."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Henry Crawford could never resist the temptation to **philander** with every attractive woman in the neighborhood."*

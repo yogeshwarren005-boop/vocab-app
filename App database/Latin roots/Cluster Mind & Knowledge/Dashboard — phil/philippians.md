@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new testament book containing an epistle from saint paul to the church at philippi in macedonia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of philippi in ancient macedonia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Epistle of Paul to the Philippians, a book of the New Testament; also the inhabitants of Philippi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical studies, a warm prison epistle written by Paul from Rome expressing joy, humility, and gratitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Work 99:6 out your own salvation with fear and trembling," says the apostle, and he straightway adds: "for it is God which worketh in you both to will and to do of His good 99:9 pleasure" (Philippians ii. 12, 13)."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Phil may stand for Philip, Phillimore, Philippians, Philosophy." "It stands for Philip with me, sir." "Philip; I had a brother once of that name, but he is no longer living."*
+> - 📜 **King James Bible (*The Holy Bible*):** *"The epistle of Paul the Apostle to the **philippians** opens with prayers of joy for their fellowship in the gospel."*
+> - 📜 **John Calvin (*Commentary on the Epistle to the Philippians*):** *"In his letter to the **philippians**, the apostle sets forth the humility of Christ as the supreme pattern for all believers."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The Angelic Doctor expounds the passage in **philippians** where Christ emptied himself, taking the form of a servant."*

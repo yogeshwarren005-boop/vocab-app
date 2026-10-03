@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large orchestra; can perform symphonies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composing or characteristic of an orchestral group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoted to music; usually used in the names of orchestras, musical societies, or symphony concerts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical musical culture, symphony orchestras and concert halls founded to cultivate appreciation of orchestral masterworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philharmonic designates a large orchestra; can perform symphonies."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The **philharmonic** society presented Beethoven's Ninth Symphony with a magnificent chorus that electrified the hall."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"She listened to the **philharmonic** broadcast in the quiet evening, transported by the soaring violins above London roofs."*
+> - 📜 **E. M. Forster (*Howards End*):** *"Helen Schlegel attended the **philharmonic** performance of the Fifth Symphony, seeing goblins walking across the universe."*

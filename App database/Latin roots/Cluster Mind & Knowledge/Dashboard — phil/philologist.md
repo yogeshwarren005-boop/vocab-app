@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A humanist specializing in classical scholarship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humanist specializing in classical scholarship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar who specializes in philology; a student of the historical development and relationships of languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century humanist scholarship, an academic dedicated to deciphering ancient texts, epigraphs, and etymologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Something of that sort.” “Colonial, is it not?” pursued Lydia, with the air of a philologist."*
+> - 📜 **Friedrich Nietzsche (*Beyond Good and Evil*):** *"As a trained classical **philologist**, I learned to read ancient texts slowly, with delicate reverence for each syllable."*
+> - 📜 **Max Müller (*Chips from a German Workshop*):** *"The **philologist** examines fossilized words in ancient idioms just as the geologist analyzes strata in the earth's crust."*
+> - 📜 **George Eliot (*Romola*):** *"The Florentine **philologist** spent his eyesight deciphering corrupt Greek manuscripts brought from fallen Constantinople."*

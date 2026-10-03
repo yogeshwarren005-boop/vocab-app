@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or dealing with philology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or dealing with philology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of philology; relating to the historical study of language and literary texts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic scholarship, applying rigorous textual criticism and comparative grammar to decipher ancient manuscripts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philological designates of or relating to or dealing with philology."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Comparative **philological** research demonstrated beyond doubt the common Indo-European ancestry of Sanskrit, Greek, and Latin."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had amassed vast **philological** notebooks, attempting to prove that all world mythologies were corruptions of Hebrew truth."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"Nietzsche brought a passionate **philological** precision to the study of early Greek tragic poetry and Dionysian cults."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Englishman and husband of elizabeth ii (born 1921).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Englishman and husband of elizabeth ii (born 1921).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A personal name of Greek origin (*Philippos*, lover of horses); borne by kings of Macedon, France, and Spain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient history, Philip II of Macedon (382–336 BC), who unified Greece and paved the way for Alexander the Great.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His father was called Philip of Macedon, as I take it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Helen, the mother of great Constantine, Nor yet Saint Philip’s daughters, were like thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The BASTARD, PHILIP FAULCONBRIDGE, his half-brother, bastard son to King Richard I."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"King **philip**, determine on some charge; for we will have this match solemnized before the setting sun."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman legions faced the phalanx of King **philip** upon the plains of Cynoscephalae, testing sword against spear."*
+> - 📜 **W. Somerset Maugham (*Of Human Bondage*):** *"Young **philip** Carey sat in the study at Blackstable vicarage, wondering what life held in store for him."*

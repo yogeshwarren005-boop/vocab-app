@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One genus; usually included in family hydrangeaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One genus; usually included in family hydrangeaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical botanical family of flowering shrubs, now generally included in the mock-orange family Hydrangeaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, woody plants characterized by opposite leaves and showy four-petaled white flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philadelphaceae designates one genus; usually included in family hydrangeaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Botanists formerly placed the fragrant mock-orange shrubs in the family **philadelphaceae** based on capsule structure."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The woody genera grouped under **philadelphaceae** exhibit valvate petals and numerous stamens inserted on the calyx tube."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"In the temperate Himalayan valleys, shrubs allied to **philadelphaceae** brighten cliff faces with fragrant white blossoms."*

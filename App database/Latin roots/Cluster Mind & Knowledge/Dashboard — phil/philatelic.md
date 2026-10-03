@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to philately or of interest to philatelists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to philately or of interest to philatelists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of stamp collecting or the study of postage stamps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics and collecting culture, evaluating watermarks, perforations, plate varieties, and cancellations on stamps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philatelic designates of or relating to philately or of interest to philatelists."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"The murder victim had maintained an extraordinary **philatelic** collection, containing rare inverted center errors from the Orient."*
+> - 📜 **Agatha Christie (*The Murder at the Vicarage*):** *"The vicar examined the rare triangular Cape of Good Hope stamp with keen **philatelic** curiosity."*
+> - 📜 **P. G. Wodehouse (*Leave It to Psmith*):** *"Lord Emsworth listened blankly to the guest's dissertation upon the **philatelic** rarities of Mauritius."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admiration for women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admiration for women.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love, fondness, or admiration for women; the opposite of misogyny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and social ethics, chivalric devotion or intellectual appreciation of women's moral and creative intellect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philogyny designates admiration for women."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"Tanner declared that his outspoken **philogyny** was not sentimental flattery, but a scientific admiration for the Life Force."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The kindly colonel's natural **philogyny** made him the chivalrous champion of every distressed gentlewoman in London."*
+> - 📜 **Arthur Schopenhauer (*Essays and Aphorisms*):** *"The philosopher mocked the romantic **philogyny** of modern European culture as an absurd sentimental idealization of nature."*

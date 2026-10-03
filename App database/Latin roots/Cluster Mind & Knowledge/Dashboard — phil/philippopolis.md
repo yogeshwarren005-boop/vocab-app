@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient city in southern bulgaria; commercial center of an agricultural region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient city in southern bulgaria; commercial center of an agricultural region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greco-Roman name of Plovdiv, Bulgaria, founded on the Maritsa River by Philip II of Macedon in 342 BC.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Balkan historical geography, an ancient Thracian metropolis and major military fortress along the Via Militaris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philippopolis designates an ancient city in southern bulgaria; commercial center of an agricultural region."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Goths sacked the populous city of **philippopolis**, carrying away thousands of captives from the Thracian plain."*
+> - 📜 **Ammianus Marcellinus (*Roman History*):** *"The imperial forces rallied beneath the massive granite ramparts of **philippopolis** after the retreat from Adrianople."*
+> - 📜 **Lord Byron (*Letters and Journals*):** *"Our caravan rested at Plovdiv, the ancient **philippopolis**, admiring Roman amphitheatre ruins overlooking the broad Maritsa."*

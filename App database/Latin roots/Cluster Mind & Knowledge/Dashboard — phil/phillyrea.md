@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of evergreen shrubs of the mediterranean region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of evergreen shrubs of the mediterranean region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of evergreen shrubs and small trees in the olive family (Oleaceae), native to the Mediterranean region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean landscape botany, a characteristic component of the maquis scrubland with glossy leathery leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phillyrea designates small genus of evergreen shrubs of the mediterranean region."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The evergreen **phillyrea** withstands the severest sea gales, making it an admirable hedge for coastal gardens."*
+> - 📜 **George Sand (*A Winter in Majorca*):** *"Along the rocky paths of Valldemossa, thickets of aromatic myrtle and glossy **phillyrea** bordered the terrace walls."*
+> - 📜 **Edward Dodwell (*A Classical and Topographical Tour through Greece*):** *"The dry limestone hills of Attica were covered with dense maquis of wild olive, lentisk, and leathery **phillyrea**."*

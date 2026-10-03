@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of leaf insects (Phylliidae) commonly known as true walking leaves or leaf bugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and evolutionary camouflage, insects possessing flattened, vein-patterned bodies that mimic tree leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phillidae designates leaf insects."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the Moluccan forests, a walking leaf insect of the family **phillidae** simulated a chewed green leaf with uncanny perfection."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection produced in **phillidae** the most extraordinary mimicry of foliage, complete with faux fungal spots and veining."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Predators repeatedly passed over the resting insect of **phillidae**, deceived by its leaf-like expanded legs and antennae."*

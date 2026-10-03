@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cercopidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of cercopidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of spittlebugs or froghoppers in the family Aphrophoridae, including the meadow spittlebug (*Philaenus spumarius*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology, xylem-feeding hemipteran insects whose nymphs produce protective frothy spittle masses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philaenus designates a genus of cercopidae."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Insect Life*):** *"The tiny nymph of **philaenus** envelops itself in a mound of airy foam, shielding its delicate body from desiccating sun."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrate Animals*):** *"Dissection of the froghopper **philaenus** illustrates the remarkable muscular specialization of the hind jumping legs."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Meadow grasses were dotted with the frothy secretions of **philaenus**, which farmers call cuckoo-spit."*

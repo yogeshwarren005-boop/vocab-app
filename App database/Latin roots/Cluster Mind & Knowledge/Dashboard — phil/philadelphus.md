@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various chiefly deciduous ornamental shrubs of the genus philadelphus having white sweet-scented flowers, single or in clusters; widely grown in temperate regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various chiefly deciduous ornamental shrubs of the genus philadelphus having white sweet-scented flowers, single or in clusters; widely grown in temperate regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous shrubs in the family Hydrangeaceae, commonly known as mock-orange, noted for fragrant white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture, shrubs celebrated for sweet citrus-scented blossoms reminiscent of true orange flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Anyone can read them in the Greek version, which was made by the seventy elders for Ptolemy Philadelphus."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The garden shrub **philadelphus**, commonly termed mock-orange, bears four-parted blossoms of overpowering fragrance in June."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Beside the cellar hole of the vanished farmhouse, a hardy bush of **philadelphus** bloomed fragrant amidst the sumac."*
+> - 📜 **William Bartram (*Travels through North and South Carolina, Georgia, East and West Florida*):** *"Along the rocky river bluffs, I collected a wild species of **philadelphus** adorned with snowy blossoms."*

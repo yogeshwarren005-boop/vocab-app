@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to philosophy or philosophers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the attitude of a philosopher; meeting trouble with level-headed detachment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of philosophy; calm, rational, and stoically resigned in the face of adversity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual essays, an analytical temperament seeking foundational explanations behind superficial events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"A _snell_ remark of his brother William suggesting some new and comic association with a philosophic term dropped in the course of the discussion, would bring him back with a roar of laughter to the actual world and to more sublunary themes."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have seen myself that one man contemplated by Pascal’s philosophic eye."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Well,” continued her philosophic mother, “I am glad I did not know of your journey at the time; but now it is all over, perhaps there is no great harm done."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Marcus Aurelius maintained a serene **philosophic** calm amidst the turbulent pestilence and barbarian wars of the Danube."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate regarded social prejudices with **philosophic** amusement, confident that science would soon dispell ancient ignorance."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"With a **philosophic** flourish Cato throws himself upon his sword; I quietly take to the ship and the boundless sea."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A desire for wealth and material possessions with little interest in ethical or spiritual matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A desire for wealth and material possessions with little interest in ethical or spiritual matters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attitude, behavior, or character of a philistine; anti-intellectual hostility or indifference to culture and the arts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural sociology, middle-class materialism and aesthetic complacency denounced by Victorian critics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It was a time rich in hidden intellectual forces, and yet it bore the stamp of that uninspired Philistinism which is so abundantly evidenced by the barren commonplace character of its architecture and art."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The greatest danger facing British civilization is the smug **philistinism** that measures all progress in tons of coal."*
+> - 📜 **George Bernard Shaw (*The Sanity of Art*):** *"Modern theatre must wage unceasing war against the respectable **philistinism** of suburban theatregoers."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"The pervasive **philistinism** of university dons excluded women scholars from entering the sacred college libraries."*

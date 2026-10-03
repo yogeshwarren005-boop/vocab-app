@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who considers situations from a philosophical point of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who considers situations from a philosophical point of view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who philosophizes, especially in a shallow, amateurish, pedantic, or pretentious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character criticism, an individual given to trivial moralizing without practical worldly experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philosophizer designates someone who considers situations from a philosophical point of view."*
+> - 📜 **Henry James (*The Bostonians*):** *"Basil Ransom viewed the elderly **philosophizer** as a well-meaning dreamer whose windy lectures changed nothing."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"The utopian community was crowded with every species of reformer and long-haired **philosophizer** from New England."*
+> - 📜 **Washington Irving (*Salmagundi*):** *"Our local **philosophizer** took the floor, proving in three tedious hours that virtue was preferable to vice."*

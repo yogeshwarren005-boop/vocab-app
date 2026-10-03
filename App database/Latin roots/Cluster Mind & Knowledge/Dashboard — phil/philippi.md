@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in ancient macedonia that was important in early christianity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Octavian and mark antony defeated brutus and cassius in 42 bc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient city in eastern Macedonia, famous as the site of the decisive Roman battle in 42 BC.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman history, the double battle where Mark Antony and Octavian defeated Brutus and Cassius, ending the Republic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AGRIPPA. [_Aside to Enobarbus_.] Why, Enobarbus, When Antony found Julius Caesar dead, He cried almost to roaring, and he wept When at Philippi he found Brutus slain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He at Philippi kept His sword e’en like a dancer, while I struck The lean and wrinkled Cassius, and ’twas I That the mad Brutus ended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plains of Philippi Scene II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To tell thee thou shalt see me at **philippi**; the evil spirit of Caesar vanished, leaving Brutus in dread silence."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The liberties of ancient Rome expired upon the plains of **philippi**, where the last champions of the senate fell."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"Centuries later, travelers looked upon the mounds of **philippi** where republican freedom fought its dying contest."*

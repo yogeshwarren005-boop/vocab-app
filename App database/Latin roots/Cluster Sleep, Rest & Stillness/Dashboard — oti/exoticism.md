@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being exotic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being exotic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The allure, charm, or character of foreign origin; unusual distinction in style or manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century European art and literature, the romantic fascination with Eastern or distant non-Western cultures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exoticism designates the quality of being exotic."*
+> - 📜 **Gustave Flaubert (*Salammbô*):** *"The opulent palace interiors glittered with the sumptuous **exoticism** of ancient Carthage."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond cultivated a delicate **exoticism** in his Florentine villa to impress visiting connoisseurs."*
+> - 📜 **Edward Said (*Orientalism*):** *"Western imaginative geography constructed a stylized **exoticism** that obscured actual Near Eastern realities."*

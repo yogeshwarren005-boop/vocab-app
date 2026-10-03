@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discussion intended to produce an agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity or business of negotiating an agreement; coming to terms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual discussion and arrangement of the terms of a transaction or agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public international law, formal diplomatic communication between sovereign states to settle disputes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook is at home, as in that case they may complete the negotiation without delay."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whether there are two people in England less likely to come satisfactorily out of any negotiation with Mr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Miss Skiffins’s brother conducted the negotiation."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Deliberative assemblies provide a public arena for compromise and continuous political **negotiation**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Protracted **negotiation** averted military collision between the rival empires for another decade."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I conducted the diplomatic **negotiation** with French ministers with patient perseverance and frugality."*

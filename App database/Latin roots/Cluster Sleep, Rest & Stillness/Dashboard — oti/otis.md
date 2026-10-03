@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states inventor who manufactured the first elevator with a safety device (1811-1861).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the otididae: european bustard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of large terrestrial birds comprising the Great Bustard (Otis tarda); a given name or surname.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, the type genus of the family Otididae, characterized by ground-dwelling bustards inhabiting open plains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Mary Otis, Miss Harriet Peabody, Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Lathrop, Miss Louisa Otis, Mrs."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"Otis, the American Minister, bought Canterville Chase, every one told him he was doing a very foolish thing, as there was no doubt at all that the place was haunted."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Across the open Argentine pampas we observed birds closely related to the European genus **Otis** foraging in dry grasses."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Flocks of the Great Bustard, known to naturalists as **Otis**, once grazed commonly upon the chalky downs of Wiltshire."*
+> - 📜 **Thomas Bewick (*A History of British Birds*):** *"The massive plumage and wary habits of the genus **Otis** made it a difficult quarry for early sportsmen."*

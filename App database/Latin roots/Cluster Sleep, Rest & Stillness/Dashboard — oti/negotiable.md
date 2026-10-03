@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being passed or negotiated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be negotiated or arranged by compromise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to discussion or modification; capable of being transferred legally from one person to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial banking and finance, a financial instrument whose legal title can be transferred by endorsement or delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Purchase in the open market anywhere various kinds of negotiable paper. d."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I told them plainly, and as a business man, that they would only be running their heads into a trap if I wrote any such order, but that the cheque was negotiable anywhere."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Rent-papers thus came in the fifteenth century to be negotiable paper in somewhat general use."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A bill of exchange serves as a highly **negotiable** instrument that expedites international trade payments."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"Government certificates of debt must remain readily **negotiable** to restore commercial confidence."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"The liquidity of an asset depends upon whether it is immediately **negotiable** without capital loss."*

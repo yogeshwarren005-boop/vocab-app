@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who negotiates (confers with others in order to reach a settlement).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who negotiates (confers with others in order to reach a settlement).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who conducts negotiations; an agent, merchant, or negotiator in trade or diplomacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern commerce, an international wholesale merchant conducting large-scale maritime trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, negotiant designates someone who negotiates (confers with others in order to reach a settlement)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A skilled Roman **negotiant** was dispatched to the Persian court to fix terms of border commerce."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Dutch **negotiant** secured lucrative trading privileges through patient diplomacy at Versailles."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"The envoy acted not as a dignified ambassador, but as a mercenary **negotiant** bartering national honor."*

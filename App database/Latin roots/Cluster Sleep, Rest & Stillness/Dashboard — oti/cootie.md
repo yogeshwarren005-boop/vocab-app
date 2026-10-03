@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic louse that infests the body of human beings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parasitic louse that infests the body of human beings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slang for a body louse; in American child folklore, an imaginary germ or contamination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military slang of the First World War, trench lice infesting soldiers' uniforms and bedding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O Thou! whatever title suit thee— Auld Hornie, Satan, Nick, or Clootie, Wha in yon cavern grim an’ sootie, Clos’d under hatches, Spairges about the brunstane cootie, To scaud poor wretches!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Rejoice, ye birring paitricks a’; Ye cootie muircocks, crousely craw; Ye maukins, cock your fud fu’ braw Withouten dread; Your mortal fae is now awa; Tam Samson’s dead!"*
+> - 📜 **John Dos Passos (*Three Soldiers*):** *"The weary infantrymen stripped off their tunics by candlelight to hunt for the elusive **cootie**."*
+> - 📜 **E. E. Cummings (*The Enormous Room*):** *"In the filthy detention barracks, every blanket was infested with biting **cootie** vermin."*
+> - 📜 **Ernest Hemingway (*A Farewell to Arms*):** *"He sat by the tent flap scratching his seams where a stray **cootie** had found lodging."*

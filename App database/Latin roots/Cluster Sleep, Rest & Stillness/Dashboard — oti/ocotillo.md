@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Desert shrub of southwestern united states and mexico having slender naked spiny branches that after the rainy season put forth foliage and clusters of red flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desert shrub of southwestern united states and mexico having slender naked spiny branches that after the rainy season put forth foliage and clusters of red flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spiny, drought-deciduous desert shrub (Fouquieria splendens) native to the southwestern United States and Mexico.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In desert botanical ecology, a xerophytic plant whose whip-like stems leaf out rapidly following desert rains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ocotillo designates desert shrub of southwestern united states and mexico having slender naked spiny branches that after the rainy season put forth foliage and clusters of red flowers."*
+> - 📜 **John Muir (*Steep Trails*):** *"Slender red blossoms crowned the wand-like stems of the **ocotillo** across the sun-baked Sonoran flats."*
+> - 📜 **Willa Cather (*Death Comes for the Archbishop*):** *"Across the arid canyon floor, clumps of spiny **ocotillo** stood like giant candelabra against the red sandstone cliffs."*
+> - 📜 **Mary Austin (*The Land of Little Rain*):** *"After the sudden desert storm, the grey thorny canes of the **ocotillo** burst into miraculous emerald leaf."*

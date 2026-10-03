@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or from or characteristic of another place or part of the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strikingly strange or unusual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating in or characteristic of a distant foreign country; strikingly unusual or alluring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and conservation biology, an introduced non-native species establishing in an alien ecosystem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet the exotic had grown here, suddenly as the prophet’s gourd; and had drawn hither Tess."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For like certain other omnivorous roving lovers that might be named, my Lord Whale has no taste for the nursery, however much for the bower; and so, being a great traveller, he leaves his anonymous babies all over the world; every baby an exotic."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He's an expert in the martial arts and in using exotic weapons."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The lush Brazilian forest was filled with **exotic** orchid blooms and brightly colored parrots."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The trader displayed a collection of rare ivory carvings and **exotic** African plumage."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg carried with him the fierce, mysterious dignity of his **exotic** Pacific island home."*

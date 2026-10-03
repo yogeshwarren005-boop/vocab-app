@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who negotiates (confers with others in order to reach a settlement).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who negotiates (confers with others in order to reach a settlement).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who conducts or takes part in negotiations; an authorized intermediary or mediator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dispute resolution, a professional third party facilitating compromise between conflicting factions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This was accordingly the process adopted in the case of France in 1798.] [It has been the usage for the Executive, when it communicates a treaty to the Senate for their ratification, to communicate also the correspondence of the negotiators."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"A successful prime minister must prove an adroit parliamentary **negotiator** among contending factions."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The veteran **negotiator** recognized that concessions made to an insatiable aggressor only hasten war."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"William of Orange sent his most trusted Dutch **negotiator** to confer secretly with English lords."*

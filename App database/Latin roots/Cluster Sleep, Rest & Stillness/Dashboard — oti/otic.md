@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to near the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to near the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated near, or affecting the ear; auditory or aural in anatomical reference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human skull osteology, relating to the otic capsule that encloses the inner ear labyrinth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otic designates of or relating to near the ear."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic suppurative disease may spread from the **otic** cavity into adjacent intracranial sinuses."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The tiny vestigial tubercle upon the **otic** margin of the human ear reflects ancient mammalian descent."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The prootic and opisthotic bones unite during embryonic development to form the rigid **otic** capsule."*

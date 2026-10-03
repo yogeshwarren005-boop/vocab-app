@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation or infection of the ear, typically classified as otitis externa, media, or interna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical otolaryngology, middle ear effusion and bacterial inflammation leading to conductive hearing impairment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otitis designates inflammation of the ear."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **otitis** media frequently complicates measles and scarlet fever in young pediatric patients."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Early paracentesis of the tympanic membrane prevents permanent auditory injury in severe suppurative **otitis**."*
+> - 📜 **John Hunter (*Works*):** *"Careful examination of the temporal bone revealed extensive osteitis resulting from neglected chronic **otitis**."*

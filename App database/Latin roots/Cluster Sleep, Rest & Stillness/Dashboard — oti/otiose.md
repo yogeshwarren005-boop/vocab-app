@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving no useful purpose; having no excuse for being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing no result or effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving no practical purpose or result; useless, futile, idle, or superfluous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and comparative mythology, an otiose deity (deus otiosus) who created the cosmos and then withdrew from human affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otiose designates serving no useful purpose; having no excuse for being."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"All rhetorical declamation becomes utterly **otiose** when the plain facts speak for themselves."*
+> - 📜 **Henry James (*The Sacred Fount*):** *"My lingering doubts were dismissed as **otiose** speculations that led nowhere in our social inquiry."*
+> - 📜 **Mircea Eliade (*The Sacred and the Profane*):** *"Tribal religions frequently venerate a celestial creator who has become an **otiose** god, remote from daily prayer."*

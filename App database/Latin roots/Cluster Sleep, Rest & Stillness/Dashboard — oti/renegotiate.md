@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Negociate anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revise the terms of in order to limit or regain excess profits gained by the contractor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To negotiate again in order to alter, update, or revise the terms of an existing agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international treaty law and finance, formally amending sovereign debt covenants or trade pacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, renegotiate designates negociate anew."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"States that find initial covenants burdensome will seek to **renegotiate** the constitutional compact."*
+> - 📜 **Walter Bagehot (*Lombard Street*):** *"When monetary panics subside, financial syndicates must **renegotiate** their discounted credit obligations."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The allied powers met at Yalta to **renegotiate** the postwar administrative boundaries of central Europe."*

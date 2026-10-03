@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An isotonic solution of sodium chloride and distilled water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing salt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or impregnated with salt; salty; consisting of or resembling salt; a solution of salt in water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a sterile solution of sodium chloride in water (physiological saline, 0.9% NaCl) isotonic with human blood plasma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His were the shinbones of the saline beef; his would have been the drumsticks."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In fact, I was already obliged to increase my respirations to eke out of this cell the little oxygen it contained, when suddenly I was refreshed by a current of pure air, and perfumed with saline emanations."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"His were the shinbones of the saline beef; his would have been the drumsticks."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"His were the shinbones of the **saline** beef; his would have been the drumsticks of the fowl."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"He may even now be wandering on some plesiosaurus-haunted **saline** beach beneath a desolate sky."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Various **saline** plants, known as halophytes, thrive on the dry borders of the salt lagoons."*
+

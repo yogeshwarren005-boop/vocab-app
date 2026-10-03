@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose disease is incurable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being cured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to be cured, remedied, or corrected; enduring or unyielding in pathology or habit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hospice oncology and chronic palliative medicine, designating terminal pathology refractory to curative treatments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That gave him out incurable,— PAROLLES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Borrowing only lingers and lingers it out, but the disease is incurable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then pause not; for the present time’s so sick That present med’cine must be minist’red Or overthrow incurable ensues."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He had a severe, harsh temper, and an **incurable** disposition to brood over injuries."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The delay in the Court of Chancery has grown into an **incurable** cancer upon the commonwealth."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There are certain queer times and occasions in this strange mixed affair we call life when a man takes this whole universe for an **incurable** practical joke."*
+

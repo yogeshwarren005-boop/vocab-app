@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in central kansas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in central kansas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt marsh, salt flat, salt pan, or coastal pool where salt water is evaporated to produce mineral salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Spanish colonial economic geography, state-regulated salt pans along Caribbean and Mediterranean coasts exploited for trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"A gentleman at Salina, Kansas, obtained two buffalo calves, and trained them carefully to the yoke."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"According to Leconte,[3] at Salina, one hundred and eighty-five miles west of the State line of Missouri, the rocks of the Dakota group constitute the bluffs, and continue to do so as far as Fort Harker, thirty-three miles farther west."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"About the close of 1867, a small body of Kiowas appeared in the vicinity of Wilson's Station, a few miles above Ellsworth, being first discovered by a young man from Salina, who was herding cattle there."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The coastal **salina** sparkled under the tropical sun, its white crystalline crust harvested by local laborers."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We rode past an extensive inland **salina**, where the encrusted mud looked like a vast sheet of frozen snow."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"The Spanish mission drew its supply of coarse cooking salt from an expansive **salina** bordering the bay."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a languorous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a languorous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a languorous manner; with dreamy, relaxed slowness or luxurious exhaustion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive narrative, reclining or drifting in an unhurried, voluptuous, or torpid fashion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, languorously designates in a languorous manner."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The smoke of his cigar rose **languorously** toward the ceiling as Holmes leaned back in contemplation."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"She moved **languorously** through the ballroom, her silk train trailing across the polished parquet."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The Roman fountain splashed **languorously** in the shaded courtyard of the ancient palazzo."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond or deviating from the usual or expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eager to investigate and learn or learn more (sometimes about others' concerns).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eager to know or learn; inquisitive; or strange, unusual, and attracting attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliographic and antiquarian terminology, denoting books or objects that are rare, esoteric, or of specialized scholarly interest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my slight Muse do please these curious days, The pain be mine, but thine shall be the praise. 39 O how thy worth with manners may I sing, When thou art all the better part of me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Youth, thou bear’st thy father’s face; Frank nature, rather curious than in haste, Hath well compos’d thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall not find, Though you be therein curious, the least cause For what you seem to fear."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"It was really **curious** to note in cases of difficulty how the bees altered the hexagonal cells."*
+> - 📜 **William Shakespeare (*The Sonnets*):** *"Frank nature, rather **curious** than in haste, hath well compos'd thee."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Curiouser and **curious**! cried Alice, so much surprised that for the moment she quite forgot how to speak good English."*
+

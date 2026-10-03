@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At this time or period; now.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At this time or period; now.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At the present time; now; or in a flowing, uninterrupted manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary administrative and technological discourse, denoting conditions or parameters prevailing at the moment of observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I examined, too, in thought, the possibility of my ever being able to translate currently a certain little French story which Madame Pierrot had that day shown me; nor was that problem solved to my satisfaction ere I fell sweetly asleep."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our inventory tax is merely an extension of the passage tax on ships intruding on INOR's jurisdictions and which is currently being negotiated by the UIPS and INOR governments."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He was a broad-shouldered man, inclining to be portly, and he was currently accepted as a man of an indomitable will."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Miss Doran, whose striking face attracted much attention, was **currently** reported to be the wealthiest heiress in San Francisco."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rumour was **currently** received by the soldiers, who were prepared to believe any prodigy in that hour of alarm."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The decree was **currently** reported in the coffee-houses of Paris, exciting fierce debates among the patriots."*
+

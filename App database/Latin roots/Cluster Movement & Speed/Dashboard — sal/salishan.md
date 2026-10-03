@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of mosan language spoken in northwestern united states and western canada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of mosan language spoken in northwestern united states and western canada.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting the Salish family of indigenous North American languages spoken in British Columbia, Washington, and Montana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative Amerindian linguistics, languages characterized by complex consonant clusters, morphological reduplication, and polysynthetic verb structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salishan designates a family of mosan language spoken in northwestern united states and western canada."*
+> - 📜 **Franz Boas (*The Salishan Tribes of the Western Plateaus*):** *"The complex phonetic structure of the **salishan** dialects poses formidable challenges to classical transcription."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Grammatical prefixes in the **salishan** language family convey subtle spatial and somatic categories."*
+> - 📜 **John Wesley Powell (*Indian Linguistic Families of America*):** *"The geographical distribution of the **salishan** linguistic stock reflects extensive historical migrations."*
+

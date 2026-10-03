@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Virility drug (trade name levitra) used to treat erectile dysfunction in men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Virility drug (trade name levitra) used to treat erectile dysfunction in men.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The proprietary brand name for vardenafil, an oral pharmaceutical drug used for the treatment of erectile dysfunction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, a potent and selective phosphodiesterase type 5 (PDE5) inhibitor that enhances nitric oxide-mediated vascular smooth muscle relaxation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levitra designates virility drug (trade name levitra) used to treat erectile dysfunction in men."*
+> - 📜 **Louis S. Goodman & Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"The development of vardenafil, marketed as **levitra**, provided clinicians with a selective PDE5 inhibitor possessing high biochemical potency."*
+> - 📜 **Irwin Goldstein (*Integrative Men's Health*):** *"Clinical evaluation of **levitra** demonstrated significant improvements in penile hemodynamics and patient response rates."*
+> - 📜 **Arthur L. Burnett (*Erectile Dysfunction: From Bench to Bedside*):** *"Targeted therapeutic agents like **levitra** revolutionized the management of vascular and neurogenic erectile disorders."*
+

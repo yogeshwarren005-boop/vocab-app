@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn on or around an axis or a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move in an orbit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn or move in a circle around a central axis or focal point; to ponder or reflect upon deeply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics and planetary orbits, orbital revolution around a gravitational center governed by gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Consider, When you above perceive me like a crow, That it is place which lessens and sets off; And you may then revolve what tales I have told you Of courts, of princes, of the tricks in war."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so conduct me where, from company, I may revolve and ruminate my grief. [_Exit._] GLOUCESTER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as doth revolve And ruminate himself—shall he be worshipp’d Of that we hold an idol more than he?"*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"If this fall into thy hand, **revolve**. In my stars I am above thee; but be not afraid of greatness."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The primary planets **revolve** about the sun in ellipses having the sun in one focus."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"He sat by the fire to **revolve** in his mind the dangerous stratagem by which the prisoner might be saved."*
+

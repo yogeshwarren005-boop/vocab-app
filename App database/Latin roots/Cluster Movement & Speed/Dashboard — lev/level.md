@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A position on a scale of intensity or amount or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relative position or degree of value in a graded group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a flat, horizontal surface with no irregularities, tilt, or elevation difference; equal in rank, condition, or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geodesy and surveying, an instrument (such as a spirit level or optical transit) used to determine a truly horizontal line of sight perpendicular to local gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not an impostor, that proclaim Myself against the level of mine aim, But know I think, and think I know most sure, My art is not past power nor you past cure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, withered is the garland of the war, The soldier’s pole is fallen; young boys and girls Are level now with men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I am guiltless of your father’s death, And am most sensibly in grief for it, It shall as level to your judgement ’pear As day does to your eye."*
+> - 📜 **William Shakespeare (*The Sonnets*):** *"No, I am that I am, and they that **level** at my abuses reckon up their own."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Drive a nail home and clinch it so faithfully that you can wake up in the night and see your work on a **level** with the finest."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection tends only to make each organic being as perfect as, or slightly more perfect than, the other inhabitants of the same country with which it comes into competition, raising them to a common **level**."*
+

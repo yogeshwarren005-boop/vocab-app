@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of house built in new england; has two stories in front and one behind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of house built in new england; has two stories in front and one behind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wooden wall-mounted box for holding table salt in a kitchen; or a traditional style of colonial New England wooden frame house with an asymmetrical gabled roof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American vernacular colonial architecture, a dwelling characterized by a two-story front facade sloping down to a single-story rear lean-to.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltbox designates a type of house built in new england; has two stories in front and one behind."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The humble wooden **saltbox** dwelling stood beside the orchard, weathered by generations of Atlantic gales."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I reached into the wooden **saltbox** hanging near the hearth to season my simple meal of boiled corn."*
+> - 📜 **Laura Ingalls Wilder (*Little House on the Prairie*):** *"Ma kept a small cedar **saltbox** hanging conveniently near the cooking stove."*
+

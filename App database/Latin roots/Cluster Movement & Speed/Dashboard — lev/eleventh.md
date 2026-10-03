@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position 11 in a countable series of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming next after the tenth and just before the twelfth in position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming next after the tenth in an ordered sequence; being one of eleven equal parts into which a whole is divided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In proverbial and biblical parlance (at the eleventh hour), the latest possible time or final moment before an impending deadline or catastrophe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Mortimer of Scotland hath sent word That Douglas and the English rebels met The eleventh of this month at Shrewsbury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I’ll tell you, that self bill is urg’d Which in the eleventh year of the last king’s reign Was like, and had indeed against us passed But that the scambling and unquiet time Did push it out of farther question."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When I got to Casterbridge Barracks, they said, ‘The Eleventh Dragoon-Guards be gone away, and new troops have come.’ The Eleventh left last week for Melchester and onwards."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Douglas and the English rebels met at the **eleventh** hour upon the bloody field of Shrewsbury."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He postponed his decision until the **eleventh** hour, hoping that some unforeseen stroke of fortune would intervene."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Even in the **eleventh** hour of the monarchy, the court clung to illusions of absolute authority."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to increase velocity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to increase velocity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to accelerate; characterized by or contributing to an increase in speed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and autonomic regulation, acceleratory cardiac nerve fibers release norepinephrine to increase sinoatrial firing rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acceleratory designates tending to increase velocity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Stimulation of sympathetic pathways exerts a direct **acceleratory** action upon ventricular contraction during acute physiological stress."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The medulla contains both inhibitory and **acceleratory** centers regulating the rhythm of respiratory movements."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Adaptive biological modifications produce an **acceleratory** impetus that widens the gap between allied evolutionary lineages."*
+

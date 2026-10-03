@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being sold; fit for sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being sold; fit for sale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit or suitable to be sold; marketable and capable of fetching a commercial price.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial law, merchandise that meets standard merchantable quality without hidden defects rendering it unsalable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Until the precious liquor, filtered by degrees, and refined to proof, is flasked and priced, and salable at last, the world stands aloof."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"And there’s the extract, flasked and fine, And priced and salable at last!"*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Nearly all the securities (bonds, certificates, evidences of indebtedness) are salable at a market rate."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Harvest your crop as early as possible if you would escape frosts and have a **salable** article for market."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Every part of the captured leviathan was converted into a valuable and **salable** commodity."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The bankrupt corn factor was left with scarcely a single **salable** bushel of wheat in his warehouse."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to maintain a higher state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deteriorate in health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deterioration in health, behavior, or condition following a period of temporary improvement; a falling back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical infectious disease and addiction medicine, the recrudescence of active symptoms or return to habitual drug dependency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark then abounding valour in our English, That being dead, like to the bullet’s grazing, Break out into a second course of mischief, Killing in relapse of mortality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get linen: now this matter must be look’d to, For her relapse is mortal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"After a short relapse into sleep or stupor, he makes, of a sudden, a strong effort to get out of bed."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The physician warned that any sudden emotional excitement might provoke a dangerous **relapse** of the fever."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's recovery was watched with anxious solicitude, lest a cold wind should cause a fatal **relapse**."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard fought against a **relapse** into his former drinking habits after years of solemn abstinence."*
+

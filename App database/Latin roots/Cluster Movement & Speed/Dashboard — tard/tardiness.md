@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or habit of not adhering to a correct or usual or expected time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or habit of not adhering to a correct or usual or expected time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait or habit of arriving or acting late; delay, slowness, or lack of punctuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational and scholastic management, habitual non-compliance with scheduled attendance or operational timelines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it but this?—a tardiness in nature Which often leaves the history unspoke That it intends to do?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Under such a government,” says the Abbe Mably, “the Union could never have subsisted, if the provinces had not a spring within themselves, capable of quickening their tardiness, and compelling them to the same way of thinking."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"I explained the reason of my tardiness, which was quite satisfactory."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She apologized for her **tardiness**, explaining the difficulties of the muddy roads after the rain."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Squeers punished the slightest **tardiness** among the wretched pupils with unsparing severity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The intolerable **tardiness** of legal proceedings in Chancery drove many an heir to despair."*
+

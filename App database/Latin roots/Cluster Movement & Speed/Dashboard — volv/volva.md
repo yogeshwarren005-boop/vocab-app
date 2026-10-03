@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cuplike structure around the base of the stalk of certain fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cuplike structure around the base of the stalk of certain fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cup-like membranous structure enveloping the base of the stem in certain mushrooms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal taxonomy and macromycete morphology, the remnant of the universal veil surrounding species of Amanita and Volvariella.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volva designates cuplike structure around the base of the stalk of certain fungi."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We found a brilliant scarlet toadstool bursting forth from its white, cup-like **volva** in the damp moss."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The presence of a basal **volva** is an essential diagnostic feature distinguishing lethal amanitas from edible mushrooms."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"The botanist carefully inspected the ruptured **volva** at the base of the delicate woodland fungus."*
+

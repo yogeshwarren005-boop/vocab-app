@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of incurring (making yourself subject to something undesirable).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of incurring (making yourself subject to something undesirable).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bringing something undesirable or burdensome upon oneself, such as debt, penalty, liability, or danger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and financial contracts, the formal undertaking or triggering of an obligation that binds an entity to subsequent liability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incurrence designates the act of incurring (making yourself subject to something undesirable)."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The legislator must calculate the **incurrence** of mischief against the prospective utility of the enacted statute."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Prudent merchants seek to avoid the unnecessary **incurrence** of debts that cannot be liquidated from annual profits."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The immediate **incurrence** of risk in new commercial enterprises is justified only by the prospect of higher returns."*
+

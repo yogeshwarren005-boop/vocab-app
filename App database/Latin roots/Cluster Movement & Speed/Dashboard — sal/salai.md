@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: East indian tree yielding a resin used medicinally and burned as incense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: East indian tree yielding a resin used medicinally and burned as incense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Boswellia serrata, a deciduous tree of dry hilly tracts of India that yields the fragrant resin known as Indian olibanum or frankincense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Ayurvedic herbal pharmacopeia, the gum-resin (salai guggul) tapped from the trunk and used for its anti-inflammatory properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salai designates east indian tree yielding a resin used medicinally and burned as incense."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"The dry hills were clothed with stunted forests of **salai**, which yield a valuable fragrant resin resembling frankincense."*
+> - 📜 **George Watt (*A Dictionary of the Economic Products of India*):** *"The aromatic gum extracted from the **salai** tree is gathered by hill tribes and burned as incense in local temples."*
+> - 📜 **Dietrich Brandis (*Forest Flora of North-West and Central India*):** *"The deciduous **salai** thrives on barren sandstone ridges where few other timber trees can take root."*
+

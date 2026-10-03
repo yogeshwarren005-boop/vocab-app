@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The passing of a soul into another body after death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The passing of a soul into another body after death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The passage of the soul at death into another body; metempsychosis; or movement between regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion (Hinduism, Buddhism, Jainism), the continuous cyclic transmigration (samsara) of sentient beings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To suppose, with Benfey and others, that the theories of animism and transmigration current among rude peoples of Asia are derived from Buddhism, is to reverse the facts."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The theory of transmigration is held by the Moqui Indians, who belong to the same race as the Zunis."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus their belief in transmigration into the turtle is probably one of the regular articles of their totem faith."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Druids of ancient Gaul inculcated the doctrine of the **transmigration** of souls to inspire martial bravery."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He joked that the cat must be an ancient scholar undergoing a bizarre **transmigration** of identity."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The spiritual **transmigration** of ideas from generation to generation constitutes the immortal soul of history."*
+

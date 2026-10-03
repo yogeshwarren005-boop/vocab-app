@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement of results or opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting together, as agents or circumstances or events.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement or cooperation in action, opinion, or intent; the occurrence of two or more events at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and judicial opinions, an agreement with the majority conclusion arrived at through distinct rationale or separate principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce,” he went on, “makes no condition beyond expressing his expectation that our young friend will not at any time remove herself from the establishment in question without his knowledge and concurrence."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy glided up to him, beckoned, and whispered a few words; and with a mutual glance of concurrence the two men went into the night together."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins, “I am particularly obliged to you for this friendly caution, and you may depend upon my not taking so material a step without her Ladyship’s concurrence.” “You cannot be too much on your guard."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy glided up to him, beckoned, and whispered a few words; and with a mutual glance of **concurrence** each went on his way."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The accumulation of each great fossiliferous formation will be recognised as having depended on an unusual **concurrence** of favourable circumstances."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate, I hope we shall not vary in sentiment as to a measure in which you are not likely to be acting without my full **concurrence**."*
+

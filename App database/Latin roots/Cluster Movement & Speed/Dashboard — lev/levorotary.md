@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotating to the left.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotating to the left.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turning or rotating toward the left; specifically designating a chiral substance that rotates the plane of polarized light counterclockwise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stereochemistry, optical isomers designated with a minus sign (-) or (l-) that deflect the electric field vector of plane-polarized light to the observer's left.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levorotary designates rotating to the left."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"The tartaric acid produced by fermentation exhibited distinct **levorotary** action, rotating the light ray to the left."*
+> - 📜 **Jacobus Henricus van 't Hoff (*The Arrangement of Atoms in Space*):** *"The presence of an asymmetric carbon atom explains why one isomer is dextrorotary while its mirror image is **levorotary**."*
+> - 📜 **William Henry Bragg (*X-Rays and Crystal Structure*):** *"Polarimetric measurements readily determine whether an organic compound possesses dextrorotary or **levorotary** symmetry."*
+

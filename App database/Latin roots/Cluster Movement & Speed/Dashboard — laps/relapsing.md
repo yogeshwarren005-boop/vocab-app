@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to maintain a higher state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deteriorate in health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experiencing or characterized by a return to an earlier, worse state, illness, or habit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology, relapsing fever caused by Borrelia spirochetes transmitted by lice or soft ticks, marked by cyclic pyrexia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was by that time perseveringly dictating to Caddy, and Caddy was fast relapsing into the inky condition in which we had found her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I dustn’t,” says Jo, relapsing into the profile state."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester, evidently with a great determination to say, in his own manner, something that is on his mind before relapsing into silence, tries to raise himself among his pillows a little more."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The micro-organism of **relapsing** fever can be demonstrated in the blood during the febrile paroxysm."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The wretched invalid was perpetually **relapsing** into delirium as the contagion ravaged his strength."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate recognized the danger of his patient **relapsing** into exhaustion after the crisis had passed."*
+

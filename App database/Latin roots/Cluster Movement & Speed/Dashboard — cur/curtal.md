@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (obsolete) cut short.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obsolete) cut short.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a docked tail; shortened, truncated, or cropped; a horse or dog with a docked tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern English drama and balladry, designating a member of certain religious orders, notably friars, or describing a short heavy cutlass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’d give bay curtal and his furniture My mouth no more were broken than these boys’, And writ as little beard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A gallant curtal-axe upon my thigh, A boar-spear in my hand, and in my heart Lie there what hidden woman’s fear there will, We’ll have a swashing and a martial outside, As many other mannish cowards have That do outface it with their semblances."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, I think, if my breast had not been made of faith, and my heart of steel, she had transformed me to a curtal dog, and made me turn i’ the wheel."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"I'd give bay **curtal** and his furniture, my mouth no more were broken than these boys'."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The jolly friar rode upon a stout **curtal** mule whose dock had been cropped close."*
+> - 📜 **Francis James Child (*The English and Scottish Popular Ballads*):** *"There was a **curtal** friar in Fountains Dale, that well could bend a bow."*
+

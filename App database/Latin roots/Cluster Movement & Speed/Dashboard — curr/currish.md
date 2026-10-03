@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Base and cowardly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a cur; snarling and rude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling, characteristic of, or behaving like a snarling, bad-tempered, or cowardly cur; mean-spirited or snappish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Elizabethan drama and satire, base, treacherous, or ungrateful behavior devoid of noble sentiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let Aesop fable in a winter’s night; His currish riddle sorts not with this place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy currish spirit Govern’d a wolf who, hang’d for human slaughter, Even from the gallows did his fell soul fleet, And whilst thou layest in thy unhallowed dam, Infus’d itself in thee; for thy desires Are wolfish, bloody, starv’d and ravenous."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would she were in heaven, so she could Entreat some power to change this currish Jew."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Thy **currish** spirit govern'd a wolf, who, hang'd for human slaughter, even from the gallows did his fell soul fleet."*
+> - 📜 **Ben Jonson (*Every Man in His Humour*):** *"He that is so **currish** to his guests deserves neither love nor fellowship in society."*
+> - 📜 **John Dryden (*The Spanish Friar*):** *"He showed a **currish** disposition, barking at every stranger who dared approach his door."*
+

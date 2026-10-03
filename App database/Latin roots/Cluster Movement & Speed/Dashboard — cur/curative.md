@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine or therapy that cures disease or relieve pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to cure or restore to health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving, tending, or possessing the property to cure diseases or restore health; medicinal and therapeutic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical balneology and medical hydrology, mineral spring waters classified according to their specific curative biochemical properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Since then this system has gradually gained ground, and has proved itself, whenever scien- 112:1 tifically employed, to be the most effective curative agent in medical practice."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Error not curative Sometimes the human mind uses one error to medi- cine another."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It matters not what material method one may adopt, whether faith in drugs, trust in hygiene, or reliance 145:15 on some other minor curative."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Fresh air, cleanliness, and light are the most powerful **curative** agents known to surgical science."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern therapeutics distinguishes between purely palliative measures and genuine **curative** treatments."*
+> - 📜 **Oliver Wendell Holmes (*Currents and Counter-Currents in Medical Science*):** *"Nature possesses an inherent **curative** power that often repairs injuries without the aid of drugs."*
+

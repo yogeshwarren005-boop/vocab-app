@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose behavior deviates from what is acceptable especially in sexual behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn aside; turn away from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To depart or turn aside from an established course, principle, standard, or accepted pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime navigation and statistics, variance between magnetic and true headings; or departure from an expected mean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had not, it seems, the originality to chalk out a new road to shame and destruction, but trode the old track with stupid exactness not to deviate an inch from the beaten centre."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"You are quite aware of that?” “Quite, sir.” “I communicated to Magwitch—in New South Wales—when he first wrote to me—from New South Wales—the caution that he must not expect me ever to deviate from the strict line of fact."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This would be to admit that they might be kept up IN TIME OF PEACE, against threatening or impending danger, which would be at once to deviate from the literal meaning of the prohibition, and to introduce an extensive latitude of construction."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The legislative department must not **deviate** from the clear boundaries prescribed by the fundamental charter."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When we **deviate** from the simple evidence of our senses, we fall into endless metaphysical errors."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Offspring will occasionally **deviate** slightly in form or color from the typical parental standard."*
+

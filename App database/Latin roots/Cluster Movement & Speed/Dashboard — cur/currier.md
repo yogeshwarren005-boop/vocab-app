@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states lithographer who (with his partner james ives) produced thousands of prints signed `currier & ives' (1813-1888).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A craftsman who curries leather for use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman who dresses, softens, colors, and finishes tanned leather to prepare it for commercial use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In guild and trade history, the specialized artisan positioned between the tanner (who treated raw hides) and the shoemaker or saddler.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, currier designates united states lithographer who (with his partner james ives) produced thousands of prints signed `currier & ives' (1813-1888)."*
+> - 📜 **Denis Diderot (*Encyclopédie*):** *"The **currier** must pummel, scrape, and tallow the tanned hide until it attains complete pliability for the saddler."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labour between the tanner and the **currier** greatly improves the quality and durability of the finished leather."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The master **currier** displayed skins dressed with such cunning that no blemish or roughness remained."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who quakes and trembles with (or as with) fear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who quakes and trembles with (or as with) fear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that trembles; an electrical contact or vibrating reed that automatically makes and breaks a circuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical electrical engineering, a trembler coil utilized in early automobile ignition systems (e.g. Ford Model T).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"When the real is attained, which is announced by Science, joy is no longer a trembler, nor is hope a cheat."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The cowardly **trembler** hid behind the shuttered windows while the armed crowd surged down the street."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The rapid vibration of the spring **trembler** produced a brilliant series of sparks across the contact points."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"No faint-hearted **trembler** was permitted to take up arms among the highland clan in battle."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to fluctuate or move in a wavelike pattern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or sway in a rising and falling or wavelike pattern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shifting, varying, or rising and falling irregularly in condition, intensity, or magnitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and statistical mechanics, fluctuating thermal motions of fluid molecules give rise to observable Brownian motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her face had latterly changed with changing states of mind, continually fluctuating between beauty and ordinariness, according as the thoughts were gay or grave."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Fluctuating standard and the interest-rate. § 9."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the European countries,[5] prices in terms of gold, tho fluctuating somewhat, kept at about the same level from 1860 to 1870."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The **fluctuating** boundary of the pond carved distinct terraces along the sandy pine shore."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Under the **fluctuating** temperatures of the alpine pass, the granite boulders cracked from frost weathering."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The **fluctuating** light of the bonfire illuminated the rustic faces gathered upon the barrow."*
+

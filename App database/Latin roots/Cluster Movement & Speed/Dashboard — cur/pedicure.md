@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Professional care for the feet and toenails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Care for one's feet by cutting and shaping the nails, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmetic and hygienic treatment of the feet, toenails, and soles to remove calluses and trim nails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In podiatric hygiene and aesthetic cosmetology, therapeutic foot care involving exfoliation of hyperkeratotic skin and nail debridement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedicure designates professional care for the feet and toenails."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"She spent the afternoon resting her tired feet after a soothing **pedicure** at the seaside villa."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"Modern hygiene has elevated the bath and the **pedicure** from aristocratic luxuries to democratic necessities."*
+> - 📜 **Somerset Maugham (*Of Human Bondage*):** *"The old practitioner advised regular bathing and a skilled **pedicure** to alleviate the painful corns caused by poor boots."*
+

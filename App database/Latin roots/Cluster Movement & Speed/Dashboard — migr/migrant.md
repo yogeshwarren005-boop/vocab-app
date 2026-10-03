@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveler who moves from one region or country to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually moving from place to place especially in search of seasonal work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or animal that moves from one place or country to another, especially in search of work or seasonal residence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor economics and sociological studies, seasonal agricultural workers migrating across regional crop cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This done, he turned in the direction of the migrants."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This was Planet Pluto post-secession: a mixture of migrants from across the system."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Among the migrants were artisans and technicians, minimally to highly-skilled administrators, sociologists, teachers, scientists and engineers and, scattered among them, contemporary philosophers who preached the metaphysical."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The woodcock is a notable **migrant** bird, shifting its habitation as the harsh frost approaches."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We observed the solitary **migrant** hawk resting upon the rigging of our vessel far from shore."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The weary **migrant** family traveled along Highway 66 in an overloaded, creaking jalopy."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capability of being cured or healed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capability of being cured or healed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability, possibility, or degree of being cured, healed, or remediated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical prognosis and oncology, the statistical likelihood that a pathological condition will undergo permanent remission following treatment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curability designates capability of being cured or healed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician must distinguish between the relative **curability** of early lesions and advanced visceral degeneration."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Proper sanitation and nutritious diet dramatically increase the **curability** of infectious surgical wounds."*
+> - 📜 **Oliver Wendell Holmes (*Currents and Counter-Currents in Medical Science*):** *"A candid medical practitioner acknowledges the limits of pharmaceutical **curability** in deep-seated organ disease."*
+

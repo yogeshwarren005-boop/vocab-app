@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being salable or marketable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being salable or marketable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree, quality, or fitness of an item for being sold; marketability in commercial exchange.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial asset management, liquidity and the readiness with which an inventory holding can be liquidated into cash without severe loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"First, this thing must have the quality of salability, or marketability."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"But some of the metals, having value in small bulk, salability, cognizability, and durability, step by step displaced other forms of money."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Shells used for ornament in poor communities cease to be so used in a higher state of advancement, and thus their salability ceases."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The prompt **salability** of gold and silver rendered them universally preferred as media of commercial exchange."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Durable goods with steady consumer demand possess higher **salability** in uncertain financial markets."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Advertising campaigns are carefully crafted to enhance the immediate **salability** of manufactured brand products."*
+

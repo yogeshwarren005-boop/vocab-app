@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a devious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a devious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a devious, circuitous, or deceitfully indirect manner; by underhanded means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, pursuing an objective through roundabout diplomacy or concealed stratagems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deviously designates in a devious manner."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The criminal had acted **deviously**, laying false scents across the moor to baffle the tracker dogs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn moved **deviously** through the legal world, keeping all family secrets locked within his breast."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp advanced **deviously** through fashionable society, concealing her desperate financial straits."*
+

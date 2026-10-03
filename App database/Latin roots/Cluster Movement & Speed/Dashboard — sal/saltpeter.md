@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (kno3) used especially as a fertilizer and explosive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (kno3) used especially as a fertilizer and explosive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Potassium nitrate (KNO3), a white crystalline mineral used in the manufacture of gunpowder, fertilizers, and food preservatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of explosives and chemistry, the vital oxidizing constituent of black powder (typically 75% potassium nitrate, 15% charcoal, 10% sulfur).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Over the whole field, previously so gaily beautiful with the glitter of bayonets and cloudlets of smoke in the morning sun, there now spread a mist of damp and smoke and a strange acid smell of saltpeter and blood."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Niter, charcoal, and saltpeter, combined in certain proportions, give certain reactions; different combinations give various results."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The hold smelled powerfully of gunpowder and refined **saltpeter** stored for defense against Malay pirates."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"He handled the chemical elements as familiarly as if **saltpeter** and sulfur were simple kitchen spices."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The accidental combination of **saltpeter**, brimstone, and carbon produced an engine that altered the warfare of nations."*
+

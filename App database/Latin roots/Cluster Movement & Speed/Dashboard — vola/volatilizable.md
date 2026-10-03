@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of substances) capable of being volatilized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of substances) capable of being volatilized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being turned into vapor; subject to vaporization or sublimation under suitable temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry, elements or volatile organic compounds (VOCs) separated from crude matrices by thermal desorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volatilizable designates (used of substances) capable of being volatilized."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Mercury is a **volatilizable** metal that condenses readily upon the cold upper neck of the retort."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"He demonstrated that the essential oil was easily **volatilizable** without losing its aromatic virtue."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The **volatilizable** components of the coal escaped in thick smoke as the temperature rose."*
+

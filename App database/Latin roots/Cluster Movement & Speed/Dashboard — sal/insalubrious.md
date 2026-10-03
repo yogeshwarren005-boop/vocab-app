@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Detrimental to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detrimental to health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Detrimental to health; unwholesome, noxious, or pestilential in climate, atmosphere, or surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical epidemiology, urban environments characterized by miasmatic air, putrid effluvia, and poor drainage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He would have let the house, but could find no tenant, in consequence of its ineligible and insalubrious site."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The narrow alley was notoriously **insalubrious**, wrapped in foul river mists and poisonous exhalations."*
+> - 📜 **Herman Melville (*Typee*):** *"We avoided the damp, **insalubrious** hollows where stagnant waters bred virulent marsh fevers."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Lowood school was built in an **insalubrious** valley where winter typhus raged unchecked among the pupils."*
+

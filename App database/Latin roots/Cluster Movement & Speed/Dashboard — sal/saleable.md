@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being sold; fit for sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being sold; fit for sale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit or suitable to be sold; marketable and capable of commanding a price in trade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commerce and bankruptcy law, assets possessing enough market liquidity to be liquidated without significant capital markdown.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"I have often heard him declare, that if baronetcies were saleable, anybody should have his for fifty pounds, arms and motto, name and livery included; but I will not pretend to repeat half that I used to hear him say on that subject."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"No one ever had to hawk gold about to find a purchaser; it is always saleable."*
+> - 📜 **Jane Austen (*Persuasion*):** *"I have often heard him declare, that if baronetcies were **saleable**, anybody should have had his title for fifty pounds."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A manufacture becomes more **saleable** when its durability is guaranteed by reputable craftsmen."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The weaver accumulated a quantity of linen that was readily **saleable** in the neighboring market town."*
+

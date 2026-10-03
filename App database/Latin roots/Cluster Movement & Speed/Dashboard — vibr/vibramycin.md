@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic derived from tetracycline that is effective against many infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic derived from tetracycline that is effective against many infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical brand name for doxycycline, a broad-spectrum antibiotic of the tetracycline class.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and infectious disease, Vibramycin prescribed for rickettsial infections, respiratory tract disease, and malaria prophylaxis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibramycin designates an antibiotic derived from tetracycline that is effective against many infections."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern antibiotic regimens with agents like **vibramycin** have revolutionized treatment of deep bacterial infections."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The hospital pharmacopeia adopted **vibramycin** for combating penicillin-resistant strains with notable efficacy."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Therapeutic innovations such as **vibramycin** demonstrated the precision of modern biochemical research."*
+

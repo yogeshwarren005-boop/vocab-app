@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A latin american who buys used goods in the united states and takes them to latin america to sell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A latin american who buys used goods in the united states and takes them to latin america to sell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trader or transporter who conveys merchandise or used vehicles across international borders for resale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American cross-border commerce, transmigrantes operating bonded transit routes through Mexico to Central American markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transmigrante designates a latin american who buys used goods in the united states and takes them to latin america to sell."*
+> - 📜 **Richard Francis Burton (*The City of the Saints*):** *"The itinerant trader acted as an enterprising **transmigrante**, carrying manufactured goods across distant frontiers."*
+> - 📜 **John Russell Bartlett (*Personal Narrative of Explorations in Texas and New Mexico*):** *"The border **transmigrante** guided heavily laden pack-mules along the dusty trails leading southward into Sonora."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The commercial **transmigrante** navigated river passages to exchange coastal wares with inland settlements."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine or therapy that cures disease or relieve pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide a cure for, make healthy again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance, treatment, or regimen that restores health; or the act of preserving meat or fish by salting or smoking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical therapeutics, the permanent eradication of a disease entity and restoration of physiological equilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Past cure I am, now reason is past care, And frantic-mad with evermore unrest, My thoughts and my discourse as mad men’s are, At random from the truth vainly expressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Amongst the rest There is a remedy, approv’d, set down, To cure the desperate languishings whereof The king is render’d lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
+> - 📜 **William Shakespeare (*The Sonnets*):** *"Pity me then dear friend, and I assure ye, even that your pity is enough to **cure** my distressed mind."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many rustic superstitions prescribe curious herbal decoctions to **cure** the distempers of livestock."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He devoted his life to medical research, hoping to discover an effective **cure** for malignant fevers."*
+

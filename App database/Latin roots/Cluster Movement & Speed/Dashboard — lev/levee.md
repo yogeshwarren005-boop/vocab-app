@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal reception of visitors or guests (as at a royal court).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pier that provides a landing place on a river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An embankment built along the edge of a river or canal to prevent flooding; or a formal morning reception held by a monarch or high official.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrologic engineering, earthen or reinforced dikes designed to contain high-discharge flood stages within a channelized alluvial floodplain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My bardship here, at your Levee On sic a day as this is, Is sure an uncouth sight to see, Amang thae birth-day dresses Sae fine this day."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Nae mair we see his levee door Philosophers and poets pour, And toothy critics by the score, In bloody raw!"*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Reclining upon our mats, we now held a kind of levee, giving audience to successive troops of the natives, who introduced themselves to us by pronouncing their respective names, and retired in high good humour on receiving ours in return."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"I used to attend the king's **levee** once or twice a week, and had often seen him under the barber's hand."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"He says indifferently and alike How are you friend? to the President at his **levee**."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The great river broke through the earthen **levee**, inundating thousands of acres of fertile cotton land."*
+

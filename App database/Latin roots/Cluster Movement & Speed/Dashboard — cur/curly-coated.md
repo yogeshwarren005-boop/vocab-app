@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with curly hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with curly hair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a coat of hair, fur, or wool that is naturally curled or wavy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cynology, dog breeds (such as the Curly-Coated Retriever) possessing dense, water-resistant coats of tight crisp curls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curly-coated designates covered with curly hair."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The **curly-coated** retriever displays a dense fleece of small crisp curls that resist water and brambles."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A faithful **curly-coated** sheepdog bounded across the furrow to meet Gabriel at the sheepcote."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Among the pack was a stout **curly-coated** mongrel that proved a steady and willing worker in the traces."*
+

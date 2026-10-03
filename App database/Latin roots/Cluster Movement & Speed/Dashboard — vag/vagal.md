@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the vagus nerve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the vagus nerve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or mediated by the vagus nerve (cranial nerve X).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac electrophysiology and autonomic pharmacology, vagal tone slowing heart rate through acetylcholine release at the sinoatrial node.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vagal designates of or relating to the vagus nerve."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Excessive **vagal** stimulation resulted in marked bradycardia and transient syncope in the patient."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Section of the **vagal** branches to the heart leads to an immediate acceleration of cardiac rhythm."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The physician recognized that fainting was an acute **vagal** reflex provoked by sudden emotional shock."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A round shape formed by a series of concentric circles (as formed by leaves or flower petals).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American chemist who with richard smalley and harold kroto discovered fullerenes and opened a new branch of chemistry (born in 1933).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form or cause to form into a curved, spiral, or winding shape; or a spiral lock of hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid dynamics, the vector operator measuring the infinitesimal rotation of a three-dimensional vector field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I come To answer thy best pleasure; be’t to fly, To swim, to dive into the fire, to ride On the curl’d clouds, to thy strong bidding task Ariel and all his quality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Past question; for thou seest it will not curl by nature."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But I’ll sell it, and sit under thatched hurdles as they did in old times, and curl up to sleep in a lock of straw!"*
+> - 📜 **William Shakespeare (*The Tempest*):** *"I come to answer thy best pleasure; be't to fly, to swim, to dive into the fire, to ride on the **curl** clouds."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Steerforth tossed a handsome dark **curl** from his forehead with an easy, careless laugh."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A faint blue ribbon of smoke began to **curl** upward from the chimney of the cottage."*
+

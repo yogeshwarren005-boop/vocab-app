@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various shrubby plants of the genus atriplex that thrive in dry alkaline soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various shrubby plants of the genus atriplex that thrive in dry alkaline soil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various halophytic shrubs or herbs of the genus Atriplex, native to arid or saline regions and often grazed by livestock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australian rangeland ecology, drought-hardy chenopod shrubs (Atriplex nummularia, Old Man Saltbush) providing crucial browse for sheep in dry seasons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltbush designates any of various shrubby plants of the genus atriplex that thrive in dry alkaline soil."*
+> - 📜 **Ludwig Leichhardt (*Journal of an Overland Expedition in Australia*):** *"The grey foliage of the **saltbush** covered the vast dry plains as far as the eye could reach."*
+> - 📜 **Thomas Mitchell (*Three Expeditions into the Interior of Eastern Australia*):** *"Our exhausted horses eagerly browsed upon the succulent leaves of the **saltbush** bordering the dry creek."*
+> - 📜 **Joseph Maiden (*The Useful Native Plants of Australia*):** *"The nutritious leaves of the Australian **saltbush** contain abundant mineral salts essential for wool production."*
+

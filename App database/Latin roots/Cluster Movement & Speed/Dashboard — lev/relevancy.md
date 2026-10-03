@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of something to the matter at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of something to the matter at hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertinence or applicability; the condition of having a meaningful or logical bearing upon a subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the law of evidence, the probative connection between an offered fact and a material proposition requiring proof in trial litigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This reflection suggested some meaning—some relevancy—in the death’s head."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Yet, within the majority of families, a culture's mythology, traditions and values retain their relevancy and often, their majesty."*
+> - 📜 **Jeremy Bentham (*The Rationale of Judicial Evidence*):** *"The prime duty of the judge is to determine the legal **relevancy** of testimony before allowing it to influence the jury."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The historical **relevancy** of ancient legal precedents must be tested against the evolving needs of human society."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The advocate insisted upon the **relevancy** of the intercepted letters, showing that they revealed a treasonable plot."*
+

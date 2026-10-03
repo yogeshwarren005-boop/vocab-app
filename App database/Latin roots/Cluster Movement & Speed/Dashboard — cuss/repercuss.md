@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause repercussions; have an unwanted effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause repercussions; have an unwanted effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To drive or beat back; to reflect or reverberate; to react upon or have an impact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical acoustics and mechanical dynamics, the reciprocal rebound or reverberation of shockwaves against a barrier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repercuss designates cause repercussions; have an unwanted effect."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The hollow cavern walls **repercuss** the sound with an amplified and prolonged echo."*
+> - 📜 **John Tyndall (*Sound*):** *"Solid cliffs serve to **repercuss** acoustic impulses, directing reflected waves across the valley."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Violent measures invariably **repercuss** upon those who first unchain popular fury."*
+

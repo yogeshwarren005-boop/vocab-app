@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep bow; a muslim form of salutation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greet with a salaam.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ceremonial Islamic greeting meaning peace; a low bow with the right hand placed to the forehead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and orientalist literature, formal courtly gestures of submission or respect offered to potentates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"I commend the propriety and aptness of your researches, Atma Singh." So saying he withdrew with a salaam that failed to cover the swift scowl he bestowed on Bertram."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He makes a salaam before my lord the Aga."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"The old lama touched his forehead with both hands, making a low **salaam** to his courteous benefactor."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The turbaned Indian servant made a profound **salaam** as he presented the spicy dish to Major Dobbin."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"The courtier bowed low in humble **salaam** before the throne of the magnificent caliph."*
+

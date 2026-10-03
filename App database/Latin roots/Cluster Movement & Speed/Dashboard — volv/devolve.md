@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass on or delegate to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be inherited by.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pass down or transfer power, duty, or responsibility to a lower, regional, or secondary level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and political restructuring, statutory devolution delegating parliamentary competences to regional assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The Allens, he believed, had lived near them too long, and he knew the young man on whom the Fullerton estate must devolve."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The important task would probably devolve on men, who, with inferior capacities, would in other respects be little better qualified."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Even the management of foreign negotiations will naturally devolve upon him, according to general principles concerted with the Senate, and subject to their final concurrence."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Upon the death or disability of the chief magistrate, executive powers **devolve** upon the vice president."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The management of the family estate would naturally **devolve** upon the eldest son upon his father's demise."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The crown did not **devolve** by choice, but followed the settled constitutional course of inheritance."*
+

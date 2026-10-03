@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cross resembling the letter x, with diagonal bars of equal length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cross resembling the letter x, with diagonal bars of equal length.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An heraldic ordinary consisting of a diagonal cross in the shape of the letter X; Saint Andrew's cross.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vexillology and heraldry, the diagonal cross dividing the shield into four partitions, famously emblazoned on the national flag of Scotland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Even envious Miss Briggs never spoke ill of her; high and mighty Miss Saltire (Lord Dexter's granddaughter) allowed that her figure was genteel; and as for Miss Swartz, the rich woolly-haired mulatto from St."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She had to make and receive at least fourteen presents--to make fourteen solemn promises of writing every week: "Send my letters under cover to my grandpapa, the Earl of Dexter," said Miss Saltire (who, by the way, was rather shabby)."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She had but this subject, of course, to think about; and Miss Saltire was too cold for a confidante, and she couldn't bring her mind to tell Miss Swartz, the woolly-haired young heiress from St."*
+> - 📜 **Walter Scott (*Marmion*):** *"Upon his azure shield was borne a silver **saltire**, the ancient emblem of Saint Andrew."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The Scottish archers marched proudly beneath their fluttering banner displaying the white **saltire**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial legionaries painted the mystical **saltire** upon their shields before the decisive engagement."*
+

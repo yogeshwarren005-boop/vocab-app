@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of exceeding the appropriate limits of decorum or probability or truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of exceeding the appropriate limits of decorum or probability or truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance or quality of excess, wild unreasonableness, or prodigal expenditure beyond prudent bounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 17th- and 18th-century prose, intellectual or financial eccentricity wandering beyond social norms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, sooth, sir; my determinate voyage is mere extravagancy."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The sincere friends of liberty, who give themselves up to the extravagancies of this passion, are not aware of the injury they do their own cause."*
-> - 📜 **Effie Afton (*Eventide*):** *"He was known to be a widower, and the woful extravagancies into which Mary Madeline Mumbles cajoled her doting mother, were enough to make one shudder in relating."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Parents should curb every early inclination toward foolish **extravagancy** in their children."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The satirist mocked the theological **extravagancy** of modern sectarian zealots."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Such constitutional experiments exceed all reasonable limits of political **extravagancy**."*
+

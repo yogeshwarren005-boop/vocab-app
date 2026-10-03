@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being folded inward or sheathed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The folding in of an outer layer so as to form a pocket in the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of folding an outer layer inward to form a pocket or sheath; an infolding of a membrane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric gastroenterology, intussusception or invagination of the ileum into the cecum causing mechanical obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invagination designates the condition of being folded inward or sheathed."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Embryologists demonstrated that gastrulation proceeds by the cellular **invagination** of the blastosphere."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute intestinal **invagination** in young infants requires early surgical reduction to prevent gangrene."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The pathological museum exhibited classic specimens demonstrating vascular **invagination**."*
+

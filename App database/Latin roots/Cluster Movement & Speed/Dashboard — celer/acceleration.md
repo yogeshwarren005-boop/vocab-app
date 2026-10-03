@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase in rate of change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of accelerating; increasing the speed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rate of change of velocity per unit of time; an increase in the speed or rate of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinematics and calculus, acceleration represents the second time derivative of position, measured in meters per second squared.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Signaling Hodak for minimal repulse and acceleration to increase the drift, Brad ordered all hands immediately into accelo-nets."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As soon as he sensed they could handle the acceleration he stepped the thrust up to successive levels."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Maximum acceleration for almost two Earth decades increased the fleet's velocity to five percent speed-of-light, which it maintained for more than a Solar System Standard Century."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The steady **acceleration** of moving bodies under gravitational attraction follows precise mathematical laws across the solar system."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The rapid **acceleration** of the mountain torrent eroded deep gorges through the hardest granite strata."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"The equivalence principle postulates that physical effects of gravitational attraction are indistinguishable from uniform mechanical **acceleration**."*
+

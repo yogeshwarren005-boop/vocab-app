@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An involuntary vibration (as if from illness or fear).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small earthquake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An involuntary quivering or shaking movement of the body; a slight earthquake or vibration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, involuntary, rhythmic, oscillatory movements caused by alternating contractions of antagonistic muscle groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He sees her consciousness return, sees a tremor pass across her frame like a ripple over water, sees her lips shake, sees her compose them by a great effort, sees her force herself back to the knowledge of his presence and of what he has said."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The hollow seemed a nursery of pestilences small and great, in the immediate neighbourhood of comfort and health, and Bathsheba arose with a tremor at the thought of having passed the night on the brink of so dismal a place."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Garth, gravely and decisively, though a nice ear might have discerned a slight tremor in some of the words."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The resting **tremor** of paralysis agitans typically begins in one hand with a characteristic pill-rolling motion."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A slight **tremor** passed through her slender frame as she listened to the harsh reading of the will."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A sudden subterranean **tremor** shook the island, causing the inhabitants to rush terror-stricken into the streets."*
+

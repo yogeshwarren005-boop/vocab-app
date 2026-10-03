@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tremulous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tremulous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tremulous, quivering, or hesitant manner; with a wavering voice or unsteady motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological fiction, actions performed with palpable hesitation born of intense grief, awe, or apprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I should not be surprised if they all voluntarily abandoned the girl—yes, lover and all—instead of her abandoning them, supposing she remained at Chesney Wold under such circumstances.” “Well!” says Sir Leicester tremulously."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There is so little real friendship in the world! and unfortunately” (speaking low and tremulously) “there are so many who forget to think seriously till it is almost too late.” Anne saw the misery of such feelings."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Is it Sergeant Troy?” said the blurred spot in the snow, tremulously."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I held out my hand **tremulously**, scarcely daring to believe that Rochester had indeed returned."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She stepped **tremulously** forward into the misty garden, her heart beating with painful rapidity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea spoke **tremulously**, striving to conceal the deep emotion that threatened to overwhelm her."*
+

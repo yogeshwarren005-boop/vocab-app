@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the vagina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the vagina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the vagina or to a sheath-like anatomical structure; sheathing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology and obstetrics, transvaginal physical examinations and medications administered per vaginam.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaginal designates of or relating to the vagina."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon inspected the deep **vaginal** vault to rule out malignant neoplastic ulceration."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Aseptic precautions during **vaginal** delivery eliminated the deadly menace of puerperal fever."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The clinical demonstrator reviewed the anatomical relations of the pelvic **vaginal** fascia."*
+

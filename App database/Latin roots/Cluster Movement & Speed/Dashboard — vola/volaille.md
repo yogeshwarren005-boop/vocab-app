@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The flesh of a chicken used for food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flesh of a chicken used for food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Poultry or the edible flesh of domestic birds (such as chicken, capon, or turkey) in culinary gastronomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical French haute cuisine, culinary dishes utilizing supreme de volaille prepared with velouté sauces and truffles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volaille designates the flesh of a chicken used for food."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The grand banquet commenced with an exquisite soup followed by a delicate fricassee of **volaille**."*
+> - 📜 **Henry James (*The Ambassadors*):** *"They dined delightfully in the Parisian courtyard upon white wine and tender roast **volaille**."*
+> - 📜 **Tobias Smollett (*Travels through France and Italy*):** *"The provincial inn served an agreeable supper composed of local trout and seasoned **volaille**."*
+

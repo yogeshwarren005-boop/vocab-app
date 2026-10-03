@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With relevance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With relevance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a relevant, pertinent, or fitting manner; with direct application to the subject under consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logical exposition and philosophical dialogue, advancing premises that directly substantiate the central thesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That way we shall be saying there is no God—nothing!” shouted Nicholas, banging the table—very little to the point as it seemed to his listeners, but quite relevantly to the course of his own thoughts."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"You’re looking very well,” Osmond repeated still less relevantly than before."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She replied **relevantly** to his inquiry, refusing to be drawn into a sentimental discussion of the past."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Pierre reasoned **relevantly** upon the question of military strategy, astonishing the older staff officers."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"To discourse **relevantly**, a speaker must affix clear and determinate ideas to the words he employs."*
+

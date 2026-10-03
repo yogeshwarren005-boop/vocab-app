@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salmon and trout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salmon and trout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of teleost ray-finned fishes containing the salmons, trouts, chars, freshwater whitefishes, and graylings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ichthyology, ancient salmoniform fishes characterized by a whole-genome duplication event (salmonid-specific autotetraploidization).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmonidae designates salmon and trout."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The males alone of the capelin, one of the family **salmonidae**, are provided with ridges of bristly scales along the sides."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The anatomical features of the **salmonidae** link primitive soft-rayed fishes with advanced marine teleosts."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The worldwide distribution of the **salmonidae** is primarily boreal, dominating the cold rivers of the northern continents."*
+

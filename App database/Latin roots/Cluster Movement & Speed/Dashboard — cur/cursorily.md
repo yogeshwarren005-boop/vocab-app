@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without taking pains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without taking pains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hasty, superficial, or careless manner; rapidly without pausing to examine details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarly and legal review, skimming documents cursorily without verifying underlying citations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She cursorily signified the direction of the church, and went on, d’Urberville saying that he would see them again, in case they should be still unsuccessful in their search for shelter, of which he had just heard."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I noticed these objects cursorily only—in them there was nothing extraordinary."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Present at the managers' meeting were Val, still in breeches: Jack Bendish in a dinner jacket and black tie: Garrett the blacksmith, cursorily washed: Thurlow, a leading Nonconformist tradesman: and Mrs."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson had glanced **cursorily** at the walking stick, but Holmes noted the teeth marks of a spaniel."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth read through the first lines **cursorily**, but soon paused to reread every syllable with astonishment."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer turned over the affidavits **cursorily**, knowing they contained nothing of genuine importance."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in accord; be in agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen simultaneously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreeing in opinion, purpose, or verdict; cooperating or acting together toward a common effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In appellate jurisprudence, issuing a separate opinion agreeing with the judgment reached by the court majority while rejecting its specific reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"A line descending from the vital, beneath the congress of it and the hepatica, to the tuberculum of Saturn, shows an envious man, who rejoices at another’s calamity, the sight of others concurring."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"McKinley, of Ohio, offered the following resolution: _Resolved_, The Senate concurring, that the thanks of Congress are hereby presented to the Hon."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Much esteemed and dear Sir, It is scarcely necessary to mention the various and concurring reasons which induce me to place your name at the head of the following work."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In the case of every species, many different checks, acting at different periods of life, and **concurring** together, determine its average numbers."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Our notions of law and harmony are commonly confined to those instances which we detect; but the harmony resulting from a far greater number of **concurring** laws is wonderful."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"The dangers of the days but newly gone, whose memory is written on the earth with yet-appearing blood, and the **concurring** likelihood of others to come, do call us back."*
+

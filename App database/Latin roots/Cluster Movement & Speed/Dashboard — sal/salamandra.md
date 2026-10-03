@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the salamandridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the salamandridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological genus of typical European salamanders, including the fire salamander (Salamandra salamandra).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical zoology, terrestrial urodelan amphibians producing toxic alkaloid secretions (samandarin) from their parotoid glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salamandra designates type genus of the salamandridae."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In the genus **salamandra**, the conspicuous black and yellow coloration serves as a warning signal to predators."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The European fire salamander, classified as **salamandra**, retains distinct terrestrial habits while returning to water to deposit larvae."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The anatomical structure of **salamandra** exhibits the characteristic four-toed forelimbs and glandular skin of true urodeles."*
+

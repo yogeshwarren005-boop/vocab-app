@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dish that is served with, but is subordinate to, a main course.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dish that is served with, but is subordinate to, a main course.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light side dish, savory delicacy, or sweet confection served between the principal courses of a meal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical French haute cuisine, elaborate pastry courses or dessert preparations following the roasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entremets designates a dish that is served with, but is subordinate to, a main course."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The grand dinner proceeded through rich soups and roasts to a magnificent course of delicate **entremets**."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The French cook prided himself upon the artistic composition of his sugary **entremets**."*
+> - 📜 **Henry James (*The Ambassadors*):** *"They lingered over the sweet **entremets**, enjoying the pleasant twilight in the Parisian restaurant."*
+

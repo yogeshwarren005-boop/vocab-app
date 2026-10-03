@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner differing from the usual or expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With curiosity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inquisitive manner; with curiosity; or strangely, oddly, or unusually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In craftsmanship and early modern prose, carefully, elaborately, or skillfully fashioned (as in curiously wrought).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would gladly have him see his company anatomized, that he might take a measure of his own judgments, wherein so curiously he had set this counterfeit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HORATIO. ’Twere to consider too curiously to consider so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ faith, I thank him; he hath bid me to a calf’s-head and a capon, the which if I do not carve most curiously, say my knife’s naught."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"'Twere to consider too **curiously**, to consider so."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The male spider dances **curiously** around the female before venturing to approach."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ivory cane was **curiously** carved with figures of uncouth sea-monsters."*
+

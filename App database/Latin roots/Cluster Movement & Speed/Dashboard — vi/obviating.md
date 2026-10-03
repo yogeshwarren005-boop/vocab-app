@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do away with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent the occurrence of; prevent from happening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Removing, avoiding, or rendering unnecessary an obstacle, danger, or complication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical preventative medicine, hygienic interventions forestalling the spread of communicable disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"There was an open, glowing fire in their little sitting-room, a high fender of polished brass obviating all danger from it to the children's skirts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt aseptic irrigation was effective in **obviating** the risk of systemic septic infection."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The invention of bills of exchange facilitated distant commerce, **obviating** the hazard of transporting coin."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Clear contracts serve the public interest by **obviating** costly litigation in trade disputes."*
+

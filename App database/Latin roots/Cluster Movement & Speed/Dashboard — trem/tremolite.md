@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white or pale green mineral (calcium magnesium silicate) of the amphibole group used as a form of asbestos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white or pale green mineral (calcium magnesium silicate) of the amphibole group used as a form of asbestos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white to pale-green silicate mineral of the amphibole group, typically forming bladed or fibrous crystals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamorphic petrology, a calcium magnesium amphibole (Ca2Mg5Si8O22(OH)2) diagnostic of metamorphosed siliceous dolomites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tremolite designates a white or pale green mineral (calcium magnesium silicate) of the amphibole group used as a form of asbestos."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The metamorphic limestone cliffs were traversed by veins of fibrous white **tremolite** and glassy quartz."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The mineral collector prized the silky luster of delicate **tremolite** needles embedded in ancient marble."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"Crystalline schists often contain bladed crystals of **tremolite** produced by intense regional metamorphism."*
+

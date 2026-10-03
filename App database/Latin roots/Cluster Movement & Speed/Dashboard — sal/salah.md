@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The second pillar of islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward mecca.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second pillar of islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward mecca.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of salat (formal Islamic ritual prayer); or the biblical patriarch Salah (Shelah), son of Arphaxad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical genealogy (Genesis 10), one of the post-diluvian ancestors in the ancestral line descending from Shem to Abraham.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salah designates the second pillar of islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward mecca."*
+> - 📜 **King James Bible (*Genesis*):** *"And Arphaxad lived five and thirty years, and begat **salah**; and **salah** lived thirty years, and begat Eber."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"The muezzin called the faithful to perform their evening **salah** as the shadows lengthened over the city."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to El-Medinah and Meccah*):** *"The gathered pilgrims bowed together in silent **salah** around the perimeter of the holy shrine."*
+

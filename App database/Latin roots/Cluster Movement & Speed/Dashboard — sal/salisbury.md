@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of zimbabwe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of zimbabwe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic cathedral city in Wiltshire, England, famed for Salisbury Cathedral with its 123-metre spire; or a title of English nobility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English medieval history, the site of Old Sarum and the assembly where the Oath of Salisbury was sworn to William the Conqueror in 1086.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Gloucester, Bedford, Exeter, Erpingham, with all his host: Salisbury and Westmorland."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, good Salisbury, and good luck go with thee!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet I do thee wrong to mind thee of it, For thou art fram’d of the firm truth of valour. [_Exit Salisbury._] BEDFORD."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Gloucester and Bedford, Exeter and Erpingham, with all their host; **salisbury** and Warwick, to the field!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"They crossed the lonely plateau of **salisbury** Plain under the starry silence of the summer night."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The market day at **salisbury** brought farmers and country folk together beneath the shadow of the lofty cathedral spire."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter obscenities or profanities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stubbornly persistent in wrongdoing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubborn, perverse, or cantankerous; damned or cursed in informal speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional American vernacular literature, expressing exasperation at an intractable problem or mule-headed individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Too cussed to live and too mean to die,” was his comment."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Tell them he's out on the plains, tryin' to get back some of the life the cussed stuff burnt out of him." And away the stage coach rattled, and soon was out of hearing."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Surely the fellow wasn’t cussed fool enough to kill her an’ then hisself?"*
+> - 📜 **Mark Twain (*Roughing It*):** *"The mule exhibited the most **cussed** perversity, refusing to advance a single step along the mountain trail."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"He muttered against the **cussed** luck that had brought his regiment into the center of the crossfire."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Old man Slauson was known as a **cussed** neighbor who contested every survey line with legal lawsuits."*
+

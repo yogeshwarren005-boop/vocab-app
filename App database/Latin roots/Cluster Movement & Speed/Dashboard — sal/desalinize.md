@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove salt from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove salt from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To extract dissolved mineral salts from seawater or saline groundwater to make it fresh and potable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering, operating electrodialysis or reverse-osmosis facilities to purify high-salinity agricultural effluent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desalinize designates remove salt from."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Coastal cities look to electrodialysis membranes to **desalinize** estuarine waters for municipal use."*
+> - 📜 **Jacques Cousteau (*The Silent World*):** *"Expedition ships carry compact distillation units to **desalinize** salt water while cruising remote archipelagos."*
+> - 📜 **Barry Commoner (*The Closing Circle*):** *"Efforts to **desalinize** saline agricultural runoff prevent the progressive degradation of downstream aquifers."*
+

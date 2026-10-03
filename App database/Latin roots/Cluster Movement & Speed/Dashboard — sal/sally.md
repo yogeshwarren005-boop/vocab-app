@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Witty remark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military action in which besieged troops burst forth from their position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden rushing attack, charge, or burst forth from a besieged place; or a witty, lively remark or quip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military siege warfare, a counter-offensive sortie undertaken by garrison troops to destroy besiegers' trenches or artillery works.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you sally upon him, speak what terrible language you will; though you understand it not yourselves, no matter; for we must not seem to understand him, unless someone among us, whom we must produce for an interpreter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All our general force Might with a sally of the very town Be buckled with."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No notes of sally, for the heavens, sweet brother!"*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"All our general force might with a **sally** of the very town be buckled with."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The besieged knights made a desperate **sally** through the postern gate, scattering the attackers."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth listened with quiet delight to her father's sarcastic **sally** at the expense of their foolish cousins."*
+

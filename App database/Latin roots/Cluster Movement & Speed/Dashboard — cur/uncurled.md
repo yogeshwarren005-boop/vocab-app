@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move out of a curled position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not curled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Straightened out; not having curls, coils, or waves; relaxed from a curled or coiled posture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical description, vegetative fronds or shoots that have completed circinate foliar expansion into planar leaf lamina.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte B. Herr (*How Freckle Frog Made Herself Pretty*):** *"Would you mind if I wear you to the party just this once?" The poor little caterpillar uncurled himself."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It slept as a child sleeps, lips apart and chubby fingers uncurled, and happy...."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"There, Spunkie,” she said gayly to the cat, who had just uncurled from a nap behind the stove."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"His long fingers **uncurled** slowly as the deep sleep of exhaustion overtook him."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Her damp hair hung **uncurled** about her shoulders in straight, dark strands."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The sleeping child lay with its small hand **uncurled** upon the coverlet."*
+

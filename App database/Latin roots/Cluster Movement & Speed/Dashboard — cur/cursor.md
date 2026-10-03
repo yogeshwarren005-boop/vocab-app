@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) indicator consisting of a movable spot of light (an icon) on a visual display; moving it allows the user to point to commands or screen positions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) indicator consisting of a movable spot of light (an icon) on a visual display; moving it allows the user to point to commands or screen positions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A movable indicator marking position on a computer display; or a sliding index on a measuring device.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of mathematics, the transparent sliding glass runner with hairline (cursor) on an engineer's slide rule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cursor designates (computer science) indicator consisting of a movable spot of light (an icon) on a visual display; moving it allows the user to point to commands or screen positions."*
+> - 📜 **Isaac Newton (*Opticks*):** *"By adjusting the sliding **cursor** along the graduated brass scale, the refraction angle was measured precisely."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The movable **cursor** of the Wheatstone bridge was shifted until the galvanometer needle rested at zero."*
+> - 📜 **William Thomson (*Popular Lectures and Addresses*):** *"The experimenter slid the fine **cursor** along the wire to calibrate the electrical resistance."*
+

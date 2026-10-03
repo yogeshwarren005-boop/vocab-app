@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman salesperson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman salesperson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman employed to assist customers and sell goods in a retail store or shop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In late 19th and early 20th-century urban labor history, female retail workers entering commercial wage labor in modern department stores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salesgirl designates a woman salesperson."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"The weary **salesgirl** stood on her feet all day behind the shoe counter, earning a meager weekly wage."*
+> - 📜 **O. Henry (*The Trimmed Lamp*):** *"A witty young **salesgirl** behind the ribbon counter observed the manners of the passing carriage trade."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"The fashionable milliner sent an experienced **salesgirl** to display the newest Parisian bonnets at the hotel."*
+

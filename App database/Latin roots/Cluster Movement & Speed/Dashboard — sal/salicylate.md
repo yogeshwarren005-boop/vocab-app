@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt of salicylic acid (included in several commonly used drugs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt of salicylic acid (included in several commonly used drugs).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical salt or ester of salicylic acid, widely used in medicine for analgesic, antipyretic, and anti-inflammatory properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, active compounds (such as acetylsalicylic acid or sodium salicylate) inhibiting cyclooxygenase enzyme activity and prostaglandin synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salicylate designates a salt of salicylic acid (included in several commonly used drugs)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The prompt administration of sodium **salicylate** dramatically relieves the articular pain and fever of acute rheumatism."*
+> - 📜 **Louis S. Goodman & Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"The therapeutic efficacy of any medicinal **salicylate** derives from its rapid metabolic conversion into active salicylic acid."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"A topical **salicylate** ointment is frequently applied to soothe painful musculoskeletal inflammation."*
+

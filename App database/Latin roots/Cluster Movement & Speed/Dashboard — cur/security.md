@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being free from danger or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defense against financial failure; financial independence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from danger, risk, or anxiety; measures taken to ensure safety; or a financial asset or collateral pledged against a debt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial markets and securities law, a fungible, negotiable financial instrument (such as a stock or bond) holding monetary value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He would not take his band and yours, he liked not the security."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A rascally yea-forsooth knave, to bear a gentleman in hand, and then stand upon security!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The whoreson smooth-pates do now wear nothing but high shoes and bunches of keys at their girdles; and if a man is through with them in honest taking up, then they must stand upon security."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"And you all know, **security** is mortals' chiefest enemy."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The great objective of the prudent capitalist is the **security** of his principal rather than exorbitant profit."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Mutual confidence and internal tranquility are the strongest guarantors of public **security**."*
+

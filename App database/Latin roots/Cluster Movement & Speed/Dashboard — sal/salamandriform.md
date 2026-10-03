@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a salamander.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a salamander.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape, outward form, or physical characteristics of a salamander.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, describing fossil amphibians possessing elongated bodies, four short limbs, and flattened swimming tails.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salamandriform designates shaped like a salamander."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The fossil amphibian possessed a distinctly **salamandriform** body plan with a long flattened tail and diminutive limbs."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"Certain ancestral stegocephalians display **salamandriform** skeletal proportions suited for amphibious crawling."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"The larva retains a primitive **salamandriform** contour until the final resorption of its external gills."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move by saltation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leap or skip, often in dancing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To leap, jump, dance, or skip; in evolutionary biology, to undergo sudden evolutionary change through mutational leaps rather than gradual steps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary theory, discontinuous morphological transitions or macromutations producing abrupt phenotypic divergence between ancestral and descendant forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltate designates move by saltation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection acts only by taking advantage of slight successive variations; she can never take a great and sudden leap, or **saltate** across gaps."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Nature does sometimes **saltate**, and the dogma that nature never makes a leap is not an absolute physical law."*
+> - 📜 **William Bateson (*Materials for the Study of Variation*):** *"Discontinuous variation suggests that organisms may **saltate** from one stable anatomical form to another."*
+

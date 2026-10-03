@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pulsating, expressive musical effect produced by slight, rapid, and regular variations in pitch or volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vocal and string performance pedagogy, expressive pitch oscillation controlled by the laryngeal musculature or the left wrist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Old Glynn he knew how to make that instrument talk, the _vibrato_: fifty pounds a year they say he had in Gardiner street."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The tenor marred an otherwise noble aria by indulging in an excessive and uncontrollable **vibrato**."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"Holmes closed his eyes, savoring the rich, haunting **vibrato** of Sarasate's violin solo at St. James's Hall."*
+> - 📜 **Thomas Mann (*Buddenbrooks*):** *"The organist struck a sustained chord, letting its gentle **vibrato** reverberate through the high nave."*
+

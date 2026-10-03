@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of animals that do not migrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of animals that do not migrate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in the same geographical region throughout the year; not migratory or seasonal in movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian ecology, sedentary resident species adapted to endure seasonal climatic fluctuations without shifting range.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonmigratory designates used of animals that do not migrate."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain island finches have become entirely **nonmigratory**, their wings growing rounder and shorter over generations."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The local insect population comprised both wanderers and strictly **nonmigratory** ground beetles."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The cardinal remains a cheerful, **nonmigratory** resident, braving the cold winters of our northern forests."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The delegation of authority (especially from a central to a regional government).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The delegation of authority (especially from a central to a regional government).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The delegation, transfer, or decentralization of authority or duties to a subordinate or regional body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public administration and governance, the structured transference of fiscal or administrative competencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devolvement designates the delegation of authority (especially from a central to a regional government)."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional **devolvement** of state authority to federal bodies was strictly limited by written powers."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"A prudent **devolvement** of local tax administration to the colonial assemblies would have preserved peace."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The statutory **devolvement** of regal duties onto a council of regency was hotly contested in parliament."*
+

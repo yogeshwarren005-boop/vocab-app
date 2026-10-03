@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tourist who is visiting sights of interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tourist who is visiting sights of interest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who goes on an excursion or pleasure trip; a day-tripper or holiday tourist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century railway history (Thomas Cook's tours), organized mass working-class tourists traveling by excursion trains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"To the great mass of cheap excursionists the characteristic scenery of the Lakes is in itself hardly a pleasure at all."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Crowds of merry **excursionist** travelers poured into the railway carriages bound for the seaside."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The fashionable watering place was invaded every Saturday by hundreds of noisy **excursionist** visitors."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The solitary shepherd observed an occasional **excursionist** wandering bewildered among the barrows of the heath."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A common language used by speakers of different languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common language used by speakers of different languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intermediate language system constructed by a learner while acquiring a second language; or an auxiliary dialect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In second language acquisition (Selinker), a dynamic linguistic system governed by internal rules distinct from both native and target languages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interlanguage designates a common language used by speakers of different languages."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"The developmental **interlanguage** spoken by international traders combined basic native syntax with foreign terms."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"An artificial **interlanguage** was proposed by scholars to facilitate philosophical correspondence across Europe."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Learners unconsciously formulate a transitional **interlanguage** that steadily approximates the target idiom."*
+

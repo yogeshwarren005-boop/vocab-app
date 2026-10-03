@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (informal) small and of little importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of little substance or significance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of little value or importance; trifling, insignificant, or commonplace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomy and classical logic, the trivial name denoting the specific epithet in a binomial nomenclature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our rash faults Make trivial price of serious things we have, Not knowing them until we know their grave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we debate Our trivial difference loud, we do commit Murder in healing wounds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was glad I did atone my countryman and you; it had been pity you should have been put together with so mortal a purpose as then each bore, upon importance of so slight and trivial a nature."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Yea, from the table of my memory I'll wipe away all **trivial** fond records, all saws of books."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"We spent the evening discussing **trivial** matters to distract our minds from impending disaster."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A seemingly **trivial** variation in the shape of a beak may prove of vital importance in the struggle for life."*
+

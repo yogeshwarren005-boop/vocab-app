@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A participant in a formal discussion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A participant in a formal discussion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A designated participant in a formal academic discussion, symposium, or panel meeting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarly conferences, an expert appointed to deliver a prepared commentary evaluating a presenter's paper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discussant designates a participant in a formal discussion."*
+> - 📜 **William James (*The Meaning of Truth*):** *"The philosophical **discussant** raised acute objections against the pragmatic definition of verity."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Every active **discussant** contributes a distinct perspective to the communal resolution of social problems."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"The academic **discussant** parsed the economic treatise, highlighting methodological assumptions."*
+

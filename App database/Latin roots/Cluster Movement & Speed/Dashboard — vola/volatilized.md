@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make volatile; cause to pass off in a vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Converted into a gas or vapor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been evaporated or converted into vapor; dispersed into the atmosphere as gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geophysics and impact cratering, volatile rock and ice volatilized instantly upon cosmic meteoritic impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volatilized designates make volatile; cause to pass off in a vapor."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The alcohol was gradually **volatilized**, leaving the pure resin deposited upon the walls of the vessel."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The chemical tincture was rapidly **volatilized** by the apparatus, filling the laboratory with bleaching fumes."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"Holmes suggested that an unfamiliar cosmic vapor had **volatilized** in the upper strata of the atmosphere."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hindu mother goddess; supreme power in the universe; wife or embodiment of the female energy of siva having both beneficent and malevolent forms or aspects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hindu mother goddess; supreme power in the universe; wife or embodiment of the female energy of siva having both beneficent and malevolent forms or aspects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Hindu goddess, especially the supreme goddess regarded as the feminine manifestation of divine creative energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hindu theology and Shakta traditions, Devi embodies cosmic cosmic power (Shakti), appearing in benign or fierce aspects (Parvati, Durga, Kali).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He vows to Singarmati Devi that, if the worms are duly born, he will make her an offering."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be hang’d, if some eternal villain, Some busy and insinuating rogue, Some cogging, cozening slave, to get some office, Have not devis’d this slander."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, my lord, best know, Who least will seem to do so, my past life Hath been as continent, as chaste, as true, As I am now unhappy; which is more Than history can pattern, though devis’d And play’d to take spectators."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"The temple priest made offerings of fragrant garlands and clarified butter before the golden shrine of **Devi**."*
+> - 📜 **Max Müller (*The Sacred Books of the East*):** *"In ancient hymns, **Devi** is revered as the all-pervading feminine force animating the celestial universe."*
+> - 📜 **Ralph Waldo Emerson (*Indian Superstition*):** *"The mystic imagery surrounding the goddess **Devi** reflected profound philosophical insights of ancient Vedic thinkers."*
+

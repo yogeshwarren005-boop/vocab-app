@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by vibration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by vibration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, consisting of, or caused by rapid periodic oscillations or vibration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular spectroscopy and quantum mechanics, vibrational energy levels and transitions observed in infrared and Raman spectra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibrational designates of or relating to or characterized by vibration."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic induction produced a distinct **vibrational** pulse through the coils of the armature."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Molecular kinetic energy is apportioned between translational and **vibrational** degrees of freedom."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Thermal radiation excites the internal **vibrational** modes of polyatomic gas molecules."*
+

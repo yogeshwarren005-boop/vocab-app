@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an academic course of study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an academic course of study.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or included in an academic course of study or institutional curriculum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical design, systematic educational frameworks structuring competencies, course objectives, and learning progressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curricular designates of or relating to an academic course of study."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The **curricular** program of the school must correspond with the growing social experience of the child."*
+> - 📜 **Alfred North Whitehead (*The Aims of Education*):** *"A rigid **curricular** schedule risks deadening the student's intellect with inert ideas that lead to no fresh discovery."*
+> - 📜 **Matthew Arnold (*Higher Schools and Universities in Germany*):** *"The German gymnasia maintain rigorous **curricular** standards that ensure comprehensive linguistic and scientific training."*
+

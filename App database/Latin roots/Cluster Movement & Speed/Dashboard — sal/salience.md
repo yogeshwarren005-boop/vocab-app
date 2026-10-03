@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being salient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being salient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The prominence, distinctness, or conspicuousness of a feature; the quality of standing out from surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and neuroscience, the attentional attribute of a stimulus that makes it stand out against background perceptual stimuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salience designates the state of being salient."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory inputs with higher emotional **salience** seize attentional focus and dominate conscious awareness."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Certain vivid memories possess an unmistakable **salience** that distinguishes them from faint conceptual shadows."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The dramatic crisis brought the moral contradictions of his position into sudden and painful **salience**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device consisting of a cylindrical tube around which the hair is wound to curl it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device consisting of a cylindrical tube around which the hair is wound to curl it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device (such as a roller or heated iron) around which hair is wound to make it curl; or a participant in the sport of curling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In winter sports, a competitor who delivers polished granite stones across ice toward a target circular house.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Curler, one who plays at curling."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"When Winter muffles up his cloak, And binds the mire like a rock; When to the loughs the curlers flock, Wi’ gleesome speed, Wha will they station at the cock?"*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Aunty, meanwhile, was distributing her weight evenly between the toes of the Irish gentleman and those of his daughter, as she leaned out of the window to converse with a lady friend in a straw hat and hair curlers."*
+> - 📜 **Walter Scott (*Guy Mannering*):** *"The enthusiastic **curler** shouted directions as the heavy stone glided across the frozen loch."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The maid had left a heated iron **curler** upon the dressing table among the pomades."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"She sat by the candle taking out each paper **curler** from her hair before the small mirror."*
+

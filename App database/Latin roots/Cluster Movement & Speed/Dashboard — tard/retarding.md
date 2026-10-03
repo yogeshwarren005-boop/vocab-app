@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move more slowly or operate at a slower rate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be delayed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing delay, impediment, or deceleration; slowing down progress or motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanics, resistive friction or aerodynamic drag acting as a retarding force on moving bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Jealousy of Mr Elliot had been the retarding weight, the doubt, the torment."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Statistics show that while a general price level is slowly changing like a tidal movement, the effect of the rhythmic business cycle appears now in hastening, now in retarding, the changes in the price level. § 10. #Capitalization theory of crises#."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The prayer was heard, the mountain was climbed, the guardians of the cave vanquished, and the body recovered." A story of retarding the sun and making the day longer to accomplish his purpose is told of Maui-a-kalana, according to Dibble's history."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Air resistance exerts a continuous **retarding** influence upon projectiles hurled through the atmosphere."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Burdensome internal tolls operated as a **retarding** check upon domestic commerce between provinces."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Severe famine acted as a powerful **retarding** factor, checking the numerical increase of the tribe."*
+

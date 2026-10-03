@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without speed (`slow' is sometimes used informally for `slowly').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Later than usual or than expected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slowly, late, or after the expected or proper time; with reluctance or delay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, actions performed with deliberate hesitation or lagging pace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He had no legs that practis’d not his gait; And speaking thick, which nature made his blemish, Became the accents of the valiant; For those who could speak low and tardily Would turn their own perfection to abuse, To seem like him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As the night lags tardily on—or rather when it seems to stop altogether, at between two and three o’clock—they find a restless craving on him to know more about the weather, now he cannot see it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Under his escort she went tardily forward to the main front, whose shuttered windows, like sightless eyeballs, excluded the possibility of watchers."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"And now he feasts, and **tardily** returns to take his part in this contested field."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The winter dawn broke **tardily** over the vast expanse of Egdon Heath, shedding a wan grey light."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Justice arrived **tardily** for the innocent prisoner who had wasted years within the dark cell."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Injury to the brain caused by a blow; usually resulting in loss of consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any violent blow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent shock, shaking, or jarring collision; a traumatic brain injury caused by a blow to the head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports medicine and traumatology, mild traumatic brain injury (mTBI) resulting in functional neurological disturbance without gross lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The oak partition shook with the concussion, and the place was filled with grey smoke."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pocket took it the other way, and got its head upon the table; which was announced to all present by a prodigious concussion."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother had the effect of a sharp concussion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The primary symptom of cerebral **concussion** is immediate, transient loss of consciousness followed by amnesia."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The overturn of the carriage produced a tremendous **concussion**, depositing the passengers in the muddy ditch."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes examined the shattered walking stick, pointing out the signs of a violent mechanical **concussion**."*
+

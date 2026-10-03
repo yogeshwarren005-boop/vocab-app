@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water containing salts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water containing salts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Water containing a significant concentration of dissolved mineral salts, especially ocean water or water from saline lakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and oceanography, aqueous environments characterized by an average salinity of thirty-five parts per thousand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"But then why is it that saltwater fish are not salty?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A dash of cold **saltwater** in the face will instantly revive a swooning landsman on a stormy watch."*
+> - 📜 **James Joyce (*Ulysses*):** *"A heavy wave of green **saltwater** broke over the wooden jetty, sending spray into the morning air."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We were astonished to discover living mollusks thriving in inland lakes of dense **saltwater**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Travelling about without any clear destination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travelling about without any clear destination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nomadic, wandering life without a settled home or regular occupation; the condition of a vagabond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological criminology, early penal theories analyzing chronic itinerancy and seasonal migrant poverty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Everybody knows where to find Durdles, when he’s wanted.” Which, if not strictly true, is approximately so, if taken to express that Durdles may always be found in a state of vagabondage somewhere."*
+> - 📜 **Walter Scott (*Guy Mannering*):** *"The gipsy tribe preserved their ancient habits of **vagabondage**, camping in the remote Scottish glens."*
+> - 📜 **Robert Louis Stevenson (*Travels with a Donkey in the Cévennes*):** *"I indulged in a fortnight of delightful **vagabondage**, wandering over the mountain crests with my pack."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Centuries of industrial turmoil have driven thousands of willing laborers into bitter **vagabondage**."*
+

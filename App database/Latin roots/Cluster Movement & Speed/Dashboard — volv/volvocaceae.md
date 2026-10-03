@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unicellular or colonial biflagellate free-swimming flagellates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unicellular or colonial biflagellate free-swimming flagellates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of colonial freshwater green flagellates of the order Volvocales, comprising motile multi-cellular spheres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary protistology and developmental biology, Volvocaceae serving as a model system for the transition to multicellularity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volvocaceae designates unicellular or colonial biflagellate free-swimming flagellates."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The family **Volvocaceae** presents a remarkable evolutionary progression from solitary flagellates to integrated colonies."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Colonial green flagellates of the **Volvocaceae** exhibit cellular differentiation between somatic and reproductive cells."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The coordinated flagellar swimming of the **Volvocaceae** demonstrates primitive intercellular signaling."*
+

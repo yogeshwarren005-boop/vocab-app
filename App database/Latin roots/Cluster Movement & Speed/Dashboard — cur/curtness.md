@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt discourteous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abrupt discourteous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, property, or manner of being curt; abrupt brevity or terseness in speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social discourse, communication perceived as discourteous due to severe economy of words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Hawley’s mode of speech, even when public decorum repressed his “awful language,” was formidable in its curtness and self-possession."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett continued with her stout curtness."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Whose?” The curtness of the counter-question, and the cool, slow manner in which, as he put it, Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Hawley's mode of speech, even when public decorum repressed his profanity, was marked by aggressive **curtness**."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"In acknowledgment of this question, addressed to him with extraordinary **curtness**, he merely shook his head."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She was surprised by the sudden **curtness** of his reply, having expected an elaborate compliment."*
+

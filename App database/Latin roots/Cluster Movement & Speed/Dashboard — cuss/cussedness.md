@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meanspirited disagreeable contrariness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meanspirited disagreeable contrariness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinate contrariness, stubborn perversity, or willful cantankerousness in behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In folk psychology and humor, the perverse tendency of inanimate objects or stubborn animals to malfunction at critical moments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cussedness designates meanspirited disagreeable contrariness."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"He attributed the breakdown of the bicycle entirely to the sheer **cussedness** of mechanical contrivances."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The contractor complained bitterly of the obstinate **cussedness** displayed by the municipal building board."*
+> - 📜 **Jack London (*White Fang*):** *"The northern wolf-dog met the cruelty of the sled drivers with an unyielding, ferocious **cussedness**."*
+

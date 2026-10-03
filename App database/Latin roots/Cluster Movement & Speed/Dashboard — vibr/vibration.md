@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of vibrating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shaky motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid back-and-forth motion about an equilibrium position; a quiver, oscillation, or tremor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustics and wave physics, mechanical oscillations of an elastic medium that transmit acoustic energy as pressure waves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Besides its being calculated to serve that friend in those chords of the human mind which—which need not be called into agonizing vibration on the present occasion—your friend is no fool."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I waited till the last deep and full vibration had expired—till the tide of talk, checked an instant, had resumed its flow; I then quitted my sheltered corner and made my exit by the side-door, which was fortunately near."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And at the sound of the first “give and bequeath” she could see all complexions changing subtly, as if some faint vibration were passing through them, save that of Mr."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The audible tone of the string is caused by the rapid **vibration** of its elastic fibers against the air."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes placed his hand upon the floorboards to detect the faint **vibration** of subterranean machinery."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"A sickening sensation of falling accompanied the furious **vibration** of the temporal mechanism."*
+

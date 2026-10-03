@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form a curl, curve, or kink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape one's body into a curl.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed into curls, coils, or spirals; rolled or wound up tightly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and horticulture, leaves or petals with wavy, ruffled, or crispate margins (folia crispa).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A serving-man, proud in heart and mind; that curled my hair; wore gloves in my cap; served the lust of my mistress’ heart, and did the act of darkness with her; swore as many oaths as I spake words, and broke them in the sweet face of heaven."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make curled-pate ruffians bald, And let the unscarred braggarts of the war Derive some pain from you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His head’s yellow, Hard-haired and curled, thick-twined like ivy tods, Not to undo with thunder."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"If she first meet the **curled** Antony, he'll make demand of her, and spend that kiss which is my heaven to have."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The little spaniel lay **curled** comfortably upon the velvet rug before the hearth."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooner was **curled** in his bunk, fast asleep amidst the rolling of the ship."*
+

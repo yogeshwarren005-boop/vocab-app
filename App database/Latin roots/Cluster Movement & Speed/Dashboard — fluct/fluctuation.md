@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wave motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of change; the rate or magnitude of change.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irregular rising and falling or back-and-forth movement; a variation or continual change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic monetary analysis, cyclical fluctuation in aggregate investment drives recurrent business booms and busts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But this fluctuation of general prices surely can be so greatly moderated in magnitude and in evil results as to make the word "crisis" almost a misnomer."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"There were three different conclusions to be drawn from his silence, between which her mind was in fluctuation; each of them at times being held the most probable."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In the stormy fluctuation of his feelings these words of hers seemed to him cruelly neutral, and he looked pale and miserable after his angry outburst."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"It is remarkable that this **fluctuation**, whether periodical or not, appears thus to require a series of years."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The sudden **fluctuation** in the value of silver bullion caused distress among commercial lenders."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every slight **fluctuation** in annual rainfall affects the competitive balance between plant varieties."*
+

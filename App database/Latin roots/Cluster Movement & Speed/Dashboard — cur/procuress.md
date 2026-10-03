@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman pimp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman pimp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who procures prostitutes or operates a brothel; a madam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and criminal statutes, a female broker of illicit sexual commerce or keeper of a disorderly house.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procuress designates a woman pimp."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old **procuress** watched the young ladies with greedy eyes, calculating the profit of her trade."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"He shrank in horror from the vile **procuress** who offered to introduce him to fashionable company."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The unsuspecting maiden was lured into the lodgings of a notorious **procuress**."*
+

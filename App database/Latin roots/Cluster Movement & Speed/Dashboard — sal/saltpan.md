@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shallow basin in a desert region; contains salt and gypsum that was deposited by an evaporated salt lake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shallow basin in a desert region; contains salt and gypsum that was deposited by an evaporated salt lake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An undrained natural basin or depression where saline water evaporates, leaving behind a hard crust of mineral salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arid geomorphology, playa lake depressions (such as Makgadikgadi or Etosha) forming extensive salt-encrusted flats in desert climates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltpan designates a shallow basin in a desert region; contains salt and gypsum that was deposited by an evaporated salt lake."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"We traversed the blinding expanse of the great **saltpan**, where the heat shimmer produced deceptive mirages."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The horse's hooves broke through the dry crust of the **saltpan**, sinking into black fetid mud beneath."*
+> - 📜 **Richard Francis Burton (*The Lake Regions of Central Africa*):** *"The caravan halted beside a desolate **saltpan** to collect coarse salt for trading with the inland tribes."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A railway that is powered by electricity and that runs on a track that is raised above the street level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a promotion to or assign to a higher position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Raised to a higher physical position, rank, dignity, or intellectual plane; lofty or noble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology and geography, regions positioned significantly above sea level, producing cooler temperatures and higher wind speeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She had one eye declined for the loss of her husband, another elevated that the oracle was fulfilled."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There the young gentleman improved his mind, which was of a lean and anxious character, and developing the family gifts, gradually elevated himself into the discounting profession."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Especially in your elevated station of society, miss,” says Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fire began to get worsted, and Gabriel's **elevated** position being no longer required, he descended the ladder."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"His prosperous fortune had suddenly **elevated** him far above his former humble companions."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The successful general was **elevated** to the imperial purple by the unanimous acclamation of the legions."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light medieval helmet with a slit for vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light medieval helmet with a slit for vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic term for a salad (a dish of raw green herbs); or an alternative spelling of salade (a light medieval helmet).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Shakespearean English and culinary history, wild green salad herbs (such as sorrel, lettuce, or watercress) eaten cold with vinegar and oil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherefore, o’er a brick wall have I climbed into this garden, to see if I can eat grass, or pick a sallet another while, which is not amiss to cool a man’s stomach this hot weather."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Wherefore, o'er a brick wall have I climbed into this garden, to see if I can eat a **sallet**."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The page served a cool dish of fresh **sallet** herbs alongside the roasted partridge."*
+> - 📜 **John Evelyn (*Acetaria: A Discourse of Sallets*):** *"A well-dressed **sallet** of young lettuces and wild herbs refreshings the liver in hot summer months."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of five and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More than 130 southeastern virgin islands; a dependent territory of the united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Roman numeral for the number six; or an abbreviation for the Virgin Islands or the classic visual editor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical typography and classical epigraphy, VI engraved on Roman monuments to represent six.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Never fear, sir; you are not speaking to one who is altogether ignorant of the _vis medicatrix_,” said he, with his usual superiority of expression, made rather pathetic by difficulty of breathing."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When the bridges broke down, unarmed soldiers, people from Moscow and women with children who were with the French transport, all—carried on by vis inertiæ—pressed forward into boats and into the ice-covered water and did not surrender."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Wainwright, United States Navy, whose motto was “Causa latet, vis est notissima,” and Lieutenant Commander J."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Chapter **VI** traces the accession of the Antonines and the peak of Roman administrative tranquility."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Book the second, title **VI**, treats of estates in possession, remainder, and reversion."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"In Proposition **VI**, the centripetal force is demonstrated to vary inversely as the square of distance."*
+

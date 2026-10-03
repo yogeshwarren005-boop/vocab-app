@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in accord; be in agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen simultaneously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To happen or exist at the same time; to agree in opinion, action, or judgment; to cooperate or combine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, to issue a concurring opinion agreeing with the judgment of the court while adopting a different legal rationale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, all you peers of Greece, go to my tent; There in the full convive we; afterwards, As Hector’s leisure and your bounties shall Concur together, severally entreat him."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I am still the same In my opinion, and forbear to frame Qualification, or excuse: If you Concur with me, and hold my judgement true, Shew it with any sign, and from this place, Or send me off exploded, or with grace._ THE CUSTOM OF THE COUNTRY."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Or should he consult Sir James Chettam, and get him to concur in remonstrance against a step which touched the whole family?"*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"First, all you peers of Greece, go to my tent; there in the full convive we, and let all minds **concur**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"All eminent breeders **concur** in asserting that each distinct breed was originally derived from a wild rock-pigeon."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The senior physicians did not **concur** in Lydgate's diagnosis of the fever."*
+

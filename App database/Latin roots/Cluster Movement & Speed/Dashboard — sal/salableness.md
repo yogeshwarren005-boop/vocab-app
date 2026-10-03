@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being salable or marketable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being salable or marketable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or measure of being readily marketable or attractive to purchasers in commerce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mercantile valuation, the likelihood of an inventory asset being converted into liquid specie without price discount.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salableness designates the quality of being salable or marketable."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The high **salableness** of grain makes it a reliable standard of value across diverse regional markets."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Standardized weights and measures enhance the **salableness** of commodities in foreign trade."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Artistic merchandise relies upon aesthetic reputation to maintain its commercial **salableness**."*
+

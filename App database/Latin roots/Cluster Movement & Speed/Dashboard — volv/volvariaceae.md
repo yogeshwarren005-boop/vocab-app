@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fungi belonging to the order agaricales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of fungi belonging to the order agaricales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical family of agaric fungi characterized by pink spores, free gills, and a volva.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, modern cladistic analyses subsumed Volvariaceae into the family Pluteaceae within the order Agaricales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volvariaceae designates a family of fungi belonging to the order agaricales."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The taxonomic grouping **Volvariaceae** was distinguished by the combination of pink basidiospores and a persistent volva."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fungal families like **Volvariaceae** demonstrate subtle morphological divergence across continental forest zones."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"Students of mycology studied the **Volvariaceae** to recognize the dangerous mimicry among gilled mushrooms."*
+

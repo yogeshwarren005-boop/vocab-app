@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being oblique and rambling indirectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being deceitful and underhanded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Underhanded cunning, deceitful indirectness, or roundabout complexity in action or speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character analysis, calculating duplicity masking true motives behind superficial amiability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deviousness designates the quality of being oblique and rambling indirectly."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode's habitual **deviousness** in business transactions was rationalized by pious theological pretexts."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I observed the lawyer's extraordinary **deviousness**, noticing how he answered every question with another riddle."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The political **deviousness** of the revolutionary factions undermined all public trust in the assembly."*
+

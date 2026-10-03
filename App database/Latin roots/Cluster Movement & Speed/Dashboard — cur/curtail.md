@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place restrictions on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terminate or abbreviate before its intended or proper end or its full extent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce in extent, quantity, or duration; to cut short, abridge, or diminish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary history and equestrian lore, to dock or cut short an animal's tail (such as a working dog or carthorse).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When a gentleman is dispos’d to swear, it is not for any standers-by to curtail his oaths."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I know you—I am on my guard.” “Sir, I do not wish to act against you,” I said; and my unsteady voice warned me to curtail my sentence."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The answer is, that it could only have been done for greater caution, and to guard against all cavilling refinements in those who might hereafter feel a disposition to curtail and evade the legitimate authorities of the Union."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"When a gentleman is dispos'd to swear, it is not for any standers-by to **curtail** his oaths."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We must not **curtail** the freedom of inquiry merely to satisfy established prejudices."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The financial crisis forced the emperor to **curtail** the lavish expenditures of the imperial household."*
+

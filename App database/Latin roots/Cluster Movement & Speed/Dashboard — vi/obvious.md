@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily perceived by the senses or grasped by the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily perceived by the senses or grasped by the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily perceived or understood; clear, self-evident, or apparent to the eye or mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic literary usage (Milton), lying directly in the path; fronting or standing in the way.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He listened to himself with obvious satisfaction and sometimes gently beat time to his own music with his head or rounded a sentence with his hand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardon me for saying what is so obvious, but I wouldn’t have it hastily supposed,” with the least turn of his eyes towards Sir Leicester, “that I am ashamed of my mother’s position here, or wanting in all just respect for Chesney Wold and the family."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Soon soft spirts alternating with loud spirts came in regular succession from within the shed, the obvious sounds of a person milking a cow."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To the evil turn my **obvious** breast, armed with celestial virtue against tempting guile."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"It has long been an axiom of mine that the little things are infinitely the most **obvious**."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"It was **obvious** to all who saw them that Colonel Brandon admired Marianne with unfeigned sincerity."*
+

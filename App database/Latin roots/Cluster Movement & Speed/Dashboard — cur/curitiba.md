@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southeastern brazil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southeastern brazil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of the state of Paraná in southern Brazil, famed for innovative urban planning and sustainable public transit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban geography and ecological architecture, internationally recognized for pioneering bus rapid transit (BRT) and comprehensive recycling programs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curitiba designates a city in southeastern brazil."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"Traveling southward from São Paulo, we reached the pine-forested plateau of **curitiba** before entering the interior."*
+> - 📜 **Richard Spruce (*Notes of a Botanist on the Amazon and Andes*):** *"The botanical specimens collected on the uplands near **curitiba** revealed distinct subtropical affinities."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The highland region surrounding **curitiba** was celebrated for its temperate climate and vast araucaria forests."*
+

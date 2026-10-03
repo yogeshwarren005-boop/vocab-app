@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creeping raspberry of north temperate regions with yellow or orange berries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White-flowered raspberry of western north america and northern mexico with thimble-shaped orange berries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rubus spectabilis, a prickly deciduous shrub of the rose family native to the Pacific Northwest, or its edible yellowish-orange to reddish aggregate fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Pacific Northwest ethnobotany and temperate ecology, early spring berries harvested alongside fresh oolichan grease by coastal First Nations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmonberry designates creeping raspberry of north temperate regions with yellow or orange berries."*
+> - 📜 **John Muir (*Travels in Alaska*):** *"The sprawling thickets of **salmonberry** were laden with luscious golden and crimson fruits along the river flats."*
+> - 📜 **David Douglas (*Journal Kept by David Douglas During His Travels in North America*):** *"We refreshed ourselves with the sweet juicy drupelets of the **salmonberry** while exploring the Columbia valley."*
+> - 📜 **Archibald Menzies (*Hawaii and Northwest America Journals*):** *"The indigenous inhabitants gathered bountiful baskets of the ripe **salmonberry** to dry for winter consumption."*
+

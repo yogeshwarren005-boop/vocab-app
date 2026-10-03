@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sheathe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fold inwards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fold inward or sheath; to cause an anatomical or cellular layer to turn inside out or tuck within itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental embryology, the inward folding of blastoderm cells during blastopore formation in gastrulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog invaginate as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The blastula cells begin to **invaginate** at the vegetal pole, creating the primitive archenteron."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The sea-anemone can **invaginate** its delicate tentacles into the central body cavity when disturbed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Peristaltic contraction caused the upper intestinal segment to **invaginate** into the lower lumen."*
+

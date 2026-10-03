@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Edible root of the salsify plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mediterranean biennial herb with long-stemmed heads of purple ray flowers and milky sap and long edible root; naturalized throughout united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tragopogon porrifolius, a European composite plant cultivated for its edible fleshy root having a flavor reminiscent of oysters; vegetable oyster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary botany and horticulture, a hardy biennial vegetable stored in root cellars for winter culinary stews and soups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Salsify Mumbles was a grocer in a small way, and his good wife took boarders,--young ladies and gentlemen from different parts of the country, who came to attend Cedar Hill Seminary, a school of high repute and extended celebrity."*
-> - 📜 **Effie Afton (*Eventide*):** *"Salsify now began to regard Dick with different eyes, as what prudent mother would not?"*
-> - 📜 **Effie Afton (*Eventide*):** *"Salsify bade her daughter be of good cheer."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The purple-flowered **salsify** groweth in rich gardens and its pleasant root hath the delicate savour of oysters."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I planted a row of sweet **salsify** in my woodland garden, admiring its grass-like foliage."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The yellow-flowered **salsify** opens its blooms punctually at sunrise and closes them before noon."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman salesperson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman salesperson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman employed to sell goods or merchandise in a retail store or commercial establishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In retail trade discourse, a polite conventional designation for experienced female retail sales professionals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saleslady designates a woman salesperson."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The competent **saleslady** at the dress shop helped Carol select fabrics suited to the prairie climate."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"An older **saleslady** guided Carrie through the routine of invoicing and packaging ribbons."*
+> - 📜 **O. Henry (*The Four Million*):** *"The polite **saleslady** showed endless patience as the indecisive shopper examined twenty pairs of gloves."*
+

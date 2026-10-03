@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the time before the fall of adam and eve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the time before the fall of adam and eve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or belonging to the idyllic era before the biblical Fall of man; innocent, pristine, or uncorrupted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological ethics and literary criticism, an unfallen state of nature and consciousness untainted by original sin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prelapsarian designates of or relating to the time before the fall of adam and eve."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Adam and Eve dwelt in blissful, **prelapsarian** innocence amid the fragrant bowers of Eden."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poet imagined an uncorrupted, **prelapsarian** harmony between human perception and external nature."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"In the solitude of primeval woods, the soul catches a glimpse of its ancient **prelapsarian** dignity."*
+

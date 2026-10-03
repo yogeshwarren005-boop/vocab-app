@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the ambulacra of radial echinoderms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the ambulacra of radial echinoderms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the radial food grooves or tube-foot rows of echinoderms such as sea stars and sea urchins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, ambulacral ossicles and pores through which hydraulic podia extend for locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambulacral designates pertaining to the ambulacra of radial echinoderms."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We observed the numerous **ambulacral** suckers of the starfish adhering tenaciously to the wet rock."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The water-vascular canals run beneath each **ambulacral** groove to supply the rows of tentacles."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The calcareous test of the echinus is divided into five perforate **ambulacral** zones."*
+

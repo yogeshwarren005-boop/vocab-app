@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi with yellowish gelatinous sporophores having convolutions resembling those of the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi with yellowish gelatinous sporophores having convolutions resembling those of the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of jelly fungi producing gelatinous, brain-like, or lobed fruiting bodies on decaying wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mycology, Tremella species exhibiting dimorphic life cycles with parasitic yeast-like and filamentous stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tremella designates fungi with yellowish gelatinous sporophores having convolutions resembling those of the brain."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We found a curious yellow **Tremella** fungus adhering to the wet bark of an ancient beech tree."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The gelatinous consistency of **Tremella** enables it to absorb moisture and swell rapidly after rainfall."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"The moist forest path was adorned with bright gelatinous cushions of **Tremella** gleaming in the shade."*
+

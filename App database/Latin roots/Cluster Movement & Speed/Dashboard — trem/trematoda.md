@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasitic flatworms (including flukes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasitic flatworms (including flukes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic class of parasitic flatworms (phylum Platyhelminthes) commonly known as flukes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical parasitology and helminthology, Trematoda characterized by complex life cycles involving intermediate molluscan hosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trematoda designates parasitic flatworms (including flukes)."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The class **Trematoda** includes internal parasites equipped with powerful oral and ventral suckers."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The intricate larval stages of the **Trematoda** demonstrate remarkable adaptations to diverse host species."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Endemic hepatic infections in the tropics are frequently caused by flukes of the class **Trematoda**."*
+

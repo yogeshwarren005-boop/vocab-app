@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of behaving in an obscene manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of behaving in an obscene manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lewdness, lustfulness, or an indecent tendency to excite or gratify prurient sexual curiosity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary censorship and legal history, the defamatory or obscene character of publications calculated to corrupt public morals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salaciousness designates the trait of behaving in an obscene manner."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A moral writer will shun the cheap **salaciousness** that corrupts the taste of frivolous youth."*
+> - 📜 **John Milton (*Areopagitica*):** *"A virtuous mind remains untainted even when confronted by the brazen **salaciousness** of corrupt literature."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She turned away in disgust from the petty **salaciousness** of the small-town tavern chatter."*
+

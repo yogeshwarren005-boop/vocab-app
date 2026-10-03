@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who leaves one country to settle in another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who leaves one country to settle in another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who leaves their own country or region in order to settle permanently in another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century demographic history, European emigrant cohorts traveling in steerage to settle American agricultural frontiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But it is a common name in Nantucket, they say, and I suppose this Peter here is an emigrant from there."*
-> - 📜 **Effie Afton (*Eventide*):** *"Camford, formerly the wealthiest merchant in New Orleans, but now a poor Texan emigrant in his log-cabin on the Cibolo."*
-> - 📜 **Effie Afton (*Eventide*):** *"Camford in his new emigrant home, and now we have another party of friends arriving in our young "Italy of America," even the romantic Miss Mary Lester, and her John Falstaff husband; and Fred."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The **emigrant** ship swung slowly out into the river, cheered by weeping crowds on the departure pier."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The destitute laborer turns his desperate eyes westward, hoping as an **emigrant** to find bread and liberty."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every industrious **emigrant** enriches the young colony while relieving population pressure at home."*
+

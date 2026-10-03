@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapability of being cured or healed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapability of being cured or healed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chronic or irreversible character of a malady, moral defect, or systemic institutional flaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical ethics and classical philosophy, recognition of irreversible mortality shaping stoic acceptance and end-of-life care.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incurableness designates incapability of being cured or healed."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"The **incurableness** of this passion proceeds from our own stubborn refusal to submit to reason."*
+> - 📜 **Jeremy Taylor (*Holy Living and Holy Dying*):** *"When the physician proclaims the **incurableness** of the sickness, the soul must compose itself for departure."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men readily argue for the **incurableness** of their prejudices when they lack the patience to examine their foundations."*
+

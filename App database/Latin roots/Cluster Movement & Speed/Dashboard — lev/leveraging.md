@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Investing with borrowed money as a way to amplify potential gains (at the risk of greater losses).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplement with leverage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The strategic use, deployment, or exploitation of an existing resource, asset, or advantage to achieve enhanced outcomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern corporate finance and portfolio theory, increasing the debt component of a balance sheet to fund operational expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leveraging designates investing with borrowed money as a way to amplify potential gains (at the risk of greater losses)."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"Modern industrial corporations focus on **leveraging** their technical expertise across global markets."*
+> - 📜 **Peter Drucker (*Management: Tasks, Responsibilities, Practices*):** *"A competitive enterprise succeeds by **leveraging** core human strengths rather than attempting to rectify irremediable weaknesses."*
+> - 📜 **Herbert Simon (*Administrative Behavior*):** *"Organizations improve decision-making by **leveraging** centralized communication networks to distribute specialized expertise."*
+

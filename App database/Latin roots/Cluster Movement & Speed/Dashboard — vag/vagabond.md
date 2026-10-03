@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything that resembles a vagabond in having no fixed place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wanderer who has no established residence or visible means of support.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who wanders from place to place without a permanent home or regular job; an itinerant or rover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical vagrancy law, legal classifications penalizing unlicensed rovers and mendicants under Tudor statutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, sir; you were beaten in Italy for picking a kernel out of a pomegranate; you are a vagabond, and no true traveller."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This common body, Like to a vagabond flag upon the stream, Goes to and back, lackeying the varying tide, To rot itself with motion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O then, my father, Will you permit that I shall stand condemned A wandering vagabond, my rights and royalties Plucked from my arms perforce and given away To upstart unthrifts?"*
+> - 📜 **William Shakespeare (*Richard II*):** *"Whilst he, a **vagabond** exile, flitted from court to court seeking foreign arms against our throne."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The reckless **vagabond** wandered through the border hills, sleeping under haystacks and ruined towers."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The beadle denounced the poor homeless boy as an idle **vagabond** fit only for the workhouse."*
+

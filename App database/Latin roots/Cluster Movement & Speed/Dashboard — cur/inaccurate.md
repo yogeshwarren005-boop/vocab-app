@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not exact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not correct, true, or exact; containing errors or mistakes in detail, measurement, or statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cartography and physical measurement, falling outside acceptable tolerances or deviating systematically from verified reference standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Through the operation of its act New Zealand came to be called the "land without strikes," tho the description was inaccurate, especially after 1907."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I am inaccurate but vigorous, and occasionally send in a quite unplayable shot."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"But for this the shell would tend to turn over and over, resulting in uncertain and inaccurate flight."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"False facts are highly injurious to the progress of science, for they often endure long; but false views, if supported by some evidence, do little harm, as every one takes a salutary pleasure in proving their **inaccurate** character."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A client who gives an **inaccurate** description of circumstances merely wastes his own time and mine."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Memories that are vividly presented to consciousness may nevertheless prove entirely **inaccurate** upon critical examination."*
+

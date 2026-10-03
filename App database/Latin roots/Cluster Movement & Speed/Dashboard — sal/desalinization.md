@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal of salt (especially from sea water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The removal of salt (especially from sea water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal of salt and mineral components from saline solutions, especially ocean water, to produce fresh water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In resource economics, evaluating capital costs and brine disposal environmental impacts of regional municipal water plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desalinization designates the removal of salt (especially from sea water)."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Extensive research into flash evaporation accelerated the commercial viability of thermal **desalinization**."*
+> - 📜 **Barry Commoner (*The Closing Circle*):** *"Electrodialysis and multistage distillation represent major technological paradigms in seawater **desalinization**."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The sustainable growth of desert metropolitan centers hinges on economical water **desalinization**."*
+

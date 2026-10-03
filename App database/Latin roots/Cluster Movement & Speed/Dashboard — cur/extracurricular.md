@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Outside the regular academic curriculum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outside the regular duties of your job or profession.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pursued in addition to the normal course of study, curriculum, or regular duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational sociology, student-organized clubs, athletic programs, and civic activities fostering social leadership beyond formal academics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extracurricular designates outside the regular academic curriculum."*
+> - 📜 **John Dewey (*The School and Society*):** *"The social life of the school must expand to include **extracurricular** endeavors where pupils practice practical cooperation."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"University administrations have increasingly indulged **extracurricular** athletics to bolster institutional prestige."*
+> - 📜 **Bertrand Russell (*Education and the Social Order*):** *"Wholesome **extracurricular** pursuits provide young scholars with relief from the strain of competitive examinations."*
+

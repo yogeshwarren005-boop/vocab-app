@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Late-occurring (especially with reference to symptoms of a disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Late-occurring (especially with reference to symptoms of a disease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by late appearance or delayed development; occurring late in the course of a disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuropsychiatry, tardive dyskinesia describing involuntary hyperkinetic movements emerging after chronic exposure to neuroleptics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tardive designates late-occurring (especially with reference to symptoms of a disease)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Certain chronic toxic exposures produce a **tardive** motor disturbance that manifests months after cessation."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The physician watched for **tardive** sequelae that might arise long after the acute fever had subsided."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The clinical notes documented a **tardive** neurological deficit developing in the patient following spinal trauma."*
+

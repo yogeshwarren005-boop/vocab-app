@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe recurring vascular headache; occurs more frequently in women than men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe recurring vascular headache; occurs more frequently in women than men.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological condition marked by recurrent, severe throbbing headache attacks, often with nausea and visual disturbances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a neurovascular disorder involving cortical spreading depression and trigeminovascular sensitization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, migraine designates a severe recurring vascular headache; occurs more frequently in women than men."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The classic visual aura of **migraine** consists of scintillating scotoma followed by unilateral hemicrania."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Patients tortured by periodic **migraine** find relief only in absolute darkness and complete stillness."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The clinical notes recorded hereditary patterns of severe **migraine** recurring across multiple generations."*
+

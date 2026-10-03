@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man salesperson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man salesperson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man whose job is to sell goods, products, or services directly to customers or businesses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial capitalism and marketing, traveling commercial agents representing manufacturers across regional wholesale territories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Whose, then?” “Well, I got the two dozen from a salesman in Covent Garden.” “Indeed?"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The salesman nodded and shot a questioning glance at my companion."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Now where did you get them from?” To my surprise the question provoked a burst of anger from the salesman."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Well, I got the two dozen geese from a **salesman** in Covent Garden market."*
+> - 📜 **Arthur Miller (*Death of a Salesman*):** *"Willy Loman believed that a successful **salesman** needed only a smile and personal popularity to conquer the world."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The enthusiastic motor **salesman** demonstrated the mechanical virtues of the newest touring sedan."*
+

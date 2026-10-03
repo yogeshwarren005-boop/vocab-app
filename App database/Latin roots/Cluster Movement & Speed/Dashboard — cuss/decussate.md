@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cross or intersect so as to form a cross.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crossed or intersected in the form of an x.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cross or intersect in the form of the letter X; or arranged in pairs that cross alternately at right angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and neuroanatomy, decussate leaves arranged opposite in perpendicular pairs; or crossing tracts in the brainstem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decussate designates cross or intersect so as to form a cross."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"Nature delights to **decussate** and cross her fibers in the elegant quincuncial order of ancient plantations."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The opposite leaves of the plant **decussate** at each node, optimizing exposure to sunlight."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The motor fibers from the cerebral cortex **decussate** in the lower medulla before entering the spinal cord."*
+

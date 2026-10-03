@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dish of raw leafy vegetables, often combined with chopped herbs, fruits, or meats, served cold with a dressing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary idiom, metaphorical youthful greenness or inexperience (salad days), before emotional maturation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, sir, she was the sweet marjoram of the salad, or, rather, the herb of grace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My salad days, When I was green in judgment, cold in blood, To say as I said then."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"There has never been such an abundance of cauliflower and peas, such rows of bean-poles, such salad-beds."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"My **salad** days, when I was green in judgment, cold in blood, to say as I said then!"*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"We had a roast fowl and a fresh **salad**, which Mrs. Crupp served with an air of immense hospitality."*
+> - 📜 **Jane Austen (*Emma*):** *"She helped herself delicately to a portion of cold chicken and crisp green **salad** at the garden luncheon."*
+

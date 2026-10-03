@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce saliva.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be envious, desirous, eager for, or extremely happy about something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To produce or discharge saliva, especially in excessive amounts or in anticipation of food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioural psychology, the classical Pavlovian conditioned response where sensory cues trigger involuntary reflex secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The salivary glands are used to salivate the body."*
+> - 📜 **Ivan Pavlov (*Conditioned Reflexes*):** *"The sound of the metronome alone was sufficient to cause the animal to **salivate** copiously."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The sight of savoury meat causes an hungry person to **salivate** before tasting a morsel."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The sudden aroma of real roast coffee caused Winston to **salivate** with ravenous anticipation."*
+

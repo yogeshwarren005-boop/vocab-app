@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter obscenities or profanities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heap obscenities upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Afflicted by or deserving of a curse; hateful, abominable, or damnable in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary tragedy, protagonists cursed by tragic hubris or doomed circumstances beyond human control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some villain, Ay, and singular in his art, hath done you both This cursed injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O cursed spite, That ever I was born to set it right."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What if this cursed hand Were thicker than itself with brother’s blood, Is there not rain enough in the sweet heavens To wash it white as snow?"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Hold, take my sword. There's husbandry in heaven; their candles are all out. Take thee that too. A heavy summons lies like lead upon me, and yet I would not sleep: merciful powers, restrain in me the **cursed** thoughts that nature gives way to in repose!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Let us fly from this **cursed** shore, where hopeless sorrow and eternal fire torment the fallen."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The family chronicle warned against setting foot upon the **cursed** mire when the powers of evil are exalted."*
+

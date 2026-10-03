@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving very rapidly to and fro or up and down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving very rapidly to and fro or up and down.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, causing, or consisting of rapid oscillations back and forth; vibrating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and physiological acoustics, vibratory wave motions transmitted through air or bone to stimulate auditory hair cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibratory designates moving very rapidly to and fro or up and down."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Luminous bodies excite a **vibratory** motion in the ethereal medium that spreads in concentric waves."*
+> - 📜 **John Tyndall (*Sound*):** *"The tuning fork imparts its **vibratory** impulse to the surrounding air, generating acoustic waves."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Intense terror often induces a rapid **vibratory** trembling throughout the voluntary musculature."*
+

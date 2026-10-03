@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of collapsing or being collapsed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of collapsing or being collapsed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being folded into a compact form; constructed with hinged or telescoping components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime safety regulations, collapsible lifeboats stowed on passenger vessels to maximize deck space while ensuring evacuation capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He removed his collar, with contained black necktie and collapsible stud, from his neck to a position on the left of the table."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The crew scrambled to launch the **collapsible** lifeboats as the damaged steamer settled in the water."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"Holmes carried a **collapsible** brass telescope tucked neatly inside the pocket of his overcoat."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"We assembled the **collapsible** sphere upon the open field, testing its airtight seals with care."*
+

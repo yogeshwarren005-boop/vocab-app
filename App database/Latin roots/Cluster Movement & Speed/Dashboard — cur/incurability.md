@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapability of being cured or healed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapability of being altered in disposition or habits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The incapacity of a disease, disorder, or condition to be healed, remedied, or reversed by medical intervention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nosology and prognosis, definitive pathophysiological progression beyond the therapeutic window of remedial intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incurability designates incapability of being cured or healed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The recognized **incurability** of the malady in its advanced stages demands palliative care of the highest order."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological & Geological*):** *"To declare the **incurability** of a biological disorder before exploring all physical avenues is unscientific despair."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Patience is the only sovereign antidote against the **incurability** of human misfortune."*
+

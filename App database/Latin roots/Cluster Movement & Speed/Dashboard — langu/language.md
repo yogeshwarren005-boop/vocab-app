@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A systematic means of communicating by the use of sounds or conventional symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (language) communication by word of mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of human communication using spoken, written, or signed words in structured and conventional ways.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal linguistics, a recursive symbolic system comprising phonology, morphology, syntax, and semantics governed by universal grammar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those girls of Italy, take heed of them; They say our French lack language to deny If they demand; beware of being captives Before you serve."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you sally upon him, speak what terrible language you will; though you understand it not yourselves, no matter; for we must not seem to understand him, unless someone among us, whom we must produce for an interpreter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you are the Muskos’ regiment, And I shall lose my life for want of language."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"You taught me **language**, and my profit on't is, I know how to curse."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Words in their primary or immediate signification stand for nothing but the ideas in the mind of him that uses them, forming human **language**."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Words are signs of natural facts; particular natural facts are symbols of particular spiritual facts, which is the ground of **language**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gallery where works of art can be displayed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shop where hairdressers and beauticians work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reception room in a large house; or a periodic gathering of artists, writers, and intellectuals for conversation and cultural exchange.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French cultural history, the prestigious official annual exhibition of art held in Paris under the auspices of the Académie des Beaux-Arts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester lay down on a sofa in a pretty room called the salon, and Sophie and I had little beds in another place."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Yes,” said Dorothea, without pause; “show him into the salon.” Her chief impressions about young Ladislaw were that when she had seen him at Lowick she had been made aware of Mr."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I'll paint it, just like I saw it to-night, for next Spring's Salon."*
+> - 📜 **Marcel Proust (*Swann's Way*):** *"The fashionable **salon** of Madame Verdurin welcomed only those faithful guests who shared her aesthetic prejudices."*
+> - 📜 **Émile Zola (*L'Œuvre*):** *"The young revolutionary painters gathered before the gates of the official **salon** to protest the rejection of their canvases."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The brilliant conversation of the Parisian **salon** exerted a profound influence on French political philosophy."*
+

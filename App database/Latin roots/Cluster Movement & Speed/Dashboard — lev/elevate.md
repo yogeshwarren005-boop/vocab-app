@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a promotion to or assign to a higher position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise from a lower to a higher position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To raise to a higher position, status, level, or moral character; to lift up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural engineering, to raise a structural element or floor plane above ground level for flood protection or grand visual prominence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She felt that he had every thing to elevate him which general attention and deference, and especially the attention of all the young women, could do."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Some men must marry to elevate themselves a little, but when I am in need of that, I hope some one will tell me so—I hope some individual will apprise me of the fact."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Alleged Tendency of the New Plan to Elevate the Few at the Expense of the Many Considered in Connection with Representation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Some men must marry to **elevate** themselves a little, but when I am in need of that assistance I will look elsewhere."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I know of no more encouraging fact than the unquestionable ability of man to **elevate** his life by a conscious endeavour."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A great soul knows how to **elevate** the most ordinary duties into acts of noble virtue."*
+

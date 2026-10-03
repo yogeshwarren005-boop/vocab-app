@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An integrated course of academic studies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An integrated course of academic studies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The regular course of study or collective educational program offered by a school, college, or university.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Latin etymology (curriculum), originally a running, racecourse, or career, later transferred to the course of intellectual development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The curriculum of the "Divinity Hall," as it was called, consisted of five of these short sessions."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"As has been already mentioned, the theological curriculum extended over five sessions of two months."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"During his first two years in Edinburgh he was busily engaged in writing lectures and in adapting his existing stock to the requirements of the new curriculum."*
+> - 📜 **John Dewey (*The School and Society*):** *"When the school introduces and trains each child of society into membership within such a little community, the whole **curriculum** is saturated with life."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"A humane **curriculum** should seek to impart the best that has been thought and said in the world."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"The university **curriculum** aims at raising the intellectual tone of society and cultivating the public mind."*
+

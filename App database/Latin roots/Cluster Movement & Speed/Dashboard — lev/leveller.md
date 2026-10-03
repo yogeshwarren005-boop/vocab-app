@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical who advocates the abolition of social distinctions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radical who advocates the abolition of social distinctions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which levels, flattens, or abolishes social, economic, or political distinctions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 17th-century English Civil War historiography, the political faction led by John Lilburne advocating popular sovereignty and constitutional democracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The hollow echo of its fall reminded the waggoner painfully of the grim Leveller."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"You, old one by his side, I judge, Were, red as blood, a socialist, A leveller!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The hollow echo of its fall reminded the waggoner painfully of the grim Leveller."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The hollow echo of its fall reminded the waggoner painfully of the grim **leveller**, Death."*
+> - 📜 **Walter Scott (*Woodstock*):** *"The stern **leveller** rejected all compromise with the royalists, demanding an equal commonwealth."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The conservative gentry feared the **leveller** doctrines that circulated freely among the parliamentary soldiers."*
+

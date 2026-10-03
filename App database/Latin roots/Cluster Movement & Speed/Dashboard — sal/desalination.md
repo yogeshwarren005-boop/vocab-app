@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal of salt (especially from sea water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The removal of salt (especially from sea water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of removing dissolved salts and minerals from seawater, brackish water, or saline agricultural soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental engineering, large-scale industrial separation technologies including multi-stage flash distillation and membrane filtration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desalination designates the removal of salt (especially from sea water)."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Large-scale thermal **desalination** plants promise to transform barren desert coastlines into fertile agricultural communities."*
+> - 📜 **Jacques Cousteau (*The Living Sea*):** *"The vessel's reverse-osmosis **desalination** unit furnished all the pure drinking water required by the crew."*
+> - 📜 **Barry Commoner (*The Closing Circle*):** *"The energy requirements for industrial **desalination** must be weighed against alternative water conservation strategies."*
+

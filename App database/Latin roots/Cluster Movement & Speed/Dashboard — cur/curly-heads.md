@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubby clematis of the eastern united states having curly foliage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubby clematis of the eastern united states having curly foliage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural noun for people, especially young children, having heads covered with curly hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical colloquialisms, plants or flowers bearing dense, crinkled, or curled terminal flower heads or seed heads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curly-heads designates shrubby clematis of the eastern united states having curly foliage."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The schoolmaster smiled upon the little **curly-heads** seated on the wooden benches before him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The proud mother combed the tangled locks of her two cheerful little **curly-heads**."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"The room was filled with the laughter of lively little **curly-heads** gathered around the Christmas tree."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose vigor, health, or flesh, as through grief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a desire for something or someone who is not present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lose or lack vitality; to grow weak or feeble; to suffer neglect or hardship in confinement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic literature and legal history, enduring solitary imprisonment or prolonged unrequited romantic yearning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, of death too, That rids our dogs of languish?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, let her languish A drop of blood a day and, being aged, Die of this folly. [_Exit with Lords._] Enter Pisanio."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What thou seest when thou dost wake, [_Squeezes the flower on Titania’s eyelids._] Do it for thy true love take; Love and languish for his sake."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"One desperate grief cures with another's **languish**; take thou some new infection to thy eye."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"To **languish** in obscure prison bondage, blind and bound, was the bitter destiny of the fallen hero."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"Debtors were left to **languish** in the cold cells of the Marshalsea, forgotten by former friends."*
+

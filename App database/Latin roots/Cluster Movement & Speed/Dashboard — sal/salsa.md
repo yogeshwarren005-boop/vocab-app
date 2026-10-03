@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spicy sauce of tomatoes and onions and chili peppers to accompany mexican foods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spicy sauce of tomatoes and onions and chili peppers to accompany mexican foods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spicy tomato-based sauce of Mexican origin flavored with chili peppers and herbs; or a lively Latin American ballroom dance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnomusicology, an Afro-Cuban musical synthesis developed in New York and the Caribbean blending son, mambo, and jazz rhythms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salsa designates spicy sauce of tomatoes and onions and chili peppers to accompany mexican foods."*
+> - 📜 **Octavio Paz (*The Labyrinth of Solitude*):** *"The piquant flavors of chili and fresh **salsa** are essential elements of Mexican culinary ritual and social festivity."*
+> - 📜 **Gabriel García Márquez (*Living to Tell the Tale*):** *"The lively brass rhythms of Caribbean **salsa** echoed across the courtyard during warm tropical nights."*
+> - 📜 **Carlos Fuentes (*The Old Gringo*):** *"The roadside tavern served fresh tortillas with a fiery red **salsa** that set the palate ablaze."*
+

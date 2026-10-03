@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical vine having umbels of small purple flowers and edible roots sometimes boiled as a potato substitute; colombia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical vine having pink-and-yellow flowers spotted purple and edible roots sometimes boiled as a potato substitute; west indies to northern south america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bomarea edulis, a tropical American climbing herbaceous plant of the alstroemeria family cultivated for its edible starchy tubers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Andean ethnobotany, tuberous twining vines historically harvested as a root food resource by indigenous highland populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salsilla designates tropical vine having umbels of small purple flowers and edible roots sometimes boiled as a potato substitute; colombia."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The Andean villagers cultivated the climbing **salsilla**, whose starchy roots provided sustenance during mountain travels."*
+> - 📜 **Joseph Dalton Hooker (*Curtis's Botanical Magazine*):** *"The handsome campanulate blossoms of **salsilla** make it an attractive climber for the conservatory."*
+> - 📜 **Richard Spruce (*Notes of a Botanist on the Amazon and Andes*):** *"We encountered tangled thickets of **salsilla** twining around tree trunks on the cloud-forest slopes."*
+

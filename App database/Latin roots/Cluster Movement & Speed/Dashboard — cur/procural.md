@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of getting possession of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of getting possession of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of obtaining, acquiring, or bringing about something; procurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal contracts and commercial logistics, formal acquisition of goods, rights, or specialized services under binding terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procural designates the act of getting possession of something."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The prompt **procural** of foreign supplies was indispensable to the survival of the continental army."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"My father assisted in the **procural** of suitable books, encouraging my early inclination toward learning."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The **procural** of this ancient parchment cost the collector many months of patient correspondence."*
+

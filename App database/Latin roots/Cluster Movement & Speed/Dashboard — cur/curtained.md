@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with drapery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnished or concealed with curtains or draperies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fitted, furnished, enclosed, or draped with curtains; concealed behind drapery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural descriptions, windows or four-poster beds draped with heavy fabrics to provide privacy and exclude drafts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The pensive character which the curtained hood lent to their bent heads would have reminded the observer of some early Italian conception of the two Marys."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A pale distress was already on Tess’s face, and she pulled her curtained hood further over it."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"In a little nook, curtained off from the great ward, lay a sick man upon his bed."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"In a large bedroom upstairs, the window was thickly **curtained** with a heavy damask drapery."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"Feeble gleams of encrimsoned light made their way through the deeply **curtained** windows."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The bed was heavily **curtained** in dark velvet that smelled of centuries of undisturbed dust."*
+

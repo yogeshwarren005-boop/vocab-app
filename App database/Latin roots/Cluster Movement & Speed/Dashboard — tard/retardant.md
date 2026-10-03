@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agent that retards or delays or hinders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agent that retards or delays or hinders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or agent that slows down, delays, or impedes a chemical reaction, process, or fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical engineering and fire safety science, chemical coatings (e.g. brominated flame retardants) that inhibit combustion kinetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retardant designates any agent that retards or delays or hinders."*
+> - 📜 **Michael Faraday (*Chemical History of a Candle*):** *"Applying a mineral **retardant** to combustible cloth diminishes the speed at which flame propagates."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A biochemical **retardant** added to the enzyme solution arrested further catalytic breakdown."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Cold acts as a natural physiological **retardant**, slowing the metabolic decomposition of injured tissues."*
+

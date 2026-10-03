@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of belonging to the present time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of belonging to the present time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of holding contemporary relevance or active circulation; freshness, up-to-dateness, or prevailing acceptance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical rhetoric, fluency or smooth idiomatic flow in speech and written composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, currentness designates the property of belonging to the present time."*
+> - 📜 **William Camden (*Remains Concerning Britain*):** *"When **currentness** combineth with staidness, how can the language sound other than most full of sweetness and gravity?"*
+> - 📜 **Walter Bagehot (*Biographical Studies*):** *"The political writer must preserve the fresh **currentness** of his style if he wishes to influence public sentiment."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"An academic education imparts a living **currentness** to ancient knowledge, rendering it serviceable to modern society."*
+

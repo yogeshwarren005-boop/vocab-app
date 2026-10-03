@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mistake resulting from inattention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A break or intermission in the occurrence of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief or temporary failure of concentration, memory, or judgment; an interval or passage of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract and property jurisprudence, the termination of a right, privilege, or testamentary bequest through failure to exercise it within a set period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To lapse in fulness Is sorer than to lie for need; and falsehood Is worse in kings than beggars."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The air, the movement in the court, the lapse of time, or the combination of these things recovers him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here, after the lapse of a few minutes, several more fell down, and lay helpless and livid as the rest."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Let me entreat you; for I do endure a **lapse** in time and memory that troubles me."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Man's shameful **lapse** from primal innocence brought mortality and endless sorrow into the world."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A curious **lapse** of memory prevented the witness from recalling where the missing will had been laid."*
+

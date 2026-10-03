@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) a small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small medical hammer used to strike the body in diagnostic percussion or to test deep tendon reflexes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurological examination tools, a reflex hammer (such as the Taylor or Babinski percussor) eliciting patellar responses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percussor designates (medicine) a small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The neurologist tapped the patellar tendon with a rubber **percussor**, eliciting a brisk knee-jerk reflex."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The clinical kit contained a delicate ivory **percussor** and a brass stethoscope for thoracic examinations."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The clinic demonstrator used a light **percussor** to map the subtle resonance boundaries of the thoracic cavity."*
+

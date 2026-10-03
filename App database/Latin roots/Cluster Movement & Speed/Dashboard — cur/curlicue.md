@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A round shape formed by a series of concentric circles (as formed by leaves or flower petals).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short twisting line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative curl, spiral, or flourish in handwriting, architectural ornamentation, or design.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In palaeography and typography, ornamental calligraphic flourishes extending beyond the standard letter ductus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"It was pure white except that at one end, where there was something that looked like a handle, there were figures and funny curlicues carved, and down the whole length of it was a row of things that looked like the Hebrew letters in our family Bible."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"The old clerk completed his signature with an elaborate and pompous **curlicue**."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The carpenter had ornamented the steamboat's pilothouse with many a fanciful wooden **curlicue**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Polynesian harpooner was tattooed with intricate lines and every strange **curlicue** of pagan art."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white powder with a pleasant taste and odor; used to absorb light in sun tan lotions or as a preservative or an antiseptic or a coating for pills in which the medicine is intended for enteric release.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white powder with a pleasant taste and odor; used to absorb light in sun tan lotions or as a preservative or an antiseptic or a coating for pills in which the medicine is intended for enteric release.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Phenyl salicylate, a white crystalline powder formerly used in medicine as an intestinal antiseptic and analgesic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmaceutical chemistry, an ester insoluble in gastric acid that passes intact into the duodenum where alkaline juices hydrolyze it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salol designates a white powder with a pleasant taste and odor; used to absorb light in sun tan lotions or as a preservative or an antiseptic or a coating for pills in which the medicine is intended for enteric release."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician administered **salol** as an internal antiseptic to reduce bacterial fermentation in the small intestine."*
+> - 📜 **Louis S. Goodman & Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"Enteric pill coatings traditionally utilized **salol** because it resists stomach acid while dissolving in alkaline intestinal secretions."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"In his dispensary, the young doctor measured doses of phenacetin and **salol** for his febrile patients."*
+

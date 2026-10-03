@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass by.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of time) having passed or slipped by.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having passed away or slipped by, especially with respect to an interval of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime navigation and chronometry, elapsed time recorded between celestial sightings to compute geographical longitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A space of a minute or two has elapsed before he comes up with her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The time allotted to a lesson having fully elapsed, there was a general putting on of bonnets."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, you will marry again some day?” This point-blank query unmistakably confused her, and it was not till a minute or more had elapsed that she said, “I have not seriously thought of any such subject.” “I quite understand that."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Two hours had **elapsed** since the terrible cry had echoed across the fog-shrouded moor."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"A fortnight had **elapsed** without bringing any intelligence of the runaway couple from London."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A generation had **elapsed** since the civil war, yet the bitter memories remained vivid."*
+

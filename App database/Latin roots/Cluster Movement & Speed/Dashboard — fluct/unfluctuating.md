@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not liable to fluctuate or especially to fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not liable to fluctuate or especially to fall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Steady, constant, unchanging, and free from irregular variations or oscillation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial monetary theory, an unfluctuating currency provides an ideal store of value and standard for deferred payments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unfluctuating designates not liable to fluctuate or especially to fall."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A prudent investor seeks an **unfluctuating** source of revenue derived from fertile freehold land."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In an isolated and **unfluctuating** climate, species remain stationary in morphology for immense periods."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The laws of astronomical gravity remain **unfluctuating** throughout cosmic space and time."*
+

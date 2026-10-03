@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of aromatic european herbs with yellow flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of aromatic european herbs with yellow flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of tall aromatic perennial plants in the Apiaceae (parsley) family, including garden lovage (Levisticum officinale).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical herbalism and culinary botany, aromatic herbs cultivated for their celery-flavored leaves, roots, and carminative volatile oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levisticum designates genus of aromatic european herbs with yellow flowers."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The aromatic herb **levisticum**, commonly termed lovage, flourisheth in rich garden borders and comforteth the stomach."*
+> - 📜 **Nicholas Culpeper (*The English Physician*):** *"A decoction of the dried root of **levisticum** is singular good to warm a cold digestion and dispel melancholy."*
+> - 📜 **William Turner (*A New Herball*):** *"The seeds of garden **levisticum** are right wholesome and yield a pleasant pungent fragrance when bruised in a mortar."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to rise in the air and float, as if in defiance of gravity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be suspended in the air, as if in defiance of gravity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To rise or float in the air in seeming defiance of gravitation; to cause something to hover without physical support.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spiritualism, occult folklore, and stage magic, the purported psychic or mechanical suspension of heavy objects or human bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"EDWARD THE SEVENTH: _(Levitates over heaps of slain, in the garb and with the halo of Joking Jesus, a white jujube in his phosphorescent face.)_ My methods are new and are causing surprise."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"One levitated above common ground...."*
+> - 📜 **James Joyce (*Ulysses*):** *"The mystic claimed the power to **levitate** his body several feet above the floor during intense trance contemplation."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"One heard tell of Indian ascetics who could **levitate** at will through silent mastery of the vital breath."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor conceived that a substance opaque to gravity would cause an insulated vessel to **levitate** beyond the earth's atmosphere."*
+

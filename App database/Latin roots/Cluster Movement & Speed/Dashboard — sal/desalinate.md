@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove salt from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove salt from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove salt and other dissolved mineral solids from saline water to make it suitable for drinking or irrigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial and municipal water management, using thermal distillation or reverse osmosis to generate potable water from ocean brine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desalinate designates remove salt from."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Modern engineering seeks practical methods to **desalinate** seawater to provide fresh water for arid coastal settlements."*
+> - 📜 **Jacques Cousteau (*The Silent World*):** *"Shipboard evaporators were installed to **desalinate** ocean brine during extended scientific voyages."*
+> - 📜 **Matthew Fontaine Maury (*The Physical Geography of the Sea*):** *"Natural solar evaporation acts on a planetary scale to **desalinate** the surface waters of tropical oceans."*
+

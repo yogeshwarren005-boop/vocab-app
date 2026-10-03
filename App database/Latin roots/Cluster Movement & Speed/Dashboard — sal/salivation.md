@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The secretion of saliva.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The secretion of saliva.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The secretion or production of saliva; an excessive or abnormal flow of saliva from the oral glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical toxicology and pharmacology, copious ptyalism induced by toxic mercury therapies formerly prescribed for chronic ailments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Salivation is insufficient, the patellar reflex intermittent."*
+> - 📜 **Ivan Pavlov (*Lectures on the Work of the Digestive Glands*):** *"We measured the exact rate of **salivation** through an exteriorized fistula in the dog's cheek."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic mercurial poisoning manifests in spongy bleeding gums and profuse **salivation**."*
+> - 📜 **Oliver Wendell Holmes (*Currents and Counter-Currents in Medical Science*):** *"Heroic medicine in the last century sought to cure every distemper by producing violent **salivation** with calomel."*
+

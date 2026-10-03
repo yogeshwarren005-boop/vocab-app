@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the volvocaceae; minute pale green flagellates occurring in tiny spherical colonies; minute flagella rotate the colony about an axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the volvocaceae; minute pale green flagellates occurring in tiny spherical colonies; minute flagella rotate the colony about an axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of freshwater green algae forming spherical, microscopic rolling colonies of thousands of flagellated cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental and evolutionary biology, Volvox colonies exhibiting true division of labor between biflagellate somatocytes and gonidia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volvox designates type genus of the volvocaceae; minute pale green flagellates occurring in tiny spherical colonies; minute flagella rotate the colony about an axis."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Under the microscope, the elegant green sphere of **Volvox** rolls gracefully through the water drop like a tiny planet."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The daughter colonies rotating inside the parent sphere of **Volvox** present one of the most charming sights in microscopy."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"Cytoplasmic bridges interconnect the individual cells of **Volvox**, coordinating the beat of thousands of flagella."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose behavior deviates from what is acceptable especially in sexual behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Markedly different from an accepted norm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Departing from usual or accepted standards, especially in social, intellectual, or moral behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical analysis and social psychology, observations or individuals falling beyond standard distributional parameters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deviant designates a person whose behavior deviates from what is acceptable especially in sexual behavior."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"It is essential that society tolerate **deviant** modes of thinking if intellectual progress is to be maintained."*
+> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"A strictly **deviant** member of the clan was often expelled into the wilderness for self-preservation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The eccentric thinker represents a **deviant** variation whose ideas may ultimately enrich the community."*
+

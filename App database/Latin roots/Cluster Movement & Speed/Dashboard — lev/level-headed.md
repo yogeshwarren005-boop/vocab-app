@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercising or showing good judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising or showing good judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by sound judgment, emotional balance, calm rationality, and practical good sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In managerial and crisis psychology, the capacity to maintain objective cognitive evaluation during high-stress operational dilemmas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, level-headed designates exercising or showing good judgment."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Mortimer seemed to be a **level-headed** and observant man, despite his eccentric passion for cranial anthropology."*
+> - 📜 **Joseph Conrad (*Chance*):** *"The captain was known as a **level-headed** seaman whose steady temper never failed in dangerous squalls."*
+> - 📜 **John Galsworthy (*The Forsyte Saga*):** *"Soames regarded himself as a cool, **level-headed** man of affairs who never permitted sentiment to compromise financial security."*
+

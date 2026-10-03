@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a recurrent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a recurrent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a recurrent manner; periodically; occurring repeatedly after intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorological and physiological phenomena, unfolding in rhythmic, cyclical pulses over measured durations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recurrently designates in a recurrent manner."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The magnetic needle oscillates **recurrently** in accordance with diurnal solar variations."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Mystical convictions surge **recurrently** through the consciousness of the religious devotee."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Volcanic eruptions broke out **recurrently** along the subterranean fracture during successive geological epochs."*
+

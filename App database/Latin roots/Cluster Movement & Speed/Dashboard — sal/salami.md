@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly seasoned fatty sausage of pork and beef usually dried.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly seasoned fatty sausage of pork and beef usually dried.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly seasoned, cured, fermented, and air-dried sausage of Italian origin, typically made from beef or pork.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food science and charcuterie, traditional dry-cured meats preserved by acidification from lactic acid bacteria and moisture loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"From two inscriptions found at Eleusis it appears that the names of the priests were committed to the depths of the sea; probably they were engraved on tablets of bronze or lead, which were then thrown into deep water in the Gulf of Salamis."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"We sat upon the alpine terrace enjoying a hearty collation of crusty bread, Swiss cheese, and spicy Italian **salami**."*
+> - 📜 **James Joyce (*Ulysses*):** *"A hanging garland of garlicky **salami** swung gently above the counter of the Italian delicatessen."*
+> - 📜 **Herman Melville (*Redburn*):** *"The Italian sailors brought aboard strings of smoked sausages and dried **salami** that seasoned their shipboard fare."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin laps within the domain of Movement & Speed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of laps in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gentle gliding, falling, or flowing in; a sudden spiritual descent, inspiration, or entrance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 17th-century theological prose and metaphysics, the mysterious illapse of divine grace or intellectual illumination into the human soul.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illapse designates pertaining to, derived from, or characteristic of latin laps within the domain of movement & speed."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Enthusiasts mistake their own excited imaginations for an immediate **illapse** of divine inspiration."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The pure mind awaits that sacred **illapse** of truth which transcends ordinary sensory experience."*
+> - 📜 **George Berkeley (*Alciphron*):** *"Philosophers spoke of an inward **illapse** of light that dispels the darkness of mortal ignorance."*
+

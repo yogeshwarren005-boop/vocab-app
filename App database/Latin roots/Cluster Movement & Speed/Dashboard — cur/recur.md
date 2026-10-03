@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happen or occur again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Return in thought or speech to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To happen again periodically or repeatedly; or to return in thought or discourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and oncology, the return of clinical signs and symptoms of disease after a period of remission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was not free to resume the interrupted chain of my reflections till bedtime: even then a teacher who occupied the same room with me kept me from the subject to which I longed to recur, by a prolonged effusion of small talk."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He did admire Rosamond exceedingly; but that madness which had once beset him about Laure was not, he thought, likely to recur in relation to any other woman."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate would not have chosen soon to recur to the plan of parting with the house; he was resolved to carry it out, and say as little more about it as possible."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The same ominous memory would **recur** to haunt my dreams whenever the wind wailed in the chimney."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He did not wish the painful subject to **recur** in their conversations, preferring silence."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Ancient ancestral characters often **recur** in domestic varieties after many generations of absence."*
+

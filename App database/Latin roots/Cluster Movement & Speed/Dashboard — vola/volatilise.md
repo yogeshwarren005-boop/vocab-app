@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make volatile; cause to pass off in a vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make volatile; cause to pass off in a vapor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert or cause to pass from a solid or liquid state into gas or vapor; to evaporate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics, phase change to the gaseous state promoted by raising temperature above boiling or sublimation point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In addition, values in the form of volatilised metallic products are also conveyed by the gases, particularly when lead, zinc, arsenic, etc., are present in the furnace charge, and these are carried forward in the form of _fume_."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Care must be taken not to **volatilise** the precious iodine crystals by applying sudden excess heat."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"A intense electric spark will instantly **volatilise** the thinnest strip of gold leaf into fine purple dust."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The warm air from the lungs tends to **volatilise** moisture, producing clouds of vapor on cold mornings."*
+

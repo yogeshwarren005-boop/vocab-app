@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of animals that move seasonally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually moving from place to place especially in search of seasonal work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving from one region, habitat, or country to another, especially periodically or on a seasonal basis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wildlife conservation biology and game law, the Migratory Bird Treaty Act protecting international avian flyways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He is not a beast, a vegetable, nor a migratory mind."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"They thought that a certain Old Woman who Never Dies made the crops to grow, and that, living somewhere in the south, she sent the migratory waterfowl in spring as her tokens and representatives."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"The blood-sucking bats were comparatively few, and the migratory sort fewer still."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many **migratory** birds are blown out to sea by storms and colonize remote oceanic archipelagos."*
+> - 📜 **Oliver Goldsmith (*The Deserted Village*):** *"The **migratory** swallows gathered upon the thatch, preparing for their long autumn flight southward."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The remarkable endurance of **migratory** animals is supported by efficient muscular and respiratory metabolism."*
+

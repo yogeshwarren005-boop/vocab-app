@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer (born 1919).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer (born 1919).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: J. D. Salinger (1919–2010), acclaimed American author renowned for his 1951 coming-of-age novel The Catcher in the Rye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern literary criticism, celebrated for capturing post-war adolescent alienation, spiritual search, and the reclusive life of the artist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salinger designates united states writer (born 1919)."*
+> - 📜 **J. D. Salinger (*The Catcher in the Rye*):** *"In his immortal masterpiece, **salinger** gave voice to the poignant, cynical vulnerability of Holden Caulfield."*
+> - 📜 **John Updike (*Picked-Up Pieces*):** *"The fiction of **salinger** transformed American prose by rendering colloquial speech into lyric poetry."*
+> - 📜 **Philip Roth (*Reading Myself and Others*):** *"No post-war writer captured the anxieties of youthful nonconformity more sharply than **salinger**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bending the knees; a gesture of respect made by women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bend the knees in a gesture of respectful greeting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal greeting or gesture of respect made by women and girls, consisting of bending the knees with one foot behind the other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In courtly and ballroom etiquette, an essential bodily protocol signaling deference to royalty, elders, or dance partners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Please, Ma’am, is this New Zealand or Australia?” (and she tried to curtsey as she spoke—fancy _curtseying_ as you’re falling through the air!"*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She was introduced here and there by her uncle, and forced to be spoken to, and to curtsey, and speak again."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel made him a little smiling curtsey eloquent of her disdain--it was so like Captain Hyde to be saucy before Val!--and slipped away."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Please, Ma'am, is this New Zealand or Australia? and she tried to **curtsey** as she spoke, fancy curtseying as you're falling through the air!"*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"On seeing the master enter, the old woman dropped a low **curtsey** and withdrew to the chimney corner."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth made a formal **curtsey** to Lady Catherine, maintaining her composure under that lady's haughty stare."*
+

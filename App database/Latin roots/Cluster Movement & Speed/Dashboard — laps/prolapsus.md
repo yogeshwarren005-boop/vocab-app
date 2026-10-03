@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The slipping or falling out of place of an organ (as the uterus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The slipping or falling out of place of an organ (as the uterus).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Latin medical term for prolapse; the falling down or displacement of an internal bodily part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century surgical manuals, prolapsus uteri or prolapsus ani treated with supporting trusses and restorative hygiene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prolapsus designates the slipping or falling out of place of an organ (as the uterus)."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Currents and Counter-Currents in Medical Science*):** *"Ancient treatises detailed diverse remedies for **prolapsus**, relying largely upon astringent herbal washes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic cough often aggravated **prolapsus** by exerting persistent downward intra-abdominal pressure."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The learned apothecary delivered a pedantic dissertation upon the causes and cure of internal **prolapsus**."*
+

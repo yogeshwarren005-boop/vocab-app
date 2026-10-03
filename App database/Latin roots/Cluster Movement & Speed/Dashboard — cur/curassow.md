@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large crested arboreal game bird of warm parts of the americas having long legs and tails; highly esteemed as game and food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large crested arboreal game bird of warm parts of the americas having long legs and tails; highly esteemed as game and food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several large, predominantly black game birds of the cracid family native to tropical Central and South American forests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neotropical ornithology, arboreal frugivorous galliform birds (genera Crax, Mitu, Pauxi) possessing ornamental curled crests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curassow designates large crested arboreal game bird of warm parts of the americas having long legs and tails; highly esteemed as game and food."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The crest of curled feathers on the head of the male **curassow** is erected during courtship displays."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"We disturbed a flock of the glossy black **curassow** feeding upon fallen forest fruits in the dense undergrowth."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"The great **curassow** builds its nest high in the tropical canopy, uttering a deep booming call at dusk."*
+

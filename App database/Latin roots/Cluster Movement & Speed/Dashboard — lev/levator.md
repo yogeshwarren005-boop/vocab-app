@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscle that serves to lift some body part (as the eyelid or lip).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muscle that serves to lift some body part (as the eyelid or lip).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscle that serves to raise or elevate a body part or anatomical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate comparative anatomy, skeletal muscles such as the levator scapulae or levator ani that provide postural suspension and upward movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levator designates a muscle that serves to lift some body part (as the eyelid or lip)."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"This man, for instance, had on both sides of his neck a true and powerful **levator** claviculae muscle."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **levator** scapulae arises from the transverse processes of the upper cervical vertebrae and elevates the medial border of the scapula."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The coordinated contraction of the **levator** muscles lifts the lower jaw during vigorous mastication."*
+

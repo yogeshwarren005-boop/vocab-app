@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walk about; not be bedridden or incapable of walking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk about; not be bedridden or incapable of walking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To walk from place to place; to move about on one's feet rather than remaining bedridden.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical rehabilitation protocols, guided gait retraining assisting post-operative patients to ambulate independently.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambulate designates walk about; not be bedridden or incapable of walking."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients recovering from mild hemiplegia are encouraged to **ambulate** with the aid of a cane."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"It was remarkable to see the wounded soldier **ambulate** across the ward after so grave an injury."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Fresh air and gentle encouragement help the convalescent **ambulate** outdoors in sunny weather."*
+

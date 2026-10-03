@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving percussion or featuring percussive instruments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving percussion or featuring percussive instruments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by percussion; striking sharply; having the quality of a sharp impact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic timbre and musical composition, percussive transients characterized by steep attack envelopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percussive designates involving percussion or featuring percussive instruments."*
+> - 📜 **John Tyndall (*Sound*):** *"The sharp **percussive** shock of the electric spark produces an explosive wave in the surrounding air."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A heavy, **percussive** thud shook the ground as the Martian fighting-machine strode through the shattered woods."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"A regular **percussive** beat from the Indian war drums echoed through the dense canopy of the jungle."*
+

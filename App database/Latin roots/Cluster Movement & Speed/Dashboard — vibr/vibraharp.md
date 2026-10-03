@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical percussion instrument resembling a xylophone, featuring metal bars and motor-driven rotating resonators.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 20th-century jazz orchestration, the vibraharp (introduced by J. C. Deagan in the 1920s) valued for its pulsating vibrato tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibraharp designates a percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound."*
+> - 📜 **Langston Hughes (*The Big Sea*):** *"The velvety chime of the **vibraharp** drifted through the smoky cabaret, echoing the blues melody."*
+> - 📜 **F. Scott Fitzgerald (*Tales of the Jazz Age*):** *"The band struck up a lively fox-trot, with the ringing tones of a **vibraharp** sparkling over the brass."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The modern orchestra featured a gleaming **vibraharp** whose mellow chords fascinated the dinner guests."*
+

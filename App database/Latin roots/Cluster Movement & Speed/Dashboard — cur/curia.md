@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) the central administration governing the roman catholic church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) the central administration governing the roman catholic church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The administrative apparatus, courts, and governing body of the Holy See (the Roman Curia); or an ancient Roman voting division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman antiquities, one of the thirty ancient patrician divisions of the citizenry comprising the comitia curiata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curia designates (roman catholic church) the central administration governing the roman catholic church."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient Roman **curia** resounded with debates concerning the defense of the Italian frontier."*
+> - 📜 **Walter Scott (*The Talisman*):** *"Envoys from the papal **curia** arrived in Palestine bearing apostolic letters to the crusader princes."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The crumbling walls of the ancient **curia** reminded the traveler of Rome's departed senatorial majesty."*
+

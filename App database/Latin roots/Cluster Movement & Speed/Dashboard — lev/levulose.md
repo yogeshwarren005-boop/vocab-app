@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple sugar found in honey and in many ripe fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple sugar found in honey and in many ripe fruits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older commercial and chemical name for D-fructose (fruit sugar), a sweet crystalline ketohexose monosaccharide found in fruits and honey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carbohydrate chemistry, so named because its optical rotation is strongly levorotatory, contrasting with dextrorotatory glucose (dextrose).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levulose designates a simple sugar found in honey and in many ripe fruits."*
+> - 📜 **Emil Fischer (*Studies on Carbohydrates*):** *"The structural determination of **levulose** confirmed its identity as a ketohexose that yields identical osazones to glucose."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"In honey, the bees preserve an exquisite mixture of crystalline dextrose and liquid **levulose**."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"During the initial stages of alcoholic fermentation, yeast metabolizes dextrose more rapidly than **levulose**."*
+

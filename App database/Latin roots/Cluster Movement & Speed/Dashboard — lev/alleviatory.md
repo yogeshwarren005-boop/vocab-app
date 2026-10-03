@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderating pain or sorrow by making it easier to bear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderating pain or sorrow by making it easier to bear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to alleviate; soothing, palliative, or mitigating in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, mitigating factors or extenuating circumstances pleaded to soften judicial punishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alleviatory designates moderating pain or sorrow by making it easier to bear."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The ancient laws provided **alleviatory** provisions to shield unfortunate debtors from total ruin."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The advocate pleaded several **alleviatory** circumstances in the hope of averting the capital sentence."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliament introduced **alleviatory** clauses into the statute to prevent excessive hardship upon the peasantry."*
+

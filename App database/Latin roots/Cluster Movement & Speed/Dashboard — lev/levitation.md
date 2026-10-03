@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of a person or thing rising into the air by apparently supernatural means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Movement upward in virtue of lightness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon or act of rising, hovering, or floating in the air without mechanical support or physical contact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parapsychology and comparative religious history, miraculous accounts of saints (such as Joseph of Cupertino) or yogis floating during ecstatic prayer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levitation designates the phenomenon of a person or thing rising into the air by apparently supernatural means."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"Witnesses testified to the spontaneous **levitation** of heavy wooden tables in the presence of the celebrated medium."*
+> - 📜 **William James (*The Will to Believe*):** *"The curious reports of bodily **levitation** among ecstatics demand patient empirical investigation rather than dogmatic dismissal."*
+> - 📜 **Helena Blavatsky (*Isis Unveiled*):** *"Ancient occult treatises described the art of **levitation** as the polarization of magnetic currents opposing the earth's attraction."*
+

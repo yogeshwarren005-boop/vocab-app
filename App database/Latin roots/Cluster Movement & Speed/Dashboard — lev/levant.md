@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy morocco often used in bookbinding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The former name for the geographical area of the eastern mediterranean that is now occupied by lebanon, syria, and israel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical geographical term for the countries bordering the eastern shores of the Mediterranean Sea; or (archaic verb) to run away or abscond secretly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical maritime commerce, the mercantile sphere dominated by the Levant Company, trading silks, spices, and textiles between England and Ottoman ports.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I’ve been in the Levant, where some of your Middlemarch goods go—and then, again, in the Baltic."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"That this was indeed the principal aspect in which Adonis presented himself in later times to the agricultural peoples of the Levant, may be admitted; but whether from the beginning he had been the corn and nothing but the corn, may be doubted."*
-> - 📜 **James Joyce (*Ulysses*):** *"Coming all that way: Spain, Gibraltar, Mediterranean, the Levant."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He had traded across every ocean, from the icy shores of Greenland to the sunny ports of the **levant**."*
+> - 📜 **Walter Scott (*Peveril of the Peak*):** *"The dishonest gambler resolved to **levant** under cover of darkness before his debts of honor fell due."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rawdon Crawley feared that the shady adventurer had chosen to **levant** without settling his billiard account."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of getting possession of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of getting possession of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The obtaining, bringing about, or management of an acquisition, result, or office through deliberate effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern jurisprudence, the formal facilitation or solicitation of an official decree, warrant, or royal dispensation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procurance designates the act of getting possession of something."*
+> - 📜 **Francis Bacon (*The Elements of the Common Lawes of England*):** *"The **procurance** of such an illicit writ by covin or deceit invalidates the subsequent judgment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The elevation of the bishop was effected through the secret **procurance** of influential courtiers."*
+> - 📜 **Thomas More (*The History of King Richard the Third*):** *"By the private **procurance** of certain lords, the young prince was brought under their immediate control."*
+

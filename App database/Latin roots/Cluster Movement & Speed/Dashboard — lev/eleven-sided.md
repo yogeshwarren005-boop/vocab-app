@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having eleven sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having eleven sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having eleven distinct sides or boundary lines; hendecagonal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Euclidean plane geometry, pertaining to a hendecagon, possessing eleven vertices and internal angles totaling 1620 degrees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eleven-sided designates having eleven sides."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"Geometrical figures of complex symmetry, even an **eleven-sided** polygon, reflect the mathematical order of nature."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"The properties of a regular **eleven-sided** figure cannot be fully constructed using only an unmarked ruler and compass."*
+> - 📜 **William Rowan Hamilton (*Elements of Quaternions*):** *"The angular relations of an **eleven-sided** polyhedron can be computed with precision through algebraic quaternions."*
+

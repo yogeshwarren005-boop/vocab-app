@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flow or discharge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flow or discharge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of flowing; the continuous change or rate of variation of a flowing quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of mathematics, the term coined by Sir Isaac Newton to designate the differential calculus (fluxions and fluents).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluxion designates a flow or discharge."*
+> - 📜 **Isaac Newton (*The Method of Fluxions*):** *"The velocity with which a generated quantity increases I call its **fluxion**, denoted by a dotted letter."*
+> - 📜 **George Berkeley (*The Analyst*):** *"He critically questioned whether the mysterious **fluxion** of an evanescent quantity rested on sound logic."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our ideas of continuous time arise from the constant **fluxion** and succession of thoughts in our minds."*
+

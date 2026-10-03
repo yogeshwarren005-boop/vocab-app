@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to migration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to migration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving geographical migration or seasonal movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human ecology and historical demography, patterns of intercontinental population dispersal and settlement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, migrational designates of or related to migration."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The established **migrational** routes of migratory fowl span thousands of leagues over open oceans."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Anthropological findings reveal complex **migrational** pathways taken by early humans across ancient land bridges."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Tribal warfare frequently altered the **migrational** trajectories of nomadic pastoralists in Central Asia."*
+

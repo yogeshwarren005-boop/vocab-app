@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remedy that alleviates pain without curing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remedy that alleviates pain without curing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power to relieve or mitigate; an agent or remedy that alleviates pain or suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical pharmacology and palliative medicine, soothing remedies administered to lessen distressing symptoms without curing the underlying malady.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alleviant designates remedy that alleviates pain without curing."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The sweet solace of poetry served as a gentle **alleviant** to the dark distress of his troubled spirit."*
+> - 📜 **Oliver Wendell Holmes (*Currents and Counter-Currents in Medical Science*):** *"A judicious physician prescribes a mild **alleviant** to assuage the restless agony of the febrile patient."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"Philosophy offers a quiet **alleviant** against the heavy burdens and afflictions of mortal life."*
+

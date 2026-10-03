@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being salient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being salient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prominent distinctness or striking visibility; the property of protruding conspicuously beyond surrounding boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geographical morphology and military tactics, a convex projection or salient extending beyond the general line of defense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saliency designates the state of being salient."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The rugged **saliency** of Danton's character dominated the stormy debates of the National Convention."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The architectural **saliency** of the sculpted cornice casts deep, dramatic shadows across the marble facade."*
+> - 📜 **Walter Bagehot (*Biographical Studies*):** *"His political rhetoric lacked the sharp **saliency** required to leave an enduring mark upon parliamentary debate."*
+

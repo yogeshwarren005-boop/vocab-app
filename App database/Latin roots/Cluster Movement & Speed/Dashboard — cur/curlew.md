@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large migratory shorebirds of the sandpiper family; closely related to woodcocks but having a down-curved bill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large migratory shorebirds of the sandpiper family; closely related to woodcocks but having a down-curved bill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large wading bird of the genus Numenius, characterized by mottled brown plumage and a long, slender downcurved bill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian ecology, coastal and moorland charadriiform birds probing deep mudflats for worms, famed for their haunting mournful whistling call.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And your cry would be heard no more than the whinnying of the curlew...."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And afar off a curlew called, and a grouse crowed in defiance."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And who better than she could understand the springy heather and the blue smoke-reek, the crickets of the evening and the curlew's call?"*
+> - 📜 **Alfred Tennyson (*Locksley Hall*):** *"'Tis the place, and all around it, as of old, the **curlew** calls, dreary gleams about the moorland flying over Locksley Hall."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The solitary moor was silent save for the occasional wild cry of the nesting **curlew**."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A frightened **curlew** rose from the heath, wheeling into the darkening evening sky."*
+

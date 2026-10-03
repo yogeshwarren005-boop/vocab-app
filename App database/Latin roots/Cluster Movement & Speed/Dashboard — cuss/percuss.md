@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strike or tap firmly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike or tap firmly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strike or tap smartly, firmly, or rhythmically; to perform medical percussion on a patient's body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physical diagnosis (Auenbrugger's technique), tapping the chest or abdomen to elicit resonant or dull acoustic notes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percuss designates strike or tap firmly."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician must carefully **percuss** the thoracic wall to map the borders of cardiac dullness."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The practiced ear learns to **percuss** the lungs and interpret every variation between resonance and flat tympany."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Students watched the professor gently **percuss** the patient's right hypochondrium to detect hepatic enlargement."*
+

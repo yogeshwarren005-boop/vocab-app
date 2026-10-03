@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing excessive curiosity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing excessive curiosity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively inquisitive, prying, or overly concerned with minute, trivial, or private details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical rhetoric and early modern theology, impious prying into divine mysteries or esoteric arcana exceeding human limits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The second question is not less delicate; and the flattering prospect of its being merely hypothetical forbids an overcurious discussion of it."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It is an **overcurious** and unhealthy mind that seeks to uncover matters that prudence would leave in obscurity."*
+> - 📜 **John Milton (*Areopagitica*):** *"He that is **overcurious** to examine every subtle doctrine will often stumble into heresies without intending it."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"I was not **overcurious** to examine into the secret policy of the emperor, lest I should draw suspicion upon myself."*
+

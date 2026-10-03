@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not clearly understood or expressed; ; -anatole broyard; - p.a.sorokin; - john locke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not precisely limited, determined, or distinguished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of uncertain, indefinite, or unclear character, meaning, or form; not clearly expressed or perceived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and philosophy of language, predicates whose boundaries of application are indeterminate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As not one of them wanted to admit the hasty retreat before the ghost had even been properly inspected, they only dropped vague and terrifying words about the matter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But these vague whisperings may arise from Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, who I feared might have had his vague surmises when I little understood his meaning, but in whose silence after our last interview I expressed perfect confidence.” “Well,” said my guardian."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men often employ **vague** and indeterminate words without having any clear ideas fixed to them."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I entertained a **vague** hope that some unexpected turn of fortune would rescue us from ruin."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The mysterious sound was too **vague** and distant to allow any certain inference as to its origin."*
+

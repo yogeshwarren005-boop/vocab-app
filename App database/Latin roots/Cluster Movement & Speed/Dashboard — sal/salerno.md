@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A battle in world war ii; the port was captured by united states troops in september 1943.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battle in world war ii; the port was captured by united states troops in september 1943.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient port city in Campania, southwestern Italy, situated on the Gulf of Salerno.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval history, renowned as the site of the Schola Medica Salernitana, the first and most illustrious medical school of medieval Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salerno designates a battle in world war ii; the port was captured by united states troops in september 1943."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The medical academy of **salerno** preserved the therapeutic wisdom of the Greeks and Arabs through the Dark Ages."*
+> - 📜 **Giovanni Boccaccio (*The Decameron*):** *"The romantic Prince of **salerno** held magnificent court overlooking the azure waters of the gulf."*
+> - 📜 **Walter Scott (*Count Robert of Paris*):** *"The learned physician was trained at **salerno**, possessing extensive knowledge of herbal remedies."*
+

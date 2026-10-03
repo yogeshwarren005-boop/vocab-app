@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shake violently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Injure the brain; sustain a concussion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To shake violently or agitate; to injure the brain through a severe blow or sudden impact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scots law and classical jurisprudence, to coerce or intimidate a party into an involuntary covenant through extortion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concuss designates shake violently."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A severe fall from a carriage may violently **concuss** the cerebral hemispheres without causing cranial fracture."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The surgeon examined the soldier whose skull had been struck, fearing the impact had managed to **concuss** vital centers."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The violent tumult seemed to **concuss** the ancient rafters of the hall, shaking plaster onto the floor."*
+

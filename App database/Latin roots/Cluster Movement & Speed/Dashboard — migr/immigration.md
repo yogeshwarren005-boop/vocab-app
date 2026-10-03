@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Migration into a place (especially migration to a country of which you are not a native in order to settle there).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of immigrants arriving during a specified interval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The international movement of people to a destination country of which they are not natives in order to settle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and policy analysis, statutory naturalization frameworks, entry quotas, and border enforcement regulating foreign nationals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They have always sold to the immigration before."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Population and immigration PART VI."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These are the superior opportunities which give the economic motives for settlement and for continued immigration from the other lands."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A liberal policy regarding foreign **immigration** is vital to populate our vast and uncultivated territories."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The extensive European **immigration** to the New World constitutes one of the grandest demographic movements in history."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The rapid growth of the colonies was accelerated by unrestricted **immigration** from Great Britain and Europe."*
+

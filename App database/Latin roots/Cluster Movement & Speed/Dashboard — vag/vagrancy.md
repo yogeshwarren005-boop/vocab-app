@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of wandering from place to place; having no permanent home or means of livelihood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of wandering from place to place; having no permanent home or means of livelihood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The circumstance or condition of wandering without a permanent home or lawful means of livelihood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history, statutes penalizing vagrancy, begging, and loitering in public spaces without visible support.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"‘Yes, master, and I’ve never been in it much.’ (I had come out of Kingston Jail last on a vagrancy committal."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The task of recalling him from the vagrancy into which he always sank when he had spoken, was like recalling some very weak person from a swoon, or endeavouring, in the hope of some disclosure, to stay the spirit of a fast-dying man."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Severe Tudor statutes punished **vagrancy** with whipping and branding upon the shoulder."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The poor crossing-sweeper was perpetually moved on by the police, guilty only of poverty and **vagrancy**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Laws restricting the mobility of laborers were framed under the pretext of preventing parish **vagrancy**."*
+

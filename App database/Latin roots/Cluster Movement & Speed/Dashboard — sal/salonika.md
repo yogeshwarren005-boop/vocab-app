@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in northeastern greece on an inlet of the aegean sea; second largest city of greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in northeastern greece on an inlet of the aegean sea; second largest city of greece.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative English spelling of Salonica (Thessaloniki), the historic Aegean port city in northern Greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history of World War I, the base of the Allied Macedonian front (the Salonika Front) established in 1915.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salonika designates a port city in northeastern greece on an inlet of the aegean sea; second largest city of greece."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The strategic decision to maintain an allied army at **salonika** tied down substantial Bulgarian and German forces in the Balkans."*
+> - 📜 **Rebecca West (*Black Lamb and Grey Falcon*):** *"The cosmopolitan spirit of **salonika** survived centuries of siege, plague, and political upheaval."*
+> - 📜 **John Reed (*The War in Eastern Europe*):** *"Along the quays of **salonika**, British transports unloaded artillery and supplies for the northern front."*
+

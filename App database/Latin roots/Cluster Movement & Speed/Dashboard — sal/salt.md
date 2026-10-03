@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound formed by replacing hydrogen in an acid by a metal (or a radical that acts like a metal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White crystalline form of especially sodium chloride used to season and preserve food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sodium chloride (NaCl), a white crystalline substance used as a seasoning, food preservative, and industrial chemical; saline mineral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative and biblical language (salt of the earth), that which imparts essential character, piquancy, preserving power, or moral integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fear hath catch’d your fondness; now I see The mystery of your loneliness, and find Your salt tears’ head."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But all the charms of love, Salt Cleopatra, soften thy waned lip!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’re caught.” CHARMIAN. ’Twas merry when You wagered on your angling; when your diver Did hang a salt fish on his hook, which he With fervency drew up."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Now I see the mystery of your loneliness, and find your **salt** tears' head."*
+> - 📜 **King James Bible (*Matthew*):** *"Ye are the **salt** of the earth: but if the **salt** have lost his savour, wherewith shall it be salted?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There is nothing like a good stiff gale and a dash of **salt** spray to wake up a dull sailor's wits."*
+

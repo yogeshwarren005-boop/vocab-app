@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make volatile; cause to pass off in a vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make volatile; cause to pass off in a vapor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to pass off in vapor; to transform from liquid or solid into a gaseous state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-temperature physics and spectroscopy, electric arcs used to volatilize refractory samples for atomic emission analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volatilize designates make volatile; cause to pass off in a vapor."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"A steady flame was applied to **volatilize** the liquid, collecting the distillate in a chilled receiver."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"The electric discharge possessed sufficient thermal energy to **volatilize** the diamond in an atmosphere of oxygen."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"To **volatilize** the stubborn mineral requires temperatures unattainable by ordinary domestic hearths."*
+

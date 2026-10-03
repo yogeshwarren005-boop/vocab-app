@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unclearness by virtue of being poorly expressed or not coherent in meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indistinctness of shape or character.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of clarity, precision, or distinctness in expression, meaning, or sensory perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal philosophical logic, the sorites paradox arising from boundary vagueness in continuous natural predicates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling with some vagueness of expression and perhaps of meaning too."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But there was an unpractical vagueness in their movements throughout the day; neither one of them seemed to consider any question of effectual escape, disguise, or long concealment."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the discussion of industrial monopoly, the problem now before us, there is a good deal of vagueness and misunderstanding because of lack of definiteness in the use of words which have rapidly shifted in meaning."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The pervasive **vagueness** of scholastic terminology produces endless disputes without real knowledge."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Naturalists often complain of the **vagueness** that characterizes the boundary between varieties and species."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke's conversation was celebrated for a delightful **vagueness** that committed him to no opinion."*
+

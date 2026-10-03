@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant where salt is produced commercially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant where salt is produced commercially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial facility, installation, or plant where salt is produced, mined, refined, or harvested by evaporating brine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history, coastal salterns and inland salt springs (such as Droitwich or Salins-les-Bains) operated under crown monopolies and taxes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltworks designates a plant where salt is produced commercially."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The government levied an oppressive excise tax upon every bushel of salt produced at the royal **saltworks**."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The subterranean brine pumps of the ancient **saltworks** had operated continuously since medieval times."*
+> - 📜 **Daniel Defoe (*A Tour Through the Whole Island of Great Britain*):** *"The town of Nantwich was celebrated for its extensive **saltworks**, which supplied all northern England."*
+

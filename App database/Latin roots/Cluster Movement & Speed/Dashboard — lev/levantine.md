@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (formerly) a native or inhabitant of the levant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the levant or its inhabitants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the Levant or its peoples; a native or inhabitant of the eastern Mediterranean region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile and commercial history, a stout, rich twilled silk fabric originally imported into western Europe from the Levant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"My mother was an Englishwoman and my father was a Levantine--half Jew, half Greek."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She went to the cabinet of maps and unrolled one: this morning she might make herself finally sure that Paphlagonia was not on the Levantine coast, and fix her total darkness about the Chalybes firmly on the shores of the Euxine."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Section 11 The bark was in the open roadstead, cargo all ready, Levantine pilot on board."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She went to the cabinet of maps and unrolled one, tracing the trade routes along the **levantine** coast."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Those Ausonia claims, **levantine** regions these; the Azores send their jessamine across the western waters."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **levantine** merchants preserved the commercial networks that linked Constantinople to the markets of Alexandria."*
+

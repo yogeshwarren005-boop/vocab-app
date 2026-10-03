@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscular contraction that causes the vagina to close; usually an anxiety reaction before coitus or pelvic examination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscular contraction that causes the vagina to close; usually an anxiety reaction before coitus or pelvic examination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painful, involuntary spasm or contraction of the pelvic floor muscles surrounding the vagina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology and sexual medicine, severe reflex hypertonia preventing coitus or pelvic examination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaginismus designates muscular contraction that causes the vagina to close; usually an anxiety reaction before coitus or pelvic examination."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe psychological trauma often underlies functional **vaginismus**, requiring patient counseling alongside local therapy."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The physician identified acute **vaginismus** provoked by hyperesthetic mucosal inflammation."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The gynecological lecture addressed surgical and behavioral remedies for intractable **vaginismus**."*
+

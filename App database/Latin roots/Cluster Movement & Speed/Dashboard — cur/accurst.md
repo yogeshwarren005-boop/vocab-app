@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under a curse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under a curse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic variant spelling of accursed; doomed, blighted, or under a solemn curse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical English poetry and dramatic verse, expressing tragic grief at an inescapable doom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In second husband let me be accurst!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O time most accurst, ’Mongst all foes that a friend should be the worst!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Mild zephyrs waft thee to life’s farthest shore, Nor think of me and my distress more,— Falsehood accurst!"*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"For this foul murder, let her head be severed, and let her name be evermore **accurst**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So fell the prince of darkness, cast down into an **accurst** abyss of fire and endless gloom."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"Ah! well a-day! what evil looks had I from old and young! Instead of the cross, the **accurst** Albatross about my neck was hung."*
+

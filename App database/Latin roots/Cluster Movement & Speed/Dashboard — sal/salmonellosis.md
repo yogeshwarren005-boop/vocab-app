@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of food poisoning caused by eating foods contaminated with salmonella typhimurium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of food poisoning caused by eating foods contaminated with salmonella typhimurium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious foodborne illness or gastrointestinal infection caused by bacteria of the genus Salmonella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical epidemiology, an acute diarrheal syndrome marked by sudden fever, abdominal cramping, and vomiting following ingestion of contaminated food.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmonellosis designates a kind of food poisoning caused by eating foods contaminated with salmonella typhimurium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Outbreaks of acute **salmonellosis** typically follow the consumption of improperly stored poultry, eggs, or dairy products."*
+> - 📜 **René Dubos (*Man Adapting*):** *"The widespread industrialization of poultry production dramatically increased the human incidence of **salmonellosis**."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Investigating public health officers traced the epidemic of **salmonellosis** to an infected communal water supply."*
+

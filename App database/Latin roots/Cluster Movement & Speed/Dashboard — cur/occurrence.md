@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that happens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of something occurring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incident, event, or happening; the fact or frequency of something taking place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and mineralogy, the presence or geographic distribution of a mineral or rock formation within a specific stratigraphic setting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the occurrence of my fortune since Hath been between this lady and this lord."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The case of Gridley is in no essential altered from one of actual occurrence, made public by a disinterested person who was professionally acquainted with the whole of the monstrous wrong from beginning to end."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was alarmed by an occurrence in the house which might have alarmed a stronger person, and was made ill by the distress and agitation."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"All the **occurrence** of my fortune since hath been between this lady and this lord."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the course of the afternoon she said to Liddy, who had been informed of the **occurrence**, 'What was that commotion?'"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The rare **occurrence** of intermediate fossils between related species is directly explained by the imperfection of the geological record."*
+

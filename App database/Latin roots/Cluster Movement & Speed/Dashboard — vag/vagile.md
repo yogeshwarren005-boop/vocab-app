@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having freedom to move about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having freedom to move about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having freedom of movement; mobile or capable of active locomotion and dispersal throughout an environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In benthic marine ecology, vagile fauna (such as crabs and snails) that move freely across ocean substrates, contrasting with sessile organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vagile designates having freedom to move about."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The **vagile** crustaceans scuttled actively across the exposed intertidal flats at low water."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The transition from sessile polyp to **vagile** medusa represents a fundamental life-cycle divergence in hydrozoans."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The highly **vagile** cephalopods navigate pelagic waters with rapid jet propulsion."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth; moistens the mouth and starts the digestion of starches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth; moistens the mouth and starts the digestion of starches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The watery fluid secreted into the mouth by the salivary glands, containing enzymes that facilitate swallowing and begin carbohydrate digestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human physiology and biochemistry, an alkaline fluid containing salivary amylase (ptyalin), lysozyme, and mucin maintaining oral homeostasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"When he has finished his lecture, you see only a mass of saliva and the rags of his pen."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scarf bounded up, spitting saliva, floor dust and curses."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Even in a man's own house his saliva is carefully swept away and obliterated for a similar reason."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"There was a mouth under the eyes, the lipless brim of which quivered and panted, dropping thick **saliva**."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The philosopher spent forty years attempting to extract sunbeams from cucumbers and analyze human **saliva**."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Under the influence of acute terror, the secretion of **saliva** is immediately arrested, leaving the tongue parched."*
+

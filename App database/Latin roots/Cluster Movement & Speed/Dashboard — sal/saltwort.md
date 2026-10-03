@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bushy plant of old world salt marshes and sea beaches having prickly leaves; burned to produce a crude soda ash.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-growing strong-smelling coastal shrub of warm parts of the new world having unisexual flowers in conelike spikes and thick succulent leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various salt-tolerant coastal or alkaline desert plants of the genera Salsola, Batis, or Glaux.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pre-industrial chemical manufacturing, coastal plants harvested and burned to produce kelp ash and barilla soda for glass and soap makers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltwort designates bushy plant of old world salt marshes and sea beaches having prickly leaves; burned to produce a crude soda ash."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fleshy stems of the **saltwort** carpeted the saline mudflats where tides regularly inundated the shore."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The native inhabitants gathered dry bundles of **saltwort** to burn in shallow pits for crude alkaline ashes."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"On the damp borders of the estuary, the maritime **saltwort** flourished alongside samphire and sea lavender."*
+

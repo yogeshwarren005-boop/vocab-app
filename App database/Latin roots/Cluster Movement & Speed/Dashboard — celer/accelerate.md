@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move faster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move faster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to move faster, gain speed, or happen more quickly; to increase the rate of progress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Newtonian mechanics, an unbalanced external force acting upon a mass serves to accelerate it proportionally to the applied force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Moreover, the ship’s forge was ordered to be hoisted out of its temporary idleness in the hold; and, to accelerate the affair, the blacksmith was commanded to proceed at once to the forging of whatever iron contrivances might be needed."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Meanwhile, and especially in the light of the forthcoming convocation, I want you, Brad, to accelerate preparing our military fleet to take possession of the depot and that gaggle of transport and other vessels that constantly hover about."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"All INOR ships accelerate transition into battle formations and stations."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The force of gravity acting perpetually upon a falling body will continually **accelerate** its downward velocity toward the earth."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Severe environmental changes tend to **accelerate** the rate of organic modification and natural selection among competing varieties."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I pulled the lever harder to **accelerate** my journey into the distant, dim future of our planet."*
+

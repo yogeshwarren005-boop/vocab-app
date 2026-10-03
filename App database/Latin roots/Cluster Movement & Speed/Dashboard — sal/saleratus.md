@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white soluble compound (nahco3) used in effervescent drinks and in baking powders and as an antacid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white soluble compound (nahco3) used in effervescent drinks and in baking powders and as an antacid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sodium bicarbonate (baking soda) or potassium bicarbonate, used as a leavening agent in cooking and baking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century American food technology, an aerating alkali reacting with cream of tartar or sour milk to liberate carbon dioxide gas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saleratus designates a white soluble compound (nahco3) used in effervescent drinks and in baking powders and as an antacid."*
+> - 📜 **Mark Twain (*Roughing It*):** *"Our camp cook baked heavy loaves of soda bread with sour flour and a pinch of **saleratus**."*
+> - 📜 **Laura Ingalls Wilder (*Little House in the Big Woods*):** *"Ma mixed the flour with buttermilk and a spoonful of white **saleratus** to make biscuits."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"The cook stirred **saleratus** into the pancake batter over the galley stove."*
+

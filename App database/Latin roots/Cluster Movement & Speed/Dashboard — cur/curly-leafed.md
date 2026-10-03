@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having curly leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having curly leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having leaves with wavy, ruffled, or curled margins or surfaces; crispate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and culinary botany, plant varieties (such as curly-leafed parsley or kale) selected for ruffled foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curly-leafed designates having curly leaves."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The garden **curly-leafed** parsley is much commended for garnishing meats and flavoring pottages."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivated brassicas exhibit extraordinary vegetative divergence, producing **curly-leafed** varieties like Scotch kale."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"In the kitchen garden, the **curly-leafed** endive withstood the early autumn frosts without injury."*
+

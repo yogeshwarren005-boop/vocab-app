@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove salt from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove salt from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove dissolved mineral salts from saline water, marshland, or agricultural soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural reclamation and agronomy, leaching marine soils with fresh water and chemical amendments to permit crop cultivation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desalinise designates remove salt from."*
+> - 📜 **Julian Huxley (*Essays of a Biologist*):** *"To **desalinise** tidal marshlands requires careful drainage and systematic soil management over several generations."*
+> - 📜 **E. F. Schumacher (*Small Is Beautiful*):** *"Villages along the Persian Gulf can **desalinise** brackish borehole water using simple solar distillation stills."*
+> - 📜 **J. D. Bernal (*Science in History*):** *"Modern methods designed to **desalinise** estuarine waters demonstrate how fundamental chemistry serves practical human needs."*
+

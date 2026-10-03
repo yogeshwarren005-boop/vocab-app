@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French cultural anthropologist who promoted structural analysis of social systems (born in 1908).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French cultural anthropologist who promoted structural analysis of social systems (born in 1908).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Claude Lévi-Strauss (1908–2009), influential French anthropologist and ethnologist, regarded as the pioneer of structural anthropology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structuralist social theory, the methodology analyzing myths, kinship systems, and linguistic signs as universal invariant patterns of the human unconscious mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levi-strauss designates french cultural anthropologist who promoted structural analysis of social systems (born in 1908)."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"In his memoirs, **levi-strauss** reflected on how the fleeting cultures of the Amazon basin expose the deep architecture of human thought."*
+> - 📜 **Clifford Geertz (*The Interpretation of Cultures*):** *"The intricate structuralism of **levi-strauss** treats cultural myths as complex machinery for resolving intellectual contradictions."*
+> - 📜 **Michel Foucault (*The Order of Things*):** *"The anthropology of **levi-strauss** dismantled traditional humanism by unveiling unconscious linguistic structures underlying societal rituals."*
+

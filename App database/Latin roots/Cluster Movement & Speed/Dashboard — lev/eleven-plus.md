@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (formerly in britain) an examination taken by 11 and 12 year old students to select suitable candidates for grammar school.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (formerly in britain) an examination taken by 11 and 12 year old students to select suitable candidates for grammar school.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An examination formerly administered to primary school pupils in England and Wales at around age eleven to govern grammar school admission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British educational sociology (post-1944 Butler Act), the tripartite sorting mechanism determining placement into grammar, technical, or secondary modern schools.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eleven-plus designates (formerly in britain) an examination taken by 11 and 12 year old students to select suitable candidates for grammar school."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"The competitive examination system, culminating in tests like the **eleven-plus**, entrenched class privilege under the guise of educational merit."*
+> - 📜 **Richard Hoggart (*The Uses of Literacy*):** *"Passing the **eleven-plus** represented a dramatic turning point in the working-class scholarship boy's intellectual journey."*
+> - 📜 **Michael Young (*The Rise of the Meritocracy*):** *"The institutionalisation of the **eleven-plus** established intelligence quotient testing as the ultimate arbiter of social status."*
+

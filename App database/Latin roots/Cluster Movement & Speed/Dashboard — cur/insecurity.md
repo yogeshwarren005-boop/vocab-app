@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being subject to danger or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anxiety you experience when you feel vulnerable and insecure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncertainty, vulnerability, or anxiety regarding personal safety or standing; lack of confidence or exposure to danger and instability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical analysis and macroeconomic theory, exposure to systemic shocks, food deficits, or supply chain fragility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I have certainly never borrowed any money on such an insecurity."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"True he had flung Hook’s arm to the crocodile, but even this and the increased insecurity of life to which it led, owing to the crocodile’s pertinacity, hardly account for a vindictiveness so relentless and malignant."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"That most useful kind which relates to borrowing and lending is reduced within the narrowest limits, and this still more from an opinion of insecurity than from the scarcity of money."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Safety from external danger is the most powerful director of national conduct, and constant **insecurity** forces nations to submit to standing armies."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"She felt that vague sense of **insecurity** which troubles children when their elders speak with suppressed bitterness."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Commerce and manufactures can seldom flourish long in any state which does not enjoy a regular administration of justice, but suffers from perpetual **insecurity**."*
+

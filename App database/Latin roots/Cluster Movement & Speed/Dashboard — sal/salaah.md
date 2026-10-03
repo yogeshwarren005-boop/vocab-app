@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The second pillar of islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward mecca.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second pillar of islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward mecca.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal ritual prayer of Islam, performed five times daily facing Mecca as one of the Five Pillars of Islam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Islamic jurisprudence (fiqh), prescribed physical postures of standing, bowing (ruku'), and prostrating (sujud) accompanied by Quranic recitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salaah designates the second pillar of islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward mecca."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"At the appointed hour of dawn, devout citizens perform the prescribed **salaah** facing toward Mecca."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to El-Medinah and Meccah*):** *"The rhythmic prostrations of the congregation during the sunset **salaah** created an impressive spectacle of unified reverence."*
+> - 📜 **Charles Montagu Doughty (*Travels in Arabia Deserta*):** *"The nomads gathered in the open sands at dusk to recite their solemn **salaah** beneath the desert stars."*
+

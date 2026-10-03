@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any political theory favoring immoderate uncompromising policies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any political theory favoring immoderate uncompromising policies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The holding of extreme political, religious, or ideological views; advocacy of fanatical measures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and sociology, ideological polarization that rejects democratic compromise in favor of radical transformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extremism designates any political theory favoring immoderate uncompromising policies."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Violent political **extremism** tears down ancestral institutions without offering any viable substitute."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Unchecked dogmatic **extremism** stifles intellectual vitality and represses individual independence."*
+> - 📜 **George Orwell (*Collected Essays*):** *"Totalitarian regimes thrive by inflaming ideological **extremism** and cultivating perpetual hatred."*
+

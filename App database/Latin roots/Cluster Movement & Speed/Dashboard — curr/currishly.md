@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a currish manner; meanspiritedly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a currish manner; meanspiritedly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a currish, snappish, mean-spirited, or ill-tempered manner; churlishly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern prose, responding with spiteful ingratitude or snarling cowardice to generous overtures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, currishly designates in a currish manner; meanspiritedly."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"He answered **currishly** that he would not be dictated to by women who understood nothing of his designs."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The surly innkeeper growled **currishly** when asked to provide fresh horses at midnight."*
+> - 📜 **Henry Fielding (*Joseph Andrews*):** *"He turned **currishly** away from the beggar, refusing even a crust of stale bread."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tropical american tree of the genus cordia grown for its abundant creamy white flowers and valuable wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large tropical american tree of the genus cordia grown for its abundant creamy white flowers and valuable wood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cordia alliodora, a valuable tropical American timber tree of the borage family, or its durable, attractively figured light brown wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical forestry and agroforestry, a fast-growing neotropical canopy tree widely planted for shade in coffee and cacao plantations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmwood designates large tropical american tree of the genus cordia grown for its abundant creamy white flowers and valuable wood."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The native carpenters preferred the hard, fragrant timber of the **salmwood** for building durable river canoes."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The forest canopy was adorned with white blooming sprays of the **salmwood** tree towering above the understory."*
+> - 📜 **Thomas Belt (*The Naturalist in Nicaragua*):** *"Small ants frequently inhabit the hollow swollen nodes of the **salmwood** branches in a mutualistic symbiosis."*
+

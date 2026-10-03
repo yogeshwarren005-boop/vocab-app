@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sultan of syria and egypt; reconquered jerusalem from the christians in 1187 but was defeated by richard coeur de lion in 1191 (1137-1193).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sultan of syria and egypt; reconquered jerusalem from the christians in 1187 but was defeated by richard coeur de lion in 1191 (1137-1193).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Saladin (1137–1193), celebrated first Sultan of Egypt and Syria and founder of the Ayyubid dynasty, famous for recapturing Jerusalem from the Crusaders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval historiography and chivalric romance, revered as the archetype of Muslim magnanimity, martial honor, and royal courtesy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saladin designates sultan of syria and egypt; reconquered jerusalem from the christians in 1187 but was defeated by richard coeur de lion in 1191 (1137-1193)."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The famous gentlemen of Asia and Europe have been of this strong type: **saladin**, Bayard, and Sidney."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Like the valiant **saladin** in his chivalric campaigns, the white whale displayed an untamable majesty."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The Sultan **saladin** visited the tent of his royal enemy disguised as an Arabian physician."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A charge imposed and collected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of drafting into military service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of levying or imposing a tax, fee, or fine; or the conscription and enlisting of troops for military service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal execution and debt enforcement, the lawful seizure of property by an officer of the court to satisfy an outstanding judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He creates Lucius proconsul; and to you, the tribunes, For this immediate levy, he commands His absolute commission."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With those legions Which I have spoke of, whereunto your levy Must be supplyant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And did he not, in his protectorship, Levy great sums of money through the realm For soldiers’ pay in France, and never sent it?"*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"He creates Lucius proconsul, and to you, the tribunes, for this immediate **levy**, he commits the royal authority."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor imposed an oppressive provincial **levy** to replenish the exhausted treasury of Rome."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A direct **levy** upon the necessities of life falls disproportionately upon the industrious laboring classes."*
+

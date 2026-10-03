@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Changing the ground level to a smooth horizontal or gently sloping surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete destruction of a building.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of making a surface flat and horizontal, or equalizing differences in social condition or rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surveying and civil engineering, the operational technique of measuring vertical distances to determine relative elevations above a datum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Finally, there is a widespread approval of the progressive rate just because it in so far acts as a leveling influence upon fortunes."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Nor did I hesitate to believe that the phrases, ‘forty-one degrees and thirteen minutes,’ and ‘northeast and by north,’ were intended as directions for the leveling of the glass."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The boasted imitation of Nature in modern gardening had sprung up with modern republican notions, but did not suit a monarchical government; it smacked of the leveling system."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"There is always some **leveling** circumstance that puts down the overbearing and strengthens the humble."*
+> - 📜 **Thomas Paine (*Rights of Man*):** *"The revolution was accused of **leveling** all distinctions, but it aimed only at establishing universal justice."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The continuous **leveling** of high mountains by atmospheric denudation slowly deposits detritus into the ocean basins."*
+

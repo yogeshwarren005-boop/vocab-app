@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to frogs and toads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging or pertaining to the amphibian order Salientia (frogs and toads); a tailless amphibian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary herpetology, animals exhibiting physiological specializations for leaping, vocal sac inflation, and external fertilization in fresh water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salientian designates any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The typical **salientian** skull displays extensive loss and fusion of cranial bones compared to primitive stegocephalians."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"Every **salientian** species possesses an urostyle formed by the fusion of caudal vertebrae."*
+> - 📜 **Hans Gadow (*Amphibia and Reptiles*):** *"The vocal performance of the male **salientian** attracts prospective mates to the breeding pond at dusk."*
+

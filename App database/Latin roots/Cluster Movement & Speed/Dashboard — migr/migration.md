@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The movement of persons from one country or locality to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of people migrating together (especially in some given time period).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The movement of people or animals from one country, region, or habitat to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary population dynamics, genetic gene flow facilitated by the spatial movement and interbreeding of migrant individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Cairns family now entered on a period of migration of this kind, and in the course of eleven years they flitted no less than six times."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It seems probable that if European immigration were to be stopped that a very large migration of negroes from the South to the North and the West would occur to take places hitherto filled by unskilled immigrant workers."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At the close of the first interplanetary millennium that shaped and launched The Great Migration to Space the original emigrants' progeny had become an indigenous population."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The annual **migration** of vast herds across the African plains is governed by seasonal rainfall."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sudden **migration** of northern barbarian nations overwhelmed the frontiers of the Western Empire."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The restless **migration** of provincial delegations into Paris intensified the political ferment of the capital."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to walk about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to walk about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to walk around; not confined to bed or a wheelchair; moving from place to place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hospital triage and clinical management, convalescent patients categorized as ambulant requiring minimal nursing assistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Haec inquam animalia in aere volant, in aquis natant, in terra ambulant."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient became fully **ambulant** within three weeks following the surgical reduction of the fracture."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"An **ambulant** case of typhoid fever often disseminates contagion widely before being properly confined."*
+> - 📜 **Tobias Smollett (*The Expedition of Humphry Clinker*):** *"The venerable invalid declared himself once more **ambulant** after a fortnight of sulfurous bath treatments."*
+

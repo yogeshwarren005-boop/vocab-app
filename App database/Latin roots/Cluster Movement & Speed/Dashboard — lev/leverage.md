@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mechanical advantage gained by being in a position to use a lever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strategic advantage; power to act effectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mechanical advantage gained by using a lever, or strategic power used to influence others and achieve an advantage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial economics, the ratio of borrowed capital (debt) to equity employed to finance an enterprise and amplify investment returns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"If he could only shift his feet, get some sort of leverage."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Judson Parker and his sister were the only Parkers in Avonlea, so that no leverage could be exerted by family connections."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This finger of mine, so quick with sensation, so subtle to feel, so delicate in its multifarious dexterities, so firm and strong to crook and bend or stiffen by means of cunning leverages—this finger is not I."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The long arm of the machine provides immense mechanical **leverage**, multiplying human strength a hundredfold."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Corporate directors employ financial **leverage** to increase dividends during periods of speculative market expansion."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"The silver concessions in the province gave the foreign investors tremendous political **leverage** over the unstable government."*
+

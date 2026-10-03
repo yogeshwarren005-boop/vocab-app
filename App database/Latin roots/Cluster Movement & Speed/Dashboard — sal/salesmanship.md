@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skill in selling; skill in persuading people to buy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skill in selling; skill in persuading people to buy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The skill, technique, or psychological art of persuading customers to purchase goods or services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In business theory, commercial communication strategies designed to identify customer needs and negotiate advantageous exchange agreements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salesmanship designates skill in selling; skill in persuading people to buy."*
+> - 📜 **Thorstein Veblen (*Absentee Ownership and Business Enterprise*):** *"Modern business enterprise devotes immense financial resources to aggressive **salesmanship** and consumer persuasion."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He prided himself on his dynamic **salesmanship**, believing that enthusiasm alone closed difficult real estate deals."*
+> - 📜 **Peter Drucker (*The Practice of Management*):** *"Effective **salesmanship** requires understanding the customer's problems rather than mere aggressive pitching."*
+

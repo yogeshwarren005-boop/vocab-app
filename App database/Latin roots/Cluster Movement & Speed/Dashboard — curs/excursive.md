@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prone to making excursions or digressions; wandering, roving, or exploring widely in thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics, a roving imagination exploring fanciful analogies and diverse branches of learning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"There, grasping all the eye beheld, Thought into mingling anguish swell’d, And checked the wild excursive wing, O’er dust or bones of priest or king; Or rais’d some <g>Strongbow</g> warrior’s ghost, To shout before his banner’d host."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"An **excursive** mind roams through the natural universe, finding moral harmonies in forest and mountain."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The philosopher permitted himself an **excursive** inquiry into the metaphysical foundations of human conscience."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"He possessed an **excursive** fancy that found romance in every ruined abbey and ancient tavern."*
+

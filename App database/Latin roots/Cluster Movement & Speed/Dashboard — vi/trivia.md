@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something of small importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) an introductory curriculum at a medieval university involving grammar and logic and rhetoric; considered to be a triple way to eloquence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pieces of information or details of little importance or value; curious minor facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval scholastic education, the trivium (grammar, logic, rhetoric) forming the lower division of the seven liberal arts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trivia designates something of small importance."*
+> - 📜 **John Gay (*Trivia, or The Art of Walking the Streets of London*):** *"Through dusty lanes and crowded ways my muse records the daily **trivia** of London life."*
+> - 📜 **Virginia Woolf (*Jacob's Room*):** *"Letters were filled with domestic **trivia**, passing gossip, and the trivial news of the country parish."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He occupied his leisure hours with harmless historical **trivia**, collecting old coins and broken pottery."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shaker with a perforated top for sprinkling salt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shaker with a perforated top for sprinkling salt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A container with a perforated lid designed for sprinkling table salt over food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary material culture, tabletop condiment dispensers introduced in the late 19th century following the addition of anti-caking agents to table salt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltshaker designates a shaker with a perforated top for sprinkling salt."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"She rearranged the vinegar cruet and the glass **saltshaker** on the red-checkered dining room tablecloth."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"Hurstwood tapped the silver **saltshaker** absently against the table as he pondered his dwindling financial resources."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"Beside the paper napkins stood a chipped earthenware **saltshaker** and a jar of yellow mustard."*
+

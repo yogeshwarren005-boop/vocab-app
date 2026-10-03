@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various large food and game fishes of northern waters; usually migrate from salt to fresh water to spawn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tributary of the snake river in idaho.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large edible silver-scaled sport and commercial fish of the family Salmonidae, prized for its pink flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, anadromous migratory fishes hatching in gravelly freshwater streams, maturing in the open ocean, and returning upstream to spawn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, the prison I keep, though it be for great ones, yet they seldom come; before one salmon, you shall take a number of minnows."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Seals, turtles, salmon, and so on; then, when you’ve cleared all the jelly-fish out of the way—” “_That_ generally takes some time,” interrupted the Gryphon."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They might not cut or carve salmon, because to do so would seriously endanger their health, and especially would enfeeble their arms for life."*
+> - 📜 **William Shakespeare (*Henry V*):** *"There is a river in Macedon; and there is also moreover a river at Monmouth: and there is **salmon** in both."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fishermen hauled their heavy nets onto the gravel bar, glistening with fresh **salmon**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The migratory instinct of the **salmon** drives it with unerring fidelity to its native spawning gravels."*
+

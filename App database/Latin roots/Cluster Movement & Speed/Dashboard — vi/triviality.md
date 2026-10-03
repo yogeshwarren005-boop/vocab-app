@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being unimportant and petty or frivolous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detail that is considered insignificant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insignificance, petty unimportance, or frivolous lack of serious value or weight; a trifle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential philosophy, social conventions that divert consciousness from profound existential realities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Helen Burns asked some slight question about her work of Miss Smith, was chidden for the triviality of the inquiry, returned to her place, and smiled at me as she again went by."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"That is to say, it was not a mindless triviality, but the genuine child's power of investing little things with imaginative interest; the same power, though differently devoted, which produced much of his poetry."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon would support such triviality."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma grew tired of the petty **triviality** of the card-table conversation at Mrs. Bates's lodging."*
+> - 📜 **Oscar Wilde (*The Importance of Being Earnest*):** *"We should treat all the **triviality** of serious things seriously, and all the serious things of life with sincere and studied triviality."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The great lawsuit consumed decades in haggling over microscopic legal **triviality** while the suitors starved."*
+

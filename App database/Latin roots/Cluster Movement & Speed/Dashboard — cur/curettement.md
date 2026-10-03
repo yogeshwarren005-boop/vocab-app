@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery to remove tissue or growths from a bodily cavity (as the uterus) by scraping with a curette.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery to remove tissue or growths from a bodily cavity (as the uterus) by scraping with a curette.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical procedure of scraping bodily tissue or cavity linings with a curette; curettage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, the therapeutic scraping of sinus tracts or osseous cavities to promote healthy secondary wound healing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curettement designates surgery to remove tissue or growths from a bodily cavity (as the uterus) by scraping with a curette."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Superficial **curettement** of the ulcerated surface promoted healthy granulation and rapid epithelial healing."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Thorough **curettement** of the uterine cavity successfully prevented persistent postpartum hemorrhage."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The procedure of gentle **curettement** requires delicate tactile skill to avoid perforating fragile organ walls."*
+

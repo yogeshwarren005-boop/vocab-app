@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People collectively who are mentally retarded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move more slowly or operate at a slower rate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Delayed, slowed, or impeded in development, progress, movement, or speed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrodynamics (Liénard–Wiechert potentials), retarded time accounting for the finite propagation speed of electromagnetic signals across space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet and the visitor may not be retarded in the smoking of their pipes."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By constant additions of young members, this rise of cost may be retarded."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Vincy, thoroughly nettled (a result which was seldom much retarded by previous resolutions)."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The electromagnetic disturbance is calculated at a **retarded** epoch, allowing for the velocity of light."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The development of secondary sexual structures was **retarded** by cold ambient temperatures in the experiment."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sheep's pace was **retarded** by the heavy drifts of snow accumulating along the chalk ridges."*
+

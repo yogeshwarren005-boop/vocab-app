@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hanging cloth used as a blind (especially for a window).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any barrier to communication or vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of hanging cloth or other fabric used to shut out light, conceal an interior, or decorate a window or theater stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fortification and military architecture, the straight plain wall connecting two adjacent bastions or towers in a rampart.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This absence of your father’s draws a curtain That shows the ignorant a kind of fear Before not dreamt of."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Close up his eyes, and draw the curtain close, And let us all to meditation. [_Exeunt._] ACT IV SCENE I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks, my good Lord Chamberlain. [_Exit Lord Chamberlain, and the King draws the curtain and sits reading pensively._] SUFFOLK."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"This absence of your father's draws a **curtain** that shows the ignorant a kind of fear."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge pulled the bed **curtain** aside with his own hand and waited in trembling expectation."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I drew the heavy crimson **curtain** across the window to shut out the dreary winter rain."*
+

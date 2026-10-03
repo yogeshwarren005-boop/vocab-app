@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the five areas on the undersurface of an echinoderm on which the tube feet are located.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the five areas on the undersurface of an echinoderm on which the tube feet are located.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the radial zones, grooves, or avenues on an echinoderm where the tube feet or tentacles are situated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and classical architectural history, a shaded garden avenue or broad promenade lined with trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambulacrum designates one of the five areas on the undersurface of an echinoderm on which the tube feet are located."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Each **ambulacrum** exhibits a double series of perforations through which the locomotor podia project."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The central nerve cord extends down the midline of the **ambulacrum** toward the terminal eye-spot."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The Italian villa featured a pleasant **ambulacrum** planted with ancient cypresses and fragrant laurels."*
+

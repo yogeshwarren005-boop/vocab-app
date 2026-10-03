@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not volatilizing readily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not volatilizing readily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not susceptible of being vaporized or converted into a gaseous state; chemically fixed or refractory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical refining, heavy hydrocarbon fractions and tars that remain in the boiling vessel during fractional distillation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonvolatilizable designates not volatilizing readily."*
+> - 📜 **Michael Faraday (*Chemical History of a Candle*):** *"The heavy carbonaceous base of the wick is **nonvolatilizable**, serving to anchor the luminous flame."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"A **nonvolatilizable** film of soot deposited upon the glass surface absorbed all incident thermal radiation."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The fixed and **nonvolatilizable** components of the compound remained behind after prolonged boiling."*
+

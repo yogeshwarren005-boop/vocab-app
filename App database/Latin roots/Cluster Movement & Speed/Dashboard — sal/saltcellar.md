@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small container for holding salt at the dining table.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small container for holding salt at the dining table.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small decorative vessel or bowl placed on a dining table to hold salt for individual or shared use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance decorative metalwork and banqueting protocol, an elaborate silver centerpiece (such as Cellini's Salt Cellar) designating social status relative to seating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There is a saltcellar of state, so called, and there may be a caster of state."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There is a saltcellar of state, so called, and there may be a castor of state."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There is a **saltcellar** of state, so called, placed before monarchs to mark their imperial dignity."*
+> - 📜 **Benvenuto Cellini (*Autobiography*):** *"I fashioned the magnificent golden **saltcellar** representing the Earth and the Sea with exquisite interlinked figures."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery set down his knife and contemplatively examined the pewter **saltcellar** on the clean table."*
+

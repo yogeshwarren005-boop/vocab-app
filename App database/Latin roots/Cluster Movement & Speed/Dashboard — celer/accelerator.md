@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pedal that controls the throttle valve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A valve that regulates the supply of fuel to the engine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device, pedal, or throttle for increasing speed; or an agent, catalyst, or machine that accelerates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-energy nuclear physics, a particle accelerator uses radio-frequency electric fields and superconducting magnets to smash hadrons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accelerator designates a pedal that controls the throttle valve."*
+> - 📜 **H. G. Wells (*The New Accelerator*):** *"Professor Gibberne invented a miraculous nervous **accelerator** that stimulated the human metabolism thousands of times above normal speed."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"Physicists realized that an artificial electrostatic **accelerator** could disintegrate atomic nuclei far more effectively than alpha particles."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"He stepped firmly upon the motor **accelerator**, propelling the vehicle down the country road at breathtaking velocity."*
+

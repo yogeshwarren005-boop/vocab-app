@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistently annoying person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boy or man.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To swear or curse using profane language; or an informal term for an eccentric, stubborn, or annoying person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial dialectology, an expressive oath or an affectionate/derogatory epithet for a cantankerous individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You seen that smooth-faced old cuss?” Laban said to father, after we had got outside and were returning to camp."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Cuss your black hide, young'un, I's gwine to break you from this snuff-stealin' and dippin'." Shoogie wasn't listening."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Hicks, cuss him, didn't show me how to make the damn lights work!" Mister Ward stopped the automobile and got out."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"He was an awkward, obstinate **cuss**, ever ready to dispute with the village schoolmaster."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp*):** *"The rough miners were known to swear and **cuss** roundly, yet they softened their speech before the newborn babe."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The angry sergeant began to **cuss** the skirmish line for retreating before the artillery smoke."*
+

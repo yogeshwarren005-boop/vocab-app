@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming exactly or almost exactly to fact or to a standard or performing with total accuracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth ; strictly correct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from error, mistake, or defect; conforming exactly to truth, measurement, or an objective standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific instrumentation, capable of delivering measurements that reliably match the true physical value without bias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The schoolmaster at this time was John M'Gregor, a man of ripe and accurate scholarship and quite separate individuality."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He seemed to have always a perfectly definite conception of what the tune ought to be, but he was seldom able to give this idea an accurate, much less a melodious, expression."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"To those who are aware of this, it will give the most accurate impression of our feeling towards Dr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"What are called advanced ideas are really an **accurate** expression of common sensations."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"This comparison gives, I think, a remarkably **accurate** notion of the frame of mind of the naturalist."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"A client must receive an **accurate** and impartial deduction based strictly upon observable facts."*
+

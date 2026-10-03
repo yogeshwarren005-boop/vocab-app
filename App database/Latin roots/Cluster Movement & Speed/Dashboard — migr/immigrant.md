@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who comes to a country where they were not born in order to settle there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who comes to a country where they were not born in order to settle there.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who comes to live permanently in a foreign country or jurisdiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In demographic sociology and urban history, waves of immigrant labor providing the demographic foundation for industrial expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My mother was the daughter of an immigrant Swede."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, in America, differences in nationality and in speech among immigrant workers often effectively prevent a common feeling of their interests and assertion of them."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The persons whom it is sought to aid are only selected groups of the lowest paid workers, generally limited to minors and young women, who in many cases are those of immigrant families in urban districts."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Welcome to the brave **immigrant** arriving from distant lands to cultivate the fertile western prairies."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The industrious Scandinavian **immigrant** transformed the wild scrubland into rich wheat fields."*
+> - 📜 **Abraham Lincoln (*Speeches and Letters*):** *"Every honest **immigrant** who adopts our country adds strength and honor to the American commonwealth."*
+

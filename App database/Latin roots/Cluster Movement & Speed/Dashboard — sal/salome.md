@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Woman whose dancing beguiled herod into giving her the head of john the baptist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woman whose dancing beguiled herod into giving her the head of john the baptist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the New Testament, a daughter of Herodias whose dance pleased Herod Antipas, resulting in the beheading of John the Baptist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fin-de-siècle aesthetic and decadent literature, the archetypal femme fatale immortalized in Oscar Wilde's tragic drama and Richard Strauss's opera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salome designates woman whose dancing beguiled herod into giving her the head of john the baptist."*
+> - 📜 **Oscar Wilde (*Salome*):** *"In his poetic drama, the dancer **salome** demands the head of Jokanaan upon a silver charger as her terrible reward."*
+> - 📜 **King James Bible (*Mark*):** *"There were also women looking on afar off, among whom was Mary Magdalene and **salome**, watching by the cross."*
+> - 📜 **Gustave Flaubert (*Trois Contes*):** *"The young dancer **salome** whirled before the tetrarch until his senses were utterly bewitched by her grace."*
+

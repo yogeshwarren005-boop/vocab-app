@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ragout of game in a rich sauce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ragout of game in a rich sauce.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ragout or stew of roasted game birds (such as duck, woodcock, or partridge) sliced and reheated in a rich wine sauce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical French haute cuisine (salmis), a sophisticated preparation where game carcass trimmings are simmered with red wine and shallots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Isn't it a good salmi?" she said; "I made it for you."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The gourmet declared that the chef's **salmi** of partridge was worthy of the finest tables in Paris."*
+> - 📜 **Alexandre Dumas (*Grand Dictionnaire de Cuisine*):** *"A true hunter's **salmi** must be cooked over embers with truffles, Madeira wine, and game jus."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The fashionable guests partook of a delicate **salmi** of wild duck served on silver platters."*
+

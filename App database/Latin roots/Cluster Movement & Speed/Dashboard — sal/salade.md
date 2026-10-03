@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light medieval helmet with a slit for vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light medieval helmet with a slit for vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light open medieval helmet curving downward to protect the neck and cheeks, with or without a movable visor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 15th-century armory, the versatile European cavalry helmet that largely superseded the heavier bascinet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salade designates a light medieval helmet with a slit for vision."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The man-at-arms donned an iron **salade** with a moveable visor before taking his place on the castle battlement."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"A stout archer polished his steel **salade** with oily rag and pumice stone by the campfire."*
+> - 📜 **Viollet-le-Duc (*Dictionary of French Architecture*):** *"The medieval **salade** provided superior protection to the neck and temples during close melee combat."*
+

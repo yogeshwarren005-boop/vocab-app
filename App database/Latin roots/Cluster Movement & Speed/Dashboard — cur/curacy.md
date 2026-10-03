@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of a curate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of a curate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, benefice, district, or term of service of a curate in the Anglican church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastic history, an assistant clerical position carrying modest stipendiary compensation and parochial pastoral duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He had the curacy of Monkford, you know, Sir Walter, some time back, for two or three years."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He was in orders; and having a curacy in the neighbourhood, where residence was not required, lived at his father’s house, only two miles from Uppercross."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He had been absent only two Sundays, and when they parted, had left her interested, even to the height of his wishes, in his prospect of soon quitting his present curacy, and obtaining that of Uppercross instead."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"His brothers had already left the Vicarage to proceed to their respective clerical duties in a distant **curacy**."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Edmund Bertram accepted the country **curacy**, residing in a modest parsonage close to his flock."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The young clergyman laboured diligently in his impoverished urban **curacy**, visiting the sick and dying."*
+

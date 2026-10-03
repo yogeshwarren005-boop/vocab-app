@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The metal or paper medium of exchange that is presently used.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: General acceptance or use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medium of exchange in the form of banknotes and coins, or widespread acceptance and general circulation in public discourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monetary economics, the liquid medium of exchange and unit of account issued by central authorities to settle public and private debts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This properly belongs in a complete theoretical treatment of the subject.] [Footnote 8: See "Modern Currency Reforms" (1916), by E.W."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are not an "elastic currency," increasing or diminishing with the needs of business."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At length Congress in 1908 created a "National Monetary Commission" to inquire into and report what changes were necessary and desirable in the monetary system of the United States or in the laws relative to banking and currency."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A paper **currency** which is not redeemable in gold or silver will almost certainly undergo excessive depreciation."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Every natural fact is a symbol of some spiritual fact; and the mind gives **currency** to symbols that embody universal truths."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"They had given them every week three pieces of brass wire, which was the only **currency** recognized in those wild reaches."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Glassworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glassworts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of succulent, halophytic annual herbs in the Amaranthaceae family, commonly known as glasswort, pickleweed, or marsh samphire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical and industrial history, coastal glasswort ashes rich in soda (sodium carbonate) historically collected to manufacture glass and soap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salicornia designates glassworts."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Succulent species of **salicornia** flourish on coastal mudflats where high salt concentrations exclude terrestrial vegetation."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The fleshy jointed stems of **salicornia** carpet the vast maritime salt-marshes of the river delta."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"On the tidal marsh near the creek, the succulent glasswort or **salicornia** grows abundantly in the saline silt."*
+

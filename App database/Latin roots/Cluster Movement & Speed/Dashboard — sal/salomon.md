@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American financier and american revolutionary war patriot who helped fund the army during the american revolution (1740?-1785).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American financier and american revolutionary war patriot who helped fund the army during the american revolution (1740?-1785).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or French spelling of Solomon (King of Israel); or Salomon's House, the utopian scientific research institution in Bacon's New Atlantis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern intellectual history, Francis Bacon's model of organized empirical scientific research and collective technology discovery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"From the very beginning he had had much intermittent annoyance through his dealings with his sporadically generous uncle Salomon Heine."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Governor Salomon--Her labors in behalf of the German and other soldiers of Wisconsin. 607-614 PITTSBURG BRANCH UNITED STATES SANITARY COMMISSION."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"On the death of Governor Harvey, in April, 1862, at Pittsburg Landing, Lieutenant Governor Salomon was at once advanced by the Constitution of Wisconsin, to his place for the remainder of his term, about twenty-one months."*
+> - 📜 **Francis Bacon (*New Atlantis*):** *"The end of our foundation, which we call **salomon**'s House, is the knowledge of causes, and secret motions of things."*
+> - 📜 **King James Bible (*1 Kings*):** *"The wisdom of King **salomon** was renowned among all the kings of the earth who sought his counsel."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"Wise king **salomon** testified that all human pursuits under the sun are vanity and vexation of spirit."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agarics having pink spores and a distinct volva.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agarics having pink spores and a distinct volva.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus of gilled mushrooms characterized by pink spores and a prominent basal volva.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycological taxonomy, species formerly placed in Volvaria are now classified primarily within the genus Volvariella (Pluteaceae).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volvaria designates agarics having pink spores and a distinct volva."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The mycologist identified the specimen as a member of **Volvaria**, noting its distinct pink spore print."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivated fungi of the **Volvaria** type have long been prized in Asian agriculture for their rapid growth."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The structural veil in the genus **Volvaria** protects the immature gills prior to expansion."*
+

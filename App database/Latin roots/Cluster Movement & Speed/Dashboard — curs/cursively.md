@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cursive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a cursive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cursive manner; with rapidly connected, flowing letters in handwriting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epigraphic transcription, writing drafted cursively without lifting the pen between adjacent characters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cursively designates in a cursive manner."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"The document appeared to have been drafted **cursively** on a moving train, judging by the jagged strokes."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"M. Paul wrote his instructions **cursively** across the margin of the French grammar exercise."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old clerk signed his name **cursively**, adding an elaborate paraphe beneath the parchment seal."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come to pass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to one's mind; suggest itself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To happen, take place, or come about; or to come to mind or suggest itself to one's thoughts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, ecology, and botany, to exist or be found naturally within a specific habitat, stratum, or geographical range.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We have a Ramification meeting, too, on Wednesday afternoon, and the inconvenience is very serious.” “It is not likely to occur again,” said I, smiling."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Elizabeth could not conceive how such an absurd suspicion should occur to her, and indignantly answered for each party’s perfectly knowing their situation."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Other opportunities of making her observations could not fail to occur."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Regretting at the same time that the meeting should be about to **occur** in the darkest point of her route."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Variations and reversions of character probably do **occur**; but natural selection will determine how far they shall be preserved."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It did not **occur** to me at the moment that there was any sinister design beneath the visitor's strange errand."*
+

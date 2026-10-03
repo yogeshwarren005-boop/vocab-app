@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to sell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to sell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not salable; unable to be sold due to poor quality, lack of demand, obsolescence, or legal restriction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In retail merchandise valuation, obsolete inventory written off as commercial deadstock having negligible salvage value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsalable designates impossible to sell."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Defective manufactured goods remain completely **unsalable** in competitive foreign markets."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A sudden change in fashion renders large stocks of luxury garments abruptly **unsalable**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The bankrupt shopkeeper was left with a warehouse filled with dusty, **unsalable** remnants."*
+

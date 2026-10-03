@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shaky motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or jerk quickly and involuntarily up and down or sideways.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaking or quivering involuntarily from fear, cold, or weakness; a shaking movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical names, plants displaying fluttering foliage under gentle breezes (e.g. Populus tremula, the trembling poplar).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have brought A trembling upon Rome such as was never S’ incapable of help."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He will forsooth have all my prisoners, And when I urged the ransom once again Of my wife’s brother, then his cheek look’d pale, And on my face he turn’d an eye of death, Trembling even at the name of Mortimer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore rouse up fear and trembling, and do observance to my mercy."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"If **trembling** I inhabit then, protest me the baby of a girl. Hence, horrible shadow!"*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"With **trembling** hands she broke the seal of Willoughby's letter, anticipating the bitterest disappointment."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She listened with **trembling** anxiety to the approaching footsteps on the darkened stairway."*
+

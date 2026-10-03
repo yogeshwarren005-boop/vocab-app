@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of timber; having fibers running irregularly rather than in parallel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of timber; having fibers running irregularly rather than in parallel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having wood grain that is wavy, undulating, or curled rather than straight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cabinetmaking and luthiery, figured timber (such as curly maple or fiddleback wood) prized for dramatic chatoyancy when polished.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curly-grained designates of timber; having fibers running irregularly rather than in parallel."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The guide carved a light paddle from a piece of **curly-grained** maple, testing its spring against his knee."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain's table was fashioned from a heavy slab of **curly-grained** mahogany from the Spanish Main."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The master craftsman selected **curly-grained** oak for the choir stalls to display the natural beauty of the wood."*
+

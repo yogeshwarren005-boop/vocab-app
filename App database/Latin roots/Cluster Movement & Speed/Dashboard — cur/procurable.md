@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being obtained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being obtained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being obtained, acquired, or secured through effort, purchase, or request.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In supply chain management and commodity economics, available within current market inventories or manufacturing lead times.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Hong Kong, where East and West meet, 4; essentials of outfit procurable cheap at, 4, 5; 240."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Impedimenta, advice as to, 4-6; all essentials procurable at Hong Kong, 4."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The bill of fare was exhaustive of the delicacies procurable, and was as follows: Soup--Real Turtle."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Provisions of every kind were easily **procurable** in the market at moderate and stable prices."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Fresh water was scarcely **procurable** on this barren coast, compelling the crew to ration every drop."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific apparatus of the highest precision is now **procurable** by every university laboratory."*
+

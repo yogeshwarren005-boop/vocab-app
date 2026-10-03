@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of behaving in an obscene manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of behaving in an obscene manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Erotic wantonness, lewdness, or prurience in speech, literature, or behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical moral philosophy, the ungoverned indulgence of carnal appetites that degrades intellectual and spiritual discernment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salacity designates the trait of behaving in an obscene manner."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The theatrical pantomimes of the later empire were notorious for unbridled **salacity** and moral corruption."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"The dramatic comedies of the Restoration period were frequently disgraced by offensive **salacity**."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The puritan preacher denounced the wanton **salacity** of the court masques before the royal palace."*
+

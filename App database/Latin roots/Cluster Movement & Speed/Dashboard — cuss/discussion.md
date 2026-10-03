@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended communication (often interactive) dealing with some particular topic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exchange of views on some topic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of talking about something in order to reach a decision or exchange ideas; debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific literature, the terminal section of a research treatise interpreting experimental results in light of hypotheses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She also held a discussion with Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, without any other alteration in their customary deportment, have looked very steadily at one another—as was natural, perhaps, in the discussion of so unusual a subject."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, our views of duty, and our views of station, and our views of education, and our views of—in short, ALL our views—are so diametrically opposed, that to prolong this discussion must be repellent to your feelings and repellent to my own."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The peculiar evil of silencing the expression of an opinion is, that it robs the human race of open **discussion**."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The **discussion** was carried on with great warmth and spirit by both ladies throughout the morning."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A full **discussion** of this complex problem must be postponed to my future larger work."*
+

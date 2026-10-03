@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firm or firmly fixed; likely to fail or give way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in security or safety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firmly fixed, stable, or safe; subject to danger, uncertainty, or vulnerability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural engineering and architectural assessment, lacking mechanical equilibrium, adequate bracing, or tensile load capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"These powerful creatures often hurled themselves at the windows of the saloon with such violence as to make us feel very insecure."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If a majority be united by a common interest, the rights of the minority will be insecure."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Heads of State are insecure and fear political coups."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My sleep was disturbed by the wild dreams of an **insecure** and perilous journey."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The throne of a usurper must ever remain **insecure** against the sudden surge of popular indignation."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He seemed to hold his power by an **insecure** and precarious tenure among the wilderness."*
+

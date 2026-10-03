@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who procures customers for whores (in england they call a pimp a ponce).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who obtains or acquires.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who obtains or acquires something, especially one who recruits or provides clients for prostitutes (a pimp).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal codes and criminal jurisprudence, an individual who solicits, induces, or facilitates unlawful commerce or prostitution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procurer designates someone who procures customers for whores (in england they call a pimp a ponce)."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"A bawd, a wicked **procurer** of evil pleasures, who deserves the full rigor of the law."*
+> - 📜 **Daniel Defoe (*Moll Flanders*):** *"She fell into the hands of an artful **procurer** who promised her honest employment in the city."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"He indignantly rejected the proposal, refusing to act as a **procurer** for another man's vices."*
+

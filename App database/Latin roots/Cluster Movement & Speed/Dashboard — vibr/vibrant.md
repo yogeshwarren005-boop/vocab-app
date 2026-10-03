@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorous and animated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of sounds that are strong and resonating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pulsating with vigor and energy; bright, striking, and vivid; resonant in sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic physics, a body undergoing rapid periodic oscillation that radiates sound waves into the surrounding medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"I ceased; and through the breathless hush That answered me, the far-off rush Of herald wings came whispering Like music down the vibrant string Of my ascending prayer, and--crash!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Passing by the tower with her husband on the path to the gate she could feel the vibrant air humming round them from the louvred belfry in the circle of sound, and it matched the highly-charged mental atmosphere in which she was living."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"However, his voice was grave and measured in tone, deep and vibrant."*
+> - 📜 **Henry Wadsworth Longfellow (*The Song of Hiawatha*):** *"The drum sounded hollow in the forest, sending forth **vibrant** echoes across the tranquil lake."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Youth is the one thing worth having; its warm, **vibrant** life slips away all too swiftly."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"The morning street was alive with **vibrant** color, omnibus rumbles, and bustling pedestrians."*
+

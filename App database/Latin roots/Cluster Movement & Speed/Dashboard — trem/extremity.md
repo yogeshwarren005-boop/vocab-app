@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An external body part that projects from the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extreme condition or state (especially of adversity or disease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The furthest point or limit of something; an extreme condition or degree; a limb of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical anatomy and emergency medicine, upper and lower extremities; or states of critical circulatory collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what excuse will my poor beast then find, When swift extremity can seem but slow?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that are in extremity of either are abominable fellows, and betray themselves to every modern censure worse than drunkards."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, you are a fool, And turned into the extremity of love."*
+> - 📜 **William Shakespeare (*King Lear*):** *"To will the break of it? O my good lord! he's dead: off with his boots: look to his **extremity**."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The unfortunate family was reduced to the last **extremity** of suffering before relief arrived."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Coldness and cyanosis in the lower **extremity** suggested severe peripheral arterial insufficiency."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move faster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move faster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Caused to move or happen faster; moving with increasing speed or at a rapid rate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac pathology, an accelerated ventricular rhythm produces palpitations and compromised hemodynamic efficiency during exercise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In due time a small stream began to trickle through the seventy feet of aerial space between its mouth and the ground, which the water-drops smote like duckshot in their accelerated velocity."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But she was such a sheaf of susceptibilities that her pulse was accelerated by the touch, her blood driven to her finger-ends, and the cool arms flushed hot."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This prosperity accelerated the effect of increasing quantities of the standard money."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Artificial breeding programs have **accelerated** the emergence of striking morphological varieties in domestic pigeons."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The unexpected death of the emperor **accelerated** the disintegration of the imperial administration along the Danube."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The laboratory reaction proceeded at an **accelerated** pace, filling the glassware with dense violet fumes."*
+

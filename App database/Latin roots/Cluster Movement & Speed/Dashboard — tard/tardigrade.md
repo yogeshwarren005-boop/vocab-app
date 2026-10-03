@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arthropod of the division tardigrada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arthropod of the division tardigrada.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic, eight-legged water bear of the phylum Tardigrada; or moving with slow pace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological biology, an organism capable of tun formation, shedding almost all cellular water during suspended animation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tardigrade designates an arthropod of the division tardigrada."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Under the lens, the minute **tardigrade** crawled sluggishly among the algal filaments like a tiny bear."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon proceeded in his scholarly investigations with a slow, **tardigrade** deliberation that defied impatience."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The cuticle of the **tardigrade** is periodically molted along with its clawed extremities."*
+

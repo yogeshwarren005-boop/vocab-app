@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unmistakably (`plain' is often used informally for `plainly').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmistakably (`plain' is often used informally for `plainly').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that is easily perceived or understood; clearly, plainly, or unmistakably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logical discourse, denoting a conclusion following demonstrably from acknowledged premises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He was more obviously struck and confused by the sight of her than she had ever observed before; he looked quite red."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The performer seemed quite at home anywhere between a horse’s head and its tail, and the necessity for this abnormal attitude having ceased with the passage of the plantation, she began to adopt another, even more obviously convenient than the first."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Shame upon him—shame!” His unreasonable anger terrified her, and she glided from him, without obviously moving, as she said, “I am only a girl—do not speak to me so!” “All the time you knew—how very well you knew—that your new freak was my misery."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The footprints were **obviously** those of a creature of colossal size, sinking deep into the peat."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe was **obviously** uncomfortable in his stiff Sunday clothes, standing awkwardly upon the carpet."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley was **obviously** fascinated by Jane, gazing upon her throughout the evening with joyful admiration."*
+

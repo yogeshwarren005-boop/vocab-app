@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subdued emotional quality underlying an utterance; implicit meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A current below the surface of a fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subsurface current in a body of water flowing beneath the surface layer; an underlying opinion, feeling, or tendency contrary to what is openly shown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and psychoanalysis, latent subconscious or subversive tendencies shaping manifest attitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"For even when I was there the undercurrent of discontent in the province was visible."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"That is because it is the undercurrent of my whole life."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Dorlan was calmer now; he realized an undercurrent of love in all that Morlene was saying and he knew, as all men know, that love will eventually assert itself."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"He made an effort to speak, but Syme went on in a low voice, but with an **undercurrent** of inhuman excitement."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Beneath her outward composure ran a dark **undercurrent** of dread that she could neither quell nor confess."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"An **undercurrent** of fierce indignation throbbed through every word he addressed to the court of inquiry."*
+

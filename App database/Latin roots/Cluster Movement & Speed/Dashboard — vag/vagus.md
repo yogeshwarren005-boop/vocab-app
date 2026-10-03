@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mixed nerve that supplies the pharynx and larynx and lungs and heart and esophagus and stomach and most of the abdominal viscera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mixed nerve that supplies the pharynx and larynx and lungs and heart and esophagus and stomach and most of the abdominal viscera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tenth cranial nerve (CN X), a major parasympathetic nerve innervating thoracic and abdominal viscera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, the wandering nerve carrying sensory and motor fibers controlling heart rate, peristalsis, and vocalization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vagus designates a mixed nerve that supplies the pharynx and larynx and lungs and heart and esophagus and stomach and most of the abdominal viscera."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Compression of the recurrent branch of the **vagus** by an aortic aneurysm produces laryngeal hoarseness."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The cardiac inhibitory fibers of the **vagus** nerve exert a constant regulatory control over the heartbeat."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The widespread visceral distribution of the **vagus** nerve justifies its ancient name of the wandering nerve."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The second pillar of islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward mecca.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second pillar of islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward mecca.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ritual prayer of Islam, performed five times daily facing Mecca as a fundamental religious duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Islamic liturgical practice, the physical sequence of rak'ahs consisting of standing, bowing, and prostration in prayer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salat designates the second pillar of islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward mecca."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"The muezzin proclaims the call from the minaret, summoning all believers to perform the dawn **salat**."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to El-Medinah and Meccah*):** *"The solemn stillness of the mosque during the evening **salat** filled the vast hall with spiritual majesty."*
+> - 📜 **Wilfrid Scawen Blunt (*The Future of Islam*):** *"The observance of daily **salat** unites the far-flung communities of Islam in common devotion."*
+

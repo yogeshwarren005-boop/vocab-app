@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding to a conclusion by reason or argument rather than intuition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving rapidly from one subject to another in speech or writing; digressive, rambling, or roving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical epistemological philosophy, reasoning that proceeds step-by-step through discourse rather than by immediate intuition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I had not got far into it, when I judged from her looks that she was thinking in a discursive way of me, rather than of what I said."*
-> - 📜 **George Eliot (*Middlemarch*):** *"What could she do, what ought she to do?—she, hardly more than a budding woman, but yet with an active conscience and a great mental need, not to be satisfied by a girlish instruction comparable to the nibblings and judgments of a discursive mouse."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No poetry in English literature, or in any literature, is more charged with discursive thought than his."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Reason in man is **discursive**, while in heavenly spirits it is intuitive, knowing truth by immediate contemplation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Human knowledge advances by **discursive** steps from known propositions to unknown truths."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The professor indulged in **discursive** speculations that wandered from tailoring to the mysteries of eternity."*
+

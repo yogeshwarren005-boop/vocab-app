@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having curly leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having curly leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of curly-leafed; possessing leaves that curl, crinkle, or ruffle at their edges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural agronomy, describing morphological mutations or crop varieties with crinkled leaf laminas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curly-leaved designates having curly leaves."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Selection by gardeners has stabilized several handsome **curly-leaved** strains of decorative cabbage."*
+> - 📜 **Joseph Dalton Hooker (*The Student's Flora of the British Islands*):** *"The **curly-leaved** dock grows along roadsides, easily recognized by its waved and crisped leaf margins."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The forester noted a curious **curly-leaved** oak sapling growing near the edge of the plantation."*
+

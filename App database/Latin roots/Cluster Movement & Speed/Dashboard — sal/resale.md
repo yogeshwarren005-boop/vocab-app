@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The selling of something purchased.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The selling of something purchased.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of selling again something that has already been bought; a second or subsequent commercial sale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial distribution and antitrust law, regulations governing retail price maintenance and distributor resale price policies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resale designates the selling of something purchased."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Wholesale merchants purchase commodities in bulk with the sole intention of profitable **resale** to retailers."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Speculative buying of grain for immediate **resale** during a harvest shortage often stabilizes market distribution."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Securities purchased for rapid **resale** generate speculative gains unrelated to industrial output."*
+

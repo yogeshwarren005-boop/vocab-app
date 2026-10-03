@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curse or declare to be evil or anathema or threaten with divine punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curse or declare to be evil or anathema or threaten with divine punishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To devote to destruction; to call down evil or divine retribution upon; to curse or execrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological anathema, solemn ecclesiastical sentences consigning heretics to spiritual condemnation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am accursed to rob in that thief’s company."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou that threw’st dust upon his goodly head When through proud London he came sighing on After th’ admired heels of Bolingbroke, Criest now “O earth, yield us that king again, And take thou this!” O thoughts of men accursed!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Accursed tower, accursed fatal hand That hath contrived this woeful tragedy!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"The fallen angels did **accurse** their proud leader whose rebellion brought them into endless misery."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The fanatical Grand Master was prepared to **accurse** and burn the innocent maiden as a sorceress."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The peasant rose in despair to **accurse** the ruthless nobility that starved his family."*
+

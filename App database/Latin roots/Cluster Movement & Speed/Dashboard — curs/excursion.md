@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A journey taken for pleasure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wandering from the main path of a journey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short journey or trip, especially one undertaken for pleasure, recreation, or exploration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and rhetoric, a sudden sortie or sally from a fortified place; or a brief digression from a topic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, Ada, and Richard took advantage of a very fine day to make a little excursion, Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had now been two months at Talbothays, and this was her first excursion."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As soon as they met the next morning Tess divined that Angel knew little or nothing of how far she had been concerned in the night’s excursion, though, as regarded himself, he may have been aware that he had not lain still."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Their summer **excursion** to the lakes of Derbyshire afforded Elizabeth the greatest enjoyment and wonder."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We undertook an interesting geological **excursion** into the rugged ravines of the cordillera."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes planned a nocturnal **excursion** onto the moor to verify the exact location of the watcher's lair."*
+

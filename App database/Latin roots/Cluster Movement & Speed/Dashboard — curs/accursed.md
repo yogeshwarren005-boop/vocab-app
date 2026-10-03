@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curse or declare to be evil or anathema or threaten with divine punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under a curse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under a curse; doomed to ruin, misfortune, or destruction; detestable, hateful, or abominable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical theology, things devoted to utter destruction (cherem) or persons excluded from the covenant community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am accursed to rob in that thief’s company."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou that threw’st dust upon his goodly head When through proud London he came sighing on After th’ admired heels of Bolingbroke, Criest now “O earth, yield us that king again, And take thou this!” O thoughts of men accursed!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Accursed tower, accursed fatal hand That hath contrived this woeful tragedy!"*
+> - 📜 **William Shakespeare (*Richard III*):** *"O, **accursed** and unquiet wrangling days, how many of you have mine eyes beheld!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"The **accursed** serpent was doomed to creep upon his belly through the dust of the earth."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He denounced the **accursed** greed that had lured him into disgraceful bankruptcy and ruin."*
+

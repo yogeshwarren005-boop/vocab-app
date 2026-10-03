@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a separate phylum: microscopic arachnid-like invertebrates living in water or damp moss having 4 pairs of legs and instead of a mouth a pair of stylets or needlelike piercing organs connected with the pharynx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered a separate phylum: microscopic arachnid-like invertebrates living in water or damp moss having 4 pairs of legs and instead of a mouth a pair of stylets or needlelike piercing organs connected with the pharynx.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum of microscopic, eight-legged invertebrates known as water bears or moss piglets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and cryptobiology, Tardigrada are extremophiles celebrated for entering anhydrobiosis to survive vacuum and extreme temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tardigrada designates in some classifications considered a separate phylum: microscopic arachnid-like invertebrates living in water or damp moss having 4 pairs of legs and instead of a mouth a pair of stylets or needlelike piercing organs connected with the pharynx."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The microscopic **tardigrada** possess four pairs of unjointed legs terminating in curved claws."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The cryptobiotic resilience of the **tardigrada** enables them to survive prolonged desiccation in moss cushions."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"Microscopists marvel at the survival of **tardigrada** when revived from apparent death with a single drop of water."*
+

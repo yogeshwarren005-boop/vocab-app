@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to increase velocity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to increase velocity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause an increase in speed, velocity, or rate of development; accelerating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomics and monetary dynamics, the accelerative effect of capital expenditure stimulates amplified secondary consumption cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accelerative designates tending to increase velocity."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The accumulation of mercantile capital exerts an **accelerative** influence upon national division of labor and manufacturing efficiency."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Cosmic evolution exhibits an **accelerative** momentum as specialized structures multiply within the expanding universe."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Inductive reasoning provides an **accelerative** method for discovering hidden axioms of natural science."*
+

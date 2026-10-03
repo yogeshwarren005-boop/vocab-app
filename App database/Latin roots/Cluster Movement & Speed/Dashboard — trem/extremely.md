@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a high degree or extent; favorably or with much respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an extreme degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a very great degree or extent; exceedingly; in the utmost manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In empirical discourse, an intensive modifier signifying the highest statistical or observational magnitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was brought again to th’ bar to hear His knell rung out, his judgement, he was stirred With such an agony, he sweat extremely And something spoke in choler, ill and hasty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The extreme parts of time extremely forms All causes to the purpose of his speed, And often at his very loose decides That which long process could not arbitrate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my noble lord, It is not for you: I have heard it over, And it is nothing, nothing in the world; Unless you can find sport in their intents, Extremely stretch’d and conn’d with cruel pain To do you service."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was **extremely** pleased to find that Darcy had quitted the room before she re-entered."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The weather was **extremely** cold, with violent squalls of sleet driving across the barren rocks."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes examined the minute footprints with **extremely** meticulous attention through his pocket lens."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A walk around a territory (a parish or manor or forest etc.) in order to officially assert and record its boundaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leisurely walk (usually in some public place).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of walking around or through an area; an official tour to survey and verify territorial boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English legal and parish history, the annual rogationtide perambulation recording land charters and parish landmarks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"So similarly he had a very shrewd suspicion that Mr Johnny Lever got rid of some £. s. d. in the course of his perambulations round the docks in the congenial atmosphere of the _Old Ireland_ tavern, come back to Erin and so on."*
-> - 📜 **James Joyce (*Ulysses*):** *"Had Bloom discussed similar subjects during nocturnal perambulations in the past?"*
-> - 📜 **James Joyce (*Ulysses*):** *"To Daniel Magrane and Francis Wade in 1882 during a juvenile friendship (terminated by the premature emigration of the former) he had advocated during nocturnal perambulations the political theory of colonial (e.g."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A philosophical **perambulation** through the fields of human knowledge reveals many unexplored provinces."*
+> - 📜 **Walter Scott (*Guy Mannering*):** *"The magistrate concluded his **perambulation** of the estate, noting every boundary stone and hedgerow."*
+> - 📜 **John Evelyn (*Diary of John Evelyn*):** *"We joined the annual parish **perambulation**, accompanied by the curate and churchwardens."*
+

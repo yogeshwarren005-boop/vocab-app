@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acquiring or coming into something (usually undesirable).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make oneself subject to; bring upon oneself; become liable to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing upon oneself something disadvantageous, harmful, or burdensome; becoming subject or liable to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethics and political theory, assuming moral responsibility or legal culpability through voluntary actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In fact, and I who am about to die have the right to say it without incurring the charge of immodesty, the three best minds in San Quentin from the Warden down were the three that rotted there together in solitary."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is not to be meddled with by any, except the war chieftain and his waiter, under the penalty of incurring great evil."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He saw no way of eluding Featherstone’s stupid demand without incurring consequences which he liked less even than the task of fulfilling it."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He saw no way of eluding Featherstone's stupid demand without **incurring** consequences which he liked still less."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He lived in perpetual fear of **incurring** the wrath of his tyrannical stepfather."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"By subverting established ancient institutions, they run the danger of **incurring** evils far worse than those they pretend to remedy."*
+

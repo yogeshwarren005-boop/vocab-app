@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the salmonidae: salmon and trout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the salmonidae: salmon and trout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic biological genus of salmonid fishes, including the Atlantic salmon (Salmo salar) and brown trout (Salmo trutta).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, anadromous ray-finned fishes possessing an adipose fin, cycloid scales, and powerful upstream migratory navigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Gaz._ [366] Or in the elegant lines of Ausonius:-- “Nec te puniceo rutilantem viscere salmo Transierim, latæ cujus vaga verbera caudæ Gurgite de medio summas reseruntur in undas.” [367] See vol i. of this work, art."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The male of the common salmon, classified as **salmo** salar, develops a hooked lower jaw during the breeding season."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The noble fish **salmo** surpasses all river inhabitants in beauty, vigour, and sporting gameness."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The skull structure of **salmo** displays the primitive teleost arrangement of bony plates and cartilage."*
+

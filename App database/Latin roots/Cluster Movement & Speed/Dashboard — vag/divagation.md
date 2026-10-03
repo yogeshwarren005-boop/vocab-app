@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that departs from the main subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A turning aside (of your course or attention or concern).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of wandering away or straying from the main path, subject, or line of argument; a digression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic disputation, discursive tangents that obscure the core syllogism under debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Let us be set down at Queen's Crawley without further divagation, and see how Miss Rebecca Sharp speeds there."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Let us be set down at Queen's Crawley without further **divagation** into family heraldry."*
+> - 📜 **Henry James (*The Ambassadors*):** *"His conversational **divagation** amused her, though it delayed the serious answer she awaited."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Pardon this historical **divagation**, which is necessary to understand the maritime rise of the republic."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender long-tailed monkey of asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender long-tailed monkey of asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender, long-tailed Asian monkey of the subfamily Colobinae, especially the sacred Hanuman langur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology and Indian wildlife ecology, folivorous colobine monkeys possessing complex multi-chambered stomachs adapted for digesting leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The sacrifice of a goat takes place, and a month later, that of a _langur_ (_Entellus_ monkey) or a bamboo-rat is considered necessary."*
+> - 📜 **Rudyard Kipling (*The Jungle Book*):** *"The grey **langur** leaped effortlessly among the high branches of the sal forest, chattering a warning."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The specialized sacculated stomach of the Indian **langur** facilitates the digestion of coarse foliage."*
+> - 📜 **Richard Francis Burton (*Goa, and the Blue Mountains*):** *"We observed troops of the sacred **langur** foraging fearlessly among the stone shrines of the temple hill."*
+

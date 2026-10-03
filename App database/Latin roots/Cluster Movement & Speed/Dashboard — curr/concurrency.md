@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement of results or opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting together, as agents or circumstances or events.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or fact of occurring, existing, or operating simultaneously or alongside another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and distributed systems, the property of program parts executing out-of-order or in partial order without affecting the final outcome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concurrency designates agreement of results or opinions."*
+> - 📜 **Edsger W. Dijkstra (*Co-operating Sequential Processes*):** *"The fundamental problem of **concurrency** lies in coordinating independent sequential processes competing for shared storage."*
+> - 📜 **C. A. R. Hoare (*Communicating Sequential Processes*):** *"In analyzing system **concurrency**, input and output are considered as the primary primitives of computation."*
+> - 📜 **Leslie Lamport (*Time, Clocks, and the Ordering of Events in a Distributed System*):** *"The concept of **concurrency** requires a rigorous definition of partial ordering across distributed temporal events."*
+

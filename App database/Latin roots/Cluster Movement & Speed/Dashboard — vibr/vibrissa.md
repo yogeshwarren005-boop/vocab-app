@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long stiff hair growing from the snout or brow of most mammals as e.g. a cat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long stiff hair growing from the snout or brow of most mammals as e.g. a cat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, stiff tactile hair growing on the face or snout of many mammals, such as a cat's whisker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy and sensory neurobiology, specialized sinus hair follicles with rich trigeminal innervation detecting spatial vibrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibrissa designates a long stiff hair growing from the snout or brow of most mammals as e.g. a cat."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Each facial **vibrissa** is connected with sensitive sensory nerves that warn nocturnal animals of nocturnal obstacles."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The enormous tactile **vibrissa** of the walrus facilitates foraging for shellfish along muddy ocean beds."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The follicle of a mammalian **vibrissa** is surrounded by a venous sinus providing sensitive hydrostatic amplification."*
+

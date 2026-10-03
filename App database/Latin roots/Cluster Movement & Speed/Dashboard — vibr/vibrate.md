@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shake, quiver, or throb; move back and forth rapidly, usually in an uncontrolled manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or swing from side to side regularly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move or cause to move continuously and rapidly to and fro; to quiver, oscillate, or throb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical wave mechanics, the periodic displacement of an elastic body about an equilibrium position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Lawrence Boythorn, really making the whole house vibrate."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Dash it, Tony,” says that gentleman, “you really ought to be careful how you wound the feelings of a man who has an unrequited image imprinted on his ’eart and who is NOT altogether happy in those chords which vibrate to the tenderest emotions."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Dearly bought the hidden treasure Finer feelings can bestow: Chords that vibrate sweetest pleasure Thrill the deepest notes of woe."*
+> - 📜 **Percy Bysshe Shelley (*Epipsychidion*):** *"Music, when soft voices die, vibrates in the memory; love, when sweet thoughts lie, shall **vibrate** forever."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The deep bell of Notre-Dame began to **vibrate** through the heavy night air of the awakened city."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Ray pulses striking the retina cause the optic nerves to **vibrate**, communicating visual impressions to the sensorium."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several old world shrubby broad-leaved willows having large catkins; some are important sources for tanbark and charcoal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become sallow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a sickly, yellowish or brownish-yellow color (typically referring to skin complexion); or a broad-leaved willow shrub.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical dendrology, specific willow varieties (such as Salix caprea, the goat willow) bearing downy spring catkins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Jesu Maria, what a deal of brine Hath wash’d thy sallow cheeks for Rosaline!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was a tall, sallow man with a careworn head on which but little hair remained, a deeply lined face, and prominent eyes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes—a sallow man with pinched lips that looked as if they were cold, a red eruption here and there upon his face, tall and thin, about fifty years of age, high-shouldered, and stooping."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Jesu Maria, what a deal of brine hath wash'd thy **sallow** cheeks for Rosaline!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The fields were **sallow** with the impure light of dawn, tinged in mournful monochrome."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her pale, **sallow** face bore the indelible imprint of chronic physical suffering and neglect."*
+

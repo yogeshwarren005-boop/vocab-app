@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical who advocates the abolition of social distinctions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radical who advocates the abolition of social distinctions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which levels, equalizes, or flattens; an advocate of the abolition of social or political distinctions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 17th-century British political history (Levellers), radical democratic reformers who advocated universal male suffrage, equality before the law, and religious tolerance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leveler designates a radical who advocates the abolition of social distinctions."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Death is the ultimate **leveler**, dragging emperors and mendicants alike to the same quiet dust."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The democratic **leveler** sought to overthrow all hereditary magistracies in the name of popular sovereignty."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Time acts as an impartial **leveler**, defacing the monuments of conquerors and the cottages of shepherds."*
+

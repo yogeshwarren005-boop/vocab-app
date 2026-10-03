@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the family salicaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the family salicaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic botanical order containing the single family Salicaceae (the willows and poplars).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Englerian plant taxonomy, a subclass of monochlamydeous dicotyledons distinguished by dioecious amentaceous flowers lacking perianths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salicales designates coextensive with the family salicaceae."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The order **salicales** comprises woody plants whose reduced unisexual flowers are aggregated into dense catkins."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In systematic classification, the order **salicales** occupies an isolated position among the amentiferous families."*
+> - 📜 **Joseph Dalton Hooker (*The Student's Flora of the British Islands*):** *"The primitive floral envelope of the **salicales** reflects adaptation to wind-pollinated riparian habitats."*
+

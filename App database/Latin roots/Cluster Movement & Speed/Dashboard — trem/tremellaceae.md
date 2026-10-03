@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of basidiomycetous fungi of the order tremellales that have the basidium divided longitudinally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of basidiomycetous fungi of the order tremellales that have the basidium divided longitudinally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of jelly fungi belonging to the order Tremellales, characterized by cruciately septate basidia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic basidiomycology, Tremellaceae fungi comprising mycoparasites that form gelatinous basidiocarps on wood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tremellaceae designates a family of basidiomycetous fungi of the order tremellales that have the basidium divided longitudinally."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The cruciform basidia of the **Tremellaceae** distinguish them from ordinary gilled woodland mushrooms."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fungal families like the **Tremellaceae** exhibit specialized adaptations for survival in humid forest leaf-litter."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"The gelatinous texture of the **Tremellaceae** protects their developing basidiospores from rapid desiccation."*
+

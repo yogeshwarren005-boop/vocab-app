@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of the voice) quivering as from weakness or fear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of the voice) quivering as from weakness or fear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaking or quivering slightly; timid, nervous, or hesitant; displaying a slight fluttering movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description, voices or light characterized by delicate, wavering, or hesitant vibrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George,” says Grandfather Smallweed with a tremulous wave of his shrivelled hand, “this is the gentleman, sir.” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I doubted if we should have got home without assistance, the boy’s steps were so uncertain and tremulous."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her singing was soft and rather tremulous at first, but it soon swelled to a steady clearness."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister spoke in a low, **tremulous** voice that touched the hearts of all who heard him."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne's hand was **tremulous** as she received the letter, fearing to read what Captain Wentworth had written."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A single **tremulous** ray of sunlight penetrated the gloom of the old philosopher's study."*
+

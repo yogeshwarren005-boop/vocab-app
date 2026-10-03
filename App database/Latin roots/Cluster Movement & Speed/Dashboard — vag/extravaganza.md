@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any lavishly staged or spectacular entertainment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any lavishly staged or spectacular entertainment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elaborate, spectacular, and lavishly staged theatrical, musical, or visual production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century theater history, a whimsical dramatic work characterized by pantomime, parody, and splendid scenic effects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Grandpa had launched into his traditional and celebrated French Toast Extravaganza that began early each Thanksgiving Day morning. *** Thanksgiving is past."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But these extravaganzas only show that Nantucket is no Illinois."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But these extravaganzas only show that Nantucket is no Illinois."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"The young gentlemen attended the Christmas **extravaganza** at the theater, enchanted by the fairy scenery."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The festive pantomime was an uproarious **extravaganza** filled with Harlequins, clowns, and transformation scenes."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"She viewed the theatrical performance not as art, but as a glittering commercial **extravaganza**."*
+

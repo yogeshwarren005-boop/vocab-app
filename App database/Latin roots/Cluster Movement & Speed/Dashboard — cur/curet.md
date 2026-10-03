@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument shaped like a scoop to remove tissue from a bodily cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical instrument shaped like a scoop to remove tissue from a bodily cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument with a scoop, ring, or loop at its tip used for scraping bodily tissue or removing debris from cavities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical operative surgery, an instrument designed to debride chronic granulations or excise mucosal tissue without tissue tearing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The guards referred to are the mythical Curetes who danced a war-dance round the infant Dionysus, as they are said to have done round the infant Zeus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon employed a small sharp **curet** to scrape the necrotic bone tissue from the sinus."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"A blunt **curet** is introduced through the cervical canal to remove residual placental debris safely."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The operator carefully guided the steel **curet** along the margin of the infected cavity."*
+

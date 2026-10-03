@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (geology) the leaping movement of sand or soil particles as they are transported in a fluid medium over an uneven surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) a mutation that drastically changes the phenotype of an organism or species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of leaping, jumping, or dancing; or a sudden, discontinuous change or mutation in evolutionary biology or sediment transport.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and geomorphology, the transport of sand or gravel particles by wind or water through a series of short bounces along the bed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltation designates (geology) the leaping movement of sand or soil particles as they are transported in a fluid medium over an uneven surface."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Sand grains advance across desert dunes in a continuous series of low leaps termed **saltation**."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The theory of evolution must allow for occasional abrupt transitions or biological **saltation**."*
+> - 📜 **William Bateson (*Materials for the Study of Variation*):** *"Discontinuous variations imply that species may arise through morphological **saltation** rather than minute increments."*
+

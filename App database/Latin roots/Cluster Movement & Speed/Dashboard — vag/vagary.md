@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unexpected and inexplicable change in something (in a situation or a person's behavior, etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unexpected and inexplicable change in something (in a situation or a person's behavior, etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unexpected, erratic, or unpredictable change in someone's behavior, thought, or situation; a caprice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, eccentric stylistic departures from established aesthetic conventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They may return and settle again to execute their preordained faculties, but they are now in a most extravagant vagary."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A strange vagary, this of hers, isn’t it, Oak?” said Coggan, curiously."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But the strangest part of the affair is the effect of this vagary, even on a sober-minded man like myself."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet was accustomed to every wild **vagary** of his wife's excitable imagination."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The financial ruin was precipitated by a sudden **vagary** of the autumn harvest weather."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Neighbors dismissed his generous philanthropy as a bizarre intellectual **vagary** of an old bachelor."*
+

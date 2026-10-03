@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays percussion instruments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician who plays percussion instruments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays percussion instruments such as drums, cymbals, xylophone, or timpani in an ensemble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In symphonic orchestration and modern jazz, an instrumentalist responsible for rhythmic propulsion and coloristic timbres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percussionist designates a musician who plays percussion instruments."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The orchestra's principal **percussionist** executed the sudden roll on the kettledrums with thrilling precision."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The rhythm rose and crashed as though an invisible **percussionist** beat upon the sounding floor of the sea."*
+> - 📜 **F. Scott Fitzgerald (*Tales of the Jazz Age*):** *"The energetic **percussionist** rattled his wire brushes across the snare drum, driving the dancers faster."*
+

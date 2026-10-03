@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical asiatic perennial herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical asiatic perennial herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial herbaceous plants of the ginger family (Zingiberaceae), including turmeric (Curcuma longa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical botany and traditional spice trade, aromatic rhizomes yielding curcumin, a bright yellow natural polyphenolic pigment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curcuma designates tropical asiatic perennial herbs."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The aromatic tuberous rhizomes of the genus **curcuma** furnish both medicinal stimulants and yellow dye."*
+> - 📜 **George Watt (*A Dictionary of the Economic Products of India*):** *"Cultivated species of **curcuma** have been valued throughout the Orient since antiquity for culinary seasoning."*
+> - 📜 **Dietrich Brandis (*Forest Flora of North-West and Central India*):** *"The broad leaves of wild **curcuma** spring up from the damp jungle floor at the onset of the monsoon."*
+

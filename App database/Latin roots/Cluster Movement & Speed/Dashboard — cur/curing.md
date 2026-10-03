@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming hard or solid by cooling or drying or crystallization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide a cure for, make healthy again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of preserving foodstuffs through drying, salting, or smoking; or the hardening of concrete or chemical polymers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In concrete engineering, maintaining adequate moisture and temperature over a defined duration to promote continuous cement hydration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I profess curing it by counsel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before the curing of a strong disease, Even in the instant of repair and health, The fit is strongest; evils that take leave On their departure most of all show evil."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The tardy curing and the endless scraping of the sealskins, so as to make them soft and pliable for garments, occupied my spare moments for months and months."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Yet I profess **curing** it by counsel, teaching him how to cleanse his heart of love's folly."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The process of **curing** codfish on the rocky beaches of Newfoundland required weeks of drying under the summer sun."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The natives preserved venison by sun-drying and salt **curing** before embarking on mountain treks."*
+

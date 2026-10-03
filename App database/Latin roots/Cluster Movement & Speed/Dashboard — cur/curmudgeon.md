@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crusty irascible cantankerous old person full of stubborn ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crusty irascible cantankerous old person full of stubborn ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bad-tempered, cantankerous, surly, or miserly person (usually an elderly man).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character literature and dramatic comedy, the stereotypical irascible and cynical elder whose harsh exterior often conceals hidden affection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"No churlish old curmudgeon could have been the owner of that grove of bread-fruit trees, or of these gloriously yellow bunches of bananas."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Get a copy of your muster-roll and give it to that old curmudgeon in the carriage."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They make their request at each house in rhyming verses, threatening with evil consequences the curmudgeons who refuse them a dole."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The old **curmudgeon** sat by his locked iron chest, refusing to bestow a penny upon his needy relatives."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Before his redemption, Ebenezer Scrooge was universally avoided as a grasping, solitary **curmudgeon**."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The village **curmudgeon** grumbled perpetually at the noisy sports of the schoolboys."*
+

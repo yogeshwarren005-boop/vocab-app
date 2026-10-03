@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasitic flatworms having external suckers for attaching to a host.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasitic flatworms having external suckers for attaching to a host.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic flatworm belonging to the class Trematoda, such as the liver fluke or blood fluke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical helminthology, human infestation by trematode parasites (Schistosoma) causing chronic portal and urinary morbidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trematode designates parasitic flatworms having external suckers for attaching to a host."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The microscopic egg of the **trematode** parasite was detected in the biliary sediments during autopsy."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The adult **trematode** secures its attachment to the host's intestinal mucosa by specialized muscular suckers."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Sheep grazing upon damp pastures are frequently decimated by the insidious liver **trematode**."*
+

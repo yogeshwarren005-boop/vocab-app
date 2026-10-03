@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an incurable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner impossible to cure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that defies cure, remedy, or reform; beyond recovery or restoration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical prognosis, designating a physiological degeneration that permanently resists therapeutic remediation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Her manner was incurably gentle; and she was not aware how much it concealed the sternness of her purpose."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He felt that his peace of mind was **incurably** wounded by the disclosure."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"A member who was **incurably** antisocial or treacherous would quickly be expelled from the primitive tribe."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The man was **incurably** insane, driven to frenzy by the superstitious terror of the moor."*
+

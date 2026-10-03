@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not provided with curtains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not provided with curtains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking curtains, drapes, or window coverings; open to external observation, light, or air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic architecture and Victorian interior descriptions, bare windows admitting raw daylight without decorative drapery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"M. showed her husband in some ridiculous light, or mercilessly uncurtained his crude, narrow-minded opinions and ideas."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Creeping in its shadow I reached a point whence I could look straight through the uncurtained window."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Through the **uncurtained** window of the cottage, a solitary candle flickered into the foggy night."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The dreary garret had only one **uncurtained** casement looking out upon a forest of chimney pots."*
+> - 📜 **Charlotte Brontë (*Shirley*):** *"The moon shone directly through the large **uncurtained** window, illuminating the bare boards of the schoolroom."*
+

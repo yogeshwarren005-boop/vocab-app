@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or yielding salt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or yielding salt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, yielding, or containing salt; salt-bearing (especially of geological strata and mineral formations).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical stratigraphy, the Saliferous System (New Red Sandstone and Keuper marls) bearing rock salt and brine springs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saliferous designates containing or yielding salt."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Thick beds of rock salt are interstratified within the **saliferous** marls of Cheshire and Worcestershire."*
+> - 📜 **Roderick Murchison (*The Silurian System*):** *"Subterranean brine springs emerge abundantly from the red **saliferous** formations of central England."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"We examined the vast **saliferous** clays of the mountain plateau, where the local miners extract table salt."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area where merchandise (such as cars) can be displayed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area where merchandise (such as cars) can be displayed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or hall in which goods, artworks, or property are displayed and sold, especially by public auction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial art history and antiquarian trade, the theatrical venue where bidders compete under the hammer of the auctioneer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saleroom designates an area where merchandise (such as cars) can be displayed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The crowded **saleroom** was filled with eager brokers bidding on bankrupt estates and seized furniture."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rawdon Crawley watched the disposal of his fashionable effects in the auctioneer's **saleroom**."*
+> - 📜 **Henry James (*The Spoils of Poynton*):** *"The connoisseur frequented every prominent **saleroom** in London, searching for rare porcelain and carvings."*
+

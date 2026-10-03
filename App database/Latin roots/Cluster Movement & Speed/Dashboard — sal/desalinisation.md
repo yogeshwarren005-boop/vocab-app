@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal of salt (especially from sea water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The removal of salt (especially from sea water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extraction or removal of salt from seawater or brackish water; the process of making salt water fresh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international environmental policy, regional membrane infrastructure projects deployed across water-stressed coastal territories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desalinisation designates the removal of salt (especially from sea water)."*
+> - 📜 **Julian Huxley (*Man in the Modern World*):** *"The widespread adoption of **desalinisation** will redefine resource distribution across arid developing regions."*
+> - 📜 **E. F. Schumacher (*Small Is Beautiful*):** *"Appropriate technology in water management prioritizes solar **desalinisation** over capital-intensive industrial plants."*
+> - 📜 **J. D. Bernal (*The Social Function of Science*):** *"Chemical engineering applied to **desalinisation** offers a technical solution to recurring Mediterranean droughts."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular instance of selling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The general activity of selling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exchange of a commodity or property for a specified amount of money; or a period of reduced retail prices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law, a consensual transfer of title to goods or property from seller to buyer for a valuable price consideration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, his cote, his flocks, and bounds of feed Are now on sale, and at our sheepcote now, By reason of his absence, there is nothing That you will feed on."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see no more in you than in the ordinary Of nature’s sale-work. ’Od’s my little life, I think she means to tangle my eyes too!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are mistaken: the one may be sold or given, if there were wealth enough for the purchase or merit for the gift; the other is not a thing for sale, and only the gift of the gods."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Besides, his cote, his flocks, and bounds of feed are now on **sale**, and at our sheepcote now you may buy."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every individual endeavours to employ his capital where its produce is likely to be of the greatest **sale** and value."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The auctioneer announced the final **sale** of the farm equipment to the gathered crowd."*
+

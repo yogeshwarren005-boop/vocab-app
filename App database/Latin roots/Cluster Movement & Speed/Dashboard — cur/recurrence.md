@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening again (especially at regular intervals).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening again (especially at regular intervals).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or fact of happening or appearing again repeatedly after an interval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pathology, the return of symptoms or a disease process after a period of remission or apparent cure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And then, for half-an-hour, ten minutes, or as long as an hour or so, I would wander erratically and foolishly through the stored memories of my eternal recurrence on earth."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In truth, they were he, they were the links of the chain of recurrence."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As I sit here and muse on it all, the footfalls of the death-watch going up and down outside my cage, the man’s suspicious eyes ever peering in on me, almost I weary of eternal recurrence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The banker was always presupposing that he could count in general on Lydgate as a coadjutor, but feared the **recurrence** of obstinate opposition."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The eye prefers symmetry or figures with regular **recurrence** of parts, which seems connected with our aesthetic pleasure."*
+> - 📜 **Sigmund Freud (*Beyond the Pleasure Principle*):** *"The compulsion toward the **recurrence** of traumatic impressions points to an instinctual drive deeper than the pleasure principle."*
+

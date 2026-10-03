@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make trivial or insignificant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make trivial or insignificant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make something seem unimportant, insignificant, or frivolous; to minimize serious weight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural criticism, mass media sensationalism reducing serious historical tragedies to shallow entertainment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trivialise designates make trivial or insignificant."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"To treat great moral dilemmas with flippant humor is to **trivialise** the deepest struggles of the human conscience."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Literary critics too often **trivialise** women's experiences, reducing them to domestic footnotes."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Modern sensational journalism tends to **trivialise** the grave political transformations of our epoch."*
+

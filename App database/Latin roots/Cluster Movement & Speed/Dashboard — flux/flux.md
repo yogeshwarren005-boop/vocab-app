@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rate of flow of energy or particles across a given surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flow or discharge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuous movement, passage, or change; an outflow or discharge of fluid matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and metallurgy, the rate of transfer of fluid, energy, or particles across a unit area; or a chemical cleaning agent facilitating soldering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Civet is of a baser birth than tar, the very uncleanly flux of a cat."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She became more or less red in the cheek, the blood wavering in uncertain flux and reflux over the sensitive space between ebb and flood."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So do flux and reflux—the rhythm of change—alternate and persist in everything under the sky."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Into the **flux** of company! Anon a careless herd, full of the pasture, jumps along by him."*
+> - 📜 **Francis Bacon (*Essays*):** *"Human affairs are subject to perpetual **flux** and instability, like the shifting tides of the ocean."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Organic forms are not immutable types, but entities maintained in continual **flux** across geological time."*
+

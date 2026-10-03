@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walk in one's sleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk in one's sleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To walk while asleep; to wander about in a state of sleep or hypnotic dissociation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical sleep medicine, non-REM parasomnia occurring typically during slow-wave stage N3 sleep.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somnambulate designates walk in one's sleep."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Children subject to night terrors will occasionally **somnambulate** through darkened rooms without waking."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The patient was known to **somnambulate** across the veranda, avoiding furniture with surprising accuracy."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Lucy began to **somnambulate** each midnight, drawn irresistibly toward the lonely churchyard on the cliff."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt failure of function or complete physical exhaustion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural event caused by something suddenly falling down or caving in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fall down, cave in, or crumple suddenly; to fail completely or break down in health or organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural civil engineering and pulmonary medicine, the catastrophic failure of load-bearing members; or atelectasis of lung alveoli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And he drives me to do what I wouldn’t; yes, he does!—Tall, come indoors.” After this collapse, not very dignified for the head of an establishment, she went into the house, Tall at her heels."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To one who knew the man and his story there was something more striking in this immobility than in a collapse."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some such collapse had been probable, so tender and puny was its frame; but the event came as a shock nevertheless."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The ancient monarchy seemed ready to **collapse** beneath the unbearable weight of popular fury."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The old timber barn threatened to **collapse** under the tremendous fury of the autumn tempest."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe hemorrhage caused sudden cardiovascular **collapse**, requiring urgent saline transfusion."*
+

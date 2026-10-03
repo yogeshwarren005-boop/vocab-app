@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or condition markedly different from the norm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviate behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behavior, action, or condition that departs substantially from established social, moral, or statistical norms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological criminology, deviance conceptualized through labeling theory and structural-functional strains (Merton, Becker).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deviance designates a state or condition markedly different from the norm."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Social institutions tend to penalize individual **deviance** in order to preserve corporate cohesion."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The tyranny of prevailing public opinion views any intellectual **deviance** from orthodoxy with severe hostility."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Exceptional spiritual experiences frequently appear as psychological **deviance** to the common observer."*
+

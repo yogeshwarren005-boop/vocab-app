@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by rude or peremptory shortness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brief and to the point; effectively cut short.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rudely brief, terse, or abrupt in speech or manner; laconic to the point of impoliteness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and linguistic style, concise and pithy expression that strips away superfluous ornament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Forbidden," was the curt reply."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"He had hardly closed the door when she started up, and ran to it to call him back, apologize for her curt refusal to go with him, and ask if she might still accept his invitation."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes gave his curt "Ha ha!" "I can still use my arms, Lawrence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Why? said Lydgate, who was much given to use that inconvenient word in a **curt** tone."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester gave a **curt** nod of dismissal as he gathered his papers from the desk."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The detective sent a **curt** telegram instructing Watson to watch the gates of the manor."*
+

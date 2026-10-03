@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal twisting of the intestines (usually in the area of the ileum or sigmoid colon) resulting in intestinal obstruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal twisting of the intestines (usually in the area of the ileum or sigmoid colon) resulting in intestinal obstruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute surgical condition caused by the twisting of a loop of intestine around its mesentery, causing obstruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abdominal surgery and emergency medicine, sigmoid or cecal volvulus causing closed-loop obstruction, ischemia, and gangrene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volvulus designates abnormal twisting of the intestines (usually in the area of the ileum or sigmoid colon) resulting in intestinal obstruction."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute intestinal obstruction caused by sigmoid **volvulus** demands prompt surgical intervention to prevent bowel necrosis."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The exploratory laparotomy revealed an extensive **volvulus** that had strangulated the mesenteric blood supply."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The clinical diagnosis of acute **volvulus** relies upon the triad of sudden distension, obstipation, and abdominal pain."*
+

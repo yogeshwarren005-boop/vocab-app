@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not seasoned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not seasoned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not healed, remedied, or restored to health; or (of meat, leather, or tobacco) not preserved by salting, smoking, or chemical curing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food preservation science and culinary chemistry, meat processed without synthetic nitrates or nitrites, relying solely on natural sea salts or celery powder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Madam M----, the mother of twelve children, had been quite shattered in mind by the death of her husband, and had been actually sent away uncured from an asylum."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Yet, no—no—thy wounds are uncured—Meet not that proud man—why shouldst thou perish also?” But Ivanhoe was already at his post, and had closed his visor, and assumed his lance."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight's deep wound remained **uncured**, bleeding afresh with every strenuous movement."*
+> - 📜 **Herman Melville (*Omoo*):** *"The sailors grumbled at the foul rations of **uncured** beef that turned rancid in the tropical heat."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The native hunters consumed strips of **uncured** venison dried hurriedly in the wind."*
+

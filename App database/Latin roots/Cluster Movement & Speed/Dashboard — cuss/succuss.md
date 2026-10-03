@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several liquids of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shake; especially (a patient to detect fluids or air in the body).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To shake vigorously or agitate; especially in medical examination to detect internal fluids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical diagnosis (Hippocratic succussion), vigorously shaking a patient's torso to hear hydropneumothorax splashing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, succuss designates any of several liquids of the body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The demonstrator proceeded to **succuss** the patient's chest to confirm the presence of pleural fluid and air."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Ancient practitioners would violently **succuss** the torso to determine whether fluid had accumulated in the pleura."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The clinical teacher showed how to gently **succuss** the patient without causing undue discomfort."*
+

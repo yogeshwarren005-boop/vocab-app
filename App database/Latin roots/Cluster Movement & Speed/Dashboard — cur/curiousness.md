@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of active curiosity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being alien or not native.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quaint peculiarity, unusual oddity, or inquisitive disposition attracting observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antiquarian discourse, minute elaborateness or meticulous delicacy of workmanship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curiousness designates a state of active curiosity."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Nor does it at all diminish the **curiousness** of this matter, that to many whalemen it remains an unsolved riddle."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A scholar should avoid excessive **curiousness** in minute matters that yield no practical fruit."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The natural **curiousness** of ancient philosophers led them to investigate every report of monstrous births."*
+

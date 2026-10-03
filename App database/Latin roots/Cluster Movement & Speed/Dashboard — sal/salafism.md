@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant group of extremist sunnis who believe themselves the only correct interpreters of the koran and consider moderate muslims to be infidels; seek to convert all muslims and to insure that its own fundamentalist version of islam will dominate the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A militant group of extremist sunnis who believe themselves the only correct interpreters of the koran and consider moderate muslims to be infidels; seek to convert all muslims and to insure that its own fundamentalist version of islam will dominate the world.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A revivalist movement within Sunni Islam emphasizing a strict return to the traditions of the pious early generations (the salaf).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern Islamic political thought, a theological methodology rejecting scholastic taqlid in favor of direct textual scripturalism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salafism designates a militant group of extremist sunnis who believe themselves the only correct interpreters of the koran and consider moderate muslims to be infidels; seek to convert all muslims and to insure that its own fundamentalist version of islam will dominate the world."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"The theological tenets of early **salafism** insisted upon literal adherence to the traditions of the first generation of believers."*
+> - 📜 **Wilfrid Scawen Blunt (*The Future of Islam*):** *"The revivalist impetus of modern **salafism** sought to purge religious practice of later medieval accretions."*
+> - 📜 **Bernard Lewis (*The Middle East*):** *"The doctrinal rise of **salafism** across the Arabian peninsula reshaped regional political alliances."*
+

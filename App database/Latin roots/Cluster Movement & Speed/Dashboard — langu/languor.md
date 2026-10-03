@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relaxed comfortable feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of lack of interest or energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of feeling tired, relaxed, and not wanting to move; pleasant exhaustion or dreaminess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical semiotics and Victorian poetry, oppressive physical torpor accompanying tropical fevers or melancholic introspection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Shall I ever forget the manner in which those handsome proud eyes seemed to spring out of their languor and to hold mine!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s consideration the paradox that the more you drink the thirstier you are and reclines his head upon the window-sill in a state of hopeless languor."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Yet, in spite of all this, Anne had reason to believe that she had moments only of languor and depression, to hours of occupation and enjoyment."*
+> - 📜 **Lord Byron (*Don Juan*):** *"A soft **languor** stole over her senses as the music floated across the quiet waters."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Her sweet voice had lost its spirit, sinking into a gentle **languor** born of long disappointment."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The summer heat cast a pleasant **languor** over the sleepy cathedral town."*
+

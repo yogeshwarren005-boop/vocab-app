@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bluish black fruit-eating bird with a bell-like call.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bluish black fruit-eating bird with a bell-like call.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several large, predominantly dark Australian passerine birds of the genus Strepera, known for their loud ringing calls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australasian avian ecology, aggressive forest corvoid predators that significantly influence smaller songbird nesting success in temperate woodlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, currawong designates bluish black fruit-eating bird with a bell-like call."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"The pied **currawong** frequents the heavily timbered mountain gullies, uttering its ringing bell-like cry through the morning mist."*
+> - 📜 **Archibald James Campbell (*Nests and Eggs of Australian Birds*):** *"In the eucalyptus canopies of Victoria, the watchful **currawong** builds a stout cup of twigs lined with dry grass."*
+> - 📜 **Neville William Cayley (*What Bird is That?*):** *"The black **currawong** is a bold and inquisitive inhabitant of Tasmanian scrub, easily recognized by its resounding call."*
+

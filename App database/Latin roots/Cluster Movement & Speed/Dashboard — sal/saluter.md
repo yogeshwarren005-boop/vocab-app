@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who greets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who greets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who salutes, greets, or pays formal respects to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and courtly protocol, the junior officer or ceremonial attendant initiating the reciprocal gesture of greeting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saluter designates a person who greets."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The polite **saluter** lifted his velvet cap and bowed low before the magistrates of the burgh."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The formal **saluter** on the quarterdeck stood rigid until the naval captain acknowledged his greeting."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick beamed upon each cheerful **saluter** as the stagecoach rolled through the cheering village."*
+

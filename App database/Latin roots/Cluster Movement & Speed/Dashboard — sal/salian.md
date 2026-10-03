@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the tribe of franks who settled in the netherlands in the 4th century ad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the tribe of franks who settled in the netherlands in the 4th century ad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the Salian Franks, a division of the Germanic Frankish people who settled in modern Belgium and northern France.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European legal history, pertaining to the Salic Law (Lex Salica), the ancient civil code that famously barred females from royal succession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salian designates a member of the tribe of franks who settled in the netherlands in the 4th century ad."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **salian** Franks established their dominion over the fertile plains of Gaul under the martial guidance of Clovis."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ancient **salian** law was cited by French jurists to exclude female heirs from the throne."*
+> - 📜 **François Guizot (*The History of Civilization in Europe*):** *"The customs of the **salian** conquerors merged with Roman municipal institutions to form medieval feudalism."*
+

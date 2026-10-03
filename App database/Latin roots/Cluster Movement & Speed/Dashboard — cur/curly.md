@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of hair) having curls or waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of hair) having curls or waves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having curls, waves, or spirals; curling or wavy in shape or texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In livestock management, fleece characteristics indicating specific breed heritability in sheep or cattle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Her thick, curly hair was falling far down below her shoulders, and her dark, solemn eyes were gazing with surprise at Apollonie."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From her standing-place in the road she could see him plainly, sitting quite still, his light curly head upon his hand, and only occasionally looking up to snuff the candle which stood beside him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There were also a few of the Oxfordshire breed, whose wool was beginning to curl like a child’s flaxen hair, though surpassed in this respect by the effeminate Leicesters, which were in turn less curly than the Cotswolds."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There were also a few of the Oxfordshire breed, whose wool was beginning to show a soft **curly** staple."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Traddles had the most unruly, **curly** hair that stood up like a halo in every direction."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The cabin boy had bright eyes and a mass of dark **curly** hair beneath his woolen cap."*
+

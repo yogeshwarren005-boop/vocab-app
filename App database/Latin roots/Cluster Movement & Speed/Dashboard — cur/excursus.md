@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that departs from the main subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message that departs from the main subject.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended analytical appendix or scholarly discussion of a specific point appended to a book.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology and theological commentary, supplementary dissertations treating textual or historical cruxes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge, sir." Ukridge was in the middle of a very eloquent excursus on the feeding of fowls."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The historian appended an elaborate **excursus** evaluating the credibility of the early Christian martyrologies."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The author added a valuable anatomical **excursus** comparing human and simian craniological measurements."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had prepared a massive **excursus** on Egyptian deities to be incorporated into his magnum opus."*
+

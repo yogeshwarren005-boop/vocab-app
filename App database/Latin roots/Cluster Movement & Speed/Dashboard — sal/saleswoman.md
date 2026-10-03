@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman salesperson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman salesperson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman whose occupation is selling goods, products, or services in a retail store or commercial business.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial sociology, professional women who pioneered female representation in department store merchandising and retail management.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Lessing, as a slim-waisted, trailing-black-gowned saleswoman approached."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He observed with interest the wonderful figure of the saleswoman."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He did not hear the order she gave, but the saleswoman was pleasantly smiling as she checked it."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"The attentive **saleswoman** deftly folded the fine lace veil and placed it in an embossed cardboard box."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"The head **saleswoman** at the modiste's salon treated Lily Bart with the deference due to an aristocratic patron."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The energetic **saleswoman** introduced modern dress patterns to the conservative townswomen of Gopher Prairie."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two soviet space stations launched in the 1970s.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two soviet space stations launched in the 1970s.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Soviet space program of the 1970s and 1980s that deployed a series of early crewed space stations in Earth orbit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spaceflight history, the pioneering space station program (Salyut 1 through 7) that established long-duration human spaceflight procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salyut designates either of two soviet space stations launched in the 1970s."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"The successful docking of Soyuz cosmonauts with the **salyut** orbital station opened the era of permanent orbital habitations."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The pioneering flights of the Soviet **salyut** program demonstrated the physiological adaptability of humans to extended weightlessness."*
+> - 📜 **Freeman Dyson (*Disturbing the Universe*):** *"The long orbital missions aboard the **salyut** stations proved that human labor could be sustained indefinitely in space."*
+

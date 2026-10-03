@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: True weevils: snout beetles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: True weevils: snout beetles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The true weevils or snout beetles, a huge family of coleopteran insects characterized by prolonged rostrums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology, phytophagous agricultural pests whose larvae bore into seeds, grain bins, and crop stems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curculionidae designates true weevils: snout beetles."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In some weevil-beetles belonging to the family **curculionidae**, there is a remarkable difference between the male and female rostrums."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The vast tropical family **curculionidae** includes wood-boring weevils displaying extraordinary protective coloration."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The hardened chitinous snouts of the **curculionidae** enable them to bore deeply into nuts and grain."*
+

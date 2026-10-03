@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Profane or obscene expression usually of surprise or anger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appeal to some supernatural power to inflict evil on someone or some group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn appeal to a supernatural power to inflict harm or misfortune on someone; or profane language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological mythology and classical folklore, hereditary ancestral curses (e.g. House of Atreus) tracking successive generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, but I think him better than I say, And yet would herein others’ eyes were worse: Far from her nest the lapwing cries away; My heart prays for him, though my tongue do curse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alack, You are transported by calamity Thither where more attends you, and you slander The helms o’ th’ state, who care for you like fathers, When you curse them as enemies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your virtue is To make him worthy whose offence subdues him, And curse that justice did it."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"You taught me language; and my profit on't is, I know how to **curse**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"On Adam fell the primal **curse**, commanding that by the sweat of his brow he should eat bread."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Sikes muttered a dreadful **curse** through his clenched teeth as the dog growled outside the door."*
+

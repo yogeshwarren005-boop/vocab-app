@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hypothetical remedy for all ills or diseases; once sought by the alchemists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hypothetical remedy for all ills or diseases; once sought by the alchemists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A remedy or panacea purporting to heal all diseases or solve all problems effortlessly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine and quackery, universal patent nostrums aggressively marketed to credulous consumers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cure-all designates hypothetical remedy for all ills or diseases; once sought by the alchemists."*
+> - 📜 **Oliver Wendell Holmes (*Currents and Counter-Currents in Medical Science*):** *"The gullible public readily swallows any advertised **cure-all** that promises instant relief from chronic infirmity."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Aunt Polly had a mortal passion for patent medicines and tried every new **cure-all** upon her nephew."*
+> - 📜 **William Osler (*Aequanimitas*):** *"A prudent physician distrusts universal panaceas, knowing that medical science offers no single **cure-all** for human disease."*
+

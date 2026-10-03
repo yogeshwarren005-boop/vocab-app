@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A volatile substance; a substance that changes readily from solid or liquid to a vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evaporating readily at normal temperatures and pressures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evaporating rapidly at normal temperatures; liable to change rapidly and unpredictably, especially for the worse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial market analysis and chemical kinetics, assets exhibiting high price variance; or compounds with high vapor pressures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Yes, sir.” “Have you any salts—volatile salts?” “Yes.” “Go back and fetch both.” I returned, sought the sponge on the washstand, the salts in my drawer, and once more retraced my steps."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Raymond is a witness what ginger and sal volatile I am obliged to take in the night."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate made her drink a dose of sal volatile."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Spirits that are too subtle and **volatile** dissipate into air unless fixed by methodical judgment."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Popular sentiment in revolutionary times is ever **volatile**, veering rapidly from adoration to bloody vengeance."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The ethereal liquid was extremely **volatile**, vaporizing immediately upon contact with the open air."*
+

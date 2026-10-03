@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not paying a salary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not paying a salary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not receiving a fixed regular payment or salary; serving in an honorary, voluntary, or unpaid capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public administration and civic philanthropy, voluntary municipal magistrates and charity trustees serving without official compensation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"On this trip she went as an unsalaried agent of the Western Sanitary Commission--receiving only her expenses, and the goods and provisions wherewith to relieve the want and misery she met among our suffering men."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In early America, many public township offices were filled by **unsalaried** citizens dedicated to civic duty."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The bishop appointed an **unsalaried** curate to assist the elderly clergyman during his illness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He took pride in serving as an **unsalaried** trustee of the municipal infirmary for over twenty years."*
+

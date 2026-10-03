@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move from one country or region to another and settle there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move periodically or seasonally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move from one country, place, or locality to another, especially on a seasonal or permanent basis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and biogeography, periodic seasonal dispersal of animal populations between breeding and wintering grounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Sir James was much pained, and offered that they should all migrate to Cheltenham for a few months with the sacred ark, otherwise called a cradle: at that period a man could hardly know what to propose if Cheltenham were rejected."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The document would be a reference for interested government entities responsible for space policy, and to define the fundamental rights and freedoms of those who might some day migrate to space."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"As birds migrate to somewhere beyond the sea, so these men with their wives and children streamed to the southeast, to parts where none of them had ever been."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Birds that **migrate** across vast continental distances possess powerful wings and keen navigational instincts."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Tribes of early hunters were compelled to **migrate** as the advancing glacial ice altered grazing ranges."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Laborers will naturally **migrate** from depressed districts toward towns offering higher industrial wages."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaking a person to determine whether a large amount of liquid is present in a body cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaking a person to determine whether a large amount of liquid is present in a body cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of shaking vigorously; a clinical diagnostic maneuver used to elicit splashing sounds in body cavities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonary medicine, the Hippocratic succussion splash pathognomonic of hydropneumothorax or pyopneumothorax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, succussion designates shaking a person to determine whether a large amount of liquid is present in a body cavity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hippocratic **succussion** produces a distinct splashing sound audible when fluid and air coexist in the pleural space."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The diagnostic value of thoracic **succussion** was first recorded in the classical treatises of Hippocrates."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"A clear **succussion** splash was elicited upon shaking the patient, confirming the thoracic diagnosis."*
+

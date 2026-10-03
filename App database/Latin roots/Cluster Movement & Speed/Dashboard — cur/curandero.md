@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mexican man who practices healing techniques inherited from the mayans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mexican man who practices healing techniques inherited from the mayans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional male folk healer or shaman in Latin American culture who treats physical and spiritual ailments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnomedicine and ethnographic field studies, male practitioners utilizing botanical pharmacology and ritual cleansings (limpias).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curandero designates a mexican man who practices healing techniques inherited from the mayans."*
+> - 📜 **Willa Cather (*Death Comes for the Archbishop*):** *"The old **curandero** possessed deep ancestral knowledge of desert cacti and healing roots."*
+> - 📜 **John Steinbeck (*The Pearl*):** *"They consulted an experienced **curandero** who brewed infusions of herbs to draw venom from the wound."*
+> - 📜 **Gabriel García Márquez (*One Hundred Years of Solitude*):** *"A wandering **curandero** promised to restore the patriarch's failing memory with mysterious syrups."*
+

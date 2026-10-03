@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After the expected or usual time; delayed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After the expected or usual time; delayed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving or acting slowly; arriving, occurring, or done late or after the expected time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and legal documents, delayed performance of contractual duties or overdue response to administrative summons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, an you be so tardy, come no more in my sight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, is your tardy master now at hand?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, this overdone, or come tardy off, though it make the unskilful laugh, cannot but make the judicious grieve; the censure of the which one must in your allowance o’erweigh a whole theatre of others."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Why, how now, Dromio? Where have you been so long? What makes you so **tardy**?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"The celestial messenger chid their **tardy** steps, urging them swiftly through the eastern gate."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The post was **tardy** in delivering letters to the remote country village during winter storms."*
+

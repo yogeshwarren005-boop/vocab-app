@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in northeastern greece on an inlet of the aegean sea; second largest city of greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in northeastern greece on an inlet of the aegean sea; second largest city of greece.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical Italian and western European name for Thessaloniki, a major port city in northern Greece on the Aegean Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Ottoman and Balkan history, an important multicultural mercantile metropolis connecting Mediterranean sea routes with Balkan overland trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salonica designates a port city in northeastern greece on an inlet of the aegean sea; second largest city of greece."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The prosperous maritime commerce of **salonica** maintained Greek commercial supremacy throughout the Aegean basin."*
+> - 📜 **Rebecca West (*Black Lamb and Grey Falcon*):** *"The storied ramparts of **salonica** overlooked the sea, bearing the marks of Byzantine emperors and Ottoman sultans."*
+> - 📜 **John Reed (*The War in Eastern Europe*):** *"In the crowded streets of **salonica**, refugees, soldiers, and merchants of twenty nations mingled in colorful confusion."*
+

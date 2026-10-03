@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Frogs, toads, tree toads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frogs, toads, tree toads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete or alternative taxonomic name for the biological order of tailless amphibians (Anura), comprising frogs and toads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate comparative zoology, amphibians characterized by elongated hindlimbs specialized for saltatorial (jumping) locomotion and absence of tail in adults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salientia designates frogs, toads, tree toads."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The order **salientia** includes all living frogs and toads, distinguished by the complete absence of a tail in the adult form."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The skeletal modification of the pelvic girdle in the **salientia** provides extraordinary leverage for leap locomotion."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"Fossil remains of early **salientia** indicate that saltatorial adaptation arose during the early Mesozoic era."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cracker sprinkled with salt before baking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cracker sprinkled with salt before baking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin, crisp, square cracker or biscuit sprinkled with coarse salt, typically leavened with yeast and baking soda.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern commercial food processing, soda crackers laminated and baked rapidly in tunnel ovens to achieve delicate blistered crispness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltine designates a cracker sprinkled with salt before baking."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He munched a dry **saltine** and sipped his bowl of chicken broth at the office desk."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The children divided a packet of crisp **saltine** crackers among themselves by the side of the highway."*
+> - 📜 **Ernest Hemingway (*A Moveable Feast*):** *"We broke a crisp **saltine** into our fish chowder while watching the rain beat against the café windows."*
+

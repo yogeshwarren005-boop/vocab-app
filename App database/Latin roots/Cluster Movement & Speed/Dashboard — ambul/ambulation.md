@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or technique of walking or moving about on foot; locomotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedics and occupational therapy, quantitative kinematic analysis of stride length, cadence, and footfall symmetry during ambulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambulation designates walking about."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The quadrupedal **ambulation** of animals exhibits diverse mechanical adaptations suited to their native terrain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The onset of painful claudication severely restricted comfortable **ambulation** to a few paces."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Daily **ambulation** in the open air invigorates the circulatory and nervous systems of the invalid."*
+

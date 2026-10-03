@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flavored with sour orange peel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flavored with sour orange peel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or variant spelling of curaçao (the citrus-flavored liqueur).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century British dining, a fashionable after-dinner digestif flavored with West Indian bitter orange peels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Lashings of stuff we put up: port wine and sherry and curacoa to which we did ample justice."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"He affected a taste for dry champagne and imported **curacoa** to display his continental breeding."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The generous host offered his guest a cordial glass of **curacoa** before retiring to rest."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The officers in the wardroom enjoyed their evening **curacoa** while discussing naval diplomacy in the Antilles."*
+

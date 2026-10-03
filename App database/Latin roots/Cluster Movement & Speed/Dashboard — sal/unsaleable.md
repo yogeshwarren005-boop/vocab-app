@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to sell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to sell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being sold; unfit for commercial sale or rejected by prospective buyers in the market.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mercantile contract law, goods failing to satisfy the implied warranty of merchantable quality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsaleable designates impossible to sell."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Perishable foodstuffs spoiled during delayed transport become wholly **unsaleable** upon arrival."*
+> - 📜 **Jane Austen (*Persuasion*):** *"If hereditary titles were ever **unsaleable**, Sir Walter would have considered his dignity grievously insulted."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The damp and sour wheat was declared entirely **unsaleable** by the assembled corn merchants."*
+

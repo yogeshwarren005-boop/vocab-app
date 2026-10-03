@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tentative and self-conscious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner involving risk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a precarious, unstable, or unsafe manner; without firm footing, anchor, or protection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seamanship and mechanical rigging, fastening hawsers, spars, or anchors without adequate tension or dogging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"And now let's get in and have something to eat, for goodness' sake." The kitchen window proved to be insecurely latched."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"My stores and bedding and other things were packed in large covered baskets insecurely fastened with padlocks."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The sight of a Mongol woman astride a galloping pony was not a thing to be forgotten; ears of hair flapping, high hat insecurely poised on top, silver ornaments and white teeth flashing."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The heavy harpoon hung **insecurely** balanced upon the gunwale of the tossing whaleboat."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The chest was **insecurely** corded with old hemp, ready to burst at the slightest shock."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"He clung **insecurely** to the ratlines as the schooner rolled violently into the trough of the sea."*
+

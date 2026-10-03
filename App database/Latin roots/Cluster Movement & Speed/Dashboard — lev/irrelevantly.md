@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an irrelevant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an irrelevant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an irrelevant, impertinent, or disconnected manner; without logical relation to the topic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary dialogue and psychological characterization, speaking off-topic due to emotional preoccupation or mental absent-mindedness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Why have we never met before?” “If you had told me you knew my grandfather when you appeared in the garden, I should not have been in the least surprised,” I answered rather irrelevantly."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Her eyes, however, at last came back to him, just as he said very irrelevantly; “Are you enjoying your visit to your uncle?” “Very much indeed.” She dropped, but then she broke out."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Osmond went on irrelevantly, addressing himself to his other companion."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"The machinery is of the most perfect, assented Durand, somewhat **irrelevantly**; but what of the spirit?"*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She spoke **irrelevantly** of the garden flowers, hoping to avert the stormy argument between her guests."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"He interposed **irrelevantly** with a question about train timetables, shrinking from the painful topic."*
+

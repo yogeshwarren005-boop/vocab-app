@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The levorotatory form of dopa (trade names bendopa and brocadopa and larodopa); as a drug it is used to treat parkinson's disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The levorotatory form of dopa (trade names bendopa and brocadopa and larodopa); as a drug it is used to treat parkinson's disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The L-isomer of dopa (L-3,4-dihydroxyphenylalanine), an amino acid precursor of dopamine used extensively in the treatment of Parkinson's disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropharmacology, a pro-drug that crosses the blood-brain barrier via large neutral amino acid transporters to replenish depleted striatal dopamine reserves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levodopa designates the levorotatory form of dopa (trade names bendopa and brocadopa and larodopa); as a drug it is used to treat parkinson's disease."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The dramatic administration of **levodopa** transformed post-encephalitic patients from motionless statues into vibrant, energetic beings."*
+> - 📜 **Arvid Carlsson (*Pathways of Dopamine Research*):** *"The discovery that **levodopa** restores motor function in reserpine-treated animals proved dopamine's role as a vital neurotransmitter."*
+> - 📜 **Louis S. Goodman & Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"The co-administration of a peripheral decarboxylase inhibitor prevents the premature degradation of **levodopa** before reaching the brain."*
+

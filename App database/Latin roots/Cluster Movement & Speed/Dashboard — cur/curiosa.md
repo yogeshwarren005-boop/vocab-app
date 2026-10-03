@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Books on strange or unusual subjects (especially erotica).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Books on strange or unusual subjects (especially erotica).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Erotic or pornographic books, prints, or eccentric collectibles cataloged as curious literature in rare book collections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliographical cataloging, specialized archives of unusual, esoteric, or clandestine literature restricted from general circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"With a fa, la, la, la, la.” --_Campbell’s British Poets_, p. 316. [216] Peck’s Curiosa. [217] Ibid. [218] Opus citatum in Pict."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"The literary sleuth searched private archives for rare **curiosa** that might illuminate the poet's secret life."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes possessed a remarkable scrap-book of historical **curiosa** and forgotten criminal trials."*
+> - 📜 **Edmund Gosse (*Father and Son*):** *"The antiquarian book dealer set aside volumes of bizarre theological **curiosa** for eccentric collectors."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking by a person who is asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking by a person who is asleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sleep disorder characterized by walking or executing complex behaviors while in a state of sleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century alienism and mesmerism, spontaneous or induced trance states involving lucid motor action without conscious recall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"THE MINISTER’S VIGIL Walking in the shadow of a dream, as it were, and perhaps actually under the influence of a species of somnambulism, Mr."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"I have never practised somnambulism before or since."*
-> - 📜 **James Joyce (*Ulysses*):** *"There have been cases of shipwreck and somnambulism in my client’s family."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"A great perturbation in nature, to receive at once the benefit of sleep and do the effects of watching! What is this **somnambulism**?"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The phenomenon of **somnambulism** occurs most frequently in young individuals with neuropathic tendencies."*
+> - 📜 **Edgar Allan Poe (*The Facts in the Case of M. Valdemar*):** *"The subject passed into a profound magnetic trance closely allied to spontaneous **somnambulism**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of flowing out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of flowing out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or rate of flowing out; that which flows out or issues forth; an emanation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid mechanics and thermodynamics, the discharge velocity of liquid escaping through a container orifice (Torricelli's Law).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Again, we are told that Ohio legalizes “special contracts” up to eight per cent. and, that if we would prevent the efflux of capital we must follow in the same direction."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Parliament have three modes of separation, to wit: by adjournment, by prorogation or dissolution by the King, or by the efflux of the term for which they were elected."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"When done, it is by a bill constituting them commissioners for the particular purpose. [Congress separate in two ways only, to wit: by adjournment, or dissolution by the efflux of their time."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Since God is light, and never but in unapproached light dwelt from eternity, bright **efflux** of bright essence increate."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The invisible **efflux** of odorous vapor from flowers perfumes the surrounding evening air."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Every genuine action is an outward **efflux** of the divine soul manifesting in nature."*
+

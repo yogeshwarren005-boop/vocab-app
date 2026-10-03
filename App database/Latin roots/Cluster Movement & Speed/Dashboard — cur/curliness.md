@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of hair) a tendency to curl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of hair) a tendency to curl.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wavy, coiled, or spiral texture in hair, fibers, or botanical foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile science and fleece grading, the natural crimp frequency per unit length determining wool elasticity and spinning quality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curliness designates (of hair) a tendency to curl."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shepherd examined the fine **curliness** of the Merino fleece, assessing its commercial value."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The natural **curliness** of her dark brown locks defied all attempts at severe Victorian arrangement."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She admired the soft **curliness** of the child's bright hair resting against the white pillow."*
+

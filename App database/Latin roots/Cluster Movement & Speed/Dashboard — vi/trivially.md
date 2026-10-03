@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With little effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a frivolously trivial manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a trivial or unimportant manner; superficially, slightly, or with little significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, holding trivially or vacuously in extreme boundary cases without substantive proof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"They are either trivially or extravagantly stated."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The proposition holds **trivially** when the null set is considered as a subset of itself."*
+> - 📜 **George Eliot (*Middlemarch*):** *"They chatted **trivially** about the morning market, studiously avoiding the grave scandal in the town."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He responded **trivially** to her earnest question, unwilling to reveal his true feelings."*
+

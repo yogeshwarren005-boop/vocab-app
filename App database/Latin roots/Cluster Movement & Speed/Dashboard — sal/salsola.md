@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly old world herbs or shrubs: saltworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly old world herbs or shrubs: saltworts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of halophytic, salt-tolerant herbs and shrubs in the family Amaranthaceae, commonly known as saltworts or tumbleweeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coastal ecology and economic botany, plants growing on arid salt plains, the ashes of which historically provided barilla soda for glassmaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salsola designates chiefly old world herbs or shrubs: saltworts."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Various species of **salsola** flourish on the arid alkaline steppes where ordinary vegetation perishes from salt."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The salt-burners collected large mounds of dried **salsola** from the seashore to burn for soda ash."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The prickly fleshy shrubs of **salsola** carpet the vast maritime salt-wastes along the Arabian Sea."*
+

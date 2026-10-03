@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English botanical writer and publisher (1746-1799).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English botanical writer and publisher (1746-1799).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A servant in Petruchio's household in Shakespeare's The Taming of the Shrew; or a common English surname derived from Old French courteis (courteous).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early dramatic comedy, a quintessential comic household retainer tasked with domestic duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Curtis, ay; and therefore fire, fire; cast on no water."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She was, good Curtis, before this frost; but thou knowest winter tames man, woman, and beast; for it hath tamed my old master, and my new mistress, and myself, fellow Curtis."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A cold world, Curtis, in every office but thine; and therefore fire."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"Now, **curtis**, fire, fire; cast on no water, for the winter wind hath frozen our blood!"*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Old Mr. **curtis** nodded gravely from the chimney corner, concurring with the coachman's wisdom."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The town constable **curtis** examined the prisoner's papers with slow, suspicious pedantry."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat salty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat salty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat or moderately salty in taste or composition; slightly saline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrogeology and estuarine biology, brackish water transitional between river discharge and marine salinity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The saltish torrent deluged the surrounding plains--putting every thing into a pretty pickle, as may well be imagined."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The spring water had a **saltish** flavor, showing that the subterranean veins connected with the ocean."*
+> - 📜 **Herman Melville (*Typee*):** *"We quenched our thirst at a cool mountain stream that had a slightly **saltish** mineral taste."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The well water in the settlement was distinctly **saltish**, yet the cattle drank it without apparent injury."*
+

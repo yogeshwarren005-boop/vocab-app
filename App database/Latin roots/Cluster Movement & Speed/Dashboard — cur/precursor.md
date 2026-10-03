@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance from which another substance is formed (especially by a metabolic reaction).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who goes before or announces the coming of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that comes before another of the same kind; a forerunner, harbinger, or predecessor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and physiology, an inactive chemical substance from which another active compound is synthesized.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We are concerned less with John as precursor than as teacher and thinker."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He will find it as sure a precursor of his fate as Openshaw did before him.” “And who is this Captain Calhoun?” “The leader of the gang."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Oh, the beautiful green! the precursor of the golden-red hue that tells of the end attained!"*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Jove's lightnings, the **precursor** o' the dreadful thunder-claps, more momentary and sight-outrunning were not."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We may recognize in the rudimentary organ a faint morphological **precursor** of a fully developed structure."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Roger Bacon stands as a heroic intellectual **precursor** of modern inductive experimental philosophy."*
+

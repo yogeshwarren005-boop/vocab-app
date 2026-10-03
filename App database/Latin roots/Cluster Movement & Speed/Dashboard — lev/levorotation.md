@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotation to the left.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotation to the left.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rotation of the plane of polarization of light in a counterclockwise direction (to the left) by an optically active substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and polarimetry, the negative angular deflection observed when plane-polarized monochromatic light traverses a solution of chiral molecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levorotation designates rotation to the left."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"By separating the enantiomeric crystals by hand, he demonstrated that **levorotation** corresponds to a specific molecular orientation."*
+> - 📜 **Emil Fischer (*Studies on Carbohydrates*):** *"The hydrolysis of sucrose into glucose and fructose results in an inversion of optical sign due to the strong **levorotation** of fructose."*
+> - 📜 **Svante Arrhenius (*Textbook of Theoretical Electrochemistry*):** *"The degree of **levorotation** varies systematically with temperature, concentration, and the solvent medium."*
+

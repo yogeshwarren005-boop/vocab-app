@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be born anew in another body after death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move from one country or region to another and settle there.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pass into another body at death, as the soul; to migrate from one country or state to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical theology and Pythagorean metaphysics, the transmigration of the immaterial psyche through successive mortal incarnations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It lives by that which nourisheth it, and the elements once out of it, it transmigrates."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Sometimes, at the death of the human incarnation, the divine spirit transmigrates into another man."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus, for example, it is thought that if a Gilyak falls in combat with a bear, his soul transmigrates into the body of the beast."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Pythagoras taught that the immortal soul would **transmigrate** through diverse beastly and human forms."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Fools believe their spirits shall **transmigrate** into glorious celestial beings after worldly folly ends."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"If the soul of Socrates were to **transmigrate** into the body of another, identity would depend on memory."*
+

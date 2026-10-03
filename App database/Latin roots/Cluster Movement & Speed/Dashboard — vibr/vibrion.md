@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved rodlike motile bacterium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved rodlike motile bacterium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic, motile bacterium with an undulatory or comma-shaped morphology; a vibrio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century bacteriological literature, early classifications of curved and spiral bacterial filaments (vibrioniens).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibrion designates curved rodlike motile bacterium."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The butyric fermentation was excited by a peculiar **vibrion** capable of living without free atmospheric oxygen."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Every drop of stagnant infusion teemed with innumerable active monads and the sinuous **vibrion**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Observers debated whether the septic **vibrion** represented a distinct infectious entity or a post-mortem invader."*
+

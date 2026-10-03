@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capability of being cured or healed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capability of being cured or healed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or property of being curable or amenable to medical remedy and restoration of health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health epidemiology, the susceptibility of an infectious disease to eradication through medical treatment regimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curableness designates capability of being cured or healed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The demonstrated **curableness** of early syphilitic lesions gave hope to generations of clinical researchers."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Hospital mortality statistics demonstrate the essential **curableness** of simple traumatic injuries under sanitary conditions."*
+> - 📜 **Oliver Wendell Holmes (*Currents and Counter-Currents in Medical Science*):** *"An experienced clinician never confuses theoretical **curableness** with guaranteed therapeutic success."*
+

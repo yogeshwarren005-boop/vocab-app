@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotating to the left.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotating to the left.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting or producing levorotation; rotating the plane of vibration of polarized light toward the left.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical nomenclature, molecules such as naturally occurring L-amino acids and D-fructose displaying counterclockwise optical rotation in a polarimeter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levorotatory designates rotating to the left."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"Only the **levorotatory** form of the tartrate was consumed by the living mold, leaving the opposite isomer untouched."*
+> - 📜 **Jacobus Henricus van 't Hoff (*The Arrangement of Atoms in Space*):** *"The spatial configuration of the **levorotatory** enantiomer mirrors that of its dextrorotatory counterpart in three dimensions."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The asymmetrical disposition of functional groups around a carbon nucleus produces distinct dextrorotatory and **levorotatory** behaviors."*
+

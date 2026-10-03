@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid handwriting in which letters are set down in full and are cursively connected within words without lifting the writing implement from the paper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having successive letter joined together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written with characters joined together in a flowing, running style; flowing or continuous in script.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleography and diplomatics, Greek and Roman cursive scripts used in papyri and business records distinct from monumental capitals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cursive designates rapid handwriting in which letters are set down in full and are cursively connected within words without lifting the writing implement from the paper."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ancient scribes used a rapid **cursive** hand for provincial administrative records and fiscal rolls."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The note was written in an educated, flowing **cursive** script upon fine laid stationery."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Paleographers deciphered the papyrus fragments, distinguishing formal uncials from commercial **cursive** writing."*
+

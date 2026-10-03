@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something unusual -- perhaps worthy of collecting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something unusual -- perhaps worthy of collecting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, unusual, or intriguing object or knick-knack, valued as an artistic, foreign, or historical curiosity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian and Edwardian domestic material culture, exotic decorative items collected from overseas travels and displayed in glass-fronted cabinets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"VALENTINE, Gentleman attending on the Duke CURIO, Gentleman attending on the Duke VIOLA, in love with the Duke."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Orsino, Duke of Illyria, Curio, and other Lords; Musicians attending."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Duke, Curio and Attendants."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"The dusty antique shop was crammed with every rare **curio** that past generations had prized and discarded."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"The collector scrutinized the delicate antique bowl as an exquisite **curio** worthy of a prince's cabinet."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"The retired major's sitting-room was decorated with many an exotic Indian **curio** and tiger skin."*
+

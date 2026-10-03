@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make trivial or insignificant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make trivial or insignificant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause something to appear trivial, petty, or frivolous; to treat with superficial disregard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and sociological discourse, reducing systemic complex crises to simplistic personal anecdotes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trivialize designates make trivial or insignificant."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Public ridicule was employed to **trivialize** vital constitutional reforms championed by early advocates."*
+> - 📜 **George Orwell (*Collected Essays*):** *"Partisan propaganda seeks to **trivialize** genuine ideological disagreements into crude slogans."*
+> - 📜 **William James (*The Will to Believe*):** *"Skeptics attempt to **trivialize** religious convictions by treating them as mere emotional delusions."*
+

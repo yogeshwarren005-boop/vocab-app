@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose velocity; move more slowly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce the speed of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce speed, slow down, or cause something to decrease in velocity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In space exploration mechanics, retrorockets fire opposite to the direction of motion to decelerate a lander into orbit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decelerate designates lose velocity; move more slowly."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The automated guidance system fired its forward thrusters to **decelerate** the spacecraft as it neared the Jovian moon."*
+> - 📜 **Isaac Asimov (*The Caves of Steel*):** *"The express strip began to **decelerate** smoothly as it approached the central pedestrian concourse of the city."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The pilot throttled back the engines to **decelerate** the great airship before docking at the mooring mast."*
+

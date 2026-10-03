@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not immediately apparent; - a.n.whitehead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not immediately apparent; - a.n.whitehead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not readily apparent, self-evident, or easily seen; hidden or requiring subtle reflection to detect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In patent jurisprudence and technological innovation, the requirement that an invention not be obvious to a person having ordinary skill in the art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unobvious designates not immediately apparent; - a.n.whitehead."*
+> - 📜 **Alfred North Whitehead (*Science and the Modern World*):** *"The grandest physical principles are often the most **unobvious**, veiled beneath familiar everyday appearances."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes seized upon an **unobvious** speck of red mud upon the carpet, deducing the visitor's origin."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The evolutionary advantage of the structure was obscure and **unobvious** until observed in its native habitat."*
+

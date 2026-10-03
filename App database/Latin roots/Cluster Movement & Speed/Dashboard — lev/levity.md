@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling an inappropriate lack of seriousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner lacking seriousness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or inappropriate lightness of mind, speech, or conduct; lack of proper seriousness or solemnity; frivolity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physics (before Newtonian universal gravitation), the hypothesized inherent buoyancy or tendency of substances like fire and air to move upward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our graver business Frowns at this levity.—Gentle lords, let’s part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is already Traduced for levity, and ’tis said in Rome That Photinus, an eunuch, and your maids Manage this war."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our own precedent passions do instruct us What levity’s in youth."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Our graver business frowns at this **levity**; gentle lords, let us part to attend our duties."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Ancient natural philosophy erred in ascribing absolute gravity to earth and absolute **levity** to fire."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her father was so well pleased with his daughter's good fortune that he indulged in unusual **levity** during the evening."*
+

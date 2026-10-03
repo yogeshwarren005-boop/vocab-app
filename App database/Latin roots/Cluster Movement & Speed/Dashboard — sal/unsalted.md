@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without salt or seasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without salt or seasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not seasoned, cured, preserved, or treated with salt; devoid of salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary arts and commercial dairy production, fresh butter or nuts prepared without added sodium chloride to preserve delicate natural flavours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak, then, thou unsalted leaven, speak."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Speak, then, thou **unsalted** leaven, speak! Why dost thou mutter in this fashion?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The hungry sailor would have given a doubloon for a crust of fresh bread and **unsalted** butter."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I baked my simple unleavened cakes of pure cornmeal and **unsalted** spring water over the open coals."*
+

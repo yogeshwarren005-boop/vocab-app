@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With wings extended in a flying position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With wings extended in a flying position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flying or capable of flight; passing swiftly through the air; with wings outstretched.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical heraldry, depicting a bird or winged beast in the act of flying with wings extended horizontally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He bounds from the earth, as if his entrails were hairs; _le cheval volant_, the Pegasus, _qui a les narines de feu!_ When I bestride him, I soar, I am a hawk."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Haec inquam animalia in aere volant, in aquis natant, in terra ambulant."*
-> - 📜 **James Joyce (*Ulysses*):** *"An eagle gules volant in a field argent displayed."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The radiant seraph sped on **volant** wing across the celestial plains toward the gates of morning."*
+> - 📜 **Walter Scott (*The Lay of the Last Minstrel*):** *"The knight bore upon his shield a falcon **volant**, ready to strike down its quarry in flight."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Swift thoughts flew like **volant** spirits across the expanse of the starry midnight sky."*
+

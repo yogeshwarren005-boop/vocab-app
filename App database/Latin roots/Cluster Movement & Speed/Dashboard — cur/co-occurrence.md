@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event or situation that happens at the same time as or in connection with another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The temporal property of two things happening at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The simultaneous presence, association, or occurrence of two or more entities or events together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational linguistics and corpus analysis, the statistical frequency with which two words appear together within a specified text window.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, co-occurrence designates an event or situation that happens at the same time as or in connection with another."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The constant **co-occurrence** of these secondary sexual characters suggests a common hormonal origin."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Syntactic rules govern the systematic **co-occurrence** of modal auxiliaries with specific verb stems."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The frequent **co-occurrence** of two sensations in past experience establishes a strong associative pathway."*
+

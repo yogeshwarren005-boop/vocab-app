@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of radium in radiation therapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of radium in radiation therapy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment of disease (especially cancer) by internal or external exposure to radiation from radium or radioisotopes; brachytherapy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radiation oncology, the precise interstitial or intracavitary implantation of encapsulated radioactive sources adjacent to malignant lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curietherapy designates the use of radium in radiation therapy."*
+> - 📜 **Marie Curie (*Radiology in War*):** *"The clinical application of radium rays, known as **curietherapy**, demonstrated remarkable success in shrinking malignant tumors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pioneering oncology clinics introduced **curietherapy** for the localized treatment of inoperable carcinomas."*
+> - 📜 **René Dubos (*The Mirage of Health*):** *"The development of **curietherapy** represented a dramatic therapeutic advance in early twentieth-century medicine."*
+

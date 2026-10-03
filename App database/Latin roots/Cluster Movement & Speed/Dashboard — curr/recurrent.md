@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recurring again and again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recurring again and again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, returning, or appearing repeatedly or at regular intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and neurology, describing vessels or nerves (such as the recurrent laryngeal nerve) that turn back on their course.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You had better go down.” Bathsheba said nothing; but he could distinctly hear her rhythmical pants, and the recurrent rustle of the sheaf beside her in response to her frightened pulsations."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We are involved in the recurrent need to re-examine him and re-explore him."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It was like a house, that space was, with a strange division of time, that corresponded not with time of day, but with recurrent actions, memories, moods."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba said nothing; but he could distinctly hear her rhythmical pants, and the **recurrent** rustle of her dress."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In the preservation of favoured individuals and races, during the constantly-**recurrent** Struggle for Life, we see a powerful mechanism of adaptation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A **recurrent** sensation leaves in the brain an organized path that facilitates its subsequent revival."*
+

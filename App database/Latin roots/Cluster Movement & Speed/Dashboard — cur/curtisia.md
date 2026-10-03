@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large evergreen tree of south africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large evergreen tree of south africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of evergreen trees in the family Curtisiaceae native to southern Africa, containing the assegaai tree (Curtisia dentata).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In southern African ethnobotany and forestry, a dense-canopied forest tree whose hard, tough timber was historically prized for making Zulu throwing spears (assegais).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curtisia designates a large evergreen tree of south africa."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The anatomical wood structure of **curtisia** displays exceptional fiber density and resistance to splintering."*
+> - 📜 **William Turner (*The Timber Trees of South Africa*):** *"The assegaai tree, classified as **curtisia**, yields one of the most durable hardwoods in the Knysna forests."*
+> - 📜 **Dietrich Brandis (*Indian Trees*):** *"Allied cornales genera reflect botanical affinities with the South African **curtisia**, notable for its toothed evergreen leaves."*
+

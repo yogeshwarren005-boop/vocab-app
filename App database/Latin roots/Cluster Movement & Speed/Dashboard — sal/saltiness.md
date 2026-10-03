@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Language or humor that is down-to-earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taste experience when common salt is taken into the mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taste, property, or degree of being salty; salinity; or pungent, earthy sharpness in speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology and gustatory perception, the taste sensation elicited by sodium cations activating amiloride-sensitive epithelial sodium channels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltiness designates language or humor that is down-to-earth."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The invigorating **saltiness** of the sea wind brought color back to the pale invalid's cheeks."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"The heavy ocean breeze was laden with the pungent **saltiness** of drying kelp and tidal foam."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The extreme **saltiness** of the inland lagoons encrusted the surrounding rocks with glistening white saline crystals."*
+

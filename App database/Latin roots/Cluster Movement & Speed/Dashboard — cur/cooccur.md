@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go with, fall together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go with, fall together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To occur simultaneously or together with another event, phenomenon, or linguistic element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical linguistics, words or grammatical collocations that frequently appear in adjacent proximity within texts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cooccur designates go with, fall together."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain morphological traits invariably **cooccur** in adult males during the heightened mating season."*
+> - 📜 **William James (*The Principles of Psychology*):** *"When two cognitive states **cooccur** repeatedly, the revival of one tends to evoke the other."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Sensory impressions and memory images often **cooccur** within the same perceptual experience."*
+

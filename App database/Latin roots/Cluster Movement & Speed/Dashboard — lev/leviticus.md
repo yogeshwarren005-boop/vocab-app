@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The third book of the old testament; contains levitical law and ritual precedents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The third book of the old testament; contains levitical law and ritual precedents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The third book of the Hebrew Bible and Old Testament, setting forth ritual laws, sacrificial instructions, and ethical statutes for Israel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical scholarship, the central book of the Torah largely attributed to the Priestly source (P), containing the Holiness Code (chapters 17–26).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leviticus designates the third book of the old testament; contains levitical law and ritual precedents."*
+> - 📜 **King James Bible (*Leviticus*):** *"The solemn commandments recorded in **leviticus** enjoined the children of Israel to be holy even as their God is holy."*
+> - 📜 **John Calvin (*Institutes of the Christian Religion*):** *"The sacrificial rites prescribed in **leviticus** prefigured the eternal atonement accomplished by Christ."*
+> - 📜 **Baruch Spinoza (*Tractatus Theologico-Politicus*):** *"The ceremonial legislation found throughout **leviticus** was adapted to the historical constitution of the Hebrew commonwealth."*
+

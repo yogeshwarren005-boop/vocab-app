@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add salt to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add salt to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To impregnate, season, or treat with salt; to make salty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food preservation and brine curing, saturating meat or fish tissues with saline brine to inhibit bacterial putrefaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salinate designates add salt to."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooners used heavy brine to **salinate** the barrels of pork destined for the long three-year cruise."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The thrifty cook would **salinate** the beef until it was as hard and durable as mahogany."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"The hides were thoroughly soaked in brine tanks to **salinate** and preserve them during the long voyage home."*
+

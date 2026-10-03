@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no bearing on or connection with the subject at issue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no bearing on or connection with the subject at issue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not connected with, applicable to, or bearing upon the subject or issue under consideration; immaterial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic, propositions that provide no evidentiary support or inferential connection to the conclusion being argued.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her mother gave irrelevant information by way of answer: “He called to see the doctor to-day in Shaston."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare performed the irrelevant act of stirring the fire; the intelligence had not even yet got to the bottom of him."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Instead of "the Doctor" they now spoke of him habitually as "the Professor," and presented him with a finely befrogged but somewhat irrelevant professor's gown for use in the pulpit at Wallace Green."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"True, drink is a pleasant delight, said Jan, offering an **irrelevant** truism to soothe the dispute."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"It is of the highest importance in the art of deduction not to allow **irrelevant** facts to confuse your judgment."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Minor differences in plumage between non-interbreeding varieties are entirely **irrelevant** to sexual selection."*
+

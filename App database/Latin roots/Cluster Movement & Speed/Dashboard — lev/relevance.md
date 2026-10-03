@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of something to the matter at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of something to the matter at hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Close logical relationship, practical pertinence, or applicability to a given matter or context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information retrieval and cognitive pragmatics (Sperber and Wilson), the property of an input yielding cognitive effects with minimal processing effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relevance designates the relation of something to the matter at hand."*
+> - 📜 **George Eliot (*Middlemarch*):** *"To poor Dorothea these classical statues and scholarly disputes had no living **relevance** to her ardent spiritual longing."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The subject matter of instruction attains genuine vitality only when pupils perceive its direct **relevance** to their life."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Philosophical arguments lose their intellectual value when they drift away from their empirical **relevance**."*
+

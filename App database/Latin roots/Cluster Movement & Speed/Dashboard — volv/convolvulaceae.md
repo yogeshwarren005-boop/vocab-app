@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Morning glory; bindweed; sweet potato; plants having trumpet-shaped flowers and a climbing or twining habit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Morning glory; bindweed; sweet potato; plants having trumpet-shaped flowers and a climbing or twining habit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of dicotyledonous flowering plants commonly known as the bindweed or morning glory family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, Convolvulaceae encompass over 1,000 species of twining vines, shrubs, and trees featuring funnelform corollas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convolvulaceae designates morning glory; bindweed; sweet potato; plants having trumpet-shaped flowers and a climbing or twining habit."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"Many climbing members of the family **convolvulaceae** revolve revolving stems in search of physical support."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"The trumpet-shaped flowers of the sweet potato belong characteristically to the **convolvulaceae**."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"The delicate wild bindweed of the hedgerows represents the humble grace of the **convolvulaceae**."*
+

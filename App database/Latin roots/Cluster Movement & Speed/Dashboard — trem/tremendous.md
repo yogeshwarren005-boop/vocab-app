@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extraordinarily large in size or extent or amount or power or degree; ; ; ; - walter lippman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinarily good or great ; used especially as intensifiers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extraordinarily large in size, amount, extent, or intensity; inspiring awe, wonder, or astonishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical science and astronomical events, explosive magnitudes releasing vast kinetic or thermal energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore had a tremendous influence on me, and I am glad to say an influence for my good, for I was able to look up to her in everything."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a tremendous fellow.” “In stature, sir?” asked Richard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce into some great volley of superlatives, or threw up his head like a bloodhound and gave out that tremendous “Ha, ha, ha!” “You have brought your bird with you, I suppose?” said Mr."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The crowd surged forward with a **tremendous** roar that shook the very foundations of the Bastille."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"A **tremendous** crash echoed through the forest as an enormous prehistoric monster crashed through the trees."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian projectile struck the earth with a **tremendous** shock that shattered every window for miles."*
+

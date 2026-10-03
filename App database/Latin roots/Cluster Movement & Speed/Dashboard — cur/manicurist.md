@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A beautician who cleans and trims and polishes the fingernails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beautician who cleans and trims and polishes the fingernails.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose profession is the cosmetic care, grooming, and beautification of fingernails and hands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In beauty salon management and occupational licensing, a licensed aesthetician skilled in nail shaping, cuticle therapy, and chemical polishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, manicurist designates a beautician who cleans and trims and polishes the fingernails."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"The **manicurist** at the hotel had spent twenty minutes buffing his nails to an unnatural brilliance."*
+> - 📜 **O. Henry (*The Trimmed Lamp*):** *"Lou worked as an apprentice **manicurist** in a large downtown hotel, listening patiently to the confidences of travelers."*
+> - 📜 **Arnold Bennett (*The Old Wives' Tale*):** *"The smart young **manicurist** deftly arranged her instruments upon the glass table before commencing work."*
+

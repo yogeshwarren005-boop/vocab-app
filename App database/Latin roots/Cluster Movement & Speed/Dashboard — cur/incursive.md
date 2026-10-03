@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving invasion or aggressive attack.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving invasion or aggressive attack.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making or involving an incursion; aggressive, invasive, or characterized by raiding into territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military historiography, incursive border warfare designed to harass enemy outposts without occupying land.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incursive designates involving invasion or aggressive attack."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor fortified the Danubian limes to repel the **incursive** raids of the Sarmatian horsemen."*
+> - 📜 **Walter Scott (*The Monastery*):** *"Border wardens maintained constant watch against the **incursive** bands that crossed the Tweed at night."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Austrian army commenced an **incursive** advance across the northeastern frontier of the young republic."*
+

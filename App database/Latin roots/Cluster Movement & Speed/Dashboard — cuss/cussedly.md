@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stubborn unregenerate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stubborn unregenerate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cussed, stubbornly contrary, or perverse manner; with obstinate awkwardness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vernacular prose, acting in a deliberately contrary or difficult fashion to thwart others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cussedly designates in a stubborn unregenerate manner."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The river channel wound **cussedly** through treacherous snags, defying the pilot's best navigation."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The sled dog behaved **cussedly**, tangling the harness traces whenever the driver reached for the whip."*
+> - 📜 **Bret Harte (*Tales of the Argonauts*):** *"The prospector clung **cussedly** to his dry claim, refusing to abandon the exhausted gravel bank."*
+

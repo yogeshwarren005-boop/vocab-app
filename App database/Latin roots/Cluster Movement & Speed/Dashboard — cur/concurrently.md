@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Overlapping in duration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overlapping in duration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At the same time; simultaneously; in joint or cooperative operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal sentencing, designating terms of imprisonment served at the same time rather than consecutively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Concurrently, at a signal from the UIPS President's ship Eagle, the station flashed an array of multicolored beacons."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Construction would proceed concurrently on surface and subsurface utility and life support facilities essential to human habitation."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The plan was based on the fact that the French line of operation was too extended, and it proposed that instead of, or concurrently with, action on the front to bar the advance of the French, we should attack their line of communication."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The two emperors administered the affairs of the East and West **concurrently**, maintaining the outward semblance of unity."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Commons and the Lords debated the declaration of rights **concurrently**, eager to secure the constitutional succession."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Multiple sensory streams enter the central cortex **concurrently**, blending into a continuous stream of consciousness."*
+

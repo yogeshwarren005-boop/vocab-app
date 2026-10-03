@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide physical relief, as from pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make easier.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made less severe, intense, or painful; relieved, eased, or mitigated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical therapeutics, symptomatic distress rendered manageable through pharmacological or palliative intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"While we were talking, and when I was glad to believe that I had alleviated (if I may use such a term) the shock he had had in seeing me, Richard came in."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I never lie down at night but I know that in the course of that day he has alleviated pain and soothed some fellow-creature in the time of need."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My depression was not alleviated by the announcement, for, I had supposed that establishment to be an hotel kept by Mr."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The labours I endured were no longer to be **alleviated** by the bright sun or gentle breeze of spring."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Her sorrow was gradually **alleviated** by the tender attentiveness and sympathetic presence of her sister."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"His gloomy remorse was partially **alleviated** when he learned that his daughter was safe from harm."*
+

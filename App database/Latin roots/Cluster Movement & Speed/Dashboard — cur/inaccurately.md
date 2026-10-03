@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inaccurate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inaccurate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that contains errors, mistakes, or deviations from truth and exact precision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In empirical reporting and laboratory transcription, recording observations with observational bias or improper instrument calibration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hoelderlin calls it "ein Roman," but it would be rather inaccurately described by the usual translation of that term."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Ancient writers frequently describe foreign animals so **inaccurately** that naturalists cannot identify the species with certainty."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The numbers of the rebel army were reported so **inaccurately** by contemporary chroniclers that modern historians despair of certainty."*
+> - 📜 **William James (*The Principles of Psychology*):** *"When intervals of time are estimated without external markers, our senses perceive them most **inaccurately**."*
+

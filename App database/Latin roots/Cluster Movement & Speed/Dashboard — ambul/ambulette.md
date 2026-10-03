@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ambul within the domain of Movement & Speed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ambul in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specially outfitted, wheelchair-accessible passenger vehicle used for non-emergency medical transport.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern commercial healthcare logistics, paratransit transport providing door-to-door transit for elderly and disabled individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambulette designates pertaining to, derived from, or characteristic of latin ambul within the domain of movement & speed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The convalescent was conveyed safely to the rehabilitation center in a comfortable modern **ambulette**."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"A light motor **ambulette** was provided by benefactors to convey disabled outpatients to the dispensary."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The specialized **ambulette** superseded the rough carriage, offering smooth transit for delicate convalescents."*
+

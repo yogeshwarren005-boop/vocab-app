@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not involved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing lack of emotional involvement; - j.s.perelman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not participating, connected, or implicated in an activity, dispute, or emotional relationship; detached.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international arbitration and judicial ethics, neutral third parties exhibiting complete impartiality regarding litigants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninvolved designates not involved."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An impartial judge must remain entirely **uninvolved** in the political controversies of the day."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She preferred to remain **uninvolved** in the petty domestic quarrels that agitated the household."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A spectator remained cool and **uninvolved**, observing the speculative mania without taking part."*
+

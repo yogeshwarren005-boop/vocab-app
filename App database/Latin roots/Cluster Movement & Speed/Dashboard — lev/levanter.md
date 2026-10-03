@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An easterly wind in the western mediterranean area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An easterly wind in the western mediterranean area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong, easterly Mediterranean wind blowing through the Strait of Gibraltar; or one who absconds or defaults on debts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical meteorology, a damp, cloudy easterly gale that builds heavy swells against the western entrance of the Mediterranean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So that Monsoons, Pampas, Nor-Westers, Harmattans, Trades; any wind but the Levanter and Simoom, might blow Moby Dick into the devious zig-zag world-circle of the Pequod’s circumnavigating wake."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And then came "a tempestuous wind, called Euroclydon." And that was the Levanter of to-day, Euraquilo, they call it--hell let loose."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So that Monsoons, Pampas, Nor’-Westers, Harmattans, Trades; any wind but the Levanter and Simoon, might blow Moby Dick into the devious zig-zag world-circle of the Pequod’s circumnavigating wake."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"So that Monsoons, Pampas, Nor'-Westers, Harmattans, Trades; any wind but the **levanter** and the Simoom had blown in our teeth."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The damp easterly **levanter** swept across the bay, wrapping the Rock of Gibraltar in a dense shroud of fog."*
+> - 📜 **Charles Lever (*The Confessions of Harry Lorrequer*):** *"The notorious **levanter** was seen slipping toward the packet boat, leaving a trail of unpaid debts behind him."*
+

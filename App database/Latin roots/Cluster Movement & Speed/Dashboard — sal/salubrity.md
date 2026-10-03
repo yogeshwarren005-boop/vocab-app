@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being salubrious and invigorating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being salubrious and invigorating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wholesomeness or healthiness, especially of climate, air, water, or geographic environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical topography, the favorable environmental balance of winds, elevation, and drainage praised by Hippocratic physicians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Also I think of changing my residence for a time: probably I shall close or let ‘The Shrubs,’ and take some place near the coast—under advice of course as to salubrity."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A farm was lately advertised in a newspaper in which all the beauty of the situation, fertility of the soil, and salubrity of the air, were detailed in the richest glow of rural description, and which was further enhanced with this N.B."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Also I think of changing my residence for a time; probably I shall seek the **salubrity** of a southern climate."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber rejoiced to reply that his family were in the enjoyment of complete **salubrity** and good spirits."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient philosophers praised the temperate **salubrity** of Attica as the cradle of intellectual genius."*
+

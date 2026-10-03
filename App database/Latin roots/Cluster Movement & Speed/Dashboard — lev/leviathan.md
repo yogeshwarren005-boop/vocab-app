@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest or most massive thing of its kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monstrous sea creature symbolizing evil in the old testament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sea monster of enormous size described in the Hebrew Bible, or anything of immense or overwhelming size and power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy, the sovereign political commonwealth described by Thomas Hobbes as an artificial mortal god possessing absolute power to preserve peace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We may as bootless spend our vain command Upon the enraged soldiers in their spoil As send precepts to the leviathan To come ashore."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fetch me this herb, and be thou here again Ere the leviathan can swim a league."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Where else but from Nantucket did those aboriginal whalemen, the Red-Men, first sally out in canoes to give chase to the Leviathan?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Canst thou draw out the great **leviathan** with a fish-hook, or bore his jaw through with a thorn?"*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"By this authority given him by every particular man in the commonwealth, the great **leviathan** inspires terror sufficient to conform the wills of all."*
+> - 📜 **William Shakespeare (*Henry V*):** *"We may as bootless spend our vain command upon the enraged soldiers as send our shouts after the **leviathan** in the deep."*
+

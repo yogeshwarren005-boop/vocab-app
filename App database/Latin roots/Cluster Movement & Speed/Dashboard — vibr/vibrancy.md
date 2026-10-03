@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of a loud deep sound; the quality of being resonant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the character of a loud deep sound; the quality of being resonant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vivid energy, lively resonance, or intense, striking brightness in tone, color, or spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical acoustics and aesthetic criticism, the rich harmonic resonance of an instrument or the radiant luminosity of painted colors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Returns' imply 'investments.' As grandparents age, their 'investment' is transformed into a 'return.' The 'return' contributes vitality, vibrancy and enrichment to a grandparent's latter years."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The extraordinary **vibrancy** of Turner's sunset skies derives from pure pigment applied with fiery passion."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His voice possessed an alluring **vibrancy** that held the listener entranced by its musical cadences."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The blue air seemed charged with an intense **vibrancy**, trembling over the dunes in the morning sun."*
+

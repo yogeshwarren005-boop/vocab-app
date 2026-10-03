@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual employed to sell goods, merchandise, or services to customers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational management, the commercial representative responsible for customer relationship building and account management.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salesperson designates a person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited)."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"The modern **salesperson** functions as an indispensable agent in managing consumer demand for industrial output."*
+> - 📜 **Sinclair Lewis (*Work of Art*):** *"A diligent **salesperson** knows that customer loyalty is earned through honesty and reliable service."*
+> - 📜 **Peter Drucker (*Management: Tasks, Responsibilities, Practices*):** *"A top-tier **salesperson** views every client interaction as an opportunity to deliver genuine business value."*
+

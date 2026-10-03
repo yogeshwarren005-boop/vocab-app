@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being extreme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being extreme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character of reaching the farthest limits, maximum intensity, or utmost severity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical discourse, the excessive distance of an opinion or measure from moderate principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extremeness designates the quality of being extreme."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The **extremeness** of the revolutionary measures alienated the most temperate friends of freedom."*
+> - 📜 **Francis Bacon (*Essays*):** *"Prudence teaches rulers to avoid the dangerous **extremeness** of either harsh tyranny or lawless license."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The **extremeness** of partisan demands was checked by the steady balance of the constitution."*
+

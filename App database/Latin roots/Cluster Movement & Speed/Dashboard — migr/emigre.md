@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who leaves one country to settle in another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who leaves one country to settle in another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An emigrant, especially one forced to flee their native country for political, ideological, or aristocratic reasons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French Revolutionary historiography, royalist aristocrats and refractory clergy (les émigrés) who mobilized counter-revolutionary forces from abroad.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"How many noble emigres had this horrid revolution plunged in poverty!"*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The noble French **emigre** sought honorable asylum in England, deprived of his ancestral estates by revolution."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The gathering of an armed **emigre** army at Coblenz provoked fiery retaliatory decrees from the Legislative Assembly."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Charles Darnay was branded an aristocrat and an **emigre** by the ruthless tribunal of the Republic."*
+

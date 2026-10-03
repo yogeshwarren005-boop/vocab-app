@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coursers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coursers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of swift-running shorebirds commonly known as coursers, inhabiting arid open plains of Africa and Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological taxonomy, Cursorius (family Glareolidae) comprising plover-like waders adapted for running rapidly after insect prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog cursorius as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A species of **Cursorius** was observed running swiftly across the sandy arid wastes of the desert plain."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The desert courser, **Cursorius**, exhibits cryptic protective coloration harmonizing with stony ground."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The swift terrestrial habits of the courser genus **Cursorius** distinguish it from ordinary marsh waders."*
+

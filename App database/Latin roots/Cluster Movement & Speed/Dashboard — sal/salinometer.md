@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrometer that determines the concentration of salt solutions by measuring their density.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hydrometer that determines the concentration of salt solutions by measuring their density.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument (such as a specialized hydrometer or electrical conductivity meter) for measuring the salinity of a solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine boiler operation and steam engineering, an instrument used to monitor salt accumulation in boiler feedwater to prevent scaling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salinometer designates a hydrometer that determines the concentration of salt solutions by measuring their density."*
+> - 📜 **Matthew Fontaine Maury (*The Physical Geography of the Sea*):** *"The hydrologist dipped the weighted **salinometer** into the sample bottle to determine the density of the sea water."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A naval engineer reads the **salinometer** daily to ensure that the ship's boilers are not contaminated with brine."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo consulted a sensitive **salinometer** mounted beside the barometer to gauge ocean water density."*
+

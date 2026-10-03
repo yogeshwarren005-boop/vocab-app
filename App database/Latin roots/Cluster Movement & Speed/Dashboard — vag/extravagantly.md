@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abundant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a wasteful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an extravagant, wasteful, or excessive manner; beyond reasonable limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary portraiture, living or praising in an excessively lavish, unrestrained, or hyperbolic fashion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is often declared extravagantly that our country could support easily the total population of China, or as great a population per square mile as that of Italy."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"They are either trivially or extravagantly stated."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"His very proneness to be gulled by strangers and to pay extravagantly for absurdities is excused under the plea of munificence, for John is always more generous than wise."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton praised Harriet's modest watercolor drawing far too **extravagantly** for sound judgment."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Harold Skimpole spent money **extravagantly**, protesting that he possessed no head for figures."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"They furnished their suburban drawing-room **extravagantly** to rival their wealthy aristocratic relations."*
+

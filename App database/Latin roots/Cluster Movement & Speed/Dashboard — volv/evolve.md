@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo development or evolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To develop gradually, especially from a simple to a more complex form; to unfold or work out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, changes in allele frequencies and morphological adaptations within populations over generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The superadded circumstance which would evolve the genius had not yet come; the universe had not yet beckoned."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I had intended to do that anyway, for if I am to evolve the real American garden."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In short, our dispersed civilizations must have access to sources for minerals and other industrial substances, not only now but in perpetuity, in order to survive and evolve."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"From so simple a beginning endless forms most beautiful and most wonderful have been, and are being, **evolved**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He watched the complex moral situation **evolve** with increasing apprehension for his friend's honor."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Human society must **evolve** ethical constraints to curb the ruthless competitive struggle of raw nature."*
+

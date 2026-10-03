@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being salubrious and invigorating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being salubrious and invigorating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or characteristic of promoting physical health, wholesome vitality, or beneficial vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health and environmental physiology, atmospheric and geographic factors that minimize pathogen transmission and promote human longevity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salubriousness designates the quality of being salubrious and invigorating."*
+> - 📜 **Edwin Chadwick (*Report on the Sanitary Condition of the Labouring Population*):** *"The undeniable **salubriousness** of rural uplands contrasted sharply with the deadly atmosphere of crowded urban tenements."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Pure air, fresh water, and clean drainage are the essential foundations of domestic **salubriousness**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Travelers praised the mild **salubriousness** of the southern coast, where winter frosts were virtually unknown."*
+

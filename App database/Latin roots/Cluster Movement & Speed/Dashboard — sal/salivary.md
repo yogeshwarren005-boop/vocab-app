@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to saliva.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to saliva.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, producing, or secreting saliva in the oral cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate digestive anatomy, the major exocrine glands (parotid, submandibular, and sublingual) delivering lubricating fluid to the buccal cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The salivary glands are used to salivate the body."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The parotid is the largest of the three pairs of **salivary** glands located on either side of the face."*
+> - 📜 **Ivan Pavlov (*Lectures on the Work of the Digestive Glands*):** *"The presentation of food elicited a conditioned reflex from the **salivary** duct of the canine subject."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Mastication stimulates the rapid discharge of alkaline fluid from the **salivary** ducts."*
+

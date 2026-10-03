@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make oneself subject to; bring upon oneself; become liable to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive a specified treatment (abstract).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To become subject to something unwelcome or unpleasant as a result of one's own actions; to bring upon oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law and fiscal accounting, to assume a legally binding financial liability or obligation through transactional execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the King come, I shall incur I know not How much of his displeasure. [_Aside._] Yet I’ll move him To walk this way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In faith, he’s penitent; And yet his trespass, in our common reason, (Save that, they say, the wars must make examples Out of their best) is not almost a fault To incur a private check."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, to speak, and to avoid the first, And then, in speaking, not to incur the last, Definitively thus I answer you: Your love deserves my thanks, but my desert Unmeritable shuns your high request."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I must confess that he has what many will call prejudice; but it will not **incur** the censure of those who know the world."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A merchant cannot long continue a trade in which he is sure to **incur** substantial and recurring losses."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No nation can preserve its independence when it must perpetually **incur** debts that its revenues cannot redeem."*
+

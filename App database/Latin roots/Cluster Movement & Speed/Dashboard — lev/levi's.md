@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular brand of jeans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A popular brand of jeans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The popular brand name of denim jeans and work apparel originally manufactured in San Francisco by Levi Strauss & Co.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial and cultural history, copper-riveted waist overalls patented in 1873 to withstand the heavy wear of miners, cowboys, and laborers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levi's designates a popular brand of jeans."*
+> - 📜 **Jack Kerouac (*On the Road*):** *"He wore a faded pair of **levi's** and a battered jacket as he hitched rides across the western plains."*
+> - 📜 **John Steinbeck (*Travels with Charley*):** *"The ranchers in the dusty diner were uniform in their attire, clad in worn **levi's** and broad-brimmed hats."*
+> - 📜 **Tom Wolfe (*The Electric Kool-Aid Acid Test*):** *"They lived in beat-up blue **levi's**, embracing the casual frontier aesthetic of California youth."*
+

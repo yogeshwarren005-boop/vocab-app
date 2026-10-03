@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At an earlier time or formerly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an earlier time or formerly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At an earlier time or on a former occasion; beforehand, antecedently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and scientific reporting, prior established precedents or baseline experimental observations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Much discomposed in her nerves (which were previously in the best order) by this threat, she so fearfully mutilates that point of state as to announce “Mr. and Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Caddy had previously stolen upstairs to hug the children again and tell them that her name was Turveydrop."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We found it quieter than I had previously seen it, though quite as miserable."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes had **previously** examined the walking-stick before Watson ventured his own deduction."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species that had **previously** inhabited a wide continental range were gradually restricted to island refuges."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor had **previously** formed a high opinion of Edward's moral integrity and modest character."*
+

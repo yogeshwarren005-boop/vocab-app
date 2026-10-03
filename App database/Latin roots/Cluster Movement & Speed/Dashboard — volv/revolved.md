@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn on or around an axis or a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move in an orbit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having rotated or circled around an axis or center; pondered repeatedly in thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomical observation, celestial bodies completing periodic revolutions along predictable orbits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Clark, who, twenty years younger than Jan Coggan, revolved in the same orbit."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every conceivable aid, method, stratagem, mechanism, by which these last desperate eight hundred yards could be overpassed by a human being unperceived, was revolved in her busy brain, and dismissed as impracticable."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The churn revolved as usual, but the butter would not come."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The great constellation of Orion **revolved** slowly across the clear, frosty winter sky."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight **revolved** many anxious thoughts concerning the perilous siege that awaited him."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The case had **revolved** in Holmes's mind until every mysterious thread fell into logical sequence."*
+

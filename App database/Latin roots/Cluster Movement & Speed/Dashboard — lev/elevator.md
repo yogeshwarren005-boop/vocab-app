@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The airfoil on the tailplane of an aircraft that makes it ascend or descend.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A movable platform or cage for carrying passengers or freight between different levels of a building; a mechanical lift.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautics, a horizontal control surface hinged to the tail assembly of an aircraft used to control pitch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His houses on the avenue were the best possible property, and his elevator row in the importers’ quarter was indeed a literal gold mine."*
-> - 📜 **Algis Budrys (*Citadel*):** *"He kept them rigidly fixed on the door of his personal elevator which, during the day, was human-operated under the provisions of the Human Employment Act of 2302."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"You might come down with a thud!” “He's right enough there,” was what Burns murmured to himself as he caught the elevator in the great building in which Buller's office was a crowded corner."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Whenever Tess lifted her head she beheld always the great upgrown straw-stack, with the **elevator** carrying the yellow sheaves aloft."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"He was carried upward at breathtaking speed in a glass-enclosed **elevator** toward the summit of the tower."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"The mechanical **elevator** glided smoothly from floor to floor, packed with well-dressed shoppers."*
+

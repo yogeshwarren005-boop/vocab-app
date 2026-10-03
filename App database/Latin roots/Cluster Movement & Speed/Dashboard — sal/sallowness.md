@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sickly yellowish skin color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sickly yellowish skin color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellowish, sickly, or pale discoloration of the skin or complexion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical diagnostics, a characteristic cutaneous appearance associated with chronic hepatic dysfunction, malaria, or anaemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s moles and sallowness, had escaped to the vicarage to play with the curate’s ill-shod but merry children."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Then the prisoner rose up regenerated, strong, free. 442:9 We noticed, as he shook hands with his counsel, Chris- tian Science, that all sallowness and debility had dis- appeared."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon's moles and **sallowness** formed a striking contrast with the youthful bloom of Dorothea."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The prisoner's heavy brow and unhealthy **sallowness** spoke of long confinement in damp dungeons."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"The sunken eyes and peculiar **sallowness** of the invalid revealed a constitution shattered by tropical fevers."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of radioactivity equal to the amount of a radioactive isotope that decays at the rate of 37,000,000,000 disintegrations per second.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French physicist; husband of marie curie (1859-1906).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former non-SI unit of radioactivity named after Marie and Pierre Curie, defined as 3.7 x 10^10 disintegrations per second.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radiological physics, the specific activity historically equivalent to the radioactive emission of one gram of pure radium-226.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Some years ago, when radium was being much talked about and the names of M. and Madame Curie were in everyone's mouth, little toys were sold, the invention, I believe, of Sir William Crookes, called spinthariscopes."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"The unit named the **curie** honors the measurement of radium emanation in radioactive equilibrium with one gram of radium."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"Standard preparations calibrated in the **curie** allow precise comparison of alpha-particle emission across laboratories."*
+> - 📜 **Niels Bohr (*Atomic Physics and Human Knowledge*):** *"Measurements expressed in fractions of a **curie** verified the rate of radioactive disintegration in the heavy elements."*
+

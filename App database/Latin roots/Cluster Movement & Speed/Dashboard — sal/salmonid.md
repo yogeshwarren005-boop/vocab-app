@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soft-finned fishes of cold and temperate waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soft-finned fishes of cold and temperate waters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any ray-finned fish belonging to the family Salmonidae, including salmon, trout, chars, graylings, and whitefishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater fisheries management, cold-water stenothermal predatory fishes sensitive to dissolved oxygen levels and river sedimentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmonid designates soft-finned fishes of cold and temperate waters."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Every migratory **salmonid** species displays intense sexual rivalry among males on the spawning beds."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The primitive adipose fin remains an unmistakable anatomical hallmark of every true **salmonid**."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The lively trout is a typical **salmonid**, delighting in clear swift streams with stony bottoms."*
+

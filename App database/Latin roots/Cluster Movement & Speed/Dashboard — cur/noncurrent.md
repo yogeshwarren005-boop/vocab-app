@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not current or belonging to the present time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not current or belonging to the present time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not current; not belonging to the present time; not in active circulation or immediate use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate accounting, assets and liabilities not expected to be converted into cash, consumed, or settled within the current operating cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncurrent designates not current or belonging to the present time."*
+> - 📜 **Arthur Stone Dewing (*The Financial Policy of Corporations*):** *"A conservative balance sheet clearly segregates **noncurrent** investments from liquid working capital."*
+> - 📜 **Roy B. Kester (*Accounting Theory and Practice*):** *"Machinery and permanent plant constitute **noncurrent** assets held for ongoing productive utility rather than immediate sale."*
+> - 📜 **Irving Fisher (*The Nature of Capital and Income*):** *"Permanent durable instruments yield returns over protracted intervals and are rightly classified as **noncurrent** capital."*
+

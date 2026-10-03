@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not volatilizing readily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not volatilizing readily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being converted into gas or vapor; resistant to volatilization under standard conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical metallurgy, refractory metals and inorganic silicates that resist sublimation in open crucibles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonvolatilisable designates not volatilizing readily."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"The metallic slag proved entirely **nonvolatilisable** at the highest temperature attainable by the forge."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Certain earthy earths are found to be stubbornly **nonvolatilisable** under prolonged calcination."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The mineral ash left by combustion consists of **nonvolatilisable** carbonates and oxides."*
+

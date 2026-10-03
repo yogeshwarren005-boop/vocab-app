@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or operating at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or operating at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing, happening, or operating at the same time; joint or acting in conjunction with another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and topology, describing three or more lines or planes that intersect at a single identical point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Let but a flute Play ’neath the fine-mixed metal: listen close Till the right note flows forth, a silvery rill: Then shall the huge bell tremble—then the mass With myriad waves concurrent shall respond In low soft unison."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This, I contend, is manifestly a concurrent and coequal authority in the United States and in the individual States."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will be shown in the next paper that this CONCURRENT JURISDICTION in the article of taxation was the only admissible substitute for an entire subordination, in respect to this branch of power, of the State authority to that of the Union."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Let but a flute play 'neath the fine-mixed metal: listen close till the right note flows forth, a singular tone made of **concurrent** vibrations."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"We know nothing positively on this head, but from the **concurrent** testimony of all travellers, infant mortality among savages is high."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"When several causes are **concurrent**, each produces its full effect as if the others were not operating."*
+

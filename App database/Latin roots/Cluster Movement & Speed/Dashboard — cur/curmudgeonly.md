@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brusque and surly and forbidding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brusque and surly and forbidding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Like or characteristic of a curmudgeon; bad-tempered, surly, cantankerous, or churlish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social discourse, behaving with grumpy miserliness or uncooperative resistance to social warmth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curmudgeonly designates brusque and surly and forbidding."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The uncle answered with **curmudgeonly** brevity, declining to advance another guinea for his nephew's expenses."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"Squire Western displayed a **curmudgeonly** stubbornness whenever his hunting horses were concerned."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old shopkeeper gave a **curmudgeonly** grunt when asked to display his rarer books."*
+

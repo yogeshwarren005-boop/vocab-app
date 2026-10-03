@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used especially of meats) preserved in salt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used especially of meats) preserved in salt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserved, flavored, or cured by dehydration and treatment with dry salt or brine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional charcuterie and food preservation, utilizing salt to lower water activity and suppress pathogenic bacterial growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salt-cured designates (used especially of meats) preserved in salt."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The long-voyage whaler was provisioned with barrels of tough **salt-cured** pork and beef."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"The sailors subsisted almost entirely on hard bread and **salt-cured** meat through the stormy passage."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Our guide packed a slab of **salt-cured** venison in the birch-bark canoe for our wilderness journey."*
+

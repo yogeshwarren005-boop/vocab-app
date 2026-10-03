@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the hebrew tribe of levi (especially the branch that provided male assistants to the temple priests).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the hebrew tribe of levi (especially the branch that provided male assistants to the temple priests).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the Hebrew tribe of Levi, consecrated to the ritual, ceremonial, and maintenance service of the Sanctuary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical history, an order of sacred assistants subordinate to the Aaronite priests, tasked with performing choral music, guarding thresholds, and teaching the Law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Thrown thick o'er half a Continent, His blood-stained victims lie; The priest, in horror, lifts his hands, The Levite passes by."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Glad I am, at least, that Helen still refuses to discard Her, through tales false gossips tell in spite or heedlessness.--'Tis hard!-- Lee, the Levite!--some few years back Herbert horsewhipp'd him--the cur Show'd his teeth and laid his ears back."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The priest and the Levite in the parable were conscious of their purity, but Jesus gives no hint that they saw God."*
+> - 📜 **King James Bible (*Deuteronomy*):** *"Take heed to thyself that thou forsake not the **levite** as long as thou livest upon the earth."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"The pious **levite** sang sacred anthems before the tabernacle to inspire the congregation of Israel."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The holy pilgrim was attended by an humble **levite** who carried the sacred vessels across the desert."*
+

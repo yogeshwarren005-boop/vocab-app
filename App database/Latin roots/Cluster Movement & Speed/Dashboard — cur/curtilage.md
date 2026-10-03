@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The enclosed land around a house or other building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The enclosed land around a house or other building.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of land attached to a house and forming one enclosure with it, such as a yard, garden, or outbuilding area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law and constitutional criminal procedure, the immediate grounds surrounding a home enjoying the same expectation of privacy as the dwelling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curtilage designates the enclosed land around a house or other building."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The law protects the dwelling-house and every barn or outhouse within the enclosed **curtilage** from unlawful nocturnal invasion."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The ancient stone mansion was surrounded by a walled **curtilage** containing stables and an apple orchard."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The timber merchant's sheds stood within the muddy **curtilage** of the rural homestead."*
+

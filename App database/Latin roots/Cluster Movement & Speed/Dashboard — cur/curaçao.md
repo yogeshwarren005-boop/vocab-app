@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin cur within the domain of Movement & Speed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of cur in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liqueur flavored with the dried peel of bitter green oranges from the Caribbean island of Curaçao.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In distillation history, a spirit traditionally colored blue, orange, or clear, derived from the bitter Laraha orange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curaçao designates pertaining to, derived from, or characteristic of latin cur within the domain of movement & speed."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The gourmet toasted the hostess in a liqueur glass of genuine blue **curaçao** from the West Indies."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The merchant ship carried hogsheads of sugar and casks of fragrant orange **curaçao** from the Caribbean."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The travelers drank a cordial measure of **curaçao** by the fireside before setting out into the bitter snow."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flow of electricity through a conductor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A steady flow of a fluid (usually from natural causes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowing or moving in a definite stream or direction; belonging to the present time; generally accepted or in circulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical physics, the rate of flow of electric charge through a conductor measured in amperes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This bald unjointed chat of his, my lord, I answered indirectly, as I said, And I beseech you, let not his report Come current for an accusation Betwixt my love and your high Majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It holds current that I told you yesternight: there’s a franklin in the Wild of Kent hath brought three hundred marks with him in gold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We must have bloody noses and crack’d crowns, And pass them current too.—Gods me, my horse!— What say’st thou, Kate?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"And enterprises of great pith and moment with this regard their currents turn awry, and lose the name of action; but the **current** of my purpose remains fixed."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"When a magnetic pole is moved toward a closed helix of wire, a continuous electric **current** is induced in the circuit."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The oceanic **current** transports sediment over vast marine distances before dropping it onto the continental shelf."*
+

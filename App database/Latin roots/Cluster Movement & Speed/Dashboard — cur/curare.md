@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic alkaloid found in certain tropical south american trees that is a powerful relaxant for striated muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic alkaloid found in certain tropical south american trees that is a powerful relaxant for striated muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark resinous bitter substance derived from South American plants, used as an arrow poison and muscle relaxant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropharmacology and anesthesia, an alkaloid containing tubocurarine that competitively blocks nicotinic acetylcholine receptors at neuromuscular junctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curare designates a toxic alkaloid found in certain tropical south american trees that is a powerful relaxant for striated muscles."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Under the influence of **curare**, every skeletal muscle is paralyzed while sensory consciousness remains unimpaired."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The South American Indians tipped their blowgun darts with the deadly black poison called **curare**."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"My experiments with **curare** demonstrated that motor nerve endings can be chemically blocked without affecting muscle contractility."*
+

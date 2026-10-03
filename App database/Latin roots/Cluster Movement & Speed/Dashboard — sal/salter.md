@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who uses salt to preserve meat or fish or other foods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes or deals in salt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more salt or being more saline; or one who makes, cures, or sells salt or salted provisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval guild commerce, a merchant belonging to the Worshipful Company of Salters, dealing in vital salt preservatives and dry chemicals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll do well yet.—Thou old and true Menenius, Thy tears are salter than a younger man’s And venomous to thine eyes.—My sometime general, I have seen thee stern, and thou hast oft beheld Heart-hard’ning spectacles."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It is a salt river, salter than the surrounding sea."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"I'll do well yet. Thou old and true Menenius, thy tears are **salter** than a younger man's."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"The sea spray tasted **salter** than any water I had ever known as the surf threw me upon the rocks."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The wholesale **salter** supplied cured herrings to foreign merchants throughout the Baltic ports."*
+

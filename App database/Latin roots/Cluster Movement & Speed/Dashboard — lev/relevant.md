@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a bearing on or connection with the subject at issue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a bearing on or connection with the subject at issue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having significant and demonstrable bearing on or connection with the matter in hand; pertinent and applicable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological reasoning, evidence that raises or lowers the objective probability of a contested hypothesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The more relevant question for us is: How came he to wait till he was at least about thirty years old before he began to teach in public?"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes, and, indeed, he has little to do with my story.” “I am glad of all details,” remarked my friend, “whether they seem to you to be relevant or not.” “I shall try not to miss anything of importance."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Show costs in still accessible resources separately and integrate results with relevant commitments and schedules."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"These considerations are **relevant**, not to the estimation of actions, but of persons and motives."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Let us confine our attention strictly to the facts that are **relevant** to the mystery of the missing coronet."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Every anatomical detail of the cranial structure is highly **relevant** to our understanding of human descent."*
+

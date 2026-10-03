@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The second pillar of islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward mecca.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second pillar of islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward mecca.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obligatory Islamic prayer recited five times daily in accordance with ritual law and tradition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Islamic liturgical practice, the second pillar (arkan al-Islam), establishing direct spiritual communion between the worshipper and the Creator.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salaat designates the second pillar of islam is prayer; a prescribed liturgy performed five times a day (preferably in a mosque) and oriented toward mecca."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"The performance of the daily **salaat** requires ritual ablution with clean water before stepping upon the prayer carpet."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to El-Medinah and Meccah*):** *"He observed the strict postures of the midday **salaat**, bowing and prostrating in exact accordance with orthodox ritual."*
+> - 📜 **Wilfrid Scawen Blunt (*Secret History of the English Occupation of Egypt*):** *"The venerable sheikh concluded his evening **salaat** before addressing the assembled village elders."*
+

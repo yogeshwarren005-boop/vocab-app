@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of collapsing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of collapsing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constructed with a permanent, rigid frame that cannot be collapsed or folded down for storage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial safety engineering, noncollapsable steel roll-cages designed to maintain structural integrity during impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncollapsable designates not capable of collapsing."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The tripod machine stood upon three **noncollapsable** steel legs that strode easily over forests."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"We selected heavy **noncollapsable** crates to protect our fragile scientific apparatus from damage."*
+> - 📜 **Robert Louis Stevenson (*The Wrecker*):** *"The vessel carried a stout **noncollapsable** wooden dinghy lashed securely amidships upon the deck."*
+

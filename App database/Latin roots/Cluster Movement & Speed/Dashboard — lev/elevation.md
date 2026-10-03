@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of something being raised upward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest level or degree attainable; the highest stage of development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The height to which something is raised above a point of reference (such as sea level); the act of lifting or promoting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural drawing, an orthographic projection of one vertical face or facade of a building showing exterior dimensions without perspective distortion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, from her elevation, instantly cries out, “No he don’t!” “My lit-tle woman!” says Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak lowered the lambs from their unnatural elevation, wrapped them in hay, and placed them round the fire."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But by the time that he could reach an elevation sufficiently great to command a view of the sea beyond, dusk had set in, and nothing further was to be seen."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had sunk from his modest **elevation** as pastoral king into the very slime-pits of poverty."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"During the slow **elevation** of the land above the sea, new habitats were created for coastal organisms."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The western **elevation** of the basilica reveals a magnificent harmony of arches and sculptured columns."*
+

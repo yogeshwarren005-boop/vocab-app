@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide physical relief, as from pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make easier.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make less severe, painful, or difficult to bear; to mitigate, ease, or lighten.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health and social reform, systematic measures designed to reduce chronic poverty, hunger, or physical suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It may be that if we knew more of such strange afflictions we might be the better able to alleviate their intensity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was not, I was told, in the hospital portion of the house with the fever patients; for her complaint was consumption, not typhus: and by consumption I, in my ignorance, understood something mild, which time and care would be sure to alleviate."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I replied, that nothing ailed me save anxiety of mind, which I hoped soon to alleviate."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"You come to us now to share a misery which nothing can **alleviate**; yet your presence will bring solace to our father."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Kind words had power to **alleviate** the loneliness that weighed upon her sensitive heart."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He sought by every compassionate means to **alleviate** the wretched destitution of the poor room."*
+

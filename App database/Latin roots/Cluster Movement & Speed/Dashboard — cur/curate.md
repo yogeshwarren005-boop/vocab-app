@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to conduct religious worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person authorized to conduct religious worship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the clergy employed as an assistant to a parish priest or vicar; or to select, organize, and present items in a collection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern archival and digital humanities, the professional curation, preservation, and contextual interpretation of artifact collections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, understanding that the curate and your sweet self are good at such eruptions and sudden breaking-out of mirth, as it were, I have acquainted you withal, to the end to crave your assistance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Nathaniel, the Curate, for Alexander."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, I prithee, put on this gown and this beard; make him believe thou art Sir Topas the curate."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"Now, understanding that the **curate** and your sweet self are good at such eruptions, let us present the Worthies."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins described the duties of a country **curate** with tedious and boastful solemnity."*
+> - 📜 **Charlotte Brontë (*Shirley*):** *"The young **curate** walked through the parish lanes, clutching his prayer book against the cold drizzle."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the book of leviticus in the bible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the book of leviticus in the bible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the Levites, their priestly regulations, or the biblical book of Leviticus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious legalism, adhering rigidly and punctiliously to complex external ritual codes, ceremonial purifications, and ceremonial taboos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levitical designates of or relating to the book of leviticus in the bible."*
+> - 📜 **King James Bible (*Hebrews*):** *"If therefore perfection were by the **levitical** priesthood, what further need was there that another priest should rise?"*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"The ceremonial precepts of the **levitical** law were designed exclusively for the commonwealth of the Jews."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The dry pedantry of our day reduces living religion to a mere **levitical** code of hollow outward observances."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salamanders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salamanders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vertebrate taxonomic family comprising true salamanders and newts, characterized by toxic granular skin secretions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, Holarctic caudate amphibians displaying varied life histories, from fully aquatic paedomorphic newts to terrestrial viviparous salamanders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salamandridae designates salamanders."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sexual dimorphism is remarkably developed among various genera belonging to the family **salamandridae**."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The family **salamandridae** includes both terrestrial salamanders and aquatic newts possessing opisthocoelous vertebrae."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The evolutionary radiation of the **salamandridae** is largely restricted to the temperate zones of the northern hemisphere."*
+

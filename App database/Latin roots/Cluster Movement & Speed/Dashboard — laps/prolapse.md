@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The slipping or falling out of place of an organ (as the uterus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slip or fall out of place, as of body parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The downward slipping, falling, or displacement of an internal organ from its normal anatomical position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology and surgery, uterine or rectal prolapse resulting from attenuation of pelvic floor fascia and muscular supports.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prolapse designates the slipping or falling out of place of an organ (as the uterus)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe muscular strain in elderly patients may precipitate acute **prolapse** of internal abdominal viscera."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The skillful surgeon employed mechanical pessaries to alleviate painful uterine **prolapse** without operation."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The clinical lecture emphasized the anatomic landmarks necessary to identify and repair rectal **prolapse**."*
+

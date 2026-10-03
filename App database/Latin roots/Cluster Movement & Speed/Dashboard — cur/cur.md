@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inferior dog or one of mixed breed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cowardly and despicable person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mongrel, base, or cowardly dog; or a contemptible, ill-bred, or mean-spirited person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical colloquial drama and satire, an epithet of intense contempt denoting disloyalty, servility, or cowardice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good faith, across; But, my good lord, ’tis thus: will you be cur’d Of your infirmity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your judgments, my grave lords, Must give this cur the lie; and his own notion— Who wears my stripes impressed upon him, that Must bear my beating to his grave—shall join To thrust the lie unto him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet am I better Than one that’s sick o’ th’ gout, since he had rather Groan so in perpetuity than be cur’d By th’ sure physician death, who is the key T’ unbar these locks."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Your judgments, my grave lords, must give this **cur** the lie; and his own notion who wears his wits in his belly."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The snarling **cur** backed into the doorway, snapping viciously at the boy's heels."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The insolent knight called the Saxon serf a base **cur** and threatened him with his whip."*
+

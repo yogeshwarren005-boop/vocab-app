@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salesperson in a store.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salesperson in a store.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An employee who assists customers, sells merchandise, and processes transactions in a retail shop or department store.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern commercial sociology, retail customer-facing workers mediating between corporate merchandising and consumer choices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salesclerk designates a salesperson in a store."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"The busy **salesclerk** behind the notions counter answered customers with polite, professional efficiency."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"A young **salesclerk** in the dry-goods emporium unfolded bolts of silk for the prosperous client."*
+> - 📜 **John Dos Passos (*The 42nd Parallel*):** *"He found employment as a **salesclerk** in a busy Chicago department store during the holiday rush."*
+

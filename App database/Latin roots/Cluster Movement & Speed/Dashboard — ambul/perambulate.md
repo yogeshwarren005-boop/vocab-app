@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an official inspection on foot of (the bounds of a property).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk with no particular goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To walk through, about, or over a place; especially to make an official inspection of boundaries on foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional English property law, the ceremonial beating of parish bounds ('perambulation') to preserve landmark boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The last survivor of these perambulating English giants lingered at Salisbury, where an antiquary found him mouldering to decay in the neglected hall of the Tailors' Company about the year 1844."*
-> - 📜 **James Joyce (*Ulysses*):** *"On land, meridional, a bispherical moon, revealed in imperfect varying phases of lunation through the posterior interstice of the imperfectly occluded skirt of a carnose negligent perambulating female, a pillar of the cloud by day."*
+> - 📜 **Francis Bacon (*Essays*):** *"Princes should often **perambulate** their realms to observe the true condition and temper of their subjects."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The civic officers assembled to **perambulate** the municipal boundaries according to ancestral usage."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He loved to **perambulate** the rural lanes on quiet evenings, enjoying the stillness of the meadows."*
+

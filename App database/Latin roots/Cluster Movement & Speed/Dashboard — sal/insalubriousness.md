@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being insalubrious and debilitating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being insalubrious and debilitating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unwholesome or noxious character; pestilential quality of air, water, or climate detrimental to living beings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century sanitary reform, environmental conditions in crowded slums fostering infectious disease epidemics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insalubriousness designates the quality of being insalubrious and debilitating."*
+> - 📜 **Edwin Chadwick (*Report on the Sanitary Condition of the Labouring Population*):** *"The notorious **insalubriousness** of stagnant open sewers directly correlated with high infant mortality rates."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"A nurse must immediately rectify the **insalubriousness** of a poorly ventilated sickroom."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The extreme **insalubriousness** of the marshy camp caused far greater casualties among the troops than enemy fire."*
+

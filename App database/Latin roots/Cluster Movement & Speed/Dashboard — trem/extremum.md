@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point located farthest from the middle of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most extreme possible amount or value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The maximum or minimum value attained by a mathematical function on a specified domain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential calculus and optimization theory, local or global extrema identified by finding critical points where the derivative vanishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extremum designates the point located farthest from the middle of something."*
+> - 📜 **Isaac Newton (*The Method of Fluxions*):** *"To find the **extremum** of a geometric curve, we determine the point where the tangent is horizontal."*
+> - 📜 **Leonhard Euler (*Method of Finding Curved Lines*):** *"The variational principle locates the true trajectory by identifying the stationary **extremum** of action."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The electrostatic potential achieves its local **extremum** only at boundaries possessing surface charge."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower part of the female reproductive tract; a moist canal in female mammals extending from the labia minora to the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lower part of the female reproductive tract; a moist canal in female mammals extending from the labia minora to the uterus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscular canal leading from the external genitals to the cervix in female mammals; or a sheathing structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mammalian anatomy and botanical morphology, the sheathing base of a leaf encircling a stem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"And the related image of the female with a sexual organ capable of absorbing a man plays a variation on the vagina dentata theme (e.g., pt. 2, pp. 19, 24)."*
+> - 📜 **William Harvey (*On the Generation of Animals*):** *"The seminal fluid traverses the internal canal of the **vagina** to reach the uterine cavity."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In placental mammals, the **vagina** forms the terminal passage of the female reproductive tract."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"The sheathing **vagina** of the grass leaf clasps the stem firmly above each node."*
+

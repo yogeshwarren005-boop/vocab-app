@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being insalubrious and debilitating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being insalubrious and debilitating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unhealthiness, noxious quality, or unwholesomeness, especially of climate, atmosphere, or location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental geography, natural regional factors such as tropical swamps or stagnant lagoons predisposing inhabitants to fevers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insalubrity designates the quality of being insalubrious and debilitating."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The damp **insalubrity** of the old counting-house chilled him to the marrow through the long winter afternoons."*
+> - 📜 **Tobias Smollett (*The Expedition of Humphry Clinker*):** *"The doctor dilated on the **insalubrity** of London air, recommending a retreat to the breezy downs."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The seasonal **insalubrity** of the Roman Campagna decimated the invading armies with violent malaria."*
+

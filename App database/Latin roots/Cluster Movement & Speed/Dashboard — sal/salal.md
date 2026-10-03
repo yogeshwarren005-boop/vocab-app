@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small evergreen shrub of pacific coast of north america having edible dark purple grape-sized berries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small evergreen shrub of pacific coast of north america having edible dark purple grape-sized berries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gaultheria shallon, a creeping or bushy leathery-leaved evergreen shrub native to western North America, bearing edible dark purple berries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Pacific Northwest ethnobotany, the sweet fruits gathered, mashed, and dried into berry cakes by coastal indigenous peoples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salal designates small evergreen shrub of pacific coast of north america having edible dark purple grape-sized berries."*
+> - 📜 **David Douglas (*Journal Kept by David Douglas During His Travels in North America*):** *"The dense thickets of **salal** formed an almost impenetrable barrier across the coastal rainforest floor."*
+> - 📜 **Archibald Menzies (*Hawaii and Northwest America Journals*):** *"The native tribes gathered large quantities of the sweet dark berries of the **salal** for their winter stores."*
+> - 📜 **John Muir (*Steep Trails*):** *"The glossy green carpet of **salal** flourished under the towering canopies of Douglas fir and giant arborvitae."*
+

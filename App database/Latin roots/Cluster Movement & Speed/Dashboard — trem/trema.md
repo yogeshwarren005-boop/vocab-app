@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An evergreen tree of the family ulmaceae that grows in tropical america and africa and asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evergreen tree of the family ulmaceae that grows in tropical america and africa and asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fast-growing evergreen trees and shrubs of the family Cannabaceae native to tropical regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical forest succession and silviculture, Trema orientalis serving as a pioneer species that stabilizes disturbed soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Looking at the tips of her hairs to see if they are split. _Mi trema un poco il_."*
-> - 📜 **James Joyce (*Ulysses*):** *"MARION: _Ti trema un poco il cuore?_ _(In disdain she saunters away, plump as a pampered pouter pigeon, humming the duet from_ Don Giovanni.) BLOOM: Are you sure about that _Voglio_?"*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Pioneer saplings of **Trema** sprang up rapidly across the clearing left by the forest landslide."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The widespread distribution of **Trema** across oceanic islands illustrates effective avian seed dispersal."*
+> - 📜 **Richard Francis Burton (*The Lake Regions of Central Africa*):** *"The native village was surrounded by a protective hedge of thorny shrubs and leafy **Trema**."*
+

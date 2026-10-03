@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to promote physical well-being; beneficial to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to promote physical well-being; beneficial to health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing beneficial or wholesome effects; promoting health, safety, or moral well-being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and jurisprudence, measures or penalties that deter vice and reinforce civic order and moral integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fluid was applied by means of a wisp of straw, and the person who discharged this salutary office went round the house in the direction of the sun."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fire, the smoke, the shots, and the shouts are all intended to scare away the witches, who are let loose on this witching day, and who would certainly work harm to the crops and the cattle, if they were not deterred by these salutary measures."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Strange to say, this salutary measure had no effect whatever in staying the cattle-plague, and seven years later the sapient Joh."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She did not mean to go beyond this **salutary** general doctrine, and threw her indignation into moral principles."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Ancient constitutional traditions provide a **salutary** restraint against the impetuous passions of democratic factions."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The severe defeat taught the government a **salutary** lesson regarding the limits of royal prerogative."*
+

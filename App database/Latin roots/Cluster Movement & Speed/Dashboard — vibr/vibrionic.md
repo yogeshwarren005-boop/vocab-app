@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Caused by bacteria of the genus vibrio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caused by bacteria of the genus vibrio.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, caused by, or characteristic of bacteria of the genus Vibrio; of the nature of a vibrio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary epidemiology, vibrionic abortion in sheep and cattle caused by Campylobacter (formerly Vibrio) fetus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibrionic designates caused by bacteria of the genus vibrio."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The severe dehydration was diagnosed as an acute **vibrionic** infection contracted from contaminated canal water."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Pathologists investigated the toxic mechanisms underlying **vibrionic** enteritis in experimental models."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Epidemics of **vibrionic** dysentery swept through overcrowded tenements lacking clean municipal drainage."*
+

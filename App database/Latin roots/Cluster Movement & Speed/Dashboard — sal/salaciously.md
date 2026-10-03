@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a lascivious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a lascivious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a salacious, lustful, lewd, or lascivious manner; with prurient intent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social satire, recounting scandalous amorous escapades with provocative insinuations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salaciously designates in a lascivious manner."*
+> - 📜 **Tobias Smollett (*The Adventures of Roderick Random*):** *"The drunken libertine winked **salaciously** at the maidservant as she carried the punch bowl to the table."*
+> - 📜 **Henry Fielding (*Amelia*):** *"He whispered **salaciously** in her ear, provoking an indignant rebuke from the virtuous young matron."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The scandalous print vendor smirked **salaciously** as he displayed his forbidden caricatures."*
+

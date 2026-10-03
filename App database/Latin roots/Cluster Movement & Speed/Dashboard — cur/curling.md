@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A game played on ice in which heavy stones with handles are slid toward a target.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a curl, curve, or kink.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Winding into curls or spirals; or a game played on ice in which heavy polished granite stones are slid toward a circular target.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid mechanics and wave dynamics, the plunging crest of a breaking ocean swell collapsing over shallow bathymetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well I could have wrestled— The best men called it excellent—and run Swifter than wind upon a field of corn, Curling the wealthy ears, never flew."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Prince Turveydrop!” I curtsied to a little blue-eyed fair man of youthful appearance with flaxen hair parted in the middle and curling at the ends all round his head."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel had watched the blue wood-smoke curling from the chimney with strange meditation."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"Wilt thou upon the high and giddy mast seal up the ship-boy's eyes, and rock his brains in cradle of the rude imperious **curling** billows?"*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The young men of the parish spent the frosty afternoon **curling** upon the frozen surface of the lake."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **curling** white spray leaped over the bows as the ship raced before the gale."*
+

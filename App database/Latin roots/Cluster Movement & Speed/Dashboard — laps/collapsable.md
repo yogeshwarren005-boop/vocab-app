@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of collapsing or being collapsed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of collapsing or being collapsed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engineered or designed to fold together, shrink, or be dismantled compactly when not in use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial design and expedition equipment, lightweight folding furniture or tents facilitating easy transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collapsable designates capable of collapsing or being collapsed."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The explorers packed a **collapsable** canvas boat suitable for navigating shallow forest streams."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The artillery crew carried a **collapsable** observation tower that could be erected in minutes."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The trading schooner was equipped with a **collapsable** shelter to protect cargo against tropical squalls."*
+

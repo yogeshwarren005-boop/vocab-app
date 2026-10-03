@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to act for another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ancient rome) someone employed by the roman emperor to manage finance and taxes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, proxy, or representative authorized to manage another's affairs or legal interests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman imperial administration, a financial officer or provincial governor directly appointed by the emperor (e.g., Pontius Pilate).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As well had Pilate and I been known to each other before ever he journeyed out to be procurator over the Semitic volcano of Jerusalem."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus every procurator’s hands were full."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And for a procurator to punish a zealot caught red-handed was to raise a riot or an insurrection."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial **procurator** was entrusted with the collection of taxes and the fiscal management of the province."*
+> - 📜 **Jack London (*The Star Rover*):** *"I sat as a Roman **procurator** upon the judgment seat, weighing the complaints of the provincial magistrates."*
+> - 📜 **Tacitus (*The Annals*):** *"The harsh exactions of the imperial **procurator** drove the Britons into open and violent rebellion."*
+

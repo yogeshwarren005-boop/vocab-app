@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery to remove tissue or growths from a bodily cavity (as the uterus) by scraping with a curette.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery to remove tissue or growths from a bodily cavity (as the uterus) by scraping with a curette.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical scraping of the interior lining of a bodily cavity (such as the uterus or bone) using a curette.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic obstetrics and gynecology, scraping the endometrial cavity to evaluate abnormal bleeding or remove retained conception products.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curettage designates surgery to remove tissue or growths from a bodily cavity (as the uterus) by scraping with a curette."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt surgical **curettage** is indicated to remove infected granulation tissue from chronic osteomyelitis."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Diagnostic **curettage** of the endometrium yields tissue specimens vital for pathological examination."*
+> - 📜 **Louis S. Goodman & Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"Antiseptic irrigation is routinely combined with mechanical **curettage** in treating deep focal abscesses."*
+

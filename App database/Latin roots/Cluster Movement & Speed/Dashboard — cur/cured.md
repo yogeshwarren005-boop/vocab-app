@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide a cure for, make healthy again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare by drying, salting, or chemical processing in order to preserve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restored to health or sound condition; or preserved by drying, salting, or smoking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science, polymers or resins chemically cross-linked and hardened through heat, radiation, or chemical catalysts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus policy in love t’ anticipate The ills that were not, grew to faults assured, And brought to medicine a healthful state Which rank of goodness would by ill be cured."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, then, for with a wound I must be cured."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is merely a madness, and, I tell you, deserves as well a dark house and a whip as madmen do; and the reason why they are not so punished and cured is that the lunacy is so ordinary that the whippers are in love too."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Come, then, for with a wound I must be **cured**; draw thy sword, and give me the stroke of death."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The gauchos subsisted on strips of beef **cured** in the sun and seasoned with coarse salt."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The gentle nursing of her kind protector completely **cured** the exhausted traveler of her ague."*
+

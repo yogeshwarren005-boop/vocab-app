@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of getting possession of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of getting possession of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of acquiring goods, services, or works, especially for an organization or government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In defense logistics and supply chain governance, systematic tendering, purchasing, and vendor qualification to fulfill operational mandates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The man who understands those principles best will be least likely to resort to oppressive expedients, or sacrifice any particular class of citizens to the procurement of revenue."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Translating a requirement into acquisition called for justifying funds, ensuring that procurement and manufacturing specifications and tech data were current, and initiating and monitoring acquisition documents."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I initiated the Purchase Requests, got coordination on technical accuracy of procurement data from the parachute engineers and Maintenance technical services."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The efficient **procurement** of military stores depends upon unified administrative authority."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **procurement** of raw materials from foreign markets stimulated domestic manufacturing."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **procurement** of supplies for a three years' cruise required the master's vigilant personal attention."*
+

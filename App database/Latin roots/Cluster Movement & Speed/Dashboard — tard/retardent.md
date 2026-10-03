@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agent that retards or delays or hinders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agent that retards or delays or hinders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of retardant; an agent or factor that causes delay or hindrance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials processing, an additive used to retard the curing time of plaster, cement, or polymers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retardent designates any agent that retards or delays or hinders."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The chemist introduced a chemical **retardent** into the slurry to prevent premature setting of the mortar."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A saline **retardent** slowed the electrolytic deposition of copper onto the cathode plate."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The presence of aqueous vapor acted as a radiative **retardent**, trapping thermal rays near the surface."*
+

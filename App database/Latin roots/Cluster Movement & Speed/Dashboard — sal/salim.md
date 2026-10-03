@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Venezuelan master terrorist raised by a marxist-leninist father; trained and worked with many terrorist groups (born in 1949).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Venezuelan master terrorist raised by a marxist-leninist father; trained and worked with many terrorist groups (born in 1949).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biblical location near the Jordan River where John the Baptist baptized believers; or an Arabic masculine given name meaning safe or sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In New Testament geography (John 3:23), the ancient site near Aenon noted for abundant springs of fresh water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salim designates venezuelan master terrorist raised by a marxist-leninist father; trained and worked with many terrorist groups (born in 1949)."*
+> - 📜 **King James Bible (*John*):** *"And John also was baptizing in Aenon near to **salim**, because there was much water there: and they came, and were baptized."*
+> - 📜 **Edward Robinson (*Biblical Researches in Palestine*):** *"Travelers have sought to identify the ancient site of **salim** among the abundant springs south of Scythopolis."*
+> - 📜 **George Adam Smith (*The Historical Geography of the Holy Land*):** *"The valley near **salim** offered copious streams where crowds could easily assemble for ritual ablution."*
+

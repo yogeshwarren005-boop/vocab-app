@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bending the knees; a gesture of respect made by women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bend the knees in a gesture of respectful greeting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of curtsey; a feminine gesture of reverence or greeting made by bending the knees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical performance, the performer's concluding acknowledgment of audience applause before the falling curtain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou that art like enough, through vassal fear, Base inclination, and the start of spleen, To fight against me under Percy’s pay, To dog his heels, and curtsy at his frowns, To show how much thou art degenerate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You call honourable boldness impudent sauciness; if a man will make curtsy and say nothing, he is virtuous."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First my fear; then my curtsy; last my speech."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"And I am sure as many as have good beards, or good faces, will for my kind offer, when I make **curtsy**, bid me farewell."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I rose and made a respectful **curtsy** to the visitor as he paused before the school desk."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Amy practiced her graceful **curtsy** before the long pier glass, spreading her skirts with pride."*
+

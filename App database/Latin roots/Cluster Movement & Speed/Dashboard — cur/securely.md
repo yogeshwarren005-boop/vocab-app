@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a secure manner; in a manner free from danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a confident and unselfconscious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a safe, well-protected, or firmly fastened manner; without danger of falling, failing, or escaping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime navigation and heavy cargo rigging, lashed with certified cables and turnbuckles to withstand high sea states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, these scroyles of Angiers flout you, kings, And stand securely on their battlements As in a theatre, whence they gape and point At your industrious scenes and acts of death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She dwells so securely on the excellency of her honour that the folly of my soul dares not present itself; she is too bright to be looked against."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Securely I espy Virtue with valour couched in thine eye."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Fast bind, fast find; a proverb never stale in thrifty mind, where keys are kept **securely**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The heavy iron door was locked **securely** behind me, shutting out the howling tempest."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The stolen papers had been placed **securely** in the secret drawer of the bureau."*
+

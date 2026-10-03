@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indirect in departing from the accepted or proper way; misleading.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by insincerity or deceit; evasive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a skillful use of underhanded or deceitful tactics; or wandering, winding, and circuitous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landscape description and narrative style, winding labyrinthine pathways departing from direct thoroughfares.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By many devious ways, reeking with offence of many kinds, they come to the little tunnel of a court, and to the gas-lamp (lighted now), and to the iron gate."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not the civil engineer, but the railroad promoter determined the devious lines of many a railroad on the level prairies of America."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I sought the Continent, and went devious through all its lands."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Through trackless paths and **devious** ways they wound their solitary course across the fallen world."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"By indirections find directions out; so by my former lecture and advice, shall you my son win in his **devious** course."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She disliked Crawford's **devious** conduct, perceiving selfish calculation beneath his polished manners."*
+

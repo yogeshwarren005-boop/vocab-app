@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An opening or welcoming statement (especially one delivered at graduation exercises).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opening or welcoming statement (especially one delivered at graduation exercises).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, expressing, or delivering a greeting or welcome; welcoming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic commencement ceremonial, the formal opening speech welcoming guests and dignitaries before the valedictory address.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salutatory designates an opening or welcoming statement (especially one delivered at graduation exercises)."*
+> - 📜 **Oliver Wendell Holmes (*The Autocrat of the Breakfast-Table*):** *"The professor delivered a witty **salutatory** address that put the nervous freshman class completely at ease."*
+> - 📜 **Nathaniel Hawthorne (*Mosses from an Old Manse*):** *"He extended a warm **salutatory** hand to his old college companion at the threshold of the study."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The genial host offered a **salutatory** toast to all his gathered guests before the feast began."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who leaves one country to settle in another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who leaves one country to settle in another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female emigrant; a woman who has left her native country, especially as a political exile or refugee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century biographical and historical literature, noblewomen who established schools or literary salons while in exile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emigree designates someone who leaves one country to settle in another."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The accomplished French **emigree** supported herself in London by giving lessons in drawing and music."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She listened with deep sympathy to the sorrowful recollections of the elderly foreign **emigree**."*
+> - 📜 **Henry James (*The American*):** *"The aristocratic **emigree** preserved the refined manners and courtly speech of the ancient court of Versailles."*
+

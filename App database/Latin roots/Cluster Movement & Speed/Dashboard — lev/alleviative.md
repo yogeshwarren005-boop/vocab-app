@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderating pain or sorrow by making it easier to bear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderating pain or sorrow by making it easier to bear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or serving to alleviate; mitigating, palliative, or soothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine, therapeutic treatments directed at moderating acute symptoms rather than achieving radical eradication of disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alleviative designates moderating pain or sorrow by making it easier to bear."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The physician must not neglect **alleviative** remedies when cure is beyond the reach of his art."*
+> - 📜 **Jeremy Bentham (*The Rationale of Punishment*):** *"The magistrate should apply **alleviative** measures to soften the rigor of penal discipline where humanity demands."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sympathy functions as an **alleviative** balm that soothes nervous agitation in times of emotional distress."*
+

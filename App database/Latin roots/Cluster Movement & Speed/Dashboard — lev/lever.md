@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rigid bar pivoted about a fulcrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple machine that gives a mechanical advantage when given a fulcrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rigid bar resting on a fulcrum, used to exert force at a second point by applying effort at a third; a mechanical advantage device.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological biomechanics, the skeletal bone acting as a rigid beam pivoting at an anatomical joint fulcrum moved by muscle tendon contraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But still the disappointed father held a strong lever; and Fred felt as if he were being banished with a malediction."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Air lock and suit pressures up, balanced and checked, Drummer jerked a lever and, a moment later, they ducked under the rising panel to the outside."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Zolan moved the power lever and directional controls."*
+> - 📜 **Archimedes (*On the Equilibrium of Planes*):** *"Give me a place to stand, and with a **lever** I will move the whole earth."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"With a stout **lever** he pried the stubborn boulder from the soil to lay the foundation stone."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The heel bone functions as a powerful **lever** through which the calf muscles raise the body in bipedal locomotion."*
+

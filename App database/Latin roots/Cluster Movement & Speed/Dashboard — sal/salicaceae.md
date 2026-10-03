@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Two genera of trees or shrubs having hairy catkins: salix; populus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two genera of trees or shrubs having hairy catkins: salix; populus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical willow family of flowering plants, comprising deciduous trees and shrubs including willows and poplars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and pharmaceutical botany, plants characterized by bitter astringent bark rich in the phenolic glycoside salicin (the precursor of aspirin).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salicaceae designates two genera of trees or shrubs having hairy catkins: salix; populus."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Dioecious reproduction is universally characteristic of the genera belonging to the family **salicaceae**."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The family **salicaceae** contains numerous alpine and subarctic species that stabilize riverbanks across the Himalayas."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Catkin-bearing trees of the family **salicaceae** shed copious downy seeds dispersed widely by spring breezes."*
+

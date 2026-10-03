@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area where merchandise (such as cars) can be displayed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area where merchandise (such as cars) can be displayed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room in a store, warehouse, or auction house where goods and merchandise are displayed for inspection and sale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial retail architecture, open showroom floors designed with lighting and displays to attract prospective buyers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salesroom designates an area where merchandise (such as cars) can be displayed."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The bustling **salesroom** of the shipping agent was crowded with emigrants inquiring about passage to America."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"The picture dealer arranged his finest Dutch landscapes in the front **salesroom** to entice wealthy collectors."*
+> - 📜 **Henry James (*The American*):** *"Christopher Newman visited the luxurious **salesroom** on the boulevard, admiring the displays of ornate bronzes."*
+

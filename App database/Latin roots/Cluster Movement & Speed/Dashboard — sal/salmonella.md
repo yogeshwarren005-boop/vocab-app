@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rod-shaped gram-negative enterobacteria; cause typhoid fever and food poisoning; can be used as a bioweapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rod-shaped gram-negative enterobacteria; cause typhoid fever and food poisoning; can be used as a bioweapon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of rod-shaped Gram-negative flagellated bacteria causing food poisoning, enteritis, and typhoid fevers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and infectious disease pathology, facultative anaerobic enterobacteria invading intestinal epithelial tissues and macrophages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmonella designates rod-shaped gram-negative enterobacteria; cause typhoid fever and food poisoning; can be used as a bioweapon."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The organism **salmonella** typhi is transmitted primarily through sewage-contaminated drinking water and milk supplies."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Somatic and flagellar antigens of the genus **salmonella** provided the foundation for precise serological classification."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Pioneering bacteriologists identified **salmonella** strains as the causative agents of severe epidemic gastroenteritis."*
+

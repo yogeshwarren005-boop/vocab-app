@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with curly hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with curly hair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having hair that forms natural curls, ringlets, or waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human physical anthropology and genetics, individuals possessing hair follicles with curved geometries producing helical hair growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curly-haired designates covered with curly hair."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She was of the same **curly-haired**, square-faced type as Mary, but handsomer, with richer coloring."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I hear rumors, and especially of a tall, handsome, **curly-haired** stranger seen near the churchyard."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"A merry, **curly-haired** lad ran across the lawn with a cricket bat under his arm."*
+

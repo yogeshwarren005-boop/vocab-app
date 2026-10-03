@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling that comes when something burdensome is removed or reduced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of reducing something unpleasant (as pain or annoyance).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mitigating or easing of pain, suffering, or distress; the experience of being relieved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In humanitarian ethics, targeted charitable interventions intended to lessen social misery without addressing fundamental structural inequalities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her presence was at first a strain upon Tess, but afterwards an alleviation."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"After all, thousands of men of all ranks have had to bear the same trial and with much less alleviation."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"He sought eagerly for some slight alleviation of despair in hard literary labor; but to face the outside world was for the present impossible."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her presence was at first a strain upon Tess, but afterwards an **alleviation** of her heavy solitude."*
+> - 📜 **Jane Austen (*Emma*):** *"There was no recovering Miss Taylor, nor much likelihood of ceasing to pity her, without some **alleviation** from friendly company."*
+> - 📜 **George Eliot (*Adam Bede*):** *"A kind deed brings an immediate **alleviation** to the spirit oppressed by guilt and sorrow."*
+

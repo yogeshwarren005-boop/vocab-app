@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by lust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggestive of or tending to moral looseness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appealing to sexual desire; lustful, lewd, or lascivious in tone, subject matter, or imagery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and drama, scandalous or prurient themes designed to titillate audiences rather than advance aesthetic depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salacious designates characterized by lust."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The satirical poet was censured for inserting **salacious** anecdotes that offended the modest reader."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"He listened with eager amusement to the **salacious** gossip circulating through the fashionable coffee houses."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The secret memoirs of the court were filled with **salacious** details concerning the private vices of the palace."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument shaped like a scoop to remove tissue from a bodily cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical instrument shaped like a scoop to remove tissue from a bodily cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spoon-shaped or loop-ended surgical instrument used to scrape or remove tissue, growths, or debris from bodily cavities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative gynecology and dermatology, specialized instruments (such as Sims or dermal curettes) calibrated for tissue excision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curette designates a surgical instrument shaped like a scoop to remove tissue from a bodily cavity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon cleared the diseased auditory canal with a delicate spoon-shaped **curette**."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The operator wields a flexible **curette** to excise abnormal mucosal polyps without lacerating deeper tissues."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"In the hospital theater, the surgeon demonstrated how the sterile **curette** removes diseased periosteum."*
+

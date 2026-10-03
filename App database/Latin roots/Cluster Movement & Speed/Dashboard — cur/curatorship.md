@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of curator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of curator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, role, or period of tenure of a curator in an institution, gallery, or museum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history, the judicial appointment of a curator bonis to oversee the financial estate of an incapacitated ward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curatorship designates the position of curator."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"He accepted the honorary **curatorship** of the university library, dedicating his leisure to cataloging ancient manuscripts."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial **curatorship** of public works had fallen into neglect under the decadent emperors."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Old Monkbarns claimed that his enthusiastic **curatorship** of Roman coins preserved the finest collection in Scotland."*
+

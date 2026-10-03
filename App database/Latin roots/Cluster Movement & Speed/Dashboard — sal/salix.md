@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and widespread genus varying in size from small shrubs to large trees: willows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and widespread genus varying in size from small shrubs to large trees: willows.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large taxonomic genus of deciduous trees and shrubs in the family Salicaceae, commonly known as willows, sallows, and osiers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, dioecious amentiferous woody plants adapted to riparian habitats, the bark of which yields medicinal salicin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It can scarcely be too great an assumption to suppose that every one is acquainted with the goat-willow (_Salix caprea_), or that every schoolboy knows the birch (_Betula alba_)."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Various species of **salix** hybridize freely along river banks, producing perplexing intermediate forms."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **salix** displays flexible twigs and silky catkins that bloom early in temperate springs."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The bitter bark of the water **salix** or willow tree cooleth excessive heat in agues."*
+

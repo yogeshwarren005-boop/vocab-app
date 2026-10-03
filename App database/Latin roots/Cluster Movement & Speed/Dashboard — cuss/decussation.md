@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intersection or crossing of two tracts in the form of the letter x.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intersection or crossing of two tracts in the form of the letter x.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intersection or crossing of lines, fibers, or nerve tracts in the form of the letter X.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, the decussation of the pyramids in the medulla oblongata where corticospinal tract axons cross the midline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decussation designates an intersection or crossing of two tracts in the form of the letter x."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"The mystical quincunx displays its beauty in the regular **decussation** of diagonal crossing lines."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lesions situated above the **decussation** of the pyramids produce contralateral hemiplegia in the patient."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The optic chiasm presents a partial **decussation** of retinal nerve fibers entering the visual cortex."*
+

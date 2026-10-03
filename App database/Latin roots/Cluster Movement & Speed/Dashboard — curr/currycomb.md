@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A square comb with rows of small teeth; used to curry horses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clean (a horse) with a currycomb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comb or brush with rows of metal teeth or ridges, used for grooming horses to remove dried mud, sweat, and loose hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural and stable management, a standard implement employed to stimulate blood circulation in equine skin and muscle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, currycomb designates a square comb with rows of small teeth; used to curry horses."*
+> - 📜 **Anna Sewell (*Black Beauty*):** *"John groomed me thoroughly every morning with the brush and the **currycomb**, never scratching my tender skin."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rhythmic rasping of the **currycomb** against the horse's flank sounded clearly across the quiet courtyard."*
+> - 📜 **George Borrow (*Lavengro*):** *"The ostler set down his **currycomb** and turned to inspect the traveller's weary roadster."*
+

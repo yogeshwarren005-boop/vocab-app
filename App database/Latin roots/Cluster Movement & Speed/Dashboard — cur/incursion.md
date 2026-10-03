@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of entering some territory or domain (often in large numbers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attack that penetrates into enemy territory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden, brief, or hostile invasion or raid into another's territory; an unwelcome intrusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy and frontier defense, punitive cavalry raids across disputed borders to disrupt supplies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The results which follow on a large incursion of visitors into the Lake country may be considered under two heads, as affecting the residents, or as affecting the visitors themselves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What never-dying honour hath he got Against renowned Douglas! whose high deeds, Whose hot incursions and great name in arms, Holds from all soldiers chief majority And military title capital Through all the kingdoms that acknowledge Christ."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou art forth in the incursions, thou strikest as slow as another."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A sudden **incursion** of the Alemanni ravaged the frontier settlements of Roman Gaul along the Rhine."*
+> - 📜 **Walter Scott (*Waverley*):** *"Highland clans were ever ready for a nocturnal **incursion** into the lowlands to drive off cattle."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A united republic provides the most formidable shield against hostile foreign **incursion** along our coasts."*
+

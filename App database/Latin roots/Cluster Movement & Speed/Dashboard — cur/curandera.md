@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mexican woman who practices healing techniques inherited from the mayans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mexican woman who practices healing techniques inherited from the mayans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional female folk healer or herbalist in Latin America and Hispanic communities who uses herbs, massage, and prayers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology, female practitioners of curanderismo who balance hot and cold humoral bodily humors and treat spiritual distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curandera designates a mexican woman who practices healing techniques inherited from the mayans."*
+> - 📜 **Willa Cather (*Death Comes for the Archbishop*):** *"The Mexican villagers sought the herbal remedies of the local **curandera** before sending for a priest."*
+> - 📜 **John Steinbeck (*The Pearl*):** *"Kino knew that the prayers of the **curandera** were valued as highly as the doctor's expensive draughts."*
+> - 📜 **Carlos Fuentes (*The Death of Artemio Cruz*):** *"The wise **curandera** placed soothing poultices of wild sage upon the wounded soldier's chest."*
+

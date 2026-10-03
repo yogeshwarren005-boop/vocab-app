@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of flowing in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of flowing in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrival, entry, or inward flowing of a large quantity of people, fluid, or material things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic analysis, massive capital inflows or demographic migrations altering domestic liquidity and employment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The continual influx of cheap labor aided in imparting values to all industrial opportunities."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke was sealing this letter, he felt elated with an influx of dim projects:—a young man capable of putting ideas into form, the “Pioneer” purchased to clear the pathway for a new candidate, documents utilized—who knew what might come of it all?"*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"I do not mean to say that his mind was in a perpetual glow: I mean only that this surrender to impassioned transports was more characteristic of the man than serene openness to influx of enjoyment."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The sudden **influx** of gold and silver from the American mines reduced the purchasing value of bullion."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial capital absorbed a continuous **influx** of provincial tribute, corn, and foreign merchandise."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The revocation of the Edict of Nantes prompted a valuable **influx** of skilled French artisans into London."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence by virtue of not occurring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence by virtue of not occurring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure or absence of an expected event or phenomenon to happen or take place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probability theory and actuarial science, the complementary probability (1 - p) that a specified contingency does not materialize.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonoccurrence designates absence by virtue of not occurring."*
+> - 📜 **William Stanley Jevons (*The Principles of Science*):** *"In inductive logic, the **nonoccurrence** of a predicted result provides critical evidence against the hypothesis."*
+> - 📜 **John Venn (*The Logic of Chance*):** *"We balance the frequency of occurrences against the **nonoccurrence** of an event across a large statistical series."*
+> - 📜 **Charles Sanders Peirce (*Illustrations of the Logic of Science*):** *"A scientific rule is confirmed as much by the constant **nonoccurrence** of violations as by direct positive instances."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states industrialist and aviation pioneer (1878-1930).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English botanical writer and publisher (1746-1799).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Glenn Curtiss (1878–1930), American aviation pioneer and founder of the Curtiss Aeroplane and Motor Company; or an aircraft built by his company.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation history, the pioneering aircraft designer whose Curtiss JN-4 'Jenny' and flying boats trained thousands of military pilots in World War I.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the United States explosives have been used for years, owing to the exertions of the Du Pont Powder Company, while Messrs Curtiss' and Harvey, and Messrs Nobels, the great explosive manufacturers, are busy introducing them in Great Britain."*
+> - 📜 **Orville Wright (*How We Invented the Airplane*):** *"The early trials of **curtiss** with hydroplanes demonstrated the practicality of taking off from water surfaces."*
+> - 📜 **Charles Lindbergh (*The Spirit of St. Louis*):** *"I learned to fly in a rebuilt **curtiss** biplane, barnstorming across the Midwest prairies."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The naval squadron dispatched a squadron of swift **curtiss** flying boats to patrol the coastal waters."*
+

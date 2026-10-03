@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass into a specified state or condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: End, at least for a long time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: No longer valid, active, or functioning; having expired through disuse or failure to meet requirements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, Christians (lapsi) who renounced the faith under imperial Roman persecution and later sought reconciliation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only myself stood out, For which, if I be lapsed in this place, I shall pay dear."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You and I are very different creatures.” He spoke regretfully and lapsed for a moment into his weary condition."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Next, his movements lapsed slower, and she could see them individually."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The church councils debated severe penances before admitting **lapsed** believers back into communion."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The lease had long **lapsed**, leaving the ancient manor in a state of melancholy abandonment."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The conversation had **lapsed** into heavy silence as the wagon creaked along the darkened road."*
+

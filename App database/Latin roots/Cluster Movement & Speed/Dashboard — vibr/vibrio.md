@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved rodlike motile bacterium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved rodlike motile bacterium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of curved, comma-shaped Gram-negative bacteria possessing a single polar flagellum for motility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology and infectious epidemiology, Vibrio cholerae secreting enterotoxin that produces massive dehydrating diarrhea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibrio designates curved rodlike motile bacterium."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"Microscopic analysis of the epidemic water supply revealed abundant comma-shaped **vibrio** organisms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The pathogenic **vibrio** was isolated from the intestinal discharges of victims dying of Asiatic cholera."*
+> - 📜 **Louis Pasteur (*Germ Theory and Its Applications to Medicine and Surgery*):** *"Culturing the motile **vibrio** confirmed its distinct morphological characteristics under the high-power objective."*
+

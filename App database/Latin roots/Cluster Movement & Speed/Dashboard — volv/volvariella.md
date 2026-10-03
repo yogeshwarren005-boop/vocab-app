@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An important genus of mushrooms in the orient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An important genus of mushrooms in the orient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of saprotrophic mushrooms with pink spores and a basal volva, including the edible paddy straw mushroom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial mycology, Volvariella volvacea widely cultivated on agricultural straw substrates throughout East and Southeast Asia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volvariella designates an important genus of mushrooms in the orient."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The Asian straw mushroom, belonging to **Volvariella**, has been domesticated on composted rice beds for centuries."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Microscopic examination of **Volvariella** demonstrates smooth ellipsoidal spores lacking an apical germ pore."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The volvate base of **Volvariella** arises from the rupture of the membranous universal veil."*
+

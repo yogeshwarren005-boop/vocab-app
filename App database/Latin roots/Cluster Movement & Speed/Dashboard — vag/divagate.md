@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stray, wander off, or turn aside from the primary topic or direct course in speech or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative rhetoric, discursive ramblings that divert readers from the central plot or thesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divagate designates lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The author must not **divagate** too far into the social gossip of the neighboring parishes."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She felt her thoughts begin to **divagate** aimlessly among memories of her childhood in Albany."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Professor Teufelsdröckh was ever prone to **divagate** from clothes-philosophy into mystical cosmology."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in bulgaria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in bulgaria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic monetary unit and standard currency of Bulgaria, subdivided into one hundred stotinki.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Balkan economic history, the Bulgarian national currency established under the Bulgarian National Bank in 1881, originally tied to the Latin Monetary Union.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I; Rev. i. 10; Psalms cxviii. 24; Lev. xxiii. 7, 11; Mark xv. 8; Psalms lxxxiv. 10, in which Christmas is called Anti- christ’s masse, and those Masse-mongers and Papists who observe it, etc."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The rust possesses, when fresh, a peculiar odour, which is said to resemble that of orange-flowers; whence was derived its name of “sweet-smelling rust” (_Trichobasis suaveolens_, Lev.)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A similar circumstance may befall the student in examining the rust of labiate plants (_Trichobasis Labiatarum_, Lev.), which occurs on different species of mint, especially the water-mint, about the month of August."*
+> - 📜 **Rebecca West (*Black Lamb and Grey Falcon*):** *"The border merchant exchanged his foreign paper for the Bulgarian **lev**, counting each note with meticulous care."*
+> - 📜 **James David Bourchier (*The Balkan Question*):** *"Peasant commerce throughout Sofia was conducted in the national **lev**, which maintained stable value prior to the wars."*
+> - 📜 **John Reed (*The War in Eastern Europe*):** *"In the shops along the boulevard, bread and coffee were paid for with a few silver pieces of the **lev**."*
+

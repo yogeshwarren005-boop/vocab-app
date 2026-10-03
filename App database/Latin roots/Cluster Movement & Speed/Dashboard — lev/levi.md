@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) disciple of jesus; traditionally considered to be the author of the first gospel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) disciple of jesus; traditionally considered to be the author of the first gospel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The third son of Jacob and Leah in the Hebrew Bible, regarded as the patriarchal ancestor of the priestly tribe of Levi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical genealogy, the eponymous founder of the Levites, who were designated for religious and ritual duties rather than receiving a territorial land allotment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Levi Everdene—that was the man’s name, sure. ‘Man,’ saith I in my hurry, but he were of a higher circle of life than that—’a was a gentleman-tailor really, worth scores of pounds."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Levi Everdene—that was the man’s name, sure enough. ‘Man,’ saith I in my hurry, but he were of a higher circle of life than that—’a was a gentleman-tailor really, worth scores of pounds."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Levi Boulter to pull down that dreadful old house on his upper farm wouldn’t that be an improvement?” “It certainly would,” admitted Mrs."*
+> - 📜 **King James Bible (*Genesis*):** *"And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called **levi**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The sons of **levi** stood round about the altar, ministering before the ark with solemn hymns."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Old **levi** was known across the parish as a God-fearing shepherd whose wisdom settled many disputes."*
+

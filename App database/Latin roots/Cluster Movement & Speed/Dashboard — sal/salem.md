@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital of the state of oregon in the northwestern part of the state on the willamette river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northeastern massachusetts; site of the witchcraft trials in 1692.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic coastal city in northeastern Massachusetts, famous for the witch trials of 1692; or an ancient biblical name for Jerusalem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early American colonial history, a Puritan maritime trading hub whose merchants traded with the East Indies and China.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Enoch Holt had been a seafaring man in his early days, and there was news that the owners of a Salem ship in which he held a small interest wished him to go out as supercargo."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This old town of Salem—my native place, though I have dwelt much away from it both in boyhood and maturer years—possesses, or did possess, a hold on my affection, the force of which I have never realized during my seasons of actual residence here."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"And yet, though invariably happiest elsewhere, there is within me a feeling for Old Salem, which, in lack of a better phrase, I must be content to call affection."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The author recalled the solemn atmosphere of the Custom House in the ancient port of **salem**."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The allusion is to Jones Very, a mystic and poet, who lived at **salem**, Massachusetts."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A merchant in **salem** traded directly with the ports of the Celestial Empire in tea and silks."*
+

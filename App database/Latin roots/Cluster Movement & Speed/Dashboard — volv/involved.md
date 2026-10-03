@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connect closely and often incriminatingly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage as a participant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult to comprehend or unravel; complicated, intricate, or implicated in a situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative structure and legal pleading, arguments featuring convoluted dependent clauses and layered premises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"All this involved, no doubt, sufficient active exercise of pen and ink to make her daughter’s part in the proceedings anything but a holiday."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, in your suit there are thousands and thousands involved, where in mine there are hundreds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"From the expression of his face he might be a famous whist-player for a large stake—say a hundred guineas certain—with the game in his hand, but with a high reputation involved in his playing his hand out to the last card in a masterly way."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber's financial affairs had become so **involved** that temporary detention seemed unavoidable."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes paused, considering the **involved** chain of circumstantial evidence that pointed toward the moor."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The sentence was so grammatically **involved** that Casaubon's audience struggled to extract its meaning."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a recursion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a recursion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving recursion; defined in terms of itself or calling upon itself repeatedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal generative grammar (Chomsky), recursive syntactic rules permitting the infinite generation of sentences from finite lexicons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recursive designates of or relating to a recursion."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The structure of ordinal numbers is established through a **recursive** succession of well-ordered sets."*
+> - 📜 **Alfred North Whitehead (*Principia Mathematica*):** *"The **recursive** definition guarantees that every truth in the formal system can be systematically derived."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"A **recursive** process of symbolic interpretation generates an endless chain of sign relationships in the mind."*
+

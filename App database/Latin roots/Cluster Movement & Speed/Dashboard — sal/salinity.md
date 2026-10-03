@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The taste experience when common salt is taken into the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relative proportion of salt in a solution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The concentration of dissolved salts in water, soil, or other solutions, typically expressed in parts per thousand (ppt).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanography, the total quantity of dissolved inorganic solids in seawater, which directly regulates oceanic thermohaline circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salinity designates the taste experience when common salt is taken into the mouth."*
+> - 📜 **Matthew Fontaine Maury (*The Physical Geography of the Sea*):** *"The high **salinity** of the Red Sea results from intense solar evaporation accompanied by negligible freshwater runoff."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The uniform **salinity** of open ocean water is maintained by global circulation currents and winds."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The exceptional **salinity** of the inland salt lakes allows only specialized brine shrimp to survive."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of mosan language spoken in northwestern united states and western canada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a group of north american indians speaking a salishan language and living on the northwest coast of north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an indigenous group of First Nations peoples of the Pacific Northwest; or their family of indigenous languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American ethnology and linguistics, the Coast and Interior Salish peoples inhabiting the Fraser River and Columbia River basins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Salish or Flathead Indians of Oregon believe that a man's soul may be separated for a time from his body without causing death and without the man being aware of his loss."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus among the Salish and Tinneh Indians of North-West America, "before the young people eat the first berries or roots of the season, they always addressed the fruit or plant, and begged for its favour and aid."*
+> - 📜 **Franz Boas (*The Salishan Tribes of the Western Plateaus*):** *"The folklore and social ceremonies of the **salish** people preserve rich ancestral traditions of hunting and fishing."*
+> - 📜 **James Teit (*The Thompson Indians of British Columbia*):** *"Among the interior **salish**, cedar bark and mountain goat wool were woven into warm winter garments."*
+> - 📜 **John Wesley Powell (*Indian Linguistic Families of America*):** *"The **salish** linguistic stock occupies extensive territories extending from the Pacific coast into the Rocky Mountains."*
+

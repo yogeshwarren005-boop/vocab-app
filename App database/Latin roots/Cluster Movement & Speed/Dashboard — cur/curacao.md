@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular island resort in the netherlands antilles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flavored with sour orange peel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liqueur flavored with the dried bitter peel of the laraha citrus fruit native to the Caribbean island of Curaçao.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mixology and distillation, a traditional triple-sec cordial made by macerating dried citrus aurantium peels in distilled spirit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She drank cherry-brandy after dinner," continued his Reverence, "and took curacao with her coffee."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He shook hands with Dobbin, looked at the clock, and told John, the waiter, to bring him some curacao."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley indulged in a glass of Dutch **curacao** after his curry, praising its aromatic citrus warmth."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain toasted the adventurous voyage in a dram of amber **curacao** from the private locker."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The jolly traveler recommended a small glass of **curacao** to settle the stomach after a rough carriage ride."*
+

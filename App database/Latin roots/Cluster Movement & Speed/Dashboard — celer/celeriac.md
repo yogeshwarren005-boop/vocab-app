@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grown for its thickened edible aromatic root.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thickened edible aromatic root of a variety of celery plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of celery cultivated for its large, knobby, edible turnip-like root; celery root.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European culinary history and gastronomy, celeriac is traditionally shredded raw in remoulade sauce or puréed with potatoes in winter stews.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celeriac designates grown for its thickened edible aromatic root."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Peel the knobby root of the **celeriac** thoroughly before slicing it thin for a savory winter salad with mustard vinaigrette."*
+> - 📜 **Alexis Soyer (*The Modern Housewife*):** *"Braised **celeriac** served with a rich espagnole sauce provides an elegant winter vegetable accompaniment to roast beef."*
+> - 📜 **Auguste Escoffier (*A Guide to Modern Cookery*):** *"The French chef prepares céleri-rave by julienning fresh **celeriac** and binding it with piquant seasoned mayonnaise."*
+

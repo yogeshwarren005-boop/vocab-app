@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercising or showing good judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising or showing good judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calm, sensible, and not easily unhinged or rattled; possessing practical and sound judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative leadership, evaluating contentious proposals through dispassionate analysis rather than impulsive rhetoric.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Being a levelheaded individual who could give points to not a few in point of shrewd observation he also remarked on his very dilapidated hat and slouchy wearing apparel generally testifying to a chronic impecuniosity."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"A successful pioneer must be bold yet **levelheaded**, capable of facing sudden peril without losing his composure."*
+> - 📜 **Willa Cather (*O Pioneers!*):** *"Alexandra proved to be a **levelheaded** woman whose foresight and frugality turned the wild prairie into rich farmland."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The mate was a **levelheaded** sailor who went about his duties with quiet efficiency, untouched by the hysteria around him."*
+

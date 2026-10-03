@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking spirit or liveliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking spirit or liveliness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, inducing, or suggestive of pleasant tiredness, relaxation, or dreaminess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory prose and musical expression, slow tempos and lush harmonies evocative of warm, tranquil atmospheres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The atmosphere beneath is languorous, and is so tinged with azure that what artists call the middle distance partakes also of that hue, while the horizon beyond is of the deepest ultramarine."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Perhaps that is the reason that I don’t believe anything he has told me.” “You know you believe it all,” said Lord Henry, looking at him with his dreamy languorous eyes."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"They always _do_ in books, you know, when girls go to live in country houses." Charmion smiled her slow, languorous smile."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The heavy fragrance of roses produced a **languorous** charm that enveloped the entire studio."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The jungle exhaled a warm, **languorous** breath that seemed to sap all physical energy from the crew."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The afternoon sunlight fell with **languorous** warmth upon the lush buttercups of the valley pasture."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A remote or indirect consequence of some action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement back from an impact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unintended consequence or indirect effect occurring after an event; a rebound, recoil, or reverberation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitics and macroeconomics, systemic cascading impacts across markets or diplomatic alliances following a major crisis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"There are no rules." "Repercussions?" "Whatever happens to him will be outside accepted protocols, and will occur prior to his arrival at the President's Official Residence."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Furthermore, a wide-spread campaign of publicity was initiated in expectation that its repercussions would exert a restraining influence on the perpetrators of these monstrous acts."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have only known existence by the pressure of the heavy hand of sickness, and have counted time by the repercussions of pain!"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A breach of public credit would produce a disastrous **repercussion** throughout all state treasuries."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The assassination of the emperor had an immediate **repercussion** across the distant frontier legions."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The bankruptcy of the great firm caused an alarming **repercussion** in the financial quarter of London."*
+

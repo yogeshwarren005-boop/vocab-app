@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preventing something by anticipating and disposing of it effectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preventing something by anticipating and disposing of it effectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of obviating; prevention or removal of a difficulty or obstacle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical legal jurisprudence and formal logic, the procedural elimination of contradictory claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obviation designates the act of preventing something by anticipating and disposing of it effectively."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **obviation** of common fallacies requires a disciplined understanding of inductive reasoning."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The statutory amendment was enacted for the **obviation** of doubts concerning testamentary inheritances."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"True statesmanship lies in the timely **obviation** of grievances before they produce open rebellion."*
+

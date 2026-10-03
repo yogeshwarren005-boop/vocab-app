@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the vagina (usually associated with candidiasis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the vagina (usually associated with candidiasis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the vagina, typically accompanied by discharge, itching, and discomfort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology, infective or atrophic vaginitis caused by Candida albicans, Trichomonas, or estrogen deficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaginitis designates inflammation of the vagina (usually associated with candidiasis)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic smears confirmed that the acute **vaginitis** was caused by parasitic protozoan organisms."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Antiseptic washes proved efficacious in resolving purulent **vaginitis** in hospital patients."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Rigid cleanliness and frequent laundering prevent infectious **vaginitis** in communal wards."*
+

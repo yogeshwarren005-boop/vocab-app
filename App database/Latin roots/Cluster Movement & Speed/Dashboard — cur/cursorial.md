@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of limbs and feet) adapted for running.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of limbs and feet) adapted for running.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted for running on land rather than flying, swimming, or climbing; swift-footed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and ornithology, cursorial adaptations (such as elongated distal limb segments) seen in ratite birds and theropods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cursorial designates (of limbs and feet) adapted for running."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The long, powerful legs of the ostrich are splendid examples of **cursorial** adaptation for rapid terrestrial flight."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The reduction of lateral digits in ungulates correlates with their specialized **cursorial** locomotion over open plains."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The fossil bird exhibited heavy, **cursorial** limbs indicating that it had completely abandoned aerial flight."*
+

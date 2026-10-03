@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not provided with curtains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not provided with curtains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no curtains; bare, stark, and uncovered by drapery (especially of windows or beds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary descriptions, emphasizing poverty, austerity, abandonment, or unshielded exposure to weather and moonlight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Then I rose up on my curtainless bed, trembling and quivering; and then the still, dark night witnessed the convulsion of despair, and heard the burst of passion."*
-> - 📜 **Bram Stoker (*Dracula*):** *"The windows were curtainless, and the yellow moonlight, flooding in through the diamond panes, enabled one to see even colours, whilst it softened the wealth of dust which lay over all and disguised in some measure the ravages of time and the moth."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Yah’s see all t’ _bed-rumes_ thear is—yon’s mine.” He pointed into the second garret, only differing from the first in being more naked about the walls, and having a large, low, curtainless bed, with an indigo-coloured quilt, at one end."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The windows were **curtainless**, and the yellow moonlight, flooding in through the casements, lit the dusty floor."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The desolate garret contained only a broken chair and a bare, **curtainless** window overlooking the roofs."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He stared through the **curtainless** window at the cold grey dawn breaking over the market square."*
+

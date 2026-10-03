@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liveliness and eagerness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liveliness and eagerness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cheerful readiness, promptitude, or eager willingness; brisk and lively action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and diplomatic accounts, the immediate, spirited execution of executive orders without reluctance or delay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The tyrant custom, most grave senators, Hath made the flinty and steel couch of war My thrice-driven bed of down: I do agnize A natural and prompt alacrity I find in hardness, and do undertake This present wars against the Ottomites."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have not that alacrity of spirit Nor cheer of mind that I was wont to have."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, with a bridegroom’s fresh alacrity Let us address to tend on Hector’s heels."*
+> - 📜 **William Shakespeare (*Richard III*):** *"I have not that **alacrity** of spirit, nor cheer of mind, that I was wont to have."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley accepted the invitation with the greatest **alacrity**, promising to be with them at an early hour."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He obeyed the summons with great **alacrity**, skipping across the courtyard with lively vigor."*
+

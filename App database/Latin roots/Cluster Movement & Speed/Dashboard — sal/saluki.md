@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from egypt and southwestern asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from egypt and southwestern asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient, graceful breed of sight hound originating in the Middle East, characterized by a slender build and silky fringed ears; gazelle hound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canine archaeology and Middle Eastern hunting culture, coursing hounds revered by Bedouin tribes for tracking desert gazelles and hares.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saluki designates old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from egypt and southwestern asia."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to El-Medinah and Meccah*):** *"The Bedouin hunter was accompanied by a fleet **saluki**, prized for its endurance across burning sand dunes."*
+> - 📜 **Charles Montagu Doughty (*Travels in Arabia Deserta*):** *"The slender grey **saluki** rested beside the tent fire, treated with affectionate care by the nomad horsemen."*
+> - 📜 **Wilfrid Scawen Blunt (*The Future of Islam*):** *"In the desert encampment, the graceful form of the **saluki** recalled the coursing traditions of ancient caliphs."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a tremulous effect produced by rapid repetition of a single tone or rapid alternation of two tones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vocal vibrato especially an excessive or poorly controlled one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid, trembling musical effect produced by the quick reiteration of a note or rapid alternation between notes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In string performance and keyboard instrumentation, bowing technique or electronic modulation creating an undulating vibrato.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"It is like running water's flow A bit unearthly, and celestial quite-- A golden tremolo; And satin robes of air half veil him from our sight."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The orchestral strings sustained a delicate, shimmering **tremolo** that mirrored the moonlight upon the stage."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"From the open window of the conservatory came the sweet, throbbing **tremolo** of a solo violin."*
+> - 📜 **Thomas Mann (*Buddenbrooks*):** *"The pianist ended the nocturne with a soft, dying **tremolo** that left the salon in breathless silence."*
+

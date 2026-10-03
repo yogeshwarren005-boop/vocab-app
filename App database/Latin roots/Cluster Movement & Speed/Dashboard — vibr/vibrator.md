@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device that vibrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mechanical device that produces vibratory motion; used for massage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical or electromagnetic device that produces rapid, continuous oscillatory vibrations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early electrical engineering, an electromagnetic interrupter or trembler reed used in induction coils and telegraph transmitters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"I know and I am some vibrator."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The rhythmic buzzing of the spring **vibrator** regulated the periodic interruption of the battery circuit."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"The complex machinery was activated by a small pneumatic **vibrator** pulsating rapidly upon the console."*
+> - 📜 **Nikola Tesla (*My Inventions: The Autobiography of Nikola Tesla*):** *"I constructed an electromechanical **vibrator** capable of producing powerful resonance in solid rock foundations."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that happens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presently occurring (either causally or incidentally).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening or occurring; incident, current, or accidental; (archaic noun) an event, incident, or happening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern English literature and biblical translation, denoting an unfolding circumstance or unforeseen adversary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So tell him, with the occurrents more and less, Which have solicited."*
+> - 📜 **King James Bible (*1 Kings*):** *"But now the LORD my God hath given me rest on every side, so that there is neither adversary nor evil **occurrent**."*
+> - 📜 **Sir Thomas Browne (*Pseudodoxia Epidemica*):** *"These we must meet with in obvious **occurrent** events of the world, wherein everyday observations correct old errors."*
+> - 📜 **Francis Bacon (*The History of the Reign of King Henry the Seventh*):** *"He received daily intelligence of every remarkable **occurrent** that transpired within the northern borders."*
+

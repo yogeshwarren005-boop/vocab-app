@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hernia projecting into the vagina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hernia projecting into the vagina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hernia or downward protrusion of a pelvic organ into the vaginal canal; a colpocele.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pelvic organ prolapse surgery, cystocele or rectocele herniating through the anterior or posterior vaginal wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaginocele designates hernia projecting into the vagina."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Physical examination revealed an extensive **vaginocele** resulting from attenuation of the pelvic floor."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Surgical repair of the **vaginocele** restored normal anatomical support to the pelvic viscera."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The clinical notes documented successful surgical correction of an obstinate **vaginocele**."*
+

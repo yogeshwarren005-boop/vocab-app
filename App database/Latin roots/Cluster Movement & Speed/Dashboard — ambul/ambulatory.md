@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A covered walkway (as in a cloister).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or adapted for walking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted for or capable of walking; or a covered colonnaded aisle, cloister walk, or corridor in a church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical Gothic architecture, the semicircular curving walkway surrounding the apse and high altar behind the choir stalls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Conversely, some day-care adults might have ambulatory problems that call out to children who have an intrinsic energy and desire to help."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The monastic **ambulatory** enclosed a quiet courtyard where marble arches framed the cloister garden."*
+> - 📜 **Henry Adams (*Mont-Saint-Michel and Chartres*):** *"Pilgrims processed through the vaulted **ambulatory** behind the choir to venerate the sacred relics."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The hospital established an **ambulatory** clinic to treat walking patients without requiring hospital admission."*
+

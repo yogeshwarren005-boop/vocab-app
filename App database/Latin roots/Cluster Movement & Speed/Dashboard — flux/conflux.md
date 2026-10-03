@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowing together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flowing together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowing together of two or more streams; a convergence or gathering of people or things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban history and geography, the commercial gathering of diverse mercantile populations at river junctions or maritime ports.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"There was a conflux of emotions and thoughts in him that would not let him either give thorough way to his anger or persevere with simple rigidity of resolve."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"As knotty oaks, into whose entrails the **conflux** of meeting sap gives nourishment."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A dense **conflux** of armed citizens gathered in the broad avenue leading toward the Bastille."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The seasonal **conflux** of foreign pilgrims enriched the merchants and temples of the capital."*
+

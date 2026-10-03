@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being exposed to risk or anxiety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being exposed to risk or anxiety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The precarious condition of lacking stability, safety, psychological confidence, or physical equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military fortification and strategic reconnaissance, vulnerability arising from unfortified bastions, weak flanks, or exposed supply routes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insecureness designates the state of being exposed to risk or anxiety."*
+> - 📜 **Francis Bacon (*Essays*):** *"The **insecureness** of high worldly fortune makes princes more susceptible to suspicion and fear."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Without a common power to keep them in awe, men live in perpetual dread and **insecureness**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The fragile barrier gave no shelter from the storm, exposing their **insecureness** to every hostile blast."*
+

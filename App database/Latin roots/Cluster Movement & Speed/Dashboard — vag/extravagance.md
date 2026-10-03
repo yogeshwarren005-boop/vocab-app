@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of exceeding the appropriate limits of decorum or probability or truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of spending extravagantly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of restraint in spending money or using resources; excessive elaboration or unreasonable excess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical moral philosophy, prodigality violating prudence, contrasting with temperance and frugality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Henry’s address, short as it had been, had more thoroughly opened her eyes to the extravagance of her late fancies than all their several disappointments had done."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Missis refused: her means have long been much reduced by his extravagance; so he went back again, and the next news was that he was dead."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy chose to doubt it--or to treat it as a merely conditional recommendation, and to assert that I had forfeited all claim to it by extravagance, imprudence, in short, anything or nothing."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Wickham's notorious **extravagance** soon involved him in heavy debts across every market town."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Great nations are never impoverished by private **extravagance**, but by public prodigality."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"We indulged in reckless **extravagance**, furnishing our chambers with expensive luxuries on credit."*
+

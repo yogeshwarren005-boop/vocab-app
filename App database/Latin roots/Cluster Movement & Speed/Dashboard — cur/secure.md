@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get by special effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be firmly attached.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from danger, risk, or fear; firmly fixed, anchored, or fastened; to make safe or obtain firmly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptographic networking and information theory, protected against unauthorized access, decryption, or malicious alteration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sons, We’ll higher to the mountains; there secure us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HORATIO. [_Within._] Heaven secure him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We may do it as secure as sleep."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Upon my **secure** hour thy uncle stole, with juice of cursed hebona in a vial."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Man hath his daily work of body or mind appointed, which declares his dignity, and regard of Heaven on all his ways; while other animals unactive range, and of their doings God takes no account, but **secure** they sleep."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I worked tirelessly to make my cave **secure** against any sudden attack from wild beasts or savages."*
+

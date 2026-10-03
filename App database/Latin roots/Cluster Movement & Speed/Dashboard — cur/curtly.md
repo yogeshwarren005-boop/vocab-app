@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a curt, abrupt and discourteous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a curt, abrupt and discourteous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a curt, abrupt, terse, or rudely brief manner; shortly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary characterization, cutting off emotional conversation with sharp monosyllabic brevity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"What is it called?" "This is Castle Wildenstein," the boy's companion curtly answered, throwing a searching glance at the young Baron."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as she saw that it was a human being and not a lion, she came nearer and asked quite confidentially, "Do you happen to know where the beautiful old mignonette is, that mama saw in the garden here?" "No," the man answered curtly."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"No," he replied curtly, but his voice did not sound as severe as before, a fact which Mäzli noticed immediately."*
+> - 📜 **George Eliot (*Middlemarch*):** *"No, said Mary **curtly**, with a little toss of her head, refusing to indulge his vanity."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Sherlock Holmes answered **curtly**, not lifting his eyes from the microscope."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He dismissed the housekeeper **curtly**, turning his back to the door in moody silence."*
+

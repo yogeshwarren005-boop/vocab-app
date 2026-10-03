@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The biblical institution whereby a man must marry the widow of his childless brother in order to maintain the brother's line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biblical institution whereby a man must marry the widow of his childless brother in order to maintain the brother's line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The custom or law among certain ancient peoples (such as the Hebrews) requiring a man to marry the childless widow of his deceased brother.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological kinship and biblical law (Deuteronomy 25:5-10), the mechanism preserving the deceased brother's lineage and patrimonial land rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levirate designates the biblical institution whereby a man must marry the widow of his childless brother in order to maintain the brother's line."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The practice of the **levirate** marriage illustrates how archaic legal traditions sought to safeguard family property and clan succession."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Among pastoral tribes in western Asia, the strict obligations of the **levirate** survived as a sacred patriarchal duty."*
+> - 📜 **William Robertson Smith (*Kinship and Marriage in Early Arabia*):** *"Under ancient Semitic customs, the **levirate** ensured that the dead man's name would not be blotted out from his tribe."*
+

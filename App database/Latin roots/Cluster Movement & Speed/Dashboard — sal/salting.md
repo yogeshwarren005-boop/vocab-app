@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of adding salt to food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add salt to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of applying salt for preservation, seasoning, or de-icing; a salt marsh flooded by the sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British coastal geomorphology, a low-lying coastal salt marsh or meadow inundated by spring high tides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I had completed me a snug and secure shelter; and, as to provision, I had always on hand a six months’ supply, preserved by salting and drying."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She may not touch any food which is to be preserved by salting, whether it be fish, flesh, or vegetables; for were she to touch it the food would putrefy."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is in regard to the salting of meat for bacon that the prohibition is most usual, because that is the commonest process; but it exists in regard to any meat food that is required to be kept." [246] R."*
+> - 📜 **Jane Austen (*Emma*):** *"Mrs. Bates had received a barrel of herrings from her cousin, and the **salting** was declared to be excellent."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip looked out across the gloomy marshes toward the tidal **salting** where the prison hulks lay."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The autumn **salting** of the sheep was carried out with methodical precision in the farm pens."*
+

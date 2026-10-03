@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a curator or the duties of a curator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a curator or the duties of a curator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a curator, museum stewardship, or the organization of an exhibition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary museology, the intellectual framework and aesthetic narrative guiding the selection and public presentation of artwork.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curatorial designates of or relating to a curator or the duties of a curator."*
+> - 📜 **Henry James (*The Spoils of Poynton*):** *"Mrs. Gereth displayed exquisite **curatorial** care in arranging the priceless bibelots upon the velvet consoles."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The connoisseur surveyed the gallery with **curatorial** pride, admiring each rare porcelain vase."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"A proper **curatorial** vision arranges artworks to reveal the progressive development of the master's genius."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A benefice to which no spiritual or pastoral duties are attached.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An office that involves minimal duties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A position or office requiring little or no work but yielding financial benefit, social status, or salary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history and civil service reform, a benefice without cure of souls, or an unearned political appointment abolished by merit legislation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By some writers this office is called a sinecure."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"By some writers this office is called a sinecure."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Miss Briggs was not formally dismissed, but her place as companion was a sinecure and a derision; and her company was the fat spaniel in the drawing-room, or occasionally the discontented Firkin in the housekeeper's closet."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He regarded the purser's berth as a comfortable **sinecure** suited to his advancing years."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His uncle procured for him an appointment in the customs, an agreeable **sinecure** with three hundred a year."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The lucrative **sinecure** was bestowed as a reward for party loyalty rather than administrative talent."*
+

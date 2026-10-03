@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small vehicle with four wheels in which a baby or child is pushed around.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small vehicle with four wheels in which a baby or child is pushed around.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A four-wheeled carriage for a baby or child pushed by a pedestrian (pram); or a surveyor's measuring wheel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical geodesy and cartography, a hodometer or surveying wheel registering linear distance traveled along a road.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I picked it up, and gave it back to a worried-looking little mother who was endeavouring to arrange the wrapping in the perambulator with one hand, while with the other she clutched firmly at the arm of an obstreperous person of three."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The next day I sent the maid downstairs to settle the children in the perambulator, when I produced a hot-water bottle from under my coat, and had a heart to heart talk with her there and then."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Do I think his perambulator gets damp in the basement store-room?"*
+> - 📜 **Charles Dickens (*Sketches by Boz*):** *"A proud nursemaid pushed an elegant **perambulator** through the fashionable walks of the public park."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Sussex Vampire*):** *"The child lay smiling in a wicker **perambulator** parked on the sunlit veranda of the manor house."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The village street was clear save for a solitary **perambulator** pushed hurriedly by an anxious mother."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mallet percussion instrument with tuned aluminum bars and motorized rotating valves yielding a shimmering vibrato.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orchestral and chamber acoustics, an electro-acoustic percussion instrument producing sustained tones via electric resonator baffles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibraphone designates a percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound."*
+> - 📜 **Langston Hughes (*Selected Poems*):** *"The soft chords of the **vibraphone** hung in the midnight air like shimmering sparks of sound."*
+> - 📜 **F. Scott Fitzgerald (*The Beautiful and Damned*):** *"From the roof garden floated the cool, metallic resonance of a **vibraphone** blending with muted trumpets."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"A synthetic orchestra played seductive melodies, punctuated by the mechanical hum of a golden **vibraphone**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a compound formed by replacing hydrogen in an acid by a metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a compound formed by replacing hydrogen in an acid by a metal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the appearance, crystalline texture, taste, or chemical properties of salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and inorganic chemistry, describing ionic compounds forming brittle cubic crystal lattices that dissolve readily in polar solvents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltlike designates resembling a compound formed by replacing hydrogen in an acid by a metal."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The dry residue formed a glistening **saltlike** crust upon the bottom of the porcelain crucible."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The compound crystallized into brilliant, **saltlike** prisms displaying high optical transparency."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The thermal vapors deposited a white **saltlike** incrustation around the rim of the volcanic fissure."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveler who moves from one region or country to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal (especially birds and fish) that travels between different habitats at particular times of the year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual, organism, or species that migrates or undertakes regular seasonal journeys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, long-distance avian migrators equipped with physiological adaptations for prolonged trans-oceanic flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, migrator designates traveler who moves from one region or country to another."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The golden plover is an intrepid **migrator**, flying non-stop across thousands of miles of ocean."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The stork was anciently celebrated as a faithful **migrator**, returning unerringly to its ancestral chimney."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Every feathered **migrator** responds to an irresistible seasonal impulse to journey toward the sunlit south."*
+

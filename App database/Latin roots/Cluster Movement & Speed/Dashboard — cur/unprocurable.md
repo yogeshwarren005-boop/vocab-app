@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being obtained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being obtained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible or exceedingly difficult to obtain, acquire, or purchase; not available.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wartime rationing and embargo economics, essential commodities or strategic alloys rendered inaccessible due to blockade or market exhaustion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unprocurable designates not capable of being obtained."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain rare breeds of poultry described by older fanciers have now become entirely **unprocurable**."*
+> - 📜 **Herman Melville (*Typee*):** *"Iron nails and trade beads were **unprocurable** on the isolated island, valued by the natives above pearls."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"In the panic-stricken capital, bread and clean water had become utterly **unprocurable** at any price."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Just preceding something else in time or order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used especially of persons) of the immediate past.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing or occurring before in time or order; earlier or prior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary procedure, the 'previous question' motion moved to end debate and force an immediate vote.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had received orders to remind the children of the strict command, and she knew quite well from previous experiences that she could never have succeeded as effectively as he."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady Dedlock has returned to her house in town for a few days previous to her departure for Paris, where her ladyship intends to stay some weeks, after which her movements are uncertain."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But she had made a previous stoppage on the second floor and had silently pointed at a dark door there."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her **previous** impressions of Mr. Darcy were completely overturned by his gentlemanlike letter."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The **previous** night had been spent in sleepless agitation within the dark prison chamber."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A **previous** treaty between the confederates had failed to secure the necessary public revenues."*
+

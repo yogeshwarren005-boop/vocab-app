@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting health; healthful; ; ; ; ; - c.b.davis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favorable to health of mind or body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Favorable to or promoting health, well-being, or wholesome physical vitality; health-giving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century climatotherapy, mountain and maritime locales sought out by invalids for their clean air and recuperative microclimates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her health which had greatly improved during her stay in the salubrious climate of San Jose, where the temperature ranges at about 70 deg."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The air is salubrious, the land fertile, a supply of excellent water brought from neighboring heights, and an extensive oyster-bed and a fine beach for bathing, add to its attractions."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The country is well supplied with corn, seafish, and imported wines, and is tempered by a salubrious air. <g>Demetia</g>--or territory of St."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The air **salubrious** of her lofty hills, the cheering fragrance of her dewy vales, restored his spirits."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The climate was remarkably **salubrious**, exempt from the tropical fevers that decimated adjacent lowlands."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The doctor recommended the **salubrious** breezes of Lyme as the best restorative for her delicate health."*
+

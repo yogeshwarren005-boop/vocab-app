@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove salt from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove salt from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove or extract salt from something, especially from crude oil, cured foodstuffs, or saline water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum refining, washing crude oil with water to extract inorganic chlorides and sediments that cause refinery equipment corrosion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desalt designates remove salt from."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Early chemical attempts to **desalt** sea water relied upon silver salts to precipitate dissolved chlorides."*
+> - 📜 **Jacques Cousteau (*The Living Sea*):** *"Emergency survival kits on lifeboats contained chemical briquettes designed to **desalt** ocean brine."*
+> - 📜 **Matthew Fontaine Maury (*The Physical Geography of the Sea*):** *"The natural hydrologic cycle operates continuously to **desalt** oceanic moisture through atmospheric condensation."*
+

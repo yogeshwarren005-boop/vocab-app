@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of collapsing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of collapsing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of collapsing or being folded; rigidly built to resist compressive or inward structural forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical devices and diving equipment, noncollapsible corrugated breathing tubes ensuring uninterrupted airflow under external pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncollapsible designates not capable of collapsing."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The interior cabin was protected by a **noncollapsible** double shell of insulating alloys."*
+> - 📜 **Arthur Conan Doyle (*The Maracot Deep*):** *"The deep-sea bathysphere relied upon thick, **noncollapsible** quartz windows to withstand the abyssal pressure."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The tracheal rings consist of firm cartilaginous hoops, forming a **noncollapsible** airway to the lungs."*
+

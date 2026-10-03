@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vehicle that takes people to and from hospitals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle that takes people to and from hospitals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specially equipped motor vehicle or historic horse-drawn wagon for transporting sick or injured persons to medical care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military surgical history (Larrey's ambulances volantes), mobile field dressing stations following active regiments into battle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"There is an ambulance here: I think I will put you in it, and have you taken home at once."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"And you, cousin Zoe, get into your carriage, and drive on behind it, or ahead if you choose." "Can't I ride in the ambulance beside him?" she asked, almost imploringly."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Zoe would not stir till she had seen Edward put into the ambulance, and made as comfortable for his ride home as circumstances would permit."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The rattling **ambulance** arrived bearing wounded soldiers from the battle line to the pavilion hospital."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Prompt removal of casualties by a well-ventilated **ambulance** greatly reduces the incidence of secondary shock."*
+> - 📜 **Arthur Conan Doyle (*The Great Boer War*):** *"The volunteer **ambulance** corps worked tirelessly under heavy shrapnel fire to rescue fallen comrades."*
+

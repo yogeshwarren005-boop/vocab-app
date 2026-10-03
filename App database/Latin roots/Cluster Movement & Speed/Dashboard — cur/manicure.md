@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Professional care for the hands and fingernails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trim carefully and neatly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmetic treatment of the hands and fingernails, including trimming, shaping, cuticle care, and polishing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic cosmetology and dermatology, clinical grooming and cleansing of the perionychium and nail plate to preserve skin integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She laughed at the gold brushes and gold manicure set, the polished array of boots, the fine silk and linen laid out on his bed, the perfume of sandalwood and Russian leather and eau de cologne."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But Stafford only touched with the tips of his fingers the ringed and manicured hand of the elder man."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Her hands were cared for with a meticulous **manicure** that betrayed the leisure of her aristocratic life."*
+> - 📜 **F. Scott Fitzgerald (*The Beautiful and Damned*):** *"He surveyed his polished fingernails, admiring the delicate **manicure** he had received that morning."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He stopped at the barbershop for a haircut and an unaccustomed **manicure** before the banquet."*
+

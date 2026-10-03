@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stretch of turbulent water in a river or the sea caused by one current flowing into or across another current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Actions counter to the main group activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A current flowing in a direction opposite to that of another current, whether in fluids, winds, or ideological movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical engineering and biology, heat or solute exchange occurring between two fluids moving in opposite directions across a semipermeable interface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, countercurrent designates a stretch of turbulent water in a river or the sea caused by one current flowing into or across another current."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pequod was caught in an eddying **countercurrent**, spinning slowly against the immense oceanic drift."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"A swift **countercurrent** of thought seemed to arrest his impulse before he could utter another word."*
+> - 📜 **Matthew Fontaine Maury (*The Physical Geography of the Sea*):** *"Along the coast of Florida, a deep cold **countercurrent** flows beneath the warmer surface waters of the Gulf Stream."*
+

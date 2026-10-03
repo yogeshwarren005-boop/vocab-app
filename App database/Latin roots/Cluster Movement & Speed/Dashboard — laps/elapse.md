@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass by.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass by.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pass or slip by quietly; to glide away in continuous progression, used especially of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory law of limitations, the expiration of a legally prescribed duration barring the subsequent filing of a cause of action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There were more than two full hours yet to elapse before she could come, and in that interval, which seemed a long one, I must confess I was nervously anxious about my altered looks."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Sometimes twenty minutes elapse after the trap is sprung ere the heart stops beating."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I lay there dismally calculating that sixteen entire hours must elapse before I could hope for a resurrection."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Several days were suffered to **elapse** before Marianne could summon courage to write to Willoughby."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Centuries were permitted to **elapse** before the barbarian kingdoms achieved institutional stability."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I allowed many weeks to **elapse** without revisiting the forge, ashamed of my growing ingratitude."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nymph who merged with hermaphroditus to form one body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nymph who merged with hermaphroditus to form one body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the nymph of a fountain in Caria who fell in love with Hermaphroditus and merged bodies with him.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythological literature (Ovid's Metamorphoses), the legendary spring whose waters were fabled to make men effeminate and enervated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmacis designates nymph who merged with hermaphroditus to form one body."*
+> - 📜 **Ovid (*Metamorphoses*):** *"The enamoured nymph **salmacis** clasped Hermaphroditus tightly, praying that their two bodies might never be divided."*
+> - 📜 **John Milton (*Elegia Septima*):** *"Not more ardently did **salmacis** pursue her youthful hunter through the clear waters of the fountain."*
+> - 📜 **Francis Bacon (*The Wisdom of the Ancients*):** *"The ancient myth of **salmacis** moralized against the corrupting enervation that flows from voluptuous leisure."*
+

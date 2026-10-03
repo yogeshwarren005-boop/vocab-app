@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (east indian cookery) a pungent dish of vegetables or meats flavored with curry powder and usually eaten with rice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Season with a mixture of spices; typical of indian cooking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To groom or rub down the coat of a horse; to dress tanned leather; or to cook food with a pungent blend of spices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In idiomatic phraseology (curry favour, from Middle English curry Favel, the chestnut horse of deceit), to seek ingratiating advantage through flattery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I had a suit to Master Shallow, I would humour his men with the imputation of being near their master: if to his men, I would curry with Master Shallow that no man could better command his servants."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This Cecil Winwood, in order to curry favour with the Captain of the Yard, and thence the Warden, the Prison Directors, the Board of Pardons, and the Governor of California, framed up a prison-break."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All I could conclude was that some stool had lied an infraction of the rules on me in order to curry favour with the guards."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"If I had a suit to Master Shallow, I would **curry** with Master Shallow that no man could better command his servants."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The groom was directed to **curry** and brush the noble steeds each morning with the utmost diligence."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley boasted loudly of the fiery Bengal **curry** he had eaten at the Collector's table."*
+

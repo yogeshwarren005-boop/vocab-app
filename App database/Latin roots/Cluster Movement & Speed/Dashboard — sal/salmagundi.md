@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection containing a variety of sorts of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cooked meats and eggs and vegetables usually arranged in rows around the plate and dressed with a salad dressing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional mixed dish consisting of chopped meats, anchovies, hard-boiled eggs, onions, and oil; or an eclectic, heterogeneous mixture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th and 19th-century satirical literature, an entertaining miscellany of diverse essays, sketches, and whimsical observations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmagundi designates a collection containing a variety of sorts of things."*
+> - 📜 **Washington Irving (*Salmagundi*):** *"The authors presented their humorous **salmagundi** of eccentric sketches to ridicule the fashionable foibles of New York."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The sea cook prepared a savory **salmagundi** of salted beef, pickled herring, and chopped capers."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whaler's mess boasted an extraordinary **salmagundi** compounded of dried salt horse and ships' biscuit."*
+

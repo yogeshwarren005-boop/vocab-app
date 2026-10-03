@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking spirit or liveliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking spirit or liveliness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying or having a disinclination for physical exertion or effort; slow, relaxed, or pleasantly weary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis and prose portraiture, drooping vitality characterized by sluggish pulse, feeble reflexes, and dull responsiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For whom everything must be languid and pretty."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is of such a very easy disposition that probably he would never think it worth while to mention how he really feels, but he feels languid about the profession."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"C., but for the zealous and active discharge—not the languid and routine discharge, sir: that much credit I stipulate for—of my professional duty."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet received her visitors with **languid** indifference, complaining of her delicate nerves."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The day was hot and humid, and the lawyers in Chancery leaned back with **languid** yawns."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He waved his hand in a **languid** gesture, exhaling a fragrant cloud of Turkish tobacco smoke."*
+

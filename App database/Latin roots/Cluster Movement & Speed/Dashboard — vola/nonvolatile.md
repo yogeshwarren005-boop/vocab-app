@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not volatilizing readily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not volatilizing readily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not evaporating readily at normal room temperatures and pressures; stable, persistent, or permanent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer architecture and chemistry, nonvolatile memory (such as ROM or flash) that retains data without continuous electrical power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonvolatile designates not volatilizing readily."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Evaporation of the solvent leaves behind the **nonvolatile** mineral residue crystallized upon the porcelain dish."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Fixed salts remain **nonvolatile** even when subjected to the intense heat of the reverberatory furnace."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Dense, **nonvolatile** solids require enormous thermal energy before their atomic cohesion is overcome."*
+

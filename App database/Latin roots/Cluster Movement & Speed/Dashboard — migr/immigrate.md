@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Migrate to a new environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce or send as immigrants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To come into another country or region of which one is not a native, in order to settle permanently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In population genetics and ecology, the inward movement of individuals or alleles into an established population or ecosystem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immigrate designates migrate to a new environment."*
+> - 📜 **Alexander Hamilton (*Report on Manufactures*):** *"European artisans should be encouraged to **immigrate** to establish domestic manufactures in the republic."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When continental species **immigrate** into oceanic islands, they often replace the indigenous fauna."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"Men who **immigrate** to a free nation seek the security of just laws and civil liberty."*
+

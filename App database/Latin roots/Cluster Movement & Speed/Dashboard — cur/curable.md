@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curing or healing is possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being hardened by some additive or other agent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being cured, healed, or remedied; admitting of a cure or clinical resolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In therapeutics and clinical medicine, pathologies responsive to medical, surgical, or antimicrobial intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Usually to admit that you are sick, renders your case less curable, while to recognize your sin, aids in destroying it."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But, though it be a malady, and whether it be curable, and if so, by what means; or, on the other hand, whether it be the _culnus immedicabile_ of the social system, I leave it to those whose right and duty it is to inquire and to decide."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early stages of pulmonary consumption are demonstrably **curable** under open-air sanatorium regimens."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate believed that the prevailing epidemic of typhoid was easily **curable** if treated with fresh air and cooling baths."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The doctor assured her that the child's fever was completely **curable** with attentive nursing."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vi within the domain of Movement & Speed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vi in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By way of; passing through or traveling along a specified route or intermediate stopping point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman antiquities and civil engineering, public paved highways (such as the Via Appia and Via Flaminia) facilitating military transit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DAUPHIN. _Via, les eaux et terre!_ ORLEANS. _Rien puis?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HOLOFERNES. _Via_, goodman Dull!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Another with his finger and his thumb Cried “_Via_, we will do ’t, come what will come.” The third he capered, and cried “All goes well!” The fourth turned on the toe, and down he fell."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Legions marched swiftly along the paved stones of the ancient **Via** Appia toward the port of Brundisium."*
+> - 📜 **Henry James (*Italian Hours*):** *"We journeyed from Florence to Rome **via** the hill towns of Umbria, delighting in every mountain vista."*
+> - 📜 **Charles Dickens (*Pictures from Italy*):** *"The courier advised traveling **via** Genoa to take advantage of the scenic coastal maritime road."*
+

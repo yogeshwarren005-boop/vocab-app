@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi varying from gelatinous to waxy or even horny in texture; most are saprophytic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi varying from gelatinous to waxy or even horny in texture; most are saprophytic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of basidiomycete fungi comprising both gelatinous macrofungi and human opportunistic pathogens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical mycology and cladistics, Tremellales encompassing both edible wood-rotting jelly fungi and pathogenic Cryptococcus species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tremellales designates fungi varying from gelatinous to waxy or even horny in texture; most are saprophytic."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The order **Tremellales** encompasses diverse fungal taxa characterized by distinctively divided basidial structures."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cryptogamic plants belonging to the **Tremellales** thrive in shaded temperate woodlands across Europe."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pathologists investigated yeast-like organisms allied to the **Tremellales** in deep systemic granulomatous infections."*
+

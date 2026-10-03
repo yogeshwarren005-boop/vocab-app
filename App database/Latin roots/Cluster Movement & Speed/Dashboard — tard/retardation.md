@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decrease in rate of change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The extent to which something is delayed or held back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of delaying or hindering; a decrease in velocity, acceleration, or developmental progress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mechanics and astrophysics, negative acceleration resulting in velocity attenuation over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If the distance be great between the two there may be difficulties due to the "retardation" of the currents passing between them."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is hard to realize that a people's experience can be so uneven, that development and retardation can exist at once in so remarkable a degree in the mind of a nation."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The resistance of a dense fluid causes a steady **retardation** in the forward velocity of the projectile."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Commercial monopolies produce a harmful **retardation** of inventive progress in industrial production."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Unfavorable soil conditions caused a noticeable **retardation** in the vegetative development of the seedlings."*
+

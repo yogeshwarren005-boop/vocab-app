@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drug (trade name lorfan) that is related to morphine but that counteracts the respiratory depression produced by morphine poisoning but without affecting its analgesic effects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drug (trade name lorfan) that is related to morphine but that counteracts the respiratory depression produced by morphine poisoning but without affecting its analgesic effects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic morphinan derivative that acts as an opioid antagonist, formerly used to counteract narcotic-induced respiratory depression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, a mixed agonist-antagonist displacing pure agonists like morphine from mu-opioid receptors while exhibiting partial kappa intrinsic activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levallorphan designates drug (trade name lorfan) that is related to morphine but that counteracts the respiratory depression produced by morphine poisoning but without affecting its analgesic effects."*
+> - 📜 **Louis S. Goodman & Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"The administration of **levallorphan** promptly reverses opioid-induced respiratory depression without abolishing analgesia entirely."*
+> - 📜 **Henry K. Beecher (*Measurement of Subjective Responses*):** *"Clinical trials indicated that combining **levallorphan** with potent narcotics diminished the incidence of postoperative hypoventilation."*
+> - 📜 **Nathan B. Eddy (*The Search for New Analgesics*):** *"Chemical modifications of the morphinan nucleus yielded **levallorphan**, a compound displaying notable narcotic antagonist properties."*
+

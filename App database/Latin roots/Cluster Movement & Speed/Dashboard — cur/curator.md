@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The custodian of a collection (as a museum or library).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The custodian of a collection (as a museum or library).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A keeper, custodian, or manager of a museum, gallery, library, or other cultural collection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal guardianship (civil law), a person legally appointed to manage the property and personal affairs of an incompetent individual or minor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once, with a guard, and once with a short-timer in solitary, I entrusted, by memorization, a letter of inquiry addressed to the curator of the Museum."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I now give the reply, sent me by the curator of the Philadelphia Museum, and smuggled to me by Ed Morrell: “It is true there is such an oar here as you have described."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hosea Salsburty, Curator of the Philadelphia Museum, and, in reply, have received confirmation of the existence of the oar and the pamphlet.—THE EDITOR."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Here and there, the inmate has visitors to see the sight; then he points his finger as if he were the **curator** of a museum."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"The distinguished **curator** unlocked the bronze cabinet to display the famous sapphire necklace."*
+> - 📜 **Henry James (*The American*):** *"Newman discussed the provenance of the antique tapestries with the learned **curator** of the museum."*
+

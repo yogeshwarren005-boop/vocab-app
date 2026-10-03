@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who languishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who languishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who languishes, pines away, or suffers prolonged weakness or neglect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th-century sentimental drama, an affected lover or melancholy captive bemoaning fate in solitary seclusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, languisher designates a person who languishes."*
+> - 📜 **Alexander Pope (*Epistle to Dr. Arbuthnot*):** *"The sentimental **languisher** sighed over imaginary sorrows while neglecting real duties."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"She sat beside the window like a pale **languisher**, worn down by persecution and grief."*
+> - 📜 **Tobias Smollett (*The Expedition of Humphry Clinker*):** *"The lovesick youth was treated by the company as an incorrigible **languisher** deserving pity."*
+

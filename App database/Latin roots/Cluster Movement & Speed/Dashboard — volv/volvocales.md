@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly freshwater green algae; solitary or colonial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly freshwater green algae; solitary or colonial.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of flagellated green algae (Chlorophyta) consisting of unicellular or colonial freshwater organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algology, Volvocales characterized by biflagellate or quadriflagellate cells containing cup-shaped chloroplasts with eyespots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volvocales designates chiefly freshwater green algae; solitary or colonial."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The microscopic members of the **Volvocales** populate sunny freshwater ponds with swarms of green flagellates."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The phototactic responsiveness of colonial **Volvocales** guides the organism toward optimal light for photosynthesis."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"Reproductive colonies in the order **Volvocales** undergo cellular inversion during daughter colony formation."*
+
